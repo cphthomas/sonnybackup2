@@ -1,0 +1,3 @@
+"0","qq1 <- qqplot.data(rnorm(100))+ labs(title = ""Normalfordelte data\n100 observationer"",x=""teoretiske fraktiler"",y=""Stikprøve fraktiler"")"
+"2","Fejl i qqplot.data(rnorm(100)) : could not find function ""qqplot.data""
+"

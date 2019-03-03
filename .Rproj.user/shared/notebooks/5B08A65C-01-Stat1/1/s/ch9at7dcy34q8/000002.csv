@@ -1,0 +1,11 @@
+"0","options(scipen=999) #disable scientific"
+"0","frak <- c(0,.005,.025,.05,.1,.2,.25,.3,.4,.5,.6,.7,.75,.8,.9,.95,.975,.995,1)"
+"0","frak2 <- c(""0% Fraktilen"",""0.5% Fraktilen"",""2.5% Fraktilen"",""5% Fraktilen"",""10% Fraktilen"",""20% Fraktilen"",""25% Fraktilen"",""30% Fraktilen"",""40% Fraktilen"",""50% Fraktilen"",""60% Fraktilen"",""70% Fraktilen"",""75% Fraktilen"",""80% Fraktilen"",""90% Fraktilen"",""95% Fraktilen"",""97.5% Fraktilen"",""99.5% Fraktilen"",""100% Fraktilen"")"
+"0","df <- data.frame(round(quantile(DKdf[,1],frak),3))"
+"0","names(df)[1] <- ""Dagsafkast i procent"""
+"0","# names(df)[0] <- ""Fraktiler"""
+"0","#rownames(df) <- c()"
+"0","datatable(df,rownames = frak2,caption = ""Fraktiler for Dagligt afkast Tryg aktien"")"
+"2","Fejl i datatable(df, rownames = frak2, caption = ""Fraktiler for Dagligt afkast Tryg aktien"") : 
+  could not find function ""datatable""
+"

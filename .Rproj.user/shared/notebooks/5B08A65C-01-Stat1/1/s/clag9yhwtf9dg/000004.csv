@@ -1,0 +1,2 @@
+"0","x <- getSymbols(""TRYG.CO"", auto.assign = FALSE,from = ""2018-01-01"", to = Sys.Date(),getSymbols.warning4.0=FALSE)"
+"0","hchart(x)"

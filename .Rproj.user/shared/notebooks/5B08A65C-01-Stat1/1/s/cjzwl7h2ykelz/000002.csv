@@ -1,0 +1,5 @@
+"0","dblink <- drop_share(paste0(filnavn,"".xls""), requested_visibility = ""public"")
+"
+"2","Fejl i drop_share(paste0(filnavn, "".xls""), requested_visibility = ""public"") : 
+  Conflict (HTTP 409).
+"
