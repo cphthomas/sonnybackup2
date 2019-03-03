@@ -342,7 +342,8 @@ De almindelige domstole behandler civile sager og straffesager.
 
 Alle sager kan som udgangspunkt behandles ved 2 retsinstanser, f.eks. ved byret og landsret. Visse mindre sager kan dog normalt kun behandles ved én instans, byretterne, uden mulighed for appel til landsretten.
  
-Byretten
+### Byretten
+![](img/byretten.png)
 Danmark har 24 byretter. De er fordelt over hele landet. Byretten behandler som nævnt bl.a.:
 
 *	civile sager
@@ -358,6 +359,9 @@ I straffesager kan Højesteret ikke tage stilling til skyldsspørgsmålet.
 Særlige forvaltnings- eller forfatningsdomstole anvender man i mange andre EU-lande. Det gør man ikke i Danmark. Her er det de almindelige domstole – i praksis Højesteret – der undersøger, om de afgørelser, myndighederne træffer, er lovlige, eller om en lov er i strid med grundloven.
 
 ### Landsretterne
+
+![Østre Landsret i Bredgade 55, København K](img/landsret.png)
+
 I Danmark findes der 2 landsretter: Vestre Landsret i Viborg og Østre Landsret i København. Landsretten behandler primært appelsager fra byretten. 
 Hvis byretten f.eks. mener, at en sag er af principiel karakter, kan den også henvise sagen direkte til behandling i landsretten.
  
@@ -381,13 +385,15 @@ Den Særlige Klageret træffer afgørelser i disciplinære sager vedrørende dom
 Klageretten behandler derudover sager om genoptagelse af straffesager og udelukkelse af forsvarere fra straffesager.
 
 ### Byretterne
+
+![](img/byretafdelinger.png)
+
 Danmark er inddelt i 24 såkaldte byretskredse.
 Byretterne ledes af en byretspræsident.
 Byretterne behandler civile sager, straffesager, notarialforretninger og skiftesager.
 Alle sager begynder som udgangspunkt i byretten.
 Byretterne kan i en række tilfælde henvise en civil sag til behandling ved landsretten. Det gælder f.eks., hvis sagen er af principiel betydning, eller sagen kan få væsentlig betydning for andre end parterne.
  
-(Kildefigur; Trojka)
  
 
 #### Video hvordan fungerer byretten?
