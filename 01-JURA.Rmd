@@ -10,7 +10,7 @@ output:
 ```{r start,echo=FALSE,warning=FALSE,include=FALSE}
 #pacman autoload evt. manglende pakker
 if (!require("pacman")) install.packages("pacman")
-pacman::p_load(timeDate, DT,plotly,rio,exams,e1071,WriteXLS,maps,knitr,kableExtra,ggplot2,openxlsx,quantmod,highcharter,forecast,networkD3,DiagrammeR) #load various packages
+pacman::p_load(timeDate, DT,plotly,rio,exams,e1071,WriteXLS,maps,knitr,kableExtra,ggplot2,openxlsx,quantmod,highcharter,forecast,networkD3,DiagrammeR,visNetwork) #load various packages
 ```
 
 # Indledning 
@@ -387,6 +387,22 @@ Klageretten behandler derudover sager om genoptagelse af straffesager og udelukk
 ### Byretterne
 
 
+```{r network,echo=FALSE, result=TRUE}
+
+
+nodes <- data.frame(id = 1:6, 
+                    shape = c("box"), 
+                    label = c("Sager mod staten Sager mod staten","2","3","4","5","Sager mod staten"))
+edges <- data.frame(from = c(1,1,1), to = c(2,3,4))
+
+visNetwork(nodes, edges, width = "100%") %>% 
+  visNodes(color = list(background = "lightgrey", 
+                        border = "darkblue",
+                        highlight = "yellow"),
+           shadow = list(enabled = TRUE, size = 30))  %>%
+  visLayout(randomSeed = 12) # to have always the same network
+
+```
 
 
 
@@ -496,31 +512,7 @@ class A,B,C,D,E,F fedlilla;
 ")
 ```
 
-```{r  figurretter6,echo=FALSE, result=TRUE}
-mermaid("
-graph TD
 
-A[Byrettens afdelinger]
-B[Civilretten]
-C[Fogedretten]
-D[Skifteretten]
-E[Boligretten]
-F[Kriminalretten]
-
-
-A===B
-A===C
-A===D
-A===E
-A===F
-
-
-classDef fedrød fill:#ff1a1a,stroke:#333,stroke-width:4px;
-classDef fedlime fill:lime,stroke:#333,stroke-width:4px;
-classDef fedlilla fill:#f9f,stroke:#333,stroke-width:4px;
-class A,B,C,D,E,F fedlilla;
-")
-```
 
 Danmark er inddelt i 24 såkaldte byretskredse.
 Byretterne ledes af en byretspræsident.
@@ -582,7 +574,7 @@ Godsværneting: Stk. 3: Sager vedrørende formueretsforhold mod de i stk. 1 næv
 kable(text_tbl) %>%
   kable_styling(full_width = F) %>%
   column_spec(1, bold = T, border_right = T) %>%
-  column_spec(2, width = "30em", background = "grey",color ="white")
+  column_spec(2, width = "30em")
 ```
 
 

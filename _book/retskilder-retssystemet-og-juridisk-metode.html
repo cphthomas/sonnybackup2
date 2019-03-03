@@ -48,6 +48,9 @@
 
 
 <script src="libs/htmlwidgets-1.2/htmlwidgets.js"></script>
+<link href="libs/vis-4.20.1/vis.css" rel="stylesheet" />
+<script src="libs/vis-4.20.1/vis.min.js"></script>
+<script src="libs/visNetwork-binding-2.0.4/visNetwork.js"></script>
 <script src="libs/d3-3.3.8/d3.min.js"></script>
 <script src="libs/dagre-0.4.0/dagre-d3.min.js"></script>
 <link href="libs/mermaid-0.3.0/dist/mermaid.css" rel="stylesheet" />
@@ -585,16 +588,16 @@ Den Særlige Klageret træffer afgørelser i disciplinære sager vedrørende dom
 </div>
 <div id="byretterne" class="section level3">
 <h3><span class="header-section-number">2.7.8</span> Byretterne</h3>
-<div id="htmlwidget-e31405d60d01d2b97574" style="width:1152px;height:288px;" class="DiagrammeR html-widget"></div>
-<script type="application/json" data-for="htmlwidget-e31405d60d01d2b97574">{"x":{"diagram":"\ngraph TD\n\nA[Byrettens afdelinger]\nB[Civilretten]\nC[Fogedretten]\nD[Skifteretten]\nE[Boligretten]\nF[Kriminalretten]\n\n\nA===B\nA===C\nA===D\nA===E\nA===F\n\n\nclassDef fedrød fill:#ff1a1a,stroke:#333,stroke-width:4px;\nclassDef fedlime fill:lime,stroke:#333,stroke-width:4px;\nclassDef fedlilla fill:#f9f,stroke:#333,stroke-width:4px;\nclass A,B,C,D,E,F fedlilla;\n"},"evals":[],"jsHooks":[]}</script>
-<div id="htmlwidget-f97d604f19a66c830738" style="width:1152px;height:288px;" class="DiagrammeR html-widget"></div>
-<script type="application/json" data-for="htmlwidget-f97d604f19a66c830738">{"x":{"diagram":"\ngraph TD\n\nA[Byrettens afdelinger]\nB[Civilretten]\nC[Fogedretten]\nD[Skifteretten]\nE[Boligretten]\nF[Kriminalretten]\n\n\nA===B\nA===C\nA===D\nA===E\nA===F\n\n\nclassDef fedrød fill:#ff1a1a,stroke:#333,stroke-width:4px;\nclassDef fedlime fill:lime,stroke:#333,stroke-width:4px;\nclassDef fedlilla fill:#f9f,stroke:#333,stroke-width:4px;\nclass A,B,C,D,E,F fedlilla;\n"},"evals":[],"jsHooks":[]}</script>
-<div id="htmlwidget-047ad2cf5d42344b3184" style="width:672px;height:480px;" class="DiagrammeR html-widget"></div>
-<script type="application/json" data-for="htmlwidget-047ad2cf5d42344b3184">{"x":{"diagram":"\ngraph TD\n\nA[Byrettens afdelinger]\nB[Civilretten]\nC[Fogedretten]\nD[Skifteretten]\nE[Boligretten]\nF[Kriminalretten]\n\n\nA===B\nA===C\nA===D\nA===E\nA===F\n\n\nclassDef fedrød fill:#ff1a1a,stroke:#333,stroke-width:4px;\nclassDef fedlime fill:lime,stroke:#333,stroke-width:4px;\nclassDef fedlilla fill:#f9f,stroke:#333,stroke-width:4px;\nclass A,B,C,D,E,F fedlilla;\n"},"evals":[],"jsHooks":[]}</script>
-<div id="htmlwidget-e71f241ae6278291d05d" style="width:672px;height:480px;" class="DiagrammeR html-widget"></div>
-<script type="application/json" data-for="htmlwidget-e71f241ae6278291d05d">{"x":{"diagram":"\ngraph TD\n\nA[Byrettens afdelinger figurretter3,echo=FALSE, result=FALSE]\nB[Civilretten]\nC[Fogedretten]\nD[Skifteretten]\nE[Boligretten]\nF[Kriminalretten]\n\n\nA===B\nA===C\nA===D\nA===E\nA===F\n\n\nclassDef fedrød fill:#ff1a1a,stroke:#333,stroke-width:4px;\nclassDef fedlime fill:lime,stroke:#333,stroke-width:4px;\nclassDef fedlilla fill:#f9f,stroke:#333,stroke-width:4px;\nclass A,B,C,D,E,F fedlilla;\n"},"evals":[],"jsHooks":[]}</script>
-<div id="htmlwidget-294385a3da046d13274a" style="width:672px;height:480px;" class="DiagrammeR html-widget"></div>
-<script type="application/json" data-for="htmlwidget-294385a3da046d13274a">{"x":{"diagram":"\ngraph TD\n\nA[Byrettens afdelinger]\nB[Civilretten]\nC[Fogedretten]\nD[Skifteretten]\nE[Boligretten]\nF[Kriminalretten]\n\n\nA===B\nA===C\nA===D\nA===E\nA===F\n\n\nclassDef fedrød fill:#ff1a1a,stroke:#333,stroke-width:4px;\nclassDef fedlime fill:lime,stroke:#333,stroke-width:4px;\nclassDef fedlilla fill:#f9f,stroke:#333,stroke-width:4px;\nclass A,B,C,D,E,F fedlilla;\n"},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-e18088c2592b8cdf3fec" style="width:100%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-e18088c2592b8cdf3fec">{"x":{"nodes":{"id":[1,2,3,4,5,6],"shape":["box","box","box","box","box","box"],"label":["Sager mod staten Sager mod staten","2","3","4","5","Sager mod staten"]},"edges":{"from":[1,1,1],"to":[2,3,4]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"lightgrey","border":"darkblue","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"layout":{"randomSeed":12}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-3ef1daf0cce13445c241" style="width:1152px;height:288px;" class="DiagrammeR html-widget"></div>
+<script type="application/json" data-for="htmlwidget-3ef1daf0cce13445c241">{"x":{"diagram":"\ngraph TD\n\nA[Byrettens afdelinger]\nB[Civilretten]\nC[Fogedretten]\nD[Skifteretten]\nE[Boligretten]\nF[Kriminalretten]\n\n\nA===B\nA===C\nA===D\nA===E\nA===F\n\n\nclassDef fedrød fill:#ff1a1a,stroke:#333,stroke-width:4px;\nclassDef fedlime fill:lime,stroke:#333,stroke-width:4px;\nclassDef fedlilla fill:#f9f,stroke:#333,stroke-width:4px;\nclass A,B,C,D,E,F fedlilla;\n"},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-0df587d615f818945a24" style="width:1152px;height:288px;" class="DiagrammeR html-widget"></div>
+<script type="application/json" data-for="htmlwidget-0df587d615f818945a24">{"x":{"diagram":"\ngraph TD\n\nA[Byrettens afdelinger]\nB[Civilretten]\nC[Fogedretten]\nD[Skifteretten]\nE[Boligretten]\nF[Kriminalretten]\n\n\nA===B\nA===C\nA===D\nA===E\nA===F\n\n\nclassDef fedrød fill:#ff1a1a,stroke:#333,stroke-width:4px;\nclassDef fedlime fill:lime,stroke:#333,stroke-width:4px;\nclassDef fedlilla fill:#f9f,stroke:#333,stroke-width:4px;\nclass A,B,C,D,E,F fedlilla;\n"},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-5eedcfc350f86d3c26b4" style="width:672px;height:480px;" class="DiagrammeR html-widget"></div>
+<script type="application/json" data-for="htmlwidget-5eedcfc350f86d3c26b4">{"x":{"diagram":"\ngraph TD\n\nA[Byrettens afdelinger]\nB[Civilretten]\nC[Fogedretten]\nD[Skifteretten]\nE[Boligretten]\nF[Kriminalretten]\n\n\nA===B\nA===C\nA===D\nA===E\nA===F\n\n\nclassDef fedrød fill:#ff1a1a,stroke:#333,stroke-width:4px;\nclassDef fedlime fill:lime,stroke:#333,stroke-width:4px;\nclassDef fedlilla fill:#f9f,stroke:#333,stroke-width:4px;\nclass A,B,C,D,E,F fedlilla;\n"},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-638e2eb1e114f706981f" style="width:672px;height:480px;" class="DiagrammeR html-widget"></div>
+<script type="application/json" data-for="htmlwidget-638e2eb1e114f706981f">{"x":{"diagram":"\ngraph TD\n\nA[Byrettens afdelinger figurretter3,echo=FALSE, result=FALSE]\nB[Civilretten]\nC[Fogedretten]\nD[Skifteretten]\nE[Boligretten]\nF[Kriminalretten]\n\n\nA===B\nA===C\nA===D\nA===E\nA===F\n\n\nclassDef fedrød fill:#ff1a1a,stroke:#333,stroke-width:4px;\nclassDef fedlime fill:lime,stroke:#333,stroke-width:4px;\nclassDef fedlilla fill:#f9f,stroke:#333,stroke-width:4px;\nclass A,B,C,D,E,F fedlilla;\n"},"evals":[],"jsHooks":[]}</script>
 <p>Danmark er inddelt i 24 såkaldte byretskredse.
 Byretterne ledes af en byretspræsident.
 Byretterne behandler civile sager, straffesager, notarialforretninger og skiftesager.
@@ -641,7 +644,7 @@ Indhold
 <td style="text-align:left;font-weight: bold;border-right:1px solid;">
 §239
 </td>
-<td style="text-align:left;width: 30em; color: white;background-color: grey;">
+<td style="text-align:left;width: 30em; ">
 Regioner og kommuner har hjemting i den retskreds, hvor hovedkontoret ligger.
 </td>
 </tr>
@@ -649,7 +652,7 @@ Regioner og kommuner har hjemting i den retskreds, hvor hovedkontoret ligger.
 <td style="text-align:left;font-weight: bold;border-right:1px solid;">
 §240
 </td>
-<td style="text-align:left;width: 30em; color: white;background-color: grey;">
+<td style="text-align:left;width: 30em; ">
 Sager mod staten: Staten har hjemting i den retskreds, hvor den myndighed, som stævnes på statens vegne, har kontor.
 </td>
 </tr>
@@ -657,7 +660,7 @@ Sager mod staten: Staten har hjemting i den retskreds, hvor den myndighed, som s
 <td style="text-align:left;font-weight: bold;border-right:1px solid;">
 §241
 </td>
-<td style="text-align:left;width: 30em; color: white;background-color: grey;">
+<td style="text-align:left;width: 30em; ">
 Ejendomsværneting: Sager vedrørende rettigheder over fast ejendom, kan anlægges ved retten på det sted, hvor ejendommen ligger.
 </td>
 </tr>
@@ -665,7 +668,7 @@ Ejendomsværneting: Sager vedrørende rettigheder over fast ejendom, kan anlægg
 <td style="text-align:left;font-weight: bold;border-right:1px solid;">
 §242
 </td>
-<td style="text-align:left;width: 30em; color: white;background-color: grey;">
+<td style="text-align:left;width: 30em; ">
 Opfyldelsesværneting: Sager om kontraktsforhold kan anlægges ved retten på det sted, hvor den forpligtelse, der ligger til grund for sagen, er opfyldt eller skal opfyldes.
 Bestemmelsen finder ikke anvendelse på pengekrav, medmindre kravet er opstået under ophold i retskredsen under sådanne omstændigheder, at det skulle opfyldes, inden stedet forlades.
 </td>
@@ -674,7 +677,7 @@ Bestemmelsen finder ikke anvendelse på pengekrav, medmindre kravet er opstået 
 <td style="text-align:left;font-weight: bold;border-right:1px solid;">
 §243
 </td>
-<td style="text-align:left;width: 30em; color: white;background-color: grey;">
+<td style="text-align:left;width: 30em; ">
 Deliktsværneting: Sager, hvorunder der påstås straf, erstatning eller oprejsning i anledning af retskrænkelser, kan anlægges ved retten på det sted, hvor retskrænkelsen er foregået (skadestedet).
 </td>
 </tr>
@@ -682,7 +685,7 @@ Deliktsværneting: Sager, hvorunder der påstås straf, erstatning eller oprejsn
 <td style="text-align:left;font-weight: bold;border-right:1px solid;">
 §244
 </td>
-<td style="text-align:left;width: 30em; color: white;background-color: grey;">
+<td style="text-align:left;width: 30em; ">
 Forbrugerværneting: I sager om forbrugeraftaler, som ikke er indgået ved personlig henvendelse på den erhvervsdrivendes faste forretningssted, kan forbrugeren anlægge sag mod den erhvervsdrivende ved sit eget hjemting.
 </td>
 </tr>
@@ -690,7 +693,7 @@ Forbrugerværneting: I sager om forbrugeraftaler, som ikke er indgået ved perso
 <td style="text-align:left;font-weight: bold;border-right:1px solid;">
 §246
 </td>
-<td style="text-align:left;width: 30em; color: white;background-color: grey;">
+<td style="text-align:left;width: 30em; ">
 <p>Sagsøgte har ikke dansk hjemting: Stk. 1: Sager mod personer, selskaber, foreninger, private institutioner og andre sammenslutninger, der ikke har hjemting i Danmark, kan anlægges her i landet, for så vidt nogen ret efter bestemmelserne i §§ 237, 238, stk. 2, 241, 242, 243 og 245 kan anses som værneting i sagen.</p>
 <p>Opholdsværneting: Stk. 2: Kan ingen ret efter stk. 1 anses som værneting i sagen, kan sager vedrørende formueretsforhold mod de i stk. 1 nævnte personer anlægges ved retten på det sted, hvor de ved stævningens forkyndelse opholder sig.</p>
 Godsværneting: Stk. 3: Sager vedrørende formueretsforhold mod de i stk. 1 nævnte personer og sammenslutninger kan endvidere, hvis der ikke er værneting efter reglen i stk. 1, anlægges ved retten på det sted, hvor den pågældende person eller sammenslutning på tidspunktet for sagens anlæg har gods, eller hvor det gods, kravet angår, befinder sig på tidspunktet for sagens anlæg. Afværges arrest i gods gennem sikkerhedsstillelse, betragtes sikkerhedsstillelsen som gods, der befinder sig på det sted, hvor arrestbegæringen er eller i givet fald skulle være indgivet.
@@ -736,12 +739,12 @@ Godsværneting: Stk. 3: Sager vedrørende formueretsforhold mod de i stk. 1 næv
 <a class="sourceLine" id="cb1-36" data-line-number="36"><span class="st">  3-&gt;8 [color = blue]          // blue</span></a>
 <a class="sourceLine" id="cb1-37" data-line-number="37"><span class="st">}</span></a>
 <a class="sourceLine" id="cb1-38" data-line-number="38"><span class="st">&quot;</span>)</a></code></pre></div>
-<div id="htmlwidget-ecc4da505aaea96a7d9a" style="width:672px;height:480px;" class="grViz html-widget"></div>
-<script type="application/json" data-for="htmlwidget-ecc4da505aaea96a7d9a">{"x":{"diagram":"\ndigraph {\n\n  # graph attributes\n  graph [overlap = true]\n\n  # node attributes\n  node [shape = box,\n        fontname = Helvetica,\n        color = blue]\n\n  # edge attributes\n  edge [color = gray]\n\n  # node statements\n  HJJ; B; C; D; E\n  F [color = black]\n\n  # node attributes\n  node [shape = circle,\n        fixedsize = true,\n        width = 0.9]\n\n  # node statements\n  1; 2; 3; 4; 5; 6; 7; 8\n\n  # edge statements\n  A->1; B->2                   // gray\n  B->3 [color = red]           // red\n  B->4                         // gray\n  C->A [color = green]         // green\n  1->D; E->A; 2->4; 1->5; 1->F // gray\n  E->6; 4->6; 5->7; 6->7       // gray\n  3->8 [color = blue]          // blue\n}\n","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
-<div id="htmlwidget-db46345498bc12bf0096" style="width:672px;height:480px;" class="DiagrammeR html-widget"></div>
-<script type="application/json" data-for="htmlwidget-db46345498bc12bf0096">{"x":{"diagram":"\ngraph LR\n\nA[Forhandlingsprincippet <br />æøå ret <br />Masser af tekst]\nB[hello word]\nC[C i firkant]\nD[Forhandlingsprincippet]\nE[Forhandlingsprincippet]\nF>Forhandlingsprincippet]\nG>Forhandlingsprincippet]\n\nA==>B\nA===C\nA===D\nA===E\nE===F\nE===G\n\nclassDef fedrød fill:#ff1a1a,stroke:#333,stroke-width:4px;\nclassDef fedlime fill:lime,stroke:#333,stroke-width:4px;\nclassDef fedlilla fill:#f9f,stroke:#333,stroke-width:0px;\nclass D,E fedlilla;\nclass A fedrød;\nclass B fedlime;\n"},"evals":[],"jsHooks":[]}</script>
-<div id="htmlwidget-4f41b85f124c8ed60f9d" style="width:672px;height:480px;" class="DiagrammeR html-widget"></div>
-<script type="application/json" data-for="htmlwidget-4f41b85f124c8ed60f9d">{"x":{"diagram":"\ngraph TD;\n\nsubgraph Line breaks <br /> don't work in <br /> Subgraphs\n    inset[Line breaks <br />work in <br />Insets]\nend\n\n    inset-->A\n\n  A(Line breaks<br />work in<br />rounded rec nodes)\n  B{Line breaks <br />work in<br />decision nodes}\n  C[Line breaks<br />work in<br /> rectangles]\n  D((Line breaks <br />work in <br />circles))\n  E>Line breaks <br />work in <br />flag nodes]\n\n\n    A-->B\n    B--yes-->C\n    B--no-->E\n    C-->D\n \n\n\nstyle A fill:#ed6,stroke:#333,stroke-width:2px;\nstyle B fill:#ed6,stroke:#333,stroke-width:2px;\nstyle C fill:#ed6,stroke:#333,stroke-width:2px;\nstyle D fill:#ed6,stroke:#333,stroke-width:2px;\nstyle E fill:#ed6,stroke:#333,stroke-width:2px;\nstyle inset fill:#ed6,stroke:#333,stroke-width:2px;\n"},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-21c2a523891aed8d767c" style="width:672px;height:480px;" class="grViz html-widget"></div>
+<script type="application/json" data-for="htmlwidget-21c2a523891aed8d767c">{"x":{"diagram":"\ndigraph {\n\n  # graph attributes\n  graph [overlap = true]\n\n  # node attributes\n  node [shape = box,\n        fontname = Helvetica,\n        color = blue]\n\n  # edge attributes\n  edge [color = gray]\n\n  # node statements\n  HJJ; B; C; D; E\n  F [color = black]\n\n  # node attributes\n  node [shape = circle,\n        fixedsize = true,\n        width = 0.9]\n\n  # node statements\n  1; 2; 3; 4; 5; 6; 7; 8\n\n  # edge statements\n  A->1; B->2                   // gray\n  B->3 [color = red]           // red\n  B->4                         // gray\n  C->A [color = green]         // green\n  1->D; E->A; 2->4; 1->5; 1->F // gray\n  E->6; 4->6; 5->7; 6->7       // gray\n  3->8 [color = blue]          // blue\n}\n","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-3641de9b689eae95bea7" style="width:672px;height:480px;" class="DiagrammeR html-widget"></div>
+<script type="application/json" data-for="htmlwidget-3641de9b689eae95bea7">{"x":{"diagram":"\ngraph LR\n\nA[Forhandlingsprincippet <br />æøå ret <br />Masser af tekst]\nB[hello word]\nC[C i firkant]\nD[Forhandlingsprincippet]\nE[Forhandlingsprincippet]\nF>Forhandlingsprincippet]\nG>Forhandlingsprincippet]\n\nA==>B\nA===C\nA===D\nA===E\nE===F\nE===G\n\nclassDef fedrød fill:#ff1a1a,stroke:#333,stroke-width:4px;\nclassDef fedlime fill:lime,stroke:#333,stroke-width:4px;\nclassDef fedlilla fill:#f9f,stroke:#333,stroke-width:0px;\nclass D,E fedlilla;\nclass A fedrød;\nclass B fedlime;\n"},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-e8baa7b78ac975332b44" style="width:672px;height:480px;" class="DiagrammeR html-widget"></div>
+<script type="application/json" data-for="htmlwidget-e8baa7b78ac975332b44">{"x":{"diagram":"\ngraph TD;\n\nsubgraph Line breaks <br /> don't work in <br /> Subgraphs\n    inset[Line breaks <br />work in <br />Insets]\nend\n\n    inset-->A\n\n  A(Line breaks<br />work in<br />rounded rec nodes)\n  B{Line breaks <br />work in<br />decision nodes}\n  C[Line breaks<br />work in<br /> rectangles]\n  D((Line breaks <br />work in <br />circles))\n  E>Line breaks <br />work in <br />flag nodes]\n\n\n    A-->B\n    B--yes-->C\n    B--no-->E\n    C-->D\n \n\n\nstyle A fill:#ed6,stroke:#333,stroke-width:2px;\nstyle B fill:#ed6,stroke:#333,stroke-width:2px;\nstyle C fill:#ed6,stroke:#333,stroke-width:2px;\nstyle D fill:#ed6,stroke:#333,stroke-width:2px;\nstyle E fill:#ed6,stroke:#333,stroke-width:2px;\nstyle inset fill:#ed6,stroke:#333,stroke-width:2px;\n"},"evals":[],"jsHooks":[]}</script>
 </div>
 </div>
 <div id="processuelle-grundbegreber" class="section level3">
