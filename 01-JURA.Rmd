@@ -10,7 +10,7 @@ output:
 ```{r start,echo=FALSE,warning=FALSE,include=FALSE}
 #pacman autoload evt. manglende pakker
 if (!require("pacman")) install.packages("pacman")
-pacman::p_load(timeDate, DT,plotly,rio,exams,e1071,WriteXLS,maps,knitr,kableExtra,ggplot2,openxlsx,quantmod,highcharter,forecast,DiagrammeR) #load various packages
+pacman::p_load(timeDate, DT,plotly,rio,exams,e1071,WriteXLS,maps,knitr,kableExtra,ggplot2,openxlsx,quantmod,highcharter,forecast,networkD3,DiagrammeR) #load various packages
 ```
 
 # Indledning 
@@ -385,6 +385,24 @@ Den Særlige Klageret træffer afgørelser i disciplinære sager vedrørende dom
 Klageretten behandler derudover sager om genoptagelse af straffesager og udelukkelse af forsvarere fra straffesager.
 
 ### Byretterne
+
+
+```{r}
+# Load package
+library(networkD3)
+
+# Create fake data
+src <- c("A", "A", "A", "A",
+        "B", "B", "C", "C", "D")
+target <- c("B", "C", "D", "J",
+            "E", "F", "G", "H", "I")
+networkData <- data.frame(src, target)
+
+# Plot
+simpleNetwork(networkData)
+```
+
+
 
 ```{r  figurretter,echo=FALSE, result=TRUE, fig.width=12,fig.height=3 ,dev='png'}
 mermaid("
