@@ -5,16 +5,16 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1970714534",
+    "hash" : "3305428337",
     "id" : "352F0D73",
-    "lastKnownWriteTime" : 1551621034,
-    "last_content_update" : 1551621034981,
+    "lastKnownWriteTime" : 1551621627,
+    "last_content_update" : 1551621627028,
     "path" : "~/Google Drev/JURA/jurars/01-JURA.Rmd",
     "project_path" : "01-JURA.Rmd",
     "properties" : {
-        "cursorPosition" : "450,51",
+        "cursorPosition" : "419,16",
         "docOutlineVisible" : "1",
-        "scrollLine" : "436"
+        "scrollLine" : "416"
     },
     "relative_order" : 2,
     "source_on_save" : false,

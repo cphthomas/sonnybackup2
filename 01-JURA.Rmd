@@ -417,7 +417,7 @@ Supplerende værneting, f.eks.:
  
 (Kildefigur; Trojka)
 
-```{r}
+```{r echo=FALSE}
 text_tbl <- data.frame(
   Paragraf = c("§239", "§240", "§241","§242","§243","§244","§246"),
   Indhold = c(
