@@ -543,7 +543,7 @@ class A,B,C,D,E,F fedlilla;
 ")
 ```
 
-```{r  figurretter,echo=FALSE, result=TRUE, fig.width=12,fig.height=3 ,dev='svg'}
+```{r  figurretter2,echo=FALSE, result=TRUE, fig.width=12,fig.height=3 ,dev='svg'}
 mermaid("
 graph TD
 
@@ -569,6 +569,85 @@ class A,B,C,D,E,F fedlilla;
 ")
 ```
 
+
+```{r  figurretter3,echo=FALSE, result=TRUE,dev='svg'}
+mermaid("
+graph TD
+
+A[Byrettens afdelinger]
+B[Civilretten]
+C[Fogedretten]
+D[Skifteretten]
+E[Boligretten]
+F[Kriminalretten]
+
+
+A===B
+A===C
+A===D
+A===E
+A===F
+
+
+classDef fedrød fill:#ff1a1a,stroke:#333,stroke-width:4px;
+classDef fedlime fill:lime,stroke:#333,stroke-width:4px;
+classDef fedlilla fill:#f9f,stroke:#333,stroke-width:4px;
+class A,B,C,D,E,F fedlilla;
+")
+```
+
+
+```{r  figurretter3,echo=FALSE, result=FALSE}
+mermaid("
+graph TD
+
+A[Byrettens afdelinger]
+B[Civilretten]
+C[Fogedretten]
+D[Skifteretten]
+E[Boligretten]
+F[Kriminalretten]
+
+
+A===B
+A===C
+A===D
+A===E
+A===F
+
+
+classDef fedrød fill:#ff1a1a,stroke:#333,stroke-width:4px;
+classDef fedlime fill:lime,stroke:#333,stroke-width:4px;
+classDef fedlilla fill:#f9f,stroke:#333,stroke-width:4px;
+class A,B,C,D,E,F fedlilla;
+")
+```
+
+```{r  figurretter3,echo=FALSE, result=TRUE}
+mermaid("
+graph TD
+
+A[Byrettens afdelinger]
+B[Civilretten]
+C[Fogedretten]
+D[Skifteretten]
+E[Boligretten]
+F[Kriminalretten]
+
+
+A===B
+A===C
+A===D
+A===E
+A===F
+
+
+classDef fedrød fill:#ff1a1a,stroke:#333,stroke-width:4px;
+classDef fedlime fill:lime,stroke:#333,stroke-width:4px;
+classDef fedlilla fill:#f9f,stroke:#333,stroke-width:4px;
+class A,B,C,D,E,F fedlilla;
+")
+```
 
 Danmark er inddelt i 24 såkaldte byretskredse.
 Byretterne ledes af en byretspræsident.
