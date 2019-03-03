@@ -100,47 +100,28 @@ favicon: "favicon.ico"
 <!--   <!-- END LOGIN FORM -->
   
   
-<<<<<<< HEAD
+
+
+<br>
+<br>
+
+ 
 
   <br>
-=======
-<br>
->>>>>>> acfb91b6af5207743080235e545700a2808ce80d
-  <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://vimeo.com/album/5798044/embed" allowfullscreen frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
-  <br>
-  <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://vimeo.com/album/5798044/embed" allowfullscreen frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
   
-  <br>
-  <iframe src="https://vimeo.com/album/5098077/embed" width="720" height="405" allowfullscreen frameborder="0"></iframe>
-  <br>
-  <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://vimeo.com/album/5798044/embed" allowfullscreen frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
-  <br>
-  <iframe src="https://vimeo.com/album/5798044/embed" width="1920" height="1080" allowfullscreen frameborder="0"></iframe>
-  <br>
-  <h3>Audiolist.</h3>
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://vimeo.com/album/5798044/embed' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
-  <br>
-  
-  <iframe src="https://player.vimeo.com/video/320341517" width="640" height="55" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-  <br>
-  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 55; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://vimeo.com/album/5798044/embed' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
-  <br>
-  <iframe src="https://player.vimeo.com/video/320339623" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-  <br>
-  
-  <h3>Video sådan køber du adgang.</h3>
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/320339623' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
-  <br>
-  <br>
-  
-<h3>Video sådan køber du adgang.</h3>
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/283118599' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
-  <br>
-  <br>
-  <br>
-  <br>
-<h3>Video sådan logger du ind.</h3>
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/283117974' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<!--   <h3>Video sådan køber du adgang.</h3> -->
+<!-- <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/320339623' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div> -->
+<!--   <br> -->
+<!--   <br> -->
+
+<!-- <h3>Video sådan køber du adgang.</h3> -->
+<!-- <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/283118599' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div> -->
+<!--   <br> -->
+<!--   <br> -->
+<!--   <br> -->
+<!--   <br> -->
+<!-- <h3>Video sådan logger du ind.</h3> -->
+<!-- <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/283117974' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div> -->
 
 
 

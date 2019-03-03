@@ -59,7 +59,6 @@ pacman::p_load(timeDate, DT,plotly,rio,exams,e1071,WriteXLS,maps,knitr,kableExtr
 
   
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://vimeo.com/album/5798044/embed" allowfullscreen frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
 
 
 
@@ -115,15 +114,14 @@ pacman::p_load(timeDate, DT,plotly,rio,exams,e1071,WriteXLS,maps,knitr,kableExtr
 <!-- <!-- END PROTECT -->
 
 
-<<<<<<< HEAD
+
 
 ## Grundloven om Danmarks forfatning
 
-=======
-## Grundloven om Danmarks forfatning
-  
->>>>>>> acfb91b6af5207743080235e545700a2808ce80d
+
 <img src="img/grundloven.jpg" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+
 Af de mere end 1.300 love, vi har i Danmark, er der én lov, en retskilde, der er hævet over alle de andre, nemlig grundloven.  Grundloven er Danmarks forfatning, dvs. den lov, der beskriver de grundlæggende regler for samfundet. I Danmark fejrer man hvert år grundlovens fødselsdag 5. juni. Men hvordan blev grundloven egentlig indført?
 Fra 1660 til 1848 havde Danmark enevælde og i 1700-tallet begyndte modstanden mod enevældet at ulme rundt om i Europa. 
 Befolkningerne stillede krav om, at folket skulle være med til at bestemme, hvordan deres land skulle styres, og flere steder blev monarkiet væltet og erstattet af en republik.
@@ -1256,7 +1254,17 @@ Sådanne skader dækkes ikke, og man skal således købe en autoansvarsforsikrin
 
 
 
+# Materialer
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://vimeo.com/album/5798044/embed" allowfullscreen frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
+
+
+
+  <iframe src="https://player.vimeo.com/video/320341517" width="640" height="55" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <br>
+  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 55; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://vimeo.com/album/5798044/embed' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+  <br>
+  <iframe src="https://player.vimeo.com/video/320339623" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 
