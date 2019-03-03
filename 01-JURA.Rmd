@@ -10,7 +10,7 @@ output:
 ```{r start,echo=FALSE,warning=FALSE,include=FALSE}
 #pacman autoload evt. manglende pakker
 if (!require("pacman")) install.packages("pacman")
-pacman::p_load(timeDate, DT,plotly,rio,exams,e1071,WriteXLS,maps,knitr,kableExtra,ggplot2,openxlsx,quantmod,highcharter,forecast) #load various packages
+pacman::p_load(timeDate, DT,plotly,rio,exams,e1071,WriteXLS,maps,knitr,kableExtra,ggplot2,openxlsx,quantmod,highcharter,forecast,DiagrammeR) #load various packages
 ```
 
 # Indledning 
@@ -265,7 +265,7 @@ Lovkataloget kan findes på Statsministeriets hjemmeside og giver et pejlemærke
 Den formelle baggrund for lovkataloget er, at der i grundlovens § 38 står beskrevet, at statsministeren skal lave en åbningsredegørelse, når et nyt folketingsår starter. Åbningsredegørelsen består både af en mundtlig og en skriftlig del. Den mundtlige del er åbningstalen, som statsministeren holder på åbningsdagen, mens den skriftlige del er lovkataloget.
 
 ### Statsministeren
-![](img/løkke.png)
+![](img/lokke.png)
 Statsministen er regeringens chef. Det er statsministeren, der bestemmer, hvem der skal være ministre, og hvilke ministerier der skal være.
  
 ### Statsministeren har stor magt
@@ -386,7 +386,58 @@ Klageretten behandler derudover sager om genoptagelse af straffesager og udelukk
 
 ### Byretterne
 
-![](img/byretafdelinger.png)
+```{r  figurretter,echo=FALSE, result=TRUE, fig.width=12,fig.height=3 ,dev='png'}
+mermaid("
+graph TD
+
+A[Byrettens afdelinger]
+B[Civilretten]
+C[Fogedretten]
+D[Skifteretten]
+E[Boligretten]
+F[Kriminalretten]
+
+
+A===B
+A===C
+A===D
+A===E
+A===F
+
+
+classDef fedrød fill:#ff1a1a,stroke:#333,stroke-width:4px;
+classDef fedlime fill:lime,stroke:#333,stroke-width:4px;
+classDef fedlilla fill:#f9f,stroke:#333,stroke-width:4px;
+class A,B,C,D,E,F fedlilla;
+")
+```
+
+```{r  figurretter,echo=FALSE, result=TRUE, fig.width=12,fig.height=3 ,dev='svg'}
+mermaid("
+graph TD
+
+A[Byrettens afdelinger]
+B[Civilretten]
+C[Fogedretten]
+D[Skifteretten]
+E[Boligretten]
+F[Kriminalretten]
+
+
+A===B
+A===C
+A===D
+A===E
+A===F
+
+
+classDef fedrød fill:#ff1a1a,stroke:#333,stroke-width:4px;
+classDef fedlime fill:lime,stroke:#333,stroke-width:4px;
+classDef fedlilla fill:#f9f,stroke:#333,stroke-width:4px;
+class A,B,C,D,E,F fedlilla;
+")
+```
+
 
 Danmark er inddelt i 24 såkaldte byretskredse.
 Byretterne ledes af en byretspræsident.
@@ -451,6 +502,113 @@ kable(text_tbl) %>%
   column_spec(2, width = "30em", background = "grey",color ="white")
 ```
 
+
+```{r}
+## devtools::install_github('rich-iannone/DiagrammeR')
+library(DiagrammeR)
+grViz("
+digraph {
+
+  # graph attributes
+  graph [overlap = true]
+
+  # node attributes
+  node [shape = box,
+        fontname = Helvetica,
+        color = blue]
+
+  # edge attributes
+  edge [color = gray]
+
+  # node statements
+  HJJ; B; C; D; E
+  F [color = black]
+
+  # node attributes
+  node [shape = circle,
+        fixedsize = true,
+        width = 0.9]
+
+  # node statements
+  1; 2; 3; 4; 5; 6; 7; 8
+
+  # edge statements
+  A->1; B->2                   // gray
+  B->3 [color = red]           // red
+  B->4                         // gray
+  C->A [color = green]         // green
+  1->D; E->A; 2->4; 1->5; 1->F // gray
+  E->6; 4->6; 5->7; 6->7       // gray
+  3->8 [color = blue]          // blue
+}
+")
+```
+
+
+
+
+
+```{r echo=FALSE}
+mermaid("
+graph LR
+
+A[Forhandlingsprincippet <br />æøå ret <br />Masser af tekst]
+B[hello word]
+C[C i firkant]
+D[Forhandlingsprincippet]
+E[Forhandlingsprincippet]
+F>Forhandlingsprincippet]
+G>Forhandlingsprincippet]
+
+A==>B
+A===C
+A===D
+A===E
+E===F
+E===G
+
+classDef fedrød fill:#ff1a1a,stroke:#333,stroke-width:4px;
+classDef fedlime fill:lime,stroke:#333,stroke-width:4px;
+classDef fedlilla fill:#f9f,stroke:#333,stroke-width:0px;
+class D,E fedlilla;
+class A fedrød;
+class B fedlime;
+")
+```
+
+
+```{r echo=FALSE}
+mermaid("
+graph TD;
+
+subgraph Line breaks <br /> don't work in <br /> Subgraphs
+    inset[Line breaks <br />work in <br />Insets]
+end
+
+    inset-->A
+
+  A(Line breaks<br />work in<br />rounded rec nodes)
+  B{Line breaks <br />work in<br />decision nodes}
+  C[Line breaks<br />work in<br /> rectangles]
+  D((Line breaks <br />work in <br />circles))
+  E>Line breaks <br />work in <br />flag nodes]
+
+
+    A-->B
+    B--yes-->C
+    B--no-->E
+    C-->D
+ 
+
+
+style A fill:#ed6,stroke:#333,stroke-width:2px;
+style B fill:#ed6,stroke:#333,stroke-width:2px;
+style C fill:#ed6,stroke:#333,stroke-width:2px;
+style D fill:#ed6,stroke:#333,stroke-width:2px;
+style E fill:#ed6,stroke:#333,stroke-width:2px;
+style inset fill:#ed6,stroke:#333,stroke-width:2px;
+")
+```
 
 
 ### Processuelle grundbegreber
