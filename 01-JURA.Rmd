@@ -466,11 +466,11 @@ class A,B,C,D,E,F fedlilla;
 ```
 
 
-```{r  figurretter3,echo=FALSE, result=FALSE}
+```{r  figurretter4,echo=FALSE, result=FALSE}
 mermaid("
 graph TD
 
-A[Byrettens afdelinger]
+A[Byrettens afdelinger figurretter3,echo=FALSE, result=FALSE]
 B[Civilretten]
 C[Fogedretten]
 D[Skifteretten]
@@ -492,7 +492,7 @@ class A,B,C,D,E,F fedlilla;
 ")
 ```
 
-```{r  figurretter3,echo=FALSE, result=TRUE}
+```{r  figurretter6,echo=FALSE, result=TRUE}
 mermaid("
 graph TD
 
