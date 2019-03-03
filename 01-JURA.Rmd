@@ -392,8 +392,8 @@ Klageretten behandler derudover sager om genoptagelse af straffesager og udelukk
 
 nodes <- data.frame(id = 1:6, 
                     shape = c("box"), 
-                    label = c("Sager mod staten Sager mod staten","2","3","4","5","Sager mod staten"))
-edges <- data.frame(from = c(1,1,1), to = c(2,3,4))
+                    label = c("Byretttens afdelinger","Civilretten","Fogedretten","Skifteretten","Boligretten","Kriminalretten"))
+edges <- data.frame(from = c(1,1,1,1,1), to = c(2,3,4,5,6))
 
 visNetwork(nodes, edges, width = "100%") %>% 
   visNodes(color = list(background = "lightgrey", 
