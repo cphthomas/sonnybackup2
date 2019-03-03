@@ -392,7 +392,8 @@ Klageretten behandler derudover sager om genoptagelse af straffesager og udelukk
 
 nodes <- data.frame(id = 1:6, 
                     shape = c("box"), 
-                    label = c("Byretttens afdelinger","Civilretten","Fogedretten","Skifteretten","Boligretten","Kriminalretten"))
+                    label = c("Byrettens afdelinger","Civilretten","Fogedretten","Skifteretten","Boligretten","Kriminalretten"),
+                    font.size = c(20,15,15,15,15,15))
 edges <- data.frame(from = c(1,1,1,1,1), to = c(2,3,4,5,6))
 
 visNetwork(nodes, edges, width = "100%") %>% 
@@ -400,9 +401,11 @@ visNetwork(nodes, edges, width = "100%") %>%
                         border = "darkblue",
                         highlight = "yellow"),
            shadow = list(enabled = TRUE, size = 30))  %>%
+  # visHierarchicalLayout()
   visLayout(randomSeed = 24) # to have always the same network
 
 ```
+
 
 
 
