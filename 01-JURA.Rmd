@@ -159,9 +159,9 @@ edges <- data.frame(from = c(1,2,3), to = c(2,3,1),length = c(300,300,200))
 
 visNetwork(nodes, edges, width = "100%") %>% 
   visNodes(color = list(background = "lightgrey", 
-                        border = "darkblue",
+                        border = "lightgrey",
                         highlight = "yellow"),
-                       shadow = list(enabled = TRUE, size = 30))  %>%
+                       shadow = list(enabled = FALSE, size = 30))  %>%
   # visHierarchicalLayout()
   visLayout(randomSeed = 24) # to have always the same network
 
@@ -405,7 +405,7 @@ Klageretten behandler derudover sager om genoptagelse af straffesager og udelukk
 ### Byretterne
 
 
-```{r network,echo=FALSE, result=TRUE}
+```{r network4,echo=FALSE, result=TRUE}
 
 
 nodes <- data.frame(id = 1:6, 
@@ -416,9 +416,9 @@ edges <- data.frame(from = c(1,1,1,1,1), to = c(2,3,4,5,6))
 
 visNetwork(nodes, edges, width = "100%") %>% 
   visNodes(color = list(background = "lightgrey", 
-                        border = "darkblue",
+                        border = "lightgrey",
                         highlight = "yellow"),
-           shadow = list(enabled = TRUE, size = 30))  %>%
+           shadow = list(enabled = FALSE, size = 30))  %>%
   # visHierarchicalLayout()
   visLayout(randomSeed = 24) # to have always the same network
 
@@ -459,7 +459,7 @@ Supplerende værneting, f.eks.:
 *	Forbrugerværneting
 *	Deliktsværneting
  
-(Kildefigur; Trojka)
+
 
 ```{r echo=FALSE}
 text_tbl <- data.frame(
@@ -527,7 +527,6 @@ Stævning og svarskrift
 *	Replik og duplik
 *	Hovedforhandling
  
-(Kildefigur; Trojka)
 Småsagsprocessen:
 
 *	Sager under 50.000 kr.
@@ -589,12 +588,15 @@ Sammensætningen af Domstolsstyrelsens bestyrelse er fastsat i lov om Domstolsst
 <div class="video-container"><iframe src="https://www.youtube.com/embed/uvpuD60uLdI" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ### EU-domstolen
+
+<img src="img/eudomstolen.png" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Den Europæiske Unions Domstol (EU-Domstolen) fortolker EU's lovgivning for at sikre, at den anvendes på samme måde i alle EU-lande, og afgør retstvister mellem nationale regeringer og EU's institutioner. 
- 
+
 I visse tilfælde kan den også anvendes af enkeltpersoner, virksomheder eller organisationer til at gribe ind over for en EU-institution, hvis de mener, den på den ene eller anden måde har tilsidesat deres rettigheder.
 
 ### Hvad laver EU-Domstolen?
  
+<img src="img/eudomstolen2.png" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 Domstolen træffer afgørelser i de sager, der indbringes for den. De mest almindelige typer sager er:
 
 *	Fortolkning af love (præjudicielle afgørelser) - de nationale domstole i EU-landene skal sikre, at EU-lovene anvendes korrekt, men domstolene i de forskellige lande kan fortolke reglerne forskellige. Hvis en national domstol er i tvivl om fortolkningen eller gyldigheden af en EU-retsakt, kan den spørge Domstolen til råds. Den samme mekanisme kan anvendes til at afgøre, om national ret eller praksis er forenelig med EU-retten.
@@ -606,6 +608,7 @@ Privatpersoner kan også bede Domstolen om at ophæve en EU-retsakt, som berøre
 
 ### Sammensætning
  
+<img src="img/eudomstolen3.png" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 EU-Domstolen er inddelt i 2 organer:
 
 *	EU-Domstolen – som tager sig af anmodninger om præjudicielle afgørelser fra nationale domstole, visse annullationssøgsmål og appelsager.  
@@ -642,7 +645,8 @@ Ved siden af Den Europæiske Union fortsætter Det Europæiske Atomenergifælles
 
  
 ### Sammensætning
-	 	
+	 
+<img src="img/eudomstolen4.jpg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Domstolen består af 28 dommere og 11 generaladvokater. Dommerne og generaladvokaterne udnævnes for en periode af 6 år af medlemsstaternes regeringer efter fælles overenskomst efter høring af et udvalg, som har til opgave at udtale sig om, hvorvidt de indstillede kandidater er egnede til at varetage de omhandlede opgaver. De kan genudnævnes. Til dommere og generaladvokater ved Domstolen 
 udnævnes personer, hvis uafhængighed er uomtvistelig. De skal i deres hjemland opfylde betingelserne 
 for at indtage de højeste dommerembeder eller have faglige kvalifikationer, som er almindeligt anerkendt.
@@ -723,35 +727,12 @@ Sagsbehandlingen ved Domstolen er fritaget omkostninger. Til gengæld dækkes om
 I direkte søgsmål bliver det sprog, som stævningen er affattet på (hvilket kan være ethvert af Den Europæiske Unions 24 officielle sprog) i princippet sagens processprog, dvs. det sprog, som sagen behandles på. I appelsager anvendes samme processprog som i den appellerede dom eller kendelse fra Retten. For så vidt angår præjudicielle forelæggelser, er processproget det, som den nationale ret har henvendt sig til Domstolen på. Under den mundtlige forhandling i retsmøder er der efter behov simultantolkning til forskellige af Den Europæiske Unions officielle sprog. Dommerne voterer uden brug af tolke på et fælles sprog, der normalt vil være fransk.
 
 ### Oversigt over rettergangsmåden
-Sagsbehandlingen ved Domstolen
-Direkte søgsmål og appelsager	 	Præjudicielle sager
-Skriftlig forhandling
-Stævning 
-Stævningen forkyndes for sagsøgte af Justitskontoret 
-Offentliggørelse af stævningen i Den Europæiske Unions Tidende (serie C)
-[Foreløbige forholdsregler] 
-[Intervention] 
-Svarskrift
-[Formalitetsindsigelse] 
-[Replik og duplik]	[Ansøgning om fri proces]
-Udpegelse af refererende dommer og generaladvokat	Den nationale rets afgørelse om forelæggelse
-Oversættelse til Den Europæiske Unions øvrige officielle sprog 
-Offentliggørelse af de præjudicielle spørgsmål i 
-Den Europæiske Unions Tidende (C-udgaven)
-Forkyndelse for parterne i hovedsagen, medlemsstaterne, 
-EU-institutionerne, EØS-staterne og EFTA-Tilsynsmyndigheden
-Skriftlige indlæg fra parterne, staterne og institutionerne
-Den refererende dommer udfærdiger foreløbig rapport 
-Møde mellem dommere og generaladvokater
-Henvisning af sagen til et dommerkollegium 
-[Bevisoptagelse]
-Mundtlig del
-[Generaladvokatens forslag til afgørelse]
-Dommernes votering
-DOM
-Fakultative led i rettergangsmåden er anført i kantet parentes.
-Fed skrift angiver, at der er tale om et offentligt dokument. 
+![Fakultative led i rettergangsmåden er anført i kantet parentes.\n
+Fed skrift angiver, at der er tale om et offentligt dokument. ](img/juraskema.png)
  
+
+
+
 ### Domstolen i Den Europæiske Unions retsorden
 Med henblik på at opbygge Europa som fællesskab indgik en række stater (i dag i alt 28) indbyrdes en række traktater om oprettelse af De Europæiske Fællesskaber og herefter Den Europæiske Union, udstyret med institutioner, som vedtager retsregler på bestemte områder.
 Den Europæiske Unions Domstol udgør Unionens og Det Europæiske Atomenergifællesskabs dømmende myndighed. Den består af Domstolen og Retten, hvis opgave i det væsentlige består i at prøve lovligheden af Fællesskabets retsakter og at sikre en ensartet fortolkning og anvendelse af EU-retten.  
@@ -847,6 +828,33 @@ I juridisk Ordbog defineres juridisk metode som følger:
 
 
 # Aftaleret
+
+## Aftaleloven
+
+Aftalelovens principper har betydning på hele aftaleområdet, fx i:
+*	Forsikringsaftaleloven, kreditaftaleloven, forbrugeraftaleloven, AB 18, købeloven, E-handelsloven m.fl.
+*	Aftaleindgåelse - aftaleloven §§2-9
+  + Deklaratorisk, dvs. parterne kan aftale anden fremgangsmåde ved aftaleindgåelse, end den der er beskrevet i aftaleloven.
+
+
+```{r network,echo=FALSE, result=TRUE}
+
+nodes <- data.frame(id = 1:7, 
+                    shape = c("box"), 
+                    label = c("Aftalelov","Forsikringsaftalelov","Kreditaftalelov","Forbrugeraftalelov","AB92","Købelov","E-handelslov"),
+                    font.size = c(50,25,25,25,25,25,25))
+edges <- data.frame(from = c(1,1,1,1,1,1), to = c(2,3,4,5,6,7),arrows = c("to"),length = rep(20,6))
+
+visNetwork(nodes, edges, height = "500px", width = "100%") %>% 
+  visNodes(color = list(background = "lightgrey", 
+                        border = "darkblue",
+                        highlight = "yellow"),
+           shadow = list(enabled = FALSE, size = 30))  %>%
+  visHierarchicalLayout(direction = "LR",levelSeparation = 500)
+  # visLayout(randomSeed = 24) # to have always the same network
+
+```
+
 
 ## Quiz  
 <h3><a href="https://quiz.tepedu.dk/juraaftale" target="_blank">Quiz Aftaleret</a></h3>
@@ -1033,16 +1041,16 @@ Grov uagtsomhed (latin; culpa lata) er en betydelig form for uagtsomhed. Nyere r
 
 ### Forsæt (med vilje)
 Forsæt, er en handling der er foretaget med vilje, er ikke i dansk ret en betingelse for at ifalde erstatningsansvar. At skadevolderen har udvist uagtsomhed, dvs. tilsidesat den agtpågivenhed, som kræves på det pågældende område, er som hovedregel tilstrækkeligt til at pålægge erstatningsansvar, Kaster en person en sten efter en cyklist for at ramme denne, og det lykkes, er skaden på cyklisten lavet med vilje – med forsæt. Skadevolderen er selvfølgelig også her erstatningsansvarlig. Hovedreglen er i dansk ret, at kun forsætlige forhold er strafbare, dog en vigtig undtagelse uagtsom drab. Ved forsætlige handlinger afviser skadevolders ansvarsforsikring at udbetale erstatning, se her nævnte sager om vurderingen om skadevolder har handlet med forsæt – med vilje:
-Speak, billeder eller video:
+
 
 ---
 
 *Forsikringsankenævnskendelse i sag nr. 15.569 – 26.04.85: Skade på skolelokaler, forårsaget af 15-årig dreng ved udtømning af to pulverslukkere, anset forsætligt forvoldt, og derfor ikke dækket af ansvarsforsikringen. (utrykt)*
 
 ---
-
+<img src="img/truckcar.jpg" align="right" width="10%" height="10%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Ved simpel og grov uagtsomhed er det hovedreglen, at en ansvarsforsikring dækker (se dog afsnittet nedenfor om generelt bortfald af ansvar). Forsætlige skader dækker forsikringen ikke, med mindre skadevolder er under 14 år:
-Speak, billeder eller video:
+
 
 ---
 
@@ -1420,6 +1428,25 @@ Sådanne skader dækkes ikke, og man skal således købe en autoansvarsforsikrin
   <iframe src="https://player.vimeo.com/video/320339623" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
+# Test
+
+```{r echo=FALSE}
+# install.packages("rhandsontable")
+library(rhandsontable)
+DF = data.frame(integer = 1:10,
+                   numeric = rnorm(10),
+                   logical = rep(TRUE, 10), 
+                   character = LETTERS[1:10],
+                   factor = factor(letters[1:10], levels = letters[10:1], 
+                                   ordered = TRUE),
+                   factor_allow = factor(letters[1:10], levels = letters[10:1], 
+                                         ordered = TRUE),
+                   date = seq(from = Sys.Date(), by = "days", length.out = 10),
+                   stringsAsFactors = FALSE)
+
+rhandsontable(DF, width = 600, height = 300) %>%
+  hot_col("factor_allow", allowInvalid = TRUE)
+```
 
 
 

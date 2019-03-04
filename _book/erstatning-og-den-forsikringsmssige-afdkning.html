@@ -25,7 +25,7 @@
 <meta name="author" content="Sonny Kristoffersen Advokat, Partner, lektor og Ph.D.">
 
 
-<meta name="date" content="2019-03-03">
+<meta name="date" content="2019-03-04">
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -34,7 +34,7 @@
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 <link rel="prev" href="forbrugeraftaler.html">
 <link rel="next" href="kb.html">
-<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<script src="libs/jquery-3.2.1/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
@@ -52,6 +52,14 @@
 <script src="libs/vis-4.20.1/vis.min.js"></script>
 <script src="libs/visNetwork-binding-2.0.4/visNetwork.js"></script>
 <script src="libs/kePrint-0.0.1/kePrint.js"></script>
+<link href="libs/handsontable-6.1.1/handsontable.full.min.css" rel="stylesheet" />
+<script src="libs/handsontable-6.1.1/handsontable.full.min.js"></script>
+<script src="libs/handsontable-6.1.1/all.min.js"></script>
+<script src="libs/numbro.languages-2.0.6/languages.min.js"></script>
+<script src="libs/chroma-1.3.3/chroma.min.js"></script>
+<script src="libs/sparkline-2.1.2/jquery.sparkline.min.js"></script>
+<link href="libs/rhandsontable-0.3.7/rhandsontable.css" rel="stylesheet" />
+<script src="libs/rhandsontable-binding-0.3.7/rhandsontable.js"></script>
 
 
 
@@ -148,7 +156,8 @@
 <li class="chapter" data-level="2.12" data-path="retskilder-retssystemet-og-juridisk-metode.html"><a href="retskilder-retssystemet-og-juridisk-metode.html#juridisk-metode"><i class="fa fa-check"></i><b>2.12</b> Juridisk metode</a></li>
 </ul></li>
 <li class="chapter" data-level="3" data-path="aftaleret.html"><a href="aftaleret.html"><i class="fa fa-check"></i><b>3</b> Aftaleret</a><ul>
-<li class="chapter" data-level="3.1" data-path="aftaleret.html"><a href="aftaleret.html#quiz"><i class="fa fa-check"></i><b>3.1</b> Quiz</a></li>
+<li class="chapter" data-level="3.1" data-path="aftaleret.html"><a href="aftaleret.html#aftaleloven"><i class="fa fa-check"></i><b>3.1</b> Aftaleloven</a></li>
+<li class="chapter" data-level="3.2" data-path="aftaleret.html"><a href="aftaleret.html#quiz"><i class="fa fa-check"></i><b>3.2</b> Quiz</a></li>
 </ul></li>
 <li class="chapter" data-level="4" data-path="fuldmagter-og-mellemmnd.html"><a href="fuldmagter-og-mellemmnd.html"><i class="fa fa-check"></i><b>4</b> Fuldmagter og mellemmænd</a></li>
 <li class="chapter" data-level="5" data-path="forbrugeraftaler.html"><a href="forbrugeraftaler.html"><i class="fa fa-check"></i><b>5</b> Forbrugeraftaler</a></li>
@@ -196,6 +205,7 @@
 <li class="chapter" data-level="23" data-path="de-finansielle-tvistlsningsorganer.html"><a href="de-finansielle-tvistlsningsorganer.html"><i class="fa fa-check"></i><b>23</b> De finansielle tvistløsningsorganer</a></li>
 <li class="chapter" data-level="24" data-path="lovsamling.html"><a href="lovsamling.html"><i class="fa fa-check"></i><b>24</b> Lovsamling</a></li>
 <li class="chapter" data-level="25" data-path="materialer.html"><a href="materialer.html"><i class="fa fa-check"></i><b>25</b> Materialer</a></li>
+<li class="chapter" data-level="26" data-path="test.html"><a href="test.html"><i class="fa fa-check"></i><b>26</b> Test</a></li>
 <li class="divider"></li>
 <li><a href="./">Login</a></li>
 
@@ -319,14 +329,9 @@ For at kunne få erstatning fra en skadevolder skal skadelidte ifølge retspraks
 </div>
 <div id="forst-med-vilje" class="section level3">
 <h3><span class="header-section-number">6.3.6</span> Forsæt (med vilje)</h3>
-<p>Forsæt, er en handling der er foretaget med vilje, er ikke i dansk ret en betingelse for at ifalde erstatningsansvar. At skadevolderen har udvist uagtsomhed, dvs. tilsidesat den agtpågivenhed, som kræves på det pågældende område, er som hovedregel tilstrækkeligt til at pålægge erstatningsansvar, Kaster en person en sten efter en cyklist for at ramme denne, og det lykkes, er skaden på cyklisten lavet med vilje – med forsæt. Skadevolderen er selvfølgelig også her erstatningsansvarlig. Hovedreglen er i dansk ret, at kun forsætlige forhold er strafbare, dog en vigtig undtagelse uagtsom drab. Ved forsætlige handlinger afviser skadevolders ansvarsforsikring at udbetale erstatning, se her nævnte sager om vurderingen om skadevolder har handlet med forsæt – med vilje:
-Speak, billeder eller video:</p>
+<p>Forsæt, er en handling der er foretaget med vilje, er ikke i dansk ret en betingelse for at ifalde erstatningsansvar. At skadevolderen har udvist uagtsomhed, dvs. tilsidesat den agtpågivenhed, som kræves på det pågældende område, er som hovedregel tilstrækkeligt til at pålægge erstatningsansvar, Kaster en person en sten efter en cyklist for at ramme denne, og det lykkes, er skaden på cyklisten lavet med vilje – med forsæt. Skadevolderen er selvfølgelig også her erstatningsansvarlig. Hovedreglen er i dansk ret, at kun forsætlige forhold er strafbare, dog en vigtig undtagelse uagtsom drab. Ved forsætlige handlinger afviser skadevolders ansvarsforsikring at udbetale erstatning, se her nævnte sager om vurderingen om skadevolder har handlet med forsæt – med vilje:</p>
 <hr />
 <p><em>Forsikringsankenævnskendelse i sag nr. 15.569 – 26.04.85: Skade på skolelokaler, forårsaget af 15-årig dreng ved udtømning af to pulverslukkere, anset forsætligt forvoldt, og derfor ikke dækket af ansvarsforsikringen. (utrykt)</em></p>
-<hr />
-<p>Ved simpel og grov uagtsomhed er det hovedreglen, at en ansvarsforsikring dækker (se dog afsnittet nedenfor om generelt bortfald af ansvar). Forsætlige skader dækker forsikringen ikke, med mindre skadevolder er under 14 år:
-Speak, billeder eller video:</p>
-<hr />
 <p><em>H.D. 19 december 2016 i sag 235/2015 (1. afdeling): Skadelidte, der var sindssyg, forsøgte at begå selvmord ved at køre ind i en modkørende lastbil. Retten til erstatning for personskade bortfaldt som følge af forsætlig medvirken.</em></p>
 <hr />
 </div>
