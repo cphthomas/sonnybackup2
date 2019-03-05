@@ -993,7 +993,7 @@ Resultat: Der er indgået en juridisk bindende aftale
 
 
 
-```{r faicon, echo=FALSE}
+```{r faicon3, echo=FALSE}
 nodes <- data.frame(id = 1:2, group = c("B", "A"),label = c("Sælger \n tilbudsgiver ","Køber \n tilbudsmodtager "))
 edges <- data.frame(from = c(1), 
                     to = c(2),
@@ -1016,7 +1016,7 @@ edges <- data.frame(from = c(1),
 
 
 
-```{r faicon, echo=FALSE}
+```{r faicon4, echo=FALSE}
 nodes <- data.frame(id = 1:2, group = c("B", "A"),label = c("Sælger \n tilbudsmodtager ","Køber \n tilbudsgiver "))
 edges <- data.frame(from = c(1), 
                     to = c(2),
