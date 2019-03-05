@@ -332,7 +332,7 @@ En ministers arbejde består bl.a. i at:
 
 nodes <- data.frame(id = 1:9, 
                     shape = c("box"), 
-                    label = c("Højesteret","Vestre \n Landsret","Østre \n Landsret","Sø og \n Handelsretten","Tinglysningsretten","Grønlandsdomstolen","Byretterne","Retten på Færøerne", " Procesbevillingsnævnet \n Den særlige klageret \n Dommerudnævnelsesrådet \n Bibeskæftigelsesnævnet"),
+                    label = c(" Højesteret ","Vestre \n Landsret","Østre \n Landsret","Sø og \n Handelsretten","Tinglysningsretten","Grønlandsdomstolen","Byretterne","Retten på Færøerne", " Procesbevillingsnævnet \n Den særlige klageret \n Dommerudnævnelsesrådet \n Bibeskæftigelsesnævnet"),
                     font.size = c(25,18,18,rep(12,6)))
 edges <- data.frame(from = c(1,1,1,1,2,2,2,3,3,3), to = c(2,3,4,6,4,5,7,4,7,8),arrows = c(""),length = rep(75,10))
 
@@ -865,16 +865,16 @@ Aftalelovens principper har betydning på hele aftaleområdet, fx i:
 
 nodes <- data.frame(id = 1:7, 
                     shape = c("box"), 
-                    label = c("Aftalelov","Forsikringsaftalelov","Kreditaftalelov","Forbrugeraftalelov","AB92","Købelov","E-handelslov"),
+                    label = c(" Aftalelov "," Forsikringsaftalelov "," Kreditaftalelov "," Forbrugeraftalelov "," AB92 "," Købelov "," E-handelslov "),
                     font.size = c(50,25,25,25,25,25,25))
 edges <- data.frame(from = c(1,1,1,1,1,1), to = c(2,3,4,5,6,7),arrows = c("to"),length = rep(20,6))
 
-visNetwork(nodes, edges, height = "500px", width = "100%") %>% 
+visNetwork(nodes, edges) %>% 
   visNodes(color = list(background = "lightgrey", 
                         border = "darkblue",
                         highlight = "yellow"),
            shadow = list(enabled = FALSE, size = 30))  %>%
-  visHierarchicalLayout(direction = "LR",levelSeparation = 500)
+  visHierarchicalLayout(direction = "LR",levelSeparation = 400)
   # visLayout(randomSeed = 24) # to have always the same network
 
 ```
@@ -919,9 +919,9 @@ edges <- data.frame(from = c(1),
                     )
  visNetwork(nodes, edges,main = "Gensidigt løfte") %>%
  visGroups(groupname = "A", shape = "icon", 
-           icon = list(code = "f007", size = 200)) %>%
+           icon = list(code = "f007", size = 150)) %>%
  visGroups(groupname = "B", shape = "icon", 
-           icon = list(code = "f007", size = 200, color = "red",highlight = "yellow")) %>%
+           icon = list(code = "f007", size = 150, color = "red",highlight = "yellow")) %>%
  addFontAwesome() %>%
  
  visEdges(shadow = TRUE,
@@ -942,9 +942,9 @@ edges <- data.frame(from = c(1),
                     )
  visNetwork(nodes, edges, main = "Ensidigt løfte") %>%
  visGroups(groupname = "A", shape = "icon", 
-           icon = list(code = "f007", size = 200, color = "red")) %>%
+           icon = list(code = "f007", size = 150, color = "red")) %>%
  visGroups(groupname = "B", shape = "icon", 
-           icon = list(code = "f007", size = 200, color = "black")) %>%
+           icon = list(code = "f007", size = 150, color = "black")) %>%
  addFontAwesome() %>%
  
  visEdges(shadow = TRUE,
