@@ -880,6 +880,120 @@ visNetwork(nodes, edges, height = "500px", width = "100%") %>%
 ```
 
 
+## Aftaleindgåelse
+
+HR: Aftalefrihed – vi kan frit aftale hvad vi vil
+*	U1: Begrænsninger i præceptive lovregler, fx
+  +	Funktionærlovens regler om opsigelsesvarsler
+  +	Forbrugeraftalelovens regler om fortrydelsesret
+*	U2: Urimelige aftaler, aftalelovens §§ 38c, jf. 36
+*	U3: Lov og ærbarhed
+
+
+
+### Hvad er en aftale?
+
+Ordet ”aftale”: En aftale - jf. aftalelovens titel - består af viljeserklæringer, som to eller flere personer afgiver indbyrdes, og hvoraf mindst én erklæring er et løfte, som har karakter tilbud. Aftalebegrebet bruges oftest om et tilbud, som er accepteret af modparten, f.eks. en pagt, traktat, kontrakt, charter, overenskomst, vedtægt, vedtagelse, konvention og studehandel. Aftaler er bindende, uanset om de er mundtlige eller skriftlige, jf. aftalelovens § 1. Mundtlige aftaler er således lige så bindende som skriftlige, jf. DL 5–1–2 og forudsætningsvis § 3, stk. 2, som fastslår, at tilbud, der fremsættes mundtligt skal accepteres straks. De mundtlige kan bare være sværere at bevise, hvis parterne bliver uenige om aftalens indhold. Kontrakten er skriftlig og kan håndhæves i retssystemet. Bevisbyrde - Den part der hævder en mundtlig aftale er indgået, har bevisbyrden (som er hovedreglen i dansk ret; en ligefrem bevisbyrde).
+
+
+Mundtlige aftaler ctr. skriftlige aftaler:
+*	Aftaler er bindende, uanset om de er mundtlige eller skriftlige. De mundtlige kan bare være sværere at bevise, hvis parterne bliver uenige om aftalens indhold. Kontrakten er skriftlig
+*	Bevisbyrde - Den part der hævder en mundtlig aftale er indgået, har bevisbyrden
+  
+Ensidigt løfte ctr. gensidigt løfte se figurer.  
+Udtrykkeligt løfte ctr. stiltiende løfte.
+
+
+
+
+
+
+```{r faicon, echo=FALSE}
+nodes <- data.frame(id = 1:2, group = c("B", "A"),label = c(" Sælger "," Køber "))
+edges <- data.frame(from = c(1), 
+                    to = c(2),
+                    arrows = c("to","from"),
+                    length = c(800,500),
+                    label=c("Varer/Ydelser","Penge/modydelse"),
+                    smooth = TRUE
+                    )
+ visNetwork(nodes, edges,main = "Gensidigt løfte") %>%
+ visGroups(groupname = "A", shape = "icon", 
+           icon = list(code = "f007", size = 200)) %>%
+ visGroups(groupname = "B", shape = "icon", 
+           icon = list(code = "f007", size = 200, color = "red",highlight = "yellow")) %>%
+ addFontAwesome() %>%
+ 
+ visEdges(shadow = TRUE,
+           arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
+           color = list(color = "lightblue", highlight = "red"))
+```
+
+
+
+```{r faicon2, echo=FALSE}
+nodes <- data.frame(id = 1:2, group = c("B", "A"),label = c(" Testator "," Arving "))
+edges <- data.frame(from = c(1), 
+                    to = c(2),
+                    arrows = c("to"),
+                    length = c(300),
+                    label=c(" ARV "),
+                    smooth = TRUE
+                    )
+ visNetwork(nodes, edges, main = "Ensidigt løfte") %>%
+ visGroups(groupname = "A", shape = "icon", 
+           icon = list(code = "f007", size = 200, color = "red")) %>%
+ visGroups(groupname = "B", shape = "icon", 
+           icon = list(code = "f007", size = 200, color = "black")) %>%
+ addFontAwesome() %>%
+ 
+ visEdges(shadow = TRUE,
+           arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
+           color = list(color = "lightblue", highlight = "red"))
+```
+
+### Parterne og juridisk terminologi
+
+
+##### Ejendomsmægleren tager initiativ til en formidlingsaftale om salg af et hus:  
+
+*	Tilbudsgiver (ejendomsmægleren): Den der afsender/giver et tilbud til en anden.
+*	Tilbudsmodtager (boligsælgeren): Den som modtager et tilbud.   
+
+##### En kunde tager initiativ til en forsikringsaftale:  
+
+*	Tilbudsgiver (kunden): En interesseret kunde sender en begæring til et forsikringsselskab med ønske om en forsikring.
+*	Tilbudsmodtager (sælger): Sælger modtager en ordre eller ønske om køb fra interesseret køber.
+*	Et løfte: En ensidig erklæring fra en person om at ville påtage sig en pligt. Løftet skaber en forventning hos modtager. Løftet har følgende retsvirkninger: Dels at løftegiveren har pligt enten til at opfylde løftet efter dets indhold (såkaldt naturalopfyldelse) eller til at erstatte løftemodtagerens økonomiske interesse i løftets opfyldelse, dvs. erstatning i form af såkaldt positiv opfyldelsesinteresse (forudsat naturligvis, at der foreligger et ansvarsgrundlag).
+*	Tilbud: Et tilbud er et løfte, som taber sin virkning, hvis det ikke accepteres i rette tid. F.eks. et løfte om at levere en vare eller tjenesteydelse til en bestemt pris og et bestemt sted på et bestemt tidspunkt.
+*	Accept: En erklæring, som har karakter af antagende svar på tilbud. Et svar, hvori man siger ja til et tilbud. Accepten er både et løfte der binder acceptanten, når modtageren har hørt/læst accepten (kundskabsøjeblikket), og det er samtidig et påbud der binder modtageren, når det er kommet frem, dvs. når et svar (tilbud eller accept) er modtaget i modtagerens brevkasse, indbakke eller lignende, men indholdet er endnu ikke læst. Kommet til kundskab: Det øjeblik modtageren er blevet bekendt med indholdet af tilbud eller accept, dvs. har hørt eller læst.
+*	Kommet frem: Når et svar (tilbud eller accept) er modtaget i modtagerens brevkasse, indbakke eller lignende, men indholdet er endnu ikke læst.
+*	Kommet til kundskab: Det øjeblik modtageren er blevet bekendt med indholdet af tilbud eller accept, dvs. har hørt eller læst.
+*	Opfordring til at gøre tilbud: er en ikke-bindende henvendelse til andre om at give tilbud.
+*	Påbud er en erklæring: som går ud på at lægge bånd på adressaten.
+*	Reklamation: er en indsigelse i anledning af et retsforhold.
+*	Pligtmæssig reklamation: er en reklamation, som afgives af hensyn til adressaten og forsendes på adressatens risiko, jf. aftalelovens § 40 (og tilsvarende købelovens § 61). Aftaleloven bruger herom udtrykket »give meddelelse«.
+
+
+### Aftalemodellen
+
+*	Tilbudsgiver sender sit tilbud
+………….fremsendelsestid
+*	Tilbudsmodtager modtager tilbud (kommet frem)
+*	Tilbudsmodtager læser tilbud (kommet til kundskab)
+………….betænkningstid
+*	Tilbudsmodtager accepterer tilbud/sender accept
+………….tilbagesendelsestid
+*	Accept når frem til tilbudsgiver (kommet frem)
+*	Tilbudsgiver læser accepten (kommet til kundskab)
+
+Resultat: Der er indgået en juridisk bindende aftale
+
+
+
+
+
+
 ## Quiz  
 <h3><a href="https://quiz.tepedu.dk/juraaftale" target="_blank">Quiz Aftaleret</a></h3>
 
