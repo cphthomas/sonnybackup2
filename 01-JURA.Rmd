@@ -1119,6 +1119,7 @@ Kan skadelidte ikke bevise det, er det ikke muligt at få erstatning fra en skad
 
 ---
 
+
 ### Ansvar for ikke at gøre noget
 Det er ikke kun handlinger, man kan blive erstatningsansvarlig for. I visse tilfælde kan man også blive erstatningsansvarlig for sine undladelser. Det sker oftest i situationer, hvor der er pligt til at handle. Eksempler er husejeren, der ikke gruser et isglat fortov, eller forældre, der ikke holder øje med deres børn.
 
@@ -1566,31 +1567,31 @@ Sådanne skader dækkes ikke, og man skal således købe en autoansvarsforsikrin
   <iframe src="https://player.vimeo.com/video/320339623" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
-# Test
+<!-- # Test -->
 
-```{r echo=FALSE}
-# install.packages("rhandsontable")
-library(rhandsontable)
-DF = data.frame(integer = 1:10,
-                   numeric = rnorm(10),
-                   logical = rep(TRUE, 10), 
-                   character = LETTERS[1:10],
-                   factor = factor(letters[1:10], levels = letters[10:1], 
-                                   ordered = TRUE),
-                   factor_allow = factor(letters[1:10], levels = letters[10:1], 
-                                         ordered = TRUE),
-                   date = seq(from = Sys.Date(), by = "days", length.out = 10),
-                   stringsAsFactors = FALSE)
+<!-- ```{r echo=FALSE} -->
+<!-- # install.packages("rhandsontable") -->
+<!-- library(rhandsontable) -->
+<!-- DF = data.frame(integer = 1:10, -->
+<!--                    numeric = rnorm(10), -->
+<!--                    logical = rep(TRUE, 10),  -->
+<!--                    character = LETTERS[1:10], -->
+<!--                    factor = factor(letters[1:10], levels = letters[10:1],  -->
+<!--                                    ordered = TRUE), -->
+<!--                    factor_allow = factor(letters[1:10], levels = letters[10:1],  -->
+<!--                                          ordered = TRUE), -->
+<!--                    date = seq(from = Sys.Date(), by = "days", length.out = 10), -->
+<!--                    stringsAsFactors = FALSE) -->
 
-rhandsontable(DF, width = 600, height = 300) %>%
-  hot_col("factor_allow", allowInvalid = TRUE)
+<!-- rhandsontable(DF, width = 600, height = 300) %>% -->
+<!--   hot_col("factor_allow", allowInvalid = TRUE) -->
 
-meancalc <- mean(DF$numeric)
-meancalc
-```
-
-
+<!-- meancalc <- mean(DF$numeric) -->
+<!-- meancalc -->
+<!-- ``` -->
 
 
-<iframe src="https://cphthomas.shinyapps.io/shinytest/" width="800" height="900" style="border: none;"></iframe>
+
+
+
 
