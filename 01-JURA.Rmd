@@ -15,7 +15,7 @@ pacman::p_load(timeDate, DT,plotly,rio,exams,e1071,WriteXLS,maps,knitr,kableExtr
 
 # Indledning 
 
-<!-- <!-- BEGIN PROTECT--> -->
+<!-- <!-- BEGIN PROTECT-->
 <!-- <meta name="robots" content="noindex, nofollow"> -->
 <!-- <META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE"> -->
 <!-- <style> -->
@@ -55,7 +55,7 @@ pacman::p_load(timeDate, DT,plotly,rio,exams,e1071,WriteXLS,maps,knitr,kableExtr
 <!--   SentryProtect(); /* call it here  */ -->
 <!-- } -->
 <!-- </script> -->
-<!-- <!-- END PROTECT --> -->
+<!-- <!-- END PROTECT -->
 
   
 
@@ -328,10 +328,28 @@ En ministers arbejde består bl.a. i at:
 
 ## Domstolene
 
-![](img/domstolene.png)
+```{r network,echo=FALSE, result=TRUE}
+
+nodes <- data.frame(id = 1:9, 
+                    shape = c("box"), 
+                    label = c("Højesteret","Vestre \n Landsret","Østre \n Landsret","Sø og \n Handelsretten","Tinglysningsretten","Grønlandsdomstolen","Byretterne","Retten på Færøerne", " Procesbevillingsnævnet \n Den særlige klageret \n Dommerudnævnelsesrådet \n Bibeskæftigelsesnævnet"),
+                    font.size = c(25,18,18,rep(12,6)))
+edges <- data.frame(from = c(1,1,1,1,2,2,2,3,3,3), to = c(2,3,4,6,4,5,7,4,7,8),arrows = c(""),length = rep(75,10))
+
+visNetwork(nodes, edges, height = "500px", width = "100%",avoidOverlap=2) %>% 
+  visNodes(color = list(background = "lightblue", 
+                        border = "darkblue",
+                        highlight = "yellow"),
+           shadow = list(enabled = FALSE, size = 30))  %>%
+  visHierarchicalLayout(direction = "UD",levelSeparation = 100)
+  #visLayout(randomSeed = 24) # to have always the same network
+
+```
 Uafhængige domstole er en grundlæggende del af magtens tredeling i et demokrati. Sådan er det også i Danmark. Grundloven siger nemlig, at domstolene alene har den dømmende magt.
 
  
+
+
 
 ### Domstolenes opgaver
 
@@ -554,13 +572,18 @@ Information og vejledning kan findes på www.tinglysningsretten.dk
 
 ### Procesbevillingsnævnet
 Procesbevillingsnævnet blev oprettet pr. 1. januar 1996 med det formål at behandle ansøgninger om 2. og 3. instansbevillinger i civile sager og straffesager. Siden den 1. januar 2007 har Procesbevillingsnævnet endvidere haft til opgave at behandle klager over Civilstyrelsens afslag på ansøgninger om fri proces.
-Appeltilladelse
+
+#### Appeltilladelse
 En appeltilladelse indebærer, at en sag, der ikke ellers ville kunne ankes eller kæres, kan indbringes for en højere retsinstans. Appeltilladelse forudsætter, at sagen rejser spørgsmål af principiel karakter, eller at særlige grunde taler for tilladelse. 
-Fri proces
+
+#### Fri proces
 Fri proces indebærer i grundtræk, at den pågældende får en advokat beskikket til at føre sagen, og at statskassen betaler sagens omkostninger, herunder retsafgifter, advokatsalær og eventuelle sagsomkostninger, som skal betales til modparten. Fri proces er især forbeholdt personer, som på den ene side ikke selv har økonomisk mulighed for at betale sagsomkostningerne, men som på den anden side har rimelig grund til at føre proces, navnlig fordi der er udsigt til at vinde sagen.
+
 Procesbevillingsnævnets afdeling for appeltilladelser består af en højesteretsdommer (formand), en landsdommer, en byretsdommer, en advokat og et medlem, der repræsenterer retsvidenskaben.
 Nævnets afdeling for fri proces består af en landsdommer (afdelingsformand), en byretsdommer og en advokat.
+
 Beslutningerne på nævnsmøderne træffes ved almindelig stemmeflerhed. Der afholdes i almindelighed møde i hver afdeling ugentligt, og sagerne udsendes ca. en uge før mødet. Hastesager kan dog udsendes med kortere varsel. Nævnsmøderne er ikke offentlige, og der er ikke mulighed for at få foretræde for nævnet.
+
 I overensstemmelse med forarbejderne til lovgivningen om Procesbevillingsnævnets virksomhed begrundes nævnets afgørelser alene med en henvisning til indholdet af de bestemmelser, der giver hjemmel for meddelelse af bevilling.
 Bevillingsmæssigt og administrativt hører Procesbevillingsnævnet under Domstolsstyrelsen, men Procesbevillingsnævnet er uafhængigt af domstolene og af den offentlige forvaltning. Man kan derfor ikke klage over nævnets afgørelser til justitsministeren eller til Folketingets Ombudsmand.
 
@@ -832,12 +855,13 @@ I juridisk Ordbog defineres juridisk metode som følger:
 ## Aftaleloven
 
 Aftalelovens principper har betydning på hele aftaleområdet, fx i:
-*	Forsikringsaftaleloven, kreditaftaleloven, forbrugeraftaleloven, AB 18, købeloven, E-handelsloven m.fl.
+
+* Forsikringsaftaleloven, kreditaftaleloven, forbrugeraftaleloven, AB 18, købeloven, E-handelsloven m.fl.
 *	Aftaleindgåelse - aftaleloven §§2-9
   + Deklaratorisk, dvs. parterne kan aftale anden fremgangsmåde ved aftaleindgåelse, end den der er beskrevet i aftaleloven.
 
 
-```{r network,echo=FALSE, result=TRUE}
+```{r network7,echo=FALSE, result=TRUE}
 
 nodes <- data.frame(id = 1:7, 
                     shape = c("box"), 
@@ -1446,7 +1470,13 @@ DF = data.frame(integer = 1:10,
 
 rhandsontable(DF, width = 600, height = 300) %>%
   hot_col("factor_allow", allowInvalid = TRUE)
+
+meancalc <- mean(DF$numeric)
+meancalc
 ```
 
 
+
+
+<iframe src="https://cphthomas.shinyapps.io/shinytest/" width="800" height="900" style="border: none;"></iframe>
 
