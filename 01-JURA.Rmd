@@ -1320,9 +1320,105 @@ Fejlskrift: Fx en skrivelse får et andet indhold end tilsigtet. Løftet i skriv
 
 Modsætningsvis: Hvis løftemodtager ikke indså eller burde have kunnet indse, at det var en fejl, er løftemodtager i god tro og aftalen er gyldig.
 
+#### God og ond tro
+
+*	God tro
+      + Løftemodtager(LM) havde ikke viden om ugyldighedsgrunden.
+      + Løftemodtager(LM) vidste ikke eller burde have vidst, at løftet fra løftegiver(LG) var mangelfuldt, fx afgivet pga. ulovlig tvang eller at løftegiver var umyndig
+*	Ond tro
+      + Løftemodtager havde en viden om ugyldighedsgrunden. Løftemodtager indså eller burde have indset, at løftet fra løftegiver var mangelfuldt, fx afgivet pga. ulovlig tvang eller at løftegiver var umyndig
+ 
+* Ved stærke ugyldighedsgrunde:
+      +	LM er i ond tro = LG er ikke bundet af løftet (aftalen
+      erklæres ugyldig
+      +	LM er i god tro = LG er ikke bundet af løftet (aftalen erklæres ugyldig)
+
+*Ved svage ugyldighedsgrunde:
+      +	LM er i ond tro = LG er ikke bundet af løftet (aftalen erklæres ugyldig
+      +	LM er i god tro = LG er bundet af løftet (aftalen fortsat bindende)
+
+
+ 
+#### Urimelige aftaler
+Indholdsmangler - Hvis aftalen har fået et urimeligt indhold, kan den tilsidesættes helt eller delvist
+
+*	Aftalelovens § 33: I strid med almindelig hæderlighed
+*	Generalklausulen, aftalelovens § 36: Aftalen kan tilsidesættes helt eller delvis, hvis det ville være urimeligt eller i strid med redelig handlemåde at gøre den gældende. Ved forbrugeraftaler gælder yderligere aftalelovens § 38c, stk. 2!
+
+I vurderingen indgår:
+
+*	Forholdene ved aftalens indgåelse
+*	Aftalens indhold og
+*	Senere indtrufne omstændigheder
+
+
+#### Bristende forudsætninger
+
+*	Et løfte kan afgives på baggrund af nogle forudsætninger, som ikke nødvendigvis er diskuteret eller udtrykt klart mellem parterne i en aftale.
+*	Hvis forudsætningen ikke holder, taler man om bristende, svigtende eller urigtige forudsætninger, hvilket i nogle tilfælde kan medføre at aftalen ophæves.
+
+Ophævelse kræver at 3 betingelser skal være opfyldt:
+
+1.	Forudsætningen skal have været væsentlig for løftegiver.
+2.	Forudsætningen skal være kendt for løftemodtager.
+3.	Forudsætningen skal være relevant og rimelig efter forholdene og i forhold til løftemodtagers risiko og byrde, hvis forudsætningen svigter.
+
+
+En ugyldig aftale – Parterne er ikke forpligtet af det løfte de har afgivet og aftalen ophæves.
+
+*	Tilbagelevere allerede udvekslede ydelser (penge/varer)
+*	Evt. erstatning til den part, der har handlet i tillid til aftalen, og ved ophævelsen lider et økonomisk tab.
+      + Negativ kontraktsinteresse: Erstatningskrav, hvor man i økonomisk henseende stilles som om aftalen slet ikke var indgået – tilbage til status quo.
+      
+
+### Aftalens omfang og fortolkning
+
+#### Standardkontrakter/vilkår
+
+Standardvilkår ses eksempelvis i fortrykt lejekontrakt, salgsaftale for biler, lånedokumenter, forsikringsaftaler.
+
+* HR: Standardvilkår trykt på eller vedlagt kontrakten, anses for vedtaget ved kundens underskrift.
+        Betingelse: Standardvilkårene skal være påtrykt eller vedhæftet kontrakten. Vilkår der eftersendes efter underskrift gælder ikke, da vilkårene så ikke er gensidigt vedtaget.
+* U: Et standardvilkår kan tilsidesættes, hvis det vurderes som urimeligt for kunden (aftalelovens § 36 og § 38 a-d)
+ 
 
 
 
+
+*	Salgs- og leveringsbetingelser skal præsenteres for kunden inden eller i forbindelse med aftalens indgåelse. Fremsendelse sammen med faktura anses ikke for vedtaget
+*	Usædvanlige vilkår skal fremhæves i en kontrakt, hvis de skal anses for vedtaget – må ikke gemmes blandt ”de små bogstaver.” Risiko for tilsidesættelse, jf. AFTALELOVENS § 36.
+*	Forbrugeraftaler – Den erhvervsdrivende, som indgår aftaler med forbrugere, skal lave aftaler på en klar og forståelig måde, jf. AFTALELOVENS § 38b, stk. 2.   
+
+
+*Fortolkningsprincipper:* Ved tvivl om indholdet af en aftale.  
+*Koncipistreglen:* Aftalen fortolkes til skade for ham, som har udarbejdet aftalen.  
+*Minimumsreglen:* Aftalen fortolkes til fordel for løftegiver.  
+*Prioritetsreglen:* Aftalen fortolkes til fordel for det specielle vilkår frem for det generelle.  
+*Gyldighedsreglen:* Aftalen fortolkes med henblik på at opnå en gyldig aftale, som vil kunne gennemføres.  
+*Rimelighedsreglen:* Aftalen fortolkes i overensstemmelse med hvad der er rimeligt og hensigtsmæssigt.  
+
+
+```{r echo=FALSE}
+options(knitr.table.format = "html")
+collapse_rows_dt <- data.frame(Regel = c("Koncipistreglen", "Minimumsreglen","Prioritetsreglen", "Gyldighedsreglen","Rimelighedsreglen"),
+                 Tolkning = c("Dette fortolkningsprincip kaldes også for uklarhedsreglen og betyder, at den part som har konciperet (skrevet) kontrakten må bære risikoen for tvetydighed. Er der en uklarhed i kontrakten, tolkes aftalen til skade eller ugunst for koncipisten og dermed mindst tyngende for den anden part, som ikke har haft indflydelse på aftalens formulering. Uklarhedsreglen er særlig relevant ved fortolkning af standardaftaler, der er udarbejdet af en stærk part.",
+                              "Hvis der er tvivl om, hvad løftegiveren har forpligtet sig til i aftalen, vælges den forståelse af aftalen, som er
+mest gunstig for løftegiveren. Hvis der fx er tvivl, om der er aftalt simpel kaution eller selvskyldnerkaution, vælges simpel kaution, der er mest gunstig for forbrugeren. Særligt hvad angår forbrugeraftaler, har minimumsreglen fundet en plads i AFTL § 38b. Bestemmelsen beskytter forbrugeren i de tilfælde, hvor et tyngende aftalevilkår ikke har været til forhandling med en erhvervsdrivende aftalepart. En sådan aftale skal tolkes på den måde, som er mest gunstig for forbrugeren.
+",
+                              "Ved fortolkning efter prioritetsreglen går et specielt vilkår forud for et generelt vilkår. Man kan også kalde det en fortolkning efter et lex specialis-princip, hvor en speciel og udspecificeret bestemmelse vejer tungere end en generel formuleret bestemmelse",
+                              "Hvis man står overfor et valg, om aftalen er gyldig og kan gennemføres, eller ugyldig og må bortfalde, er gyldighedsreglen et fortolkningsprincip, hvor aftalen tolkes med henblik på at opnå en gyldig aftale, som vil kunne gennemføres.",
+                              "Efter rimelighedsreglen fortolker man ud fra hensigtsmæssigheds- og rimelighedsbetragtninger. Ved tvivl om forståelsen af en aftale, tolkes aftalen i overensstemmelse med, hvad der er rimeligt."))
+                 
+kable(collapse_rows_dt, align = "l") %>%
+  kable_styling(full_width = T,bootstrap_options = c( "hover","responsive","bordered","striped")) %>%
+  column_spec(1, bold = T) %>%
+  collapse_rows(columns = 1:2, valign = "top") %>%
+  column_spec(2,  bold = T, color = "white", background = "red")
+  # row_spec(1, bold = T, color = "white", background = "red") %>%
+# row_spec(5:9, bold = T, color = "Black", background = "yellow") %>%
+# add_header_above(c( "Koncipistreglen" = 2),italic = TRUE)
+
+```
 
 
 
