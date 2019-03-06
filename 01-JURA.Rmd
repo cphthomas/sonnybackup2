@@ -1037,9 +1037,176 @@ edges <- data.frame(from = c(1),
            color = list(color = "lightblue", highlight = "red"))
 ```
 
+#### Tilbud eller opfordring til tilbud
 
+Hovedregel: Tilbud er bindende for afgiveren, jf. aftalelovens § 1:
+
+*	Tilbuddet bliver bindende for tilbudsgiver, når tilbudsmodtager får kendskab til tilbuddets indhold.
+    +	Tilbud er bindende i butikker og butiksvinduer, medmindre køber burde indse, at der var tale om en fejl
+    +	Tilbud er bindende i web-butikker, når sælger selv har råderet over websitet
+
+Undtagelser: Opfordring til tilbud, jf. aftalelovens § 9:
+
+*	Nogle typer tilbud er ikke bindende for sælger, fx:
+    + Slagtilbud og ”så længe lager haves”, tilbud og priser i aviser og kataloger, på plakater, annoncer, TV- og radioreklamer, priser og tilbud på internettet, når sælger ikke selv har råderet over websitet
+ 
+#### Afslag på tilbud
+
+
+*	Hvis tilbudsmodtager forholder sig passiv, bortfalder tilbuddet når acceptfristen er udløbet, og sælger kan frit sælge til anden side.
+*	Hvis tilbudsmodtager afslår tilbuddet, er det bortfaldet, selvom acceptfristen ikke er udløbet, jf. aftalelovens § 5. Sælger kan frit sælge til anden side.  
+
+Situation: Tilbagekaldelse af afslag. Tilbudsmodtager (potentiel køber) sender et afslag til sælger, men han fortryder sit afslag.
+– Tilbuddet er stadig bindende for sælger, hvis købers tilbagekaldelse kommer til tilbudsgivers (sælgers) kundskab, senest samtidig med at sælger læser afslaget.
 
   
+
+#### Accept
+
+Acceptfrist er fastsat i tilbuddet
+
+*	Når tilbudsmodtager har læst eller hørt om tilbuddet, har han en frist til at overveje, om han vil acceptere, fx i form af en ordrebekræftelse.
+*	Accepten er rettidig, hvis den er kommet frem til tilbudsgiver inden acceptfristens udløb, jf. aftalelovens § 2.
+*	Hvis acceptfristen er angivet til 8 dage, regnes fristen fra tilbuddets datering.
+
+
+#### Accept – den legale acceptfrist
+Ingen acceptfrist i tilbud
+
+*	Den legale acceptfrist, jf. aftalelovens § 3
+Fremsendelsestid + rimelig betænkningstid + tilbagesendelsestid
+*		Rimelig betænkningstid” afhænger af de konkrete omstændigheder. Betænkningstid er:
+    +	Kort, hvis prisen på salgsproduktet svinger meget
+    +	Kort, hvis der er tale om letfordærvelige varer
+    +	Længere, hvis der er tale om komplekse og større tilbud
+*	Mundtlige tilbud der gives uden acceptfrist, skal accepteres
+straks, ellers er det bortfaldet, jf. aftalelovens § 3, stk. 2.
+
+#### Accept - forsinket
+
+Accepten kommer for sent frem – fristen er sprunget -
+Aftalelovens § 4:
+
+* HR: § 4, stk. 1: Forsinket accept betragtes som et nyt tilbud, som den oprindelige tilbudsgiver skal acceptere, før der er indgået en bindende aftale.
+* U: § 4, stk. 2: Accepten er OK, hvis tilbudsgiver må indse at acceptanten tror at accepten er rettidig, fx hvis accept er sendt inden fristens udløb, men bliver forsinket hos postvæsen - tjek datostempel.
+* NB !! Hvis tilbudsgiver ikke vil være bundet af en forsinket accept, skal han uden ugrundet ophold give acceptanten meddelelse om forsinkelsen. Lader han som ingenting, risikerer han at være bundet	og skal opfylde aftalen.
+”Give meddelelse” se aftalelovens § 40
+
+
+#### Tilbagekaldelse af tilbud/accept
+
+Aftalelovens § 7
+Situation: Tilbudsgiver vil annullere sit tilbud
+
+*	Tilbud kan tilbagekaldes af tilbudsgiver, hvis tilbagekaldelsen kommer frem inden eller samtidig med, at det oprindelige tilbud kommer til tilbudsmodtagers kundskab.
+
+Situation: Acceptanten vil annullere sin accept
+*	Svar/accept kan tilbagekaldes af acceptanten, hvis tilbagekaldelsen kommer frem inden eller samtidig med, at accepten kommer til tilbudsgivers kundskab.
+
+
+Re integra-reglen - aftalelovens § 39, 2. pkt.:  
+Under særlige omstændigheder kan tilbagekaldelse alligevel ske efter fristens udløb, hvis to betingelser er opfyldt:  
+
+1.	Tilbuddet eller accepten må ikke have virket bestemmende på modtagerens handlemåde, fx har tilbudsgiver sat produktion af ordren i gang på baggrund af accepten?
+2.	Årsagen til at tilbagekaldelsen er kommet for sent frem, skyldes særlige omstændigheder.
+Re integra-reglen kan ikke påberåbes bare fordi man har fortrudt. Der skal noget særligt til.
+
+
+
+ 
+#### Uoverensstemmende accept
+
+Accepten skal være i overensstemmelse med tilbuddet – spejlbillede, jf. aftalelovens § 6:
+
+* HR: § 6, stk. 1: En uoverensstemmende accept er et afslag, og vil blive betragtet som et modbud (nyt tilbud), men fra acceptantens side.
+*U: § 6, stk. 2 – En uoverensstemmende accept betragtes ikke som et modbud (nyt tilbud), hvis afsenderen tror,	at accepten er i overensstemmelse med tilbuddet og tilbudsgiveren må indse at acceptanten tror at accepten er ok.  
+
+NB !! Hvis tilbudsgiver ikke vil være bundet af indholdet i den ”forkerte”
+accept, skal han uden ugrundet ophold give acceptanten besked. Lader han som ingenting, er tilbudsgiver bundet af aftalen og skal levere i henhold til indholdet af den uoverensstemmende accept.
+”Give meddelelse” se aftalelovens § 40
+
+
+
+#### Aftaleindgåelse på internettet
+
+*	Aftaleloven gælder også her
+*	Afsender bærer selv risiko for at e-mailen kommer frem til modtager
+*	”kommet frem”- når mailen ligger i indbakken
+*	”kommet til kundskab”- når mailen åbnes og læses
+*	Aftalelovens § 40 om at ”give meddelelse” omfatter også e-mails
+
+
+
+#### Aftalers ugyldighed
+
+
+1.	Aftalen er bindende, men den kan alligevel bortfalde, hvis aftalen rammes af ugyldighed:
+
+Ugyldighed som kan ramme aftalen kan opstå pga:
+
+*	Tilblivelsesmangler – omstændigheder ved aftalens indgåelse, fx svig, forfalskning, voldelig tvang, udnyttelse mv. (sondres mellem svage og stærke ugyldighedsgrunde)
+*	Habilitetsmangler – en af parterne mangler habilitet eller evne til at indgå aftaler, fx pga. umyndighed, sindssygdom, demens.
+*	Indholdsmangler – indholdet er i strid med loven, moral, almindelig hæderlighed mv.
+*	Bristende forudsætninger
+
+
+
+```{r echo=FALSE}
+text_tbl <- data.frame(
+  Paragraf = c("Tilblivelsesmangler", "Indholdsmangler", "Habilitetsmangler"),
+  Indhold = c(
+    "Ugyldighed pga. omstændigheder ved aftalens indgåelse (tilblivelse), fx: \n
+
+*	Falsk, forfalskning, forvanskning, fuldmagtsover-
+skridelse, voldelig tvang, mekanisk tvang
+*	Svig, udnyttelse, simpel tvang, fejltagelse (fejlskrift),
+pro forma
+*	Tilblivelse i strid med almindelig hæderlighed og
+redelig handlemåde, AFTL §§ 33 og 36
+",
+    
+"2","3"
+
+  )
+)
+
+kable(text_tbl) %>%
+  kable_styling(full_width = F) %>%
+  column_spec(1, bold = T, border_right = T) %>%
+  column_spec(2, width = "30em")
+```
+
+```{r}
+collapse_rows_dt <- data.frame(Mangeltype = c(rep("Tilblivelsesmangler", 4), rep("Indholdsmangler",3 ),rep("Habilitetsmangler",2 )),
+                 Årsag = c("Ugyldighed pga. omstændigheder ved aftalens indgåelse (tilblivelse), fx:
+","falsk, forfalskning, forvanskning, fuldmagtsover-
+skridelse, voldelig tvang, mekanisk tvang
+","svig, udnyttelse, simpel tvang, fejltagelse (fejlskrift),
+pro forma
+","tilblivelse i strid med almindelig hæderlighed og
+redelig handlemåde, AFTL §§ 33 og 36
+","Ugyldighed pga. mangler ved selve aftalens indhold, fx:","i strid med loven","i strid med almindelig moral, almindelig hæderlighed,
+redelig handlemåde
+","Ugyldighed pga. manglende evne eller habilitet, fx:","inhabilitet, umyndighed, værgemål, fornuftsmangel"))
+                 
+kable(collapse_rows_dt, align = "l") %>%
+  kable_styling(full_width = T,bootstrap_options = c( "hover","responsive")) %>%
+  column_spec(1, bold = T) %>%
+  collapse_rows(columns = 1:2, valign = "top") %>%
+row_spec(c(1,5,8), bold = T, color = "white", background = "#428bca")
+
+```
+
+
+
+
+
+
+
+
+
+
+
 
 
 
