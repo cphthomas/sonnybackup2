@@ -1151,32 +1151,9 @@ Ugyldighed som kan ramme aftalen kan opstå pga:
 
 
 
+
+
 ```{r echo=FALSE}
-text_tbl <- data.frame(
-  Paragraf = c("Tilblivelsesmangler", "Indholdsmangler", "Habilitetsmangler"),
-  Indhold = c(
-    "Ugyldighed pga. omstændigheder ved aftalens indgåelse (tilblivelse), fx: \n
-
-*	Falsk, forfalskning, forvanskning, fuldmagtsover-
-skridelse, voldelig tvang, mekanisk tvang
-*	Svig, udnyttelse, simpel tvang, fejltagelse (fejlskrift),
-pro forma
-*	Tilblivelse i strid med almindelig hæderlighed og
-redelig handlemåde, AFTL §§ 33 og 36
-",
-    
-"2","3"
-
-  )
-)
-
-kable(text_tbl) %>%
-  kable_styling(full_width = F) %>%
-  column_spec(1, bold = T, border_right = T) %>%
-  column_spec(2, width = "30em")
-```
-
-```{r}
 collapse_rows_dt <- data.frame(Mangeltype = c(rep("Tilblivelsesmangler", 4), rep("Indholdsmangler",3 ),rep("Habilitetsmangler",2 )),
                  Årsag = c("Ugyldighed pga. omstændigheder ved aftalens indgåelse (tilblivelse), fx:
 ","falsk, forfalskning, forvanskning, fuldmagtsover-
