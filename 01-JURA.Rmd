@@ -1203,6 +1203,129 @@ add_header_above(c( "Oversigt over stærke og svage ugyldighedsgrunde" = 2),ital
 
 ```
 
+De stærke ugyldighedsgrunde:
+
+*	Falsk
+*	Forfalskning
+*	Forvanskning, aftalelovens § 32, stk. 2.
+*	Voldelig tvang, aftalelovens § 28, stk. 1
+*	Umyndighed, værgemål, fornuftsmangel (Værgemålsloven)
+De svage ugyldighedsgrunde:
+
+*	Simpel tvang, aftalelovens § 29
+*	Svig, aftalelovens § 30
+*	Udnyttelse, aftalelovens § 31
+*	Fejlskrift eller anden fejltagelse, aftalelovens § 32, stk. 1 
+*	Falsk: Dokumentet er falsk, fx ved falsk underskrift på  en selvskyldnerkaution. Løftet er ikke ægte.
+*	Forfalskning: Lånedokumentet er forfalsket, hvis der er ændret i dokumentet, fx et beløb – ændret fra 250.000 kr. til 550.000 kr. Løftet er ægte fra starten, men indholdet af løftet ændres. Eller der bliver forfalsket en underskrift.
+*	Forvanskning: Aftaler eller beskeder der under fremsendelsen ændres eller forvanskes ved en fejl, hvorved aftalen får et andet indhold, aftalelovens § 32, stk. 2, fx af et bud eller i en fax.
+    + Hvis afsenderen ikke vil være bundet af indholdet i den fejlagtige erklæring, skal han uden ugrundet ophold efter at han har opdaget fejlen, give besked til modtageren om, at han ikke vil være bundet. Gør han ikke det, er han bundet af indholdet i den fejlagtige aftale.
+    
+Hvad er voldelig tvang?  
+
+*	Voldelig tvang, aftalelovens § 28, stk. 1:
+    +	Aftalen ugyldig hvis løftet fra løftegiver er fremkaldt ved vold eller trussel om øjeblikkelig anvendelse af vold, fx holder en pistol for panden af løftegiver.
+    +	Hvis det er tredjemand, som truer for at fremprovokere et løfte, og løftegiver ikke vil være bundet af løftet/aftalen, skal han uden ugrundet ophold give løftemodtager besked om, at han er blevet truet til at afgive løftet. Gør løftegiver ikke det, bliver han bundet af sit løfte og aftalen er bindende, jf. aftalelovens § 28, stk. 2.
+
+
+
+#### Umyndighed
+
+Personer under 18 år:
+
+* HR: Kan ikke indgå retshandler eller råde over deres formue, fx købe på kredit, sælge sine ting, pantsætte sine ting – aftale vil være ugyldig, uanset om løftemodtager var i god tro.
+* U: Værgemålslovens § 42 – der kan indgås gyldige aftaler med umyndige, hvis der er tale om:
+    1.	Selverhvervelsesreglen (kontantreglen)
+    2.	Pengereglen
+
+Selverhvervelsesreglen:   
+Personer over 15 år kan råde over deres egne penge som de selv har tjent, eller fået ved arv/gave, og hvad værgen har givet dem. !!NB – kun kontantkøb (ej kreditaftaler)
+
+Pengereglen:  
+En aftale med en umyndig, fx en 8-årig, er gyldig, hvis pengereglen er opfyldt:  
+
+*	Pengene modtages kontant til fuld betaling, dvs. ej kreditkøb
+*	Der er sammenhæng mellem varens art, den umyndiges alder og beløbets størrelse.  
+
+Sælgers gode tro er afgørende. Er sælger i tvivl, skal han bede om værgens samtykke, jf. værgemålslovens § 44.
+
+
+Situation: Aftale med mindreårig indgås i god tro, men aftalen rammes af ugyldighed.
+
+*	Hver part skal tilbagelevere hvad de hver især har modtaget. Hvis det er muligt.
+*	Kan den umyndige ikke tilbagelevere, og der er tale om en genstand, som har været den umyndige til nytte, fx cykel eller computer, kan den umyndige risikere at skulle betale erstatning til løftemodtager efter nyttereglen, jf. værgemålslovens § 45.
+*	Har den umyndige fremvist falsk ID ved aftalens indgåelse, skal den umyndige erstatte løftemodtagers tab, uden hensyn til nyttereglen.
+*	Derudover gælder de almindelige erstatningsretlige regler
+
+
+#### Værgemål og fornuftsmangel
+
+*	Personer over 18 år kan komme under værgemål/umyndiggøres, fx pga. svær demens, sindssygdom, psykisk handicap mv.
+*	Ude af stand til at varetage deres økonomiske anliggender, og hvor der er en risiko for forringelse eller økonomisk udnyttelse.
+*	Loven taler om ”Manglende evne til at handle fornuftsmæssigt”
+*	Der beskikkes en værge, som får ansvaret for økonomien.
+*	Aftaler indgået med voksne under værgemål er ugyldige, jf. VML § 46, uanset om løftemodtager var i god tro.
+
+
+
+#### De svage ugyldighedsgrunde 
+
+*	Simpel tvang, aftalelovens § 29
+*	Svig, aftalelovens § 30
+*	Udnyttelse, aftalelovens § 31
+*	Fejlskrift/anden fejltagelse, aftalelovens § 32, stk. 1
+
+
+#### Aftalers ugyldighed simpel tvang, jf. aftalelovens § 29
+
+Anden tvang en voldelig tvang:  
+
+Kompulsiv tvang/psykisk tvang, fx trusler om boykot, skandalisering og afpresning
+
+*	Løfter der er motiveret af simpel tvang er ikke bindende for løftegiver, hvis løftemodtager selv har udøvet tvangen.
+*	Hvis løftet er motiveret simpel tvang udøvet af tredjemand, er løftegiver ikke bundet af sit løfte, hvis løftemodtager indså eller burde have indset at løftet blev afgivet som følge af simpel tvang.
+*	Hvis løftemodtager derimod var i god tro, dvs. ikke indså eller burde have indset at løftet blev afgivet som følge af tredjemands simple tvang, er løftegiver bundet af sit løfte.
+
+
+#### Aftalers ugyldighed
+Svig, AFTL § 30
+
+Svig: Fejlinformation, urigtige oplysninger og  fortielser, der bruges eller tilbageholdes, for at få en aftale i hus.
+
+
+Situation: Sælger af en båd påstår urigtigt, at båden har været ejet af en berømthed, og på den baggrund meddeler køber, at han vil købe båden, trods den høje købesum.
+
+* Løftet om køb af båden kan erklæres ugyldigt, hvis modtageren af løftet var i ond tro bådesælgeren. Løftet er så ikke bindende for bådekøberen.
+* Bådesælgeren er i ond tro, hvis: han vidste eller burde vide om et forhold og alligevel vælger imod bedrevidende, at bruge urigtige oplysninger eller fortie sandheden, for at få en aftale i hus
+
+Svig udøvet af tredjemand
+
+Situation: Peter (tredjemand) har sin båd til salg hos Bo Bådesælger. Peter møder en interesseret køber på Bos parkeringsplads, og fortæller at båden har været A P Møllers i 1990’erne. På den baggrund bliver båden solgt med det samme.
+
+* Bo Bådesælger (løftemodtager) er i god tro, idet han intet ved om Peters fejlinformation. Aftalen mellem bådekøberen og Bo Bådesælger er bindende. 
+
+Svig, er en form vildledelse med det formål at få nogen til at foretage en juridisk disposition , fx indgå en aftale, på et urigtigt grundlag, så personen lider et tab eller udsættes for en uventet risiko for et tab. Svig kan bestå i, at forhold forties, eller at der siges noget urigtigt mod bedre vidende. Da svigagtig optræden er skadelig for det økonomiske samliv, knytter retssystemet alvorlige sanktioner hertil. Et løfte, der er fremkaldt ved svig, kan erklæres ugyldigt i medfør af aftaleloven § 30. Dertil kommer, at svig som udgangspunkt er udtryk for forsæt til formueskade, hvorved den svigagtige adfærd resulterer i en erstatningspligt.
+
+
+#### Aftalers ugyldighed udnyttelse, jf. aftalelovens § 31
+
+Situation: Bent låner Anders penge og Bent kræver urimeligt høje renter (åger-renter). Bent er vidende om at A er i økonomiske vanskeligheder, og ikke kan låne penge andre steder.  
+
+Når Bent i aftaleøjemed udnytter viden om Anders´ vanskeligheder, eller manglende viden/indsigt mv., er der tal om udnyttelse. Bent er i ond tro og aftalen er ugyldig.  
+
+#### Fejlskrift/anden fejltagelse, jf. aftalelovens § 32, stk. 1
+
+
+Fejlskrift: Fx en skrivelse får et andet indhold end tilsigtet. Løftet i skrivelsen er ikke bindende for løftegiver, hvis løftemodtager indså eller burde have indset, at der var tale om en fejl, idet løftemodtager så ville være i ond tro.
+
+Modsætningsvis: Hvis løftemodtager ikke indså eller burde have kunnet indse, at det var en fejl, er løftemodtager i god tro og aftalen er gyldig.
+
+
+
+
+
+
+
 
 
 
