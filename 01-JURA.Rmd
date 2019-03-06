@@ -508,9 +508,11 @@ Godsværneting: Stk. 3: Sager vedrørende formueretsforhold mod de i stk. 1 næv
 )
 
 kable(text_tbl) %>%
-  kable_styling(full_width = F) %>%
+  kable_styling(full_width = T,bootstrap_options = c( "hover","responsive","bordered","striped")) %>%
   column_spec(1, bold = T, border_right = T) %>%
-  column_spec(2, width = "30em")
+  column_spec(2) %>%
+  column_spec(2,  bold = T, color = "white", background = "red")
+# add_header_above(c( "Koncipistreglen" = 2),italic = TRUE)
 ```
 
 

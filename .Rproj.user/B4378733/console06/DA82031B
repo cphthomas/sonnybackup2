@@ -1,244 +1,4 @@
 
-
-Untracked files:
-	[31m3 Danske Banker Ugeafkast i procent.xls[m
-	[31mARIMA1.xlsx[m
-	[31mARIMA2.xlsx[m
-	[31mARIMA22.xlsx[m
-	[31mARIMA23.xlsx[m
-	[31mARIMA3.xlsx[m
-	[31mARIMA4.xlsx[m
-	[31mForbes100.xlsx[m
-	[31mGDP.xlsx[m
-	[31m"Hjemmesidedesigns bes\303\270gstider i millisekunder.xls"[m
-	[31m"IMDB stikpr\303\270ve p\303\245 759 film.xls"[m
-	[31manova.html[m
-	[31mbinomialfordelingen.html[m
-	[31mbookdown-demo_files/figure-html/68label-1.svg[m
-	[31mbookdown-demo_files/figure-html/Binom3ford2-1.svg[m
-	[31mbookdown-demo_files/figure-html/Binom3stk-1.svg[m
-	[31mbookdown-demo_files/figure-html/Binomialfordelingen450-1.svg[m
-	[31mbookdown-demo_files/figure-html/Binomialfordelingen810-1.svg[m
-	[31mbookdown-demo_files/figure-html/Binomialfordelingen850-1.svg[m
-	[31mbookdown-demo_files/figure-html/Binomialfordelingen890-1.svg[m
-	[31mbookdown-demo_files/figure-html/anova1-1.svg[m
-	[31mbookdown-demo_files/figure-html/anova2-1.svg[m
-	[31mbookdown-demo_files/figure-html/anova3-1.svg[m
-	[31mbookdown-demo_files/figure-html/boxplots-1.svg[m
-	[31mbookdown-demo_files/figure-html/boxplotsbank-1.svg[m
-	[31mbookdown-demo_files/figure-html/boxplotsimdb-1.svg[m
-	[31mbookdown-demo_files/figure-html/chi45-1.svg[m
-	[31mbookdown-demo_files/figure-html/chi46-1.svg[m
-	[31mbookdown-demo_files/figure-html/corrplot-1.svg[m
-	[31mbookdown-demo_files/figure-html/gofstatkar-1.svg[m
-	[31mbookdown-demo_files/figure-html/hyp1-1.svg[m
-	[31mbookdown-demo_files/figure-html/hyp2-1.svg[m
-	[31mbookdown-demo_files/figure-html/hyp3-1.svg[m
-	[31mbookdown-demo_files/figure-html/imdbqqplot-1.svg[m
-	[31mbookdown-demo_files/figure-html/qqplotbank-1.svg[m
-	[31mbookdown-demo_files/figure-html/qqplots15_25label-1.svg[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-102-1.png[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-104-1.png[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-106-1.png[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-107-1.png[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-108-1.png[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-109-1.png[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-111-1.png[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-112-1.png[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-113-1.png[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-114-1.png[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-116-1.png[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-118-1.png[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-119-1.png[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-121-1.png[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-124-1.png[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-125-1.png[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-126-1.png[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-126-2.png[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-127-1.png[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-127-2.png[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-128-1.png[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-128-2.png[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-129-1.png[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-130-1.png[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-61-1.svg[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-64-1.svg[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-65-1.svg[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-70-1.png[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-70-2.png[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-71-1.svg[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-72-1.png[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-74-1.svg[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-78-1.svg[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-79-1.svg[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-83-1.svg[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-84-1.svg[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-85-1.svg[m
-	[31mbookdown-demo_files/figure-html/unnamed-chunk-91-1.png[m
-	[31mchi-i-anden-tests.html[m
-	[31mcran-r.html[m
-	[31mden-hypergeometriske-fordeling.html[m
-	[31mfaktoranalyse.html[m
-	[31mgenderroles.xlsx[m
-	[31mimg/Bartlett.png[m
-	[31mimg/Puncture.jpg[m
-	[31mimg/Tukeykramer.png[m
-	[31mimg/anova1.png[m
-	[31mimg/anovaFtest.png[m
-	[31mimg/bankkunder.jpg[m
-	[31mimg/bolig.jpg[m
-	[31mimg/car.png[m
-	[31mimg/chiskade.png[m
-	[31mimg/chiskade2.png[m
-	[31mimg/cointoss.jpg[m
-	[31mimg/death-row-inmates-drug-cocktail.jpg[m
-	[31mimg/gof.png[m
-	[31mimg/gofbolig.png[m
-	[31mimg/gul.jpg[m
-	[31mimg/guncigarettes.jpg[m
-	[31mimg/hypergeo.png[m
-	[31mimg/hypergeo2.png[m
-	[31mimg/hypergeo3.png[m
-	[31mimg/hypergeo4.png[m
-	[31mimg/mm.jpg[m
-	[31mimg/poisson.png[m
-	[31mimg/poisson2.png[m
-	[31mimg/poisson3.png[m
-	[31mimg/readersdigest.jpg[m
-	[31mimg/sampling.jpg[m
-	[31mimg/samplingmethods.png[m
-	[31mimg/sandsynligheder1.png[m
-	[31mimg/titanic.jpg[m
-	[31mimg/usdeath2.jpg[m
-	[31mimg/vandskade.jpg[m
-	[31mklyngeanalyse.html[m
-	[31mlibs/kePrint-0.0.1/[m
-	[31mmediedata.xlsx[m
-	[31mpersonality.xlsx[m
-	[31mpoisson-fordelingen.html[m
-	[31msandsynligheder.html[m
-	[31mstikprveteori.html[m
-	[31mtidsrkker-og-arima.html[m
-
-no changes added to commit
-]0;~/Google Drev/tepedu/stat2019/_bookThomass-MacBook-Pro-3:_book thomaspetersen$ git remote add origin git@github.com:cphthomas/stat2019.git
-fatal: remote origin already exists.
-]0;~/Google Drev/tepedu/stat2019/_bookThomass-MacBook-Pro-3:_book thomaspetersen$ git add . && git commit -a -m . && git push
-[master 9183c61] .
- 151 files changed, 71872 insertions(+), 30398 deletions(-)
- create mode 100644 3 Danske Banker Ugeafkast i procent.xls
- create mode 100644 ARIMA1.xlsx
- create mode 100644 ARIMA2.xlsx
- create mode 100644 ARIMA22.xlsx
- create mode 100644 ARIMA23.xlsx
- create mode 100644 ARIMA3.xlsx
- create mode 100644 ARIMA4.xlsx
- rewrite DK aktiekurser.xlsx (80%)
- create mode 100644 Forbes100.xlsx
- create mode 100644 GDP.xlsx
- create mode 100644 "Hjemmesidedesigns bes\303\270gstider i millisekunder.xls"
- create mode 100644 "IMDB stikpr\303\270ve p\303\245 759 film.xls"
- create mode 100644 anova.html
- create mode 100644 binomialfordelingen.html
- create mode 100644 bookdown-demo_files/figure-html/68label-1.svg
- create mode 100644 bookdown-demo_files/figure-html/Binom3ford2-1.svg
- create mode 100644 bookdown-demo_files/figure-html/Binom3stk-1.svg
- create mode 100644 bookdown-demo_files/figure-html/Binomialfordelingen450-1.svg
- create mode 100644 bookdown-demo_files/figure-html/Binomialfordelingen810-1.svg
- create mode 100644 bookdown-demo_files/figure-html/Binomialfordelingen850-1.svg
- create mode 100644 bookdown-demo_files/figure-html/Binomialfordelingen890-1.svg
- create mode 100644 bookdown-demo_files/figure-html/anova1-1.svg
- create mode 100644 bookdown-demo_files/figure-html/anova2-1.svg
- create mode 100644 bookdown-demo_files/figure-html/anova3-1.svg
- create mode 100644 bookdown-demo_files/figure-html/boxplots-1.svg
- create mode 100644 bookdown-demo_files/figure-html/boxplotsbank-1.svg
- create mode 100644 bookdown-demo_files/figure-html/boxplotsimdb-1.svg
- create mode 100644 bookdown-demo_files/figure-html/chi45-1.svg
- create mode 100644 bookdown-demo_files/figure-html/chi46-1.svg
- create mode 100644 bookdown-demo_files/figure-html/corrplot-1.svg
- create mode 100644 bookdown-demo_files/figure-html/gofstatkar-1.svg
- create mode 100644 bookdown-demo_files/figure-html/hyp1-1.svg
- create mode 100644 bookdown-demo_files/figure-html/hyp2-1.svg
- create mode 100644 bookdown-demo_files/figure-html/hyp3-1.svg
- create mode 100644 bookdown-demo_files/figure-html/imdbqqplot-1.svg
- create mode 100644 bookdown-demo_files/figure-html/qqplotbank-1.svg
- rewrite bookdown-demo_files/figure-html/qqplots15_25-1.svg (61%)
- copy bookdown-demo_files/figure-html/{qqplots15_25-1.svg => qqplots15_25label-1.svg} (73%)
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-102-1.png
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-104-1.png
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-106-1.png
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-107-1.png
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-108-1.png
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-109-1.png
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-111-1.png
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-112-1.png
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-113-1.png
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-114-1.png
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-116-1.png
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-118-1.png
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-119-1.png
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-121-1.png
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-124-1.png
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-125-1.png
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-126-1.png
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-126-2.png
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-127-1.png
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-127-2.png
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-128-1.png
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-128-2.png
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-129-1.png
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-130-1.png
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-61-1.svg
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-64-1.svg
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-65-1.svg
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-70-1.png
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-70-2.png
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-71-1.svg
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-72-1.png
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-74-1.svg
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-78-1.svg
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-79-1.svg
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-83-1.svg
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-84-1.svg
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-85-1.svg
- create mode 100644 bookdown-demo_files/figure-html/unnamed-chunk-91-1.png
- create mode 100644 chi-i-anden-tests.html
- create mode 100644 cran-r.html
- create mode 100644 den-hypergeometriske-fordeling.html
- create mode 100644 faktoranalyse.html
- create mode 100644 genderroles.xlsx
- create mode 100644 img/Bartlett.png
- create mode 100644 img/Puncture.jpg
- create mode 100644 img/Tukeykramer.png
- create mode 100644 img/anova1.png
- create mode 100644 img/anovaFtest.png
- create mode 100644 img/bankkunder.jpg
- create mode 100644 img/bolig.jpg
- create mode 100644 img/car.png
- create mode 100644 img/chiskade.png
- create mode 100644 img/chiskade2.png
- create mode 100644 img/cointoss.jpg
- create mode 100644 img/death-row-inmates-drug-cocktail.jpg
- create mode 100644 img/gof.png
- create mode 100644 img/gofbolig.png
- create mode 100644 img/gul.jpg
- create mode 100644 img/guncigarettes.jpg
- create mode 100644 img/hypergeo.png
- create mode 100644 img/hypergeo2.png
- create mode 100644 img/hypergeo3.png
- create mode 100644 img/hypergeo4.png
- create mode 100644 img/mm.jpg
- create mode 100644 img/poisson.png
- create mode 100644 img/poisson2.png
- create mode 100644 img/poisson3.png
- create mode 100644 img/readersdigest.jpg
- create mode 100644 img/sampling.jpg
- create mode 100644 img/samplingmethods.png
- create mode 100644 img/sandsynligheder1.png
- create mode 100644 img/titanic.jpg
- create mode 100644 img/usdeath2.jpg
- create mode 100644 img/vandskade.jpg
- create mode 100644 klyngeanalyse.html
  create mode 100644 libs/kePrint-0.0.1/kePrint.js
  create mode 100644 mediedata.xlsx
  create mode 100644 personality.xlsx
@@ -1239,4 +999,49 @@ remote: [1;31merror[m: File Nyt arkiv.zip is 335.41 MB; this exceeds GitHub's 
 To https://github.com/cphthomas/jurars.git
  [31m! [remote rejected][m master -> master (pre-receive hook declined)
 [31merror: failed to push some refs to 'https://github.com/cphthomas/jurars.git'
-[m]0;~/Google Drev/JURA/JURARstudioThomass-MacBook-Pro-3:JURARstudio thomaspetersen$ 
+[KThomass-MacBook-Pro-3:JURARstudio thomaspetersen$ PWD[K[K[Kpwd
+/Users/thomaspetersen/Google Drev/JURA/JURARstudio
+]0;~/Google Drev/JURA/JURARstudioThomass-MacBook-Pro-3:JURARstudio thomaspetersen$ cd ..
+]0;~/Google Drev/JURAThomass-MacBook-Pro-3:JURA thomaspetersen$ ls
+DVx7.gif
+E- bog Erhvervs- og Finansjura.docx
+Erhvervs- og finansjura.docx
+Indhold.docx
+JURA-bibliotek
+JURARstudio
+JURARstudio.zip
+JavaScript_new
+Kap. 2 Aftaler.docx
+Kap. 3 Fuldmagt og mellemmænd.docx
+Kap. 4 Forbrugeraftaler Speak.docx
+Kap. 4 Forbrugeraftaler.docx
+Kap. 5 Erstatningsretten og den forsikringsmæssige afdækning.docx
+Kap. 5 Speak Erstatningsretten og den forsikringsmæssige afdækning.docx
+Prøvekapitel Erstatningsretten og den forsikringsmæssige afdækning.docx
+Q i Kreditaftaler.docx
+Q i køb.docx
+Q om erstatning.docx
+Q til aftaler.docx
+Untitled.screenflow
+audiodemo1.screenflow
+folketinget.png
+indholdsfortegnelsertildekommendeelrebgerierhvervs
+jekyll-quiz
+juraGitbook
+juramasterGitbook
+jurars
+lovkatalog
+magicslideshow-trial
+magicslideshow-trial.zip
+mskedukanfindeetstedfordisseppsomendelafabonne.zip
+pics
+quiz
+source.gif
+~$dholdsfortegnelsen til e-bog i erhvervsret til HHX- C.docx
+~$p. 3 Fuldmagt og mellemmænd.docx
+~$p. 4 Forbrugeraftaler Speak.docx
+~$p. 5 Erstatningsretten og den forsikringsmæssige afdækning.docx
+]0;~/Google Drev/JURAThomass-MacBook-Pro-3:JURA thomaspetersen$ cd jurars
+]0;~/Google Drev/JURA/jurarsThomass-MacBook-Pro-3:jurars thomaspetersen$ pwd
+/Users/thomaspetersen/Google Drev/JURA/jurars
+]0;~/Google Drev/JURA/jurarsThomass-MacBook-Pro-3:jurars thomaspetersen$ git add . && git commit -a -m . && git push
