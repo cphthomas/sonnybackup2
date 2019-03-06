@@ -1438,7 +1438,10 @@ kable(collapse_rows_dt, align = "l") %>%
 
 ## Quiz  
 
-<h3><a href="https://quiz.tepedu.dk/juraaftale" target="_blank">Quiz Aftaleret</a></h3>
+
+<h3><a href="https://quiz.tepedu.dk/juraaftale2" target="_blank">Quiz Aftaleindgåelse</a></h3>
+
+<h3><a href="https://quiz.tepedu.dk/juraaftale" target="_blank">Quiz Aftalers fortolkning og udfyldning</a></h3>
 
 
 
