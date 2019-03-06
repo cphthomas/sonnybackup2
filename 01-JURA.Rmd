@@ -885,9 +885,10 @@ visNetwork(nodes, edges) %>%
 ## Aftaleindgåelse
 
 HR: Aftalefrihed – vi kan frit aftale hvad vi vil
+
 *	U1: Begrænsninger i præceptive lovregler, fx
-  +	Funktionærlovens regler om opsigelsesvarsler
-  +	Forbrugeraftalelovens regler om fortrydelsesret
+      +	Funktionærlovens regler om opsigelsesvarsler
+      +	Forbrugeraftalelovens regler om fortrydelsesret
 *	U2: Urimelige aftaler, aftalelovens §§ 38c, jf. 36
 *	U3: Lov og ærbarhed
 
@@ -899,6 +900,7 @@ Ordet ”aftale”: En aftale - jf. aftalelovens titel - består af viljeserklæ
 
 
 Mundtlige aftaler ctr. skriftlige aftaler:
+
 *	Aftaler er bindende, uanset om de er mundtlige eller skriftlige. De mundtlige kan bare være sværere at bevise, hvis parterne bliver uenige om aftalens indhold. Kontrakten er skriftlig
 *	Bevisbyrde - Den part der hævder en mundtlig aftale er indgået, har bevisbyrden
   
@@ -1104,6 +1106,7 @@ Situation: Tilbudsgiver vil annullere sit tilbud
 *	Tilbud kan tilbagekaldes af tilbudsgiver, hvis tilbagekaldelsen kommer frem inden eller samtidig med, at det oprindelige tilbud kommer til tilbudsmodtagers kundskab.
 
 Situation: Acceptanten vil annullere sin accept
+
 *	Svar/accept kan tilbagekaldes af acceptanten, hvis tilbagekaldelsen kommer frem inden eller samtidig med, at accepten kommer til tilbudsgivers kundskab.
 
 
@@ -1335,7 +1338,7 @@ Modsætningsvis: Hvis løftemodtager ikke indså eller burde have kunnet indse, 
       erklæres ugyldig
       +	LM er i god tro = LG er ikke bundet af løftet (aftalen erklæres ugyldig)
 
-*Ved svage ugyldighedsgrunde:
+* Ved svage ugyldighedsgrunde:
       +	LM er i ond tro = LG er ikke bundet af løftet (aftalen erklæres ugyldig
       +	LM er i god tro = LG er bundet af løftet (aftalen fortsat bindende)
 
@@ -1440,6 +1443,8 @@ kable(collapse_rows_dt, align = "l") %>%
 
 
 # Fuldmagter og mellemmænd
+
+
 # Forbrugeraftaler
 
 # Erstatning og den forsikringsmæssige afdækning
@@ -1464,7 +1469,7 @@ Ofte findes der ingen lovgivning, som kan fortælle, hvornår man som privatpers
 
 
 <img src="img/cig.jpg" align="left" width="12%" height="12%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-*U 2015.572 H (U: Ugeskrift for Retsvæsen): Tobaksselskaber ikke ansvarlige for varigt mén som følge af mangeårigt forbrug af cigaretter.*
+* U 2015.572 H (U: Ugeskrift for Retsvæsen): Tobaksselskaber ikke ansvarlige for varigt mén som følge af mangeårigt forbrug af cigaretter.*
 
 ---
 
