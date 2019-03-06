@@ -1075,7 +1075,8 @@ Ingen acceptfrist i tilbud
 
 *	Den legale acceptfrist, jf. aftalelovens § 3
 Fremsendelsestid + rimelig betænkningstid + tilbagesendelsestid
-*		Rimelig betænkningstid” afhænger af de konkrete omstændigheder. Betænkningstid er:
+
+*	Rimelig betænkningstid” afhænger af de konkrete omstændigheder. Betænkningstid er:
     +	Kort, hvis prisen på salgsproduktet svinger meget
     +	Kort, hvis der er tale om letfordærvelige varer
     +	Længere, hvis der er tale om komplekse og større tilbud
@@ -1153,7 +1154,9 @@ Ugyldighed som kan ramme aftalen kan opstå pga:
 
 
 
+
 ```{r echo=FALSE}
+options(knitr.table.format = "html")
 collapse_rows_dt <- data.frame(Mangeltype = c(rep("Tilblivelsesmangler", 4), rep("Indholdsmangler",3 ),rep("Habilitetsmangler",2 )),
                  Årsag = c("Ugyldighed pga. omstændigheder ved aftalens indgåelse (tilblivelse), fx:
 ","falsk, forfalskning, forvanskning, fuldmagtsover-
@@ -1167,17 +1170,38 @@ redelig handlemåde
 ","Ugyldighed pga. manglende evne eller habilitet, fx:","inhabilitet, umyndighed, værgemål, fornuftsmangel"))
                  
 kable(collapse_rows_dt, align = "l") %>%
-  kable_styling(full_width = T,bootstrap_options = c( "hover","responsive")) %>%
+  kable_styling(full_width = T,bootstrap_options = c( "hover","responsive","bordered","striped")) %>%
   column_spec(1, bold = T) %>%
   collapse_rows(columns = 1:2, valign = "top") %>%
-row_spec(c(1,5,8), bold = T, color = "white", background = "#428bca")
+row_spec(c(1,5,8), bold = T, color = "white", background = "#428bca") %>%
+
+add_header_above(c( "Oversigt over mangler og ugyldighedsgrunde" = 2),italic = TRUE)
 
 ```
 
 
+```{r echo=FALSE}
+options(knitr.table.format = "html")
+collapse_rows_dt <- data.frame(Ugyldighedsgrunde = c(rep("Stærke ugyldighedsgrunde", 4), rep("Svage ugyldighedsgrunde",5 ) ),
+                 Årsag = c("Falsk og forfalskning.",
+                  "Forvanskning, AFTL § 32, stk. 2.",
+                  "Voldelig tvang, AFTL § 28, stk. 1.",
+                  "Umyndighed, værgemål, fornuftsmangel, værgemålsloven.",
+                  "Simpel tvang, AFTL § 29.",
+                  "Svig, AFTL § 30.",
+                  "Udnyttelse, AFTL § 31.",
+                  "Fejlskrift eller anden fejltagelse, AFTL § 32, stk. 1.",
+                  "I strid med almindelig hæderlighed, AFTL § 33."))
+                 
+kable(collapse_rows_dt, align = "l") %>%
+  kable_styling(full_width = T,bootstrap_options = c( "hover","responsive","bordered","striped")) %>%
+  column_spec(1, bold = T) %>%
+  collapse_rows(columns = 1:2, valign = "top") %>%
+row_spec(1:4, bold = T, color = "white", background = "red") %>%
+row_spec(5:9, bold = T, color = "Black", background = "yellow") %>%
+add_header_above(c( "Oversigt over stærke og svage ugyldighedsgrunde" = 2),italic = TRUE)
 
-
-
+```
 
 
 
