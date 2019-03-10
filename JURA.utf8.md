@@ -1,3 +1,134 @@
+--- 
+title: "Erhvervs- og finansjura"
+author: "Sonny Kristoffersen Advokat, Partner, lektor og Ph.D."
+date: "2019-03-10"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "JURA"
+favicon: "favicon.ico"
+---
+
+
+#    {-}
+					
+					
+
+
+<!-- <!-- BEGIN LOGIN FORM -->
+<!-- <META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE"> -->
+<!-- <META HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE"> -->
+<!-- <style> -->
+<!-- .handCursor { -->
+<!-- cursor:pointer; -->
+<!-- cursor:hand; -->
+<!-- }  -->
+<!-- #magicGroup form { -->
+<!-- margin: 0; -->
+<!-- padding: 0;  -->
+<!-- } -->
+<!-- #magicGroup A:link {text-decoration: none; color:black;} -->
+<!-- #magicGroup A:visited {text-decoration: none; color:black;} -->
+<!-- #magicGroup A:active {text-decoration: none; color:black;} -->
+<!-- #magicGroup A:hover {text-decoration: none; color:black;} -->
+<!-- .clearfix:after{ -->
+<!--   content:".";display:block;height:0;clear:both;visibility:hidden; -->
+<!-- } -->
+<!--   .spacer0{clear:both; height:0px; margin:0px; padding:0px; line-height:0px; font-size:0px;} -->
+<!--   .spacer{clear:both; height:1px; margin:0px; padding:0px; line-height:0px; font-size:0px;} -->
+<!--   .spacer2{clear:both; height:2px; margin:0px; padding:0px; line-height:0px; font-size:0px;} -->
+<!--   .spacer3{clear:both; height:3px; margin:0px; padding:0px; line-height:0px; font-size:0px;} -->
+<!--   .spacer4{clear:both; height:4px; margin:0px; padding:0px; line-height:0px; font-size:0px;} -->
+<!--   .spacer5{clear:both; height:5px; margin:0px; padding:0px; line-height:0px; font-size:0px;} -->
+<!--   .spacer10{clear:both; height:10px; margin:0px; padding:0px; line-height:0px; font-size:0px;} -->
+<!--   .spacer20{clear:both; height:20px; margin:0px; padding:0px; line-height:0px; font-size:0px;} -->
+<!--   </style> -->
+<!--   <script type="text/javascript" src="https://www.sentrylogin.com/sentry/scripts/Sentry_AJAX.js"></script> -->
+<!--   <div id="Settings" ALIGNMENT="CENTER" MANNER="GROW" style="display:none;"></div> -->
+
+<!--   <div id="Sentry_outermost" style="width:175px; position:relative;">  -->
+
+
+<!--   <form name="Sentry_login_form" onsubmit="sentryLogin();"> -->
+<!--   <div style="height:1px;"><a href="https://www.sentrylogin.com"><img src="https://www.sentrylogin.com/sentry/images/logo.gif" alt="Sentry Password Protection Member Login" width="2" height="1" border="0"></a></div> -->
+<!--   <div id="TopBar" onclick="Sentry_onClick(this.id);" class="handCursor" style="width:175px; background-color:White; padding-top:2px; padding-bottom:2px; border-width:1px; border-style:solid; border-color:LightGray; border-radius: 6px;"> -->
+<!--   <div id="Sentry_label" style="text-align: right; font-family:sans-serif; font-size:12px; font-weight:bold; margin-bottom:3px;"><span id="Sentry_label_span" style="padding-right:10px; padding-left:5px;">Member Login</span><span id="downArrow"><img src="https://www.sentrylogin.com/sentry/images/down_arrow.png" align="baseline" style="margin-right:5px;"></span></div></div> -->
+<!--   <div id="magicGroup" style="z-index: 10000; background-color:white; text-align:left; position:absolute; left: -9999px; width:175px; padding-top:15px; border-style:solid; border-color:LightGray; border-top-width:0px; border-right-width:1px; border-bottom-width:1px; border-left-width:1px; border-radius: 6px;"> -->
+<!--   <div id="messages" style="display:none; padding-left:15px; padding-right:15px; padding-bottom:15px; font-family: Arial; font-size:12px; color: red;">.</div> -->
+<!--   <div id="Sentry_emailDiv" style="width:146px; margin-left:15px;"><span style="text-align:left;">  -->
+<!--   <input type="text" id="Sentry_email" style="padding-left: 3px; border-style:solid; border-width:1px; border-color:LightGray; border-radius: 6px; width:146px; height:24px;" onfocus="Sentry_onfocus(this.id);" onkeydown="Sentry_onkeydown(event, this.id);" onkeyup="Sentry_onkeyup(this.value, this.id, event);" onblur="Sentry_onblur(this.value, this.id);" value="E-mail Address"></span></div> -->
+<!--   <div id="Sentry_passwordDiv" style="width:146px; margin-left:15px; margin-top:2px;"><span style="text-align:left;">  -->
+<!--   <input type="text" id="Sentry_password" style=" padding-left: 3px; border-style:solid; border-width:1px; border-color:LightGray; border-radius: 6px; width:146px; height:24px;" onfocus="Sentry_onfocus(this.id);" onkeydown="Sentry_onkeydown(event, this.id);" onkeyup="Sentry_onkeyup(this.value, this.id, event);" onblur="Sentry_onblur(this.value, this.id);" value="Password"></span> </div> -->
+<!--   <div id="Sentry_HIDpasswordDiv" style="width:146px; display: none; margin-left:15px; margin-top:2px;"><span style="text-align:left;"> -->
+<!--   <input type="password" id="Sentry_HIDpassword" style=" padding-left: 3px; border-style:solid; border-width:1px; border-color:LightGray; border-radius: 6px; width:146px; height:24px;" onfocus="Sentry_onfocus(this.id);" onkeydown="Sentry_onkeydown(event, this.id);" onkeyup="Sentry_onkeyup(this.value, this.id, event);" onblur="Sentry_onblur(this.value, this.id);"></span></div> -->
+<!--   <div id="unHideDiv" style="margin-bottom:5px; font-family:Arial; font-size:10px;"><span id="forgotSpan" onclick="Sentry_onClick(this.id);" style="vertical-align:top; margin-left:15px; font-family:Arial; font-size:10px; color:gray;" class="handCursor">Forgot?</span>  -->
+<!--   <input type="checkbox" id="unHide" style="height:12px; width:10px; margin:4px; display:none;" value="1"> -->
+<!--   <span id="unHideSpan" style="width:25px; vertical-align:top; font-family: Arial;font-size:10px; color:gray; margin-left:78px;" onclick="Sentry_onClick(this.id);" class="handCursor" title="Do not reveal password in public">Show</span></div> -->
+<!--   <div id="buttonDiv" style="float:left; width:45px; margin-left:15px;">  -->
+
+<!--   <button type="button" onclick="sentryLogin();" style="height:25px; padding:2; width:45px; font-family:Arial; font-size:11px;" id="Sentry_button">Go</button></div> -->
+<!--   <div id="psistDiv" style="float:left; width:98px; text-align:right; margin-top:10px; margin-right:15px;">  -->
+<!--   <input id="psist" type="checkbox" value="1" style="height:10px; width:10px; margin:0; margin-bottom:2px; margin-right:2px;" class="handCursor" title="Do not use when in public" onclick="Sentry_onClick(this.id);"> -->
+<!--   <span id="psistSpan" style="font-family: Arial;font-size:10px; color:gray;" onclick="Sentry_onClick(this.id);" class="handCursor" title="Do not use when in public">Stay Logged In</span></div> -->
+<!--   <div class="spacer0"> </div> -->
+<!--   <div class="spacer10"> </div> -->
+<!--   <div id="goInside" style="font-family: Arial;font-size:12px; text-align: right; margin-top:10px; margin-right:15px; margin-bottom:5px; margin-left:15px; display:none;"><span id="goInsideSpan" class="handCursor" style="font-weight:bold;">.</span></div> -->
+<!--   <div id="myProfile" onclick="Sentry_onClick(this.id);" style="font-family: Arial;font-size:12px; font-weight:bold; text-align: right; margin-top:2px; margin-right:15px; margin-left:15px;" class="handCursor">My Profile</div> -->
+<!--   <div id="signUp" style="font-family: Arial;font-size:12px; font-weight:bold; text-align: right; margin-top:2px; margin-right:15px; margin-bottom:5px; margin-left:15px;"><a href="https://www.sentrylogin.com/sentry/member_signup_list.asp?Site_ID=22367" title="Click to Subscribe Now">Sign Up</a> </div> -->
+<!--   <div id="logOut" style="font-family: Arial;font-size:12px; font-weight:bold; text-align: right; margin-top:2px; margin-right:15px; margin-bottom:5px; margin-left:15px; display:none;"><span class="handCursor" onClick="LogOut();">Log Out</span></div> -->
+<!--   <div class="spacer0"> </div> -->
+<!--   <div id="xbox" style="margin-top:12px;"><img id="xout" onclick="Sentry_onClick(this.id);" src="https://www.sentrylogin.com/sentry/images/x.png" style="margin:2px; margin-right:9px;" class="handCursor"></div> -->
+<!--   <div class="spacer5"> </div> -->
+<!--   </div> -->
+<!--   <input id="Sentry_ID" type="hidden" value="22367"> -->
+<!--   <input id="univ" type="hidden" value="1"> -->
+<!--   <div id="Sentry_noJSLogin" style="width:175px; background-color:white;"><span style="color:red; font-family: Arial;font-size:12px; font-weight:bold;">Javascript Required</span></div> -->
+<!--   </form> -->
+<!--   </div> -->
+<!--   <div id="Sentry_loggingIn" style="width:175px; display:none;"> -->
+<!--   <img src="https://www.sentrylogin.com/sentry/images/wait_animated_sentry.gif"> -->
+<!--   </div> -->
+<!--   <div id="Sentry_In" style="display:none;">For testing. -->
+<!--   </div> -->
+<!--   <script language="JavaScript" type="text/JavaScript">initializeSentry();  -->
+<!--   </script> -->
+<!--   <noscript>You must have JavaScript enabled in order to log in.</noscript> -->
+<!--   <!-- END LOGIN FORM -->
+  
+  
+
+
+<br>
+<br>
+
+ 
+
+  <br>
+  
+<!--   <h3>Video sådan køber du adgang.</h3> -->
+<!-- <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/320339623' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div> -->
+<!--   <br> -->
+<!--   <br> -->
+
+<!-- <h3>Video sådan køber du adgang.</h3> -->
+<!-- <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/283118599' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div> -->
+<!--   <br> -->
+<!--   <br> -->
+<!--   <br> -->
+<!--   <br> -->
+<!-- <h3>Video sådan logger du ind.</h3> -->
+<!-- <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/283117974' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div> -->
+
+
+
+
+
+<!--chapter:end:index.Rmd-->
+
 ---
 output: 
   html_document: 
@@ -7,11 +138,7 @@ output:
 
 
 
-```{r start,echo=FALSE,warning=FALSE,include=FALSE}
-#pacman autoload evt. manglende pakker
-if (!require("pacman")) install.packages("pacman")
-pacman::p_load(timeDate, DT,plotly,rio,exams,e1071,WriteXLS,maps,knitr,kableExtra,ggplot2,openxlsx,quantmod,highcharter,forecast,networkD3,DiagrammeR,visNetwork) #load various packages
-```
+
 
 
 #   Indledning {-}
@@ -150,24 +277,7 @@ Grundloven skal sikre stabile rammer om det politiske liv og de politiske kampe 
 ## Magtadskillelseslæren i grundlovens § 3
 Grundlovens § 3 har følgende ordlyd: ”Den lovgivende magt er hos kongen og Folketinget i forening. Den udøvende magt er hos kongen. Den dømmende magt er hos domstolene”.
 
-```{r network1,echo=FALSE, result=TRUE}
-
-
-nodes <- data.frame(id = 1:3, 
-                    shape = c("box"), 
-                    label = c("Lovgivende magt \n Folketinget/Dronningen","Udøvende magt \n Regering/ministerier, forvaltningen \n politiet m.fl.","Dømmende magt \n Domstolene"),
-                    font.size = c(15,15,15))
-edges <- data.frame(from = c(1,2,3), to = c(2,3,1),length = c(300,300,200))
-
-visNetwork(nodes, edges, width = "100%") %>% 
-  visNodes(color = list(background = "lightgrey", 
-                        border = "lightgrey",
-                        highlight = "yellow"),
-                       shadow = list(enabled = FALSE, size = 30))  %>%
-  # visHierarchicalLayout()
-  visLayout(randomSeed = 24) # to have always the same network
-
-```
+preserve5c228ecfac3b9b77
 
 
  
@@ -330,23 +440,7 @@ En ministers arbejde består bl.a. i at:
 
 ## Domstolene
 
-```{r network,echo=FALSE, result=TRUE}
-
-nodes <- data.frame(id = 1:9, 
-                    shape = c("box"), 
-                    label = c(" Højesteret ","Vestre \n Landsret","Østre \n Landsret","Sø og \n Handelsretten","Tinglysningsretten","Grønlandsdomstolen","Byretterne","Retten på Færøerne", " Procesbevillingsnævnet \n Den særlige klageret \n Dommerudnævnelsesrådet \n Bibeskæftigelsesnævnet"),
-                    font.size = c(25,18,18,rep(12,6)))
-edges <- data.frame(from = c(1,1,1,1,2,2,2,3,3,3), to = c(2,3,4,6,4,5,7,4,7,8),arrows = c(""),length = rep(75,10))
-
-visNetwork(nodes, edges, height = "500px", width = "100%",avoidOverlap=2) %>% 
-  visNodes(color = list(background = "lightblue", 
-                        border = "darkblue",
-                        highlight = "yellow"),
-           shadow = list(enabled = FALSE, size = 30))  %>%
-  visHierarchicalLayout(direction = "UD",levelSeparation = 100)
-  #visLayout(randomSeed = 24) # to have always the same network
-
-```
+preservee159d51aba76fef7
 Uafhængige domstole er en grundlæggende del af magtens tredeling i et demokrati. Sådan er det også i Danmark. Grundloven siger nemlig, at domstolene alene har den dømmende magt.
 
  
@@ -425,24 +519,7 @@ Klageretten behandler derudover sager om genoptagelse af straffesager og udelukk
 ### Byretterne
 
 
-```{r network5,echo=FALSE, result=TRUE}
-
-
-nodes <- data.frame(id = 1:6, 
-                    shape = c("box"), 
-                    label = c("Byrettens afdelinger","Civilretten","Fogedretten","Skifteretten","Boligretten","Kriminalretten"),
-                    font.size = c(20,15,15,15,15,15))
-edges <- data.frame(from = c(1,1,1,1,1), to = c(2,3,4,5,6))
-
-visNetwork(nodes, edges, width = "100%") %>% 
-  visNodes(color = list(background = "lightgrey", 
-                        border = "lightgrey",
-                        highlight = "yellow"),
-           shadow = list(enabled = FALSE, size = 30))  %>%
-  # visHierarchicalLayout()
-  visLayout(randomSeed = 24) # to have always the same network
-
-```
+preserve0d6978b951847594
 
 
 
@@ -481,41 +558,49 @@ Supplerende værneting, f.eks.:
  
 
 
-```{r echo=FALSE}
-text_tbl <- data.frame(
-  Paragraf = c("§239", "§240", "§241","§242","§243","§244","§246"),
-  Indhold = c(
-    "Regioner og kommuner har hjemting i den retskreds, hvor hovedkontoret ligger.",
-    
-    "Sager mod staten: Staten har hjemting i den retskreds, hvor den myndighed, som stævnes på statens vegne, har kontor.", 
-    
-    "Ejendomsværneting: Sager vedrørende rettigheder over fast ejendom, kan anlægges ved retten på det sted, hvor ejendommen ligger.",
-    
-    "Opfyldelsesværneting: Sager om kontraktsforhold kan anlægges ved retten på det sted, hvor den forpligtelse, der ligger til grund for sagen, er opfyldt eller skal opfyldes.
-Bestemmelsen finder ikke anvendelse på pengekrav, medmindre kravet er opstået under ophold i retskredsen under sådanne omstændigheder, at det skulle opfyldes, inden stedet forlades.
-",
-
-"Deliktsværneting: Sager, hvorunder der påstås straf, erstatning eller oprejsning i anledning af retskrænkelser, kan anlægges ved retten på det sted, hvor retskrænkelsen er foregået (skadestedet).",
-
-"Forbrugerværneting: I sager om forbrugeraftaler, som ikke er indgået ved personlig henvendelse på den erhvervsdrivendes faste forretningssted, kan forbrugeren anlægge sag mod den erhvervsdrivende ved sit eget hjemting.",
-
-"Sagsøgte har ikke dansk hjemting: Stk. 1: Sager mod personer, selskaber, foreninger, private institutioner og andre sammenslutninger, der ikke har hjemting i Danmark, kan anlægges her i landet, for så vidt nogen ret efter bestemmelserne i §§ 237, 238, stk. 2, 241, 242, 243 og 245 kan anses som værneting i sagen.  
+<table class="table table-hover table-responsive table-bordered table-striped" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Paragraf </th>
+   <th style="text-align:left;"> Indhold </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;font-weight: bold;border-right:1px solid;"> §239 </td>
+   <td style="text-align:left;font-weight: bold;color: white;background-color: red;"> Regioner og kommuner har hjemting i den retskreds, hvor hovedkontoret ligger. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;border-right:1px solid;"> §240 </td>
+   <td style="text-align:left;font-weight: bold;color: white;background-color: red;"> Sager mod staten: Staten har hjemting i den retskreds, hvor den myndighed, som stævnes på statens vegne, har kontor. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;border-right:1px solid;"> §241 </td>
+   <td style="text-align:left;font-weight: bold;color: white;background-color: red;"> Ejendomsværneting: Sager vedrørende rettigheder over fast ejendom, kan anlægges ved retten på det sted, hvor ejendommen ligger. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;border-right:1px solid;"> §242 </td>
+   <td style="text-align:left;font-weight: bold;color: white;background-color: red;"> Opfyldelsesværneting: Sager om kontraktsforhold kan anlægges ved retten på det sted, hvor den forpligtelse, der ligger til grund for sagen, er opfyldt eller skal opfyldes.
+Bestemmelsen finder ikke anvendelse på pengekrav, medmindre kravet er opstået under ophold i retskredsen under sådanne omstændigheder, at det skulle opfyldes, inden stedet forlades. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;border-right:1px solid;"> §243 </td>
+   <td style="text-align:left;font-weight: bold;color: white;background-color: red;"> Deliktsværneting: Sager, hvorunder der påstås straf, erstatning eller oprejsning i anledning af retskrænkelser, kan anlægges ved retten på det sted, hvor retskrænkelsen er foregået (skadestedet). </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;border-right:1px solid;"> §244 </td>
+   <td style="text-align:left;font-weight: bold;color: white;background-color: red;"> Forbrugerværneting: I sager om forbrugeraftaler, som ikke er indgået ved personlig henvendelse på den erhvervsdrivendes faste forretningssted, kan forbrugeren anlægge sag mod den erhvervsdrivende ved sit eget hjemting. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;border-right:1px solid;"> §246 </td>
+   <td style="text-align:left;font-weight: bold;color: white;background-color: red;"> Sagsøgte har ikke dansk hjemting: Stk. 1: Sager mod personer, selskaber, foreninger, private institutioner og andre sammenslutninger, der ikke har hjemting i Danmark, kan anlægges her i landet, for så vidt nogen ret efter bestemmelserne i §§ 237, 238, stk. 2, 241, 242, 243 og 245 kan anses som værneting i sagen.  
 
 Opholdsværneting: Stk. 2: Kan ingen ret efter stk. 1 anses som værneting i sagen, kan sager vedrørende formueretsforhold mod de i stk. 1 nævnte personer anlægges ved retten på det sted, hvor de ved stævningens forkyndelse opholder sig.  
 
-Godsværneting: Stk. 3: Sager vedrørende formueretsforhold mod de i stk. 1 nævnte personer og sammenslutninger kan endvidere, hvis der ikke er værneting efter reglen i stk. 1, anlægges ved retten på det sted, hvor den pågældende person eller sammenslutning på tidspunktet for sagens anlæg har gods, eller hvor det gods, kravet angår, befinder sig på tidspunktet for sagens anlæg. Afværges arrest i gods gennem sikkerhedsstillelse, betragtes sikkerhedsstillelsen som gods, der befinder sig på det sted, hvor arrestbegæringen er eller i givet fald skulle være indgivet."
-
-
-  )
-)
-
-kable(text_tbl) %>%
-  kable_styling(full_width = T,bootstrap_options = c( "hover","responsive","bordered","striped")) %>%
-  column_spec(1, bold = T, border_right = T) %>%
-  column_spec(2) %>%
-  column_spec(2,  bold = T, color = "white", background = "red")
-# add_header_above(c( "Koncipistreglen" = 2),italic = TRUE)
-```
+Godsværneting: Stk. 3: Sager vedrørende formueretsforhold mod de i stk. 1 nævnte personer og sammenslutninger kan endvidere, hvis der ikke er værneting efter reglen i stk. 1, anlægges ved retten på det sted, hvor den pågældende person eller sammenslutning på tidspunktet for sagens anlæg har gods, eller hvor det gods, kravet angår, befinder sig på tidspunktet for sagens anlæg. Afværges arrest i gods gennem sikkerhedsstillelse, betragtes sikkerhedsstillelsen som gods, der befinder sig på det sted, hvor arrestbegæringen er eller i givet fald skulle være indgivet. </td>
+  </tr>
+</tbody>
+</table>
 
 
 
@@ -865,23 +950,7 @@ Aftalelovens principper har betydning på hele aftaleområdet, fx i:
   + Deklaratorisk, dvs. parterne kan aftale anden fremgangsmåde ved aftaleindgåelse, end den der er beskrevet i aftaleloven.
 
 
-```{r network7,echo=FALSE, result=TRUE}
-
-nodes <- data.frame(id = 1:7, 
-                    shape = c("box"), 
-                    label = c(" Aftalelov "," Forsikringsaftalelov "," Kreditaftalelov "," Forbrugeraftalelov "," AB92 "," Købelov "," E-handelslov "),
-                    font.size = c(50,25,25,25,25,25,25))
-edges <- data.frame(from = c(1,1,1,1,1,1), to = c(2,3,4,5,6,7),arrows = c("to"),length = rep(20,6))
-
-visNetwork(nodes, edges) %>% 
-  visNodes(color = list(background = "lightgrey", 
-                        border = "darkblue",
-                        highlight = "yellow"),
-           shadow = list(enabled = FALSE, size = 30))  %>%
-  visHierarchicalLayout(direction = "LR",levelSeparation = 400)
-  # visLayout(randomSeed = 24) # to have always the same network
-
-```
+preserve1c893171c28df485
 
 
 ## Aftaleindgåelse
@@ -914,49 +983,11 @@ Udtrykkeligt løfte ctr. stiltiende løfte.
 
 
 
-```{r faicon, echo=FALSE}
-nodes <- data.frame(id = 1:2, group = c("B", "A"),label = c(" Sælger "," Køber "))
-edges <- data.frame(from = c(1), 
-                    to = c(2),
-                    arrows = c("to","from"),
-                    length = c(800,500),
-                    label=c("Varer/Ydelser","Penge/modydelse"),
-                    smooth = TRUE
-                    )
- visNetwork(nodes, edges,main = "Gensidigt løfte") %>%
- visGroups(groupname = "A", shape = "icon", 
-           icon = list(code = "f007", size = 150)) %>%
- visGroups(groupname = "B", shape = "icon", 
-           icon = list(code = "f007", size = 150, color = "red",highlight = "yellow")) %>%
- addFontAwesome() %>%
- 
- visEdges(shadow = TRUE,
-           arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
-           color = list(color = "lightblue", highlight = "red"))
-```
+preserve9bad3f399a789ff7
 
 
 
-```{r faicon2, echo=FALSE}
-nodes <- data.frame(id = 1:2, group = c("B", "A"),label = c(" Testator "," Arving "))
-edges <- data.frame(from = c(1), 
-                    to = c(2),
-                    arrows = c("to"),
-                    length = c(300),
-                    label=c(" ARV "),
-                    smooth = TRUE
-                    )
- visNetwork(nodes, edges, main = "Ensidigt løfte") %>%
- visGroups(groupname = "A", shape = "icon", 
-           icon = list(code = "f007", size = 150, color = "red")) %>%
- visGroups(groupname = "B", shape = "icon", 
-           icon = list(code = "f007", size = 150, color = "black")) %>%
- addFontAwesome() %>%
- 
- visEdges(shadow = TRUE,
-           arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
-           color = list(color = "lightblue", highlight = "red"))
-```
+preserve9b712fc1beedf492
 
 ### Parterne og juridisk terminologi
 
@@ -999,49 +1030,11 @@ Resultat: Der er indgået en juridisk bindende aftale
 
 
 
-```{r faicon3, echo=FALSE}
-nodes <- data.frame(id = 1:2, group = c("B", "A"),label = c("Sælger \n tilbudsgiver ","Køber \n tilbudsmodtager "))
-edges <- data.frame(from = c(1), 
-                    to = c(2),
-                    arrows = c("to","from"),
-                    length = c(800,500),
-                    label=c("1. Sælger sender tilbud til køber","2. Køber sender accept/ordre"),
-                    smooth = TRUE
-                    )
- visNetwork(nodes, edges,main = "Aftale sælgers initiativ") %>%
- visGroups(groupname = "A", shape = "icon", 
-           icon = list(code = "f007", size = 150)) %>%
- visGroups(groupname = "B", shape = "icon", 
-           icon = list(code = "f007", size = 150, color = "red",highlight = "yellow")) %>%
- addFontAwesome() %>%
- 
- visEdges(shadow = TRUE,
-           arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
-           color = list(color = "lightblue", highlight = "red"))
-```
+preserve8ae055cc753c024c
 
 
 
-```{r faicon4, echo=FALSE}
-nodes <- data.frame(id = 1:2, group = c("B", "A"),label = c("Sælger \n tilbudsmodtager ","Køber \n tilbudsgiver "))
-edges <- data.frame(from = c(1), 
-                    to = c(2),
-                    arrows = c("to","from"),
-                    length = c(800,500),
-                    label=c("2. Sælger sender accept/ordrebekræftelse","1. Køber sender købstilbud/ordre"),
-                    smooth = TRUE
-                    )
- visNetwork(nodes, edges,main = "Aftale købers initiativ") %>%
- visGroups(groupname = "A", shape = "icon", 
-           icon = list(code = "f007", size = 150)) %>%
- visGroups(groupname = "B", shape = "icon", 
-           icon = list(code = "f007", size = 150, color = "red",highlight = "yellow")) %>%
- addFontAwesome() %>%
- 
- visEdges(shadow = TRUE,
-           arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
-           color = list(color = "lightblue", highlight = "red"))
-```
+preservea57daf55fa5886b4
 
 #### Tilbud eller opfordring til tilbud
 
@@ -1162,53 +1155,106 @@ Ugyldighed som kan ramme aftalen kan opstå pga:
 
 
 
-```{r echo=FALSE}
-options(knitr.table.format = "html")
-collapse_rows_dt <- data.frame(Mangeltype = c(rep("Tilblivelsesmangler", 4), rep("Indholdsmangler",3 ),rep("Habilitetsmangler",2 )),
-                 Årsag = c("Ugyldighed pga. omstændigheder ved aftalens indgåelse (tilblivelse), fx:
-","falsk, forfalskning, forvanskning, fuldmagtsover-
-skridelse, voldelig tvang, mekanisk tvang
-","svig, udnyttelse, simpel tvang, fejltagelse (fejlskrift),
-pro forma
-","tilblivelse i strid med almindelig hæderlighed og
-redelig handlemåde, AFTL §§ 33 og 36
-","Ugyldighed pga. mangler ved selve aftalens indhold, fx:","i strid med loven","i strid med almindelig moral, almindelig hæderlighed,
-redelig handlemåde
-","Ugyldighed pga. manglende evne eller habilitet, fx:","inhabilitet, umyndighed, værgemål, fornuftsmangel"))
-                 
-kable(collapse_rows_dt, align = "l") %>%
-  kable_styling(full_width = T,bootstrap_options = c( "hover","responsive","bordered","striped")) %>%
-  column_spec(1, bold = T) %>%
-  collapse_rows(columns = 1:2, valign = "top") %>%
-row_spec(c(1,5,8), bold = T, color = "white", background = "#428bca") %>%
+<table class="table table-hover table-responsive table-bordered table-striped" style="margin-left: auto; margin-right: auto;">
+ <thead>
+<tr><th style="border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; font-style: italic; " colspan="2"><div style="border-bottom: 1px solid #ddd; padding-bottom: 5px;">Oversigt over mangler og ugyldighedsgrunde</div></th></tr>
+  <tr>
+   <th style="text-align:left;"> Mangeltype </th>
+   <th style="text-align:left;"> Årsag </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;font-weight: bold;vertical-align: top !important;font-weight: bold;color: white;background-color: #428bca;" rowspan="4"> Tilblivelsesmangler </td>
+   <td style="text-align:left;font-weight: bold;color: white;background-color: #428bca;"> Ugyldighed pga. omstændigheder ved aftalens indgåelse (tilblivelse), fx: </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:left;"> falsk, forfalskning, forvanskning, fuldmagtsover-
+skridelse, voldelig tvang, mekanisk tvang </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:left;"> svig, udnyttelse, simpel tvang, fejltagelse (fejlskrift),
+pro forma </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:left;"> tilblivelse i strid med almindelig hæderlighed og
+redelig handlemåde, AFTL §§ 33 og 36 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;vertical-align: top !important;font-weight: bold;color: white;background-color: #428bca;" rowspan="3"> Indholdsmangler </td>
+   <td style="text-align:left;font-weight: bold;color: white;background-color: #428bca;"> Ugyldighed pga. mangler ved selve aftalens indhold, fx: </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:left;"> i strid med loven </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:left;"> i strid med almindelig moral, almindelig hæderlighed,
+redelig handlemåde </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;vertical-align: top !important;font-weight: bold;color: white;background-color: #428bca;" rowspan="2"> Habilitetsmangler </td>
+   <td style="text-align:left;font-weight: bold;color: white;background-color: #428bca;"> Ugyldighed pga. manglende evne eller habilitet, fx: </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:left;"> inhabilitet, umyndighed, værgemål, fornuftsmangel </td>
+  </tr>
+</tbody>
+</table>
 
-add_header_above(c( "Oversigt over mangler og ugyldighedsgrunde" = 2),italic = TRUE)
 
-```
-
-
-```{r echo=FALSE}
-options(knitr.table.format = "html")
-collapse_rows_dt <- data.frame(Ugyldighedsgrunde = c(rep("Stærke ugyldighedsgrunde", 4), rep("Svage ugyldighedsgrunde",5 ) ),
-                 Årsag = c("Falsk og forfalskning.",
-                  "Forvanskning, AFTL § 32, stk. 2.",
-                  "Voldelig tvang, AFTL § 28, stk. 1.",
-                  "Umyndighed, værgemål, fornuftsmangel, værgemålsloven.",
-                  "Simpel tvang, AFTL § 29.",
-                  "Svig, AFTL § 30.",
-                  "Udnyttelse, AFTL § 31.",
-                  "Fejlskrift eller anden fejltagelse, AFTL § 32, stk. 1.",
-                  "I strid med almindelig hæderlighed, AFTL § 33."))
-                 
-kable(collapse_rows_dt, align = "l") %>%
-  kable_styling(full_width = T,bootstrap_options = c( "hover","responsive","bordered","striped")) %>%
-  column_spec(1, bold = T) %>%
-  collapse_rows(columns = 1:2, valign = "top") %>%
-row_spec(1:4, bold = T, color = "white", background = "red") %>%
-row_spec(5:9, bold = T, color = "Black", background = "yellow") %>%
-add_header_above(c( "Oversigt over stærke og svage ugyldighedsgrunde" = 2),italic = TRUE)
-
-```
+<table class="table table-hover table-responsive table-bordered table-striped" style="margin-left: auto; margin-right: auto;">
+ <thead>
+<tr><th style="border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; font-style: italic; " colspan="2"><div style="border-bottom: 1px solid #ddd; padding-bottom: 5px;">Oversigt over stærke og svage ugyldighedsgrunde</div></th></tr>
+  <tr>
+   <th style="text-align:left;"> Ugyldighedsgrunde </th>
+   <th style="text-align:left;"> Årsag </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;font-weight: bold;vertical-align: top !important;font-weight: bold;color: white;background-color: red;" rowspan="4"> Stærke ugyldighedsgrunde </td>
+   <td style="text-align:left;font-weight: bold;color: white;background-color: red;"> Falsk og forfalskning. </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:left;font-weight: bold;color: white;background-color: red;"> Forvanskning, AFTL § 32, stk. 2. </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:left;font-weight: bold;color: white;background-color: red;"> Voldelig tvang, AFTL § 28, stk. 1. </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:left;font-weight: bold;color: white;background-color: red;"> Umyndighed, værgemål, fornuftsmangel, værgemålsloven. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;vertical-align: top !important;font-weight: bold;color: Black;background-color: yellow;" rowspan="5"> Svage ugyldighedsgrunde </td>
+   <td style="text-align:left;font-weight: bold;color: Black;background-color: yellow;"> Simpel tvang, AFTL § 29. </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:left;font-weight: bold;color: Black;background-color: yellow;"> Svig, AFTL § 30. </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:left;font-weight: bold;color: Black;background-color: yellow;"> Udnyttelse, AFTL § 31. </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:left;font-weight: bold;color: Black;background-color: yellow;"> Fejlskrift eller anden fejltagelse, AFTL § 32, stk. 1. </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:left;font-weight: bold;color: Black;background-color: yellow;"> I strid med almindelig hæderlighed, AFTL § 33. </td>
+  </tr>
+</tbody>
+</table>
 
 De stærke ugyldighedsgrunde:
 
@@ -1405,27 +1451,37 @@ Standardvilkår ses eksempelvis i fortrykt lejekontrakt, salgsaftale for biler, 
 *Rimelighedsreglen:* Aftalen fortolkes i overensstemmelse med hvad der er rimeligt og hensigtsmæssigt.  
 
 
-```{r echo=FALSE}
-options(knitr.table.format = "html")
-collapse_rows_dt <- data.frame(Regel = c("Koncipistreglen", "Minimumsreglen","Prioritetsreglen", "Gyldighedsreglen","Rimelighedsreglen"),
-                 Tolkning = c("Dette fortolkningsprincip kaldes også for uklarhedsreglen og betyder, at den part som har konciperet (skrevet) kontrakten må bære risikoen for tvetydighed. Er der en uklarhed i kontrakten, tolkes aftalen til skade eller ugunst for koncipisten og dermed mindst tyngende for den anden part, som ikke har haft indflydelse på aftalens formulering. Uklarhedsreglen er særlig relevant ved fortolkning af standardaftaler, der er udarbejdet af en stærk part.",
-                              "Hvis der er tvivl om, hvad løftegiveren har forpligtet sig til i aftalen, vælges den forståelse af aftalen, som er
-mest gunstig for løftegiveren. Hvis der fx er tvivl, om der er aftalt simpel kaution eller selvskyldnerkaution, vælges simpel kaution, der er mest gunstig for forbrugeren. Særligt hvad angår forbrugeraftaler, har minimumsreglen fundet en plads i AFTL § 38b. Bestemmelsen beskytter forbrugeren i de tilfælde, hvor et tyngende aftalevilkår ikke har været til forhandling med en erhvervsdrivende aftalepart. En sådan aftale skal tolkes på den måde, som er mest gunstig for forbrugeren.
-",
-                              "Ved fortolkning efter prioritetsreglen går et specielt vilkår forud for et generelt vilkår. Man kan også kalde det en fortolkning efter et lex specialis-princip, hvor en speciel og udspecificeret bestemmelse vejer tungere end en generel formuleret bestemmelse",
-                              "Hvis man står overfor et valg, om aftalen er gyldig og kan gennemføres, eller ugyldig og må bortfalde, er gyldighedsreglen et fortolkningsprincip, hvor aftalen tolkes med henblik på at opnå en gyldig aftale, som vil kunne gennemføres.",
-                              "Efter rimelighedsreglen fortolker man ud fra hensigtsmæssigheds- og rimelighedsbetragtninger. Ved tvivl om forståelsen af en aftale, tolkes aftalen i overensstemmelse med, hvad der er rimeligt."))
-                 
-kable(collapse_rows_dt, align = "l") %>%
-  kable_styling(full_width = T,bootstrap_options = c( "hover","responsive","bordered","striped")) %>%
-  column_spec(1, bold = T) %>%
-  collapse_rows(columns = 1:2, valign = "top") %>%
-  column_spec(2,  bold = T, color = "white", background = "red")
-  # row_spec(1, bold = T, color = "white", background = "red") %>%
-# row_spec(5:9, bold = T, color = "Black", background = "yellow") %>%
-# add_header_above(c( "Koncipistreglen" = 2),italic = TRUE)
-
-```
+<table class="table table-hover table-responsive table-bordered table-striped" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Regel </th>
+   <th style="text-align:left;"> Tolkning </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;font-weight: bold;"> Koncipistreglen </td>
+   <td style="text-align:left;font-weight: bold;color: white;background-color: red;"> Dette fortolkningsprincip kaldes også for uklarhedsreglen og betyder, at den part som har konciperet (skrevet) kontrakten må bære risikoen for tvetydighed. Er der en uklarhed i kontrakten, tolkes aftalen til skade eller ugunst for koncipisten og dermed mindst tyngende for den anden part, som ikke har haft indflydelse på aftalens formulering. Uklarhedsreglen er særlig relevant ved fortolkning af standardaftaler, der er udarbejdet af en stærk part. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;"> Minimumsreglen </td>
+   <td style="text-align:left;font-weight: bold;color: white;background-color: red;"> Hvis der er tvivl om, hvad løftegiveren har forpligtet sig til i aftalen, vælges den forståelse af aftalen, som er
+mest gunstig for løftegiveren. Hvis der fx er tvivl, om der er aftalt simpel kaution eller selvskyldnerkaution, vælges simpel kaution, der er mest gunstig for forbrugeren. Særligt hvad angår forbrugeraftaler, har minimumsreglen fundet en plads i AFTL § 38b. Bestemmelsen beskytter forbrugeren i de tilfælde, hvor et tyngende aftalevilkår ikke har været til forhandling med en erhvervsdrivende aftalepart. En sådan aftale skal tolkes på den måde, som er mest gunstig for forbrugeren. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;"> Prioritetsreglen </td>
+   <td style="text-align:left;font-weight: bold;color: white;background-color: red;"> Ved fortolkning efter prioritetsreglen går et specielt vilkår forud for et generelt vilkår. Man kan også kalde det en fortolkning efter et lex specialis-princip, hvor en speciel og udspecificeret bestemmelse vejer tungere end en generel formuleret bestemmelse </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;"> Gyldighedsreglen </td>
+   <td style="text-align:left;font-weight: bold;color: white;background-color: red;"> Hvis man står overfor et valg, om aftalen er gyldig og kan gennemføres, eller ugyldig og må bortfalde, er gyldighedsreglen et fortolkningsprincip, hvor aftalen tolkes med henblik på at opnå en gyldig aftale, som vil kunne gennemføres. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;"> Rimelighedsreglen </td>
+   <td style="text-align:left;font-weight: bold;color: white;background-color: red;"> Efter rimelighedsreglen fortolker man ud fra hensigtsmæssigheds- og rimelighedsbetragtninger. Ved tvivl om forståelsen af en aftale, tolkes aftalen i overensstemmelse med, hvad der er rimeligt. </td>
+  </tr>
+</tbody>
+</table>
 
 
 
@@ -1459,27 +1515,7 @@ kable(collapse_rows_dt, align = "l") %>%
 
 
 
-```{r network4,echo=FALSE, result=TRUE}
-
-nodes <- data.frame(id = 1:3, 
-                    shape = c("box"), 
-                    label = c(" Fuldmagtsgiver "," Fuldmægtig "," Trediemand "),
-                    font.size = c(35,35,35))
-edges <- data.frame(from = c(1,2,3),
-                    to = c(2,3,1),
-                    label = c("Fuldmagt", "Aftale indgås",""),
-                    # arrows = c("middle"),
-                    length = c(300,300,200)
-                    )
-
-visNetwork(nodes, edges, width = "100%",avoidOverlap=2) %>% 
-  visNodes(color = list(background = "lightgrey", 
-                        border = "lightgrey",
-                        highlight = "orange"),
-           shadow = list(enabled = TRUE, size = 30))  %>%
-  # visHierarchicalLayout()
-  visLayout(randomSeed = 24) # to have always the same network
-```
+preservee51f49bb8d254fe4
 
 *Fuldmagt:* Aftaleloven afsnit II, jf. aftalelovens §§ 10-27
 
@@ -1509,21 +1545,33 @@ Aftaleloven sondrer mellem på den ene side »fuldmagt« og på den anden side �
 
  
  
-```{r echo=FALSE}
-options(knitr.table.format = "html")
-
-dt23 <- data.frame(Indenfor=c("Indenfor fuldmagtens grænser","legitimation (ydre forhold)","Bemyndigelse","(indre forhold)"),Udenfor= c(rep("Udenfor fuldmagtens grænser", 4))
-                 )
-kable(dt23, align = "l",col.names = NA) %>%
-  kable_styling(full_width = T,bootstrap_options = c( "hover","responsive","striped")) %>%
-  collapse_rows(columns = 1:2, valign = "top") %>%
-row_spec(c(1), bold = T, color = "white", background = "red") %>%
-  # column_spec(2,  bold = T, color = "white", background = "red") %>%
-  column_spec(1,  bold = T, color = "white", background = "green") %>%
-
-add_header_above(c( "Oversigt over mangler og ugyldighedsgrunde" = 2),italic = TRUE)
-
-```
+<table class="table table-hover table-responsive table-striped" style="margin-left: auto; margin-right: auto;">
+ <thead>
+<tr><th style="border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; font-style: italic; " colspan="2"><div style="border-bottom: 1px solid #ddd; padding-bottom: 5px;">Oversigt over mangler og ugyldighedsgrunde</div></th></tr>
+  <tr>
+   <th style="text-align:left;"> Indenfor </th>
+   <th style="text-align:left;"> Udenfor </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: white;background-color: red;font-weight: bold;color: white;background-color: green;"> Indenfor fuldmagtens grænser </td>
+   <td style="text-align:left;vertical-align: top !important;font-weight: bold;color: white;background-color: red;" rowspan="4"> Udenfor fuldmagtens grænser </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: white;background-color: green;"> legitimation (ydre forhold) </td>
+   
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: white;background-color: green;"> Bemyndigelse </td>
+   
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: white;background-color: green;"> (indre forhold) </td>
+   
+  </tr>
+</tbody>
+</table>
  
  
  
@@ -2608,4 +2656,7 @@ Sådanne skader dækkes ikke, og man skal således købe en autoansvarsforsikrin
 
 
 
+
+
+<!--chapter:end:01-JURA.Rmd-->
 
