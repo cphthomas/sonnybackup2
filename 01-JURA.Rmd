@@ -1550,8 +1550,9 @@ add_header_above(c( "Oversigt over mangler og ugyldighedsgrunde" = 2),italic = T
 
 #### Stillingsfuldmagt, jf. aftalelovens § 10, stk. 2:
 
-*”Indtager nogen ifølge aftale med en anden en stilling, som efter lov eller sædvane medfører beføjelse for ham til indenfor visse grænser at handle på den andens vegne, anses han befuldmægtiget til at foretage retshandler, som falder indenfor disse grænser”.*  
+> *”Indtager nogen ifølge aftale med en anden en stilling, som efter lov eller sædvane medfører beføjelse for ham til indenfor visse grænser at handle på den andens vegne, anses han befuldmægtiget til at foretage retshandler, som falder indenfor disse grænser”.*  
 
+<img src="img/helloquence-51716-unsplash.jpg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Når du (fuldmagtsgiver) giver en anden (fuldmægtig) fuldmagt til at handle på dine vegne, bliver du som hovedregel bundet af den aftale din fuldmægtig indgår med tredjemand. Der er kun tale om en stillingsfuldmagt i § 10’s forstand, når du efter aftale med en anden (fuldmagtsgiver/arbejdsgiveren) indtager en stilling, dvs. er ansat hos den pågældende. Stillingsfuldmagten stiftes ved, at du efter aftale med fuldmagtsgiver indtager en vis stilling og faktisk indtager denne fx, at du er ansat i en bank eller forsikringsselskab. Deraf følger så, at en advokat ikke har en stillingsfuldmagt for sin klient, og en tilsynsførende arkitekt eller ingeniør ingen stillingsfuldmagt fra bygherren. Tredjemand fx kunden kan påberåbe sig stillingsfuldmagten, selv om han ikke kender til ansættelsen af fuldmægtigen hos fuldmagtsgiveren.
 
 * En ansat, har således via sin stilling, fuldmagt til at handle på vegne af fuldmagtsgiver (arbejdsgiver).
@@ -1570,6 +1571,7 @@ Situation: Fuldmægtigen indgår en aftale med tredjemand, der ligger uden for l
 Stillingsfuldmagtens særlige tilværelse viser sig bl.a. derved, at fuldmagtsgiver bliver bundet over for en tredjemand i god tro, selv om fuldmagtsgiver ved konkret tilkendegivelse til fuldmægtigen har indskrænket dennes bemyndigelse, idet fuldmægtigen desuagtet stadig besidder den fuldmagt, der ifølge lov eller sædvane er forbundet med den stilling, fuldmægtigen besidder. Vil fuldmagtsgiveren indskrænke stillingsfuldmagten, må han degradere fuldmægtigen, dvs. afskedige ham fra stillingen og give ham en stilling med en mindre vidtgående stillingsfuldmagt, og dette må være kendeligt for omverdenen.
 Det fastslås undertiden også ved en lov, at et hverv ikke indebærer en fuldmagt, jf. således lov om omsætning af fast ejendom § 21, hvorefter ejendomsformidleren ikke kan forpligte opdragsgiveren (sælgeren) uden særlig fuldmagt hertil, og handelsagentloven § 16, der fastslår noget tilsvarende.
 
+<img src="img/lawyer-free-stock-photos-justice-1080x721.jpg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Sædvanens betydning er mange gange større end aftalelovens, når det gælder stillingsfuldmagt, men det er i sagens natur mindre sikkert, hvad der er sædvanligt, end hvad der står i loven. Efter almindelige bevisbyrderegler må den, der hævder, at der foreligger en fuldmagt, formentlig skulle godtgøre dennes rækkevidde, men da fuldmagtsgiver normalt er den, der sidder inde med oplysninger om stillingsbeskrivelsen, branchen, virksomheden og dens organisation og praksis, må fuldmagtsgiver være undergivet en betydelig forpligtelse til at bidrage til sagens oplysning. Domstolene må antages i hovedsagen at anse spørgsmålet om fuldmagtens rækkevidde som et retsspørgsmål, som det tilkommer domstolene at afgøre, jf maksimen jura novit curia (retten kender retsreglerne og ved, hvordan de anvendes, og gør det ex officio; af egen drift)., og ikke som et spørgsmål om faktum, som det påhviler den ene part at føre bevis for.
 
  
@@ -1647,8 +1649,8 @@ Stk. 2. Fuldmægtigen er pligtig til på forlangende at give fuldmagten tilbage 
  
 
 ## Aftalelovens § 25 – erstatning til tredjemand:
-“Den, der optræder som fuldmægtig for en anden, indestår for, at han har fornøden fuldmagt.  Oplyser han ikke, at han havde sådan eller at hans retshandel er godkendt af den opgivne fuldmagtsgiver eller af andre grunde er bindende for denne, skal han erstatte den skade, tredjemand lider ved, at retshandelen ikke kan gøres gældende mod den opgivne fuldmagtsgiver.
-Stk. 2. Denne bestemmelse kommer ikke til anvendelse, når tredjemand vidste eller burde vide, at den, som foretog retshandelen, ikke havde fornøden fuldmagt. Ej heller kommer den til anvendelse, når den, som foretog retshandelen, handlede i henhold til en fuldmagt, der var ugyldig eller uvirksom af grunde, som han var uvidende om, og som tredjemand ikke kunne påregne, at han vidste besked om”
+>***“Den, der optræder som fuldmægtig for en anden, indestår for, at han har fornøden fuldmagt.  Oplyser han ikke, at han havde sådan eller at hans retshandel er godkendt af den opgivne fuldmagtsgiver eller af andre grunde er bindende for denne, skal han erstatte den skade, tredjemand lider ved, at retshandelen ikke kan gøres gældende mod den opgivne fuldmagtsgiver.
+Stk. 2. Denne bestemmelse kommer ikke til anvendelse, når tredjemand vidste eller burde vide, at den, som foretog retshandelen, ikke havde fornøden fuldmagt. Ej heller kommer den til anvendelse, når den, som foretog retshandelen, handlede i henhold til en fuldmagt, der var ugyldig eller uvirksom af grunde, som han var uvidende om, og som tredjemand ikke kunne påregne, at han vidste besked om”***
 
 * Den der udadtil optræder som fuldmægtig for en anden, indestår for, at han rent faktisk har fornøden fuldmagt til at handle og indgå aftaler på vegne af fuldmagtsgiver.
 * Fuldmægtigen er ved aftalens indgåelse garant for at:
@@ -1669,6 +1671,7 @@ Fuldmægtigen er altså i almindelighed ubetinget erstatningsansvarlig (objektiv
 Aftalelovens § 25 indebærer, at tredjemand ikke selv behøver at undersøge fuldmagtens eksistens eller at forlange udtrykkelig garanti for, at fornøden fuldmagt foreligger, idet han er berettiget til at gå ud fra, at den, der optræder som fuldmægtig, også har den fornødne fuldmagt.
  
 
+<img src="img/mj-s-71657-unsplash.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Fuldmægtigen skal erstatte tredjemand den positive opfyldelsesinteresse, dvs. tredjemand skal stilles som om aftalen var blevet indgået og ikke alene den negative kontraktsinteresse, dvs. stilles som om aftalen ikke var blevet indgået. Tredjemand kan altså kræve erstatning for det fulde tab, han lider ved, at løftet ikke kan gøres gældende imod den opgivne fuldmagtsgiver, inkl. fortjeneste. Tredjemand er ikke henvist til at nøjes med en erstatning for det tab, han har lidt ved at handle i tillid til fuldmagtens eksistens, han har krav på at blive stillet økonomisk, som om fuldmagten eksisterede. Hvis den opgivne fuldmagtgiver er kommet under konkurs, følger det af det anførte, at tredjemand kun kan kræve det beløb, som han, hvis fuldmagten havde været i orden, ville have erholdt af konkursboet.
 
 ## Fuldmagtens grænser:
