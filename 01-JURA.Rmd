@@ -13,7 +13,9 @@ if (!require("pacman")) install.packages("pacman")
 pacman::p_load(timeDate, DT,plotly,rio,exams,e1071,WriteXLS,maps,knitr,kableExtra,ggplot2,openxlsx,quantmod,highcharter,forecast,networkD3,DiagrammeR,visNetwork) #load various packages
 ```
 
-# Indledning 
+
+#   Indledning {-}
+
 
 <!-- <!-- BEGIN PROTECT-->
 <!-- <meta name="robots" content="noindex, nofollow"> -->
