@@ -425,7 +425,7 @@ Klageretten behandler derudover sager om genoptagelse af straffesager og udelukk
 ### Byretterne
 
 
-```{r network4,echo=FALSE, result=TRUE}
+```{r network5,echo=FALSE, result=TRUE}
 
 
 nodes <- data.frame(id = 1:6, 
@@ -1449,22 +1449,41 @@ kable(collapse_rows_dt, align = "l") %>%
 
 # Fuldmagter og mellemmænd
 
- 
-
 * Fuldmagt (er reguleret af aftaleloven: Lovbekendtgørelse nr. 193 af 2. marts 2016 om aftaler og andre retshandler på formuerettens område)  
-* Fuldmagt med særlig tilværelse
-* Fuldmagt uden særlig tilværelse
+  + Fuldmagt med særlig tilværelse
+  + Fuldmagt uden særlig tilværelse
 * Kommission (Kommisionsloven Lovbekendtgørelse nr. 332 af 31. marts 2014) 
 * Handelsagenter (Lov nr. 272 af 2. maj 1990 om handelsagenter og handelsrejsende)
 
-
 ## Fuldmagtsforhold og aftaleindgåelse 
- 
 
- 
-Fuldmagt: Aftaleloven afsnit II, jf. aftalelovens §§ 10-27
 
-HR: Fuldmagtsgiver bliver bundet af de aftaler, som fuldmægtigen indgår på fuldmagtsgivers vegne, jf. aftalelovens § 10, stk. 1:
+
+```{r network4,echo=FALSE, result=TRUE}
+
+nodes <- data.frame(id = 1:3, 
+                    shape = c("box"), 
+                    label = c(" Fuldmagtsgiver "," Fuldmægtig "," Trediemand "),
+                    font.size = c(35,35,35))
+edges <- data.frame(from = c(1,2,3),
+                    to = c(2,3,1),
+                    label = c("Fuldmagt", "Aftale indgås",""),
+                    # arrows = c("middle"),
+                    length = c(300,300,200)
+                    )
+
+visNetwork(nodes, edges, width = "100%",avoidOverlap=2) %>% 
+  visNodes(color = list(background = "lightgrey", 
+                        border = "lightgrey",
+                        highlight = "orange"),
+           shadow = list(enabled = TRUE, size = 30))  %>%
+  # visHierarchicalLayout()
+  visLayout(randomSeed = 24) # to have always the same network
+```
+
+*Fuldmagt:* Aftaleloven afsnit II, jf. aftalelovens §§ 10-27
+
+*HR:* Fuldmagtsgiver bliver bundet af de aftaler, som fuldmægtigen indgår på fuldmagtsgivers vegne, jf. aftalelovens § 10, stk. 1:  
 ”Den, som har givet en anden fuldmagt til at foretage en retshandel, bliver umiddelbart berettiget og forpligtet overfor tredjemand ved retshandel, som fuldmægtigen foretager i fuldmagtsgiverens navn og indenfor fuldmagtens grænser”.
 
  
@@ -1490,16 +1509,40 @@ Aftaleloven sondrer mellem på den ene side »fuldmagt« og på den anden side �
 
  
  
+```{r echo=FALSE}
+options(knitr.table.format = "html")
+
+dt23 <- data.frame(Indenfor=c("Indenfor fuldmagtens grænser","legitimation (ydre forhold)","Bemyndigelse","(indre forhold)"),Udenfor= c(rep("Udenfor fuldmagtens grænser", 4))
+                 )
+kable(dt23, align = "l",col.names = NA) %>%
+  kable_styling(full_width = T,bootstrap_options = c( "hover","responsive","striped")) %>%
+  collapse_rows(columns = 1:2, valign = "top") %>%
+row_spec(c(1), bold = T, color = "white", background = "red") %>%
+  # column_spec(2,  bold = T, color = "white", background = "red") %>%
+  column_spec(1,  bold = T, color = "white", background = "green") %>%
+
+add_header_above(c( "Oversigt over mangler og ugyldighedsgrunde" = 2),italic = TRUE)
+
+```
+ 
+ 
+ 
+
 
 ## De 2 fuldmagtsformer
-* Fuldmagt med særlig tilværelse:
-* Stillingsfuldmagt, jf. aftalelovens § 10, stk. 2
-* Specialfuldmagt, jf. § aftalelovens § 13
-* Offentlig bekendtgjort fuldmagt, jf. aftalelovens § 14, stk. 1
-* Skriftlig fuldmagt/forevisningsfuldmagt, jf. aftalelovens § 16, stk. 1
 
-* Fuldmagt uden særlig tilværelse
+* Fuldmagt med særlig tilværelse:
+  + Stillingsfuldmagt, jf. aftalelovens § 10, stk. 2
+  + Specialfuldmagt, jf. § aftalelovens § 13
+  + Offentlig bekendtgjort fuldmagt, jf. aftalelovens § 14, stk. 1
+  + Skriftlig fuldmagt/forevisningsfuldmagt, jf. aftalelovens § 16, stk. 1
+
+#### Fuldmagt uden særlig tilværelse
+
 * Kaldes også § 18-fuldmagt
+
+
+![](img/hvad_er_fuldmagt.png)
 
   
 
@@ -1510,15 +1553,18 @@ Aftaleloven sondrer mellem på den ene side »fuldmagt« og på den anden side �
 ”Indtager nogen ifølge aftale med en anden en stilling, som efter lov eller sædvane medfører beføjelse for ham til indenfor visse grænser at handle på den andens vegne, anses han befuldmægtiget til at foretage retshandler, som falder indenfor disse grænser”.
 
 Når du (fuldmagtsgiver) giver en anden (fuldmægtig) fuldmagt til at handle på dine vegne, bliver du som hovedregel bundet af den aftale din fuldmægtig indgår med tredjemand. Der er kun tale om en stillingsfuldmagt i § 10’s forstand, når du efter aftale med en anden (fuldmagtsgiver/arbejdsgiveren) indtager en stilling, dvs. er ansat hos den pågældende. Stillingsfuldmagten stiftes ved, at du efter aftale med fuldmagtsgiver indtager en vis stilling og faktisk indtager denne fx, at du er ansat i en bank eller forsikringsselskab. Deraf følger så, at en advokat ikke har en stillingsfuldmagt for sin klient, og en tilsynsførende arkitekt eller ingeniør ingen stillingsfuldmagt fra bygherren. Tredjemand fx kunden kan påberåbe sig stillingsfuldmagten, selv om han ikke kender til ansættelsen af fuldmægtigen hos fuldmagtsgiveren.
+
 * En ansat, har således via sin stilling, fuldmagt til at handle på vegne af fuldmagtsgiver (arbejdsgiver).
 * Fuldmægtigen (den ansatte) har udadtil fuldmagt til at handle inden for stillingens grænser, dvs. den ansatte kan indgå de aftaler med tredjemand, som er sædvanlige for stillingen, fx en ejendomsmægler kan indgå en formidlingsaftale med en sælger af et hus.
 * En kunderådgiver i en bank kan i sagens natur indgå aftaler om lån fra banken, men hun kan ikke indgå aftaler med et reklamebureau om ny markedsføringskampagne af bankens lån, medmindre hun har fået en udvidet bemyndigelse/særlig tilladelse fra fuldmagtsgiver fx hendes områdechef.
 
 Situation: Fuldmægtigen indgår en aftale med tredjemand, der overskrider bemyndigelsen (den interne instruks fra fuldmagtsgiver).
+
 * Fuldmagtsgiver er bundet af de aftaler fuldmægtigen indgår med tredjemand i strid med den interne instruks, hvis tredjemand var i god tro, jf. aftalelovens § 11, stk. 1.
 God tro: Hvis det vurderes at tredjemand ikke indså eller burde have indset, at fuldmægtigen indgik en aftale der lå uden for sine beføjelser (den interne instruks).
 
 Situation: Fuldmægtigen indgår en aftale med tredjemand, der ligger uden for legitimationen (stillingsfuldmagtens sædvanlige grænser).
+
 * Fuldmagtsgiver er ikke bundet af de aftaler fuldmægtigen indgår med tredjemand, hvis de ligger uden for stillingens grænser, uanset tredjemands gode tro, fx at bankrådgiveren til en bankkunde giver tilsagn om et privat forbrugslån uden at lånet er bliver forrentet og uden stiftelsesomkostninger.
 
 Stillingsfuldmagtens særlige tilværelse viser sig bl.a. derved, at fuldmagtsgiver bliver bundet over for en tredjemand i god tro, selv om fuldmagtsgiver ved konkret tilkendegivelse til fuldmægtigen har indskrænket dennes bemyndigelse, idet fuldmægtigen desuagtet stadig besidder den fuldmagt, der ifølge lov eller sædvane er forbundet med den stilling, fuldmægtigen besidder. Vil fuldmagtsgiveren indskrænke stillingsfuldmagten, må han degradere fuldmægtigen, dvs. afskedige ham fra stillingen og give ham en stilling med en mindre vidtgående stillingsfuldmagt, og dette må være kendeligt for omverdenen.
@@ -1534,6 +1580,7 @@ Erstatning: Hvis fuldmagtsgiver lider et dokumenteret økonomisk tab, fordi fuld
 
 
 Ophør:
+
 * En stillingsfuldmagt ophører og tilbagekaldes ved at fuldmægtigen fjernes fra stillingen, fx opsiges eller bortvises.
 * Arbejdsgiveren bliver bundet af de aftaler  den opsagte indgår med tredjemand i opsigelsesperioden.
 * I en opsigelsesperiode bør fuldmagtsgiver tage stilling til om fuldmægtigen stadig skal have  fuldmagt til at indgå de samme aftaler udadtil, eller der skal laves en ændring frem til fratrædelsestidspunktet.
@@ -1543,6 +1590,7 @@ Ophør:
 #### Specialfuldmagt, jf. aftalelovens § 13:  
 
 ”En fuldmagt, som er bragt til tredjemands kundskab ved en til ham særskilt rettet erklæring fra fuldmagtsgiveren, er tilbagekaldt, når særskilt erklæring om, at fuldmagten ikke længere skal gælde, er kommet frem til tredjemand”
+
 * Kaldes også for legitimationsfuldmagt.
 * Fuldmagten er en særskilt erklæring, der meddeles direkte fra fuldmagtsgiver til tredjemand.
 * Tredjemand får direkte besked om fuldmagtens indhold
@@ -1558,6 +1606,7 @@ Ophør:
 ” En fuldmagt, som af fuldmagtsgiveren er offentlig bekendtgjort i bladene eller på anden måde, tilbagekaldes ved en erklæring, som bekendtgøres på samme måde. 
 Stk. 2. Er dette ikke muligt, skal tilbagekaldelsen tilkendegives på anden ligeså virksom måde. Fuldmagtsgiveren kan forlange, at den i § 17 omtalte myndighed skal afgøre, hvad han i så henseende har at foretage.
 Stk. 3. Fuldmagten anses ikke som offentlig bekendtgjort, fordi den er tinglæst”.
+
 * Offentlig bekendtgjort fuldmagt - fx kuratorfuldmagt, der får fuldmagt til at behandle et konkursbo og varetage boets interesser eller udstedelse af prokura om at kunne handle på vegne af fx et selskab eller en forening.
 * Fuldmagtsgiver oplyser om fuldmagten til almen- heden, fx i massemedier, avis, tidsskrifter, Statstidende, i en cirkulæreskrivelse mv.
 * Fuldmagten ophører/tilbagekaldes på samme måde som den blev stiftet.
@@ -1600,6 +1649,7 @@ Stk. 2. Fuldmægtigen er pligtig til på forlangende at give fuldmagten tilbage 
 ## Aftalelovens § 25 – erstatning til tredjemand:
 “Den, der optræder som fuldmægtig for en anden, indestår for, at han har fornøden fuldmagt.  Oplyser han ikke, at han havde sådan eller at hans retshandel er godkendt af den opgivne fuldmagtsgiver eller af andre grunde er bindende for denne, skal han erstatte den skade, tredjemand lider ved, at retshandelen ikke kan gøres gældende mod den opgivne fuldmagtsgiver.
 Stk. 2. Denne bestemmelse kommer ikke til anvendelse, når tredjemand vidste eller burde vide, at den, som foretog retshandelen, ikke havde fornøden fuldmagt. Ej heller kommer den til anvendelse, når den, som foretog retshandelen, handlede i henhold til en fuldmagt, der var ugyldig eller uvirksom af grunde, som han var uvidende om, og som tredjemand ikke kunne påregne, at han vidste besked om”
+
 * Den der udadtil optræder som fuldmægtig for en anden, indestår for, at han rent faktisk har fornøden fuldmagt til at handle og indgå aftaler på vegne af fuldmagtsgiver.
 * Fuldmægtigen er ved aftalens indgåelse garant for at:
 * Fuldmagten eksisterer,
@@ -1608,6 +1658,7 @@ Stk. 2. Denne bestemmelse kommer ikke til anvendelse, når tredjemand vidste ell
 
 Aftalelovens § 25 – erstatning til tredjemand (fortsat):
 HR: Hvis fuldmægtigen ikke havde den fornødne fuldmagt til at handle, og aftalen derfor falder til jorden, kan tredjemand forlange erstatning hos fuldmægtigen, hvis han lider et økonomisk tab.
+
 * Undtagelse: Erstatning kan ikke komme på tale, hvis tredjemand vidste eller burde vide, at fuldmægtigen ikke havde den fornødne fuldmagt.
 * Undtagelse: Erstatning kan ikke komme på tale, hvis fuldmægtigen indgår aftaler, og ikke ved at fuldmagten i mellemtiden er blevet tilbagekaldt.
 
@@ -2145,6 +2196,7 @@ Det samme gælder genstande, som børn kommer til at ødelægge, fordi de har en
 ---
 
 <img src="img/bulldozer.jpg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 *U 1980.1082 Ø: To 16-årige drenge A og B brugsstjal en bulldozer på et havneområde. Kort efter at A ved hjælp af en skruetrækker, som B rakte ham, havde startet bulldozeren, kørte den i havnen. hvorved der opstod betydelig skade på bulldozeren. B’s fader havde i et forsikringsselskab tegnet en privatforsikring. Undtaget fra selskabets ansvar var “forsætlige skader”, “skader på ting, der var i den sikredes varetægt” og “skader forvoldt under benyttelse af motordrevet køretøj”. B fandtes erstatningsansvarlig efter almindelige regler, da han ansås for forsætligt at have medvirket til, at bulldozeren begyndte at køre, og da han og A ved uagtsomt forhold havde forvoldt skaden, der måtte anses for påregnelig. Skaden ansås dækket af forsikringspolicen, da skaden ikke var forårsaget ved forsæt, da et varetægtsforhold ikke ansås for opstået ved den kortvarige benyttelse af bulldozeren, og da undtagelsesbestemmelsen vedrørende motordrevet køretøj efter sit indhold ikke klart omfattede skaden på det benyttede køretøj. Erstatningen omfattede skadelidtes “egne leverancer” og et beløb til dækning af administrationsudgifter.*
 
 ---
