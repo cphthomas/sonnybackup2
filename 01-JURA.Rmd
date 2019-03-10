@@ -1766,7 +1766,7 @@ Ved telefoniske henvendelser omfattet af FBL § 4, Stk. 2, bestilling af bøger,
 * Det kommercielle formål med telefonhenvendelsen.
 
  
-Virksomheden bør tjekke	Robinson-listen inden henvendelse
+Virksomheden bør tjekke	Robinson-listen inden henvendelse  
 Derudover gælder markedsføringslovens § 10, stk. 6: Den erhvervsdrivende skal ved den første henvendelse til forbrugeren, oplyse om retten til at frabede sig uanmodede henvendelser fra den erhvervsdrivende i fremtiden.
 
  
@@ -1996,19 +1996,20 @@ Speak23:
 
 
 ##### Quiz: E-handel
-Kan du fortryde dit køb, når du handler på nettet? Hvad gælder for levering? Og hvad kan du gøre, hvis varen ikke dukker op? [Tag quizzen fra forbrug.dk, og få svar.](https://www.forbrug.dk/quiz/ehandelsquizzen/?rn=43716)
+Kan du fortryde dit køb, når du handler på nettet? Hvad gælder for levering? Og hvad kan du gøre, hvis varen ikke dukker op? <a href="https://www.forbrug.dk/quiz/ehandelsquizzen/?rn=43716" target="_blank">Tag quizzen fra forbrug.dk, og få svar.</a>
 
 ##### Quiz: E-handel og rejser
-Bestiller du rejser på nettet? Der gælder særlige regler ved handel på nettet, som du skal være opmærksom på. [Få styr på reglerne med forbrug.dk's quiz.](https://www.forbrug.dk/quiz/e-handel-og-rejser/?rn=43716)
+Bestiller du rejser på nettet? Der gælder særlige regler ved handel på nettet, som du skal være opmærksom på. <a href="https://www.forbrug.dk/quiz/e-handel-og-rejser/?rn=43716" target="_blank">Få styr på reglerne med forbrug.dk's quiz.</a>
 
 ##### Quiz: Elektronik
-I forbrug.dk’s quiz kan du teste, hvad du har ret til, hvis dit elektroniske udstyr, fx dit kamera, din computer eller din mobiltelefon, går i stykker. [Tag testen her.](https://www.forbrug.dk/quiz/elektronik/?rn=43716)
+I forbrug.dk’s quiz kan du teste, hvad du har ret til, hvis dit elektroniske udstyr, fx dit kamera, din computer eller din mobiltelefon, går i stykker. <a href="https://www.forbrug.dk/quiz/elektronik/?rn=43716" target="_blank">Tag testen her.</a>
 
 ##### Quiz: Forbrugerrettigheder
-Har du styr på, hvad du har ret til som forbruger? Jo mere du ved, jo bedre er du klædt på, når du står i butikken eller handler på nettet. [Test din viden her.](https://www.forbrug.dk/quiz/forbrugerquizzen/?rn=43716)
+Har du styr på, hvad du har ret til som forbruger? Jo mere du ved, jo bedre er du klædt på, når du står i butikken eller handler på nettet. <a href="https://www.forbrug.dk/quiz/forbrugerquizzen/?rn=43716" target="_blank">Test din viden her.</a>
 
-Quiz: Kopivarer
-Har du styr på, om du må eje kopivarer i Danmark? Eller om du må tage dem med hjem fra et andet land? [Prøv forbrug.dks quiz om kopivarer, og bliv klogere her.](https://www.forbrug.dk/quiz/kopivarequizzen/?rn=43716)
+
+##### Quiz: Kopivarer
+Har du styr på, om du må eje kopivarer i Danmark? Eller om du må tage dem med hjem fra et andet land? <a href="https://www.forbrug.dk/quiz/kopivarequizzen/?rn=43716" target="_blank">Prøv forbrug.dks quiz om kopivarer, og bliv klogere her.</a>
 
 
 
