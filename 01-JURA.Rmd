@@ -2759,11 +2759,12 @@ Se eksempler i Nordisk standpunkt om skjult reklame, maj 2016 (www.forbrugerombu
 * Instagram: Tydeligt skrive ”reklame”, #reklame..”
 * Facebook: Tydeligt markere, hvis opslag er en reklame
 
-Skjult reklame:
-https://youtu.be/0v3K7pusbD4
+Skjult reklame:  
+<div class="video-container"><iframe src="https://www.youtube.com/embed/0v3K7pusbD4" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>  
 
-Influencer marketing. Hvad er reglerne?
-https://youtu.be/KzSLGxLrPWs
+
+Influencer marketing. Hvad er reglerne?  
+<div class="video-container"><iframe src="https://www.youtube.com/embed/KzSLGxLrPWs" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>  
 
 Speak23
 
