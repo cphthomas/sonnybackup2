@@ -2867,9 +2867,7 @@ Definition: En reklame som direkte eller indirekte henviser til en konkurrent el
 
 
 Hvad er sammenlignende reklame?
-
-https://youtu.be/hQvnE8iPuXw
-
+<div class="video-container"><iframe src="https://www.youtube.com/embed/hQvnE8iPuXw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
   
 
 ## Standardoplysninger ved kreditaftaler, jf. MFL § 18
