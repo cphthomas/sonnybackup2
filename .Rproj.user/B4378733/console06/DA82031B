@@ -1493,3 +1493,16 @@ remote: Resolving deltas:   0% (0/12)   [Kremote: Resolving deltas:   8% (1/12
 To https://github.com/cphthomas/jurars.git
    34707ce..7296e1d  master -> master
 ]0;~/Google Drev/JURA/jurarsThomass-MacBook-Pro-3:jurars thomaspetersen$ git add . && git commit -a -m . && git push
+[master e27a269] .
+ 6 files changed, 32 insertions(+), 3281 deletions(-)
+ delete mode 100644 JURA.Rmd
+Enumerating objects: 21, done.
+Counting objects:   4% (1/21)   Counting objects:   9% (2/21)   Counting objects:  14% (3/21)   Counting objects:  19% (4/21)   Counting objects:  23% (5/21)   Counting objects:  28% (6/21)   Counting objects:  33% (7/21)   Counting objects:  38% (8/21)   Counting objects:  42% (9/21)   Counting objects:  47% (10/21)   Counting objects:  52% (11/21)   Counting objects:  57% (12/21)   Counting objects:  61% (13/21)   Counting objects:  66% (14/21)   Counting objects:  71% (15/21)   Counting objects:  76% (16/21)   Counting objects:  80% (17/21)   Counting objects:  85% (18/21)   Counting objects:  90% (19/21)   Counting objects:  95% (20/21)   Counting objects: 100% (21/21)   Counting objects: 100% (21/21), done.
+Delta compression using up to 8 threads
+Compressing objects:   9% (1/11)   Compressing objects:  18% (2/11)   Compressing objects:  27% (3/11)   Compressing objects:  36% (4/11)   Compressing objects:  45% (5/11)   Compressing objects:  54% (6/11)   Compressing objects:  63% (7/11)   Compressing objects:  72% (8/11)   Compressing objects:  81% (9/11)   Compressing objects:  90% (10/11)   Compressing objects: 100% (11/11)   Compressing objects: 100% (11/11), done.
+Writing objects:   9% (1/11)   Writing objects:  18% (2/11)   Writing objects:  27% (3/11)   Writing objects:  36% (4/11)   Writing objects:  45% (5/11)   Writing objects:  54% (6/11)   Writing objects:  63% (7/11)   Writing objects:  72% (8/11)   Writing objects:  81% (9/11)   Writing objects:  90% (10/11)   Writing objects: 100% (11/11)   Writing objects: 100% (11/11), 1.54 KiB | 1.54 MiB/s, done.
+Total 11 (delta 8), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/8)   [Kremote: Resolving deltas:  12% (1/8)   [Kremote: Resolving deltas:  25% (2/8)   [Kremote: Resolving deltas:  37% (3/8)   [Kremote: Resolving deltas:  50% (4/8)   [Kremote: Resolving deltas:  62% (5/8)   [Kremote: Resolving deltas:  75% (6/8)   [Kremote: Resolving deltas:  87% (7/8)   [Kremote: Resolving deltas: 100% (8/8)   [Kremote: Resolving deltas: 100% (8/8), completed with 8 local objects.[K
+To https://github.com/cphthomas/jurars.git
+   7296e1d..e27a269  master -> master
+]0;~/Google Drev/JURA/jurarsThomass-MacBook-Pro-3:jurars thomaspetersen$ git add . && git commit -a -m . && git push
