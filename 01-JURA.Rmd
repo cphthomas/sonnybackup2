@@ -2895,6 +2895,7 @@ Speak23
 * Vilkårene for garantien skal være affattet på dansk, såfremt markedsføringen er sket på dansk
  
 7.11. Sammenlignelige reklamer, jf. MFL § 21
+<img src="img/mf13.png" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Definition: En reklame som direkte eller indirekte henviser til en konkurrent eller til varer og tjenesteydelser, som udbydes af en konkurrent.
 
 * Budskabet være korrekt og relevant, og det skal ske loyalt for at være lovligt.
@@ -2907,6 +2908,7 @@ Hvad er sammenlignende reklame?
   
 
 ## Standardoplysninger ved kreditaftaler, jf. MFL § 18
+<img src="img/mf14.jpeg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 * Debitorrenten, herunder om den er fast eller variabel eller begge, samt oplysninger om omkostninger, der indgår i forbrugerens samlede omkostninger i forbindelse med kreditten.
 * Det samlede kreditbeløb.
@@ -2921,6 +2923,7 @@ Speak23
  
 
 ## Standardoplysninger ved boligkreditaftaler, jf. MFL § 19  
+<img src="img/mf15.jpeg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 * Boligkreditgivers eller boligkreditformidlers identitet.
 * Det pant eller anden sikkerhed, som ligger til grund for boligkreditaftalen.
@@ -2952,7 +2955,8 @@ Speak23
  
 
 ### En virksomheds forretningshemmeligheder er beskyttet mod misbrug og uberettiget benyttelse
- 
+<img src="img/mf16.png" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
+
 Lovreglerne, som beskytter virksomheder mod uberettiget benyttelse af deres forretningshemmeligheder findes i Lov nr. 309 af 25. april 2018 om forretningshemmeligheder.
 Loven indeholder et forbud (§ 4) mod, at en person (fysisk eller juridisk) ulovligt erhverver, bruger eller videregiver fortrolig viden om en virksomhed.
 
@@ -2962,6 +2966,8 @@ Loven indeholder et forbud (§ 4) mod, at en person (fysisk eller juridisk) ulov
 
  
 ### Hvad er en forretningshemmelighed?
+<img src="img/mf17.png" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
+
 Der er 3 lovbetingelser, som alle skal være opfyldte for, at der er tale om en forretningshemmelighed. Oplysningerne skal iflg. Lovens § 2:
 
 1.	være hemmelige forstået på den måde, at de ikke er almindeligt kendt
@@ -2970,6 +2976,7 @@ Der er 3 lovbetingelser, som alle skal være opfyldte for, at der er tale om en 
 
 En forretningshemmelighed kan fx være produktudvikling og opfindelser, kundeforhold, driftstekniske og produktionsmæssige forhold, kommercielle og strategiske forhold mv. Et godt eksempel er fx opskriften på Coca Cola eller en virksomheds kundekartotek.
  
+<img src="img/mf17.png" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 
 Hvis en person (fysisk eller juridisk) ulovligt erhverver, bruger eller videregiver en forretningshemmelighed kan domstolene sanktionere overtrædelsen på følgende måde:
 
@@ -2988,6 +2995,7 @@ Speak23
  
 
 ### Forbrugerombudsmandens opgaver og beføjelser
+<img src="img/mf18.png" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 
 * FOB kan i særlige tilfælde foretage kontrolundersøgelser i en virksomhed, jf. MFL § 27.
 * Forhandlingsprincippet: FOB har adgang til gennem forhandling med de erhvervsdrivende, at forsøge at påvirke virksomhederne, jf. MFL § 28.
@@ -2995,6 +3003,7 @@ Speak23
 * Forhåndsbesked/vurdering til virksomheden om et planlagt, men endnu ikke lanceret markedsføringstiltag er lovligt, jf. MFL § 30.
  
 7.14.2. Forbrugerombudsmanden (FOB) Sanktioner
+<img src="img/mf19.png" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 
 * De fleste overtrædelser af markedsføringsloven straffes med bøde.
 * Retsforfølgning: Retssager kan anlægges af FOB. Der kan anlægges sag om forbud, påbud, erstatning og vederlag, jf. MFL § 32.
@@ -3010,6 +3019,7 @@ Markedsføringsloven sætter rammerne for, hvornår og hvordan virksomheder må 
 Bliver du konstant kontaktet af telefonsælgere, eller er din indbakke ramt af spam? <a href="https://www.forbrug.dk/quiz/spam-og-reklamer/?rn=43716" target="_blank">Forbrug.dk sætter med denne quiz fokus på reglerne for spam og reklamer.</a>  
 
 ## Kursus: Regler for online handel og markedsføring
+<img src="img/mf20.png" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 Ekstra materiale som ikke er en del af pensum om advokatefteruddannelseskursus om ”Online handel og markedsføring ”  
 
 
