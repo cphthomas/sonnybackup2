@@ -2809,6 +2809,7 @@ Er skjulte reklamer på YouTube et problem?
 ![](img/mf10.jpg)
   
 ## Markedsføring rettet mod børn og unge, jf. MFL § 11
+<img src="img/mf12.jpeg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 * Særlig hensyntagen til børn og unges naturlige godtroenhed, manglende erfaring og kritiske sans, som bevirker, at de er lette at påvirke og nemme at præge
 * Ikke udnytte den særlige godtroenhed og mangel på erfaring, der karakteriserer målgruppen børn og unge. Har ikke det samme skeptiske eller analytiske filter som voksne.
@@ -2858,6 +2859,8 @@ Bilag 1 til markedsføringsloven kommer med en række ikke udtømmende eksempler
 
   
 ## Uanmodet henvendelse – spam, jf. MFL § 10, stk. 1  
+
+<img src="img/mf11.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Hovedreglen: Den erhvervsdrivende må ikke sende reklamer, tilbud og øvrigt markedsføringsmateriale via fjernkommunikation, dvs. ved brug af e-mail, sms, mms, fax og automatisk opkaldesystem med indtalt reklame, hvis modtager ikke har bedt om det. Det gælder uanset om modtager er en forbruger eller en erhvervsdrivende.
 
 * Undtagelse 1: Hvis modtageren af reklamen forudgående har accepteret eller anmodet om at få reklamen tilsendt på den måde.
