@@ -380,15 +380,6 @@ De almindelige domstole behandler civile sager og straffesager.
 
 Alle sager kan som udgangspunkt behandles ved 2 retsinstanser, f.eks. ved byret og landsret. Visse mindre sager kan dog normalt kun behandles ved én instans, byretterne, uden mulighed for appel til landsretten.
  
-### Byretten
-![](img/byretten.png)
-Danmark har 24 byretter. De er fordelt over hele landet. Byretten behandler som nævnt bl.a.:
-
-*	civile sager
-*	straffesager
-*	tinglysningssager
-*	skiftesager 
-
 ### Højesteret 
 Danmark har én højesteret. Den ligger ved Christiansborg Slot i København. Højesteret er den øverste domstol i Danmark. Her afgøres f.eks. sager, der har betydning for, hvordan lignende sager skal afgøres, eller sager, der har særlig samfundsmæssig interesse. 
 Højesteret er en appeldomstol, som behandler domme og kendelser, der er afsagt af Østre Landsret, Vestre Landsret eller Sø- og Handelsretten. Man kan altså ikke anlægge sag direkte ved Højesteret.
@@ -421,6 +412,16 @@ Den Særlige Klageret ligger i København samme sted som Højesteret. Klagerette
 Den Særlige Klageret træffer afgørelser i disciplinære sager vedrørende dommere og andet juridisk personale ansat ved domstolene, herunder også ansatte på Færøerne og i Grønland.
  
 Klageretten behandler derudover sager om genoptagelse af straffesager og udelukkelse af forsvarere fra straffesager.
+
+### Byretten
+![](img/byretten.png)
+Danmark har 24 byretter. De er fordelt over hele landet. Byretten behandler som nævnt bl.a.:
+
+*	civile sager
+*	straffesager
+*	tinglysningssager
+*	skiftesager 
+
 
 ### Byretterne
 
@@ -3679,6 +3680,26 @@ Ekstra materiale som ikke er en del af pensum om advokatefteruddannelseskursus o
 # Materialer
 
 # Podcasts
+
+<audio controls="controls">
+  <source src="https://dl.dropbox.com/s/oac60yhv6rajnng/gb2.mp3">
+</audio>
+<br>
+<br>
+<audio controls="controls">
+  <source src="https://drive.google.com/open?id=1YtSX01PgIARjsqZV6LkZ4lwpqm7pxGD0">
+</audio>
+<br>
+<br>
+<audio controls="controls">
+  <source src="https://docs.google.com/uc?export=open&id=1YtSX01PgIARjsqZV6LkZ4lwpqm7pxGD0">
+</audio>
+
+
+###### Test
+
+<script src="//rss.bloople.net/?url=https%3A%2F%2Fjustcast.herokuapp.com%2Fshows%2Fexample-4216fc9e-9dd7-4878-9bc0-1ba46e37be33%2Faudioposts.rss&showtitle=false&type=js"></script>
+
 
 ###### 1 Episode
 
