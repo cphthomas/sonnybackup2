@@ -1167,8 +1167,7 @@ Ugyldighed som kan ramme aftalen kan opstå pga:
 options(knitr.table.format = "html")
 collapse_rows_dt <- data.frame(Mangeltype = c(rep("Tilblivelsesmangler", 4), rep("Indholdsmangler",3 ),rep("Habilitetsmangler",2 )),
                  Årsag = c("Ugyldighed pga. omstændigheder ved aftalens indgåelse (tilblivelse), fx:
-","falsk, forfalskning, forvanskning, fuldmagtsover-
-skridelse, voldelig tvang, mekanisk tvang
+","falsk, forfalskning, forvanskning, fuldmagtsoverskridelse, voldelig tvang, mekanisk tvang
 ","svig, udnyttelse, simpel tvang, fejltagelse (fejlskrift),
 pro forma
 ","tilblivelse i strid med almindelig hæderlighed og
@@ -2203,6 +2202,7 @@ Forsæt, er en handling der er foretaget med vilje, er ikke i dansk ret en betin
 *Forsikringsankenævnskendelse i sag nr. 15.569 – 26.04.85: Skade på skolelokaler, forårsaget af 15-årig dreng ved udtømning af to pulverslukkere, anset forsætligt forvoldt, og derfor ikke dækket af ansvarsforsikringen. (utrykt)*
 
 ---
+
 <img src="img/truckcar.jpg" align="right" width="10%" height="10%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Ved simpel og grov uagtsomhed er det hovedreglen, at en ansvarsforsikring dækker (se dog afsnittet nedenfor om generelt bortfald af ansvar). Forsætlige skader dækker forsikringen ikke, med mindre skadevolder er under 14 år:
 
