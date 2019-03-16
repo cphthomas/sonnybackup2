@@ -730,6 +730,7 @@ Når den skriftlige forhandling er afsluttet, opfordres parterne til inden for e
 Besluttes det at afholde en mundtlig forhandling, procederes sagen i et offentligt retsmøde, hvori dommerkollegiet og generaladvokaten deltager. Dommerne og generaladvokaten kan stille parterne de spørgsmål, som de finder hensigtsmæssige. Nogle uger senere fremsætter generaladvokaten i et nyt offentligt retsmøde sit forslag til afgørelse for Domstolen. Generaladvokaten behandler navnlig sagens retlige aspekter i enkeltheder og foreslår i al uafhængighed Domstolen, hvorledes problemet efter hans eller hendes opfattelse skal løses. Hermed er den mundtlige del af sagsbehandlingen afsluttet. Hvis det vurderes, at sagen ikke rejser nye retsspørgsmål, kan Domstolen efter at have hørt generaladvokaten bestemme, at sagen skal påkendes uden forslag til afgørelse.
 
 ## Dommene
+<img src="img/eudomstolen4.jpg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Dommerne voterer på grundlag af et domsudkast, som den refererende dommer har udarbejdet. Enhver af dommerne i det pågældende dommerkollegium kan foreslå ændringer. Domstolens afgørelser træffes med stemmeflerhed, og en eventuel dissens anføres ikke. Dommene underskrives kun af de dommere, der har deltaget i den mundtlige votering, hvorunder dommen er blevet vedtaget, med forbehold af reglen om, at den dommer i dommerkollegiet, der har den laveste anciennitet, ikke underskriver dommen, såfremt dette dommerkollegium består af et lige antal dommere. Dommene afsiges i offentligt retsmøde. På Domstolens websted CURIA offentliggøres dommene og generaladvokaternes forslag til afgørelse på afsigelsesdagen, henholdsvis fremsættelsesdagen. I de fleste tilfælde offentliggøres de efterfølgende i Samling af Afgørelser.
 
 ## Særlige rettergangsformer
@@ -839,6 +840,7 @@ Begrebet groft uforsvarlig adfærd er ikke nærmere afgrænset i betalingsloven,
 
 ---
 
+<img src="img/atm.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 *PIA 78/2006: »Det forhold, at misbrugeren på klagerens bopæl tilfældigt fik mulighed for at overhøre klageren oplyse sin kode til dankortet til kæresten sammenholdt med, at dankortet opbevaredes i hendes pung, der lå i hendes jakke på bopælen, kan ikke betegnes som groft uforsvarlig adfærd, heller ikke selv om klageren havde givet T adgang til sin bopæl, uanset om hun måtte have kendskab til T’s kriminelle baggrund« *
 
 *PIA 205/2005: »Klagerens Visa/Dankort blev opbevaret i en pung, som lå i en jakke, der var anbragt bag disken i klagerens butik og ikke var synlig for kunderne. Selvom det må bebrejdes klageren, at pinkoden til kortet var anført på en seddel, der lå i pungen sammen med kortet, findes klageren efter en samlet vurdering ikke at have udvist en groft uforsvarlig adfærd som omhandlet i lov om visse betalingsmidler § 11, stk. 3, nr. 3. Ankenævnet har herved også lagt vægt på, at det i lovens forarbejder er forudsat, at det udvidede ansvar kun ville kunne gøres gældende i et fåtal af tilfælde«.*  
@@ -858,7 +860,7 @@ I juridisk Ordbog defineres juridisk metode som følger:
 # Aftaleret
 
 ## Aftaleloven
-
+<img src="img/deal1.jpg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Aftalelovens principper har betydning på hele aftaleområdet, fx i:
 
 * Forsikringsaftaleloven, kreditaftaleloven, forbrugeraftaleloven, AB 18, købeloven, E-handelsloven m.fl.
@@ -968,7 +970,7 @@ edges <- data.frame(from = c(1),
 *	Tilbudsmodtager (boligsælgeren): Den som modtager et tilbud.   
 
 ##### En kunde tager initiativ til en forsikringsaftale:  
-
+<img src="img/deal2.jpeg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 *	Tilbudsgiver (kunden): En interesseret kunde sender en begæring til et forsikringsselskab med ønske om en forsikring.
 *	Tilbudsmodtager (sælger): Sælger modtager en ordre eller ønske om køb fra interesseret køber.
 *	Et løfte: En ensidig erklæring fra en person om at ville påtage sig en pligt. Løftet skaber en forventning hos modtager. Løftet har følgende retsvirkninger: Dels at løftegiveren har pligt enten til at opfylde løftet efter dets indhold (såkaldt naturalopfyldelse) eller til at erstatte løftemodtagerens økonomiske interesse i løftets opfyldelse, dvs. erstatning i form af såkaldt positiv opfyldelsesinteresse (forudsat naturligvis, at der foreligger et ansvarsgrundlag).
@@ -1147,7 +1149,7 @@ accept, skal han uden ugrundet ophold give acceptanten besked. Lader han som ing
 
 
 #### Aftalers ugyldighed
-
+<img src="img/deal3.jpeg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 1.	Aftalen er bindende, men den kan alligevel bortfalde, hvis aftalen rammes af ugyldighed:
 
@@ -1209,7 +1211,7 @@ row_spec(5:9, bold = T, color = "Black", background = "yellow") %>%
 add_header_above(c( "Oversigt over stærke og svage ugyldighedsgrunde" = 2),italic = TRUE)
 
 ```
-
+<img src="img/deal4.jpg" align="right" width="60%" height="60%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 De stærke ugyldighedsgrunde:
 
 *	Falsk
@@ -1295,11 +1297,12 @@ Kompulsiv tvang/psykisk tvang, fx trusler om boykot, skandalisering og afpresnin
 
 
 #### Aftalers ugyldighed
+
 Svig, AFTL § 30
 
 Svig: Fejlinformation, urigtige oplysninger og  fortielser, der bruges eller tilbageholdes, for at få en aftale i hus.
 
-
+<img src="img/deal5.jpeg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Situation: Sælger af en båd påstår urigtigt, at båden har været ejet af en berømthed, og på den baggrund meddeler køber, at han vil købe båden, trods den høje købesum.
 
 * Løftet om køb af båden kan erklæres ugyldigt, hvis modtageren af løftet var i ond tro bådesælgeren. Løftet er så ikke bindende for bådekøberen.
@@ -1449,6 +1452,8 @@ kable(collapse_rows_dt, align = "l") %>%
 
 # Fuldmagter og mellemmænd
 
+<img src="img/fuldmagt1.jpeg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 * Fuldmagt (er reguleret af aftaleloven: Lovbekendtgørelse nr. 193 af 2. marts 2016 om aftaler og andre retshandler på formuerettens område)  
   + Fuldmagt med særlig tilværelse
   + Fuldmagt uden særlig tilværelse
@@ -1552,7 +1557,7 @@ add_header_above(c( "Oversigt over mangler og ugyldighedsgrunde" = 2),italic = T
 
 > *”Indtager nogen ifølge aftale med en anden en stilling, som efter lov eller sædvane medfører beføjelse for ham til indenfor visse grænser at handle på den andens vegne, anses han befuldmægtiget til at foretage retshandler, som falder indenfor disse grænser”.*  
 
-<img src="img/helloquence-51716-unsplash.jpg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/fuldmagt2.jpg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Når du (fuldmagtsgiver) giver en anden (fuldmægtig) fuldmagt til at handle på dine vegne, bliver du som hovedregel bundet af den aftale din fuldmægtig indgår med tredjemand. Der er kun tale om en stillingsfuldmagt i § 10’s forstand, når du efter aftale med en anden (fuldmagtsgiver/arbejdsgiveren) indtager en stilling, dvs. er ansat hos den pågældende. Stillingsfuldmagten stiftes ved, at du efter aftale med fuldmagtsgiver indtager en vis stilling og faktisk indtager denne fx, at du er ansat i en bank eller forsikringsselskab. Deraf følger så, at en advokat ikke har en stillingsfuldmagt for sin klient, og en tilsynsførende arkitekt eller ingeniør ingen stillingsfuldmagt fra bygherren. Tredjemand fx kunden kan påberåbe sig stillingsfuldmagten, selv om han ikke kender til ansættelsen af fuldmægtigen hos fuldmagtsgiveren.
 
 * En ansat, har således via sin stilling, fuldmagt til at handle på vegne af fuldmagtsgiver (arbejdsgiver).
@@ -1711,7 +1716,7 @@ Fuldmægtigen skal erstatte tredjemand den positive opfyldelsesinteresse, dvs. t
 
 
 ## Introduktion til forbrugeraftaleloven
-Lovens formål:
+<img src="img/consum1.jpg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>Lovens formål:
 
 * Beskyttelsespræceptiv – loven kan ikke fraviges til skade for forbrugeren, FBL § 33, men forbrugeren kan godt stilles bedre end, hvad lovgivningen tilsiger.
 
@@ -1993,15 +1998,14 @@ AFTL §§ 38a – 38 d – særligt kapitel om forbrugeraftaler:
 En forbruger kan opsige en aftale om løbende levering af varer eller tjenesteydelser med 1 måneds varsel til udgangen af en måned, når der er gået 5 måneder efter aftalens indgåelse, jf. FBL § 28, stk. 1, fx abonnementslignende aftaler.
 Speak23:
 
-
+## Quiz
 
 ##### Quiz: E-handel
-Kan du fortryde dit køb, når du handler på nettet? Hvad gælder for levering? Og hvad kan du gøre, hvis varen ikke dukker op?  
-<h3><a href="https://www.forbrug.dk/quiz/ehandelsquizzen/?rn=43716" target="_blank">Quiz: E-handel   <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
+Kan du fortryde dit køb, når du handler på nettet? Hvad gælder for levering? Og hvad kan du gøre, hvis varen ikke dukker op? <a href="https://www.forbrug.dk/quiz/ehandelsquizzen/?rn=43716" target="_blank">Tag quizzen fra forbrug.dk, og få svar.</a>
+
 
 ##### Quiz: E-handel og rejser
-Bestiller du rejser på nettet? Der gælder særlige regler ved handel på nettet, som du skal være opmærksom på. 
-<h3><a href="https://www.forbrug.dk/quiz/e-handel-og-rejser/?rn=43716" target="_blank">Quiz: E-handel og rejser   <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
+Bestiller du rejser på nettet? Der gælder særlige regler ved handel på nettet, som du skal være opmærksom på. <a href="https://www.forbrug.dk/quiz/e-handel-og-rejser/?rn=43716" target="_blank">Få styr på reglerne med forbrug.dk's quiz.</a>
 
 ##### Quiz: Elektronik
 I forbrug.dk’s quiz kan du teste, hvad du har ret til, hvis dit elektroniske udstyr, fx dit kamera, din computer eller din mobiltelefon, går i stykker. <a href="https://www.forbrug.dk/quiz/elektronik/?rn=43716" target="_blank">Tag testen her.</a>
