@@ -2542,7 +2542,7 @@ Sådanne skader dækkes ikke, og man skal således købe en autoansvarsforsikrin
 ### Introduktion til Lovbekendtgørelse nr. 140 af 17. februar 2014 Købelov (KBL) 
 <img src="img/buing.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 KBL opstiller ikke en definition af, hvad der forstås ved køb. Køb forstås traditionelt som en aftale om overdragelse af et formuegode mod vederlag i penge).  
-<img src="img/buy.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 Der skal være tale om en gensidigt bebyrdende aftale, dvs. at både køberens og sælgerens ydelse forholder sig som vederlag for modydelsen. Sælgerens ydelse er et formuegode, dvs. en ejendomsgenstand. Der er hyppigst tale om overdragelse af ejendomsretten til løsøre (dvs. ting), men der kan også være tale om overdragelse af fordringsrettigheder (f.eks. aktier og skriftlige rentebærende fordringer), ophavsrettigheder eller andre immaterielle rettigheder, goodwill, valuta (dvs. penge af en anden mønt end betalingsstedets), overdragelse af en begrænset rettighed, jf. f.eks. U 1952.288/3 H (om køb af udnyttelsesretten til et mergelleje) osv. Selv om loven udtrykkeligt angiver kun at regulere »køb«, er loven i vidt omfang udtryk for almindelige obligationsretlige grundsætninger. Dette indebærer, at lovens principper i mange henseender også finder anvendelse på andre, ulovregulerede kontraktstyper fx afgrænsningsbegrebet ved tjenesteydelser, håndværksydelser og køb af fast ejendom.
 
  
@@ -2604,7 +2604,7 @@ Speak23
 
  
 Speak23
-
+<img src="img/buy.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 * Som »erhvervsdrivende« i forbrugerkøbet anses personer, der udøver selvstændig, privat, økonomisk erhvervsvirksomhed inden for handel, industri, håndværk, transport, liberale erhverv, i den finansielle sektor mv., jf. også markedsføringslovens § 2, nr. 2. 
 * Det er ikke afgørende, om der er tale om en hoved- eller bibeskæftigelse, men aktiviteten skal have et erhvervsmæssigt præg, dvs. en fortsat karakter og et ikke helt ubetydeligt omfang. Et enkeltstående salg vil dermed som udgangspunkt ikke være tilstrækkeligt til at anse forbrugerens medkontrahent for erhvervsdrivende. 
 * En person, som i et enkelt eller enkelte lejlighedsvise tilfælde videresælger en vare med fortjeneste, vil således ikke alene på det grundlag kunne anses for erhvervsdrivende. Der lægges med andre ord bl.a. vægt på transaktionshyppighed og kontinuitet. 
@@ -2624,19 +2624,21 @@ Link til min artikel
  
 #### Civile køb (Ej defineret i KBL):
 
+<img src="img/dba.png" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 * Et køb, hvor begge parter er privat personer, og hvor der ikke bruges en erhvervsdrivende mellemmand til at formidle salget. Man anvender handelskøbsreglerne analogt, som har et betydeligt merkantilt præg, medmindre andet er blevet aftalt mellem parterne. Et civilt køb kan fx foregå på ”Den Blå Avis” eller på et loppemarked, hvor private udveksler genstande og penge samtidigt. 
  
 
-
+<img src="img/genus.png" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 Genuskøb: 
- 
+
+
 * Køb af genstande, bestemt efter art, jf. KBL § 3.
 * Ved et genuskøb, købes en vis mængde af en angiven art eller type genstande.
 * Sælger har valgfrihed med hensyn til, hvilke varer i det pågældende parti, han vil levere til køber for at opfylde aftalen.
  
 Speak23
 
- 
+<img src="img/mona.png" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 Specieskøb:
 
 * Køb af en individuelt bestemt genstand.
@@ -2649,18 +2651,19 @@ Specieskøb:
 
 Speak23
  
-
+<img src="img/bride.png" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 Bestillingskøb/fremstillingskøb:
 Et bestillingskøb kan også kaldes et fremstillingskøb, da købet vedrører bestilling af genstande, som først skal fremstilles, jf. KBL § 2, stk. 1. som indeholder et element af værksleje, nemlig aftaler, hvor den ene part har påtaget sig mod vederlag at fremstille en ny genstand (i modsætning til aftaler om f.eks. reparation af en allerede eksisterende genstand). 
 
  
 
-Skabelsen af en ny vare fx ved en ændring af en eksisterende bryllupskjole til en ny dåbskjole, er således omfattet af købelovens regler. Men ikke blot en reparation af en allerede eksisterende genstand, fx det at få lagt et bukseben op, eller at få udført en serviceydelse. Reparationer og tjenesteydelser er omfattet af forældelseslovens regler, jf. den 3 årige-forældelse i forældelseslovens § 3, stk. 1. 
+Skabelsen af en ny vare fx ved en ændring af en eksisterende bryllupskjole til en ny dåbskjole, er således omfattet af købelovens regler. Men ikke blot en reparation af en allerede eksisterende genstand, fx det at få lagt et bukseben op, eller at få udført en serviceydelse. Reparationer og tjenesteydelser er omfattet af forældelseslovens regler, jf. den 3 årige-forældelse i forældelseslovens § 3, stk. 1.  
 
+<img src="img/fix.png" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 Fixkøb:
 Betegnelsen fixkøb bruges om et køb, hvor køber har betinget sig, at levering sker på et helt bestemt tidspunkt, fx en fødselsdagsskage, der skal leveres om formiddagen den 3. august 2019.
   
-
+<img src="img/money.png" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 Samtidighedsgrundsætningen: Sælgeren har ikke pligt til at levere salgsgenstanden, medmindre købesummen samtidig betales, og køber har ikke pligt til at betale købesummen, medmindre salgsgenstanden samtidig stilles til hans rådighed, jf. KBL § 14 (kontantkøb).
  
 
@@ -2672,6 +2675,7 @@ Speak23
  
 
 ### Sælgers og købers forpligtelser ved køb
+ 
  
 Sælgers forpligtelser består i at:
 
@@ -2710,7 +2714,7 @@ Speak23:
 
 
 Pladskøb og afsendelseskøb/forsendelseskøb
-
+<img src="img/§man.png" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 * Pladskøb – udbringelseskøb: Levering inden for sælgers geografiske udbringningsområde. Ofte sælger egne folk der bringer varen ud.
 * Levering sker og risikoen overgår fra sælger til køber, når køber har varen i sin besiddelse, jf. KBL § 11.
 
@@ -2813,6 +2817,7 @@ Situation: Én leverance bliver forsinket
 
 Speak23
 
+<img src="img/mangel.jpeg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 * Loven indeholder ikke uden for forbrugerkøb en definition af, hvad der forstås ved en faktisk (kvalitativ) mangel. Det antages imidlertid, at den definition af mangler i forbrugerkøb, som fremgår af § 76, også kan være vejledende for mangelsbedømmelsen i ikke-forbrugerkøb.
 * Køberen har bevisbyrden for, at salgsgenstanden er mangelfuld, jf. dog i forbrugerkøb KBL § 77a, stk. 3 formodningsreglen, hvor denne bevisbyrde er sælgeren de første 6 måneder efter købet.
 
@@ -2891,6 +2896,7 @@ Kræve erstatning for tab
 ### Købers misligholdelse
 
 #### Købers forsinkelse med købesummens betaling
+<img src="img/payment.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Købers forpligtelse:
 Køber skal modtage varen som aftalt betale den aftalte købesum til tiden.
 Købers misligholdelse:
