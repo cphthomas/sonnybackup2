@@ -1176,3 +1176,33 @@ remote: Resolving deltas:   0% (0/15)   [Kremote: Resolving deltas:   6% (1/15
 To https://github.com/cphthomas/jurars.git
    bc1e097..71f5a1a  master -> master
 ]0;~/Google Drev/JURA/jurarsThomass-MacBook-Pro-3:jurars thomaspetersen$ git add . && git commit -a -m . && git push
+[master 15ac8ac] .
+ 27 files changed, 66 insertions(+), 40 deletions(-)
+ create mode 100644 _book/img/bonuspaterfamilias.jpg
+ create mode 100644 _book/img/doctor.jpeg
+ create mode 100644 _book/img/fireplace.jpg
+ create mode 100644 _book/img/funeral.jpg
+ create mode 100644 _book/img/stairs.jpg
+ create mode 100644 _book/img/stripper2.jpg
+ create mode 100644 _book/img/stupid.jpg
+ create mode 100644 img/bonuspaterfamilias.jpg
+ create mode 100644 img/container.jpg
+ create mode 100644 img/doctor.jpeg
+ create mode 100644 img/fireplace.jpg
+ create mode 100644 img/funeral.jpg
+ create mode 100644 img/meeting.jpg
+ create mode 100644 img/online.jpg
+ create mode 100644 img/stairs.jpg
+ rewrite img/stripper.jpg (98%)
+ create mode 100644 img/stripper2.jpg
+ create mode 100644 img/stupid.jpg
+Enumerating objects: 49, done.
+Counting objects:   2% (1/49)   Counting objects:   4% (2/49)   Counting objects:   6% (3/49)   Counting objects:   8% (4/49)   Counting objects:  10% (5/49)   Counting objects:  12% (6/49)   Counting objects:  14% (7/49)   Counting objects:  16% (8/49)   Counting objects:  18% (9/49)   Counting objects:  20% (10/49)   Counting objects:  22% (11/49)   Counting objects:  24% (12/49)   Counting objects:  26% (13/49)   Counting objects:  28% (14/49)   Counting objects:  30% (15/49)   Counting objects:  32% (16/49)   Counting objects:  34% (17/49)   Counting objects:  36% (18/49)   Counting objects:  38% (19/49)   Counting objects:  40% (20/49)   Counting objects:  42% (21/49)   Counting objects:  44% (22/49)   Counting objects:  46% (23/49)   Counting objects:  48% (24/49)   Counting objects:  51% (25/49)   Counting objects:  53% (26/49)   Counting objects:  55% (27/49)   Counting objects:  57% (28/49)   Counting objects:  59% (29/49)   Counting objects:  61% (30/49)   Counting objects:  63% (31/49)   Counting objects:  65% (32/49)   Counting objects:  67% (33/49)   Counting objects:  69% (34/49)   Counting objects:  71% (35/49)   Counting objects:  73% (36/49)   Counting objects:  75% (37/49)   Counting objects:  77% (38/49)   Counting objects:  79% (39/49)   Counting objects:  81% (40/49)   Counting objects:  83% (41/49)   Counting objects:  85% (42/49)   Counting objects:  87% (43/49)   Counting objects:  89% (44/49)   Counting objects:  91% (45/49)   Counting objects:  93% (46/49)   Counting objects:  95% (47/49)   Counting objects:  97% (48/49)   Counting objects: 100% (49/49)   Counting objects: 100% (49/49), done.
+Delta compression using up to 8 threads
+Compressing objects:   3% (1/29)   Compressing objects:   6% (2/29)   Compressing objects:  10% (3/29)   Compressing objects:  13% (4/29)   Compressing objects:  17% (5/29)   Compressing objects:  20% (6/29)   Compressing objects:  24% (7/29)   Compressing objects:  27% (8/29)   Compressing objects:  31% (9/29)   Compressing objects:  34% (10/29)   Compressing objects:  37% (11/29)   Compressing objects:  41% (12/29)   Compressing objects:  44% (13/29)   Compressing objects:  48% (14/29)   Compressing objects:  51% (15/29)   Compressing objects:  55% (16/29)   Compressing objects:  58% (17/29)   Compressing objects:  62% (18/29)   Compressing objects:  65% (19/29)   Compressing objects:  68% (20/29)   Compressing objects:  72% (21/29)   Compressing objects:  75% (22/29)   Compressing objects:  79% (23/29)   Compressing objects:  82% (24/29)   Compressing objects:  86% (25/29)   Compressing objects:  89% (26/29)   Compressing objects:  93% (27/29)   Compressing objects:  96% (28/29)   Compressing objects: 100% (29/29)   Compressing objects: 100% (29/29), done.
+Writing objects:   3% (1/30)   Writing objects:   6% (2/30)   Writing objects:  10% (3/30)   Writing objects:  13% (4/30)   Writing objects:  16% (5/30)   Writing objects:  20% (6/30)   Writing objects:  23% (7/30)   Writing objects:  26% (8/30)   Writing objects:  30% (9/30)   Writing objects:  33% (10/30)   Writing objects:  36% (11/30)   Writing objects:  40% (12/30)   Writing objects:  43% (13/30)   Writing objects:  46% (14/30)   Writing objects:  50% (15/30)   Writing objects:  53% (16/30)   Writing objects:  56% (17/30)   Writing objects:  60% (18/30)   Writing objects:  63% (19/30)   Writing objects:  66% (20/30)   Writing objects:  70% (21/30)   Writing objects:  73% (22/30)   Writing objects:  76% (23/30)   Writing objects:  80% (24/30)   Writing objects:  83% (25/30)   Writing objects:  86% (26/30)   Writing objects:  90% (27/30)   Writing objects:  93% (28/30)   Writing objects:  96% (29/30)   Writing objects: 100% (30/30)   Writing objects: 100% (30/30), 829.29 KiB | 17.28 MiB/s, done.
+Total 30 (delta 15), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/15)   [Kremote: Resolving deltas:   6% (1/15)   [Kremote: Resolving deltas:  13% (2/15)   [Kremote: Resolving deltas:  20% (3/15)   [Kremote: Resolving deltas:  26% (4/15)   [Kremote: Resolving deltas:  33% (5/15)   [Kremote: Resolving deltas:  40% (6/15)   [Kremote: Resolving deltas:  46% (7/15)   [Kremote: Resolving deltas:  53% (8/15)   [Kremote: Resolving deltas:  60% (9/15)   [Kremote: Resolving deltas:  66% (10/15)   [Kremote: Resolving deltas:  73% (11/15)   [Kremote: Resolving deltas:  80% (12/15)   [Kremote: Resolving deltas:  86% (13/15)   [Kremote: Resolving deltas:  93% (14/15)   [Kremote: Resolving deltas: 100% (15/15)   [Kremote: Resolving deltas: 100% (15/15), completed with 15 local objects.[K
+To https://github.com/cphthomas/jurars.git
+   71f5a1a..15ac8ac  master -> master
+]0;~/Google Drev/JURA/jurarsThomass-MacBook-Pro-3:jurars thomaspetersen$ git add . && git commit -a -m . && git push
