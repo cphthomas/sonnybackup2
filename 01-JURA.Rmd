@@ -971,6 +971,7 @@ edges <- data.frame(from = c(1),
 
 ##### En kunde tager initiativ til en forsikringsaftale:  
 <img src="img/deal2.jpeg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 *	Tilbudsgiver (kunden): En interesseret kunde sender en begæring til et forsikringsselskab med ønske om en forsikring.
 *	Tilbudsmodtager (sælger): Sælger modtager en ordre eller ønske om køb fra interesseret køber.
 *	Et løfte: En ensidig erklæring fra en person om at ville påtage sig en pligt. Løftet skaber en forventning hos modtager. Løftet har følgende retsvirkninger: Dels at løftegiveren har pligt enten til at opfylde løftet efter dets indhold (såkaldt naturalopfyldelse) eller til at erstatte løftemodtagerens økonomiske interesse i løftets opfyldelse, dvs. erstatning i form af såkaldt positiv opfyldelsesinteresse (forudsat naturligvis, at der foreligger et ansvarsgrundlag).
@@ -1321,7 +1322,7 @@ Svig, er en form vildledelse med det formål at få nogen til at foretage en jur
 
 Situation: Bent låner Anders penge og Bent kræver urimeligt høje renter (åger-renter). Bent er vidende om at A er i økonomiske vanskeligheder, og ikke kan låne penge andre steder.  
 
-Når Bent i aftaleøjemed udnytter viden om Anders´ vanskeligheder, eller manglende viden/indsigt mv., er der tal om udnyttelse. Bent er i ond tro og aftalen er ugyldig.  
+Når Bent i aftaleøjemed udnytter viden om Anders´ vanskeligheder, eller manglende viden/indsigt mv., er der tale om udnyttelse. Bent er i ond tro og aftalen er ugyldig.  
 
 #### Fejlskrift/anden fejltagelse, jf. aftalelovens § 32, stk. 1
 
@@ -1750,6 +1751,7 @@ tilsyn med at forbrugeraftaleloven overholdes – se www.forbrug.dk
  
 
 ## Forbud mod uanmodet henvendelse
+<img src="img/sale1.jpg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Hovedregel: Forbud mod uanmodet telefonisk eller direkte personlig henvendelse til forbrugere på deres bopæl, arbejdsplads, skoler, gymnasier, universiteter eller andre steder, hvor der ikke er almindelig adgang, fx også foreninger, hvis henvendelsen fra virksomheden har til formål at opnå en aftale med forbrugeren, jf. FBL § 4, stk. 1.
  
 Speak 23
