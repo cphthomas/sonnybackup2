@@ -1856,8 +1856,7 @@ Forbrugeren har fortrydelsesret i:
 
  
 ### Aftaler indgået uden for forretningssted
-
-
+<img src="img/homeparty.jpeg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Aftalen er indgået et andet sted end der hvor den erhvervsdrivende sælger har sit forretningssted, fx
 
 * Homeparties, salgsdemonstrationer under udflugter, udstilling/messe, marked.
@@ -1872,7 +1871,7 @@ Fortrydelsesfristen begynder først at løbe, fra det tidspunkt forbrugeren modt
 
  
 ### Fjernsalg
-
+<img src="img/shopping.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 * Fjernsalg er en aftale om salg af varer eller salg af tjenesteydelser, eller aftale om løbende levering af varer eller tjenesteydelser.
 * Aftalen indgås på afstand ved fjernkommunikation,
 fx e-handel, aftale indgået pr. e-mail, telefonsalg, katalog- og postordresalg.
@@ -2047,7 +2046,7 @@ Ofte findes der ingen lovgivning, som kan fortælle, hvornår man som privatpers
 
 
 <img src="img/cig.jpg" align="left" width="12%" height="12%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-* U 2015.572 H (U: Ugeskrift for Retsvæsen): Tobaksselskaber ikke ansvarlige for varigt mén som følge af mangeårigt forbrug af cigaretter.*
+*U 2015.572 H (U: Ugeskrift for Retsvæsen): Tobaksselskaber ikke ansvarlige for varigt mén som følge af mangeårigt forbrug af cigaretter.*
 
 ---
 
