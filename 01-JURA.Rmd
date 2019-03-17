@@ -2624,11 +2624,11 @@ Link til min artikel
  
 #### Civile køb (Ej defineret i KBL):
 
-<img src="img/dba.png" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/dba.png" align="right" width="10%" height="10%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 * Et køb, hvor begge parter er privat personer, og hvor der ikke bruges en erhvervsdrivende mellemmand til at formidle salget. Man anvender handelskøbsreglerne analogt, som har et betydeligt merkantilt præg, medmindre andet er blevet aftalt mellem parterne. Et civilt køb kan fx foregå på ”Den Blå Avis” eller på et loppemarked, hvor private udveksler genstande og penge samtidigt. 
  
 
-<img src="img/genus.png" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
+<img src="img/genus.png" align="right" width="15%" height="15%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 Genuskøb: 
 
 
@@ -2638,7 +2638,7 @@ Genuskøb:
  
 Speak23
 
-<img src="img/mona.png" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
+<img src="img/mona.png" align="right" width="15%" height="15%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 Specieskøb:
 
 * Køb af en individuelt bestemt genstand.
@@ -2651,7 +2651,7 @@ Specieskøb:
 
 Speak23
  
-<img src="img/bride.png" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
+<img src="img/bride.png" align="right" width="15%" height="15%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 Bestillingskøb/fremstillingskøb:
 Et bestillingskøb kan også kaldes et fremstillingskøb, da købet vedrører bestilling af genstande, som først skal fremstilles, jf. KBL § 2, stk. 1. som indeholder et element af værksleje, nemlig aftaler, hvor den ene part har påtaget sig mod vederlag at fremstille en ny genstand (i modsætning til aftaler om f.eks. reparation af en allerede eksisterende genstand). 
 
@@ -2663,7 +2663,7 @@ Skabelsen af en ny vare fx ved en ændring af en eksisterende bryllupskjole til 
 Fixkøb:
 Betegnelsen fixkøb bruges om et køb, hvor køber har betinget sig, at levering sker på et helt bestemt tidspunkt, fx en fødselsdagsskage, der skal leveres om formiddagen den 3. august 2019.
   
-<img src="img/money.png" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
+ 
 Samtidighedsgrundsætningen: Sælgeren har ikke pligt til at levere salgsgenstanden, medmindre købesummen samtidig betales, og køber har ikke pligt til at betale købesummen, medmindre salgsgenstanden samtidig stilles til hans rådighed, jf. KBL § 14 (kontantkøb).
  
 
@@ -2714,7 +2714,7 @@ Speak23:
 
 
 Pladskøb og afsendelseskøb/forsendelseskøb
-<img src="img/§man.png" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
+
 * Pladskøb – udbringelseskøb: Levering inden for sælgers geografiske udbringningsområde. Ofte sælger egne folk der bringer varen ud.
 * Levering sker og risikoen overgår fra sælger til køber, når køber har varen i sin besiddelse, jf. KBL § 11.
 
@@ -2729,6 +2729,7 @@ Det fremgår af bestemmelsen, at levering er sket, når genstanden er kommet i k
 Speak23
  
 
+![](img/risk.png)
 Afsendelseskøb med klausuler
 Købelovens leveringsklausuler:
 
