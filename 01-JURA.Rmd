@@ -3895,7 +3895,8 @@ Et overblik for virksomheden over databeskyttelsesreglerne
 
 ### Hvad er den registreredes rettigheder?
  
-Når der behandles oplysninger om en person, kaldes personen "den registrerede". Den registrerede har i den forbindelse en række rettigheder over for den dataansvarlige, som behandler ens oplysninger.^[Jf. Datatilsynets oplysninger: https://www.datatilsynet.dk/generelt-om-databeskyttelse/hvad-er-dine-rettigheder/.] 
+Når der behandles oplysninger om en person, kaldes personen "den registrerede". Den registrerede har i den forbindelse en række rettigheder over for den dataansvarlige, som behandler ens oplysninger.^[[Jf. Datatilsynets oplysninger: ](https://www.datatilsynet.dk/generelt-om-databeskyttelse/hvad-er-dine-rettigheder/){target="_blank"}.]
+
 
 Når den registreredes oplysninger bliver behandlet, bør den registrerede først gøre sig klart, hvem der faktisk er ansvarlig for den registrerede oplysninger. Det er i denne forbindelse afgørende, hvem der er den "dataansvarlige". 
 
