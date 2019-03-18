@@ -3678,6 +3678,8 @@ Ekstra materiale som ikke er en del af pensum om advokatefteruddannelseskursus o
 
 
 ## Databeskyttelse ved behandling af personoplysninger
+
+![](img/gdpr1.jpg)
 Enhver person har ret til beskyttelse af sine personoplysninger, og enhver, der behandler personoplysninger om andre i ikke-privat sammenhæng, er forpligtet til at iagttage disse rettigheder og til at beskytte disse personoplysninger.^[Følgende afsnit om databeskyttelsesreglerne bygger på Sonny Kristoffersen: ”Kend databeskyttelsesreglerne”, 2019, Samfundslitteratur.]  
 
 Disse rettigheder og forpligtelser går samlet under betegnelsen "databeskyttelse". 
@@ -3711,7 +3713,8 @@ Hvad er persondata?
 
 
 ### Hvad er ”behandling” i persondataretten?
- 
+
+![](img/gdpr2.jpg)
 Enhver form for oplysning, der knytter sig til en bestemt fysisk person, som gør personen identificerbar. Det kan fx være et personnummer, en bopælsadresse, et journalnummer, et bilregistreringsnummer, en IP-adresse osv.
 Hvis oplysninger om fysiske personer er fuldstændig anonymiserede, er der ikke tale om personoplysninger.
 Ifølge databeskyttelsesforordningens artikel 4, nr. 2, skal begrebet ”behandling” forstås som enhver aktivitet eller række af aktiviteter - med eller uden brug af automatisk behandling - som personoplysninger eller en samling af personoplysninger gøres til genstand for, f.eks. indsamling, registrering, organisering, systematisering, opbevaring, tilpasning eller ændring, genfinding, søgning, brug, videregivelse ved transmission, formidling eller enhver anden form for overladelse, sammenstilling eller samkøring, begrænsning, sletning eller tilintetgørelse.
@@ -3731,6 +3734,7 @@ Behandlingsbegrebet skal forstås meget bredt og dækker over enhver form for h�
  
 
 ### Opdelingen af personoplysningerne
+
 Databeskyttelsesforordningen opdeler personoplysninger i tre typer:  
 
 * Almindelige ikke-følsomme oplysninger,
@@ -3755,8 +3759,8 @@ Kategorier af personoplysninger
 
  
 
-
-Figur. En anden måde at se de forskellige kategorier af personoplysninger på. Jo højere oppe i trekanten oplysningerne er, desto strengere betingelser for at behandle dem. Pjecen: Databeskyttelsesforordningen - En introduktion til de kommende, nye regler om beskyttelse af personoplysninger
+![](img/gdprtrekanten.jpg)
+En anden måde at se de forskellige kategorier af personoplysninger på. Jo højere oppe i trekanten oplysningerne er, desto strengere betingelser for at behandle dem. Pjecen: Databeskyttelsesforordningen - En introduktion til de kommende, nye regler om beskyttelse af personoplysninger
 
 #### Hvornår kan der ske behandling af ikke-følsomme oplysninger?
 Almindelige personoplysninger omfatter alle oplysninger, der ikke er klassificeret som særlige kategorier af oplysninger (følsomme personoplysninger). Det kan for eksempel være identifikationsoplysninger som navn og adresse eller oplysninger om økonomi, skat, gæld, væsentlige sociale problemer, andre rent private forhold, sygedage, tjenstlige forhold, familieforhold, bolig, bil, eksamen, ansøgning, CV, ansættelsesdato og -stilling, arbejdsområde og arbejdstelefon. 
@@ -4083,6 +4087,9 @@ Loven viderefører det tidligere gældende kontantforbud. Således er det forbud
 
 
 ### Falskmøntneri
+
+![](img/falsk.jpg)
+
 Loven indeholder bestemmelser svarende til Rfo 1338/2001 om fastlæggelse af de foranstaltninger, der er nødvendige for at beskytte euroen mod falskmøntneri (offentliggjort i EFT 2001 L 181/6), samt Rfo 1339/2001, der udvider bestemmelserne i ovennævnte forordning 1338/2001 til også at gælde for EU-lande uden for eurosamarbejdet, herunder Danmark (offentliggjort i EFT 2001 L 181/11). Forordninger gælder umiddelbart i hver medlemsstat. Gengivelsen af forordningen i loven er alene begrundet i praktiske hensyn og berører ikke forordningens gyldighed i Danmark. 
 
 ### Andre forpligtelser, som finansielle virksomheder skal overholde
