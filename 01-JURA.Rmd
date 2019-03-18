@@ -3662,16 +3662,15 @@ Ekstra materiale som ikke er en del af pensum om advokatefteruddannelseskursus o
 ## Databeskyttelse og bekæmpelse af hvidvask og terrorfinansiering
  
 
-1)	Databeskyttelse ved behandling af personoplysninger (afsnit 8.1.)
-2)	Bekæmpelse af hvidvask og terrorfinansiering (afsnit 8.2.) 
-Databeskyttelsesforordningen stiller krav i praksis
+
+#### Databeskyttelsesforordningen stiller krav i praksis
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/5OwWsQHpsDc" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
 
 
-Databeskyttelsesreglerne på 7 minutter
+#### Databeskyttelsesreglerne på 7 minutter
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/AXnQQyVvmuM" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -3679,7 +3678,7 @@ Databeskyttelsesreglerne på 7 minutter
 
 
 ## Databeskyttelse ved behandling af personoplysninger
-Enhver person har ret til beskyttelse af sine personoplysninger, og enhver, der behandler personoplysninger om andre i ikke-privat sammenhæng, er forpligtet til at iagttage disse rettigheder og til at beskytte disse personoplysninger.  
+Enhver person har ret til beskyttelse af sine personoplysninger, og enhver, der behandler personoplysninger om andre i ikke-privat sammenhæng, er forpligtet til at iagttage disse rettigheder og til at beskytte disse personoplysninger.^[Følgende afsnit om databeskyttelsesreglerne bygger på Sonny Kristoffersen: ”Kend databeskyttelsesreglerne”, 2019, Samfundslitteratur.]  
 
 Disse rettigheder og forpligtelser går samlet under betegnelsen "databeskyttelse". 
 
@@ -3865,12 +3864,12 @@ Et samtykke skal være frivilligt. Formålet med et samtykke er at give de regis
 Et samtykke anses derfor ikke for at være afgivet frivilligt, hvis den registrerede ikke har et reelt eller frit valg. Et samtykke må f.eks. ikke være afgivet under tvang. Dette gælder, uanset om det er den dataansvarlige eller andre, der udøver tvang over for den registrerede. 
 
 Den omstændighed, at den registrerede er i den dataansvarliges varetægt, f.eks. indsat i fængsel, undergivet værnepligt mv., udelukker ikke, at vedkommende kan give et gyldigt samtykke.
-Eksempel - En privat sportsforening beder sine medlemmer om samtykke til at tage portrætbilleder af dem for at offentliggøre billederne på sportsforeningens hjemmeside. Medlemmerne anses for at have et reelt og frit valg, så længe et nægtet samtykke ikke medfører negative konsekvenser (f.eks. ekskludering af foreningen). 
+Eksempel - En privat sportsforening beder sine medlemmer om samtykke til at tage portrætbilleder af dem for at offentliggøre billederne på sportsforeningens hjemmeside. Medlemmerne anses for at have et reelt og frit valg, så længe et nægtet samtykke ikke medfører negative konsekvenser (f.eks. ekskludering af foreningen).^[Jf. Datatilsynets og Justitsministeriets pjece om vejledning om Samtykke, november 2017, s. 4.] 
 
 Speak 23
 
 #### Tjekliste for samtykke
-Datatilsynet og Justitsministeriet har udarbejdet følgende nedenstående tjekliste, herunder kan den liste tjene som en rettesnor for, om man som dataansvarlig er på linje med kravene i databeskyttelsesforordningen eller ej: 
+Datatilsynet og Justitsministeriet har udarbejdet følgende nedenstående tjekliste, herunder kan den liste tjene som en rettesnor for, om man som dataansvarlig er på linje med kravene i databeskyttelsesforordningen eller ej:^[Jf. Datatilsynets og Justitsministeriets pjece om vejledning om Samtykke, november 2017, s. 18.]
 
 * Den dataansvarlige har taget stilling til, at samtykke er den mest hensigtsmæssige hjemmel til at behandle data i den givne situation
 * Samtykkeanmodningen er tydelig og adskilt fra øvrig tekst, som f.eks. salgs- og leveringsbetingelsesvilkår
@@ -3896,7 +3895,7 @@ Et overblik for virksomheden over databeskyttelsesreglerne
 
 ### Hvad er den registreredes rettigheder?
  
-Når der behandles oplysninger om en person, kaldes personen "den registrerede". Den registrerede har i den forbindelse en række rettigheder over for den dataansvarlige, som behandler ens oplysninger.  
+Når der behandles oplysninger om en person, kaldes personen "den registrerede". Den registrerede har i den forbindelse en række rettigheder over for den dataansvarlige, som behandler ens oplysninger.^[Jf. Datatilsynets oplysninger: https://www.datatilsynet.dk/generelt-om-databeskyttelse/hvad-er-dine-rettigheder/.] 
 
 Når den registreredes oplysninger bliver behandlet, bør den registrerede først gøre sig klart, hvem der faktisk er ansvarlig for den registrerede oplysninger. Det er i denne forbindelse afgørende, hvem der er den "dataansvarlige". 
 
