@@ -3757,6 +3757,44 @@ Kategorier af personoplysninger
 
 
 
+<h3>Beskyttelse af personoplysninger</h3>
+```{r echo=FALSE}
+
+mydf <- data.frame(
+  S1 = c("Følsomme personoplysninger" ,"Race, etnisk 
+oprindelse, 
+politisk, religiøs el. 
+filosofisk overbevisning, 
+fagforeningsmæssige 
+tilhørsforhold, genetiske data, 
+biometriske data mhp. entydig 
+identifikation, helbredsoplysninger, 
+seksuelle forhold eller orientering "),
+  S2 = c("" ,
+  "Straffedomme og lovovertrædelser"),
+  S3 = c("Almindelige personoplysninger",
+    "Væsentlige sociale problemer, andre rent private 
+forhold, økonomi, skat, gæld, sygedage, tjenstlige forhold, 
+familieforhold, bolig, bil, eksamen, ansøgning, CV, 
+ansættelsesdato, stilling, arbejdsområde, 
+arbejdstelefon, navn, adresse, fødselsdato"
+  )
+)
+names(mydf) <- NULL
+
+mydf %>%
+  kable("html", escape = FALSE) %>%
+  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
+  column_spec(1, bold = T, border_right = T, color = "white", background = "red") %>%
+  column_spec(2, bold = T, border_right = T, color = "white", background = "black") %>%
+  column_spec(3, bold = T, border_right = T, color = "white", background = "green") %>%
+  row_spec(1,italic = T,bold = T,font_size = 12) %>%
+  # column_spec(0, angle = -45)%>%
+  # scroll_box(width = "500px") %>%
+  footnote(general = "Databeskyttelsesforordningen",general_title = "Kilde:")
+```
+
+
  
 
 ![](img/gdprtrekanten.jpg)
@@ -3925,6 +3963,8 @@ Den omstændighed, at den registrerede er i den dataansvarliges varetægt, f.eks
 Eksempel - En privat sportsforening beder sine medlemmer om samtykke til at tage portrætbilleder af dem for at offentliggøre billederne på sportsforeningens hjemmeside. Medlemmerne anses for at have et reelt og frit valg, så længe et nægtet samtykke ikke medfører negative konsekvenser (f.eks. ekskludering af foreningen).^[Jf. Datatilsynets og Justitsministeriets pjece om vejledning om Samtykke, november 2017, s. 4.] 
 
 Speak 23
+
+![](img/datatilsynet.jpg)
 
 #### Tjekliste for samtykke
 Datatilsynet og Justitsministeriet har udarbejdet følgende nedenstående tjekliste, herunder kan den liste tjene som en rettesnor for, om man som dataansvarlig er på linje med kravene i databeskyttelsesforordningen eller ej:^[Jf. Datatilsynets og Justitsministeriets pjece om vejledning om Samtykke, november 2017, s. 18.]
