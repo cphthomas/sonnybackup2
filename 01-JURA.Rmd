@@ -4453,6 +4453,8 @@ Regulerer det interne forhold mellem kapitalejerne (aktionær- overenskomst/anpa
 <div class="video-container"><iframe src="https://www.youtube.com/embed/7ZWXsGAW2ho" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
+![](img/capital.jpg)
+
 Selskabskapital:
 
 * Begrebet selskabskapital, der er defineret i selskabslovens § 5, nr. 30, udgøres af det indskud, som kapitalejernes hæftelse er begrænset til i medfør af selskabslovens § 4, stk. 2.
@@ -4468,7 +4470,7 @@ Koncern, jf. selskabslovens § 6:
 * I koncerner hæfter de enkelte koncernselskaber ikke for hinandens forpligtelser. Dette gælder også med hensyn til modregning.
 * Koncernforbundne selskaber kan indgå aftaler    og handle med hinanden på sædvanlige vilkår.
 
-
+![](img/as.jpg)
   
 #### Aktieselskaber a/s 
 Efter selskabslovens § 5, nr. 1 er et aktieselskab et kapitalselskab, herunder et partnerselskab, hvor kapitalejernes indskudskapital er fordelt på aktier. Aktier kan udbydes til offentligheden. Kapitalejerne hæfter alene med deres indskud i selskabet. Kun kapitalsselskabets formue hæfter for kapitalsselskabets gæld og øvrige forpligtelser, jf. også selskabslovens § 1, stk. 2:” I et aktie- eller anpartsselskab hæfter aktionærerne og anpartshaverne (kapitalejerne) ikke personligt for kapitalselskabets forpligtelser, men alene med deres indskud.  Kapitalejerne har ret til andel i kapitalselskabets overskud i forhold til deres ejerandel, medmindre andet er fastsat i selskabets vedtægter.”
