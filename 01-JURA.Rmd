@@ -3819,7 +3819,61 @@ Af databeskyttelsesforordningen fremgår det, hvornår der må ske behandling af
 *  at behandling er nødvendig til arkivformål i samfundets interesse, til videnskabelige eller historiske forskningsformål eller til statistiske formål på grundlag af EU-retten eller medlemsstaternes nationale ret og står i rimeligt forhold til det mål, der forfølges, respekterer det væsentligste indhold af retten til databeskyttelse og sikrer passende og specifikke foranstaltninger til beskyttelse af den registreredes grundlæggende rettigheder og interesser (litra j).
  
 
-  
+
+
+
+
+<h3>Hvordan må man opsamle og behandle personoplysninger?</h3>
+```{r echo=FALSE}
+
+mydf <- data.frame(
+  S1 = c("Følsomme personoplysninger" ,"Som udgangspunkt ikke, medmindre:<br><br>
+- Der er givet samtykke<br><br>
+- Det sker for at sikre personens vitale interesser, og der ikke kan indhentes samtykke (Sygdomsreglen)<br><br>
+- Der er tale om en forening der behandler oplysningerne som led i deres aktiviteter<br><br>
+- Hvis man selv har offentliggjort oplysningen<br><br>
+- For at kunne fastlægge et retskrav<br><br>
+- For at kunne overholde arbejdsretlige forpligtelser"),
+  S2 = c("Personoplysninger med særlig beskyttelse" ,
+  "Hvis:<br><br>
+    - Der er givet samtykke<br><br>
+    - Det følger af lovgivningen<br><br>
+    - Det sker som til statistiske formål<br><br>
+    - Et af kriterierne fra de følsomme oplysninger er opfyldt"),
+  S3 = c("Andre personoplysninger",
+    "Hvis:<br><br> 
+    - Der er givet samtykke<br><br>
+    - Det sker for at opfylde en kontrakt<br><br>
+    - Det sker for at opfylde en retlig forpligtelse<br><br>
+    - Det sker for at sikre personens vitale interesser, og der ikke kan indhentes samtykke (Sygdomsreglen)<br><br>
+    - Det sker for at udføre en opgave i samfundets interesse<br><br>
+    - Der er en legitim interesse hos virksomheden)"
+  )
+)
+names(mydf) <- NULL
+
+mydf %>%
+  kable("html", escape = FALSE) %>%
+  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
+  column_spec(1, bold = T, border_right = T, color = "white", background = "red") %>%
+  column_spec(2, bold = T, border_right = T, color = "black", background = "yellow") %>%
+  column_spec(3, bold = T, border_right = T, color = "white", background = "green") %>%
+  row_spec(1,italic = T,bold = T,font_size = 12) %>%
+  # column_spec(0, angle = -45)%>%
+  # scroll_box(width = "500px") %>%
+  footnote(general = "Datatilsynet",general_title = "Kilde:")
+```
+
+
+
+
+
+
+
+
+
+ 
+
 
 ### Virksomhederne skal overholde god databehandlingsskik
 God databehandlingsskik er en retlig standard, som udfyldes af Datatilsynet. Begrebet indebærer bl.a., at behandlingen af oplysninger skal være rimelig og lovlig.
