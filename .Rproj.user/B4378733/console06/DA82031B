@@ -1022,3 +1022,15 @@ remote: Resolving deltas:   0% (0/15)   [Kremote: Resolving deltas:   6% (1/15
 To https://github.com/cphthomas/jurars.git
    83126b1..e796bb3  master -> master
 ]0;~/Google Drev/JURA/jurarsThomass-MacBook-Pro-3:jurars thomaspetersen$ git add . && git commit -a -m . && git push
+[master 69cd015] .
+ 1 file changed, 22 insertions(+)
+Enumerating objects: 11, done.
+Counting objects:   9% (1/11)   Counting objects:  18% (2/11)   Counting objects:  27% (3/11)   Counting objects:  36% (4/11)   Counting objects:  45% (5/11)   Counting objects:  54% (6/11)   Counting objects:  63% (7/11)   Counting objects:  72% (8/11)   Counting objects:  81% (9/11)   Counting objects:  90% (10/11)   Counting objects: 100% (11/11)   Counting objects: 100% (11/11), done.
+Delta compression using up to 8 threads
+Compressing objects:  16% (1/6)   Compressing objects:  33% (2/6)   Compressing objects:  50% (3/6)   Compressing objects:  66% (4/6)   Compressing objects:  83% (5/6)   Compressing objects: 100% (6/6)   Compressing objects: 100% (6/6), done.
+Writing objects:  16% (1/6)   Writing objects:  33% (2/6)   Writing objects:  50% (3/6)   Writing objects:  66% (4/6)   Writing objects:  83% (5/6)   Writing objects: 100% (6/6)   Writing objects: 100% (6/6), 796 bytes | 796.00 KiB/s, done.
+Total 6 (delta 3), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/3)   [Kremote: Resolving deltas:  33% (1/3)   [Kremote: Resolving deltas:  66% (2/3)   [Kremote: Resolving deltas: 100% (3/3)   [Kremote: Resolving deltas: 100% (3/3), completed with 3 local objects.[K
+To https://github.com/cphthomas/jurars.git
+   e796bb3..69cd015  master -> master
+]0;~/Google Drev/JURA/jurarsThomass-MacBook-Pro-3:jurars thomaspetersen$ git add . && git commit -a -m . && git push
