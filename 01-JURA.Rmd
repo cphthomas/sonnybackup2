@@ -4795,6 +4795,7 @@ Hvis kreditor ikke har et fundament, skal kreditor:
 ![](img/insolvent6.jpg)
 
 HR: Kreditor kan få udlæg i alle skyldners aktiver, medmindre følgende undtagelser:
+
 * U1: Tredjemands rettigheder skal respekteres
 * U2: Særlige indlån i pengeinstitut fx bil købt på afbetaling som et kreditkøb med ejendomsforbehold
 * U3: Endnu ikke udbetalt løn, RPL § 511
@@ -4933,7 +4934,8 @@ Udækket gæld:
 
 
 
-![](img/insolvent8.jpeg)
+![](img/insolvent8.jpg)
+
 
 
  
