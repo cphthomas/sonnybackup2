@@ -4640,6 +4640,8 @@ Retsplejeloven og Konkursloven regulerer:
 
 Ordet ”insolvent”
 
+![](img/insolvent2.jpg)
+
 * Defineret i KKL § 17
 * Skyldner kan ikke betale sin gæld, efterhånden som den forfalder til betaling
 * Skifteretten vurderer, om insolvensen er til stede
@@ -4670,6 +4672,7 @@ Der må ved afgørelsen om skyldnerens insolvens og dermed en konkursbehandling 
 
 * Ansvarlige interessentskabers boer behandles som konkursboer, når samtlige interessenter er under konkurs.
 
+![](img/insolvent3.jpg)
 
 Insolvens antages i almindelighed at foreligge efter KKL § 18, hvis:
 
@@ -4715,7 +4718,9 @@ Speak 23
 * Kap. 8 indeholder straffe- og ikrafttrædelsesbestemmelser.
 
 ### Inkassoprocessen
- 
+
+![](img/insolvent4.jpg)
+
 * Gælden sendes til inkasso, hvis skyldner ikke betaler, efter kreditor har sendt en eller flere rykkere
 * Inkasso kan foretages af:
   +	Kreditor selv
@@ -4735,7 +4740,9 @@ Forældelsesfristen for gæld
 
  
 ## Tvangsinddrivelse
- 
+
+![](img/insolvent5.jpg)
+
 Ordet ”tvangsinddrivelse”:
 
 * Kreditor kan via fogedretten få udlæg i skyldners aktiver og sælge dem på tvangsauktion
@@ -4784,6 +4791,8 @@ Hvis kreditor ikke har et fundament, skal kreditor:
  
 
 ### Udlæg
+
+![](img/insolvent6.jpg)
 
 HR: Kreditor kan få udlæg i alle skyldners aktiver, medmindre følgende undtagelser:
 * U1: Tredjemands rettigheder skal respekteres
@@ -4839,7 +4848,7 @@ Kreditor kan begære tvangsauktion:
 
 
 
-
+![](img/insolvent7.jpg)
 
 
 * Konkurs er en universalforfølgning, formålet er at dele skyldners aktiver ud til kreditorerne, så alle kreditorer stilles lige
@@ -4924,7 +4933,7 @@ Udækket gæld:
 
 
 
-
+![](img/insolvent8.jpeg)
 
 
  
