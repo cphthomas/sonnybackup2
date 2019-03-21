@@ -4203,39 +4203,30 @@ footnote(general = "Hvidvasksekretariatet",general_title = "Kilde: ")
 ```
 
 
+
+
+
 ```{r echo=FALSE}
 library(kableExtra)
 
 fr <- data.frame(
-  Aktivitet = c(rep("Anbringelse<br><br>Det ulovlige udbytte anbringes, Det kan fx. være i det finansielle system.", 1), rep("Sløring<br><br>Det ulovlige udbytte adskilles fra dets kilde. Det kan f.eks. ske gennem (finansielle) transaktioner.",1 ),rep("Anvendelse<br><br>Udbytte tilbageføres til gerningsrmanden. Det kan f.eks. være i en form, hvor udbyttet er ændret til midler eller aktiver, der ser ud til at være lovlige.",1)),
-  EksempelA = c(
-    "Indbetaling af kontanter i en bank (evt. blandet med midler fra lovlig virksomhed)",
-    "Elektronisk overførsel til udlandet (ofte ved brug af selskaber uden reel aktivitet. eller midlerne maskeres som udbytte fra lovlige forretninger)", 
-    "Tilbageførsel som betaling for (fiktive) lån eller betaling af (fiktive) fakturaer"
-  ),
-  EksempelB = c(
-    "Udførsel af kontanter til udlandet",
-    "Indsættelse af kontanter i en bank i udlandet ", 
-    "Et kompliceret net af overførsler nationalt og internationalt, der gør det næsten umuligt at spore midlernes oprindelige kilde"
-  ),
-  EksempelC = c(
-    "Anvendelse af kontanter til køb af højværdivarer, fast ejendom eller aktiver til erhvervsvirksomhed ",
-    "Salg af de købte varer/aktiver", 
-    "Indtægt fra fast ejendom eller virksomhed, der fremstår som lovlig"
-  )
+  
+  A = "",
+  B = "",
+  C = ""
 )
-names(fr) <- c("Aktivitet" ,"Eksempel 1" , "Eksempel 2" , "Eksempel 3")
+names(fr) <- c("" , "" , "")
 kable(fr,  format = "html", escape = FALSE) %>%
-  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
-  column_spec(1, bold = T, border_right = T, color = "white", background = "black") %>%
-  row_spec(0,italic = T, color = "white", background = "grey",font_size = 12) %>%
+  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive")) %>%
+  column_spec(1, bold = T, border_right = F, color = "black", background = "white") %>%
+  row_spec(0,italic = T, color = "black", background = "white",font_size = 12) %>%
+  add_header_above(c(" ", "Hello" = 1, "World" = 1)) %>%
+  add_header_above(c("Den refererende dommer udfærdiger foreløbig rapport<br>Møde mellem dommere og generaladvokater" = 3))
   # column_spec(0, angle = -45)%>%
   # scroll_box(width = "500px") %>%
-  scroll_box(width = "100%") %>%
-footnote(general = "Hvidvasksekretariatet",general_title = "Kilde: ")
+  
+
 ```
-
-
 
 
 
@@ -4315,7 +4306,7 @@ Den enkelte ejendomsmægler og ejendomsmæglervirksomhed skal foretage en analys
 # Virksomhedsformer og hæftelser
 
 
-
+![](img/company.jpg)
 
 
 
@@ -4677,7 +4668,9 @@ Partrederi:
 
 <h3><a href="https://www.dropbox.com/s/uhrw1ipfhn8g82e/U_2011.B.258%5B1%5D.pdf?dl=1">U_2011.B.258</a></h3>
 
+<h3><a href="https://hansreitzel.dk/soeg/introduktion-til-forsikringsreglerne-bog-47916-9788741272849" target="_blank">Introduktion til forsikringsreglerne</a></h3>
 
+<h3><a href="https://hansreitzel.dk/soeg/ejendomsmaglere-og-ejendomsvirksomhed-bog-47707-9788741272382" target="_blank">Ejendomsmæglere og ejendomsvirksomhed</a></h3>
 
 
 # Materialer
