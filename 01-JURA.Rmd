@@ -5078,7 +5078,10 @@ En »kreditgiveren« forstås som forbrugerens modpart. Kreditgiver er først og
 
 Speak23
 
-![](img/kredit2.jpeg)
+  
+
+<img src="img/kredit2.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+  
 
 Kreditgiver skal være erhvervsdrivende, jf. dog KAL § 1, stk. 2, og for ikke-forbrugerkøb KAL § 2. Erhvervsdrivende er enhver, der driver en privat erhvervsvirksomhed, hvad enten der er tale om hoved- eller bibeskæftigelse. Virksomheden må dog have et vist omfang og være af en vis varighed. Er vedkommende bogføringspligtig, momspligtig m.v. vil vedkommende normalt være erhvervsdrivende i lovens forstand. Det er uden betydning, om der tilstræbes økonomisk gevinst med virksomheden. Offentlig virksomhed, som kan sidestilles med privat erhvervsvirksomhed, f.eks. levering af vand, transport af personer og gods, er også at betragte som erhvervsvirksomhed i lovens forstand, jf. herved princippet i markedsføringslovens § 1. Foreninger og sammenslutninger, hvis formål udelukkende er velgørenhed eller almennyttigt, politisk eller religiøst, kan i almindelighed ikke anses for erhvervsdrivende.  
 
@@ -5092,17 +5095,11 @@ Kreditgiveren har bevisbyrden for, at der ikke foreligger en forbrugerkreditafta
 
 
 
+  
 
-![](img/kredit3.jpeg)
-
-
-
-
- 
- 
  
 ## Krav til kreditaftalen
-
+<img src="img/kredit3.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 * Før kreditaftalen indgås skal en forbruger have oplysninger om vilkår og omkostninger på et varigt medie (fx papir, CD-rom, netbank)
 * Kreditgiver skal bl.a. oplyse om ÅOP (årlige omkostninger i procent; kan betegnes for ”kiloprisen for lånet”)
 * Kreditaftalen skal indgås på varigt medie og opfylde tilsvarende oplysningskrav 
@@ -5121,8 +5118,8 @@ Kreditgiveren har bevisbyrden for, at der ikke foreligger en forbrugerkreditafta
 
 ### Kreditgiverens oplysningspligt mv.
 
-![](img/kredit4.jpeg)
 
+<img src="img/kredit4.jpeg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Kreditaftalelovens forbrugerbeskyttende sigte  kommer til udtryk i lovens bestemmelser om, at forbrugeren senest i forbindelse med kreditaftalens indgåelse skal have en række oplysninger om prisen og vilkårene for kreditten. 
 Loven indeholder derfor en række formkrav til kreditaftaler og bestemmelser om, at manglende eller urigtig opfyldelse af oplysningspligten kan medføre såvel civilretlige som strafferetlige sanktioner, jf. KAL §§ 23 og 24 samt 56, stk. 2. Det påhviler som nævnt domstolene – i praksis navnlig fogedretterne – ex officio (af egen drift) at iagttage, om det dokument, der fremlægges i en (foged-)sag, er omfattet af loven, og at de foreskrevne kreditoplysninger er givet på behørigt vis, jf. U 2000.461 V.
 
@@ -5146,12 +5143,12 @@ Bestemmelsen i KAL § 8 vedrører formkrav til en kreditaftale og oplysninger, d
 #### Oplysningspligt forud for aftaleindgåelsen
 
 Før en forbruger bindes af en kreditaftale eller et kredittilbud, skal kreditgiveren – eller kreditformidleren, hvis aftalen formidles af denne – i god tid give forbrugeren de oplysninger, der er nødvendige for, at denne kan sammenligne forskellige tilbud, således at forbrugerens beslutning om at indgå en kreditaftale kan træffes på et informeret grundlag, jf. KAL § 7 a, stk. 1. Oplysningerne skal gives dels på grundlag af de kreditvilkår og betingelser, som kreditgiveren tilbyder, dels på grundlag af de præferencer og oplysninger, som forbrugeren måtte have fremført. 
-
+<img src="img/kredit5.jpeg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Oplysningerne skal gives i så god tid, før en eventuel aftale indgås, at forbrugeren har tid til at sætte sig ind i de udleverede oplysninger. Hvis en kreditgiver ikke ønsker at indgå en aftale, er kreditgiveren ikke pligtig at udlevere kreditoplysninger. Oplysningerne gives på papir eller på et andet varigt medium ved hjælp af formularen i lovens bilag 2.
 
 Det er kreditgiveren, der må tåle de civilretlige sanktioner, jf. KAL § 34 og § 24, der kan bringes i anvendelse, hvor formidleren ikke retmæssigt har opfyldt sin oplysningspligt. Kreditgiveren ofte vil have et regreskrav mod den formidler, som ikke har opfyldt sin oplysningspligt over for forbrugeren.
 
-![](img/kredit5.jpeg)
+
 
 
 De oplysninger, som kreditgiveren skal give forud for indgåelse af en aftale, er ifølge KAL § 7 a, stk. 2 følgende:  
@@ -5190,8 +5187,8 @@ Kreditvurderingspligten har til formål at beskytte forbrugeren og skal som føl
 De ovenfor omtalte bestemmelser i KAL §§ 7 a, 7 b og 7 c vedrører som tidligere anført oplysninger, der skal gives, og kreditvurderinger, der skal foretages, før der indgås en kreditaftale. Bestemmelsen i lovens § 8 regulerer de formkrav og de oplysninger, som skal fremgå af selve kreditaftalen.  
 
 Formkrav
+<img src="img/kredit6.jpeg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-![](img/kredit6.jpeg)
 
 En kreditaftale skal ifølge § 8, stk. 1, udfærdiges på papir eller på et andet varigt medium. Endvidere er det et krav, at alle aftalens parter skal have et eksemplar af aftalen.  
 
@@ -5250,7 +5247,8 @@ Som en ordensforskrift er det ved KAL § 8 a, stk. 4, bestemt, at KAL § 8 finde
 
 Særligt om overtræk  
 
-![](img/kredit7.jpeg)
+
+<img src="img/kredit7.jpeg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Hvor en kreditgiver og en forbruger har indgået aftale om oprettelse af en løbende konto, hvor det eventuelt vil kunne tillades forbrugeren at overtrække kontoen, skal aftalen ifølge KAL § 8 b, stk. 1, indeholde de oplysninger, der er omhandlet i KAL § 7 b, stk. 2, nr. 5. Det vil sige debitorrenten, betingelserne for anvendelsen af debitorrenten og et eventuelt indeks eller en eventuel referencesats, der skal anvendes på den oprindelige debitorrente, de omkostninger, der anvendes fra det tidspunkt, hvor kreditaftalen indgås, og i givet fald betingelserne for ændring af disse omkostninger.
 
@@ -5293,7 +5291,7 @@ I visse tilfælde skal en forbruger betale et gebyr til en kreditformidler for d
 
 ### Kreditgiverens tilsidesættelse af oplysningspligten
 
-![](img/kredit8.jpeg)
+<img src="img/kredit8.jpeg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Manglende opfyldelse af visse oplysningsforpligtelser, er civilretligt sanktioneret i KAL § 23, såfremt der ikke er givet behørig oplysning om ÅOP og de samlede omkostninger, som forbrugeren skal betale, jf. KAL § 8, stk. 2, nr. 7, eller stk. 5, nr. 6, jf. KAL § 23, stk. 1, jf. dog § 23, stk. 3, at forbrugeren ikke kan afkræves andre kreditomkostninger end en årlig rente svarende til den officielle udlånsrente med et tillæg på 5 %, se fx Juridisk Årbog 1999, s. 188 (møbler på kredit).
 
@@ -5321,7 +5319,7 @@ Reduktion af en rentesats rejser ligesom andre rettelser af en kontrakt spørgsm
 
 ## Trepartsforhold 
 
-![](img/kredit9.jpeg)
+<img src="img/kredit9.jpeg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Lånesituationer med tre parter:
 1.	Oprindeligt trepartsforhold
@@ -5366,7 +5364,7 @@ Kreditaftaleloven indeholder en række bestemmelser, som skal beskytte forbruger
 
 ### Oprindeligt trepartsforhold
 
-![](img/kredit10.jpeg)
+<img src="img/kredit10.jpeg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 I det oprindelige trepartsforhold er der fra starten tre aftaleparter involveret, idet forbrugeren dels indgår aftale med en sælger eller tjenesteyder om køb eller om præstation af en tjenesteydelse, dels indgår aftale med långiver (finansieren) om ydelse af lån til betaling af vederlaget. Der foreligger dog kun et oprindeligt trepartsforhold, hvis der tillige foreligger en aftalerelation mellem finansieren og sælgeren eller tjenesteyderen, således at kreditten ydes på grundlag heraf, jf. KAL § 4, nr. 15, litra b, jf. KAL § 33, stk. 4, for så vidt angår tjenesteydelser. 
 
@@ -5390,7 +5388,7 @@ Lån, der ydes af eksterne kontosystemer (og selskabskonstruktioner, der må lig
 
 ### Forbrugerens adgang til at fremsætte indsigelser over for anden kreditor
 
-![](img/kredit11.jpeg)
+<img src="img/kredit11.jpeg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 I KAL kapitel 9 om kreditorskifte er der fastsat regler til beskyttelse af forbrugeren i trepartsforhold.
 Når en kreditgiver har overdraget sine rettigheder i henhold til en kreditaftale til tredjemand, har forbrugeren ifølge KAL § 33, stk. 1, over for erhververen ret til at gøre enhver indsigelse gældende, som forbrugeren kunne gøre gældende over for den oprindelige kreditgiver. Erhververen har de samme rettigheder og forpligtelser over for forbrugeren, som den oprindelige kreditgiver.
@@ -5416,7 +5414,7 @@ Det er tvivlsomt, om den finansierende tredjemand over for forbrugeren hæfter f
 
 ## Køb med ejendomsforbehold
 
-![](img/kredit12.jpg)
+<img src="img/kredit12.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 * Ejendomsforbehold er en aftale mellem køber og sælger om, at sælger kan tage varen tilbage, hvis køber ikke betaler afdrag efter kreditaftalen, jf. KAL § 34, stk. 1
 * Ejendomsforbehold kan være en del af kreditaftalen, men sælger kan også vælge ikke at tage ejendomsforbehold
@@ -5480,7 +5478,7 @@ Hvis genstanden ikke længere findes hos forbrugeren, fx fordi den er solgt elle
 
 ### Betingelser for gyldigheden af et ejendomsforbehold
 
-![](img/kredit13.jpg)
+<img src="img/kredit13.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Et ejendomsforbehold i forbrugerkøb er kun gyldigt efter lovens § 34, stk. 1, såfremt:
 
@@ -5531,9 +5529,11 @@ Såfremt kreditor ikke er i besiddelse af et sådant dokument, må han på sædv
   
  Speak23
 
-![](img/kredit14.jpg)
+
 
 ## Køber misligholder kreditaftalen
+
+<img src="img/kredit14.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Opsigelse af en kreditkøbsaftale, jf. KAL § 29
 
@@ -5556,7 +5556,7 @@ Køber misligholder kreditaftalen og der er ikke noget gyldigt ejendomsforbehold
 HR: Er kreditaftalen opsagt kan sælger uden ejendomsforbehold få udlæg i alle købers aktiver
 U: Fogedretten kan henvise sælger til at tage det solgte tilbage
 
-![](img/kredit15.jpg)
+<img src="img/kredit15.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 
