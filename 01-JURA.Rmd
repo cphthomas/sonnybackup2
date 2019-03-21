@@ -4604,6 +4604,433 @@ Partrederi:
 
 
 # Insolvensret
+
+
+
+
+![](img/insol1.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   				
+
+## Regler og definitioner
+Retsplejeloven og Konkursloven regulerer:
+
+* Individualforfølgning:
+  +	Hver kreditor for sig, den kreditor, der kommer først, bliver først betalt af skyldner
+  +	Reguleret i Retsplejeloven (RPL; Lovbekendtgørelse nr. 1284 af 14. november 2018) og omfatter bl.a. udlæg, tvangsauktion og tvangsbeneficeret (retten til et beskedent hjem) 
+* Universalforfølgning:
+  +	Reguleret i konkursloven (KKL; Lovbekendtgørelse nr. 11 af 6. januar 2014), og omfatter konkurs, rekonstruktion og gældssanering
+  +	Formålet er at stille kreditorerne lige i konkursboet
+  +	Kun hvis skyldner er insolvent, jf. KKL § 17: ”Er en skyldner insolvent, skal hans bo tages under konkursbehandling, når det begæres af skyldneren eller en fordringshaver. Stk. 2 En skyldner er insolvent, hvis han ikke kan opfylde sine forpligtelser, efterhånden som de forfalder, medmindre betalingsudygtigheden må antages blot at være forbigående”.
+ 
+
+
+Ordet ”insolvent”
+
+* Defineret i KKL § 17
+* Skyldner kan ikke betale sin gæld, efterhånden som den forfalder til betaling
+* Skifteretten vurderer, om insolvensen er til stede
+* Hvis skyldner selv erklærer sig insolvent, forventes det at være rigtigt
+
+ 
+
+Konkurslovens § 17
+
+
+Der må ved afgørelsen om skyldnerens insolvens og dermed en konkursbehandling tages der hensyn til en række momenter i praksis:
+
+* En rigtigt opgjort status er et vægtigt indicium om skyldnerens betalingsevne, jf. U 2001 2592 Ø (skyldner, der siden 2000-02-10 ved (delvis) betaling havde afværget 15 konkursbegæringer, var insolvent, da han ikke kunne betale 50.798 kr. ifølge en udeblivelsesdom, og da han havde yderligere gældsposter), hør nærmere omtale om dommen. 
+
+* Det må kræves, at der består en fordring mod skyldneren, men ikke at den er forfalden. Fordringen må endvidere tilkomme den, der indleverer konkursbegæringen til skifteretten.
+
+* At fordringen er genstand for en ikke afsluttet retssag, udelukker ikke i sig selv, at den kan tjene som grundlag for konkurs, se f.eks. U 1973 673 H.
+
+* Kreditor skal have en retlig interesse i konkursbehandlingen. Denne vil normalt bestå i, at der er udsigt til dividende. Det forhold, at kreditor aktuelt ikke kan forvente dividende i boet, udelukker ikke konkurs. Den retlige interesse kan bestå i, at konkursbehandlingen kan tænkes at tilvejebringe yderligere aktiver.
+
+* Enhver fysisk person kan uanset (u)myndighed være »skyldner« i den anførte betydning i KKL § 17.
+
+* En juridisk person kan som »skyldner« erklæres konkurs, hvis enten ingen deltager i sammenslutningen hæfter personligt for sammenslutningens gæld, eller hvis samtlige personligt hæftende er under konkurs.
+
+* Pengeinstitutter kan erklæres konkurs, men beskikkelse af kurator sker efter forhandling med Finanstilsynet, se lov om finansiel virksomhed § 246, stk. 3. 
+
+* Om forsikringsselskabers konkurs, se lov om finansiel virksomhed §§ 264-265, hvorefter bl.a. beskikkelse af kurator sker efter forhandling med Finanstilsynet.
+
+* Ansvarlige interessentskabers boer behandles som konkursboer, når samtlige interessenter er under konkurs.
+
+
+Insolvens antages i almindelighed at foreligge efter KKL § 18, hvis:
+
+* skyldneren erkender at være insolvent, 
+* skyldneren er under rekonstruktionsbehandling,
+* skyldneren har standset sine betalinger  eller
+* der ved udlæg inden for de sidste tre måneder før skifterettens modtagelse af konkursbegæringen ikke har kunnet opnås dækning hos skyldneren. 
+ 
+Speak 23
+ 
+
+
+## Inkasso
+
+
+
+
+
+
+
+
+<h3>Gode råd og gæld: Inkasso</h3>
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/XbxO46Oeizw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+Inkasso reguleres af Lovbekendtgørelse nr. 1018 af 9. september 2014 om inkassovirksomhed. Formålet med inkassoloven er at sikre, at privat inkassovirksomhed, dvs. den inddrivelse af fordringer på andres vegne, der sker uden fogedretternes medvirken som led i privat inkassovirksomhed, foregår på en rimelig og forsvarlig måde. 
+Dette søges navnlig opnået ved en autorisationsordning for inkassofirmaer, ved krav om godkendelse af personale, der retter personlig henvendelse til skyldnere, og ved krav om, at inkassofirmaer mv. skal stille sikkerhed for pengekrav, som måtte opstå som følge af udøvelsen af deres virksomhed. 
+Lovens formål søges også opnået ved regler om, at inkassovirksomhed skal udøves i overensstemmelse med god inkassoskik i forhold til både skyldnere og kunder, jf. inkassolovens § 9. 
+
+ 
+
+Speak 23
+
+* Inkassolovens kap. 1 fastlægger anvendelsesområdet for loven. 
+* I kap. 2 fastsættes autorisationsordningen for inkassofirmaer og visse andre virksomheder. 
+* Endvidere indeholder kap. 2 regler om sikkerhedsstillelse. 
+* I kap. 3 fastsættes regler om godkendelse af personale, som retter personlige henvendelser til skyldnere. 
+* Kap. 4 indeholder regler om, hvorledes inkassovirksomhed skal udøves. 
+* Kap. 5 indeholder kompetence- og bemyndigelsesbestemmelser. 
+* I kap. 6 fastsættes regler om tilbagekaldelse og bortfald af autorisation mv. 
+* Kap. 7 indeholder regler om tilsyn. 
+* Kap. 8 indeholder straffe- og ikrafttrædelsesbestemmelser.
+
+### Inkassoprocessen
+ 
+* Gælden sendes til inkasso, hvis skyldner ikke betaler, efter kreditor har sendt en eller flere rykkere
+* Inkasso kan foretages af:
+  +	Kreditor selv
+  +	Inkassofirma
+  +	Advokat
+* Inkassobrev med diverse oplysninger sendes til skyldner
+* Formålet med inkasso er at få betalt gælden eller opnå en afdragsordning, som kaldes et frivilligt forlig
+* Betaler skyldner stadig ikke, må kreditor overveje at fortsætte med tvangsinddrivelse
+
+
+
+Forældelsesfristen for gæld
+
+
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/krDpzh9ugJ0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+ 
+## Tvangsinddrivelse
+ 
+Ordet ”tvangsinddrivelse”:
+
+* Kreditor kan via fogedretten få udlæg i skyldners aktiver og sælge dem på tvangsauktion
+* Provenuet fra tvangsauktionen nedbringer skyldners gæld
+
+
+<h3>Mødet i fogedretten</h3>
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/ozjrbeuLrTU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+<h3>Gode råd om gæld: Fogedretten</h3>
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/th9E-UvXijE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+Tvangsinddrivelse kræver et fundament, jf. RPL § 478 fx:
+
+* Dom eller retsforlig
+* Frivillige forlig, hvis der står, det kan tvangsfuldbyrdes
+* Gældsbreve, hvis der står, det kan tvangsfuldbyrdes
+* Pantebreve
+* Afgørelser fra Forbrugerklagenævnet og de private godkendte tvistløsningsorganger efter 30 dage
+* Krav fra offentlige myndigheder fx Skat
+
+<h3>Gode råd og gæld: SKAT</h3>
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/gNK1K_cpsSw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+<h3>Gode råd om gæld: Budget</h3>
+
+ 
+<div class="video-container"><iframe src="https://www.youtube.com/embed/V_ZxNcRklxE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+### Betalingspåkrav
+Hvis kreditor ikke har et fundament, skal kreditor:
+
+* Have en dom for kravet eller
+* Udfylde et betalingspåkrav, jf. RPL kap. 44a 
+* Betalingspåkravet udfyldes af kreditor og indgives til Fogedretten
+* Betalingspåkravet kan kun anvendes hvis:
+  +	Kreditor har et pengekrav på højst 100.000 kr.
+  +	Kravet er ubetinget og ubestridt af skyldner
+  +	Skyldner har fået et ”inkassobrev”
+* Kan med Fogedrettens påtegning på betalingspåkravet anvendes som fundament
+ 
+
+### Udlæg
+
+HR: Kreditor kan få udlæg i alle skyldners aktiver, medmindre følgende undtagelser:
+* U1: Tredjemands rettigheder skal respekteres
+* U2: Særlige indlån i pengeinstitut fx bil købt på afbetaling som et kreditkøb med ejendomsforbehold
+* U3: Endnu ikke udbetalt løn, RPL § 511
+* U4: Udbetalt erstatning fx fra ulykkesforsikring, RPL § 513 Erstatningen skal være holdt adskilt fra øvrige midler
+* U5: Personlige aktiver med beskeden værdi, RPL § 515, stk. 1
+* U6: Personlige hjælpemidler, RPL § 515, stk. 2
+* U7: Båndlagte gaver, RPL § 514
+* U8: Trangsbeneficiet, RPL § 509
+ 
+Trangsbeneficiet, jf. RPL § 509:
+
+* Kreditor kan ikke få udlæg i aktiver omfattet af trangsbeneficiet
+* Omfatter aktiver, der hører til et beskedent hjem, fx seng, bord, stol, sofa
+* Almindelig hvidevarer hører til et beskedent hjem, fx køleskab, fryser, almindeligt tv og almindelig computer
+
+
+Smykker, malerier, smart TV eller fjernsyn med surround sound og subwoofer og andre værdifulde aktiver er ikke omfattet af trangsbeneficiet
+
+Spørgsmål er i et hvilket omfan,g der kan foretages udlæg i følgende genstande og værdier: 
+
+* Boliginventar (Opretholdelse af et beskedent hjem)
+* Bil
+* Kontanter (rede penge)
+* Indestående på konti
+* Depositum (lejebolig)
+* Kæledyr
+* Gaver
+* Værdier med affektionsværdi
+* Personskadeerstatning (Udbetalinger ved kritisk/ livstruende sygdom)
+* Feriepenge
+
+Speak 23 
+
+## Tvangsauktion
+
+Kreditor kan begære tvangsauktion:
+
+* Kun aktiver, som kreditor i forvejen har udlæg i
+* Begæring indgives til Fogedretten sammen med fogedgebyr
+* Auktionen skal annonceres, fast ejendom bekendtgøres i Statstidende
+* Auktionen holdes i Fogedretten, og aktivet bliver solgt til den, der byder højest
+* Provenuet fra auktionen går til at betale gælden hos kreditor efter omkostningerne ved auktionen er betalt
+* Panterettigheder i aktivet bliver slettet efter tvangsauktionen er holdt
+ 
+
+
+
+
+
+## Konkurs
+
+
+
+
+
+
+* Konkurs er en universalforfølgning, formålet er at dele skyldners aktiver ud til kreditorerne, så alle kreditorer stilles lige
+* Begæring kan indgives til skifteretten af skyldner eller kreditor, jf. KKL § 17, stk. 1
+* Skyldner mister rådighed over sine aktiver ved dekretets afsigelse, jf. KKL § 29
+* Skifteretten udpeger kurator (advokat), som handler på vegne af konkursboet
+* Annoncering i Statstidende - virkning for enhver, jf. KKL § 30
+ 
+
+### Konkursbehandling
+
+ 
+
+* Separatistkrav bliver fyldestgjort før konkursmassen gøres op
+* Kurator skal sælge og opgøre alle konkursboets aktiver
+* Konkursboet skal overveje, om det vil indtræde i gensidigt bebyrdende aftaler
+* Konkursboet vurderer, om der kan være omstødelige dispositioner
+* Kurator opgør alle kreditorernes krav og placerer dem i konkursordenen
+* Når konkursboets aktiver og passiver er gjort op bliver kreditorerne fyldestgjort efter konkursordenen
+ 
+### Konkursmassen
+Boets aktiver (konkursmassen) omfatter:
+HR:	Alt hvad skyldner ejer ved konkursdekrets afsigelse og under konkursen tilfalder ham, jf. KL § 32  
+U1:	Aktiver, som kreditor ikke kan få udlæg i, KL § 36  
+U2:	Skyldners arbejdsindtægter under konkursen   
+U3:	Separatistkrav (fx aktiver solgt med ejendomsforbehold) Boets passiver omfatter:  
+
+* Alle kreditorer kan anmelde deres krav, uanset om kravet er forfaldent, jf. KL § 38
+ 
+De vigtigste niveauer i konkursordenen er i rækkefølge Konkurslovens kap. 10:
+
+* Massekrav, dvs. krav, som er opstået ved selve konkursbehandlingen, fx kuratorsalær,
+* Privilegerede krav, fx krav opstået under forsøg på at afværge en konkurs og lønkrav fra visse af skyldnerens ansatte, samt
+* Simple krav, dvs. krav fra skyldnerens almindelige kreditorer og derfor i  almindelighed den største post.
+ 
+### Konkursordenen
+
+* Konkursordenen inddeler alle boets kreditorer i klasser
+* Hver konkursklasse bliver fyldestgjort fuldt ud, før der udloddes til næste klasse
+* Først dækkes omkostninger i forbindelse med konkursen (massekrav), og herefter de øvrige klasser
+* Hvis der ikke er dækning til hele klassen, fx de simple krav, bliver der udloddet en dividende. Efterstående konkursklasser får ingen dækning.
+ 
+### Udlodning af dividende
+
+* En dividende på 10 % til simple krav betyder, at kreditor med et krav på 100.000 kr. får en dækning på 10.000 kr.
+
+Udækket gæld:
+
+* Kreditor har stadig et restkrav på 90.000 kr. efter konkursen er afsluttet
+* Kreditorernes udækkede gæld følger skyldner, hvis skyldner er en fysisk person
+* Hvis skyldner er et selskab har kreditor ingen at rette kravet mod efter konkursen. Den udækkede gæld kan ikke blive fyldestgjort
+ 
+##	Konkurskarantæne
+
+* Formål: At forhindre personer i gentagne gange at spekulere i at tjene penge ved hjælp af en virksomheds konkurs
+* Personen må ikke i karantæneperioden deltage i ledelsen af en virksomhed, medmindre personen hæfter personligt og ubegrænset
+* Gælder som udgangspunkt i tre år, men perioden kan gøres kortere, jf. KL § 158
+* Kurator eller rekonstruktør skal vurdere om de ledende personer i virksomheden har været uegnede til at drive virksomheden på grund af groft uforsvarlig forrretningsførelse, jf. KL § 157
+ 
+## Omstødelse
+
+* Konkursens formål er at alle kreditorer stilles lige
+* Omstødelsesreglerne forhindrer, at kreditorer kan få en meget bedre retsstilling kort før konkursen indtræder
+* Omstødelse medfører at den begunstigede skal betale det omstødelige beløb tilbage.
+* Fristdagen er den dag Skifteretten har modtaget begæring om:
+  +	Konkurs
+  +	Rekonstruktion
+  +	Gældssanering
+* Beregning af omstødelsesperioden tager udgangspunkt i fristdagen (se fig. 15.1)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Hvilke dispositioner kan fx omstødes:
+
+* Gaver, der ikke er lejlighedsgaver, jf. KL § 64
+* Betaling af gæld, jf. KL § 67, hvis betaling er sket:
+  +	I omstødelsesperioden og
+  +	Betalingen ikke er ordinær Derudover skal betaling enten være:
+  +	Med usædvanlige betalingsmidler eller
+  +	Sket før normal forfaldstid eller
+  +	Med et beløb der afgørende har forringet skyldners betalingsevne
+ 
+
+* Pant for gammel gæld, jf. KL § 70
+  +	Pant for samtidig stiftet gæld er ok, hvis sikringsakten er foretaget med det samme
+* Udlæg, jf. KL § 71
+  +	alle udlæg, hvor sikringsakten er foretaget de seneste 3 måneder før fristdagen, kan omstødes
+* Utilbørlige dispositioner, jf. KL § 74, hvis den begunstigede er i ond tro om:
+  +	Skyldners insolvens og
+  +	Utilbørligheden
+ 
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+## Rekonstruktion 
+
+Udenretlig rekonstruktion
+
+* Baseret på aftaler med en eller flere kreditorer
+* Kan bl.a. omfatte en frivillig akkordordning, hvor gælden nedsættes
+Rekonstruktion efter KL
+* Omfatter alle kreditorer
+* Kan indeholde:
+  +	tvangsakkord eller
+  +	virksomhedsoverdragelse
+ 
+
+* Begæring kan indgives af skyldner eller en kreditor til Skifteretten
+* Er skyldner en personligt ejet virksomhed er skyldners samtykke nødvendigt for at gennemføre rekonstruktionen
+* Skifteretten udpeger en rekonstruktør (advokat)
+ 
+### Rekonstruktion gennemførelse og indhold
+
+* Rekonstruktionen kan indeholde:
+  +	Tvangsakkord, som nedsætter skyldners gæld. En tvangsakkord på 25 % betyder, at kreditor med et krav på 100.000 kr. bliver dækket med
+25.000 kr.
+  +	Virksomhedsoverdragelse, hvis det er muligt at sælge hele eller dele af virksomheden til en ny ejer. Muligvis vil den tilbageværende del af virksomheden gå konkurs.
+*	Forslaget om rekonstruktion skal til afstemning blandt kreditorerne
+ 
+
+
+ 
+## Gældssanering
+
+Skifteretten kan efter en skyldners begæring afsige kendelse om gældssanering, såfremt skyldneren godtgør, at skyldneren ikke er i stand til og inden for de nærmeste år ingen udsigt har til at kunne opfylde sine gældsforpligtelser, og det må antages, at gældssanering vil føre til en varig forbedring af skyldnerens økonomiske forhold, jf. KKL § 197, stk. 1.
+
+* Kun for fysiske personer, som selv skal indgive begæring
+* Skyldner skal have en større gæld, end det er muligt for ham at betale tilbage, jf. KL § 197
+* Det er en betingelse for gældssanering, at skyldneren er håbløst forgældet.
+* Gældssanering bliver nægtet, hvis gælden skyldes ”dårlig opførsel”´, jf. KL § 197, stk. 2
+* Kreditorer skal anmelde deres krav efter offentliggørelse i Statstidende, ellers bortfalder kravet
+* Skyldner lægger et budget, som viser hvor meget af gælden, der kan betales
+
+* Budget skal udarbejdes efter faste regler
+* Skyldner skal leve på et eksistensminimum i 5 år, resten af skyldners indtægt går til betaling af kreditorer
+* Hvis skyldner overholder betalingerne, er skyldner gældfri efter 5 år
+
+Speak 23
+
+Omstødelsesreglerne finder anvendelse i gældssanering Skifteretten kan ophæve kendelsen om gældssanering, hvis skyldner:
+  +	Har handlet svigagtigt i forbindelse med sagens behandling
+  +	Groft har tilsidesat sine pligter efter gældssaneringskendelsen
+
+* Overholder skyldner betingelserne for gældssaneringen efter bedste evne, er skyldner gældfri
+* Kreditorerne har ikke længere krav på skyldner efter gældssaneringsperioden
+* Gældssanering i forbindelse med en konkursbehandling sker på lempeligere vilkår, og perioden er på 3 år i stedet for 5 år
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Kreditaftaler
 # Kautionsforhold
 # Fordringer gældsbreve og pantebreve
