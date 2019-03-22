@@ -5616,29 +5616,7 @@ Kaution, betyder overtagelse af en økonomisk risiko, som bæres af en kreditor 
   +	Moderselskab	datterselskab
 
 
-```{r echo=FALSE}
-nodes <- data.frame(id = 1:3, group = c("A", "B", "C"),label = c(" Kautionist "," Bank "," Debitor "))
-edges <- data.frame(from = c(1,2,3),
-                    to = c(2,3,1),
-                    arrows = c("to"),
-                    length = c(800,800,400),
-                    label=c("Kautionsaftale","Lån","100% anparter"),
-                    smooth = TRUE
-                    )
- visNetwork(nodes, edges,main = "Ejers kaution for virksomhed") %>%
- visGroups(groupname = "A", shape = "icon",
-           icon = list(code = "f56c", size = 100, color = "blue",highlight = "yellow")) %>%
- visGroups(groupname = "B", shape = "icon",
-           icon = list(code = "f2bb", size = 150, color = "red",highlight = "yellow")) %>%
-   visGroups(groupname = "C", shape = "icon",
-           icon = list(code = "f19c", size = 150, color = "red",highlight = "yellow")) %>%
- addFontAwesome() %>%
 
- visEdges(shadow = TRUE,
-           arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
-           color = list(color = "lightblue", highlight = "red"))
- 
-```
 
 
   
@@ -5655,7 +5633,7 @@ nodes <- data.frame(id = 1:3, shadow = FALSE,
                     highlight = "yellow")
   
 edges <- data.frame(from = c(1,2,3), to = c(2,3,1),
-                    length = c(300,300,300),
+                    length = c(400,400,400),
                     label=c("Kautionsaftale","Lån","100% anparter"),
                     # arrows = c("to"),
                     smooth = TRUE)
@@ -5664,7 +5642,7 @@ visNetwork(nodes, edges, width = "80%") %>%
   visNodes(shapeProperties = list(useBorderWithImage = FALSE)) %>%
   visLayout(randomSeed = 2) %>%
 
- visEdges(shadow = FALSE,
+ visEdges(shadow = TRUE,
            arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
            color = list(color = "lightgrey", highlight = "red"))
 ```
