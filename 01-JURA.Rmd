@@ -5648,9 +5648,9 @@ Kaution, betyder overtagelse af en økonomisk risiko, som bæres af en kreditor 
 ```{r echo=FALSE}
 nodes <- data.frame(id = 1:4, 
                     shape = c("image"),
-                    image = c("/img/1.png",
-                    "/img/bank.png",
-                    "/img/uni.svg",
+                    image = c("https://jura.tepedu.dk/img/insol1.jpg",
+                    "https://jura.tepedu.dk/img/insol1.jpg",
+                    "https://jura.tepedu.dk/img/insol1.jpg",
                     "./img/4.png"),
                     label = c("Bla bla bla","2","3","4"))
   
