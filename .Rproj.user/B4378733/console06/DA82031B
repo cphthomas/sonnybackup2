@@ -1030,3 +1030,51 @@ remote: Resolving deltas:   0% (0/41)   [Kremote: Resolving deltas:   2% (1/41
 To https://github.com/cphthomas/jurars.git
    63bd078..81dae2e  master -> master
 ]0;~/Google Drev/JURA/jurarsThomass-MacBook-Pro-3:jurars thomaspetersen$ git add . && git commit -a -m . && git push
+[master d45c153] .
+ 5 files changed, 27 insertions(+), 2 deletions(-)
+ create mode 100644 _book/.DS_Store
+ create mode 100644 _book/uni.svg
+Enumerating objects: 18, done.
+Counting objects:   5% (1/18)   Counting objects:  11% (2/18)   Counting objects:  16% (3/18)   Counting objects:  22% (4/18)   Counting objects:  27% (5/18)   Counting objects:  33% (6/18)   Counting objects:  38% (7/18)   Counting objects:  44% (8/18)   Counting objects:  50% (9/18)   Counting objects:  55% (10/18)   Counting objects:  61% (11/18)   Counting objects:  66% (12/18)   Counting objects:  72% (13/18)   Counting objects:  77% (14/18)   Counting objects:  83% (15/18)   Counting objects:  88% (16/18)   Counting objects:  94% (17/18)   Counting objects: 100% (18/18)   Counting objects: 100% (18/18), done.
+Delta compression using up to 8 threads
+Compressing objects:  10% (1/10)   Compressing objects:  20% (2/10)   Compressing objects:  30% (3/10)   Compressing objects:  40% (4/10)   Compressing objects:  50% (5/10)   Compressing objects:  60% (6/10)   Compressing objects:  70% (7/10)   Compressing objects:  80% (8/10)   Compressing objects:  90% (9/10)   Compressing objects: 100% (10/10)   Compressing objects: 100% (10/10), done.
+Writing objects:  10% (1/10)   Writing objects:  20% (2/10)   Writing objects:  30% (3/10)   Writing objects:  40% (4/10)   Writing objects:  50% (5/10)   Writing objects:  60% (6/10)   Writing objects:  70% (7/10)   Writing objects:  80% (8/10)   Writing objects:  90% (9/10)   Writing objects: 100% (10/10)   Writing objects: 100% (10/10), 3.67 KiB | 470.00 KiB/s, done.
+Total 10 (delta 6), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/6)   [Kremote: Resolving deltas:  16% (1/6)   [Kremote: Resolving deltas:  33% (2/6)   [Kremote: Resolving deltas:  50% (3/6)   [Kremote: Resolving deltas:  66% (4/6)   [Kremote: Resolving deltas:  83% (5/6)   [Kremote: Resolving deltas: 100% (6/6)   [Kremote: Resolving deltas: 100% (6/6), completed with 6 local objects.[K
+To https://github.com/cphthomas/jurars.git
+   81dae2e..d45c153  master -> master
+]0;~/Google Drev/JURA/jurarsThomass-MacBook-Pro-3:jurars thomaspetersen$ git add . && git commit -a -m . && git push
+warning: CRLF will be replaced by LF in libs/vis-4.20.1/vis.css.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in libs/vis-4.20.1/vis.min.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in libs/visNetwork-binding-2.0.4/lib/css/dataManipulation.css.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in libs/visNetwork-binding-2.0.4/lib/export/Blob/Blob.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in libs/visNetwork-binding-2.0.4/lib/export/Blob/LICENSE.md.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in libs/visNetwork-binding-2.0.4/lib/export/Blob/README.md.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in libs/visNetwork-binding-2.0.4/lib/export/FileSaver/FileSaver.min.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in libs/visNetwork-binding-2.0.4/lib/export/FileSaver/LICENSE.md.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in libs/visNetwork-binding-2.0.4/lib/export/FileSaver/README.md.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in libs/visNetwork-binding-2.0.4/lib/export/canvas-toBlob/LICENSE.md.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in libs/visNetwork-binding-2.0.4/lib/export/canvas-toBlob/README.md.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in libs/visNetwork-binding-2.0.4/lib/export/canvas-toBlob/canvas-toBlob.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in libs/visNetwork-binding-2.0.4/lib/export/html2canvas/html2canvas.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in libs/visNetwork-binding-2.0.4/lib/export/jsPDF/jspdf.debug.js.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in libs/visNetwork-binding-2.0.4/lib/ionicons/LICENSE.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in libs/visNetwork-binding-2.0.4/lib/ionicons/css/ionicons.min.css.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in libs/visNetwork-binding-2.0.4/lib/ionicons/fonts/ionicons.svg.
+The file will have its original line endings in your working directory
