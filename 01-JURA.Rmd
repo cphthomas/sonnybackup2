@@ -5649,8 +5649,8 @@ nodes <- data.frame(id = 1:3,
                     shape = c("image"),
                     image = c("https://jura.tepedu.dk/img/kaution.svg",
                     "https://jura.tepedu.dk/img/piggybank.svg",
-                    "https://jura.tepedu.dk/img/uni.svg"),
-                    label = c("Kautionist\nEneanpartshaver","Bank"," Debitor "),
+                    "https://jura.tepedu.dk/img/firm.svg"),
+                    label = c("Kautionist\nEneanpartshaver","Bank","Debitor\nApS"),
                     color = "red",
                     highlight = "yellow")
   
