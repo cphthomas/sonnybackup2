@@ -5650,7 +5650,7 @@ nodes <- data.frame(id = 1:4,
                     shape = c("image"),
                     image = c("https://jura.tepedu.dk/img/insol1.jpg",
                     "https://jura.tepedu.dk/img/insol1.jpg",
-                    "https://jura.tepedu.dk/img/insol1.jpg",
+                    "https://jura.tepedu.dk/img/uni.svg",
                     "https://jura.tepedu.dk/uni.svg"),
                     label = c("Bla bla bla","2","3","4"))
   
