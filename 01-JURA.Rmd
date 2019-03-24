@@ -6205,7 +6205,7 @@ Om overdragelse af fordringer, se kapitel 14 og ophør af fordringer i kapitel 1
 
 
 *Hvad er en fordring?*  
-<img src="img/gb2.jpeg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/gb2.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 En fordring er et krav, som en person eller et selskab (kreditor) har mod en anden part (debitor). En fordring består typisk i et pengebeløb, men den kan også bestå i andet^[Herværende gennemgang af reglerne om fordringer, gældsbreve og pantebreve bygger bl.a. på oplysninger fra SKAT og Lars Hedegaard Kristensen: Karnovkommentaren til gældsbrevsloven].  Den kan fx bestå i, at debitor skylder en arbejdsydelse, eller i at der skal leveres en ting. Et gaveløfte betyder, at man skal give den lovede gave, som fx kan være en ting.
 
 *Bemærk*    
@@ -6229,7 +6229,6 @@ Som eksempler på fordringer kan nævnes:
 
 *Hvad er et gældsbrev?*  
  
-<img src="img/gb3.jpeg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Principperne i gældsbrevsloven finder anvendelse både for gældsbreve og simple fordringer, jf. (Lovbekendtgørelse nr. 333 af 31. marts 2014 om gældsbreve; forkortet her ”GBL”). Denne lov indeholder ikke nogen direkte definition af begrebet ”gældsbrev”. 
 
 Gældsbrevslovens forarbejder henholder sig til den gængse juridiske forståelse, nemlig at der ved et gældsbrev forstås »en skriftlig Erklæring, der hjemler en i Hovedsagen, ubetinget, ensidig Fordring på et bestemt Pengebeløb«. Kravet om, at der skal foreligge en skriftlig erklæring, indebærer, at der skal foreligge et dokument. 
