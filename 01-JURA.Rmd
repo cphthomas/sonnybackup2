@@ -5606,7 +5606,7 @@ Hvad er kursskæring og bidragssats? Hvad er et F3-lån? Og hvad sker der, når 
 Kaution, betyder overtagelse af en økonomisk risiko, som bæres af en kreditor i et skyldforhold, med den virkning, at kautionisten sammen med debitor hæfter for opfyldelsen af debitors betalingspligt. Ordet kaution kommer af latin cautio 'forsigtighed, sikkerhed', af cavere 'passe på, sikre'.
 
 * Kaution er en sikkerhedsstillelse for et gældsforhold
-* Der er tre parter i kautionsforhold (Se fig. 17.2 fra Trojka):
+* Der er tre parter i kautionsforhold (Se figuren nedenfor):
   +	Låntager = hovedskyldner
   +	Långiver = kreditor
   +	Kautionist
@@ -5683,13 +5683,15 @@ U 2010.1628 H: Kautionsaftale delvist tilsidesat efter aftalelovens § 36.
 * Der vil ofte være en nær relation mellem debitor og kautionist
 * Erhvervskaution stilles både af fysiske og juridiske personer, men typisk er debitor en virksomhed
 * I vurderingen erhvervskaution eller privat kaution indgår følgende
-parametre (Se fig. 17.3 fra Trojka):
+parametre (Se figuren nedenfor):
   + Ejerandel i virksomhed, der kautioneres for
   + Stilling i virksomheden
   + Indsigt i virksomhedens økonomi
   + Bestemmende indflydelse i virksomheden samlet set
 
 #### Erhvervskaution i et pengeinstitut
+
+<img src="img/kaution15.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Med hensyn til erhvervskaution i et pengeinstitut følger det af FIL § 47: ”Er der inden for erhvervsforhold stillet kaution for lån ydet af et pengeinstitut, og udebliver låntager med betaling af hovedstol, afdrag eller renter, skal der senest 6 måneder efter de pågældende ydelsers forfaldsdag skriftligt gives meddelelse til enhver af kautionisterne eller til den eller dem af disse, der er bemyndiget til at modtage meddelelsen på samtlige kautionisters vegne. Undladelse heraf medfører, at pengeinstituttet taber sit krav over for kautionisterne, i det omfang disses regreskrav mod låntageren er blevet forringet ved undladelsen.
 § 48”. Skriftlighedskravet kan opfyldes i såvel papirformat som elektronisk format.
@@ -5708,14 +5710,14 @@ U 1995 77 (da låntagers formue måtte antages at være negativ allerede inden u
 
 #### Privatkaution i et pengeinstitut
 
-<img src="img/kaution3.jpg" align="right" "style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/kaution3.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Der er i FIL § 48 lovbestemmelser vedrørende privatkaution i et pengeinstitut. Herved forstås kaution, der ikke indgår i en erhvervsmæssig relation mellem låntager og kautionist. Er kautionen eksempelvis stillet for en virksomheds gæld af ejeren af virksomheden, vil forholdet ikke være omfattet af bestemmelsen i FIL § 48, men § FIL § 47. Kaution fra ejerens forældre vil derimod være omfattet, da der i dette tilfælde vil være tale om en kaution uden for erhvervsforhold. 
 
 I FIL § 48 er der indsat en forpligtelse til at informere kautionisten, ligesom det er præciseret, hvilke forhold der skal oplyses om, forinden der indgås en aftale om en kautionsforpligtelse. Ved tilstrækkeligt informeret forstås, at informationen skal være udformet, så en kautionist uden for erhvervsforhold har mulighed for at forstå indholdet og konsekvenserne ved at påtage sig kautionsforpligtelsen. Der vil derfor kunne være behov for at supplere en udleveret pjece med yderligere information over for kautionister, der har svært ved at forstå indholdet og konsekvenserne ved en kautionsforpligtelse.
 
-Se pjecen om privatkaution af december 2017:
-https://finansdanmark.dk/media/19183/information-om-privat-kaution-og-tredjemandspant.pdf
+[Se pjecen om privatkaution af december 2017 her.](https://finansdanmark.dk/media/19183/information-om-privat-kaution-og-tredjemandspant.pdf)
+
 
 Informationen kan som tidligere gives ved udlevering af denne pjece til kautionisten, der er udarbejdet i fællesskab mellem Finansrådet (nu Finans Danmark) og ForbrugerrådetTænk, for så vidt angår kaution for lån ydet af pengeinstitutter. Der er dog ikke krav om, at pjecen skal udleveres. Det står således långiver frit for at udarbejde andet informationsmateriale, så længe dette forklarer, hvad en kautionsforpligtelse indebærer og indeholder en afbalanceret beskrivelse af de risici, der er forbundet med at kautionere.
 
@@ -5807,10 +5809,48 @@ Hvis oplysningspligten ikke er overholdt kan kautionen   eventuelt tilsidesætte
   + Begrænset kaution – for et maksimalt beløb
   + Delkaution – for en bestemt del af lånet
 
-(Se nedenfor fig. 17.4 fra Trojka)
+(Se figuren nedenfor)
  
+<h3>Kautionsoversigt</h3>
+```{r echo=FALSE}
 
+mydf <- data.frame(
+  S1 = c("Kautionstype" ,"Simpel kaution", 
+"Selvskyldnerkaution", 
+"Tabskaution", 
+"Begrænset kaution", 
+"Delkaution", 
+"Samkaution", 
+"Medkaution", 
+"Efterkaution"),
+  S2 = c("Indhold" ,
+  "Kan først gøres gældende, når det er dokumenteret, at 
+debitor ikke kan betale gælden.", 
+"Kan gøres gældende, når debitor misligholder lånet. ",
+"Kan gøres gældende efter udtømmende retsforfølgning.",
+"Omfatter hele gælden med et maksimalt beløb.",
+"Kautionen omfatter en bestemt del af gælden.",
+"Flere kautionister for samme gældsforhold under forudsætning af, at andre kautionister også har kautioneret.", 
+"Flere kautionister for samme gældsforhold stillet uafhængigt af hinanden.",
+"Kaution stillet overfor kreditor som effektueres, når hovedkautionist ikke kan betale")
   
+)
+names(mydf) <- NULL
+
+mydf %>%
+  kable("html", escape = FALSE) %>%
+  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
+  column_spec(1, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  row_spec(1,italic = T,bold = T,font_size = 12,color = "white", background = "darkgrey")
+  # row_spec(1,italic = T,bold = T,font_size = 12)
+  # column_spec(0, angle = -45)%>%
+  # scroll_box(width = "500px") %>%
+  # footnote(general = "Databeskyttelsesforordningen",general_title = "Kilde:")
+```
+
+
+
 
 Pantesikkerhed eller kaution
 
@@ -5881,11 +5921,11 @@ De samme beskyttelsesregler gælder, hvis en privatperson stiller pantesikkerhed
 
 ### Flere kautionister
 
-* Er der flere kautionister kan det være (Se fig. 17.5 nedenfor fra Trojka)
+* Er der flere kautionister kan det være (Se figuren nedenfor)
   + Samkaution – afhængigt af hinanden
   + Medkaution – uafhængigt af hinanden
 * Flere kautionister hæfter solidarisk, hvis ikke andet er aftalt
-* Hvis det er aftalt kan kautionisterne hæfte pro rata (Se fig. 17.6 nedenfor fra Trojka)
+* Hvis det er aftalt kan kautionisterne hæfte pro rata (Se figuren nedenfor)
 * Samkautionister har efter betaling af gælden regresret mod de andre kautionister
  
  
@@ -6027,9 +6067,7 @@ Det er ikke kun fra låntager en kautionist kan kræve betaling. Hvis der er fle
 
 Hvis kautionist A hæfter for 50.000 kr. af en gæld på 100.000 kr. sammen med kautionist B, og kautionist A indbetaler 50.000 kr. til långiver, kan kautionist A kræve 25.000 kr. fra kautionist B.
 
-Herefter kan kautionist A og B kræve 25.000 kr. hver fra låntager.
-
-(Se nedenfor figur. 17.8. fra Trojka om kautionistens regresret overfor låntageren)
+Herefter kan kautionist A og B kræve 25.000 kr. hver fra låntager (Se figuren nedenfor).
 
 Det viser sig dog ofte særdeles svært at få penge fra den misligholdende låntager, da låntagers misligholdelse ofte skyldes insolvens. På samme måde viser det sig ofte at det ikke er alle kautionister, der faktisk har mulighed for at betale. 
 
@@ -6055,7 +6093,7 @@ Advokat Y
 <img src="img/kaution11.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 
 * Når låntager og pantsætter ikke er samme person
-* Kreditor har pant i tredjemands aktiv, som ligger til sikkerhed for lånet (Se fig. 17.9 nedenfor fra Trojka)
+* Kreditor har pant i tredjemands aktiv, som ligger til sikkerhed for lånet (Se figuren nedenfor)
 * Hvis der ikke er tale om et erhvervsforhold og kreditor er bank eller realkreditinstitut, skal kreditor opfylde samme oplysningsforpligtelse, som ved privatkaution, jf. FIL § 48, stk. 11
   + Hvad tredjemandspant indebærer
   + Beskrivelse af risikoen
@@ -6096,7 +6134,7 @@ visNetwork(nodes, edges, width = "80%",main = "Trediemandspant") %>%
  
 * Garanti er en sikkerhedsstillelse for betaling på samme måde som kaution
   + Fx købesumsgaranti i ejendomshandel = garanti købers bank stiller som sikkerhed for købesummens betaling
-* Parterne i garantistillelse er garantirekvirent, garant og beneficiant (Se fig. 17.10 nedenfor fra Trojka)
+* Parterne i garantistillelse er garantirekvirent, garant og beneficiant (Se figuren nedenfor).
 * To typer af garantier
   + Anfordringsgaranti – kommer til udbetaling på anfordring
   + Betinget garanti – kommer til udbetaling når den stillede betingelse er opfyldt
