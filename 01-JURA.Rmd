@@ -5889,14 +5889,39 @@ De samme beskyttelsesregler gælder, hvis en privatperson stiller pantesikkerhed
 * Samkautionister har efter betaling af gælden regresret mod de andre kautionister
  
  
- 
+```{r echo=FALSE}
+nodes <- data.frame(id = 1:6, shadow = FALSE,
+                    shape = c("image"),
+                    image = c("https://jura.tepedu.dk/img/piggybank.svg",
+                    "https://jura.tepedu.dk/img/kaution.svg",
+                    "https://jura.tepedu.dk/img/kaution.svg",
+                    "https://jura.tepedu.dk/img/kaution.svg",
+                    "https://jura.tepedu.dk/img/kaution.svg",
+                    "https://jura.tepedu.dk/img/poor.svg"),
+                    label = c("Kreditor","Kautionist 1","Kautionist 2","Kautionist 3","Kautionist 4","Debitor\nHovedskyldner"),
+                    color = "red",
+                    highlight = "yellow")
+  
+edges <- data.frame(from = c(1,2,3), to = c(2,3,1),
+                    length = c(400,400,400),
+                    label=c("Kautionsaftale","Lån","100% anparter"),
+                    # arrows = c("to"),
+                    smooth = TRUE)
+visNetwork(nodes, edges, width = "80%",main = "Eneanpartshaver stiller kaution overfor banken til sikkerhed for virksomhedens lån") %>% 
+  visNodes(shapeProperties = list(useBorderWithImage = FALSE)) %>%
+  visLayout(randomSeed = 2) %>%
+
+ visEdges(shadow = TRUE,
+           arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
+           color = list(color = "lightgrey", highlight = "red"))
+```
 
 
   
   
 
 ## Kautionens ophør
-<img src="img/kaution9.jpeg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/kaution9.png" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 * Kautionen ophører, når gælden bliver betalt eller eftergivet
 * Privat kaution bortfalder efter 5 år eller 10 år, hvis kautionen ikke forlænges
@@ -5930,6 +5955,7 @@ Det viser sig dog ofte særdeles svært at få penge fra den misligholdende lån
 
   
 ### Hvad nu hvis kautionisten dør?
+  <img src="img/kaution10.png" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Min mand har kautioneret for sin datter. Overtager jeg denne forpligtelse ved min mands død ?
 Med venlig hilsen X
@@ -5944,7 +5970,9 @@ Med venlig hilsen
 Advokat Y
 
 ## Tredjemandspant
- 
+
+<img src="img/kaution11.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
+
 * Når låntager og pantsætter ikke er samme person
 * Kreditor har pant i tredjemands aktiv, som ligger til sikkerhed for lånet (Se fig. 17.9 nedenfor fra Trojka)
 * Hvis der ikke er tale om et erhvervsforhold og kreditor er bank eller realkreditinstitut, skal kreditor opfylde samme oplysningsforpligtelse, som ved privatkaution, jf. FIL § 48, stk. 11
