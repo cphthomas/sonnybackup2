@@ -445,17 +445,18 @@ Danmark har 24 byretter. De er fordelt over hele landet. Byretten behandler som 
 
 nodes <- data.frame(id = 1:6, 
                     shape = c("box"), 
+                    level = c(1,2,2,2,2,2),
                     label = c("Byrettens afdelinger","Civilretten","Fogedretten","Skifteretten","Boligretten","Kriminalretten"),
-                    font.size = c(20,15,15,15,15,15))
-edges <- data.frame(from = c(1,1,1,1,1), to = c(2,3,4,5,6))
+                    font.size = c(15,15,15,15,15,15))
+edges <- data.frame(from = c(1,1,1,1,1), to = c(2,3,4,5,6),color="lightgrey")
 
-visNetwork(nodes, edges, width = "100%") %>% 
-  visNodes(color = list(background = "lightgrey", 
-                        border = "lightgrey",
+visNetwork(nodes, edges, width = "80%") %>% 
+  visNodes(color = list(background = "white", 
+                        border = "white",
                         highlight = "yellow"),
-           shadow = list(enabled = FALSE, size = 30))  %>%
-  # visHierarchicalLayout()
-  visLayout(randomSeed = 24) # to have always the same network
+           shadow = list(enabled = TRUE, size = 30))  %>%
+      visHierarchicalLayout(direction = "UD",levelSeparation = 100)  %>%
+      visLayout(randomSeed = 24) # to have always the same network
 
 ```
 
