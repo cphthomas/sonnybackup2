@@ -6346,7 +6346,9 @@ Ad. Tinglyste simple pantebreve – typisk pantebrev med pant i andet end fast e
 
 
 ## Reguleringen af simple gældsbreve, simple fordringer og omsætningsgældsbreve (negotiable gældsbreve)
-### Reguleringen af simple gældsbreve og simple fordringer
+### Reguleringen af simple gældsbreve og simple fordringer  
+
+
 Dette afsnit med beskriver nærmere reguleringen af simple gældsbreve og simple fordringer.
 Afsnittet indeholder:   
 
@@ -6358,7 +6360,8 @@ Afsnittet indeholder:
 * Udlæg i bankindeståender
 * Sikring af et udlæg i bankindeståender
 * Slutafregning
-* Legitimationsvirkning ved udlæg i bankindeståender
+* Legitimationsvirkning ved udlæg i bankindeståender  
+
 Lovgrundlag
 Alle gældsbreve og fordringer, hvad enten de er skriftlige eller mundtlige, er omfattet af gældsbrevslovens kapitel 3 om simple fordringer.
 
@@ -6396,6 +6399,8 @@ Legitimationsvirkning
 Skyldneren frigøres uanset overdragelsen af det simple gældsbrev eller den simple fordring ved betaling til overdrageren. Det gælder dog ikke, hvis skyldneren vidste, at overdrageren ikke længere havde ret til at modtage betalingen, eller hvis skyldneren ikke har udvist den agtpågivenhed, som forholdene krævede. Se GBL § 29.
 
 Udlæg i borttransporterede fordringer – factoring   
+
+<img src="img/gb13.jpeg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Som et led i finansieringen af en virksomheds drift sker der ofte belåning af debitorerne (den såkaldte "factoring"-ordning). Ordningen indebærer, at fakturaerne forsynes med en transportpåtegning om, at betaling med frigørende virkning kun kan ske til transporthaveren. Ordningen kan etableres med fx:  
 
 * et factoring-firma
