@@ -151,6 +151,7 @@ Grundloven skal sikre stabile rammer om det politiske liv og de politiske kampe 
 ## Magtadskillelseslæren i grundlovens § 3
 Grundlovens § 3 har følgende ordlyd: ”Den lovgivende magt er hos kongen og Folketinget i forening. Den udøvende magt er hos kongen. Den dømmende magt er hos domstolene”.
 
+<h3>Magtens tredeling<\h3>
 ```{r echo=FALSE, result=TRUE}
 
 
