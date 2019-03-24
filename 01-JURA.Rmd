@@ -5972,22 +5972,23 @@ visNetwork(nodes, edges, width = "80%",main = "Efterkaution.") %>%
 ``` 
   
 ```{r echo=FALSE}
-nodes <- data.frame(id = 1:4, shadow = FALSE,
+nodes <- data.frame(id = 1:5, shadow = FALSE,
                     shape = c("image"),
                     image = c("https://jura.tepedu.dk/img/piggybank.svg",
-                    "https://jura.tepedu.dk/img/kaution.svg",
+                    "https://jura.tepedu.dk/img/poor.svg",
+                    "https://jura.tepedu.dk/img/piggybank.svg",
                     "https://jura.tepedu.dk/img/kaution.svg",
                     "https://jura.tepedu.dk/img/poor.svg"),
-                    label = c("Kreditor","Hovedkautionist\nEneanpartshaver","Efterkautionist\nÆgtefælle","Debitor\nBank"),
+                    label = c("Banken har krav\npå låntager","Låntager\nmisligholder","Banken kræver\nkautionen indfriet","Kautionisten betaler\nbanken","Kautionisten har\nkrav på låntager"),
                     color = "red",
                     highlight = "yellow")
   
-edges <- data.frame(from = c(2,3,1), to = c(1,1,4),
+edges <- data.frame(from = c(1,2,3,4), to = c(2,3,4,5),
                     # length = c(100,100,100,130),
-                    label=c("Hæftelse 1","Hæftelse 2","Lån"),
+                    # label=c("Hæftelse 1","Hæftelse 2","Lån"),
                     # arrows = c("to"),
                     smooth = FALSE)
-visNetwork(nodes, edges, width = "80%",main = "Efterkaution.") %>% 
+visNetwork(nodes, edges, width = "80%",main = "Kautionistens regresret mod") %>% 
   visNodes(shapeProperties = list(useBorderWithImage = FALSE)) %>%
   visLayout(randomSeed = 2) %>%
 
