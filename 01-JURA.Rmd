@@ -5902,26 +5902,102 @@ nodes <- data.frame(id = 1:6, shadow = FALSE,
                     color = "red",
                     highlight = "yellow")
   
-edges <- data.frame(from = c(1,2,3), to = c(2,3,1),
-                    length = c(400,400,400),
-                    label=c("Kautionsaftale","Lån","100% anparter"),
+edges <- data.frame(from = c(2,3,4,5,1), to = c(1,1,1,1,6),
+                    length = c(100,100,100,100,130),
+                    # label=c("Kautionsaftale","Lån","100% anparter"),
                     # arrows = c("to"),
-                    smooth = TRUE)
-visNetwork(nodes, edges, width = "80%",main = "Eneanpartshaver stiller kaution overfor banken til sikkerhed for virksomhedens lån") %>% 
+                    smooth = FALSE)
+visNetwork(nodes, edges, width = "80%",main = "Flere kautionister kan kautionere, enten som sam- eller medkautionister.") %>% 
   visNodes(shapeProperties = list(useBorderWithImage = FALSE)) %>%
   visLayout(randomSeed = 2) %>%
 
  visEdges(shadow = TRUE,
            arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
-           color = list(color = "lightgrey", highlight = "red"))
+           color = list(color = "red", highlight = "yellow"))
 ```
 
 
+
+```{r echo=FALSE}
+nodes <- data.frame(id = 1:5, shadow = FALSE,
+                    shape = c("image"),
+                    image = c("https://jura.tepedu.dk/img/piggybank.svg",
+                    "https://jura.tepedu.dk/img/kaution.svg",
+                    "https://jura.tepedu.dk/img/kaution.svg",
+                    "https://jura.tepedu.dk/img/kaution.svg",
+                    "https://jura.tepedu.dk/img/poor.svg"),
+                    label = c("Kreditor","Kautionist 1 50%","Kautionist 2 25%","Kautionist 3 25%","Debitor"),
+                    color = "red",
+                    highlight = "yellow")
   
+edges <- data.frame(from = c(2,3,4,1), to = c(1,1,1,5),
+                    # length = c(100,100,100,130),
+                    label=c("Hæftelse\n500.000","Hæftelse\n250.000","Hæftelse\n250.000","Lån 1 mio"),
+                    # arrows = c("to"),
+                    smooth = FALSE)
+visNetwork(nodes, edges, width = "80%",main = "Pro rata hæftelse.") %>% 
+  visNodes(shapeProperties = list(useBorderWithImage = FALSE)) %>%
+  visLayout(randomSeed = 2) %>%
+
+ visEdges(shadow = TRUE,
+           arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
+           color = list(color = "red", highlight = "yellow"))
+```
   
 
-## Kautionens ophør
-<img src="img/kaution9.png" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+ 
+```{r echo=FALSE}
+nodes <- data.frame(id = 1:4, shadow = FALSE,
+                    shape = c("image"),
+                    image = c("https://jura.tepedu.dk/img/piggybank.svg",
+                    "https://jura.tepedu.dk/img/kaution.svg",
+                    "https://jura.tepedu.dk/img/kaution.svg",
+                    "https://jura.tepedu.dk/img/poor.svg"),
+                    label = c("Kreditor","Hovedkautionist\nEneanpartshaver","Efterkautionist\nÆgtefælle","Debitor\nBank"),
+                    color = "red",
+                    highlight = "yellow")
+  
+edges <- data.frame(from = c(2,3,1), to = c(1,1,4),
+                    # length = c(100,100,100,130),
+                    label=c("Hæftelse 1","Hæftelse 2","Lån"),
+                    # arrows = c("to"),
+                    smooth = FALSE)
+visNetwork(nodes, edges, width = "80%",main = "Efterkaution.") %>% 
+  visNodes(shapeProperties = list(useBorderWithImage = FALSE)) %>%
+  visLayout(randomSeed = 2) %>%
+
+ visEdges(shadow = TRUE,
+           arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
+           color = list(color = "red", highlight = "yellow"))
+``` 
+  
+```{r echo=FALSE}
+nodes <- data.frame(id = 1:4, shadow = FALSE,
+                    shape = c("image"),
+                    image = c("https://jura.tepedu.dk/img/piggybank.svg",
+                    "https://jura.tepedu.dk/img/kaution.svg",
+                    "https://jura.tepedu.dk/img/kaution.svg",
+                    "https://jura.tepedu.dk/img/poor.svg"),
+                    label = c("Kreditor","Hovedkautionist\nEneanpartshaver","Efterkautionist\nÆgtefælle","Debitor\nBank"),
+                    color = "red",
+                    highlight = "yellow")
+  
+edges <- data.frame(from = c(2,3,1), to = c(1,1,4),
+                    # length = c(100,100,100,130),
+                    label=c("Hæftelse 1","Hæftelse 2","Lån"),
+                    # arrows = c("to"),
+                    smooth = FALSE)
+visNetwork(nodes, edges, width = "80%",main = "Efterkaution.") %>% 
+  visNodes(shapeProperties = list(useBorderWithImage = FALSE)) %>%
+  visLayout(randomSeed = 2) %>%
+
+ visEdges(shadow = TRUE,
+           arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
+           color = list(color = "red", highlight = "yellow"))
+``` 
+
+
+### Kautionens ophør
 
 * Kautionen ophører, når gælden bliver betalt eller eftergivet
 * Privat kaution bortfalder efter 5 år eller 10 år, hvis kautionen ikke forlænges
@@ -5932,6 +6008,10 @@ visNetwork(nodes, edges, width = "80%",main = "Eneanpartshaver stiller kaution o
  
 ## Kautionistens krav på låntager
 
+
+  
+<img src="img/kaution9.png" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+  
 * Når kautionisten har betalt kreditor det skyldige beløb, har kautionisten regresret overfor debitor
 * HR: Kautionisten indtræder i kreditors rettigheder også i fx en panteret
   + U1: Kautionisten var klar over, at fordringen var ugyldig på grund af låntagers umyndighed
