@@ -178,7 +178,7 @@ visNetwork(nodes, edges, width = "80%") %>%
 
  visEdges(shadow = TRUE,
            # arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
-           color = list(color = "red", highlight = "yellow"))
+           color = list(color = "lightgrey", highlight = "yellow"))
 ``` 
 
 
@@ -350,14 +350,15 @@ nodes <- data.frame(id = 1:9,
                     level = c(1,2,2,4,4,4,3,4,1),
                     label = c(" Højesteret ","Vestre \n Landsret","Østre \n Landsret","Sø og \n Handelsretten","Tinglysningsretten","Grønlandsdomstolen","Byretterne","Retten\npå Færøerne", " Procesbevillingsnævnet \n Den særlige klageret \n Dommerudnævnelsesrådet \n Bibeskæftigelsesnævnet"),
                     font.size = c(25,18,18,rep(12,6)))
-edges <- data.frame(from = c(1,1,1,1,2,2,2,3,3,3), to = c(2,3,4,6,4,5,7,4,7,8),arrows = c(""),length = rep(75,10),color = "lightgrey")
+edges <- data.frame(from = c(1,1,1,1,2,2,2,3,3,3), to = c(2,3,4,6,4,5,7,4,7,8),arrows = c(""),length = rep(75,10))
 
 visNetwork(nodes, edges, height = "500px", width = "80%",avoidOverlap=2) %>% 
   visNodes(color = list(background = "white", 
                         border = "white",
                         highlight = "yellow"),
            shadow = list(enabled = TRUE, size = 30))  %>%
-  visHierarchicalLayout(direction = "UD",levelSeparation = 100)
+  visHierarchicalLayout(direction = "UD",levelSeparation = 100) %>%
+  visEdges(color = list(color = "lightgrey", highlight = "yellow"))
   #visLayout(randomSeed = 24) # to have always the same network
 
 ```
@@ -448,7 +449,7 @@ nodes <- data.frame(id = 1:6,
                     level = c(1,2,2,2,2,2),
                     label = c("Byrettens afdelinger","Civilretten","Fogedretten","Skifteretten","Boligretten","Kriminalretten"),
                     font.size = c(15,15,15,15,15,15))
-edges <- data.frame(from = c(1,1,1,1,1), to = c(2,3,4,5,6),color="lightgrey")
+edges <- data.frame(from = c(1,1,1,1,1), to = c(2,3,4,5,6))
 
 visNetwork(nodes, edges, width = "80%") %>% 
   visNodes(color = list(background = "white", 
@@ -456,7 +457,8 @@ visNetwork(nodes, edges, width = "80%") %>%
                         highlight = "yellow"),
            shadow = list(enabled = TRUE, size = 30))  %>%
       visHierarchicalLayout(direction = "UD",levelSeparation = 100)  %>%
-      visLayout(randomSeed = 24) # to have always the same network
+      visLayout(randomSeed = 24) %>%
+  visEdges(color = list(color = "lightgrey", highlight = "yellow"))
 
 ```
 
