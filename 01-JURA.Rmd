@@ -5825,7 +5825,7 @@ mydf <- data.frame(
 "Samkaution", 
 "Medkaution", 
 "Efterkaution"),
-  S2 = c("Indhold" ,
+  S2 = c("Definition" ,
   "Kan først gøres gældende, når det er dokumenteret, at 
 debitor ikke kan betale gælden.", 
 "Kan gøres gældende, når debitor misligholder lånet. ",
@@ -6320,6 +6320,68 @@ Kortmisbrug her er, hvor kortholder ikke selv har brugt kortet
  
 
 Efter kortet er spærret er banken ansvarlig for al misbrug af kortholders betalingskort.
+
+<h3>Kautionsoversigt</h3>
+```{r echo=FALSE}
+
+mydf <- data.frame(
+  S1 = c("Hæftelse i kr" ,"0", 
+"0", 
+"375", 
+"Højst 8000", 
+"Ubegrænset"
+),
+  S2 = c("Paragraf" ,
+  "BL S 100, stk. 8",
+"BL S 100, stk. 6",
+"BL S 100, stk. 3",
+"BL S 100, stk. 4",
+"BL S 100, stk. 5"),
+  S3 = c("Hændelse",
+         "Misbrug efter kortet er 
+spærret. ",
+         "Misbrug hvor kortet og 
+          pinkoden er brugt. ",
+         "Hæftelse hvis kortet og 
+      den pinkoden er brugt. Kunden har som minimum har handlet simpelt uagtsomt. ",
+         "Misbrug af kortet, hvor pinkoden har været anvendt samt et af følgende:<br>1. Kunden har ikke oplyst at kortet er   mistet<br>
+          2. Kunden selv har givet en anden kortet<br>
+          3. Kunden har haft en anden groft uforsvarlig adfærd",
+         "Misbrug af kort og pinkode, og kunden selv har udleveret kort og kode til misbrugeren samt at kunden              burde have indset at. der var risiko for misbrug."),
+  S4 = c("Eksempel",
+         "En dame har tabt sit kort og 
+          spærret dette, så snart hun opdagede tabet.<br>Efter kortet blev 
+          spærret blev kortet brugt til 
+          køb på internettet.",
+          "En kunde har mistet sit kort
+          og pinkode, og der er 
+          intet at bebrejde kunden i 
+          forbindelse med tab og misbrug",
+         "En fortravlet mand har glemt sit dankort 
+          i en hæveautomat, inden kortet 
+          bliver spærret bliver det 
+          brugt til betaling i en forretning med den 
+          rigtige pinkode. ",
+         "En cafegæst får stjålet sin pung med både kort og pinkode, fra sin efterladte taske, under toiletbesøg. Kortet misbruges til hævninger og køb for i alt 25.000,- kr.",
+         "En pige låner en ven sit kort og pinkode, til trods for denne tidligere har misbrugt kort. Han fester på barer og diskoteker for 38.000,- kr.")
+)
+names(mydf) <- NULL
+
+mydf %>%
+  kable("html", escape = FALSE) %>%
+  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
+  column_spec(1, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  column_spec(3, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  column_spec(4, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  row_spec(1,italic = T,bold = T,font_size = 12,color = "white", background = "darkgrey")
+  # row_spec(1,italic = T,bold = T,font_size = 12)
+  # column_spec(0, angle = -45)%>%
+  # scroll_box(width = "500px") %>%
+  # footnote(general = "Databeskyttelsesforordningen",general_title = "Kilde:")
+```
+
+
 
 #### Quiz om betalingskort  
 <a href="https://www.forbrug.dk/quiz/betalingskort/?rn=43716" target="_blank">Test din viden i forbrug.dk’s quiz om betalingskort</a>  
