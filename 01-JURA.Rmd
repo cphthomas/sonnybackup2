@@ -194,7 +194,7 @@ visNetwork(nodes, edges, width = "100%") %>%
 ```{r echo=FALSE}
 nodes <- data.frame(id = 1:3, shadow = FALSE,
                     shape = c("image"),
-                    image = c("img/folketing.jpg",
+                    image = c("img/hojesteret.jpg",
                     "https://jura.tepedu.dk/img/man.svg",
                     "https://jura.tepedu.dk/img/man.svg"),
                     label = c("Garant\nBank","Garantirekvirent\nKøber","Beneficiant\nSælger"),
