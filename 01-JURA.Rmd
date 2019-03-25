@@ -4665,9 +4665,14 @@ Ordet ”insolvent”
 * Skifteretten vurderer, om insolvensen er til stede
 * Hvis skyldner selv erklærer sig insolvent, forventes det at være rigtigt
 
- 
 
-Konkurslovens § 17
+#### Video om udlæg og trangsbeneficium
+<div class="video-container"><iframe src="https://www.youtube.com/embed/kxa-lYBFCDk" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br>
+<br>  
+
+
+*Konkurslovens § 17*
 
 
 Der må ved afgørelsen om skyldnerens insolvens og dermed en konkursbehandling tages der hensyn til en række momenter i praksis:
@@ -6722,7 +6727,64 @@ Gældsbrevsdebitor bliver ved betaling til udlægshaver frigjort under samme bet
 <br>
 
 
+### TEST simpleNetwork
 
+```{r echo=FALSE}
+library(networkD3)
+src <- c("A", "A", "A", "A", "B", "B", "C", "C", "D")
+target <- c("B", "C", "D", "J", "E", "F", "G", "H", "I")
+networkData <- data.frame(src, target)
+simpleNetwork(networkData)
+```
+
+
+### TEST forceNetwork
+
+```{r echo=FALSE}
+data(MisLinks)
+data(MisNodes)
+forceNetwork(Links = MisLinks, Nodes = MisNodes, Source = "source",
+             Target = "target", Value = "value", NodeID = "name",
+             Group = "group", opacity = 0.4)
+```
+
+
+#### TEST sankeyNetwork
+
+```{r}
+# library(JSONtoDF)
+# URL <- "https://raw.githubusercontent.com/christophergandrud/d3Network/sankey/JSONdata/energy.json"
+# Energy <- RCurl::getURL(URL, ssl.verifypeer = FALSE)
+# EngLinks <- JSONtoDF(jsonStr = Energy, array = "links")
+# EngNodes <- JSONtoDF(jsonStr = Energy, array = "nodes")
+# sankeyNetwork(Links = EngLinks, Nodes = EngNodes, Source = "source",
+#               Target = "target", Value = "value", NodeID = "name",
+#               fontSize = 12, nodeWidth = 30)
+```
+
+#### TEST diagonalNetwork
+
+```{r echo=FALSE}
+library(rjson)
+Flare <- RCurl::getURL("https://gist.githubusercontent.com/mbostock/4063550/raw/a05a94858375bd0ae023f6950a2b13fac5127637/flare.json")
+Flare <- rjson::fromJSON(Flare)
+diagonalNetwork(List = Flare, fontSize = 10, opacity = 0.9, margin=0)
+```
+
+#### TEST radialNetwork
+
+```{r echo=FALSE}
+Flare <- RCurl::getURL("https://gist.githubusercontent.com/mbostock/4063550/raw/a05a94858375bd0ae023f6950a2b13fac5127637/flare.json")
+Flare <- rjson::fromJSON(Flare)
+radialNetwork(List = Flare, fontSize = 10, opacity = 0.9, margin=0)
+```
+
+#### TEST dendroNetwork
+
+```{r echo=FALSE}
+hc <- hclust(dist(USArrests), "ave")
+dendroNetwork(hc, height = 600)
+```
 
 
 <!-- # Test -->

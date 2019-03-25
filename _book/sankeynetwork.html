@@ -32,8 +32,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-<link rel="prev" href="handel-med-fast-ejendom.html">
-<link rel="next" href="familie-og-arveret.html">
+<link rel="prev" href="simplenetwork.html">
+<link rel="next" href="diagonalnetwork.html">
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
@@ -454,10 +454,14 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li class="chapter" data-level="23" data-path="lovsamling.html"><a href="lovsamling.html"><i class="fa fa-check"></i><b>23</b> Lovsamling</a></li>
 <li class="chapter" data-level="24" data-path="bibliotek.html"><a href="bibliotek.html"><i class="fa fa-check"></i><b>24</b> Bibliotek</a></li>
 <li class="chapter" data-level="25" data-path="materialer.html"><a href="materialer.html"><i class="fa fa-check"></i><b>25</b> Materialer</a></li>
-<li class="chapter" data-level="26" data-path="podcasts.html"><a href="podcasts.html"><i class="fa fa-check"></i><b>26</b> Podcasts</a><ul>
-<li class="chapter" data-level="26.0.1" data-path="podcasts.html"><a href="podcasts.html#test-simplenetwork"><i class="fa fa-check"></i><b>26.0.1</b> TEST simpleNetwork</a></li>
-<li class="chapter" data-level="26.0.2" data-path="podcasts.html"><a href="podcasts.html#test-forcenetwork"><i class="fa fa-check"></i><b>26.0.2</b> TEST forceNetwork</a></li>
+<li class="chapter" data-level="26" data-path="podcasts.html"><a href="podcasts.html"><i class="fa fa-check"></i><b>26</b> Podcasts</a></li>
+<li class="chapter" data-level="27" data-path="simplenetwork.html"><a href="simplenetwork.html"><i class="fa fa-check"></i><b>27</b> simpleNetwork</a><ul>
+<li class="chapter" data-level="27.1" data-path="simplenetwork.html"><a href="simplenetwork.html#forcenetwork"><i class="fa fa-check"></i><b>27.1</b> forceNetwork</a></li>
 </ul></li>
+<li class="chapter" data-level="28" data-path="sankeynetwork.html"><a href="sankeynetwork.html"><i class="fa fa-check"></i><b>28</b> sankeyNetwork</a></li>
+<li class="chapter" data-level="29" data-path="diagonalnetwork.html"><a href="diagonalnetwork.html"><i class="fa fa-check"></i><b>29</b> diagonalNetwork</a></li>
+<li class="chapter" data-level="30" data-path="radialnetwork.html"><a href="radialnetwork.html"><i class="fa fa-check"></i><b>30</b> radialNetwork</a></li>
+<li class="chapter" data-level="31" data-path="dendronetwork.html"><a href="dendronetwork.html"><i class="fa fa-check"></i><b>31</b> dendroNetwork</a></li>
 <li class="divider"></li>
 <li><a href="./">Login</a></li>
 
@@ -478,16 +482,24 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="radgiveransvar-og-god-skik" class="section level1">
-<h1><span class="header-section-number">Kapitel 18</span> Rådgiveransvar og god skik</h1>
+<div id="sankeynetwork" class="section level1">
+<h1><span class="header-section-number">Kapitel 28</span> sankeyNetwork</h1>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb1-1" data-line-number="1"><span class="co"># library(JSONtoDF)</span></a>
+<a class="sourceLine" id="cb1-2" data-line-number="2"><span class="co"># URL &lt;- &quot;https://raw.githubusercontent.com/christophergandrud/d3Network/sankey/JSONdata/energy.json&quot;</span></a>
+<a class="sourceLine" id="cb1-3" data-line-number="3"><span class="co"># Energy &lt;- RCurl::getURL(URL, ssl.verifypeer = FALSE)</span></a>
+<a class="sourceLine" id="cb1-4" data-line-number="4"><span class="co"># EngLinks &lt;- JSONtoDF(jsonStr = Energy, array = &quot;links&quot;)</span></a>
+<a class="sourceLine" id="cb1-5" data-line-number="5"><span class="co"># EngNodes &lt;- JSONtoDF(jsonStr = Energy, array = &quot;nodes&quot;)</span></a>
+<a class="sourceLine" id="cb1-6" data-line-number="6"><span class="co"># sankeyNetwork(Links = EngLinks, Nodes = EngNodes, Source = &quot;source&quot;,</span></a>
+<a class="sourceLine" id="cb1-7" data-line-number="7"><span class="co">#               Target = &quot;target&quot;, Value = &quot;value&quot;, NodeID = &quot;name&quot;,</span></a>
+<a class="sourceLine" id="cb1-8" data-line-number="8"><span class="co">#               fontSize = 12, nodeWidth = 30)</span></a></code></pre></div>
 </div>
             </section>
 
           </div>
         </div>
       </div>
-<a href="handel-med-fast-ejendom.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="familie-og-arveret.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="simplenetwork.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="diagonalnetwork.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
