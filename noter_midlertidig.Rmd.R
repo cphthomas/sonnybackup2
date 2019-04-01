@@ -1,3 +1,29 @@
+<img src="img/football.png" align="right" width="10%" height="10%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+  <img src="img/over1.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+    <h3><a href="https://quiz.tepedu.dk/juraerstatning" target="_blank">Quiz Erstatning</a></h3>
+      <a href="https://www.forbrug.dk/quiz/ehandelsquizzen/?rn=43716" target="_blank">Tag quizzen fra forbrug.dk, og få svar.</a>
+
+
+
+        <div class="video-container"><iframe src="https://www.youtube.com/embed/1q0K01SQavk" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+          ![](img/mf1.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 ``r tippy("GBL", size="large" ,interactive = TRUE, arrow = TRUE, tooltip = "<h4>Legitimationsvirkningen indtræder derfor, når udlægshaver meddeler gældsbrevsdebitor, at betaling med frigørende virkning kun kan ske til udlægshaveren.
 <br>
 <br>
@@ -10,19 +36,7 @@
 Gældsbrevsdebitor bliver ved betaling til udlægshaver frigjort under samme betingelser som ved betaling efter overdragelse af et gældsbrev. Se RPL § 524.</h4>")``
 
 
-<img src="img/football.png" align="right" width="10%" height="10%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-<img src="img/over1.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
-  <h3><a href="https://quiz.tepedu.dk/juraerstatning" target="_blank">Quiz Erstatning</a></h3>
-    <a href="https://www.forbrug.dk/quiz/ehandelsquizzen/?rn=43716" target="_blank">Tag quizzen fra forbrug.dk, og få svar.</a>
-
-
-
-      <div class="video-container"><iframe src="https://www.youtube.com/embed/1q0K01SQavk" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
-
-      ![](img/mf1.png)
 
 
     <h3>Hvordan må man opsamle og behandle personoplysninger?</h3>
@@ -54,6 +68,8 @@ Gældsbrevsdebitor bliver ved betaling til udlægshaver frigjort under samme bet
 )
 names(mydf) <- NULL
 
+
+
 mydf %>%
   kable("html", escape = FALSE) %>%
   kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
@@ -65,6 +81,10 @@ mydf %>%
   # scroll_box(width = "500px") %>%
   footnote(general = "Datatilsynet",general_title = "Kilde:")
 ```
+
+
+
+
 
 
 <!-- # Test -->

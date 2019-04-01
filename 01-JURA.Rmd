@@ -4476,6 +4476,10 @@ Lovgivning: Lov om visse erhvervsdrivende virksomheder (Lovbekendtgørelse nr. 1
 
 ### ApS og A/S (kapitalselskaber)
 
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/XIQuq979kfg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>  
+
+
 Efter selskabsloven, § 1, stk. 1, jf. Lovbekendtgørelse nr. 1089 af 14. september 2015 om aktie- og anpartsselskaber, finder loven anvendelse alle aktieselskaber og anpartsselskaber (kapitalselskaber). Det omfatter Bestemmelsen i § 1, stk. 1 angiver selskabslovens anvendelsesområde.
 Ikke blot A/S’er og ApS’er, men også partnerselskaber (P/S’er), jf. kapitel 22, er omfattet af begrebet kapitalselskaber. 
 Andelsselskabet (AMBA’et) er ikke omfattet af selskabsloven. Den tidligere definition i selskabsloven er udgået og definitionen findes nu i lov om erhvervsdrivende virksomheder § 4. 
@@ -6280,6 +6284,10 @@ Som eksempler på fordringer kan nævnes:
 * lån af penge
 * koncerninterne skattekrav, fx et datterselskabs tilgodehavende hos administrationsselskabet i form af ikke-betalt skatteværdi af et udnyttet underskud  
 
+<div class="video-container"><iframe src="https://www.youtube.com/embed/W8DnSJmntmY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>  '
+  
+  
+
 *Hvad er et gældsbrev?*  
  
 Principperne i gældsbrevsloven finder anvendelse både for gældsbreve og simple fordringer, jf. (Lovbekendtgørelse nr. 333 af 31. marts 2014 om gældsbreve; forkortet her ”GBL”). Denne lov indeholder ikke nogen direkte definition af begrebet ”gældsbrev”. 
@@ -7238,9 +7246,9 @@ En aftaleerhverver (ikke kreditor) kan fortrænge en tidligere indsigelse hvis:
 
 
 
-``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))``
+<!-- ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` -->
 
-``r tippy(indeks[2,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[2,2],"</h4>"))``
+<!-- ``r tippy(indeks[2,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[2,2],"</h4>"))`` -->
 
 
 
