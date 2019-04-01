@@ -3,6 +3,7 @@ output:
   html_document: 
     css: style.css
     df_print: kable
+   
     
 ---
 
@@ -11,7 +12,30 @@ output:
 ```{r start,echo=FALSE,warning=FALSE,include=FALSE}
 #pacman autoload evt. manglende pakker
 if (!require("pacman")) install.packages("pacman")
-pacman::p_load(timeDate, DT,plotly,rio,exams,e1071,WriteXLS,maps,knitr,kableExtra,ggplot2,openxlsx,quantmod,highcharter,forecast,networkD3,DiagrammeR,visNetwork) #load various packages
+pacman::p_load(timeDate, DT,plotly,rio,exams,e1071,WriteXLS,maps,knitr,kableExtra,ggplot2,openxlsx,quantmod,highcharter,forecast,networkD3,DiagrammeR,visNetwork,tippy) #load various packages
+```
+
+```{r echo=FALSE}
+
+BEGREB <- c(
+          "Grundloven",
+          "Tinglysningsloven",
+          "Aftaleloven"
+          
+          
+          
+          )
+forklaring <- c(
+  "Grundloven beskriver bl.a. den enkelte borgers rettigheder og pligter, du kan se den her:<br><br><a href=\"https://www.retsinformation.dk/Forms/R0710.aspx?id=45902\" style=\"color:#66FF66\" target=\"_blank\">Grundloven</a>",
+  "Tinglysningsloven indeholder reglerne for den offentlige registrering af rettigheder over fast ejendom  <br><br><a href=\"https://www.retsinformation.dk/Forms/R0710.aspx?id=142900\" style=\"color:#66FF66\" target=\"_blank\">Tinglysningsloven</a>",
+  "Aftaleloven"
+  
+  
+  )
+  
+indeks <<- data.frame(BEGREB,forklaring)
+  
+
 ```
 
 
@@ -125,7 +149,7 @@ pacman::p_load(timeDate, DT,plotly,rio,exams,e1071,WriteXLS,maps,knitr,kableExtr
 <img src="img/grundloven.jpg" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
-Af de mere end 1.300 love, vi har i Danmark, er der én lov, en retskilde, der er hævet over alle de andre, nemlig grundloven.  Grundloven er Danmarks forfatning, dvs. den lov, der beskriver de grundlæggende regler for samfundet. I Danmark fejrer man hvert år grundlovens fødselsdag 5. juni. Men hvordan blev grundloven egentlig indført?
+Af de mere end 1.300 love, vi har i Danmark, er der én lov, en retskilde, der er hævet over alle de andre, nemlig grundloven.  ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` er Danmarks forfatning, dvs. den lov, der beskriver de grundlæggende regler for samfundet. I Danmark fejrer man hvert år grundlovens fødselsdag 5. juni. Men hvordan blev grundloven egentlig indført?
 Fra 1660 til 1848 havde Danmark enevælde og i 1700-tallet begyndte modstanden mod enevældet at ulme rundt om i Europa. 
 Befolkningerne stillede krav om, at folket skulle være med til at bestemme, hvordan deres land skulle styres, og flere steder blev monarkiet væltet og erstattet af en republik.
 Efterhånden som den internationale udvikling tog fart, erkendte Kong Christian den 8., at Danmark også måtte have en fri forfatning. Da han døde, gjorde hans søn, Frederik den 7., arbejdet med forfatningen færdig.  
@@ -141,13 +165,13 @@ Efterhånden som den internationale udvikling tog fart, erkendte Kong Christian 
 
 
 ## Rettigheder og pligter
-Grundloven beskriver bl.a. den enkelte borgers rettigheder og pligter, f.eks. at der er ytringsfrihed, religionsfrihed og værnepligt. I grundloven står der også, at den øverste magt i Danmark skal deles mellem den lovgivende, den udøvende og den dømmende magt.
+``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` beskriver bl.a. den enkelte borgers rettigheder og pligter, f.eks. at der er ytringsfrihed, religionsfrihed og værnepligt. I grundloven står der også, at den øverste magt i Danmark skal deles mellem den lovgivende, den udøvende og den dømmende magt.
 I grundloven kan du læse om magtens fordeling i samfundet. Om Folketinget som den demokratisk valgte forsamling, der vedtager love, der gælder for os alle. Om regeringen, der skal sikre, at lovene bliver overholdt af os borgere og af de myndigheder, der skal sørge for, at vi for eksempel har gode skoler, sygehuse og biblioteker. Om domstolene, der er uafhængige af regering og Folketing, fordi de skal dømme i konflikter mellem borgerne indbyrdes og mellem myndigheder og borgere.
 
-Grundloven handler også om de rettigheder, du har som borger. Vi kalder dem friheds- eller menneskerettigheder.
-Den ene slags frihedsrettigheder er ytringsfriheden, retten til at forsamles og demonstrere for dine synspunkter og retten til at oprette foreninger og til at være medlem af en forening. Grundloven sikrer også, at du har ret til at være medlem af et politisk parti og være politisk aktiv – også selv om det går imod regeringens eller flertallets synspunkter. Disse rettigheder skal sikre, at demokratiet kan fungere. Grundlovens regler om folkeafstemninger og valg til Folketinget ville for eksempel ikke være meget værd, hvis vi ikke havde ret til at diskutere politiske spørgsmål og sige vores mening.
-Den anden slags frihedsrettigheder er reglerne om den personlige frihed og om ejendomsretten og boligens ukrænkelighed. Disse regler skal først og fremmest beskytte borgerne mod overgreb fra statsmagten. Hvis du bliver anholdt af politiet, har du for eksempel krav på, at en dommer tager stilling til din sag inden 24 timer. Hvis myndighederne vil undersøge din bolig, dine private papirer eller din pc, skal de som hovedregel have en dommers tilladelse først. – Og hvis myndighederne vil tage dit hus for at rive det ned, fordi der skal bygges en motorvej eller en jernbane hen over grunden, ja så skal du have en erstatning, der svarer til husets og grundens værdi. Grundloven sætter på den måde grænser for, hvordan staten kan blande sig i vores privatliv.
-Grundloven skal sikre stabile rammer om det politiske liv og de politiske kampe om magten. Og grundloven skal sikre, at borgernes rettigheder ikke krænkes. Begge dele sikres ved, at grundloven er mere vanskelig at ændre end andre love. Den danske grundlov er kun blevet ændret få gange, siden den blev vedtaget for mere end 160 år siden. Og sproget i mange af paragrafferne er ikke blevet moderniseret siden. Derfor er der i dette hæfte nogle forklarende kommentarer til de enkelte paragraffer.
+``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` handler også om de rettigheder, du har som borger. Vi kalder dem friheds- eller menneskerettigheder.
+Den ene slags frihedsrettigheder er ytringsfriheden, retten til at forsamles og demonstrere for dine synspunkter og retten til at oprette foreninger og til at være medlem af en forening. ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` sikrer også, at du har ret til at være medlem af et politisk parti og være politisk aktiv – også selv om det går imod regeringens eller flertallets synspunkter. Disse rettigheder skal sikre, at demokratiet kan fungere. Grundlovens regler om folkeafstemninger og valg til Folketinget ville for eksempel ikke være meget værd, hvis vi ikke havde ret til at diskutere politiske spørgsmål og sige vores mening.
+Den anden slags frihedsrettigheder er reglerne om den personlige frihed og om ejendomsretten og boligens ukrænkelighed. Disse regler skal først og fremmest beskytte borgerne mod overgreb fra statsmagten. Hvis du bliver anholdt af politiet, har du for eksempel krav på, at en dommer tager stilling til din sag inden 24 timer. Hvis myndighederne vil undersøge din bolig, dine private papirer eller din pc, skal de som hovedregel have en dommers tilladelse først. – Og hvis myndighederne vil tage dit hus for at rive det ned, fordi der skal bygges en motorvej eller en jernbane hen over grunden, ja så skal du have en erstatning, der svarer til husets og grundens værdi. ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` sætter på den måde grænser for, hvordan staten kan blande sig i vores privatliv.
+``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` skal sikre stabile rammer om det politiske liv og de politiske kampe om magten. Og grundloven skal sikre, at borgernes rettigheder ikke krænkes. Begge dele sikres ved, at grundloven er mere vanskelig at ændre end andre love. Den danske grundlov er kun blevet ændret få gange, siden den blev vedtaget for mere end 160 år siden. Og sproget i mange af paragrafferne er ikke blevet moderniseret siden. Derfor er der i dette hæfte nogle forklarende kommentarer til de enkelte paragraffer.
 
 ## Magtadskillelseslæren i grundlovens § 3
 Grundlovens § 3 har følgende ordlyd: ”Den lovgivende magt er hos kongen og Folketinget i forening. Den udøvende magt er hos kongen. Den dømmende magt er hos domstolene”.
@@ -201,7 +225,7 @@ I 1999 fastslog Højesteret, jf. U 1999.841 H, at den såkaldte Tvindlov var i s
 ## Folketinget som den lovgivende magt
 Folketinget er Danmarks parlament. Her vedtages al lovgivning i Danmark. Folketingets grundlæggende opgaver og nogle af arbejdsformerne er beskrevet i grundloven.  Andre metoder er praksisser, der har udviklet sig gennem de snart 170 år, Folketinget har eksisteret.
 Folketinget er den lovgivende magt. Folketinget og regeringen er de eneste, der kan fremsætte lovforslag, dvs. komme med forslag til nye love og lovændringer. Den lovgivende magt er Folketinget og regering, men det er kun Folketinget, der kan vedtage lovforslag.
-Grundloven beskriver fordelingen af magten mellem Folketinget (lovgivende), regeringen (udøvende og lovgivende) og domstolene (dømmende), også kaldet magtens tredeling. Magten i samfundet er delt i 3 for at forhindre, at der sker magtmisbrug.  
+``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` beskriver fordelingen af magten mellem Folketinget (lovgivende), regeringen (udøvende og lovgivende) og domstolene (dømmende), også kaldet magtens tredeling. Magten i samfundet er delt i 3 for at forhindre, at der sker magtmisbrug.  
 
 ### Parlamentarisk kontrol og lovgivning i Folketinget
 Folketinget har 3 hovedopgaver:
@@ -265,7 +289,7 @@ Statsministeren er regeringens chef og den der bestemmer, hvem der skal være mi
 ![](img/folketinget6.png)
 
 
-Grundloven giver dronningen magt til at udpege statsministeren og de øvrige ministre. Men i praksis er det et flertal i Folketinget, der er afgørende for, hvem der skal være statsminister. Statsministeren sætter så sit ministerhold og danner sin regering.
+``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` giver dronningen magt til at udpege statsministeren og de øvrige ministre. Men i praksis er det et flertal i Folketinget, der er afgørende for, hvem der skal være statsminister. Statsministeren sætter så sit ministerhold og danner sin regering.
  
 ### Statsministeren vælges og nedsætter sin regering
 Folketingsvalg skal afholdes mindst én gang hvert 4. år. Det står i grundloven. Statsministeren kan dog til enhver tid udskrive folketingsvalg, så der kan sagtens gå mindre end 4 år mellem hvert valg.
@@ -363,7 +387,7 @@ visNetwork(nodes, edges, height = "500px", width = "80%",avoidOverlap=2) %>%
   #visLayout(randomSeed = 24) # to have always the same network
 
 ```
-Uafhængige domstole er en grundlæggende del af magtens tredeling i et demokrati. Sådan er det også i Danmark. Grundloven siger nemlig, at domstolene alene har den dømmende magt.
+Uafhængige domstole er en grundlæggende del af magtens tredeling i et demokrati. Sådan er det også i Danmark. ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` siger nemlig, at domstolene alene har den dømmende magt.
 
  
 
@@ -376,7 +400,7 @@ Uafhængige domstole er en grundlæggende del af magtens tredeling i et demokrat
 Domstolene er den dømmende magt i Danmark. De afgør, om personer har overtrådt landets love, og afgør uoverensstemmelser mellem to parter i civile sager.
  
 Alle har ret til en retfærdig rettergang. Det står i den europæiske menneskerettighedskonvention. Det betyder bl.a., at en retssag skal afgøres inden for en rimelig tidsperiode og ved en domstol, der er uafhængig og upartisk.  
-Domstolenes uafhængighed er bestemt i den danske grundlov. Grundloven deler nemlig magten i tre for at forhindre magtmisbrug, jf. grundlovens § 3:
+Domstolenes uafhængighed er bestemt i den danske grundlov. ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` deler nemlig magten i tre for at forhindre magtmisbrug, jf. ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))``s § 3:
 
 *	den lovgivende magt (Folketinget og regeringen)
 *	den udøvende magt (regeringen)
@@ -401,7 +425,7 @@ Danmark har én højesteret. Den ligger ved Christiansborg Slot i København. H�
 Højesteret er en appeldomstol, som behandler domme og kendelser, der er afsagt af Østre Landsret, Vestre Landsret eller Sø- og Handelsretten. Man kan altså ikke anlægge sag direkte ved Højesteret.
 Højesteret behandler både civile sager og straffesager og fungerer som tredje instans i skifte-, foged- og tinglysningssager. Ved Højesteret behandles også sager, som Procesbevillingsnævnet har tilladt indbragt for retten. Det drejer sig om sager af særlig principiel betydning, f.eks. sager, som kan have betydning for afgørelse af en række andre sager, eller om sager af særlig samfundsmæssig interesse.
 I straffesager kan Højesteret ikke tage stilling til skyldsspørgsmålet.
-Særlige forvaltnings- eller forfatningsdomstole anvender man i mange andre EU-lande. Det gør man ikke i Danmark. Her er det de almindelige domstole – i praksis Højesteret – der undersøger, om de afgørelser, myndighederne træffer, er lovlige, eller om en lov er i strid med grundloven.
+Særlige forvaltnings- eller forfatningsdomstole anvender man i mange andre EU-lande. Det gør man ikke i Danmark. Her er det de almindelige domstole – i praksis Højesteret – der undersøger, om de afgørelser, myndighederne træffer, er lovlige, eller om en lov er i strid med ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))``.
 
 ### Landsretterne
 
@@ -6436,7 +6460,8 @@ Ad. Simple gældsbreve er gældsbreve, som ikke er omsætningsgældsbreve, jf. G
 Ad. Omsætningsgældsbreve, er gældsbreve som beskrevet i GBL § 11, stk. 2, fx hvis det tydeligt fremgår, at det er et omsætningsgældsbrev
 AD. Tinglyste negotiable pantebreve – typisk pantebreve med pant i fast ejendom
 Ad. Tinglyste simple pantebreve – typisk pantebrev med pant i andet end fast ejendom
- 
+  
+
 
 ```{r network,echo=FALSE, result=TRUE}
 
@@ -6567,7 +6592,7 @@ A) Gældsbrevsloven(GBL), hvor det i GBL § 11, stk. 2, fastslås, hvad der er o
 3.	Gældsbreve, der giver pant i registreret skib eller luftfartøj, medmindre der i gældsbrevet er indføjet ordene »ikke til ordre« eller tilsvarende forbehold.
 4.	Gældsbreve, der lyder på betaling til en bestemt person (navnegældsbreve), når de tydeligt angiver, at de skal være omsætningsgældsbreve.
 
-B) Tinglysningsloven (TL), hvor der står, at:  
+B) ``r tippy(indeks[2,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[2,2],"</h4>"))`` (TL), hvor der står, at:  
 1. Et tinglyst pantebrev, bortset fra et skadesløsbrev, der giver pant i fast ejendom, er negotiabelt, medmindre der i pantebrevet er indføjet ordene »ikke til ordre« eller tilsvarende forbehold, jf. TL § 27, stk. 2.
 2. Et tinglyst pantebrev, herunder et ejerpantebrev, der giver pant i motorkøretøjer er ikke negotiabelt, medmindre dette klart fremgår af pantebrevet, jf. TL § 42 c. Skadesløsbreve er ikke negotiable pantebreve, jf. TL § 42g, stk. 3, 2. og 3. pkt.  
 3. Et tinglyst pantebrev, herunder et ejerpantebrev, der giver pant i andele i andelsboligforeninger som nævnt i TL § 42 i, er ikke negotiabelt, medmindre dette klart fremgår af pantebrevet. Skadesløsbreve er ikke negotiable pantebreve: Se TL § 42m, stk. 2, 2. og 3. pkt.  
@@ -6639,18 +6664,494 @@ Gældsbrevsdebitor bliver ved betaling til udlægshaver frigjort under samme bet
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 # Overdragelse af fordringer
+
+
+
+
+
+
+
+ 
+ 
+Hvad er en fordring?
+
+<img src="img/over1.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+En fordring er et krav, som en person eller et selskab (kreditor) har mod en anden part (debitor). En fordring består typisk i et pengebeløb, men den kan også bestå i andet. Den kan fx bestå i, at debitor skylder en arbejdsydelse, eller i at der skal leveres en ting. Et gaveløfte betyder, at man skal give den lovede gave, som fx kan være en ting.  
+
+*Bemærk*
+I relation til retsplejelovens regler er en fordring et krav på betaling af en pengeydelse.
+En lang række af fordringer er baseret på dokumenter i form af pantebreve, fakturaer og kontrakter mv., mens andre krav ikke foreligger i skriftlig form. Fælles for alle fordringer er, at de indeholder et krav om, at debitor skal betale eller give en ting/ydelse. Der er ikke i lovgivningen stillet formkrav til fordringer.
+Efter RPL § 508 skal en fordring kunne identificeres, for at man kan foretage udlæg i den. Det betyder kun, at der er et krav om, at man kan bevise, at fordringen eksisterer, men ikke at den fx foreligger i skriftlig form mv.
+Som eksempler på fordringer kan nævnes:
+
+<img src="img/over2.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+*  obligationer og præmieobligationer
+*  pantebreve i fast ejendom eller løsøre
+*  indeståender i pengeinstitutter
+*  udestående ifølge fakturaer
+*  tilgodehavende ifølge gensidigt bebyrdende kontrakt
+*  tilgodehavender ifølge afregninger
+*  arvekrav
+*  tilgodehavender bestående af gevinster
+*  erstatningskrav for såvel tingsskade som for personskade
+*  lån af penge
+*  koncerninterne skattekrav, fx et datterselskabs tilgodehavende hos administrationsselskabet i form af ikke-betalt skatteværdi af et udnyttet underskud
+
+
+
+<img src="img/over3.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+
+#### Video Hvordan laver jeg et gældsbrev?
+<div class="video-container"><iframe src="https://www.youtube.com/embed/8ufuecp-wXA" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+#### Video Opret et gældsbrev online
+<div class="video-container"><iframe src="https://www.youtube.com/embed/J88adaVemVQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+#### Video Sådan laver du en låneaftale
+<div class="video-container"><iframe src="https://www.youtube.com/embed/PPqd-fYRCg0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+
+## Skyldners indsigelser over for den oprindelige kreditor (A-B)
+
+ 
+
+*Lovbekendtgørelse nr. 333 af 31. marts 2014 om gældsbreve*  
+
+*  Skyldner kan gøre alle indsigelser gældende overfor oprindelig kreditor, jf. GBL § 1. Skyldneren bevarer dermed over for kreditor indsigelser om mangler, manglende levering eller ugyldighed mv. i det retsforhold, som gav anledning til gældsbrevets udstedelse. Skyldneren bevarer også den indsigelse, at han ikke har modtaget det lån, som skulle tilbagebetales med det beløb, som gældsbrevet lyder på.  
+
+Fx følgende indsigelser over for kreditor bevares:
+–	Indsigelse efter aftaleloven – ugyldighedsgrunde, fx svig
+–	Indsigelse om mangler efter købeloven, jf. KBL §§ 76 og 75a
+
+Det har ikke betydning om kravet er en simpel fordring, et gældsbrev eller et pantebrev
+
+*  Skyldnerens indsigelsen over for kreditor kan betyde, at skyldner skal betale mindre end der står i gældsbrevet eller måske slet ingenting
+ 
+### Forholdet mellem overdrager og erhverver (B-C)
+ 
+ 
+
+Juridisk karakteriseret som *”det efterfølgende trepartsforhold”*   
+Hvad er et efterfølgende trepartsforhold?  
+	
+Begrebet efterfølgende trepartsforhold omfatter de tilfælde, hvor den oprindelige kreditgivers rettigheder i henhold til kreditaftalen tiltransporteres en tredjemand. Begrebet er en kreditaftaleretlig term, der dækker over begreber som factoring, kontraktbelåning, kontraktsdiscontering o.lign. Begrebets materielle indhold er reguleret ved reglerne om personskifte i skyldforhold, herunder navnlig reglerne om kreditorskifte. Mens det oprindelige trepartsforhold er kendetegnet ved, at tredjemanden finansierer forbrugeren, er det efterfølgende trepartsforhold kendetegnet ved, at tredjemanden finansierer sælgeren.
+Forholdet mellem forbrugeren i et kreditkøb og tredjemanden i det efterfølgende trepartsforhold reguleres dels ved de almindelige regler om kreditorskifte i skyldforhold, dels ved kreditaftalelovens §§ 31-33. Forholdet mellem sælgeren/kreditgiveren i det oprindelige trepartsforhold og tredjemanden i det efterfølgende trepartsforhold er navnlig, men ikke kun, reguleret ved gældsbrevslovens §§ 9 og 10 og ved gældsbrevslovens §§ 29-31 samt den righoldige retspraksis, der foreligger vedrørende factoring, fakturabelåning og selskabsopsplitning mv. For en nærmere gennemgang af det oprindelige trepartsforhold, jf. kreditaftalelovens § 4, nr. 15, 2. pkt. og det efterfølgende trepartsforhold, [se kapitel 5 i min bog Forbrugerretten II, den civilretlige forbrugerbeskyttelse:](https://shop.karnovgroup.dk/products/forbrugerretten-ii-5-udgave)  
+
+ 
+*  Fordringer kan overdrages til en anden kreditor (sælges eller pantsættes) som andre aktiver
+*  Fx kan købekontrakt med gyldigt ejendomsforbehold sælges til en anden kreditor (erhverver):
+ 
+
+1. Kunden (skyldneren) køber en bil og underskriver købekontrakt til bilsælgeren (overdrageren)
+2. Bilsælgeren (overdrageren) sælger købekontrakten til et finansieringsselskab (erhververen)
+3. Kunden (skyldneren) skal nu betale til finansieringsselskabet (erhververen), som har købt købekontrakten af bilsælgeren (overdrageren)
+4. Overdrager (bilsælgeren) indestår for, at fordringen består jf. GBL § 9. Bestemmelsen er gældsbrevslovens regel om overdragerens objektive ansvar for, at fordringen består, dvs. »nomen esse verum«. Det objektive ansvar gælder ikke når manglende betaling skyldes debitors manglende betalingsevne, dvs. »nomen esse bonum«, jf. GBL § 10.
+
+
+#### Video Slå op i Bilbogen
+<div class="video-container"><iframe src="https://www.youtube.com/embed/jS9HN8OxvgI" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+Speak23
+	
+
+*  Overdrager (bilsælgeren) indestår således ikke for skyldners (bilkøberens) betalingsevne fremover jf. GBL § 10
+
+Speak 23
+ 
+### Betalingslegitimation
+
+Hvad er en *”betalingslegitimation”* også kaldet legitimationsvirkningen?  
+Den korte forklaring: Hvem kan skyldner betale til med frigørende virkning, når fordringen er overdraget – eller udtrykt på en anden måde: Debitor kan med frigørende virkning betale til den person som har betalingslegitimation. Som udgangspunkt frigøres debitor ved betaling i god tro, til den der er berettiget efter GBL § 13, jf. GBL § 19.  
+
+Hvem kan skyldner betale til med frigørende virkning, når fordringen er overdraget?  
+
+Betaler skyldner ikke med frigørende virkning, kan han risikere at skulle betale igen  
+
+-	svaret afhænger af, hvilket type kravet er.  
+ 
+### Skyldners indsigelser overfor erhverver af fordringen (A-C)
+
+Hvad sker der med skyldners indsigelser, når kreditor har overdraget fordringen til erhverver?
+
+Skyldner kan gøre alle indsigelser gældende over for kreditor – men ikke, når kreditor har overdraget kravet til en erhverver
+
+-	Løsningen afhænger af, hvilken type krav, der er tale om, se nedenfor
+ 
+### Konflikter mellem senere erhververe (C-D)
+Når en fordring overdrages flere gange kan der opstå konflikter mellem de forskellige erhververe  
+–	Kædeoverdragelse  
+
+*  Fx hvis der er en indsigelse om svig i den tidligere overdragelse, så den sælger, man har købt fordringen af, ikke rigtigt ejede den
+–	Dobbeltoverdragelse
+*  Fx hvis den samme fordring er overdraget to gange til forskellige erhververe
+
+Løsningen afhænger af, hvilken type krav der er tale om, se nedenfor  
+ 
+## Hvordan løses konflikterne med de forskellige fordringer
+
+Løsningen af de forskellige konflikter løses forskelligt afhængigt af fordringens type, der skelnes mellem:  
+
+*  Simple fordringer/simple gældsbreve
+*  Omsætningsgældsbreve
+*  Simple pantebreve
+*  Omsætningspantebreve
+
+Gældsbreve, der ikke er omsætningsgældsbreve er simple gældsbreve.  
+Læs og hør mere om de enkelte typer af fordringer i kapitel 13.  
+ 
+### Simple fordringer og simple gældsbreve
+
+*  Simple fordringer og simple gældsbreve behandles ens efter reglerne i gældsbrevsloven om simple gældsbreve, jf. reglerne i kap. 3 i gældsbrevsloven, som omhandler gældsbreve, der ikke er omsætningspapirer. Disse regler kan således anvendes analogt på fordringer, for hvilke der ikke er udstedt gældsbrev (såkaldte simple fordringer)
+*  Overdragelse af fordringer kan ske til eje eller pant
+–	Fakturabelåning er ofte overdragelse af enkelte (større) fordringer til en bank (Se figur 14.5)
+
+ 
+–	Den korte forklaring: Factoring er typisk overdragelse af alle virksomhedens krav til et finansieringsselskab
+–	Den lange forklaring: Factoring, er en aftale, der går ud på, at en virksomhed mod betaling overlader sine kortfristede fordringer til en anden, som derefter inddriver fordringerne. Aftalen kan enten gå ud på, at factoringselskabet yder virksomheden et lån med sikkerhed i de nævnte tilgodehavender, såkaldt fakturabelåning, eller at factoringselskabet køber virksomhedens debitorportefølje og betaler et beløb til fuld og endelig afgørelse.
+
+
+
+
+
+
+ 
+ 
+*  Factoring kan have forskellige formål:
+  +	Administration af debitorportefølje, kundebogholderi mv.
+  +	Inddrivelse af fordringer, der ikke bliver betalt til tiden – inkasso
+  +	Forsikring eller risikoafdækning, hvis det er aftalt, at factoringselskabet skal have risikoen for, om kunderne betaler
+  +	Likviditet; factoringselskabet stiller likviditet til rådighed mod at få sikkerhed i fordringer eller ved at købe fordringerne
+ 
+### Betalingslegitimation
+
+*  Betaling til overdrager GBL § 29, så længe skyldner er i god tro. Skyldneren frigøres uanset overdragelsen af det simple gældsbrev eller den simple fordring ved betaling til overdrageren. Det gælder dog ikke, hvis skyldneren vidste, at overdrageren ikke længere havde ret til at modtage betalingen, eller hvis skyldneren ikke har udvist den agtpågivenhed, som forholdene krævede. GBL § 29 er udtryk for den naturlige retsstilling, at den, der skylder penge til en anden, skal kunne betale med frigørende virkning til denne. Det samme gælder omvendt, at den der skylder penge til en person ikke kan betale med frigørende virkning til en anden. Reglen indeholder dog en modifikation, da skyldner ikke bliver frigjort, når han betaler til den oprindelige kreditor, hvis skyldneren vidste, at overdrageren ikke længere havde ret til at modtaget betalingen, eller hvis skyldneren ikke har udvist den agtpågivenhed, som forholdene krævede.
+	Eksempel:	Hvis en person, der er legitimeret som fordringshaver, overdrager en simpel fordring til først A og dernæst B, og fordringsskyldneren ikke har kendskab og ikke burde have kendskab til overdragelsen til A, men derimod først får meddelelse om overdragelsen fra B, frigøres fordringsskyldneren ved betaling til B, selv om fordringen i virkeligheden tilkom A, fordi B var i ond tro, da han gav underretningen til fordringsskyldneren. Se GBL § 31, stk. 2.
+*  Overdrager og erhverver skal denuntiere (give meddelelse) til skyldner, GBL § 31
+*  Betaling til erhverver er med frigørende virkning medmindre der er en stærk ugyldighedsgrund mellem overdrager og erhverver, jf. GBL § 30 (se nedenfor fig. 14.7)
+*  Gælder både ordinære og ekstraordinære afdrag
+*  Hvis skyldneren ikke ved, til hvem fordringen er overdraget eller ikke har modtaget betryggende meddelelse herom, men han dog ikke kan betale til den tidligere kreditor, kan han frigøre sig ved at deponere efter Lovbekendtgørelse nr. 339 af 2. februar 2014 om skyldneres ret til at frigøre sig ved deponering (deponeringsloven)
+ 
+ 
+### Skyldners indsigelser (A-C)
+
+Hvad sker der med skyldners indsigelser, når kreditor har overdraget fordringen til erhverver?
+
+*  Erhververen får som hovedregel ikke større ret end overdrageren havde, dvs. der indtræder ikke ekstinktion (udslettelse) af indsigelser eller rettigheder
+*  Skyldner kan gøre samme indsigelser gældende overfor erhverver, som han eller hun kunne gøre gældende over for kreditor (overdrageren), jf. GBL § 27 (Se fig. 14.8)
+*  Grundlæggende er formålet med reglerne om overdragelse af simple fordringer at undgå, at skylderens byrde øges ved overdragelse. Dette har særligt fundet udtryk i GBL § 27, hvorefter skyldnerens indsigelser mod at være helt eller delvis forpligtet over for kreditor, også kan gøres gældende over for en senere erhverver af fordringen
+*  *»Overdragelse«* omfatter enhver overførelse i levende live. GBL § 27 tager ikke stilling til, om et simpelt gældsbrev kan overdrages. Hovedreglen er, at dette kan ske. Overdragelse kan være afskåret eller begrænset ved aftale mellem skyldneren og kreditor, hvilket i givet fald må respekteres af erhververen.
+*  Når skyldneren har betalt til erhververen, består der ikke længere nogen fordring, som der kan gøres indsigelse imod. Opdager skyldneren eksempelvis efter betaling, at han eller hun kan gøre misligholdelsesbeføjelser gældende i anledning af kontraktsforholdet med overdrageren, kan sådanne misligholdelsesbeføjelser ikke som et pengekrav rettes mod erhververen efter GBL § 27
+*  Med hensyn til skyldnerens indsigelser: Hvis en fordring ikke er blevet gyldig over for den oprindelige kreditor - eller fordringen efter stiftelsen er ændret eller bragt til ophør - bevarer skyldneren indsigelsen herom over for en senere erhverver, selvom denne er i god tro. Typiske indsigelser er f.eks. beføjelser som skyldneren i anledning af mangler eller forsinkelse kan gøre gældende som misligholdelse over for overdrageren (realdebitor), og som han tilsvarende kan gøre gældende over for erhververen som indsigelser mod at betale beløbet (eller en del heraf).
+ 
+*  Skyldner kan kun kræve nedsættelse af gælden over for erhververen ikke fx afhjælpning eller omlevering af den mangelfulde ydelse fra overdrageren
+*  Skyldner kan ikke kræve flere penge tilbage, end erhverver har modtaget, jf. nærmere kreditaftalelovens (KAL) § 33, stk. 3
+
+### Konflikt mellem senere erhververe (B-D eller C-D)
+
+*  	Kædeoverdragelse
+  +	Erhverver ikke bedre ret end overdrager, jf. nærmere den obligationsretlige grundsætning i GBL § 27
+
+ 
+
+ 
+*  	Dobbeltoverdragelse
+HR: Først i tid bedst i ret (uskreven hoveregel i dansk ret)
+ 
+
+ 
+
+U1: En erhverver ifølge aftale kan vinde over en anden aftaleerhververs ret ved at foretage sikringsakt først i god tro.  
+U2: Udlæg får førsteret, når det er foretaget før aftaleerhververens meddelelse er kommet frem  
+U3: Et udlæg i fordringen er beskyttet mod andre kreditorer og aftaleerhververe i et år fra udlæg er foretaget
+Eksempel: Tømrermester Hansen pantsætter en kreditkøbskontrakt til sin bank som sikkerhed for sin kassekredit. Hansen er i pengenød og sætter samme kontrakt til sikkerhed for et køb hos sin leverandør af byggematerialer. Afgørende for, hvem der har sikkerhed i købekontrakten, er, hvem der først denuncierer. Det vil sige hvis denunciation der først kommer frem til debitor.
+
+
+Dobbeltoverdragelse af fordring:  
+I tilfælde af at en fordring bliver overdraget flere gange, er den erhverver, der først meddeler fordringsskyldneren om overdragelsen af fordringen, sikret retten til fordringen. Det er under forudsætning af, at han var i god tro om, at der ikke var andre rettighedshavere ved underretningen til fordringsskyldneren, jf. GBL § 31, stk. 2. Dette gælder, selvom han først fik overdraget fordringen efter, at en anden havde erhvervet fordringen.  
+
+Ved overdragelse af simple gældsbreve eller simple fordringer får erhververen ikke bedre ret end overdrageren, hverken over for gældsbrevets eller fordringens skyldner eller over for en tidligere indehaver af fordringen, jf. GBL § 27. En overdragelse kan derfor ikke føre til, at skyldneren mister sine indsigelser. De indsigelser, skyldneren havde mod overdrageren, kan han også gøre gældende mod erhververen, selv om erhververen var i god tro. Det gælder også, når der er foretaget udlæg i fordringen, jf. GBL § 27.  
+
+### Udlæg i en simple gældsbrev eller den simple fordring 
+Hvis det simple gældsbrev eller den simple fordring er knyttet til et dokument, bør fogeden tage dokumentet i forvaring, jf. RPL § 523, stk. 2. Dette er ikke for at iagttage en sikringsakt, men derimod af hensyn til legitimationsvirkningen hvor fratagelse af rådigheden kan få betydning, jf. RPL § 524.
+
+Sikringsakt ved overdragelse af simpelt gældsbrev eller simpel fordring, herunder sekundære udlæg:
+Den, der får overdraget et simpelt gældsbrev eller en simpel fordring til eje eller pant, skal derimod foretage en sikringsakt for at være beskyttet mod overdragerens retsforfølgende kreditorer. Sikringsakten består i, at fordringsskyldneren får besked om overdragelsen fra overdrageren eller erhververen, jf. GBL § 31, stk. 1.  
+
+## Omsætningsgældsbreve
+
+### Betalingslegitimation
+
+*  Betaling til den, der har gældsbrevet i hænde (besiddelse), jf. her GBL § 13
+*  Skyldner kan betale ordinære afdrag til overdrager, hvis:
+*  Skyldner er i god tro om overdragelse til erhverver og
+*  Afdrag og evt. renter er forfaldne til betaling, jf. her GBL § 20
+*  Skyldner skal betale restgæld og ekstraordinære afdrag til ihændehaveren, jf. her GBL § 19
+*  Skyldner kan kræve gældsbrevet udleveret ved indfrielse af gælden
+*  Skyldner kan kræve at gældsbrevet får en påtegning om ekstraordinære afdrag, jf. her GBL § 21, stk. 3
+
+Den lidt længere forklaring om betalingslegitimation (legitimationsvirkningen) ved omsætningsgældsbreve: 
+Den, der på lovlig vis har fået omsætningsgældsbrevet i hænde, har ret til at gøre fordringen gældende, jf. GBL § 13.
+
+
+
+For tinglyste digitale pantebreve er den, der er berettiget ifølge tingbogen, legitimeret til at gøre fordringen gældende, jf. TL § 27a, stk. 1.   
+
+*  Tilsvarende gælder for bilbogen (TL § 42g, stk. 3, 1. pkt., jf. TL § 27a, stk. 1), 
+*  andelsboligbogen (TL § 42m, stk. 2, 1. pkt, jf. TL § 27a, stk.1) og 
+*  personbogen (TL § 47, stk. 7, 1. pkt., jf. TL § 27a, stk. 1).  
+
+
+Reglen om overdragelse af omsætningsgældsbreve og reglen om legitimationen over for skyldner bygger på GBL § 13, jf. GBL §§ 14 og 19. Når skyldneren betaler til den, der er legitimeret efter GBL § 13, frigøres skyldneren, såfremt skyldneren er i god tro, jf. GBL § 19. Betalingen har frigørende virkning, selv om ihændehaverens inkompetence skyldes, at han ikke har erhvervet ret til omsætningsgældsbrevet, eller at det var overdraget eller gjort til genstand for udlæg. Legitimationen omfatter også andre dispositioner end betaling, fx meddelelse af henstand eller ændring af betalingsvilkårene. Hvad angår tinglyste digitale pantebreve er reglerne de samme, dog med den forskel, at der ikke er krav om, at man har pantebrevet, men derimod, at man har tinglyst det, jf. TL § 27b.  
+
+*  Samme bestemmelse gælder også bilbogen (TL § 42g, stk. 3, 1. pkt.), 
+*  andelsboligbogen (TL § 42m, stk. 2, 1. pkt.) og 
+*  personbogen (TL § 47, stk. 7, 1. pkt.).  
+
+
+For at udlægshaver kan blive legitimeret over for gældsbrevsdebitor, skal han derfor have gældsbrevet i hænde og for de tinglyste digitale pantebreves vedkommende have tinglyst sin ret, jf. RPL § 523, stk. 2 og TL § 27a. Reglen gælder også bilbogen, andelsboligbogen og personbogen.  
+
+
+Hvis et omsætningsgældsbrev er overdraget, men skyldneren har betalt forfaldne renter eller forfaldne, tidsfæstede afdrag til overdrageren, kan han gøre dette gældende over for en senere erhverver af omsætningsgældsbrevet, jf. GBL § 16. Samme regel gælder for de tinglyste digitale pantebreve, jf. TL § 27a, stk. 2, 1. pkt. Udstederen af et gældsbrev bevarer også sine indsigelser om, at gældsbrevet er udstedt under tvang, ved forfalskning m.v., og om at gældsbrevet er ophørt ved forældelse m.v., jf. GBL § 17 og TL § 27a, stk. 2, 2. pkt. Bestemmelserne gælder også bilbogen, andelsboligbogen og personbogen.  
+
+<img src="img/over4.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+Hvis et omsætningsgældsbrev er overdraget, kan skyldneren med frigørende virkning betale forfaldne renter og forfaldne, tidsfæstede afdrag til overdrageren, medmindre skyldneren vidste, at denne ikke længere havde ret til at modtage betaling eller havde grund til mistanke derom, jf. GBL § 20. En tilsvarende regel gælder for de tinglyste digitale pantebreve, jf. TL § 29, stk. 2.  
+
+Legitimationsvirkningen indtræder derfor, når udlægshaver meddeler gældsbrevsdebitor, at betaling med frigørende virkning kun kan ske til udlægshaveren. Udlæg i omsætningsgældsbreve skal derfor altid meddeles over for gældsbrevsdebitor. Dette gælder også for udlæg i de tinglyste digitale pantebreve. Debitor skal anmodes om kvittering for, at han har modtaget underretningen.  
+
+Gældsbrevsdebitor bliver ved betaling til udlægshaver frigjort under samme betingelser som ved betaling efter overdragelse af et gældsbrev, jf. RPL § 524.  
+ 
+### Skyldners indsigelser (A-C)
+
+*  Svage indsigelser går tabt for skyldner, når gældsbrevet er overdraget, jf. GBL § 15 hvis
+(Se nedenfor fig. 14.11) :
+  +	Overdragelsen til erhverver er sket ved gyldig aftale
+  +	Erhverver er i god tro om indsigelsen
+  +	Den gode tro er tilstede på det tidspunkt gældsbrevet bliver overdraget fysisk
+*  Skyldner bevarer stærke indsigelser også overfor en erhverver i god tro, jf. GBL § 17
+
+ 
+ 
+### Konflikt mellem senere erhververe (B-D eller C-D)
+
+*  Kædeoverdragelse, jf. GBL § 14 (se nedenfor fig. 14.12)
+En aftaleerhverver (ikke retsforfølgende kreditor) kan fortrænge en tidligere indsigelse, hvis aftaleerhverver:
+  +	Er i god tro om indsigelsen
+  +	Har fået gældsbrevet udleveret
+  +	Har en berettiget forventning om at overdragelsen er gyldig
+
+En aftaleerhververs ret til et omsætningsgældsbrev kan således ikke anfægtes af andre, hvis aftaleerhververen har fået gældsbrevet i hænde og er i god tro om overdragerens ret, jf. her GBL § 14.
+Sikringsakten over for aftaleerhververe er derfor rådighedsberøvelse, hvad angår disse gældsbreve. Det vil sige, at man ved udlæg i disse omsætningsgældsbreve efter RPL § 523, stk. 2, altid skal tage gældsbrevet i forvaring.
+Et udlæg i fordringer, herunder omsætningsgældsbreve, er beskyttet over for andre retsforfølgende kreditorer straks fra dets foretagelse. Udlægshaver skal derfor ikke foretage nogen særlig sikringsakt i forhold til andre kreditorer, jf. RPL § 526, stk. 1 og 2.
+
+ 
+
+
+
+
+
+
+*  Dobbeltoverdragelse, jf. GBL §14 ved salg samt GBL § 22 ved pant
+
+<img src="img/over5.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+HR: Først i tid bedst i ret.  
+U1: En aftaleerhverver kan vinde over en andens ret ved at foretage sikringsakten først i god tro.  
+U2: Et udlæg i gældsbrevet er beskyttet mod andre kreditorer fra udlægget er foretaget.    
+
+ 
+ 
+
+En lidt længere forklaring om GBL § 14:   
+En aftaleerhververs ret til et omsætningsgældsbrev kan ikke anfægtes af andre, hvis aftaleerhververen har fået gældsbrevet i hænde og er i god tro om overdragerens ret, jf. GBL § 14.  
+
+Bestemmelsen i GBL § 14 indeholder regler om eksstinktion af rettigheder ved overdragelse af et omsætningsgældsbrev til en godtroende erhverver og omfatter alle former for omsætningsgældsbreve. Om eksstinktion af indsigelser henvises til GBL §§ 15-17.  
+
+En erhverver af et omsætningsgældsbrev, som afleder ret fra en legitimeret overdrager, opnår – på visse betingelser - ret til gældsbrevet, selv om overdrageren var materielt uberettiget til at råde herover, jf. GBL § 14.  
+
+Reglen i GBL § 14 gælder, uanset af hvilken grund gældsbrevet er kommet bort fra dets virkelige ejer. Det kan eksempelvis tænkes, at gældsbrevet er blevet stjålet fra ejeren og forsynet med en falsk transportpåtegning, hvorefter det er bragt i omsætning.  
+
+Der antages normalt at gælde fem betingelser for ekstinktion af rettigheder i medfør af GBL § 14:  
+
+Det er for det første en betingelse, at overdragelsen er sket i levende live ad omsætningsvejen, dvs. ved aftale (herunder ved gaveaftale). Der sker derimod ikke ekstinktion til fordel for en arving eller en retsforfølgende kreditor. Der kan heller ikke ske ekstinktion ved, at omsætningsgældsbrevet erhverves ved subrogation (en anden part indtræder i et eksisterende retsforhold).  
+
+Det er for det andet en betingelse, at overdragelsen er gyldig. Er gældsbrevet stjålet fra A og af tyven B overdraget til C, vinder C altså kun ret, hvis aftalen mellem ham og B er gyldig. A er altså ikke afhængig af, at B (evt. dennes konkursbo) gør ugyldigheden gældende. A kan i et sådant tilfælde i kraft af den såkaldte genvejsregel rette et vindikationskrav direkte mod C. Dog hindrer det ikke erhververens ret, at overdrageren var umyndig, hvis erhververen var i god tro om umyndigheden.  
+
+Det er for det tredje en betingelse, at erhververen selv har fået gældsbrevet i hænde. § 14 må dog forstås således, at det er tilstrækkeligt, at gældsbrevet overgives til en tredjemand, der besidder det på erhververens vegne.   
+
+Det er for det fjerde en betingelse, at erhververen er i god tro, når han får gældsbrevet i hænde. Dette er i § 14 udtrykt således, at erhververen vinder ret, medmindre han vidste, at overdrageren manglede ret til at råde over gældsbrevet, eller han ikke har udvist den agtpågivenhed, som forholdene krævede. I almindelighed kan det forlanges, at erhververen foretager en undersøgelse af selve gældsbrevet. Den, der vil bestride erhververens ret, må bevise, at erhververen ikke har udvist den fornødne agtpågivenhed.  
+
+Det er for det femte en betingelse, at omsætningsgældsbrevet erhverves fra en legitimeret person. Ved ihændehavergældsbreve er overdrageren legitimeret, blot han sad inde med gældsbrevet, jf. GBL § 14, stk. 1. Ved andre omsætningsgældsbreve skal overdrageren ifølge GBL § 14, stk. 2, være legitimeret ifølge GBL § 13, dvs. at gældsbrevet skal være udstedt til overdrageren, eller at overdrageren skal være legitimeret ved skriftlige overdragelser, der fremtræder som en sammenhængende række.  
+
+Bestemmelsen kan medføre ekstinktion af enhver ret over et omsætningsgældsbrev. Ikke blot en ejendomsret, men også en panteret eller et udlæg, kan fortrænges, hvis erhververen opfylder ekstinktionsbetingelserne. Er ejeren af et omsætningsgældsbrev gået konkurs, må dokumentet fratages ham. Sker dette ikke, og råder fallenten over gældsbrevet på en måde, som opfylder ekstinktionsbetingelserne, vinder en godtroende erhverver ret til gældsbrevet, jf. således konkurslovens § 30, stk. 2. Dette gælder, selv om konkursen er bekendtgjort, jf. konkurslovens § 30, stk. 1. Er en ret til omsætningsgældsbrevet ekstingveret af en godtroende aftaleerhverver, vågner retten ikke op igen, fordi gældsbrevet senere overdrages til en erhverver, som kendte eller burde kende den ekstingverede ret. Dette almindelige princip er begrundet i hensynet til den godtroende erhverver, som har ekstingveret retten, og som derfor ikke skal tåle nogen indskrænkning i sine muligheder for at omsætte gældsbrevet.  
+
+Selv om GBL § 14's betingelser ikke er opfyldt, må man være opmærksom på, at erhververen altid får den ret, som overdrageren havde, og som han naturligvis kan videregive.  
+
+ 
+
+
+
+
+
+
+
+## Simple pantebreve
+
+Ved tinglyste digitale simple gældsbreve forstås dels pantebreve, der giver pant i fast ejendom, og som indeholder en rektaklausul, jf. tinglysningslovens § 27, stk. 2, dvs. en klausul med ordene "ikke til ordre". Klausulen medfører, at dokumentet er unegotiabelt og efter reglerne om simple gældsbreve ikke kan overdrages. Endvidere er simple pantebreve dels tinglyste digitale pantebreve,  
+
+*  der giver pant i motorkøretøjer,
+*  andele i andelsboligforeninger og 
+*  løsøre
+
+medmindre de efter deres indhold er gjort negotiable, jf. tinglysningslovens §§ 42 g, stk. 3, 42 m, stk. 2 og 47, stk. 7.
+
+### Betalingslegitimation
+
+*  Som simple gældsbreve, jf. GBL § 26, stk. 2
+*  Betaling til overdrager jf. GBL § 29, så længe skyldner er i god tro. 
+*  Skyldneren frigøres uanset overdragelsen af det simple gældsbrev eller den simple fordring ved betaling til overdrageren. Det gælder dog ikke, hvis skyldneren vidste, at overdrageren ikke længere havde ret til at modtage betalingen, eller hvis skyldneren ikke har udvist den agtpågivenhed, som forholdene krævede, jf. GBL § 29
+*  Når erhverver har foretaget sin sikringsakt (tinglysning), kan skyldner betale med frigørende virkning til den nu tinglyste erhverver, således at gælden nedskrives eller forsvinder
+*  Gælder både i forhold til ordinære og ekstraordinære afdrag på gælden
+
+
+
+ 
+### Skyldners indsigelser (A-C)
+
+*  Som simple gældsbreve, jf. GBL § 26, stk. 2
+*  Erhverver kan ikke få bedre ret end overdrager
+*  Skyldner kan gøre samme indsigelser gældende overfor erhverver, som han eller hun kunne gøre gældende over for kreditor, jf. GBL § 27  
+ 
+### Konflikt mellem senere erhververe (B-D eller C-D)
+
+*  Kædeoverdragelse (se fig. 14.15)
+  +	Som et simpelt gældsbrev, jf. GBL § 26, stk. 2
+  +	Erhverver ikke bedre ret end overdrager, jf. GBL § 27
+
+ 
+
+
+*  Dobbeltoverdragelse (se fig. 14.16)
+
+ 
+
+HR: Først i tid bedst i ret  
+U:	En senere rettighedshaver kan fortrænge en tidligere stiftet ret, hvis:  
+*  Senere rettighedshaver har tinglyst først. En aftaleerhverver skal være i god tro på tinglysningstidspunktet, jf. TL § 5
+
+
+
+### Sikringsakt ved udlæg i simple pantebreve
+
+Se tinglysningsloven, hvor der står:  
+Et tinglyst pantebrev, bortset fra et skadesløsbrev, der giver pant i fast ejendom, er negotiabelt, medmindre der i pantebrevet er indføjet ordene »ikke til ordre« eller tilsvarende forbehold, jf. TL § 27, stk. 2
+Et tinglyst pantebrev, herunder et ejerpantebrev, der giver pant i motorkøretøjer er ikke negotiabelt, medmindre dette klart fremgår af pantebrevet, jf. TL § 42 c. Skadesløsbreve er ikke negotiable pantebreve, jf. TL § 42g, stk. 3, 2. og 3. pkt.  
+
+Et tinglyst pantebrev, herunder et ejerpantebrev, der giver pant i andele i andelsboligforeninger som nævnt i TL § 42 i, er ikke negotiabelt, medmindre dette klart fremgår af pantebrevet. Skadesløsbreve er ikke negotiable pantebreve, jf. TL § 42m, stk. 2, 2. og 3. pkt.  
+
+Et tinglyst pantebrev, herunder et ejerpantebrev, der giver pant i løsøre, er ikke negotiabelt, medmindre dette klart fremgår af pantebrevet. Skadesløsbreve er ikke negotiable pantebreve, jf. TL § 47, stk. 7, 2. og 3. pkt.
+
+*Bemærk*
+Hvis et gældsbrev ikke falder ind under definitionen i henholdsvis GBL eller TL, og det klart fremgår af gældsbrevet, at det ikke skal være negotiabelt, er det et simpelt gældsbrev, jf. GBL § 11, stk. 2 og TL § 27, stk. 2, § 42g, stk. 3, 2. og 3. pkt., § 42m, stk. 2, 2. og 3. pkt. og § 47, stk. 7, 2. og 3. pkt.  
+
+
+*Tinglysning af simple (ikkenegotiable) pantebreve*  
+Et simpelt (ikkenegotiabelt) pantebrev skal dog også tinglyses digitalt for at opnå omsætningsbeskyttelse, jf. fx TL § 47, stk. 6, hvad angår løsørepantebreve, der som udgangspunkt er ikkenegotiable. Gældsbrevslovens kapitel 3, bortset fra GBL § 31, bruges også på tinglyste digitale ikkenegotiable (simple) pantebreve, jf. GBL § 26, stk. 2.
+Gældsbrevslovens kapitel 2 gælder ikke (længere) for tinglyste digitale pantebreve, jf. GBL § 11, stk. 3. Det betyder dog ikke, at den hidtidige retstilstand er brudt, da reglerne i GBL §§ 15-17 om ekstinktion (en rettigheds ophør, ved at den fortrænges af en senere rettighed) af indsigelser finder direkte anvendelse, jf. TL § 27a. Reglerne om ekstinktion af rettigheder er også uforandret overført til tinglysningsloven, jf. TL § 27b. Reglerne er dog rettet til, fordi sikringsakten nu sker ved tinglysning i modsætning til tidligere, hvor sikringsakten skete ved rådighedsberøvelse.   
+
+I modsætning til tidligere skal der dog nu foretages en sikringsakt ved udlæg i ikkenegotiable tinglyste digitale pantebreve, nemlig tinglysning af udlægget. Ved overdragelse af ikkenegotiable tinglyste digitale pantebreve er sikringsakten tinglysning ligesom ved de øvrige pantebreve, jf. fx TL § 47, stk. 6, hvad angår løsørepantebreve.
+
+Hvis der foretages udlæg i et papirbaseret pantebrev, skal fogeden tage dette med og sende pantebrevet til tinglysningskontoret i forbindelse med tinglysning af udlægget, jf. § 15, stk. 3 i lov nr. 539 af 8. juni 2006, som er ændret ved § 2 i lov nr. 504 af 12. juni 2009, hvoraf fremgår, at pantebrevet ved tinglysningen skal konverteres til et digitalt pantebrev.
+
+
+
+#### Video Digital tinglysning af underskrift på dokumenter og skøde
+<div class="video-container"><iframe src="https://www.youtube.com/embed/CBUM8aybRQU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+#### Video Forstå tinglysning på 45 sekunder
+<div class="video-container"><iframe src="https://www.youtube.com/embed/6Spl32wXXco" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+
+
+
+
+## Negotiable pantebreve
+
+### Betalingslegitimation
+
+*  Betaling til den tinglyste kreditor, TL § 29, stk. 1,
+*  Skyldner kan betale ordinære afdrag til overdrager, jf. TL § 29, stk. 2, hvis:
+  +	Skyldner er i god tro om overdragelse til erhverver og
+  +	Afdrag og evt. renter er forfaldne til betaling
+*  Ved betaling af hele gælden kan skyldner krævet, at pantet skal aflyses, TL § 29a
+*  Skyldner kan kræve at pantebrevet bliver nedlyst ved betaling af ekstraordinære afdrag, TL § 29b, stk. 1
+ 
+### Skyldners indsigelser (A-C)
+
+*  Som ved omsætningsgældsbreve, jf. TL § 27a
+*  Svage indsigelser går tabt for skyldner, når gældsbrevet er overdraget, jf. nærmere GBL § 15 hvis:
+  +	Overdragelsen er blevet tinglyst
+  +	Erhverver er i god tro om indsigelsen
+  +	Den gode tro er tilstede på det tidspunktet hvor erhverver får tinglyst sin ret, jf. nærmere TL § 5
+  +	Overdragelsen til erhverver er fra den person, der havde ret til at disponere ifølge tingbogen
+*  Skyldner bevarer stærke indsigelser også over for en erhverver i god tro, jf. TL § 27a, stk. 2 og GBL § 17
+ 
+### Konflikt mellem senere erhververe (B-D eller C-D)
+
+*  Som ved omsætningsgældsbrev, jf. TL § 27b
+*  Kædeoverdragelse (se nedenfor fig. 14.17)
+
+En aftaleerhverver (ikke kreditor) kan fortrænge en tidligere indsigelse hvis:
+  +	Aftaleerhverver er i god tro om indsigelsen
+  +	Aftaleerhverver har tinglyst sin ret til pantebrevet
+  +	Overdrager havde tinglyst ret til pantebrevet
+*  Dobbeltoverdragelse
+  +	Som ovenfor beskrevet ved simple pantebreve
+
+ 
+
+####  Video Tingbogens historie overgangen fra realregistrene til digital registrering:
+<div class="video-container"><iframe src="https://www.youtube.com/embed/2EwMrDiABD8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Pant og tinglysning
 # Tingsretlige konflikter
 # Handel med fast ejendom
@@ -6732,92 +7233,37 @@ Gældsbrevsdebitor bliver ved betaling til udlægshaver frigjort under samme bet
 
 <br>
 
+# Indeks
 
-### TEST simpleNetwork
+
+
+
+``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))``
+
+``r tippy(indeks[2,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[2,2],"</h4>"))``
+
+
 
 ```{r echo=FALSE}
-library(networkD3)
-src <- c("A", "A", "A", "A", "B", "B", "C", "C", "D")
-target <- c("B", "C", "D", "J", "E", "F", "G", "H", "I")
-networkData <- data.frame(src, target)
-simpleNetwork(networkData)
+
+mydf <- indeks[order(BEGREB,forklaring),]
+row.names(mydf) <- NULL
+names(mydf) <- c("BEGREB","HVAD BETYDER DET?")
+
+
+mydf %>%
+  kable("html", escape = FALSE) %>%
+  kable_styling(full_width = T,font_size = 12,bootstrap_options = c("responsive","bordered","striped")) %>%
+  column_spec(1, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  # column_spec(3, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  # column_spec(4, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  # row_spec(1,italic = T,bold = T,font_size = 12,color = "white", background = "darkgrey") %>%
+  row_spec(0,italic = T,bold = T,font_size = 14,color = "white", background = "darkgrey")
+  # row_spec(1,italic = T,bold = T,font_size = 12)
+  # column_spec(0, angle = -45)%>%
+  # scroll_box(width = "500px") %>%
+  # footnote(general = "Databeskyttelsesforordningen",general_title = "Kilde:")
 ```
-
-
-### TEST forceNetwork
-
-```{r echo=FALSE}
-data(MisLinks)
-data(MisNodes)
-forceNetwork(Links = MisLinks, Nodes = MisNodes, Source = "source",
-             Target = "target", Value = "value", NodeID = "name",
-             Group = "group", opacity = 0.4)
-```
-
-
-#### TEST sankeyNetwork
-
-```{r echo=FALSE}
-# library(JSONtoDF)
-# URL <- "https://raw.githubusercontent.com/christophergandrud/d3Network/sankey/JSONdata/energy.json"
-# Energy <- RCurl::getURL(URL, ssl.verifypeer = FALSE)
-# EngLinks <- JSONtoDF(jsonStr = Energy, array = "links")
-# EngNodes <- JSONtoDF(jsonStr = Energy, array = "nodes")
-# sankeyNetwork(Links = EngLinks, Nodes = EngNodes, Source = "source",
-#               Target = "target", Value = "value", NodeID = "name",
-#               fontSize = 12, nodeWidth = 30)
-```
-
-#### TEST diagonalNetwork
-
-```{r echo=FALSE}
-library(rjson)
-Flare <- RCurl::getURL("https://gist.githubusercontent.com/mbostock/4063550/raw/a05a94858375bd0ae023f6950a2b13fac5127637/flare.json")
-Flare <- rjson::fromJSON(Flare)
-diagonalNetwork(List = Flare, fontSize = 10, opacity = 0.9, margin=0)
-```
-
-#### TEST radialNetwork
-
-```{r echo=FALSE}
-Flare <- RCurl::getURL("https://gist.githubusercontent.com/mbostock/4063550/raw/a05a94858375bd0ae023f6950a2b13fac5127637/flare.json")
-Flare <- rjson::fromJSON(Flare)
-radialNetwork(List = Flare, fontSize = 10, opacity = 0.9, margin=0)
-```
-
-#### TEST dendroNetwork
-
-```{r echo=FALSE}
-hc <- hclust(dist(USArrests), "ave")
-dendroNetwork(hc, height = 600)
-```
-
-
-<!-- # Test -->
-
-<!-- ```{r echo=FALSE} -->
-<!-- # install.packages("rhandsontable") -->
-<!-- library(rhandsontable) -->
-<!-- DF = data.frame(integer = 1:10, -->
-<!--                    numeric = rnorm(10), -->
-<!--                    logical = rep(TRUE, 10),  -->
-<!--                    character = LETTERS[1:10], -->
-<!--                    factor = factor(letters[1:10], levels = letters[10:1],  -->
-<!--                                    ordered = TRUE), -->
-<!--                    factor_allow = factor(letters[1:10], levels = letters[10:1],  -->
-<!--                                          ordered = TRUE), -->
-<!--                    date = seq(from = Sys.Date(), by = "days", length.out = 10), -->
-<!--                    stringsAsFactors = FALSE) -->
-
-<!-- rhandsontable(DF, width = 600, height = 300) %>% -->
-<!--   hot_col("factor_allow", allowInvalid = TRUE) -->
-
-<!-- meancalc <- mean(DF$numeric) -->
-<!-- meancalc -->
-<!-- ``` -->
-
-
-
-
 
 
