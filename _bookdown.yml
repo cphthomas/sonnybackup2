@@ -1,5 +1,26 @@
 book_filename: "JURA"
+
 language:
+  label:
+    fig: 'Figur '
+    tab: 'Tabel '
+    eq: 'Ligning '
+    thm: 'Theorem '
+    lem: 'Lemma '
+    cor: 'Korrollar '
+    prp: 'Proposition '
+    cnj: 'Conjecture '
+    def: 'Definition '
+    exm: 'Eksempel '
+    exr: 'Exercise '
+    proof: 'Bevis. '
+    remark: 'Remark. '
+    solution: 'Solution. '
+    vid: 'Video '
+    pod: 'Podcast '
+    kap: 'Kapitel '
+
   ui:
     chapter_name: "Kapitel "
-delete_merged_file: true
+    delete_merged_file: true
+

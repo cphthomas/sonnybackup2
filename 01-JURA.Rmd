@@ -15,6 +15,9 @@ if (!require("pacman")) install.packages("pacman")
 pacman::p_load(timeDate, DT,plotly,rio,exams,e1071,WriteXLS,maps,knitr,kableExtra,ggplot2,openxlsx,quantmod,highcharter,forecast,networkD3,DiagrammeR,visNetwork,tippy) #load various packages
 ```
 
+
+
+
 ```{r echo=FALSE}
 
 BEGREB <- c(
@@ -26,8 +29,8 @@ BEGREB <- c(
           
           )
 forklaring <- c(
-  "Grundloven beskriver bl.a. den enkelte borgers rettigheder og pligter, du kan se den her:<br><br><a href=\"https://www.retsinformation.dk/Forms/R0710.aspx?id=45902\" style=\"color:#66FF66\" target=\"_blank\">Grundloven</a>",
-  "Tinglysningsloven indeholder reglerne for den offentlige registrering af rettigheder over fast ejendom  <br><br><a href=\"https://www.retsinformation.dk/Forms/R0710.aspx?id=142900\" style=\"color:#66FF66\" target=\"_blank\">Tinglysningsloven</a>",
+  "Grundloven beskriver bl.a. den enkelte borgers rettigheder og pligter, du kan se den her:<br><a href=\"https://www.retsinformation.dk/Forms/R0710.aspx?id=45902\" style=\"color:#3088fc\" target=\"_blank\">Grundloven</a>",
+  "Tinglysningsloven indeholder reglerne for den offentlige registrering af rettigheder over fast ejendom<br><a href=\"https://www.retsinformation.dk/Forms/R0710.aspx?id=142900\" style=\"color:#3088fc\" target=\"_blank\">Tinglysningsloven</a>",
   "Aftaleloven"
   
   
@@ -154,7 +157,7 @@ Fra 1660 til 1848 havde Danmark enevælde og i 1700-tallet begyndte modstanden m
 Befolkningerne stillede krav om, at folket skulle være med til at bestemme, hvordan deres land skulle styres, og flere steder blev monarkiet væltet og erstattet af en republik.
 Efterhånden som den internationale udvikling tog fart, erkendte Kong Christian den 8., at Danmark også måtte have en fri forfatning. Da han døde, gjorde hans søn, Frederik den 7., arbejdet med forfatningen færdig.  
  
-<a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=45902" target="_blank">Se grundloven her!</a>
+ 
 
 
 #### Video om den danske grundlov
@@ -176,12 +179,7 @@ Den anden slags frihedsrettigheder er reglerne om den personlige frihed og om ej
 ## Magtadskillelseslæren i grundlovens § 3
 Grundlovens § 3 har følgende ordlyd: ”Den lovgivende magt er hos kongen og Folketinget i forening. Den udøvende magt er hos kongen. Den dømmende magt er hos domstolene”.
 
-<h3>Magtens tredeling</h3>
-
-
-
-
-```{r echo=FALSE}
+```{r magtenstredeling, echo=FALSE,fig.cap=("Magtens tredeling")}
 nodes <- data.frame(id = 1:3, shadow = FALSE,
                     shape = c("image"),
                     image = c("https://jura.tepedu.dk/img/folketing.jpg",
@@ -368,7 +366,7 @@ En ministers arbejde består bl.a. i at:
 
 ## Domstolene
 
-```{r echo=FALSE, result=TRUE}
+```{r domstolene,echo=FALSE, result=TRUE, fig.cap=("Oversigt over domstolene")}
 
 nodes <- data.frame(id = 1:9, 
                     shape = c("box"), 
@@ -466,7 +464,8 @@ Danmark har 24 byretter. De er fordelt over hele landet. Byretten behandler som 
 ### Byretterne
 
 
-```{r network5,echo=FALSE, result=TRUE}
+```{r byretterne,echo=FALSE, result=TRUE, fig.cap=("Byretterne")}
+
 
 
 nodes <- data.frame(id = 1:6, 
@@ -524,7 +523,10 @@ Supplerende værneting, f.eks.:
  
 
 
-```{r echo=FALSE}
+```{r værneting, echo=FALSE, result=TRUE}
+
+
+
 text_tbl <- data.frame(
   Paragraf = c("§239", "§240", "§241","§242","§243","§244","§246"),
   Indhold = c(
@@ -552,11 +554,11 @@ Godsværneting: Stk. 3: Sager vedrørende formueretsforhold mod de i stk. 1 næv
   )
 )
 
-kable(text_tbl) %>%
+kable(text_tbl,caption="Værneting") %>%
   kable_styling(full_width = T,bootstrap_options = c( "hover","responsive","bordered","striped")) %>%
-  column_spec(1, bold = T, border_right = T) %>%
+  column_spec(1, bold = T, border_right = T,color = "black",background = "lightgrey") %>%
   column_spec(2) %>%
-  column_spec(2,  bold = T, color = "white", background = "red")
+  column_spec(2,  bold = T, color = "white", background = "darkgrey")
 # add_header_above(c( "Koncipistreglen" = 2),italic = TRUE)
 ```
 
@@ -566,7 +568,8 @@ kable(text_tbl) %>%
 
 
 
-
+  
+  
 
 
 
@@ -911,7 +914,8 @@ Aftalelovens principper har betydning på hele aftaleområdet, fx i:
 
 
 
-```{r network7,echo=FALSE, result=TRUE}
+```{r aftalelov,echo=FALSE, result=TRUE,fig.cap=("Oversigt over aftalelove")}
+
 
 nodes <- data.frame(id = 1:7, 
                     shape = c("box"), 
@@ -919,7 +923,7 @@ nodes <- data.frame(id = 1:7,
                     font.size = c(50,25,25,25,25,25,25))
 edges <- data.frame(from = c(1,1,1,1,1,1), to = c(2,3,4,5,6,7),arrows = c("to"),length = rep(20,6))
 
-visNetwork(nodes, edges) %>% 
+visNetwork(nodes, edges,  width = "80%") %>% 
   visNodes(color = list(background = "white", 
                         border = "white",
                         highlight = "yellow"),
@@ -961,7 +965,9 @@ Udtrykkeligt løfte ctr. stiltiende løfte.
 
 
 
-```{r faicon, echo=FALSE}
+```{r gensidigtloefte, echo=FALSE, result=TRUE,fig.cap=("Gensidigt løfte")}
+
+
 nodes <- data.frame(id = 1:2, group = c("B", "A"),label = c(" Sælger "," Køber "))
 edges <- data.frame(from = c(1), 
                     to = c(2),
@@ -970,7 +976,8 @@ edges <- data.frame(from = c(1),
                     label=c("Varer/Ydelser","Penge/modydelse"),
                     smooth = TRUE
                     )
- visNetwork(nodes, edges,main = "Gensidigt løfte") %>%
+
+ visNetwork(nodes, edges, width = "80%") %>%
  visGroups(groupname = "A", shape = "icon", 
            icon = list(code = "f007", size = 150)) %>%
  visGroups(groupname = "B", shape = "icon", 
@@ -984,7 +991,8 @@ edges <- data.frame(from = c(1),
 
 
 
-```{r faicon2, echo=FALSE}
+```{r faicon2, echo=FALSE, result=TRUE,fig.cap=("Ensidigt løfte")}
+
 nodes <- data.frame(id = 1:2, group = c("B", "A"),label = c(" Testator "," Arving "))
 edges <- data.frame(from = c(1), 
                     to = c(2),
@@ -993,7 +1001,7 @@ edges <- data.frame(from = c(1),
                     label=c(" ARV "),
                     smooth = TRUE
                     )
- visNetwork(nodes, edges, main = "Ensidigt løfte") %>%
+ visNetwork(nodes, edges,  width = "80%") %>%
  visGroups(groupname = "A", shape = "icon", 
            icon = list(code = "f007", size = 150, color = "red")) %>%
  visGroups(groupname = "B", shape = "icon", 
@@ -1047,7 +1055,7 @@ Resultat: Der er indgået en juridisk bindende aftale
 
 
 
-```{r faicon3, echo=FALSE}
+```{r faicon3, echo=FALSE, result=TRUE,fig.cap=("Aftale sælgers initiativ")}
 nodes <- data.frame(id = 1:2, group = c("B", "A"),label = c("Sælger \n tilbudsgiver ","Køber \n tilbudsmodtager "))
 edges <- data.frame(from = c(1), 
                     to = c(2),
@@ -1056,7 +1064,7 @@ edges <- data.frame(from = c(1),
                     label=c("1. Sælger sender tilbud til køber","2. Køber sender accept/ordre"),
                     smooth = TRUE
                     )
- visNetwork(nodes, edges,main = "Aftale sælgers initiativ") %>%
+ visNetwork(nodes, edges,width = "80%") %>%
  visGroups(groupname = "A", shape = "icon", 
            icon = list(code = "f007", size = 150)) %>%
  visGroups(groupname = "B", shape = "icon", 
@@ -1070,7 +1078,7 @@ edges <- data.frame(from = c(1),
 
 
 
-```{r faicon4, echo=FALSE}
+```{r faicon4, echo=FALSE, result=TRUE,fig.cap=("Aftale købers initiativ")}
 nodes <- data.frame(id = 1:2, group = c("B", "A"),label = c("Sælger \n tilbudsmodtager ","Køber \n tilbudsgiver "))
 edges <- data.frame(from = c(1), 
                     to = c(2),
@@ -1079,7 +1087,7 @@ edges <- data.frame(from = c(1),
                     label=c("2. Sælger sender accept/ordrebekræftelse","1. Køber sender købstilbud/ordre"),
                     smooth = TRUE
                     )
- visNetwork(nodes, edges,main = "Aftale købers initiativ") %>%
+ visNetwork(nodes, edges,width = "80%") %>%
  visGroups(groupname = "A", shape = "icon", 
            icon = list(code = "f007", size = 150)) %>%
  visGroups(groupname = "B", shape = "icon", 
@@ -1210,7 +1218,8 @@ Ugyldighed som kan ramme aftalen kan opstå pga:
 
 
 
-```{r echo=FALSE}
+```{r ugyldighedsgrunde, echo=FALSE, result=TRUE}
+
 options(knitr.table.format = "html")
 collapse_rows_dt <- data.frame(Mangeltype = c(rep("Tilblivelsesmangler", 4), rep("Indholdsmangler",3 ),rep("Habilitetsmangler",2 )),
                  Årsag = c("Ugyldighed pga. omstændigheder ved aftalens indgåelse (tilblivelse), fx:
@@ -1223,18 +1232,18 @@ redelig handlemåde, AFTL §§ 33 og 36
 redelig handlemåde
 ","Ugyldighed pga. manglende evne eller habilitet, fx:","inhabilitet, umyndighed, værgemål, fornuftsmangel"))
                  
-kable(collapse_rows_dt, align = "l") %>%
+kable(collapse_rows_dt, align = "l" ,caption = "Oversigt over mangler og ugyldighedsgrunde") %>%
   kable_styling(full_width = T,bootstrap_options = c( "hover","responsive","bordered","striped")) %>%
   column_spec(1, bold = T) %>%
   collapse_rows(columns = 1:2, valign = "top") %>%
-row_spec(c(1,5,8), bold = T, color = "white", background = "#428bca") %>%
+row_spec(c(1,5,8), bold = T, color = "white", background = "darkgrey")
 
-add_header_above(c( "Oversigt over mangler og ugyldighedsgrunde" = 2),italic = TRUE)
+# add_header_above(c( "Oversigt over mangler og ugyldighedsgrunde" = 2),italic = TRUE)
 
 ```
 
 
-```{r echo=FALSE}
+```{r ssugyldighedsgrunde, echo=FALSE, result=TRUE }
 options(knitr.table.format = "html")
 collapse_rows_dt <- data.frame(Ugyldighedsgrunde = c(rep("Stærke ugyldighedsgrunde", 4), rep("Svage ugyldighedsgrunde",5 ) ),
                  Årsag = c("Falsk og forfalskning.",
@@ -1247,13 +1256,13 @@ collapse_rows_dt <- data.frame(Ugyldighedsgrunde = c(rep("Stærke ugyldighedsgru
                   "Fejlskrift eller anden fejltagelse, AFTL § 32, stk. 1.",
                   "I strid med almindelig hæderlighed, AFTL § 33."))
                  
-kable(collapse_rows_dt, align = "l") %>%
+kable(collapse_rows_dt, align = "l",caption = "Oversigt over stærke og svage ugyldighedsgrunde") %>%
   kable_styling(full_width = T,bootstrap_options = c( "hover","responsive","bordered","striped")) %>%
   column_spec(1, bold = T) %>%
   collapse_rows(columns = 1:2, valign = "top") %>%
-row_spec(1:4, bold = T, color = "white", background = "red") %>%
-row_spec(5:9, bold = T, color = "Black", background = "yellow") %>%
-add_header_above(c( "Oversigt over stærke og svage ugyldighedsgrunde" = 2),italic = TRUE)
+row_spec(1:4, bold = T, color = "black", background = "grey") %>%
+row_spec(5:9, bold = T, color = "white", background = "darkgrey")
+# add_header_above(c( "Oversigt over stærke og svage ugyldighedsgrunde" = 2),italic = TRUE)
 
 ```
 <img src="img/deal4.jpg" align="right" width="60%" height="60%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
@@ -1453,7 +1462,7 @@ Standardvilkår ses eksempelvis i fortrykt lejekontrakt, salgsaftale for biler, 
 *Rimelighedsreglen:* Aftalen fortolkes i overensstemmelse med hvad der er rimeligt og hensigtsmæssigt.  
 
 
-```{r echo=FALSE}
+```{r reglerogtolkning,echo=FALSE}
 options(knitr.table.format = "html")
 collapse_rows_dt <- data.frame(Regel = c("Koncipistreglen", "Minimumsreglen","Prioritetsreglen", "Gyldighedsreglen","Rimelighedsreglen"),
                  Tolkning = c("Dette fortolkningsprincip kaldes også for uklarhedsreglen og betyder, at den part som har konciperet (skrevet) kontrakten må bære risikoen for tvetydighed. Er der en uklarhed i kontrakten, tolkes aftalen til skade eller ugunst for koncipisten og dermed mindst tyngende for den anden part, som ikke har haft indflydelse på aftalens formulering. Uklarhedsreglen er særlig relevant ved fortolkning af standardaftaler, der er udarbejdet af en stærk part.",
@@ -1464,11 +1473,11 @@ mest gunstig for løftegiveren. Hvis der fx er tvivl, om der er aftalt simpel ka
                               "Hvis man står overfor et valg, om aftalen er gyldig og kan gennemføres, eller ugyldig og må bortfalde, er gyldighedsreglen et fortolkningsprincip, hvor aftalen tolkes med henblik på at opnå en gyldig aftale, som vil kunne gennemføres.",
                               "Efter rimelighedsreglen fortolker man ud fra hensigtsmæssigheds- og rimelighedsbetragtninger. Ved tvivl om forståelsen af en aftale, tolkes aftalen i overensstemmelse med, hvad der er rimeligt."))
                  
-kable(collapse_rows_dt, align = "l") %>%
+kable(collapse_rows_dt, align = "l",caption = "Regler og tolkning") %>%
   kable_styling(full_width = T,bootstrap_options = c( "hover","responsive","bordered","striped")) %>%
   column_spec(1, bold = T) %>%
   collapse_rows(columns = 1:2, valign = "top") %>%
-  column_spec(2,  bold = T, color = "white", background = "red")
+  column_spec(2,  bold = T, color = "white", background = "darkgrey")
   # row_spec(1, bold = T, color = "white", background = "red") %>%
 # row_spec(5:9, bold = T, color = "Black", background = "yellow") %>%
 # add_header_above(c( "Koncipistreglen" = 2),italic = TRUE)
@@ -1509,7 +1518,7 @@ kable(collapse_rows_dt, align = "l") %>%
 
 
 
-```{r network4,echo=FALSE, result=TRUE}
+```{r network4, echo=FALSE, result=TRUE,fig.cap=("Fuldmagtsforhold og aftaleindgåelse ")}
 
 nodes <- data.frame(id = 1:3, 
                     shape = c("box"), 
@@ -1522,7 +1531,7 @@ edges <- data.frame(from = c(1,2,3),
                     length = c(300,300,200)
                     )
 
-visNetwork(nodes, edges, width = "100%",avoidOverlap=2) %>% 
+visNetwork(nodes, edges, width = "80%",avoidOverlap=2) %>% 
   visNodes(color = list(background = "white", 
                         border = "white",
                         highlight = "yellow"),
@@ -1560,19 +1569,18 @@ Aftaleloven sondrer mellem på den ene side »fuldmagt« og på den anden side �
 
  
  
-```{r echo=FALSE}
+```{r ugyldighedsgrunde2, echo=FALSE}
 options(knitr.table.format = "html")
 
 dt23 <- data.frame(Indenfor=c("Indenfor fuldmagtens grænser","legitimation (ydre forhold)","Bemyndigelse","(indre forhold)"),Udenfor= c(rep("Udenfor fuldmagtens grænser", 4))
                  )
-kable(dt23, align = "l",col.names = NA) %>%
+kable(dt23, align = "l",col.names = NA,caption = "Oversigt over mangler og ugyldighedsgrunde") %>%
   kable_styling(full_width = T,bootstrap_options = c( "hover","responsive","striped")) %>%
   collapse_rows(columns = 1:2, valign = "top") %>%
-row_spec(c(1), bold = T, color = "white", background = "red") %>%
-  # column_spec(2,  bold = T, color = "white", background = "red") %>%
-  column_spec(1,  bold = T, color = "white", background = "green") %>%
+row_spec(c(1), bold = T, color = "white", background = "darkgrey") %>%
+  column_spec(1,  bold = T, color = "black", background = "grey") #%>%
 
-add_header_above(c( "Oversigt over mangler og ugyldighedsgrunde" = 2),italic = TRUE)
+# add_header_above(c( "Oversigt over mangler og ugyldighedsgrunde" = 2),italic = TRUE)
 
 ```
  
@@ -3805,8 +3813,8 @@ Kategorier af personoplysninger
 
 
 
-<h3>Beskyttelse af personoplysninger</h3>
-```{r echo=FALSE}
+
+```{r personoplysninger, echo=FALSE}
 
 mydf <- data.frame(
   S1 = c("Følsomme personoplysninger" ,"Race, etnisk 
@@ -3831,11 +3839,11 @@ arbejdstelefon, navn, adresse, fødselsdato"
 names(mydf) <- NULL
 
 mydf %>%
-  kable("html", escape = FALSE) %>%
+  kable("html", escape = FALSE, caption = "Beskyttelse af personoplysninger" ) %>%
   kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
-  column_spec(1, bold = T, border_right = T, color = "white", background = "red") %>%
+  column_spec(1, bold = T, border_right = T, color = "white", background = "darkgrey") %>%
   column_spec(2, bold = T, border_right = T, color = "white", background = "black") %>%
-  column_spec(3, bold = T, border_right = T, color = "white", background = "green") %>%
+  column_spec(3, bold = T, border_right = T, color = "white", background = "grey") %>%
   row_spec(1,italic = T,bold = T,font_size = 12) %>%
   # column_spec(0, angle = -45)%>%
   # scroll_box(width = "500px") %>%
@@ -3909,7 +3917,7 @@ Af databeskyttelsesforordningen fremgår det, hvornår der må ske behandling af
 
 
 
-<h3>Hvordan må man opsamle og behandle personoplysninger?</h3>
+
 ```{r echo=FALSE}
 
 mydf <- data.frame(
@@ -3939,11 +3947,11 @@ mydf <- data.frame(
 names(mydf) <- NULL
 
 mydf %>%
-  kable("html", escape = FALSE) %>%
+  kable("html", escape = FALSE,caption = "Hvordan må man opsamle og behandle personoplysninger?") %>%
   kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
-  column_spec(1, bold = T, border_right = T, color = "white", background = "red") %>%
-  column_spec(2, bold = T, border_right = T, color = "black", background = "yellow") %>%
-  column_spec(3, bold = T, border_right = T, color = "white", background = "green") %>%
+  column_spec(1, bold = T, border_right = T, color = "white", background = "black") %>%
+  column_spec(2, bold = T, border_right = T, color = "white", background = "grey") %>%
+  column_spec(3, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
   row_spec(1,italic = T,bold = T,font_size = 12) %>%
   # column_spec(0, angle = -45)%>%
   # scroll_box(width = "500px") %>%
@@ -4217,7 +4225,7 @@ Speak23
 
 Virksomhederne har pligt til at opbevare den dokumentation, som de har indsamlet om kunderne i mindst 5 år 
 
-<h3>Hvidvask i praksis</h3>
+
 ```{r echo=FALSE}
 library(kableExtra)
 
@@ -4240,7 +4248,7 @@ fr <- data.frame(
   )
 )
 names(fr) <- c("Aktivitet" ,"Eksempel 1" , "Eksempel 2" , "Eksempel 3")
-kable(fr,  format = "html", escape = FALSE) %>%
+kable(fr,  format = "html", escape = FALSE,caption = "Hvidvask i praksis") %>%
   kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
   column_spec(1, bold = T, border_right = T, color = "white", background = "black") %>%
   row_spec(0,italic = T, color = "white", background = "grey",font_size = 12) %>%
@@ -4252,29 +4260,6 @@ footnote(general = "Hvidvasksekretariatet",general_title = "Kilde: ")
 
 
 
-
-
-```{r echo=FALSE}
-library(kableExtra)
-
-fr <- data.frame(
-  
-  A = "",
-  B = "",
-  C = ""
-)
-names(fr) <- c("" , "" , "")
-kable(fr,  format = "html", escape = FALSE) %>%
-  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive")) %>%
-  column_spec(1, bold = T, border_right = F, color = "black", background = "white") %>%
-  row_spec(0,italic = T, color = "black", background = "white",font_size = 12) %>%
-  add_header_above(c(" ", "Hello" = 1, "World" = 1)) %>%
-  add_header_above(c("Den refererende dommer udfærdiger foreløbig rapport<br>Møde mellem dommere og generaladvokater" = 3))
-  # column_spec(0, angle = -45)%>%
-  # scroll_box(width = "500px") %>%
-  
-
-```
 
 
 
@@ -4595,6 +4580,7 @@ Et anpartsselskab kan have én eller flere ejere. Ejerne af selskabet kan være 
 
 Ejerne og hæftelse:
 Ejerne i et K/S kan både være virksomheder (juridiske personer) og enkeltpersoner (fysiske personer).
+
 • Komplementar: Hæfter personligt, uden begrænsning og solidarisk for virksomhedens forpligtelser.
 • Kommanditist: Hæfter begrænset for virksomhedens forpligtelser og kommanditisten kan ikke miste mere end det beløb der er indskudt i kommanditselskabet.
  
@@ -5680,7 +5666,7 @@ Kaution, betyder overtagelse af en økonomisk risiko, som bæres af en kreditor 
   
 
   
-```{r echo=FALSE}
+```{r network5, echo=FALSE, result=TRUE,fig.cap=("Eneanpartshaver stiller kaution overfor banken til sikkerhed for virksomhedens lån")}
 nodes <- data.frame(id = 1:3, shadow = FALSE,
                     shape = c("image"),
                     image = c("https://jura.tepedu.dk/img/kaution.svg",
@@ -5695,7 +5681,7 @@ edges <- data.frame(from = c(1,2,3), to = c(2,3,1),
                     label=c("Kautionsaftale","Lån","100% anparter"),
                     # arrows = c("to"),
                     smooth = TRUE)
-visNetwork(nodes, edges, width = "80%",main = "Eneanpartshaver stiller kaution overfor banken til sikkerhed for virksomhedens lån") %>% 
+visNetwork(nodes, edges, width = "80%") %>% 
   visNodes(shapeProperties = list(useBorderWithImage = FALSE)) %>%
   visLayout(randomSeed = 2) %>%
 
@@ -5868,8 +5854,8 @@ Hvis oplysningspligten ikke er overholdt kan kautionen   eventuelt tilsidesætte
 
 (Se figuren nedenfor)
  
-<h3>Kautionsoversigt</h3>
-```{r echo=FALSE}
+
+```{r kautionsoversigt, echo=FALSE}
 
 mydf <- data.frame(
   S1 = c("Kautionstype" ,"Simpel kaution", 
@@ -5895,7 +5881,7 @@ debitor ikke kan betale gælden.",
 names(mydf) <- NULL
 
 mydf %>%
-  kable("html", escape = FALSE) %>%
+  kable("html", escape = FALSE,caption = "Kautionsoversigt") %>%
   kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
   column_spec(1, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
   column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
@@ -5986,7 +5972,7 @@ De samme beskyttelsesregler gælder, hvis en privatperson stiller pantesikkerhed
 * Samkautionister har efter betaling af gælden regresret mod de andre kautionister
  
  
-```{r echo=FALSE}
+```{r network6, echo=FALSE, result=TRUE,fig.cap=("Flere kautionister kan kautionere, enten som sam- eller medkautionister.")}
 nodes <- data.frame(id = 1:6, shadow = FALSE,
                     shape = c("image"),
                     image = c("https://jura.tepedu.dk/img/piggybank.svg",
@@ -6004,7 +5990,7 @@ edges <- data.frame(from = c(2,3,4,5,1), to = c(1,1,1,1,6),
                     # label=c("Kautionsaftale","Lån","100% anparter"),
                     # arrows = c("to"),
                     smooth = FALSE)
-visNetwork(nodes, edges, width = "80%",main = "Flere kautionister kan kautionere, enten som sam- eller medkautionister.") %>% 
+visNetwork(nodes, edges, width = "80%") %>% 
   visNodes(shapeProperties = list(useBorderWithImage = FALSE)) %>%
   visLayout(randomSeed = 2) %>%
 
@@ -6015,7 +6001,7 @@ visNetwork(nodes, edges, width = "80%",main = "Flere kautionister kan kautionere
 
 
 
-```{r echo=FALSE}
+```{r network11, echo=FALSE, result=TRUE,fig.cap=("Pro rata hæftelse.")}
 nodes <- data.frame(id = 1:5, shadow = FALSE,
                     shape = c("image"),
                     image = c("https://jura.tepedu.dk/img/piggybank.svg",
@@ -6032,7 +6018,7 @@ edges <- data.frame(from = c(2,3,4,1), to = c(1,1,1,5),
                     label=c("Hæftelse\n500.000","Hæftelse\n250.000","Hæftelse\n250.000","Lån 1 mio"),
                     # arrows = c("to"),
                     smooth = FALSE)
-visNetwork(nodes, edges, width = "80%",main = "Pro rata hæftelse.") %>% 
+visNetwork(nodes, edges, width = "80%") %>% 
   visNodes(shapeProperties = list(useBorderWithImage = FALSE)) %>%
   visLayout(randomSeed = 2) %>%
 
@@ -6043,7 +6029,7 @@ visNetwork(nodes, edges, width = "80%",main = "Pro rata hæftelse.") %>%
   
 
  
-```{r echo=FALSE}
+```{r network7, echo=FALSE, result=TRUE,fig.cap=("Efterkaution.")}
 nodes <- data.frame(id = 1:4, shadow = FALSE,
                     shape = c("image"),
                     image = c("https://jura.tepedu.dk/img/piggybank.svg",
@@ -6059,7 +6045,7 @@ edges <- data.frame(from = c(2,3,1), to = c(1,1,4),
                     label=c("Hæftelse 1","Hæftelse 2","Lån"),
                     # arrows = c("to"),
                     smooth = FALSE)
-visNetwork(nodes, edges, width = "80%",main = "Efterkaution.") %>% 
+visNetwork(nodes, edges, width = "80%") %>% 
   visNodes(shapeProperties = list(useBorderWithImage = FALSE)) %>%
   visLayout(randomSeed = 2) %>%
 
@@ -6068,7 +6054,7 @@ visNetwork(nodes, edges, width = "80%",main = "Efterkaution.") %>%
            color = list(color = "red", highlight = "yellow"))
 ``` 
   
-```{r echo=FALSE}
+```{r network9, echo=FALSE, result=TRUE,fig.cap=("Kautionistens regresret mod låntager")}
 nodes <- data.frame(id = 1:5, shadow = FALSE,
                     shape = c("image"),
                     image = c("https://jura.tepedu.dk/img/piggybank.svg",
@@ -6085,7 +6071,7 @@ edges <- data.frame(from = c(1,2,3,4), to = c(2,3,4,5),
                     # label=c("Hæftelse 1","Hæftelse 2","Lån"),
                     # arrows = c("to"),
                     smooth = FALSE)
-visNetwork(nodes, edges, width = "80%",main = "Kautionistens regresret mod") %>% 
+visNetwork(nodes, edges, width = "80%") %>% 
   visNodes(shapeProperties = list(useBorderWithImage = FALSE)) %>%
   visLayout(randomSeed = 2) %>%
 
@@ -6160,7 +6146,7 @@ Advokat Y
   + Kautionen må ikke stå i misforhold til kautionistens økonomi
   
 
-```{r echo=FALSE}
+```{r network12, echo=FALSE, result=TRUE,fig.cap=("Trediemandspant")}
 nodes <- data.frame(id = 1:4, shadow = FALSE,
                     shape = c("image"),
                     image = c("https://jura.tepedu.dk/img/kaution.svg",
@@ -6176,7 +6162,7 @@ edges <- data.frame(from = c(1,2,4), to = c(2,3,2),
                     label=c("Pant","Lån","Kaution"),
                     # arrows = c("to"),
                     smooth = FALSE)
-visNetwork(nodes, edges, width = "80%",main = "Trediemandspant") %>% 
+visNetwork(nodes, edges, width = "80%") %>% 
   visNodes(shapeProperties = list(useBorderWithImage = FALSE)) %>%
   visLayout(randomSeed = 2) %>%
 
@@ -6201,7 +6187,7 @@ visNetwork(nodes, edges, width = "80%",main = "Trediemandspant") %>%
 
 
  
-```{r echo=FALSE}
+```{r network13, echo=FALSE, result=TRUE,fig.cap=("Garantistillelse")}
 nodes <- data.frame(id = 1:3, shadow = FALSE,
                     shape = c("image"),
                     image = c("https://jura.tepedu.dk/img/piggybank.svg",
@@ -6216,7 +6202,7 @@ edges <- data.frame(from = c(1,2,1), to = c(2,3,3),
                     label=c("Lån til købesum","Købsaftale","Garanti for\nkøbesum"),
                     # arrows = c("to"),
                     smooth = FALSE)
-visNetwork(nodes, edges, width = "80%",main = "Garantistillelse") %>% 
+visNetwork(nodes, edges, width = "80%") %>% 
   visNodes(shapeProperties = list(useBorderWithImage = FALSE)) %>%
   visLayout(randomSeed = 2) %>%
 
@@ -6380,8 +6366,8 @@ Kortmisbrug her er, hvor kortholder ikke selv har brugt kortet
 
 Efter kortet er spærret er banken ansvarlig for al misbrug af kortholders betalingskort.
 
-<h3>Hæftelse ved kortmisbrug</h3>
-```{r echo=FALSE}
+
+```{r hæftelse, echo=FALSE}
 
 mydf <- data.frame(
   S1 = c("Hæftelse i kr" ,"0", 
@@ -6427,7 +6413,7 @@ spærret. ",
 names(mydf) <- NULL
 
 mydf %>%
-  kable("html", escape = FALSE) %>%
+  kable("html", escape = FALSE, caption = "Hæftelse ved kortmisbrug") %>%
   kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
   column_spec(1, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
   column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
@@ -6471,7 +6457,8 @@ Ad. Tinglyste simple pantebreve – typisk pantebrev med pant i andet end fast e
   
 
 
-```{r network,echo=FALSE, result=TRUE}
+```{r network14, echo=FALSE, result=TRUE,fig.cap=("Typer af pengekrav og fordringer")}
+
 
 nodes <- data.frame(id = 1:7, 
                     level = c(1,2,2,3,3,3,3),
@@ -6926,7 +6913,7 @@ For at udlægshaver kan blive legitimeret over for gældsbrevsdebitor, skal han 
 
 Hvis et omsætningsgældsbrev er overdraget, men skyldneren har betalt forfaldne renter eller forfaldne, tidsfæstede afdrag til overdrageren, kan han gøre dette gældende over for en senere erhverver af omsætningsgældsbrevet, jf. GBL § 16. Samme regel gælder for de tinglyste digitale pantebreve, jf. TL § 27a, stk. 2, 1. pkt. Udstederen af et gældsbrev bevarer også sine indsigelser om, at gældsbrevet er udstedt under tvang, ved forfalskning m.v., og om at gældsbrevet er ophørt ved forældelse m.v., jf. GBL § 17 og TL § 27a, stk. 2, 2. pkt. Bestemmelserne gælder også bilbogen, andelsboligbogen og personbogen.  
 
-<img src="img/over4.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/over4.png" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Hvis et omsætningsgældsbrev er overdraget, kan skyldneren med frigørende virkning betale forfaldne renter og forfaldne, tidsfæstede afdrag til overdrageren, medmindre skyldneren vidste, at denne ikke længere havde ret til at modtage betaling eller havde grund til mistanke derom, jf. GBL § 20. En tilsvarende regel gælder for de tinglyste digitale pantebreve, jf. TL § 29, stk. 2.  
 
 Legitimationsvirkningen indtræder derfor, når udlægshaver meddeler gældsbrevsdebitor, at betaling med frigørende virkning kun kan ske til udlægshaveren. Udlæg i omsætningsgældsbreve skal derfor altid meddeles over for gældsbrevsdebitor. Dette gælder også for udlæg i de tinglyste digitale pantebreve. Debitor skal anmodes om kvittering for, at han har modtaget underretningen.  
@@ -7252,7 +7239,7 @@ En aftaleerhverver (ikke kreditor) kan fortrænge en tidligere indsigelse hvis:
 
 
 
-```{r echo=FALSE}
+```{r begrebsoversigt, echo=FALSE}
 
 mydf <- indeks[order(BEGREB,forklaring),]
 row.names(mydf) <- NULL
@@ -7260,7 +7247,7 @@ names(mydf) <- c("BEGREB","HVAD BETYDER DET?")
 
 
 mydf %>%
-  kable("html", escape = FALSE) %>%
+  kable("html", escape = FALSE, caption = "Begrebsoversigt") %>%
   kable_styling(full_width = T,font_size = 12,bootstrap_options = c("responsive","bordered","striped")) %>%
   column_spec(1, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
   column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
