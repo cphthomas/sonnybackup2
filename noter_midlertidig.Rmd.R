@@ -11,7 +11,7 @@
 
 
           ![](img/mf1.png)
-
+        (se figur \@ref(fig:fordring12))
 
 
 
