@@ -7848,10 +7848,51 @@ om skyldneres ret til at frigøre sig ved deponering). Loven vedrører en debito
 * Panthaver kan tvangssælge aktivet på tvangsauktion
 * Er der flere panthaver i samme aktiv opstår en prioritetsstilling:
 
- 
+```{r pant1, echo=FALSE}
+mydf <- data.frame(
+  S1 = c("prioritetsstilling" ,
+         "1", 
+          "2", 
+          "3", 
+          "4"
+),
+  S0 = c("Type af\nhæftelse" ,
+         "Realkreditlån", 
+          "Pantebrev", 
+          "Pantebrev", 
+          "Pantebrev"
+),
+  S1 = c("Beløb" ,
+         "3.000.000 DKK", 
+          "172.000 DKK", 
+          "150.000 DKK", 
+          "170.000 DKK"
+),
+  S2 = c("Tinglysningsdato" ,
+         "23. august 2016", 
+          "16 juli 2017", 
+          "2. maj 2018", 
+          "27. maj 2019"
+)
+)
+names(mydf) <- NULL
+mydf %>%
+  kable("html", escape = FALSE, caption = "Prioritetsstilling i ejendom") %>%
+  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
+  column_spec(1:4, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  # column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  # # column_spec(3, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  row_spec(1,italic = T,bold = T,font_size = 12,color = "white", background = "darkgrey") #%>%
+  # row_spec(1,italic = T,bold = T,font_size = 12)
+  # column_spec(0, angle = -45)%>%
+  # scroll_box(width = "500px") %>%
+  # footnote(general = "Forsikringsankenævnets klageguide",general_title = "Kilde:")%>%
+# footnote(number = "Hvis skadevolder er under 14 år eller er utilregnelig, kan der dog være dækning selv om handlingen er forvoldt forsætligt")
+```
 
 
-## Pant som sikkerhed
+
+
 
 * Pantsætter (ejer) skal passe på det pantsatte aktiv. Pantsætter:
    + Skal sørge for almindelig vedligeholdelse
