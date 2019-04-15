@@ -2,3 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+placeholder.Rcheck/
+placeholder*.tar.gz
+placeholder*.tgz
