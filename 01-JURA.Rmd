@@ -7850,7 +7850,7 @@ om skyldneres ret til at frigøre sig ved deponering). Loven vedrører en debito
 
 ```{r pant1, echo=FALSE}
 mydf <- data.frame(
-  S1 = c("prioritetsstilling" ,
+  S1 = c("Prioritetsstilling" ,
          "1", 
           "2", 
           "3", 
