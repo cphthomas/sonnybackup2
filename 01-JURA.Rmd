@@ -7894,6 +7894,7 @@ mydf %>%
 
 
 
+
 * Pantsætter (ejer) skal passe på det pantsatte aktiv. Pantsætter:
    + Skal sørge for almindelig vedligeholdelse
    + Må ikke forringe pantets værdi ud over sædvanlig slid og ælde, fx

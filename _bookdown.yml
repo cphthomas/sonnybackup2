@@ -1,3 +1,4 @@
+delete_merged_file: true
 
 
 language:
@@ -22,5 +23,7 @@ language:
 
   ui:
     chapter_name: "Kapitel "
-    delete_merged_file: true
+
+
+
 
