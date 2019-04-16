@@ -7909,8 +7909,79 @@ Vores hotline kan være behjælpelig, hvis man har tekniske problemer. Tinglysni
    + Fysisk rådighedsberøvelse
    + Meddelelse (denuntiation)
    + Ingenting
-Skema over sikringsakter:
- 
+
+
+```{r pant2, echo=FALSE}
+mydf <- data.frame(
+  S1 = c("Aktivtype" ,
+         "Fast ejendom", 
+          "Biler", 
+          "Løsøre", 
+          "Simple fordringer",
+         "Negotiable gældsbreve", 
+          "Digitale pantebreve", 
+          "Værdipapirer"
+),
+  S2 = c("Ejendomsret" ,
+         "Tinglysning i\ntingbogen", 
+          "Ingen", 
+          "Ingen", 
+          "Denunciation til debitorer",
+         "Rådighedsberøvelse", 
+          "Tinglysning", 
+          "Registrering hos værdipapircentralen, VP securities"
+),
+  S3 = c("Underpant" ,
+          "Tinglysning i\ntingbogen", 
+          "Ingen", 
+          "Ingen", 
+          "Denunciation til debitorer",
+         "", 
+          "Tinglysning", 
+          "Registrering hos værdipapircentralen, VP securities"
+),
+  S4 = c("Udlæg" ,
+         "", 
+          "Tinglysning\nbilbogen\nrådighedsberøvelse", 
+          "Intet", 
+          "Intet",
+         "Rådighedsberøvelse", 
+          "Tinglysning", 
+          "Registrering hos værdipapircentralen, VP securities"
+),
+  S5 = c("Ejendomsforbehold" ,
+         "", 
+          "Tinglysning\nbilbogen", 
+          "Intet", 
+          "",
+         "", 
+          "", 
+          ""
+),
+  S6 = c("Håndpant" ,
+         "", 
+          "", 
+          "Rådighedsberøvelse", 
+          "",
+         "Rådighedsberøvelse", 
+          "", 
+          ""
+)
+)
+names(mydf) <- NULL
+mydf %>%
+  kable("html", escape = FALSE, caption = "Sikringsakter for aktiver") %>%
+  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
+  column_spec(1:6, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  # column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  # # column_spec(3, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  row_spec(1,italic = T,bold = T,font_size = 12,color = "white", background = "darkgrey") #%>%
+  # row_spec(1,italic = T,bold = T,font_size = 12)
+  # column_spec(0, angle = -45)%>%
+  # scroll_box(width = "500px") %>%
+  # footnote(general = "Forsikringsankenævnets klageguide",general_title = "Kilde:")%>%
+# footnote(number = "Hvis skadevolder er under 14 år eller er utilregnelig, kan der dog være dækning selv om handlingen er forvoldt forsætligt")
+```
 
  
 Formålet med sikringsakten er:  
@@ -7937,7 +8008,44 @@ Aktivtyper:
 * Fly og skibe
  
 
- 
+```{r pant3, echo=FALSE}
+mydf <- data.frame(
+  S1 = c("Aktivtype" ,
+         "Fast ejendom samt tilbehør", 
+          "Andelslejlighed", 
+          "Biler", 
+          "Løsøre herunder virksomhedspant og fordringspant, erhvervsfartøjer under 5 bruttoton, fritidsskibe under 20 bruttoton",
+         "Børsnoterede værdipapirer også kaldet fondsaktiver", 
+          "Aktier og anparter ikke børsnoterede", 
+          "Fly",
+         "Erhvervsfartøjer over 5 bruttoton, fritidsskibe over 20 bruttoton"
+         
+),
+  S2 = c("Lov" ,
+         "Tinglysningsloven afsnit 1, kapitel 1-6", 
+          "Tinglysningsloven kapitel 6b", 
+          "Tinglysningsloven kapitel 6a", 
+          "Tinglysningsloven kapitel 7",
+         "Kapitalmarkedsloven", 
+          "Selskabsloven", 
+          "Lov om registrering af rettigheder over luftfartøjer",
+         "Søloven"
+)
+)
+names(mydf) <- NULL
+mydf %>%
+  kable("html", escape = FALSE, caption = "Hvilken lov regulerer  sikkerhed for aktiver") %>%
+  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
+  column_spec(1:2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  # column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  # # column_spec(3, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  row_spec(1,italic = T,bold = T,font_size = 12,color = "white", background = "darkgrey") #%>%
+  # row_spec(1,italic = T,bold = T,font_size = 12)
+  # column_spec(0, angle = -45)%>%
+  # scroll_box(width = "500px") %>%
+  # footnote(general = "Forsikringsankenævnets klageguide",general_title = "Kilde:")%>%
+# footnote(number = "Hvis skadevolder er under 14 år eller er utilregnelig, kan der dog være dækning selv om handlingen er forvoldt forsætligt")
+```
  
 
  
