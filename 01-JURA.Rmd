@@ -8300,8 +8300,13 @@ Fondsaktiver er defineret som omsættelige dematerialiserede/papirløse værdipa
 Se nærmere kapitel 17 om regulering af dobbeltoverdragelser, jf. kapitalmarkedslovens § 184 og kædeoverdragelser i kapitalmarkedslovens § 186.  
 
 
-#### Om værdipapircentralen
+
+
+#### Om værdipapircentralen  
  
+##### Værdipapircentralens hjemmeside
+<div class="video-container"><iframe src="https://www.vp.dk/"  frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>  
+
 Værdipapircentraler, eller clearing houses på engelsk, er en vigtig del af aktiemarkedet at kende for som investor. Kort sagt, er centralernes opgave nemlig at passe på investorernes aktier. Det er her, de bor.  
 
 I Danmark hedder værdipapircentralen VP Securities. De har monopol i Danmark på administrering og overvågning af alle danske aktier, uanset om aktierne er noterede eller ej.  
