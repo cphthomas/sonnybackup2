@@ -7878,7 +7878,9 @@ Har køber ikke mulighed for at opnå sædvanlig finansiering via bank eller rea
 
 
 <iframe src="https://www.tinglysningsretten.dk/tinglysning/faq/pant/Pages/default.aspx"></iframe>
-
+<br>
+<iframe src="https://www.tinglysningsretten.dk/tinglysning/faq/pant/Pages/default.aspx" frameborder="0"></iframe>
+<br>
 
 <a href="https://www.tinglysningsretten.dk/tinglysning/faq/pant/Pages/default.aspx" target="_blank">Spørgsmål og svar om pant fra tinglysningsretten</a>
 <br>
