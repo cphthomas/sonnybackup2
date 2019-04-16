@@ -1,5 +1,0 @@
-"0","#pacman autoload evt. manglende pakker"
-"0","if (!require(""pacman"")) install.packages(""pacman"")"
-"2","Indlæser krævet pakke: pacman
-"
-"0","pacman::p_load(timeDate, DT,plotly,exams,e1071,WriteXLS,maps,knitr,ggplot2,openxlsx,quantmod,highcharter) #load various packages"
