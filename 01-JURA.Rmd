@@ -8323,20 +8323,16 @@ Speak 23
 ## Tinglysningssystemet  
 Alle tinglysninger foretages i den digitale tingbog, som administreres af Tinglysningsretten i Hobro. 
 
-Hvad er tinglysning, (afsnit 16.7.1.) 
-Tinglysning som sikringsakt, (afsnit 16.7.2.)
-Tinglysning som prioritet (afsnit 16.7.3.)
-Tinglysningsafgifter/-gebyrer og fuldmagt (afsnit16.7.4.)
-Om fuldmagter ved digital tinglysning (afsnit 16.7.5.)
-Om Andelsboligbogen (afsnit 16.7.6.)
-Om Bilbogen (afsnit 16.7.7.)
-Om Personbogen (afsnit 16.7.8.)
-Digitalisering af pantebrev (afsnit 16.7.9.)
-Hvad er servitutter? (afsnit 16.7.10.)
-Tingsrettens historie (afsnit 16.7.11.)
-Love og bekendtgørelser om tinglysning (afsnit 6.7.12.)
+###### Hjemmesiden for den digitale tinglysning
+
+
+<div class="video-container"><iframe src="https://www.tinglysning.dk/tinglysning/landingpage/landingpage.xhtml"  frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>  
+<br>
 
 Den digitale tingbog beliggende i Hobro har således 4 rettighedsregistre:
+
+
+
 https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjTu5XjzpzhAhXCIlAKHe3kCwYQjRx6BAgBEAU&url=http%3A%2F%2Fprovesystem.tinglysningsretten.dk%2Fdocumentation%2Fopslag_i_andelsb%2Fassima_online_doc%2Fhtmldoc.html&psig=AOvVaw0vccHXvDd_kAwFAipaV06O&ust=1553580025651425
 
 * Tingbogen
