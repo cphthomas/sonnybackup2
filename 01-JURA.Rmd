@@ -54,47 +54,7 @@ indeks <<- data.frame(BEGREB,forklaring)
 #   Indledning {-}
 
 
-<!-- <!-- BEGIN PROTECT-->
-<!-- <meta name="robots" content="noindex, nofollow"> -->
-<!-- <META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE"> -->
-<!-- <style> -->
-<!-- .Sentry_blanket { -->
-<!-- background-color:#FFFFFF; -->
-<!-- position:absolute; -->
-<!-- z-index: 9001; /*ooveeerrrr nine thoussaaaannnd*/ -->
-<!-- top:0px; -->
-<!-- left:0px; -->
-<!-- width:105%; -->
-<!-- height:10000px; -->
-<!-- padding:20px; -->
-<!-- } -->
-<!-- </style> -->
-<!-- <script language="JavaScript" type="text/JavaScript"> -->
-<!-- /* BEGIN Editable Settings: ///////////////////////////////////////////////////////////*/ -->
-<!-- PpLID = "36813, 39445,38854,38855,36811,36812"; /* Makes this page viewable by only members of one or more PayPal plans, enter one Ppl ID or more than one separated by commas */ -->
-<!-- pageLevel = 0; /* Access Level required to view this page   */ -->
-<!-- SingleOut = 0; /* Makes this page viewable by only one member, enter their account number  */ -->
-<!-- /* END Editable Settings: ////////////////////////////////////////////////////////////*/ -->
-<!-- Sentry_ID = 22367; -->
-<!-- </script> -->
-<!-- <script type="text/javascript" src="https://www.sentrylogin.com/sentry/scripts/Sentry_pAJAX.js"></script> -->
-<!-- <noscript> -->
-<!-- <meta http-equiv="refresh" content="0; url=https://www.sentrylogin.com/sentry/noscript.asp"> -->
-<!-- </noscript> -->
-<!-- <div id="Sentry_noJS" class="Sentry_blanket">Sentry Page Protection</div> -->
-<!-- <div id="Sentry_redirecting" class="Sentry_blanket" style="display:none;">Please Wait...</div> -->
-<!-- <script language="JavaScript" type="text/JavaScript"> -->
-<!-- if(window.onload){ -->
-<!--   window.onload = SentryProtect; -->
-<!-- } -->
-<!-- else if(document.body.onload){ -->
-<!--   document.body.onload = SentryProtect; -->
-<!-- } -->
-<!-- else{ -->
-<!--   SentryProtect(); /* call it here  */ -->
-<!-- } -->
-<!-- </script> -->
-<!-- <!-- END PROTECT -->
+
 
   
 
@@ -109,49 +69,6 @@ indeks <<- data.frame(BEGREB,forklaring)
 
 
 # Retskilder retssystemet og juridisk-metode
-
-<!-- <!-- BEGIN PROTECT-->
-<!-- <meta name="robots" content="noindex, nofollow"> -->
-<!-- <META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE"> -->
-<!-- <style> -->
-<!-- .Sentry_blanket { -->
-<!-- background-color:#FFFFFF; -->
-<!-- position:absolute; -->
-<!-- z-index: 9001; /*ooveeerrrr nine thoussaaaannnd*/ -->
-<!-- top:0px; -->
-<!-- left:0px; -->
-<!-- width:105%; -->
-<!-- height:10000px; -->
-<!-- padding:20px; -->
-<!-- } -->
-<!-- </style> -->
-<!-- <script language="JavaScript" type="text/JavaScript"> -->
-<!-- /* BEGIN Editable Settings: ///////////////////////////////////////////////////////////*/ -->
-<!-- PpLID = "36813, 39445,38854,38855,36811,36812"; /* Makes this page viewable by only members of one or more PayPal plans, enter one Ppl ID or more than one separated by commas */ -->
-<!-- pageLevel = 0; /* Access Level required to view this page   */ -->
-<!-- SingleOut = 0; /* Makes this page viewable by only one member, enter their account number  */ -->
-<!-- /* END Editable Settings: ////////////////////////////////////////////////////////////*/ -->
-<!-- Sentry_ID = 22367; -->
-<!-- </script> -->
-<!-- <script type="text/javascript" src="https://www.sentrylogin.com/sentry/scripts/Sentry_pAJAX.js"></script> -->
-<!-- <noscript> -->
-<!-- <meta http-equiv="refresh" content="0; url=https://www.sentrylogin.com/sentry/noscript.asp"> -->
-<!-- </noscript> -->
-<!-- <div id="Sentry_noJS" class="Sentry_blanket">Sentry Page Protection</div> -->
-<!-- <div id="Sentry_redirecting" class="Sentry_blanket" style="display:none;">Please Wait...</div> -->
-<!-- <script language="JavaScript" type="text/JavaScript"> -->
-<!-- if(window.onload){ -->
-<!--   window.onload = SentryProtect; -->
-<!-- } -->
-<!-- else if(document.body.onload){ -->
-<!--   document.body.onload = SentryProtect; -->
-<!-- } -->
-<!-- else{ -->
-<!--   SentryProtect(); /* call it here  */ -->
-<!-- } -->
-<!-- </script> -->
-<!-- <!-- END PROTECT -->
-
 
 
 
@@ -2097,7 +2014,7 @@ Ofte findes der ingen lovgivning, som kan fortælle, hvornår man som privatpers
 
 
 
----
+---   
 
 <img src="img/football.png" align="right" width="10%" height="10%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 *FED 2012.2: Landsretten fandt, at en tilskuer, der ved strafbar handling løb ind på fodboldbane og afbrød landskamp, var erstatningsansvarlig for DBU’s tab ved, at næste landskamp blev flyttet til en mindre  bane samt ved betaling af bøde til UEFA (1.869.269 kr. plus renter). Der forelå ikke egen skyld eller anledning til at reducere ansvaret efter EAL (erstatningsansvarsloven) § 24.*
@@ -2111,11 +2028,11 @@ Ofte findes der ingen lovgivning, som kan fortælle, hvornår man som privatpers
 <img src="img/cig.jpg" align="left" width="12%" height="12%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 *U 2015.572 H (U: Ugeskrift for Retsvæsen): Tobaksselskaber ikke ansvarlige for varigt mén som følge af mangeårigt forbrug af cigaretter.*
 
----
+---     
 
 Man er kun erstatningsansvarlig for skader, der kan gøres op i penge (økonomisk tab, som den skadelidte skal kunne bevise). Ved tingsskader vil det være værdien af eller reparation af det ødelagte. Ved personskader bliver det økonomiske tab beregnet efter reglerne i Lov om erstatningsansvar (erstatningsansvarsloven). Det er f.eks. erstatning for varige mén, tabt arbejdsfortjeneste eller tab af forsørger. Se følgende domme, hvor der i dømmes erstatningsansvar i forskellige situationer:  
 
----
+---     
 
 *FED 2012.3: A, der sad uden for golfbanens cafeteria, blev ramt i hovedet af golfbold, da B – som deltager i en polterabend – under golfspil kom til at slå bolden for langt. B, der kun én gang tidligere havde prøvet at spille golf og ikke havde modtaget undervisning heri, fandtes erstatningsansvarlig.*
 
@@ -2129,7 +2046,7 @@ Man er kun erstatningsansvarlig for skader, der kan gøres op i penge (økonomis
 
 
 
----
+---     
 
 ## Hændeligt uheld
 
@@ -2137,7 +2054,7 @@ Man er kun erstatningsansvarlig for skader, der kan gøres op i penge (økonomis
 ![](img/bonuspaterfamilias.jpg)
 Har skadevolderen derimod opført sig som en såkaldt bonus pater familias (latin; 'den gode familiefader'), har han eller hun ikke gjort noget forkert og er ikke ansvarlig for skaden. Man skal heller ikke erstatte noget. Det kaldes et hændeligt uheld. Åbner en hotelgæst eksempelvis døren til sit værelse indefra, i det øjeblik en tjener går forbi på gangen med en bakke med glas, og døren rammer bakken, så glassene falder på gulvet og knuses, er der tale om et hændeligt uheld. Uheldet kan ikke bebrejdes hotelgæsten, da han ikke havde mulighed for at undgå det. Han havde opført sig som “den gode hotelgæst” og ikke begået nogen fejl. Se afgørelserne fra retspraksis og Forsikringsankenævnet om spørgsmålet om hændelige skader:
 
----
+---     
 
 *U.1961.167 H: At en 11-årig dreng kom til at ramme en anden dreng med en kæp i øjet, blev anset for et hændeligt uheld og derfor ikke noget erstatningsansvar.*
 
@@ -2169,14 +2086,16 @@ Har skadevolderen derimod opført sig som en såkaldt bonus pater familias (lati
 
 *H.K. af 24. juni 2002. Sag: 206/2002: Museum var ikke ansvarligt for tilskadekomst, da gæst under privat besøg gled i hundeekskrementer og faldt.*
 
----
+
+---          
 
 
 ## Handlet forkert eller undladt at handle
 Har skadevolder handlet forkert – dvs. er ansvarlig – er det vigtigt at finde ud af, om skaden er forvoldt ved en simpel uagtsomhed, grov uagtsomhed eller med forsæt (med vilje). Denne vurdering af handlingen eller undladelsen har bl.a. betydning for, om skadevolderens ansvarsforsikring skal betale for skaden hos skadelidte. Se her afgørelserne fra retspraksis:  
 
 
----
+
+---          
 
 *FED 2016.122: Diskotek erstatningsansvarlig for personskade opstået ved, at diskotekets dørmand gik ud over det nødvendige og forsvarlige ved at skubbe eller kaste skadelidte ud af diskotekets dør.*
 
@@ -2185,7 +2104,8 @@ Har skadevolder handlet forkert – dvs. er ansvarlig – er det vigtigt at find
 ![](img/stairs.jpg)
 *Ø.L.D. af 12. maj 2005. Sag: 20. afd., a.s. nr. B-2581-04: Værtinde ifaldt erstatningsansvar, fordi hun bar et sofabord ned ad en trappe iført højhælede sko og uden at fjerne noget nips, der indskrænkede trappearealet, hvilket forårsagede, at hun tabte bordet, som ramte en gæst i hovedet. (Utrykt)*
 
----
+
+---     
 
 
 ### Den gode familiefader
@@ -2202,11 +2122,12 @@ For at kunne få erstatning fra en skadevolder skal skadelidte ifølge retspraks
 
 Kan skadelidte ikke bevise det, er det ikke muligt at få erstatning fra en skadevolder eller dennes ansvarsforsikring:
 
----
+---     
 
 *FED 2007.111: Forsikringstager havde ikke dokumenteret, at der var årsagsforbindelse mellem nogle anførte lidelser og et færdselsuheld.*
 
----
+
+---     
 
 
 ### Ansvar for ikke at gøre noget
@@ -2216,6 +2137,7 @@ Det er ikke kun handlinger, man kan blive erstatningsansvarlig for. I visse tilf
 Udover at der kan tilkendes erstatningsansvar ved tingsskader samt fysiske personskader, så kan der være erstatningspligt for psykiske personskader. Se her nævnte domme:  
 
 ---
+
 <img src="img/meeting.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 *U.2012.524 H: A blev sygemeldt efter et begivenhedsforløb på en personaleweekend og rejste krav om godtgørelse for svie og smerte mod kommunen K som arbejdsgiver. Begivenhedsforløbet vedrørte en følelsesladet drøftelse i plenum af A’s sygdomsfravær, som ifølge A endte med, at hun i overværelse af sine kollegaer reelt blev fyret. K bestred ikke, at A var blevet påført en psykisk skade som følge af begivenhedsforløbet, og parterne var enige om opgørelsen af godtgørelseskravet. Højesteret udtalte bl.a., at udtrykket “personskade” i erstatningsansvarslovens § 1 må forstås i overensstemmelse med dansk rets almindelige erstatningsregler, og den psykiske skade, som A var blevet påført, var omfattet af bestemmelsen. Højesteret fandt endvidere, at personaleweekenden i forhold til A blev afviklet på en uforsvarlig måde, og at dette var ansvarspådragende for K som arbejdsgiver. Den uforsvarlige afvikling af personaleweekenden medførte en betydelig forøgelse af risikoen for en psykisk skade hos en medarbejder, som ledelsen må have forstået befandt sig i en psykisk anspændt situation, og Højesteret fandt, at A’s psykiske skade var en påregnelig følge. A var direkte skadelidt som følge af den ansvarspådragende adfærd, og der var ikke grundlag for at anse den psykiske skade for at falde uden for, hvad der var omfattet af kommunens erstatningspligt. K skulle herefter betale 50.000 kr. til A for svie og smerte. Landsretten havde frifundet K.*
 
