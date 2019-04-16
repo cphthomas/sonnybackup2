@@ -101,7 +101,7 @@ indeks <<- data.frame(BEGREB,forklaring)
 
 
 
-*<h3>Bemærk</h3>*
+<h3>*Bemærk*</h3>
 ***Dette materiale er kun til personligt brug. Alle rettigheder forbeholdes. Fotografering, kopiering eller anden gengivelse af dette materiale, er uden forfatterens skriftlige samtykke,  forbudt, ifølge dansk lov om ophavsret.***
 <br>
 <br>
