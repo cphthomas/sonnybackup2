@@ -7828,6 +7828,8 @@ mydf %>%
  
 ### Forskellige typer pant
 
+![](img/tinglysning8.png)
+
 * Håndpant
    + Kræver rådighedsberøvelse
    + Bruges ved omsætningsgældsbreve eller løsøre hvor der er fare for, at pantsætter vil forringe aktivet
