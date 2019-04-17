@@ -8357,7 +8357,7 @@ Opslag i rettighedsregistrene sker på <a href="www.tinglysning.dk" target="_bla
    + Tinglyst uden anmærkninger
 * Der skal betales tinglysningsafgift i forbindelse med anmeldelse af de fleste typer af dokumenter.
 
-* På <a href="www.tinglysning.dk" target="_blank">tinglysning.dk</a> har man desuden mulighed for at hente tingbogsattester samt udskrift af dokumenter tinglyst efter 7. september 2009, klik på billedet for at besøge siden hvor man henter tingbogsattester:  
+* På <a href="www.tinglysning.dk" target="_blank"></a> har man desuden mulighed for at hente tingbogsattester samt udskrift af dokumenter tinglyst efter 7. september 2009, klik på billedet for at besøge siden hvor man henter tingbogsattester:  
 
 <a href="http://www.tinglysningsretten.dk/attester/Pages/Fast%20ejendom.aspx" target="_blank">
 <img border="0" alt="http://www.tinglysningsretten.dk/attester/Pages/Fast%20ejendom.aspx" src="img/tinglysning2.png" width="100%">
@@ -8565,8 +8565,8 @@ Forespørgsler i Bilbogen skal ske via <a href="www.tinglysning.dk" target="_bla
 Hvad koster det at tinglyse i Bilbogen?
 Det koster som udgangspunkt en grundafgift på 1.660 kr. at tinglyse et dokument i Bilbogen. Desuden skal man i nogle tilfælde betale en tillægsafgift. Tillægsafgiftens størrelse afhænger af værdien af den rettighed, som man vil have tinglyst.
 
-Spørgsmål og svar om Bilbogen inden for generelle områder som f.eks. fuldmagter og prøvetinglysning finder du i deres respektive kategorier. Denne kategori indeholder spørgsmål og svar, der udelukkende vedrører Bilbogen:
-http://www.tinglysningsretten.dk/tinglysning/faq/bilbogen/Pages/default.aspx?FAQCategory=Generelt
+
+<a href="http://www.tinglysningsretten.dk/tinglysning/faq/bilbogen/Pages/default.aspx?FAQCategory=Generelt" target="_blank">Spørgsmål og svar om Bilbogen inden for generelle områder som f.eks. fuldmagter og prøvetinglysning finder du i deres respektive kategorier. Denne kategori indeholder spørgsmål og svar, der udelukkende vedrører Bilbogen</a>
 
 ### Om personbogen
 Ægtepagter bliver registreret i Personbogen. I Personbogen bliver det også registreret, hvis en person kun kan råde over sin formue i begrænset omfang.
