@@ -7881,7 +7881,7 @@ Har køber ikke mulighed for at opnå sædvanlig finansiering via bank eller rea
 
 Godt at vide inden man tinglyser:
 
-Al tinglysning foregår digitalt på hjemmesiden <a href="www.tinglysning.dk" target="_blank">www.tinglysning.dk</a>. Det er muligt at tinglyse i Tingbogen (fast ejendom) Bilbogen, Andelsboligbogen og Personbogen.
+Al tinglysning foregår digitalt på hjemmesiden <a href="www.tinglysning.dk" target="_blank">tinglysning.dk</a>. Det er muligt at tinglyse i Tingbogen (fast ejendom) Bilbogen, Andelsboligbogen og Personbogen.
 
 Alle, der har NemID, har adgang til den digitale tinglysning, men det er en god ide at gøre sig overvejelser omkring, om man har de juridiske forudsætninger for at tinglyse.
 
@@ -8357,7 +8357,11 @@ Opslag i rettighedsregistrene sker på tinglysning.dk
    + Tinglyst uden anmærkninger
 * Der skal betales tinglysningsafgift i forbindelse med anmeldelse af de fleste typer af dokumenter.
 
-* På www.tinglysning.dk har man desuden mulighed for at hente tingbogsattester samt udskrift af dokumenter tinglyst efter 7. september 2009: http://www.tinglysningsretten.dk/attester/Pages/Fast%20ejendom.aspx
+* På www.tinglysning.dk har man desuden mulighed for at hente tingbogsattester samt udskrift af dokumenter tinglyst efter 7. september 2009, klik på billedet for at besøge siden hvor man henter tingbogsattester:  
+
+<a href="http://www.tinglysningsretten.dk/attester/Pages/Fast%20ejendom.aspx" target="_blank">
+<img border="0" alt="http://www.tinglysningsretten.dk/attester/Pages/Fast%20ejendom.aspx" src="img/tinglysning2.png" width="100%">
+</a>
 
 ### Hvad er tinglysning?
 Tinglysning er en offentlig registrering af:
@@ -8404,12 +8408,17 @@ Tingbogen over fast ejendom, Andelsbolig-, Bil- og Personbogen
 
 Opslag på [www.tinglysning.dk](www.tinglysning.dk) er gratis.
 
-https://www.hfb.dk/typo3temp/_processed_/a/f/csm_Digital_Tinglysning_58f95619f6.jpg
+<a href="http://www.tinglysningsretten.dk/attester/Pages/Fast%20ejendom.aspx" target="_blank">
+<img border="0" alt="http://www.tinglysningsretten.dk/attester/Pages/Fast%20ejendom.aspx" src="img/tinglysning.png" width="100%">
+</a>
 
 
 Officielle attester i Andels-, Bil-, Person- og Tingbogen for fast ejendom koster Dkk 175 pr. stk.
 Bestilling af udskrifter ved Tinglysningsretten koster Dkk 175 pr. stk. Se nærmere her:
-http://www.tinglysningsretten.dk/attester/Pages/default.aspx
+
+<a href="http://www.tinglysningsretten.dk/attester/Pages/Fast%20ejendom.aspx" target="_blank">
+<img border="0" alt="http://www.tinglysningsretten.dk/attester/Pages/Fast%20ejendom.aspx" src="img/tinglysning3.png" width="100%">
+</a>
 
 Tinglysningsafgifter:
 Reglerne om tinglysningsafgifter fremgår af tinglysningsafgiftsloven.
@@ -8444,7 +8453,7 @@ Skifteretsattest lyst som adkomst for arving(er) koster 0,6 % (oprundet til nær
 Skifteretsattest lyst som adkomst for boet koster Dkk 1.660.
 
 Skøder:
-Find oversigt over oplysninger om handelens parter og afgift på handler her:
+Find oversigt over oplysninger om handelens parter og afgift på handler her:  
 http://www.tinglysningsretten.dk/hvad/afgifter/Documents/Oplysninger%20om%20handelens%20parter%20og%20afgift%20p%C3%A5%20handler.pdf
 
 Udlæg og noteringer:
@@ -8463,13 +8472,13 @@ Fuldmagten kan enten registreres inden anmeldelsen af dokumenterne til tinglysni
 
 For at kunne danne grundlag for automatisk tinglysning, skal fuldmagter udarbejdes efter reglen i § 7 i bekendtgørelse nr. 763 af den 20. juli 2009 om adgang til tinglysningssystemet og tinglysningsmåden (adgangsbekendtgørelsen).
 
-Fuldmagten oprettes digitalt på www.tinglysning.dk enten
+Fuldmagten oprettes digitalt på [www.tinglysning.dk](www.tinglysning.dk) enten
 
 - med digital underskrift og automatisk digital registrering, eller
 
 - ved udskrivning og underskrift på- og fremsendelse i papir. 
 
-Hvis et selskab er registreret i cvr-registeret, sker der automatisk kontrol af selskabets tegningsregler i cvr-registeret. Derfor er det kun nødvendigt at udskrive og underskrive fuldmagten på papir, hvis fuldmagten er givet af selskaber, foreninger, dødsboer og andre juridiske enheder, der ikke har registrerede tegningsregler i cvr-registreret. Her skal medsendes dokumentation for tegningsregler og/eller de tegningsberettigede personer (se "Dokumentation for tegningsberettigelse"):
+Hvis et selskab er registreret i cvr-registeret, sker der automatisk kontrol af selskabets tegningsregler i cvr-registeret. Derfor er det kun nødvendigt at udskrive og underskrive fuldmagten på papir, hvis fuldmagten er givet af selskaber, foreninger, dødsboer og andre juridiske enheder, der ikke har registrerede tegningsregler i cvr-registreret. Her skal medsendes dokumentation for tegningsregler og/eller de tegningsberettigede personer (se "Dokumentation for tegningsberettigelse"):  
 
 http://www.tinglysningsretten.dk/hvad/Pages/Dokumentationfortegningsberettigelseforselskaber,foreningerogandrejuridiskepersoner.aspx
 
@@ -8484,7 +8493,7 @@ For skiftefuldmagter gælder helt særlige vilkår. Læs mere her i vejledningen
 
 http://www.tinglysningsretten.dk/tinglysning/nyvejledninger/Documents/Tingbogen/Skiftefuldmagter%20og%20tinglysningsfuldmagter.pdf  
 
-Vitterlighedsvidner:
+Vitterlighedsvidner:  
 Ved salg og pantsætning skal alle fuldmagter bekræftes af to vitterlighedsvidner. Det skal fremgå af fuldmagten, at vitterlighedsvidnerne med deres underskrift bevidner dateringens rigtighed, underskriftens ægthed og fuldmagtsgivers myndighed, jf. TL § 49, stk. 2. Derfor bør vitterlighedsvidnerne skrive under umiddelbart efter fuldmagtsgiver. En efterfølgende tilføjelse af vitterlighedsvidnerne kan som udgangspunkt ikke ske.  
 
 Vidnerne skal angive deres navn og adresse, stillingsbetegnelse, cpr-nr., datering, personlig og tydelig underskrift. Advokater kan skrive til vitterlighed alene.  
@@ -8495,26 +8504,26 @@ Kravet om vitterlighedsvidner gælder aldrig for offentlige myndigheder.
 
 Andre vejledninger til fuldmagter:  
 
-Digital fuldmagt til Tingbogen:  
-http://www.tinglysningsretten.dk/tinglysning/nyvejledninger/Documents/Tingbogen/Fuldmagt%20(digital)%20til%20brug%20for%20tinglysning.pdf
-
-Digital fuldmagt til Andelsboligbogen:  
-http://www.tinglysningsretten.dk/tinglysning/nyvejledninger/Documents/Andelsboligbogen/Fuldmagt%20(digital)%20til%20brug%20for%20tinglysning.pdf
+<a href="http://www.tinglysningsretten.dk/tinglysning/nyvejledninger/Documents/Tingbogen/Fuldmagt%20(digital)%20til%20brug%20for%20tinglysning.pdf" target="_blank">Digital fuldmagt til Tingbogen klik her</a>  
 
 
-Digital fuldmagt til Bilbogen:
-http://www.tinglysningsretten.dk/tinglysning/nyvejledninger/Documents/Bilbogen/Fuldmagt%20(digital)%20til%20brug%20for%20tinglysning.pdf
+<a href="http://www.tinglysningsretten.dk/tinglysning/nyvejledninger/Documents/Andelsboligbogen/Fuldmagt%20(digital)%20til%20brug%20for%20tinglysning.pdf" target="_blank">Digital fuldmagt til Andelsboligbogen klik her</a>  
 
-Digital fuldmagt til Personbogen:
- 
-http://www.tinglysningsretten.dk/tinglysning/nyvejledninger/Documents/Personbogen/Fuldmagt%20(digital)%20til%20brug%20for%20tinglysning.pdf
 
-Papirfuldmagt til Tingbogen:
+<a href="http://www.tinglysningsretten.dk/tinglysning/nyvejledninger/Documents/Bilbogen/Fuldmagt%20(digital)%20til%20brug%20for%20tinglysning.pdf" target="_blank">Digital fuldmagt til Bilbogen klik her</a>  
 
-http://www.tinglysningsretten.dk/tinglysning/nyvejledninger/Documents/Tingbogen/Fuldmagt%20til%20brug%20for%20tinglysning%20(Tingbogen).pdf
 
-Spørgsmål & svar om fuldmagter:
-http://www.tinglysningsretten.dk/tinglysning/faq/fuldmagt/Pages/default.aspx?FAQCategory=Generelt
+
+<a href="http://www.tinglysningsretten.dk/tinglysning/nyvejledninger/Documents/Personbogen/Fuldmagt%20(digital)%20til%20brug%20for%20tinglysning.pdf" target="_blank">Digital fuldmagt til Personbogen klik her</a>  
+
+<a href="http://www.tinglysningsretten.dk/tinglysning/nyvejledninger/Documents/Tingbogen/Fuldmagt%20til%20brug%20for%20tinglysning%20(Tingbogen).pdf" target="_blank">Digital fuldmagt til Tingbogen klik her</a>  
+
+
+<a href="http://www.tinglysningsretten.dk/tinglysning/faq/fuldmagt/Pages/default.aspx?FAQCategory=Generelt" target="_blank">Spørgsmål & svar om fuldmagter klik her</a>  
+
+
+
+
 
 ### Om Andelsboligbogen  
 I Andelsboligbogen kan kreditorer registrere deres rettigheder (pant, udlæg mv.) over andele i andelsboligforeninger, og aktier og anparter i henholdsvis boligaktieselskaber og boliganpartsselskaber omfattet af tinglysningslovens kapitel 6 b.

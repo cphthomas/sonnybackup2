@@ -1,19 +1,30 @@
-billede
+## billede
 <img src="img/football.png" align="right" width="10%" height="10%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 <img src="img/over1.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-links til quiz
+## billede med url link
+<a href="https://www.tinglysning.dk/tinglysning/landingpage/landingpage.xhtml" target="_blank">
+<img border="0" alt="https://www.tinglysning.dk/tinglysning/landingpage/landingpage.xhtml" src="img/tinglysning.png" width="100%">
+</a>
+
+## embed page
+<div class="video-container"><iframe src="https://www.vp.dk/"  frameborder="0" allowfullscreen="allowfullscreen"></iframe></div> 
+
+
+## links til quiz
 <h3><a href="https://quiz.tepedu.dk/juraerstatning" target="_blank">Quiz Erstatning</a></h3>
 <a href="https://www.forbrug.dk/quiz/ehandelsquizzen/?rn=43716" target="_blank">Tag quizzen fra forbrug.dk, og få svar.</a>
 
 rmd image
 ![](img/mf1.png)
 
-video billede
+## video billede
 <div class="video-container"><iframe src="https://www.youtube.com/embed/1q0K01SQavk" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 embed page
 <div class="video-container"><iframe src="https://www.vp.dk/"  frameborder="0" allowfullscreen="allowfullscreen"></iframe></div> 
+
+
 
 ref til figur
 (se figur \@ref(fig:fordring12))
