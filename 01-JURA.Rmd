@@ -8102,7 +8102,41 @@ En bygning på en lejet grund kan i nogle tilfælde være særskilt fast ejendom
    + TL § 37 om erhvervsløsøre
 
 
-  
+
+```{r pant4, echo=FALSE}
+mydf <- data.frame(
+  S1 = c("I konflikt med" ,
+         "TL § 37, tilbehør til fast ejendom (erhverv)", 
+          "TL § 47, individuelt løsørepant", 
+          "TL § 47b, stk. 2, flydende pant i driftsmateriel", 
+          " TL § 47c, virksomhedspant",
+         "Ejendomsforbehold", 
+          "Udlæg i løsøre"
+),
+  S2 = c("Løsning" ,
+         "Benyt TL § 38", 
+          "Ikke særskilt ret over TL § 38-tilbehør, hvorfor TL § 38 anvendes", 
+          "Ingen konflikt, TL § 47b, stk. 2 finder udelukkende anvendelse i virksomheder fra lejede lokaler.", 
+          "Ikke særskilt ret over TL § 38-tilbehør, hvorfor TL § 38 anvendes", 
+         "Ikke særskilt ret over TL § 38-tilbehør, hvorfor TL § 38 anvendes", 
+          "rpl § 510 udelukker udlæg i løsøre omfattet af TL § 38"
+)
+)
+names(mydf) <- NULL
+mydf %>%
+  kable("html", escape = FALSE, caption = "Tilbehør til fast ejendom, løsøre omfattet af TL § 38") %>%
+  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
+  column_spec(1:2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  # column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  # # column_spec(3, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  row_spec(1,italic = T,bold = T,font_size = 12,color = "white", background = "darkgrey") #%>%
+# scroll_box(width = "100%")
+  # row_spec(1,italic = T,bold = T,font_size = 12)
+  # column_spec(0, angle = -45)%>%
+  # scroll_box(width = "500px") %>%
+  # footnote(general = "Forsikringsankenævnets klageguide",general_title = "Kilde:")%>%
+# footnote(number = "Hvis skadevolder er under 14 år eller er utilregnelig, kan der dog være dækning selv om handlingen er forvoldt forsætligt")
+```
 
 
 
@@ -8682,6 +8716,9 @@ En aftale mellem ejeren af ejendommen og andre kan blive tinglyst. hvis den stif
 Der skal for de fleste dokumenters vedkommende være angivet en eller flere påtaleberettigede i dokumentet. Det er den påtaleberettigede, der skal godkende ændringer, rykninger, eller aflysning.
 
 ### Tingsrettens historie
+
+![](img/tinglysning10.jpg)
+
 Tinglysningen er samlet under Tinglysningsretten i Hobro, og al tinglysning foregår nu digitalt.<a href="https://www.tinglysningsretten.dk/om/Pages/default.aspx" target="_blank">Tinglysningens historie går langt tilbage, læs mere her</a>
  
 

@@ -52,64 +52,78 @@ a + bx = c  (\#eq:linear)
 
 
 
-```r tippy("GBL", size="large" ,interactive = TRUE, arrow = TRUE, tooltip = "<h4>Legitimationsvirkningen indtræder derfor, når udlægshaver meddeler gældsbrevsdebitor, at betaling med frigørende virkning kun kan ske til udlægshaveren.
-<br>
-<br>
-<a href=\"https://www.w3schools.com\" style=\"color:#66FF66\" target=\"_blank\">Visit W3Schools</a>
-<br>
-<br>
-<a href=\"https://www.retsinformation.dk/Forms/R0710.aspx?id=2664\"  style=\"color:#66FF66\" target=\"_blankv\">Arveloven</a>
-<br>
-<br>
-Gældsbrevsdebitor bliver ved betaling til udlægshaver frigjort under samme betingelser som ved betaling efter overdragelse af et gældsbrev. Se RPL § 524.</h4>")``
-
-```
-
-
-
-    <h3>Hvordan må man opsamle og behandle personoplysninger?</h3>
-      ```{r echo=FALSE}
-
-    mydf <- data.frame(
-      S1 = c("Følsomme personoplysninger" ,"Som udgangspunkt ikke, medmindre:<br><br>
-             - Der er givet samtykke<br><br>
-             - Det sker for at sikre personens vitale interesser, og der ikke kan indhentes samtykke (Sygdomsreglen)<br><br>
-             - Der er tale om en forening der behandler oplysningerne som led i deres aktiviteter<br><br>
-             - Hvis man selv har offentliggjort oplysningen<br><br>
-             - For at kunne fastlægge et retskrav<br><br>
-             - For at kunne overholde arbejdsretlige forpligtelser"),
-      S2 = c("Personoplysninger med særlig beskyttelse" ,
-             "Hvis:<br><br>
-             - Der er givet samtykke<br><br>
-             - Det følger af lovgivningen<br><br>
-             - Det sker som til statistiske formål<br><br>
-             - Et af kriterierne fra de følsomme oplysninger er opfyldt"),
-  S3 = c("Andre personoplysninger",
-    "Hvis:<br><br>
-    - Der er givet samtykke<br><br>
-    - Det sker for at opfylde en kontrakt<br><br>
-    - Det sker for at opfylde en retlig forpligtelse<br><br>
-    - Det sker for at sikre personens vitale interesser, og der ikke kan indhentes samtykke (Sygdomsreglen)<br><br>
-    - Det sker for at udføre en opgave i samfundets interesse<br><br>
-    - Der er en legitim interesse hos virksomheden)"
-  )
+```{r pant3, echo=FALSE}
+mydf <- data.frame(
+  S1 = c("Aktivtype" ,
+         "Fast ejendom", 
+          "Biler", 
+          "Løsøre", 
+          "Simple fordringer",
+         "Negotiable gældsbreve", 
+          "Digitale pantebreve", 
+          "Værdipapirer"
+),
+  S2 = c("Ejendomsret" ,
+         "Tinglysning i\ntingbogen", 
+          "Ingen", 
+          "Ingen", 
+          "Denunciation til debitorer",
+         "Rådighedsberøvelse", 
+          "Tinglysning", 
+          "Registrering hos værdipapircentralen, VP securities"
+),
+  S3 = c("Underpant" ,
+          "Tinglysning i\ntingbogen", 
+          "Ingen", 
+          "Ingen", 
+          "Denunciation til debitorer",
+         "", 
+          "Tinglysning", 
+          "Registrering hos værdipapircentralen, VP securities"
+),
+  S4 = c("Udlæg" ,
+         "", 
+          "Tinglysning\nbilbogen\nrådighedsberøvelse", 
+          "Intet", 
+          "Intet",
+         "Rådighedsberøvelse", 
+          "Tinglysning", 
+          "Registrering hos værdipapircentralen, VP securities"
+),
+  S5 = c("Ejendomsforbehold" ,
+         "", 
+          "Tinglysning\nbilbogen", 
+          "Intet", 
+          "",
+         "", 
+          "", 
+          ""
+),
+  S6 = c("Håndpant" ,
+         "", 
+          "", 
+          "Rådighedsberøvelse", 
+          "",
+         "Rådighedsberøvelse", 
+          "", 
+          ""
+)
 )
 names(mydf) <- NULL
-
-
-
 mydf %>%
-  kable("html", escape = FALSE) %>%
+  kable("html", escape = FALSE, caption = "Sikringsakter for aktiver") %>%
   kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
-  column_spec(1, bold = T, border_right = T, color = "white", background = "red") %>%
-  column_spec(2, bold = T, border_right = T, color = "black", background = "yellow") %>%
-  column_spec(3, bold = T, border_right = T, color = "white", background = "green") %>%
-  row_spec(1,italic = T,bold = T,font_size = 12) %>%
+  column_spec(1:6, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  # column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  # # column_spec(3, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  row_spec(1,italic = T,bold = T,font_size = 12,color = "white", background = "darkgrey") %>%
+scroll_box(width = "100%")
+  # row_spec(1,italic = T,bold = T,font_size = 12)
   # column_spec(0, angle = -45)%>%
   # scroll_box(width = "500px") %>%
-  footnote(general = "Datatilsynet",general_title = "Kilde:")
+  # footnote(general = "Forsikringsankenævnets klageguide",general_title = "Kilde:")%>%
+# footnote(number = "Hvis skadevolder er under 14 år eller er utilregnelig, kan der dog være dækning selv om handlingen er forvoldt forsætligt")
 ```
-
 
 
 
