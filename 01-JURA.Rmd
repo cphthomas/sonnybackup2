@@ -8659,10 +8659,12 @@ Efter digitaliseringen den 8. september 2009 bliver lokalplaner og byplanvedtæg
 
  
 
-Plandata.dk er et landsdækkende digitalt system, der stiller planerne til rådighed over internettet her:
+Plandata.dk er et landsdækkende digitalt system, der stiller planerne til rådighed over internettet klik herunder:
 
-<div class="video-container"><iframe src="https://planinfo.erhvervsstyrelsen.dk/plandatadk/"  frameborder="0" allowfullscreen="allowfullscreen"></iframe></div> 
-
+<a href="https://planinfo.erhvervsstyrelsen.dk/plandatadk/" target="_blank">
+<img border="0" alt="https://planinfo.erhvervsstyrelsen.dk/plandatadk/" src="img/tinglysning4.png" width="100%">
+</a>
+ 
  
 
 En aftale mellem ejeren af ejendommen og andre kan blive tinglyst. hvis den stifter (forandrer eller ophæver) en ret over ejendommen, som forpligter ejendommen ud over den pågældende ejers ejertid. For eksempel vil en aftale, som medfører, at andre skal have del i et provenu ved ejerens salg af ejendommen, ikke kunne blive tinglyst som en servitut. 
@@ -8709,10 +8711,10 @@ Som bruger af Retsinformation.dk skal man derfor være opmærksom på, eventuell
 <a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=2370" target="_blank">11. Lov om ændring af lov om tinglysning og forskellige andre love (Digital tinglysning)</a>
 
 
-<a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=17127" target="_blank">12. Tinglysningsafgiftsloven</a>
+<a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=17127" target="_blank">12. Tinglysningsafgiftsloven</a>  
 
 
-<a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=142900" target="_blank">13. Tinglysningsloven</a>
+<a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=142900" target="_blank">13. Tinglysningsloven</a>  
 
 
 

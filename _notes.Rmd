@@ -8,6 +8,10 @@
 <img border="0" alt="https://www.tinglysning.dk/tinglysning/landingpage/landingpage.xhtml" src="img/tinglysning.png" width="100%">
 </a>
 
+## Link target blank
+<a href="https://quiz.tepedu.dk/juraerstatning" target="_blank">Quiz Erstatning</a>
+
+
 ## embed page
 <div class="video-container"><iframe src="https://www.vp.dk/"  frameborder="0" allowfullscreen="allowfullscreen"></iframe></div> 
 
