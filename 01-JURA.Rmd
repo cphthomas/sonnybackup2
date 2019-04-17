@@ -8326,7 +8326,9 @@ Alle tinglysninger foretages i den digitale tingbog, som administreres af Tingly
 
 ###### Hjemmesiden for den digitale tinglysning
 
-
+<a href="https://www.tinglysning.dk/tinglysning/landingpage/landingpage.xhtml">
+<img border="0" alt="https://www.tinglysning.dk/tinglysning/landingpage/landingpage.xhtml" src="img/tinglysning.png" width="100" height="100">
+</a>
 
 
 
