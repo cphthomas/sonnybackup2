@@ -7881,7 +7881,7 @@ Har køber ikke mulighed for at opnå sædvanlig finansiering via bank eller rea
 
 Godt at vide inden man tinglyser:
 
-Al tinglysning foregår digitalt på hjemmesiden tinglysning.dk eller www.tinglysning.dk [www.tinglysning.dk](www.tinglysning.dk). Det er muligt at tinglyse i Tingbogen (fast ejendom) Bilbogen, Andelsboligbogen og Personbogen.
+Al tinglysning foregår digitalt på hjemmesiden www.tinglysning.dk. Det er muligt at tinglyse i Tingbogen (fast ejendom) Bilbogen, Andelsboligbogen og Personbogen.
 
 Alle, der har NemID, har adgang til den digitale tinglysning, men det er en god ide at gøre sig overvejelser omkring, om man har de juridiske forudsætninger for at tinglyse.
 
@@ -8340,7 +8340,7 @@ Den digitale tingbog beliggende i Hobro har således 4 rettighedsregistre:
 * Andelsboligbogen
 * Bilbogen
 * Personbogen
-Opslag i rettighedsregistrene sker på <a href="www.tinglysning.dk" target="_blank">tinglysning.dk</a>
+Opslag i rettighedsregistrene sker på www.tinglysning.dk.
 
 
  
@@ -8357,7 +8357,7 @@ Opslag i rettighedsregistrene sker på <a href="www.tinglysning.dk" target="_bla
    + Tinglyst uden anmærkninger
 * Der skal betales tinglysningsafgift i forbindelse med anmeldelse af de fleste typer af dokumenter.
 
-* <a href="www.tinglysning.dk" target="_blank"></a> <a href="www.tinglysning.dk" target="_blank">På tinglysning.dk</a>  har man desuden mulighed for at hente tingbogsattester samt udskrift af dokumenter tinglyst efter 7. september 2009, klik på billedet for at besøge siden hvor man henter tingbogsattester:  
+* På www.tinglysning.dk har man desuden mulighed for at hente tingbogsattester samt udskrift af dokumenter tinglyst efter 7. september 2009, klik på billedet for at besøge siden hvor man henter tingbogsattester:  
 
 <a href="http://www.tinglysningsretten.dk/attester/Pages/Fast%20ejendom.aspx" target="_blank">
 <img border="0" alt="http://www.tinglysningsretten.dk/attester/Pages/Fast%20ejendom.aspx" src="img/tinglysning2.png" width="100%">
@@ -8535,12 +8535,12 @@ Andre vejledninger til fuldmagter:
 I Andelsboligbogen kan kreditorer registrere deres rettigheder (pant, udlæg mv.) over andele i andelsboligforeninger, og aktier og anparter i henholdsvis boligaktieselskaber og boliganpartsselskaber omfattet af tinglysningslovens kapitel 6 b.
 
 Hvordan får man en rettighed tinglyst i Andelsboligbogen:
-Anmeldelser til Andelsboligbogen foregår digitalt på <a href="www.tinglysning.dk" target="_blank">tinglysning.dk</a>
+Anmeldelser til Andelsboligbogen foregår digitalt på www.tinglysning.dk
 
 Tinglysningsretten kan ikke rådgive én om, hvordan man får en rettighed tinglyst. Hvis man er i tvivl om, hvordan man får en rettighed tinglyst, bør man søge professionel rådgivning, f.eks. hos en advokat. 
 
 Forespørgsler i Andelsboligbogen:  
-Forespørgsler i Andelsboligbogen skal ske via <a href="www.tinglysning.dk" target="_blank">tinglysning.dk</a>. <a href="http://www.tinglysningsretten.dk/tinglysning/nyvejledninger/Documents/Andelsboligbogen/Foresp%C3%B8rg%20Andelsboligbogen%20(andelsboligbogsattest).pdf" target="_blank">Man kan finde en vejledning i at lave opslag i Den Digitale Andelsboligbog her</a>  
+Forespørgsler i Andelsboligbogen skal ske via www.tinglysning.dk. <a href="http://www.tinglysningsretten.dk/tinglysning/nyvejledninger/Documents/Andelsboligbogen/Foresp%C3%B8rg%20Andelsboligbogen%20(andelsboligbogsattest).pdf" target="_blank">Man kan finde en vejledning i at lave opslag i Den Digitale Andelsboligbog her</a>  
 	
 
 Hvad koster det at tinglyse i Andelsboligbogen?  
@@ -8559,12 +8559,12 @@ Bilbogen er et landsdækkende centralt register, hvor kreditorer kan registrere 
 
 Hvordan får man en rettighed tinglyst i Bilbogen?
 
-Anmeldelser til Bilbogen foregår digitalt på hjemmesiden <a href="www.tinglysning.dk" target="_blank">tinglysning.dk</a>
+Anmeldelser til Bilbogen foregår digitalt på hjemmesiden www.tinglysning.dk.
 
 Tinglysningsretten kan ikke rådgive én om, hvordan man får en rettighed tinglyst. Hvis man er i tvivl om, hvordan man får en rettighed tinglyst, bør man søge professionel rådgivning, f.eks. hos en advokat.
 
 Oplysninger fra Bilbogen?
-Forespørgsler i Bilbogen skal ske via <a href="www.tinglysning.dk" target="_blank">tinglysning.dk</a>
+Forespørgsler i Bilbogen skal ske via www.tinglysning.dk.
 
 <a href="http://www.tinglysningsretten.dk/tinglysning/nyvejledninger/Documents/Bilbogen/Foresp%C3%B8rg%20Bilbogen%20(bilbogsattest).pdf" target="_blank">Man kan finde en vejledning i at lave opslag i Den Digitale Bilbog her</a>
 
@@ -8604,12 +8604,12 @@ Høstpant.
 Pantebreve, der giver pant i årets høst, bliver tinglyst i Personbogen. Der sker automatisk notering på den faste ejendom, hvis den ejes af debitor.
  
 Hvordan får man en rettighed tinglyst i Personbogen?
-Anmeldelser til Personbogen foregår digitalt på hjemmesiden <a href="www.tinglysning.dk" target="_blank">tinglysning.dk</a>
+Anmeldelser til Personbogen foregår digitalt på hjemmesiden www.tinglysning.dk.
 
 Tinglysningsretten kan ikke rådgive dig om, hvordan du får en rettighed tinglyst. Hvis du er i tvivl om, hvordan du får en rettighed tinglyst, bør du søge professionel rådgivning, f.eks. hos en advokat.
 
 Forespørgsler i Personbogen
-Forespørgsler i Personbogen skal ske via <a href="www.tinglysning.dk" target="_blank">tinglysning.dk</a>
+Forespørgsler i Personbogen skal ske via www.tinglysning.dk.
 
 Find vejledning i at forespørge her:
 http://www.tinglysningsretten.dk/tinglysning/nyvejledninger/Pages/default.aspx?RootFolder=/tinglysning/nyvejledninger/Documents/Andelsboligbogen&FolderCTID=&View={795E6871-897C-428B-BED7-CC5437B07F4B}
@@ -8657,7 +8657,7 @@ Det bliver registreret i Tingbogen, hvem der ejer en fast ejendom. Der er ikke l
 
 Tinglysningsloven og tinglysningsbekendtgørelsen indeholder regler om, hvilke oplysninger dokumentet skal indeholde.
 
-Man skal anmelde dokumentet på <a href="www.tinglysning.dk" target="_blank">tinglysning.dk</a>
+Man skal anmelde dokumentet på www.tinglysning.dk.
 
 ### Hvad er servitutter?
 Servitutter er forskellige begrænsede rettigheder over fast ejendom, for eksempel færdselsret, jagtret, aftægtsret og forkøbsret tinglyses som servitut.
