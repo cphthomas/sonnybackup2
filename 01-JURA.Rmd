@@ -8453,8 +8453,8 @@ Skifteretsattest lyst som adkomst for arving(er) koster 0,6 % (oprundet til nær
 Skifteretsattest lyst som adkomst for boet koster Dkk 1.660.
 
 Skøder:
-Find oversigt over oplysninger om handelens parter og afgift på handler her:  
-http://www.tinglysningsretten.dk/hvad/afgifter/Documents/Oplysninger%20om%20handelens%20parter%20og%20afgift%20p%C3%A5%20handler.pdf
+
+<a href="http://www.tinglysningsretten.dk/hvad/afgifter/Documents/Oplysninger%20om%20handelens%20parter%20og%20afgift%20p%C3%A5%20handler.pdf" target="_blank">Find oversigt over oplysninger om handelens parter og afgift på handler her:  </a>
 
 Udlæg og noteringer:
 Koster ikke noget at få tinglyst.
@@ -8480,7 +8480,9 @@ Fuldmagten oprettes digitalt på <a href="www.tinglysning.dk" target="_blank">ti
 
 Hvis et selskab er registreret i cvr-registeret, sker der automatisk kontrol af selskabets tegningsregler i cvr-registeret. Derfor er det kun nødvendigt at udskrive og underskrive fuldmagten på papir, hvis fuldmagten er givet af selskaber, foreninger, dødsboer og andre juridiske enheder, der ikke har registrerede tegningsregler i cvr-registreret. Her skal medsendes dokumentation for tegningsregler og/eller de tegningsberettigede personer (se "Dokumentation for tegningsberettigelse"):  
 
-http://www.tinglysningsretten.dk/hvad/Pages/Dokumentationfortegningsberettigelseforselskaber,foreningerogandrejuridiskepersoner.aspx
+
+
+<a href="http://www.tinglysningsretten.dk/hvad/Pages/Dokumentationfortegningsberettigelseforselskaber,foreningerogandrejuridiskepersoner.aspx" target="_blank">Dokumentation for tegningsberettigelse</a>
 
 I ganske særlige tilfælde, hvor det ikke er muligt at oprette en fuldmagt efter reglen i § 7 – f.eks. hvis fuldmagten skal give mulighed for selvkontrahering – kan der anmeldes fuldmagt efter reglen i § 6 i adgangsbekendtgørelsen. Tinglysningsretten kan dog ikke anbefale brugen af fuldmagter efter § 6, da sagsbehandlingstiden, ved anvendelse af disse, forlænges væsentligt.  
 
@@ -8489,9 +8491,7 @@ Findes der allerede en fuldmagt, der ikke opfylder kravene i TL § 49 b og adgan
 Hvis fuldmægtigen skal have ret til at videregive fuldmagten til underskrift v/tredjemand, skal det fremgå direkte af fuldmagten, at fuldmægtigen må udstede en tinglysningsfuldmagt til tredjemand, eller at bemyndigelsen må videregives.  
 
 Skiftefuldmagter:  
-For skiftefuldmagter gælder helt særlige vilkår. Læs mere her i vejledningen ”Skiftefuldmagter og tinglysningsfuldmagter”:  
-
-http://www.tinglysningsretten.dk/tinglysning/nyvejledninger/Documents/Tingbogen/Skiftefuldmagter%20og%20tinglysningsfuldmagter.pdf  
+For skiftefuldmagter gælder helt særlige vilkår.  <a href="http://www.tinglysningsretten.dk/tinglysning/nyvejledninger/Documents/Tingbogen/Skiftefuldmagter%20og%20tinglysningsfuldmagter.pdf" target="_blank">Læs mere her i vejledningen ”Skiftefuldmagter og tinglysningsfuldmagter”</a>
 
 Vitterlighedsvidner:  
 Ved salg og pantsætning skal alle fuldmagter bekræftes af to vitterlighedsvidner. Det skal fremgå af fuldmagten, at vitterlighedsvidnerne med deres underskrift bevidner dateringens rigtighed, underskriftens ægthed og fuldmagtsgivers myndighed, jf. TL § 49, stk. 2. Derfor bør vitterlighedsvidnerne skrive under umiddelbart efter fuldmagtsgiver. En efterfølgende tilføjelse af vitterlighedsvidnerne kan som udgangspunkt ikke ske.  
@@ -8533,18 +8533,16 @@ Anmeldelser til Andelsboligbogen foregår digitalt på <a href="www.tinglysning.
 
 Tinglysningsretten kan ikke rådgive én om, hvordan man får en rettighed tinglyst. Hvis man er i tvivl om, hvordan man får en rettighed tinglyst, bør man søge professionel rådgivning, f.eks. hos en advokat. 
 
-Forespørgsler i Andelsboligbogen:
-Forespørgsler i Andelsboligbogen skal ske via <a href="www.tinglysning.dk" target="_blank">tinglysning.dk</a>. Man kan finde en vejledning i at lave opslag i Den Digitale Andelsboligbog her:
-	http://www.tinglysningsretten.dk/tinglysning/nyvejledninger/Documents/Andelsboligbogen/Foresp%C3%B8rg%20Andelsboligbogen%20(andelsboligbogsattest).pdf
-	
+Forespørgsler i Andelsboligbogen:  
+Forespørgsler i Andelsboligbogen skal ske via <a href="www.tinglysning.dk" target="_blank">tinglysning.dk</a>. <a href="http://www.tinglysningsretten.dk/tinglysning/nyvejledninger/Documents/Andelsboligbogen/Foresp%C3%B8rg%20Andelsboligbogen%20(andelsboligbogsattest).pdf" target="_blank">Man kan finde en vejledning i at lave opslag i Den Digitale Andelsboligbog her</a>  
 	
 
-	Hvad koster det at tinglyse i Andelsboligbogen?
-Det koster som udgangspunkt 1.660 kr. at tinglyse et dokument i Andelsboligbogen. Desuden skal du i nogle tilfælde betale en tillægsafgift. Tillægsafgiftens størrelse afhænger af værdien af den rettighed, som man vil have tinglyst.
+Hvad koster det at tinglyse i Andelsboligbogen?  
+Det koster som udgangspunkt 1.660 kr. at tinglyse et dokument i Andelsboligbogen. Desuden skal du i nogle tilfælde betale en tillægsafgift. Tillægsafgiftens størrelse afhænger af værdien af den rettighed, som man vil have tinglyst.  
 
-Spørgsmål og svar om Andelsboligbogen inden for generelle områder som f.eks. fuldmagter og prøvetinglysning finder du i deres respektive kategorier. Denne kategori indeholder spørgsmål og svar, der udelukkende vedrører Andelsboligbogen:
+Spørgsmål og svar om Andelsboligbogen inden for generelle områder som f.eks. fuldmagter og prøvetinglysning finder du i deres respektive kategorier. Denne kategori indeholder spørgsmål og svar, der udelukkende vedrører Andelsboligbogen:  
 
-http://www.tinglysningsretten.dk/tinglysning/faq/andel/Pages/default.aspx?FAQCategory=Generelt
+<a href="http://www.tinglysningsretten.dk/tinglysning/faq/andel/Pages/default.aspx?FAQCategory=Generelt" target="_blank">Se spørgsmål og svar om Andelsboligbogen her</a>
 
 
 ### Om bilbogen
@@ -8561,10 +8559,8 @@ Tinglysningsretten kan ikke rådgive én om, hvordan man får en rettighed tingl
 
 Oplysninger fra Bilbogen?
 Forespørgsler i Bilbogen skal ske via <a href="www.tinglysning.dk" target="_blank">tinglysning.dk</a>
-Man kan finde en vejledning i at lave opslag i Den Digitale Bilbog her:
 
-http://www.tinglysningsretten.dk/tinglysning/nyvejledninger/Documents/Bilbogen/Foresp%C3%B8rg%20Bilbogen%20(bilbogsattest).pdf
- 
+<a href="http://www.tinglysningsretten.dk/tinglysning/nyvejledninger/Documents/Bilbogen/Foresp%C3%B8rg%20Bilbogen%20(bilbogsattest).pdf" target="_blank">Man kan finde en vejledning i at lave opslag i Den Digitale Bilbog her</a>
 
 Hvad koster det at tinglyse i Bilbogen?
 Det koster som udgangspunkt en grundafgift på 1.660 kr. at tinglyse et dokument i Bilbogen. Desuden skal man i nogle tilfælde betale en tillægsafgift. Tillægsafgiftens størrelse afhænger af værdien af den rettighed, som man vil have tinglyst.
