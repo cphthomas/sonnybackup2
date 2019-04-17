@@ -7755,6 +7755,8 @@ om skyldneres ret til at frigøre sig ved deponering). Loven vedrører en debito
 
 # Pant i fast ejendom, løsøre
  
+ 
+![](img/tinglysning7.png)
 
 ## Parter, regler og definitioner
 
@@ -8324,6 +8326,9 @@ Speak 23
  
  
 ## Tinglysningssystemet  
+
+![](img/tinglysning5.png)
+
 Alle tinglysninger foretages i den digitale tingbog, som administreres af Tinglysningsretten i Hobro. 
 
 
@@ -8368,6 +8373,9 @@ Opslag i rettighedsregistrene sker på www.tinglysning.dk.
 
 
 ### Hvad er tinglysning?
+
+![](img/tinglysning6.png)
+
 Tinglysning er en offentlig registrering af:
 
 >Rettigheder over en fast ejendom, f.eks. ejendomsret (skøder), pant (pantebreve mv.), retsforfølgning (udlæg, konkurs mv.) og begrænsede rettigheder over en ejendom (byrder, servitutter mv.). Siden 8. september 2009 er rettigheder over fast ejendom blevet tinglyst i Det Digitale Tinglysningssystem.
