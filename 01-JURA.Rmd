@@ -8324,6 +8324,8 @@ Speak 23
 ## Tinglysningssystemet  
 Alle tinglysninger foretages i den digitale tingbog, som administreres af Tinglysningsretten i Hobro. 
 
+
+
 ###### Hjemmesiden for den digitale tinglysning klik for at besøge siden
 
 <a href="https://www.tinglysning.dk/tinglysning/landingpage/landingpage.xhtml" target="_blank">
@@ -8333,11 +8335,7 @@ Alle tinglysninger foretages i den digitale tingbog, som administreres af Tingly
 
 
 Den digitale tingbog beliggende i Hobro har således 4 rettighedsregistre:
-
-
-
-https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjTu5XjzpzhAhXCIlAKHe3kCwYQjRx6BAgBEAU&url=http%3A%2F%2Fprovesystem.tinglysningsretten.dk%2Fdocumentation%2Fopslag_i_andelsb%2Fassima_online_doc%2Fhtmldoc.html&psig=AOvVaw0vccHXvDd_kAwFAipaV06O&ust=1553580025651425
-
+  
 * Tingbogen
 * Andelsboligbogen
 * Bilbogen
@@ -8348,7 +8346,7 @@ Opslag i rettighedsregistrene sker på tinglysning.dk
  
 * Alle tinglysningsanmeldelser skal foretages digitalt med en digital underskrift
 * Enkelte undtagelser fra digital anmeldelse og underskrift
-* Fuldmagtsordning kan sørge for at give andre personer fuldmagt til at underskrive digitalt (om fuldmagter ved digital tinglysning, se afsnit 16.7.5.)
+* Fuldmagtsordning kan sørge for at give andre personer fuldmagt til at underskrive digitalt (om fuldmagter ved digital tinglysning, se afsnit \@(omfuldmagter)  
 * Anmelderordning kan give professionelle aktører fx advokater adgang til at underskrive på andres vegne uden brug af fuldmagtsordning 
  
 * Alle dokumenter bliver tidsstemplet ved tinglysningsanmeldelsen, og det er dette tidspunkt, der er afgørende for prioritetsstilling
@@ -8361,7 +8359,7 @@ Opslag i rettighedsregistrene sker på tinglysning.dk
 
 * På www.tinglysning.dk har man desuden mulighed for at hente tingbogsattester samt udskrift af dokumenter tinglyst efter 7. september 2009: http://www.tinglysningsretten.dk/attester/Pages/Fast%20ejendom.aspx
 
-16.7.1. Hvad er tinglysning?
+### Hvad er tinglysning?
 Tinglysning er en offentlig registrering af:
 
 >Rettigheder over en fast ejendom, f.eks. ejendomsret (skøder), pant (pantebreve mv.), retsforfølgning (udlæg, konkurs mv.) og begrænsede rettigheder over en ejendom (byrder, servitutter mv.). Siden 8. september 2009 er rettigheder over fast ejendom blevet tinglyst i Det Digitale Tinglysningssystem.
@@ -8397,7 +8395,7 @@ Hvis en ejendom bliver solgt til flere, er det som regel den køber, der først 
 
 Tingbøgerne har det, som man kalder ”negativ troværdighed”. Det betyder for eksempel, at en køber/panthaver mv. ikke kan blive mødt med krav, der ikke er tinglyst. Dette gælder, hvis køberen/panthaveren mv. ikke ad anden vej havde kendskab til kravets eksistens.
 
-### Tinglysningsafgifter/-gebyrer (april 2019) 
+### Tinglysningsafgifter/-gebyrer (april 2019) {#tinglysningsafgifter}
 Her lidt information om reglerne om tinglysningsafgifter og -gebyrer.
 
 Tinglysningsgebyrer:
@@ -8455,7 +8453,7 @@ Koster ikke noget at få tinglyst.
 Ægtepagter:
 Dkk 1.660.
 
-### Om fuldmagter ved digital tinglysning 
+### Om fuldmagter ved digital tinglysning {#omfuldmagter}
  
 I de tilfælde, hvor personer ikke kan eller ikke ønsker at underskrive digitalt, kan der anvendes en fuldmagt. Ved fuldmagten giver fuldmagtsgiver retten til at underskrive dokumenter videre til en tredje part, f.eks. dennes advokat. Fuldmagter skal altid foreligge i original for Tinglysningsretten.
 
