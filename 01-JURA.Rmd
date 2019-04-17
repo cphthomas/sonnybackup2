@@ -8072,6 +8072,7 @@ Pant i fast ejendom kan både bruges som sikkerhed via et pantebrev til køb af 
 
 
 Vigtigste dokumenter, der således kan tinglyses:
+
 * Endeligt skøde: Ikke andre betingelser end købesummens betaling
 * Betinget skøde: Endelig overdragelse er gjort betinget af andre forhold end købesummens betaling.
 * Alm. pantebreve: Skal udfærdiges på standardblanket. Foranstående hæftelser skal angives.
@@ -8162,6 +8163,7 @@ TL § 37, stk. 1 har følgende formulering;
 ”Hvor en fast ejendom varigt er indrettet med en særlig erhvervsvirksomhed for øje, omfatter tinglyst pantebrev i ejendommen, når intet andet er aftalt, også det dertil hørende driftsinventar og driftsmateriel - derunder maskiner og tekniske anlæg af enhver art - og ved landejendomme tillige den til ejendommen hørende besætning, gødning, afgrøder og andre frembringelser, for så vidt de ikke udskilles ifølge en regelmæssig drift af den pågældende ejendom”
 
 Hvis ejendommen er:
+
 *	En erhvervsejendom. I reglen skal indretningen fremgå af særlige bygningsforanstaltninger. Specielt inventar mv. kan i særlige tilfælde være tilstrækkeligt, medens faktisk anvendelse til erhverv ikke er nok. Ikke hele ejendommen behøver at være indrettet med henblik på erhvervsvirksomheden, når den blot ikke spiller en kun ubetydelig rolle.
 *	Som er varigt indrettet. I tvivlstilfælde kan der ses hen til betydningen for pantesikkerheden, U 1934 352. Det er uden betydning, om ejendommen først ved senere bygningsændring er blevet indrettet til erhvervsejendom
 *	Med en særlig erhvervsvirksomhed for øje. Der ligger næppe nogen begrænsning i udtrykket »særlig«. Ejendommens indretning til erhverv behøver således ikke at sigte til et bestemt erhverv, men er dette tilfældet, er løsøret kun omfattet af panteretten efter TL § 37 i det omfang, det hører til en virksomhed af den art, hvortil ejendommen er indrettet,
@@ -8363,11 +8365,7 @@ Opslag i rettighedsregistrene sker på www.tinglysning.dk.
 <img border="0" alt="http://www.tinglysningsretten.dk/attester/Pages/Fast%20ejendom.aspx" src="img/tinglysning2.png" width="100%">
 </a>
 
-![](https://youtu.be/zNzZ1PfUDNk)
-![](https://www.youtube.com/watch?v=zNzZ1PfUDNk)
 
-![](https://vimeo.com/142172484)
-![](https://player.vimeo.com/video/142172484)
 
 ### Hvad er tinglysning?
 Tinglysning er en offentlig registrering af:
