@@ -8324,10 +8324,10 @@ Speak 23
 ## Tinglysningssystemet  
 Alle tinglysninger foretages i den digitale tingbog, som administreres af Tinglysningsretten i Hobro. 
 
-###### Hjemmesiden for den digitale tinglysning
+###### Hjemmesiden for den digitale tinglysning klik for at besøge siden
 
-<a href="https://www.tinglysning.dk/tinglysning/landingpage/landingpage.xhtml">
-<img border="0" alt="https://www.tinglysning.dk/tinglysning/landingpage/landingpage.xhtml" src="img/tinglysning.png" width="100" height="100">
+<a href="https://www.tinglysning.dk/tinglysning/landingpage/landingpage.xhtml" target="_blank">
+<img border="0" alt="https://www.tinglysning.dk/tinglysning/landingpage/landingpage.xhtml" src="img/tinglysning.png" width="100%">
 </a>
 
 
