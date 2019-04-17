@@ -7975,7 +7975,8 @@ mydf %>%
   column_spec(1:6, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
   # column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
   # # column_spec(3, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  row_spec(1,italic = T,bold = T,font_size = 12,color = "white", background = "darkgrey") #%>%
+  row_spec(1,italic = T,bold = T,font_size = 12,color = "white", background = "darkgrey") %>%
+scroll_box(width = "100%")
   # row_spec(1,italic = T,bold = T,font_size = 12)
   # column_spec(0, angle = -45)%>%
   # scroll_box(width = "500px") %>%
