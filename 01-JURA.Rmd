@@ -8340,7 +8340,7 @@ Den digitale tingbog beliggende i Hobro har således 4 rettighedsregistre:
 * Andelsboligbogen
 * Bilbogen
 * Personbogen
-Opslag i rettighedsregistrene sker på tinglysning.dk
+Opslag i rettighedsregistrene sker på <a href="www.tinglysning.dk" target="_blank">tinglysning.dk</a>
 
 
  
@@ -8357,7 +8357,7 @@ Opslag i rettighedsregistrene sker på tinglysning.dk
    + Tinglyst uden anmærkninger
 * Der skal betales tinglysningsafgift i forbindelse med anmeldelse af de fleste typer af dokumenter.
 
-* På www.tinglysning.dk har man desuden mulighed for at hente tingbogsattester samt udskrift af dokumenter tinglyst efter 7. september 2009, klik på billedet for at besøge siden hvor man henter tingbogsattester:  
+* På <a href="www.tinglysning.dk" target="_blank">tinglysning.dk</a> har man desuden mulighed for at hente tingbogsattester samt udskrift af dokumenter tinglyst efter 7. september 2009, klik på billedet for at besøge siden hvor man henter tingbogsattester:  
 
 <a href="http://www.tinglysningsretten.dk/attester/Pages/Fast%20ejendom.aspx" target="_blank">
 <img border="0" alt="http://www.tinglysningsretten.dk/attester/Pages/Fast%20ejendom.aspx" src="img/tinglysning2.png" width="100%">
@@ -8374,7 +8374,7 @@ Tinglysning er en offentlig registrering af:
 
 >Rettigheder over en virksomheds aktiver og fremtidige erhvervelser (virksomhedspant), rettigheder over bl.a. løsøre og ægtepagter. Siden 21. marts 2011 er rettigheder over disse rettigheder blevet tinglyst i Det Digitale Tinglysningssystem.
 
-https://www.legaldesk.dk/media/522761/log-pa-tinglysningen-stor.png
+
 
  
 ### Tinglysning som sikringsakt
@@ -8406,7 +8406,7 @@ Tinglysningsgebyrer:
 
 Tingbogen over fast ejendom, Andelsbolig-, Bil- og Personbogen
 
-Opslag på [www.tinglysning.dk](www.tinglysning.dk) er gratis.
+Opslag på <a href="www.tinglysning.dk" target="_blank">tinglysning.dk</a> er gratis.
 
 <a href="http://www.tinglysningsretten.dk/attester/Pages/Fast%20ejendom.aspx" target="_blank">
 <img border="0" alt="http://www.tinglysningsretten.dk/attester/Pages/Fast%20ejendom.aspx" src="img/tinglysning.png" width="100%">
@@ -8472,7 +8472,7 @@ Fuldmagten kan enten registreres inden anmeldelsen af dokumenterne til tinglysni
 
 For at kunne danne grundlag for automatisk tinglysning, skal fuldmagter udarbejdes efter reglen i § 7 i bekendtgørelse nr. 763 af den 20. juli 2009 om adgang til tinglysningssystemet og tinglysningsmåden (adgangsbekendtgørelsen).
 
-Fuldmagten oprettes digitalt på [www.tinglysning.dk](www.tinglysning.dk) enten
+Fuldmagten oprettes digitalt på <a href="www.tinglysning.dk" target="_blank">tinglysning.dk</a> enten
 
 - med digital underskrift og automatisk digital registrering, eller
 
@@ -8529,13 +8529,15 @@ Andre vejledninger til fuldmagter:
 I Andelsboligbogen kan kreditorer registrere deres rettigheder (pant, udlæg mv.) over andele i andelsboligforeninger, og aktier og anparter i henholdsvis boligaktieselskaber og boliganpartsselskaber omfattet af tinglysningslovens kapitel 6 b.
 
 Hvordan får man en rettighed tinglyst i Andelsboligbogen:
-Anmeldelser til Andelsboligbogen foregår digitalt på hjemmesiden www.tinglysning.dk
+Anmeldelser til Andelsboligbogen foregår digitalt på <a href="www.tinglysning.dk" target="_blank">tinglysning.dk</a>
 
 Tinglysningsretten kan ikke rådgive én om, hvordan man får en rettighed tinglyst. Hvis man er i tvivl om, hvordan man får en rettighed tinglyst, bør man søge professionel rådgivning, f.eks. hos en advokat. 
 
 Forespørgsler i Andelsboligbogen:
-Forespørgsler i Andelsboligbogen skal ske via www.tinglysning.dk. Man kan finde en vejledning i at lave opslag i Den Digitale Andelsboligbog her:
+Forespørgsler i Andelsboligbogen skal ske via <a href="www.tinglysning.dk" target="_blank">tinglysning.dk</a>. Man kan finde en vejledning i at lave opslag i Den Digitale Andelsboligbog her:
 	http://www.tinglysningsretten.dk/tinglysning/nyvejledninger/Documents/Andelsboligbogen/Foresp%C3%B8rg%20Andelsboligbogen%20(andelsboligbogsattest).pdf
+	
+	
 
 	Hvad koster det at tinglyse i Andelsboligbogen?
 Det koster som udgangspunkt 1.660 kr. at tinglyse et dokument i Andelsboligbogen. Desuden skal du i nogle tilfælde betale en tillægsafgift. Tillægsafgiftens størrelse afhænger af værdien af den rettighed, som man vil have tinglyst.
@@ -8553,12 +8555,12 @@ Bilbogen er et landsdækkende centralt register, hvor kreditorer kan registrere 
 
 Hvordan får man en rettighed tinglyst i Bilbogen?
 
-Anmeldelser til Bilbogen foregår digitalt på hjemmesiden www.tinglysning.dk
+Anmeldelser til Bilbogen foregår digitalt på hjemmesiden <a href="www.tinglysning.dk" target="_blank">tinglysning.dk</a>
 
 Tinglysningsretten kan ikke rådgive én om, hvordan man får en rettighed tinglyst. Hvis man er i tvivl om, hvordan man får en rettighed tinglyst, bør man søge professionel rådgivning, f.eks. hos en advokat.
 
 Oplysninger fra Bilbogen?
-Forespørgsler i Bilbogen skal ske via www.tinglysning.dk
+Forespørgsler i Bilbogen skal ske via <a href="www.tinglysning.dk" target="_blank">tinglysning.dk</a>
 Man kan finde en vejledning i at lave opslag i Den Digitale Bilbog her:
 
 http://www.tinglysningsretten.dk/tinglysning/nyvejledninger/Documents/Bilbogen/Foresp%C3%B8rg%20Bilbogen%20(bilbogsattest).pdf
@@ -8600,12 +8602,12 @@ Høstpant.
 Pantebreve, der giver pant i årets høst, bliver tinglyst i Personbogen. Der sker automatisk notering på den faste ejendom, hvis den ejes af debitor.
  
 Hvordan får man en rettighed tinglyst i Personbogen?
-Anmeldelser til Personbogen foregår digitalt på hjemmesiden www.tinglysning.dk
+Anmeldelser til Personbogen foregår digitalt på hjemmesiden <a href="www.tinglysning.dk" target="_blank">tinglysning.dk</a>
 
 Tinglysningsretten kan ikke rådgive dig om, hvordan du får en rettighed tinglyst. Hvis du er i tvivl om, hvordan du får en rettighed tinglyst, bør du søge professionel rådgivning, f.eks. hos en advokat.
 
 Forespørgsler i Personbogen
-Forespørgsler i Personbogen skal ske via www.tinglysning.dk
+Forespørgsler i Personbogen skal ske via <a href="www.tinglysning.dk" target="_blank">tinglysning.dk</a>
 
 Find vejledning i at forespørge her:
 http://www.tinglysningsretten.dk/tinglysning/nyvejledninger/Pages/default.aspx?RootFolder=/tinglysning/nyvejledninger/Documents/Andelsboligbogen&FolderCTID=&View={795E6871-897C-428B-BED7-CC5437B07F4B}
@@ -8653,7 +8655,7 @@ Det bliver registreret i Tingbogen, hvem der ejer en fast ejendom. Der er ikke l
 
 Tinglysningsloven og tinglysningsbekendtgørelsen indeholder regler om, hvilke oplysninger dokumentet skal indeholde.
 
-Man skal anmelde dokumentet på www.tinglysning.dk
+Man skal anmelde dokumentet på <a href="www.tinglysning.dk" target="_blank">tinglysning.dk</a>
 
 ### Hvad er servitutter?
 Servitutter er forskellige begrænsede rettigheder over fast ejendom, for eksempel færdselsret, jagtret, aftægtsret og forkøbsret tinglyses som servitut.
