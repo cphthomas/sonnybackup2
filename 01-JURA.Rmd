@@ -7756,7 +7756,7 @@ om skyldneres ret til at frigøre sig ved deponering). Loven vedrører en debito
 # Pant i fast ejendom, løsøre
  
  
-![](img/tinglysning7.png)
+![](img/tinglysning7.jpg)
 
 ## Parter, regler og definitioner
 
@@ -7828,7 +7828,7 @@ mydf %>%
  
 ### Forskellige typer pant
 
-![](img/tinglysning8.png)
+![](img/tinglysning8.jpg)
 
 * Håndpant
    + Kræver rådighedsberøvelse
@@ -8329,7 +8329,7 @@ Speak 23
  
 ## Tinglysningssystemet  
 
-![](img/tinglysning5.png)
+![](img/tinglysning5.jpg)
 
 Alle tinglysninger foretages i den digitale tingbog, som administreres af Tinglysningsretten i Hobro. 
 
@@ -8376,7 +8376,7 @@ Opslag i rettighedsregistrene sker på www.tinglysning.dk.
 
 ### Hvad er tinglysning?
 
-![](img/tinglysning6.png)
+![](img/tinglysning6.jpg)
 
 Tinglysning er en offentlig registrering af:
 
