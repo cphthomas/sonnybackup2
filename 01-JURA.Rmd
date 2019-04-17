@@ -8346,7 +8346,7 @@ Opslag i rettighedsregistrene sker på tinglysning.dk
  
 * Alle tinglysningsanmeldelser skal foretages digitalt med en digital underskrift
 * Enkelte undtagelser fra digital anmeldelse og underskrift
-* Fuldmagtsordning kan sørge for at give andre personer fuldmagt til at underskrive digitalt (om fuldmagter ved digital tinglysning, se afsnit \@(omfuldmagter)  
+* Fuldmagtsordning kan sørge for at give andre personer fuldmagt til at underskrive digitalt (om fuldmagter ved digital tinglysning, se afsnit \@ref(omfuldmagter)  
 * Anmelderordning kan give professionelle aktører fx advokater adgang til at underskrive på andres vegne uden brug af fuldmagtsordning 
  
 * Alle dokumenter bliver tidsstemplet ved tinglysningsanmeldelsen, og det er dette tidspunkt, der er afgørende for prioritetsstilling

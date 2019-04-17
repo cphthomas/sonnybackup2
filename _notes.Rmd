@@ -20,17 +20,24 @@ ref til figur
 
 ref til overskrift 
 
+### Om fuldmagter ved digital tinglysning {#omfuldmagter}
+
+\@ref(omfuldmagter)
+
+
+
+
+See equation \@ref(eq:linear)
+
+\begin{equation}
+a + bx = c  (\#eq:linear)
+\end{equation}
 
 
 
 
 
-
-
-
-
-
-``r tippy("GBL", size="large" ,interactive = TRUE, arrow = TRUE, tooltip = "<h4>Legitimationsvirkningen indtræder derfor, når udlægshaver meddeler gældsbrevsdebitor, at betaling med frigørende virkning kun kan ske til udlægshaveren.
+```r tippy("GBL", size="large" ,interactive = TRUE, arrow = TRUE, tooltip = "<h4>Legitimationsvirkningen indtræder derfor, når udlægshaver meddeler gældsbrevsdebitor, at betaling med frigørende virkning kun kan ske til udlægshaveren.
 <br>
 <br>
 <a href=\"https://www.w3schools.com\" style=\"color:#66FF66\" target=\"_blank\">Visit W3Schools</a>
@@ -41,7 +48,7 @@ ref til overskrift
 <br>
 Gældsbrevsdebitor bliver ved betaling til udlægshaver frigjort under samme betingelser som ved betaling efter overdragelse af et gældsbrev. Se RPL § 524.</h4>")``
 
-
+```
 
 
 
