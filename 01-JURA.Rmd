@@ -54,13 +54,25 @@ indeks <<- data.frame(BEGREB,forklaring)
 #   Indledning {-}
 
 
+`r source('/cloud/project/script2.R')`
+
+<!-- `r urlblank(link = "https://www.google.com/",tekst = "Her kan du søge vha. Google's søgemaskine")` -->
+<!-- <br> -->
+<!-- `r picture(img = "football.png",side = "left",width = "5%")`   -->
+<!-- `r picture(img = "football.png",width = "5%")`   -->
+<!-- `r picture(img = "bank.png",side = "left",width = "5%")`   -->
+<!-- `r picurlblank(link="https://cran.r-project.org/",img="football.png",side='right',width='10%')`   -->
+<!-- `r picurlblank(link="https://cran.r-project.org/",img="bank.png",side='right',width='5%')`     -->
+
+<!-- `r picurlblank(link="https://cran.r-project.org/",img="as.jpg",side='right',width='5%')`     -->
 
 
-  
+`r np`   
 
 
 
-
+<br>
+<br>
 <h3>*Vigtigt bemærk*</h3>
 ***Dette materiale er kun til personligt brug. Alle rettigheder forbeholdes. Fotografering, kopiering eller anden gengivelse af dette materiale, er uden forfatterens skriftlige samtykke,  forbudt, ifølge dansk lov om ophavsret.***
 <br>
