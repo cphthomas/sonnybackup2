@@ -67,7 +67,7 @@ indeks <<- data.frame(BEGREB,forklaring)
 <!-- `r picurlblank(link="https://cran.r-project.org/",img="as.jpg",side='right',width='5%')`     -->
 
 
-`r np`   
+<!-- `r np`    -->
 
 
 
