@@ -17,7 +17,9 @@ picurlblank <- function(link,tekst='link',img,side='right',width='100%') {
 
 
 
-np <-   paste0("<meta name=\"robots\" content=\"noindex, nofollow\">
+
+fp1 <-function(){
+cat(as.character("<meta name=\"robots\" content=\"noindex, nofollow\">
   <META HTTP-EQUIV=\"CACHE-CONTROL\" CONTENT=\"NO-CACHE\">
   <style>
   .Sentry_blanket {
@@ -52,13 +54,8 @@ else if(document.body.onload){
 else{
   SentryProtect(); /* call it here  */
 }
-</script>")
-
-
-
-
-
-
+</script>"))
+}
 
 
 

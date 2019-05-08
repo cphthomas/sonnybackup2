@@ -3,17 +3,15 @@ output:
   html_document: 
     css: style.css
     df_print: kable
-   
+includes:
+      before_body: header.html 
+      after_body: disqus.html 
     
 ---
 
 
 
-```{r start,echo=FALSE,warning=FALSE,include=FALSE}
-#pacman autoload evt. manglende pakker
-if (!require("pacman")) install.packages("pacman")
-pacman::p_load(timeDate, DT,plotly,rio,exams,e1071,WriteXLS,maps,knitr,kableExtra,ggplot2,openxlsx,quantmod,highcharter,forecast,networkD3,DiagrammeR,visNetwork,tippy) #load various packages
-```
+
 
 
 
@@ -67,7 +65,7 @@ indeks <<- data.frame(BEGREB,forklaring)
 <!-- `r picurlblank(link="https://cran.r-project.org/",img="as.jpg",side='right',width='5%')`     -->
 
 
-<!-- `r np`    -->
+
 
 
 
@@ -842,6 +840,8 @@ I juridisk Ordbog defineres juridisk metode som følger:
 
 
 # Aftaleret
+
+`r fp1()`
 
 ## Aftaleloven
 <img src="img/deal1.jpg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>

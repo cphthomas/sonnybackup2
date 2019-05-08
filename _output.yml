@@ -16,4 +16,8 @@ bookdown::gitbook:
       instapper: no
       vk: no
       all: no
-      
+includes:
+      after_body: disqus.html
+
+
+
