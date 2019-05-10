@@ -15,47 +15,16 @@ picurlblank <- function(link,tekst='link',img,side='right',width='100%') {
 }
 
 
+# `r urlblank(link = "https://www.google.com/",tekst = "Her kan du søge vha. Google's søgemaskine")`
+# <br>
+#   `r picture(img = "football.png",side = "left",width = "5%")`
+# `r picture(img = "football.png",width = "5%")`
+# `r picture(img = "bank.png",side = "left",width = "5%")`
+# `r picurlblank(link="https://cran.r-project.org/",img="football.png",side='right',width='10%')`
+# `r picurlblank(link="https://cran.r-project.org/",img="bank.png",side='right',width='5%')`
+#
+# `r picurlblank(link="https://cran.r-project.org/",img="as.jpg",side='right',width='5%')`
 
-
-
-fp1 <-function(){
-cat(as.character("<meta name=\"robots\" content=\"noindex, nofollow\">
-  <META HTTP-EQUIV=\"CACHE-CONTROL\" CONTENT=\"NO-CACHE\">
-  <style>
-  .Sentry_blanket {
-    background-color:#FFFFFF;
-      position:absolute;
-    z-index: 9001;
-      top:0px;
-    left:0px;
-    width:105%;
-    height:10000px;
-    padding:20px;
-  }
-<script language=\"JavaScript\" type=\"text/JavaScript\">
-    PpLID = \"36813, 39445,38854,38855,36811,36812\";
-  pageLevel = 0;
-  SingleOut = 0;
-  Sentry_ID = 22367;
-</script>
-  <script type=\"text/javascript\" src=\"https://www.sentrylogin.com/sentry/scripts/Sentry_pAJAX.js\"></script>
-  <noscript>
-  <meta http-equiv=\"refresh\" content=\"0; url=https://www.sentrylogin.com/sentry/noscript.asp\">
-  </noscript>
-  <div id=\"Sentry_noJS\" class=\"Sentry_blanket\">Sentry Page Protection</div>
-  <div id=\"Sentry_redirecting\" class=\"Sentry_blanket\" style=\"display:none;\">Please Wait...</div>
-  <script language=\"JavaScript\" type=\"text/JavaScript\">
-  if(window.onload){
-    window.onload = SentryProtect;
-  }
-else if(document.body.onload){
-  document.body.onload = SentryProtect;
-}
-else{
-  SentryProtect(); /* call it here  */
-}
-</script>"))
-}
 
 
 

@@ -3,10 +3,6 @@ output:
   html_document: 
     css: style.css
     df_print: kable
-includes:
-      before_body: header.html 
-      after_body: disqus.html 
-    
 ---
 
 
@@ -54,15 +50,6 @@ indeks <<- data.frame(BEGREB,forklaring)
 
 `r source('/cloud/project/script2.R')`
 
-<!-- `r urlblank(link = "https://www.google.com/",tekst = "Her kan du søge vha. Google's søgemaskine")` -->
-<!-- <br> -->
-<!-- `r picture(img = "football.png",side = "left",width = "5%")`   -->
-<!-- `r picture(img = "football.png",width = "5%")`   -->
-<!-- `r picture(img = "bank.png",side = "left",width = "5%")`   -->
-<!-- `r picurlblank(link="https://cran.r-project.org/",img="football.png",side='right',width='10%')`   -->
-<!-- `r picurlblank(link="https://cran.r-project.org/",img="bank.png",side='right',width='5%')`     -->
-
-<!-- `r picurlblank(link="https://cran.r-project.org/",img="as.jpg",side='right',width='5%')`     -->
 
 
 
@@ -78,9 +65,11 @@ indeks <<- data.frame(BEGREB,forklaring)
 
 
 
-# Retskilder retssystemet og juridisk-metode
+# <sup><font color="red">Premium </font></sup>Retskilder retssystemet og juridisk-metode
 
-
+```{r, echo=FALSE, results='asis'}
+#cat(readLines('np.html'))
+```
 
 ## Grundloven om Danmarks forfatning
 
@@ -841,7 +830,7 @@ I juridisk Ordbog defineres juridisk metode som følger:
 
 # Aftaleret
 
-`r fp1()`
+
 
 ## Aftaleloven
 <img src="img/deal1.jpg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
