@@ -8102,7 +8102,38 @@ En bygning på en lejet grund kan i nogle tilfælde være særskilt fast ejendom
    + TL § 38 om indlagt løsøre
    + TL § 37 om erhvervsløsøre
 
-
+```{r pant5, echo=FALSE}
+mydf <- data.frame(
+  S1 = c("I konflikt med" ,
+          "TL § 47, individuelt løsørepant", 
+          "TL § 47b, stk. 2, flydende pant i driftsmateriel", 
+          " TL § 47c, virksomhedspant",
+         "Ejendomsforbehold", 
+          "Udlæg i løsøre"
+),
+  S2 = c("Løsning" ,
+         "Løsørepant skal aftales før aktivet kommer ind på ejendommen.", 
+         "Ingen konflikt, TL § 47b, stk. 2 finder udelukkende anvendelse i virksomheder fra lejede lokaler.", 
+          "TL § 37 vinder altid over virksomhedspant jf. TL § 47c stk. 4", 
+         "Ejendomsforbeholdet vinder, hvis det er gyldigt", 
+          "Det er ikke muligt at få udlæg i løsøre omfattet af TL $ 37 jf. rpl. § 510"
+)
+)
+names(mydf) <- NULL
+mydf %>%
+  kable("html", escape = FALSE, caption = "Tilbehør til fast ejendom, løsøre omfattet af TL § 37") %>%
+  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
+  column_spec(1:2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  # column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  # # column_spec(3, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  row_spec(1,italic = T,bold = T,font_size = 12,color = "white", background = "darkgrey") #%>%
+# scroll_box(width = "100%")
+  # row_spec(1,italic = T,bold = T,font_size = 12)
+  # column_spec(0, angle = -45)%>%
+  # scroll_box(width = "500px") %>%
+  # footnote(general = "Forsikringsankenævnets klageguide",general_title = "Kilde:")%>%
+# footnote(number = "Hvis skadevolder er under 14 år eller er utilregnelig, kan der dog være dækning selv om handlingen er forvoldt forsætligt")
+```
 
 ```{r pant4, echo=FALSE}
 mydf <- data.frame(
@@ -8143,7 +8174,8 @@ mydf %>%
 
 
 
- 
+
+
 Tilvækstlæren  
 
 * Omfatter løsøreaktiver, som ikke kan fjernes fra ejendommen uden at gøre skade på den
@@ -8305,8 +8337,60 @@ Bortset fra de særlige undtagelser fra forbuddet mod underpant i tingsindbegreb
 
 Oversigt over, hvad der er omfattet af virksomhedspant, jf. TL § 47:   
 
+
+
+```{r pant6, echo=FALSE}
+mydf <- data.frame(
+  S1 = c(
+           
+          "TL § 47b, stk. 2, flydende pant i driftsmateriel", 
+          "TL § 47c, virksomhedspant",
+         "Ejendomsforbehold", 
+          "Udlæg i løsøre",
+         "TL § 47c, virksomhedspant",
+          "Ejendomsforbehold", 
+          "Udlæg i løsøre",
+         "Ejendomsforbehold", 
+          "Udlæg i løsøre",
+         "Udlæg i løsøre"
+),
+  S2 = c(
+         
+         "Individuelt løsørepant, tinglyst inden det kommer ind i virksomheden vil have førsteprioritet", 
+          "Individuelt løsørepant, tinglyst inden det kommer ind i virksomheden vil have førsteprioritet",  
+         "Ejendomsforbeholdet skal respekteres af pant", 
+          "Løsørepant skal respekteres af udlæg",
+         "Tinglysningstidspunktet afgør prioritetsstillingen",
+         "Ejendomsforbeholdet skal respekteres af pant", 
+         "Løsørepant skal respekteres af udlæg",
+         "Ejendomsforbeholdet skal respekteres af pant", 
+         "Ved meddelelse inden 3 dage, skal udlæg respekteres af virksomhedspant",
+         "Ejendomsforbeholdet skal respekteres af udlæg"
+)
+)
+names(mydf) <- NULL
+mydf %>%
+  kable("html", escape = FALSE, caption = "Virksomhedspant TL § 47") %>%
+  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
+   column_spec(1:2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  # column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+   # column_spec(3, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  pack_rows(index = c( "TL § 47 Individuelt løsørepant" = 4, "TL § 47 b stk. 2 flydende pant" = 3,"TL § 47 c virksomhedspant" = 2,"Ejendomsforbehold" = 1),label_row_css = "background-color: #666; color: #fff;")
+
+
+# scroll_box(width = "100%")
+  # row_spec(1,italic = T,bold = T,font_size = 12)
+  # column_spec(0, angle = -45)%>%
+  # scroll_box(width = "500px") %>%
+  # footnote(general = "Forsikringsankenævnets klageguide",general_title = "Kilde:")%>%
+# footnote(number = "Hvis skadevolder er under 14 år eller er utilregnelig, kan der dog være dækning selv om handlingen er forvoldt forsætligt")
+```
+
  
+
+
  
+  
  
  
 ### Fordringspant for udestående og fremtidige fordringer -  TL § 47d
