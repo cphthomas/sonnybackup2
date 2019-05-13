@@ -56,20 +56,33 @@ indeks <<- data.frame(BEGREB,forklaring)
 
 
 
+
+
 <br>
 <br>
 <h3>*Vigtigt bemærk*</h3>
+
 ***Dette materiale er kun til personligt brug. Alle rettigheder forbeholdes. Fotografering, kopiering eller anden gengivelse af dette materiale, er uden forfatterens skriftlige samtykke,  forbudt, ifølge dansk lov om ophavsret.***
 <br>
 <br>
 
 
 
-# Retskilder retssystemet og juridisk-metode
+
+`r icon::fa("medal")` 
+
+
+
+
+
+
+# Retskilder retssystemet og juridisk-metode 
 
 ```{r, echo=FALSE, results='asis'}
 #cat(readLines('np.html'))
 ```
+
+
 
 ## Grundloven om Danmarks forfatning
 
@@ -144,7 +157,7 @@ Ifølge grundloven har dronningen og Folketinget i fællesskab magten til at lov
 Dronningen har ingen indflydelse på, hvem der skal være ministre. Det bestemmer statsministeren. Hun har heller ingen indflydelse på, hvilke partier der skal danne regering. Det handler grundlovens §§ 12-15 bl.a. om.
 Domstolene har magten til at dømme. De afgør, om folk har overtrådt landets love og skal straffes. Og de tager stilling i sager, hvor borgere har indbyrdes konflikter. Domstolene afgør også, om ministerier og kommuner har overtrådt lovene, og om lovene overholder grundloven.
 I 1999 fastslog Højesteret, jf. U 1999.841 H, at den såkaldte Tvindlov var i strid med grundlovens § 3. Tvindlovens bestemmelse om, at en række Tvindskoler ikke længere skulle have penge fra det offentlige, var derfor ugyldig.  
- 
+
 
 ## Folketinget som den lovgivende magt
 Folketinget er Danmarks parlament. Her vedtages al lovgivning i Danmark. Folketingets grundlæggende opgaver og nogle af arbejdsformerne er beskrevet i grundloven.  Andre metoder er praksisser, der har udviklet sig gennem de snart 170 år, Folketinget har eksisteret.
@@ -800,14 +813,14 @@ Retskildepolycentri er en nyere retsvidenskabelig erkendelse af, at dannelsen af
 ## Juridisk metode
 Juridisk metode, fremgangsmåde ved stillingtagen til juridiske problemer.  Metoden består for det første af en beskrivelse og identifikation af de retskilder, som gyldigt kan inddrages i en juridisk argumentation; for det andet af læren om, hvordan retskilderne fortolkes. Juridisk metode består af 3 hovedelementer:  
 
-Et faktum (Hændelsesforløbet fx der er sket økonomisk misbrug af en kortholderens mistede dankort)  
+Et faktum (Hændelsesforløbet fx der er sket økonomisk misbrug af en kortholderens mistede Dankort)  
 +  
 Et retsfaktum (Hvilken retsregel i betalingsloven skal anvendes i forhold til tredjemandsmisbruget af Dankortet)  
 =  
-En retsfølge (Afgørelsen, hvem der kommer til at betale for misbruget af dankortet banken eller kortholderen)  
+En retsfølge (Afgørelsen, hvem der kommer til at betale for misbruget af Dankortet banken eller kortholderen)  
 
-Se f.eks. i henhold til bestemmelsen i betalingslovens § 100, stk. 4, nr. 3, hæfter betaleren for op til 8.000 kr. af misbrug, som finder sted som følge af betalerens groft uforsvarlige adfærd. 
-Begrebet groft uforsvarlig adfærd er ikke nærmere afgrænset i betalingsloven, men traditionelt anvendes begrebet »grov uagtsomhed« som betegnelse for »tilsidesættelse af den agtpågivenhed, som selv skødesløse personer plejer at udvise.« Med anvendelsen af begrebet groft uforsvarlig adfærd er det således præciseret, at grov uagtsomhed i sædvanlig forstand ikke er tilstrækkeligt til at pådrage betaleren hæftelse efter bestemmelsen. Der skal altså mere til. Groft uforsvarlig adfærd må herefter forstås som sløseri, der er præget af ligegyldighed i forbindelse med opbevaring af bl.a. pinkoden. Der skal derfor meget til efter praksis i Pengeinstitutankenævnet, før der statueres groft uforsvarlig adfærd.
+Se f.eks. i henhold til lovbestemmelsen i betalingslovens § 100, stk. 4, nr. 3, hæfter betaleren for op til 8.000 kr. af misbrug, som finder sted som følge af betalerens groft uforsvarlige adfærd. 
+Begrebet groft uforsvarlig adfærd er ikke nærmere afgrænset i betalingsloven, men traditionelt anvendes begrebet »grov uagtsomhed« som betegnelse for »tilsidesættelse af den agtpågivenhed, som selv skødesløse personer plejer at udvise.« Med anvendelsen af begrebet groft uforsvarlig adfærd er det således præciseret, at grov uagtsomhed i sædvanlig forstand ikke er tilstrækkeligt til at pådrage betaleren hæftelse efter bestemmelsen. Der skal altså mere til. Groft uforsvarlig adfærd må herefter forstås som sløseri, der er præget af ligegyldighed i forbindelse med opbevaring af bl.a. pinkoden. Der skal derfor meget til efter praksis i Pengeinstitutankenævnet (nu Det finansielle Ankenævn), før der statueres groft uforsvarlig adfærd.
 
 ---
 
@@ -823,21 +836,17 @@ Begrebet groft uforsvarlig adfærd er ikke nærmere afgrænset i betalingsloven,
 ---
 
 Den juridiske metode indeholder væsentlige elementer af vurdering og skøn og er derfor mindre eksakt end de metoder, der anvendes inden for mange andre fagområder.
-I juridisk Ordbog defineres juridisk metode som følger: 
+I juridisk Ordbog (Bo von Eyben, 14. udg.) defineres juridisk metode som følger:"den metode, der skal anvendes for at afgøre, hvilken regel der er gældende for et bestemt retsområde. Dette forudsætter kendskab til læren om retskilderne og evne til herudfra at finde de relevante retskilder og at anvende dem korrekt på det givne forhold..." 
 
  
 
 
-# Aftaleret<sup><font color="red"> Premium</font></sup>
-
-
-
-## Aftaleloven
+# Aftaleloven
 <img src="img/deal1.jpg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Aftalelovens principper har betydning på hele aftaleområdet, fx i:
 
 * Forsikringsaftaleloven, kreditaftaleloven, forbrugeraftaleloven, AB 18, købeloven, E-handelsloven m.fl.
-*	Aftaleindgåelse - aftaleloven §§2-9
+*	Aftaleindgåelse - aftalelovens §§ 2-9
   + Deklaratorisk, dvs. parterne kan aftale anden fremgangsmåde ved aftaleindgåelse, end den der er beskrevet i aftaleloven.
 
 
@@ -871,13 +880,13 @@ HR: Aftalefrihed – vi kan frit aftale hvad vi vil
       +	Funktionærlovens regler om opsigelsesvarsler
       +	Forbrugeraftalelovens regler om fortrydelsesret
 *	U2: Urimelige aftaler, aftalelovens §§ 38c, jf. 36
-*	U3: Lov og ærbarhed
+*	U3: Lov og ærbarhed Danske Lov fra 1683
 
 
 
 ### Hvad er en aftale?
 
-Ordet ”aftale”: En aftale - jf. aftalelovens titel - består af viljeserklæringer, som to eller flere personer afgiver indbyrdes, og hvoraf mindst én erklæring er et løfte, som har karakter tilbud. Aftalebegrebet bruges oftest om et tilbud, som er accepteret af modparten, f.eks. en pagt, traktat, kontrakt, charter, overenskomst, vedtægt, vedtagelse, konvention og studehandel. Aftaler er bindende, uanset om de er mundtlige eller skriftlige, jf. aftalelovens § 1. Mundtlige aftaler er således lige så bindende som skriftlige, jf. DL 5–1–2 og forudsætningsvis § 3, stk. 2, som fastslår, at tilbud, der fremsættes mundtligt skal accepteres straks. De mundtlige kan bare være sværere at bevise, hvis parterne bliver uenige om aftalens indhold. Kontrakten er skriftlig og kan håndhæves i retssystemet. Bevisbyrde - Den part der hævder en mundtlig aftale er indgået, har bevisbyrden (som er hovedreglen i dansk ret; en ligefrem bevisbyrde).
+Ordet ”aftale”: En aftale - jf. aftalelovens titel - består af viljeserklæringer, som to eller flere personer afgiver indbyrdes, og hvoraf mindst én erklæring er et løfte, som har karakter tilbud. Aftalebegrebet bruges oftest om et tilbud, som er accepteret af modparten, f.eks. en pagt, traktat, kontrakt, charter, overenskomst, vedtægt, vedtagelse, konvention og studehandel. Aftaler er bindende, uanset om de er mundtlige eller skriftlige, jf. aftalelovens § 1. Mundtlige aftaler er således lige så bindende som skriftlige, jf. Danske Lov, DL 5–1–2 og forudsætningsvis aftalelovens § 3, stk. 2, som fastslår, at tilbud, der fremsættes mundtligt skal accepteres straks. De mundtlige kan bare være sværere at bevise, hvis parterne bliver uenige om aftalens indhold. Kontrakten er skriftlig og kan håndhæves i retssystemet. Bevisbyrde - Den part der hævder en mundtlig aftale er indgået, har bevisbyrden (som er hovedreglen i dansk ret; en ligefrem bevisbyrde).
 
 
 Mundtlige aftaler ctr. skriftlige aftaler:
@@ -1096,10 +1105,11 @@ Situation: Acceptanten vil annullere sin accept
 *	Svar/accept kan tilbagekaldes af acceptanten, hvis tilbagekaldelsen kommer frem inden eller samtidig med, at accepten kommer til tilbudsgivers kundskab.
 
 
-Re integra-reglen - aftalelovens § 39, 2. pkt.:  
+Se den såkaldte "Re integra-reglen" - aftalelovens § 39, 2. pkt.:  
 Under særlige omstændigheder kan tilbagekaldelse alligevel ske efter fristens udløb, hvis to betingelser er opfyldt:  
 
 1.	Tilbuddet eller accepten må ikke have virket bestemmende på modtagerens handlemåde, fx har tilbudsgiver sat produktion af ordren i gang på baggrund af accepten?
+
 2.	Årsagen til at tilbagekaldelsen er kommet for sent frem, skyldes særlige omstændigheder.
 Re integra-reglen kan ikke påberåbes bare fordi man har fortrudt. Der skal noget særligt til.
 
@@ -1111,6 +1121,7 @@ Re integra-reglen kan ikke påberåbes bare fordi man har fortrudt. Der skal nog
 Accepten skal være i overensstemmelse med tilbuddet – spejlbillede, jf. aftalelovens § 6:
 
 * HR: § 6, stk. 1: En uoverensstemmende accept er et afslag, og vil blive betragtet som et modbud (nyt tilbud), men fra acceptantens side.
+
 * U: § 6, stk. 2 – En uoverensstemmende accept betragtes ikke som et modbud (nyt tilbud), hvis afsenderen tror,	at accepten er i overensstemmelse med tilbuddet og tilbudsgiveren må indse at acceptanten tror at accepten er ok.  
 
 NB !! Hvis tilbudsgiver ikke vil være bundet af indholdet i den ”forkerte”
@@ -1194,20 +1205,23 @@ row_spec(5:9, bold = T, color = "white", background = "darkgrey")
 
 ```
 <img src="img/deal4.jpg" align="right" width="60%" height="60%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-De stærke ugyldighedsgrunde:
 
+De stærke ugyldighedsgrunde:
 *	Falsk
 *	Forfalskning
 *	Forvanskning, aftalelovens § 32, stk. 2.
 *	Voldelig tvang, aftalelovens § 28, stk. 1
 *	Umyndighed, værgemål, fornuftsmangel (Værgemålsloven)
-De svage ugyldighedsgrunde:
 
+De svage ugyldighedsgrunde:
 *	Simpel tvang, aftalelovens § 29
 *	Svig, aftalelovens § 30
 *	Udnyttelse, aftalelovens § 31
 *	Fejlskrift eller anden fejltagelse, aftalelovens § 32, stk. 1 
-*	Falsk: Dokumentet er falsk, fx ved falsk underskrift på  en selvskyldnerkaution. Løftet er ikke ægte.
+
+Nærmere om ugyldighedsgrundende:
+
+*	Falsk: Dokumentet er falsk, fx ved falsk underskrift på en selvskyldnerkaution. Løftet er ikke ægte.
 *	Forfalskning: Lånedokumentet er forfalsket, hvis der er ændret i dokumentet, fx et beløb – ændret fra 250.000 kr. til 550.000 kr. Løftet er ægte fra starten, men indholdet af løftet ændres. Eller der bliver forfalsket en underskrift.
 *	Forvanskning: Aftaler eller beskeder der under fremsendelsen ændres eller forvanskes ved en fejl, hvorved aftalen får et andet indhold, aftalelovens § 32, stk. 2, fx af et bud eller i en fax.
     + Hvis afsenderen ikke vil være bundet af indholdet i den fejlagtige erklæring, skal han uden ugrundet ophold efter at han har opdaget fejlen, give besked til modtageren om, at han ikke vil være bundet. Gør han ikke det, er han bundet af indholdet i den fejlagtige aftale.
@@ -1280,7 +1294,7 @@ Kompulsiv tvang/psykisk tvang, fx trusler om boykot, skandalisering og afpresnin
 
 #### Aftalers ugyldighed
 
-Svig, AFTL § 30
+Svig, aftalelovens § 30
 
 Svig: Fejlinformation, urigtige oplysninger og  fortielser, der bruges eller tilbageholdes, for at få en aftale i hus.
 
@@ -1288,7 +1302,7 @@ Svig: Fejlinformation, urigtige oplysninger og  fortielser, der bruges eller til
 Situation: Sælger af en båd påstår urigtigt, at båden har været ejet af en berømthed, og på den baggrund meddeler køber, at han vil købe båden, trods den høje købesum.
 
 * Løftet om køb af båden kan erklæres ugyldigt, hvis modtageren af løftet var i ond tro bådesælgeren. Løftet er så ikke bindende for bådekøberen.
-* Bådesælgeren er i ond tro, hvis: han vidste eller burde vide om et forhold og alligevel vælger imod bedrevidende, at bruge urigtige oplysninger eller fortie sandheden, for at få en aftale i hus
+* Bådesælgeren er i ond tro, hvis: han vidste eller burde vide om et forhold og alligevel vælger imod bedrevidende, at bruge urigtige oplysninger eller fortie sandheden, for at få en aftale i hus.
 
 Svig udøvet af tredjemand
 
@@ -1312,11 +1326,14 @@ Fejlskrift: Fx en skrivelse får et andet indhold end tilsigtet. Løftet i skriv
 
 Modsætningsvis: Hvis løftemodtager ikke indså eller burde have kunnet indse, at det var en fejl, er løftemodtager i god tro og aftalen er gyldig.
 
+Speak
+
 #### God og ond tro
 
 *	God tro
       + Løftemodtager(LM) havde ikke viden om ugyldighedsgrunden.
       + Løftemodtager(LM) vidste ikke eller burde have vidst, at løftet fra løftegiver(LG) var mangelfuldt, fx afgivet pga. ulovlig tvang eller at løftegiver var umyndig
+      
 *	Ond tro
       + Løftemodtager havde en viden om ugyldighedsgrunden. Løftemodtager indså eller burde have indset, at løftet fra løftegiver var mangelfuldt, fx afgivet pga. ulovlig tvang eller at løftegiver var umyndig
  
@@ -1373,9 +1390,6 @@ Standardvilkår ses eksempelvis i fortrykt lejekontrakt, salgsaftale for biler, 
         Betingelse: Standardvilkårene skal være påtrykt eller vedhæftet kontrakten. Vilkår der eftersendes efter underskrift gælder ikke, da vilkårene så ikke er gensidigt vedtaget.
 * U: Et standardvilkår kan tilsidesættes, hvis det vurderes som urimeligt for kunden (aftalelovens § 36 og § 38 a-d)
  
-
-
-
 
 *	Salgs- og leveringsbetingelser skal præsenteres for kunden inden eller i forbindelse med aftalens indgåelse. Fremsendelse sammen med faktura anses ikke for vedtaget
 *	Usædvanlige vilkår skal fremhæves i en kontrakt, hvis de skal anses for vedtaget – må ikke gemmes blandt ”de små bogstaver.” Risiko for tilsidesættelse, jf. AFTALELOVENS § 36.
@@ -1520,7 +1534,7 @@ row_spec(c(1), bold = T, color = "white", background = "darkgrey") %>%
 
 * Fuldmagt med særlig tilværelse:
   + Stillingsfuldmagt, jf. aftalelovens § 10, stk. 2
-  + Specialfuldmagt, jf. § aftalelovens § 13
+  + Specialfuldmagt, jf. aftalelovens § 13
   + Offentlig bekendtgjort fuldmagt, jf. aftalelovens § 14, stk. 1
   + Skriftlig fuldmagt/forevisningsfuldmagt, jf. aftalelovens § 16, stk. 1
 
@@ -1607,7 +1621,7 @@ Aftaleloven har ikke afgjort, fra hvilket tidspunkt bekendtgørelse f.eks. i et 
 #### Skriftlig fuldmagt/forevisningsfuldmagt, jf. aftalelovens § 16:
 
 ”En skriftlig fuldmagt, som er overgivet fuldmægtigen, og som må anses bestemt til at være i hans besiddelse og at forevises for tredjemand, tilbagekaldes derved, at den på fuldmagtsgiverens forlangende tilbagegives ham eller tilintetgøres. 
-Stk. 2. Fuldmægtigen er pligtig til på forlangende at give fuldmagten tilbage til fuldmagtsgiveren”
+Stk. 2. Fuldmægtigen er pligtig til på forlangende at give fuldmagten tilbage til fuldmagtsgiveren”.
 
 * En skriftlig fuldmagt, der er beregnet til forevisning for andre – fx ”hent min pakke- fuldmagt”, generalfuldmagt.
 * Ophører når fuldmagten tilbagegives til fuldmagtsgiver eller fuldmagten tilintetgøres.
@@ -1626,7 +1640,7 @@ Stk. 2. Fuldmægtigen er pligtig til på forlangende at give fuldmagten tilbage 
 
 * Denne type fuldmagt er kendetegnet ved, at den ikke er kendt eller synlig for omverdenen.
 * Kaldes også for en aftalelovens § 18-fuldmagt: ”En fuldmagt, der alene hviler på fuldmagtsgiverens erklæring til fuldmægtigen, er tilbagekaldt, når erklæringen om, at fuldmagten ikke længere skal gælde, er kommet frem til fuldmægtigen”.
-* Fuldmagten/instruksen gives ofte mundtligt,         men kan også gives skriftligt.
+* Fuldmagten/instruksen gives ofte mundtligt, men kan også gives skriftligt.
 * Der sondres ikke mellem bemyndigelse og legitimation, da fuldmagtens omfang og bemyndigelsen er sammenfaldende.
  
 
@@ -1698,34 +1712,31 @@ Fuldmægtigen skal erstatte tredjemand den positive opfyldelsesinteresse, dvs. t
 
 
 ## Introduktion til forbrugeraftaleloven
-<img src="img/consum1.jpg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>Lovens formål:
+Forbrugeraftalelovens (FBL) formål:
 
 * Beskyttelsespræceptiv – loven kan ikke fraviges til skade for forbrugeren, FBL § 33, men forbrugeren kan godt stilles bedre end, hvad lovgivningen tilsiger.
 
-Speak23
+Speak 4-1
 
 Forbrugeraftale: Indgås mellem to parter, hvor den erhvervsdrivende indgår aftalen som led i sit erhverv, mens den anden part (forbrugeren) handler uden for sit erhverv, jf. FBL § 2, stk. 1.
 
-Speak 23
+Speak 4-2
 
 Erhvervsdrivende formidlere: En erhvervsdrivende formidler, der skaber kontakt imellem private handlende, skal også overholde forbrugeraftaleloven
 – se sag om QXL (internet-auktionsudbyder).
 
-Speak23 
+Speak 4-3 
 
  
- 
-
-
 Skærpede krav ved B2C ift B2B: Virksomheder, der handler med forbrugere, skal overholde forbrugeraftaleloven.
 Bevisbyrde - aftaletype: Den erhvervsdrivende, som påstår aftalen ikke er en forbrugeraftale, har bevisbyrden, jf. FBL § 2, stk. 2.
 
-Speak23:
+Speak 4-4:
 
 
  
 Forbrugerombudsmanden(FOB): Særligt FOB fører
-tilsyn med at forbrugeraftaleloven overholdes – se www.forbrug.dk
+tilsyn med at FBL overholdes – se www.forbrug.dk
  
 
 
@@ -1735,7 +1746,7 @@ tilsyn med at forbrugeraftaleloven overholdes – se www.forbrug.dk
 <img src="img/sale1.jpg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Hovedregel: Forbud mod uanmodet telefonisk eller direkte personlig henvendelse til forbrugere på deres bopæl, arbejdsplads, skoler, gymnasier, universiteter eller andre steder, hvor der ikke er almindelig adgang, fx også foreninger, hvis henvendelsen fra virksomheden har til formål at opnå en aftale med forbrugeren, jf. FBL § 4, stk. 1.
  
-Speak 23
+Speak 4-5
 
 Undtagelser: FBL § 4, Stk. 2 – telefoniske henvendelse må gerne ske hvis det handler om:
 
@@ -1744,7 +1755,7 @@ Undtagelser: FBL § 4, Stk. 2 – telefoniske henvendelse må gerne ske hvis det
 * Formidling af forsikringsaftaler og
 * Tegning af abonnement, der omfatter redningstjeneste eller sygetransport.
  
-( Telefonsalg)
+## Telefonsalg
  
 Ved telefoniske henvendelser omfattet af FBL § 4, Stk. 2, bestilling af bøger, abonnementer på aviser mv. skal forbrugeren ved hvert opkald have oplysning om:
  
@@ -1757,9 +1768,7 @@ Ved telefoniske henvendelser omfattet af FBL § 4, Stk. 2, bestilling af bøger,
 Virksomheden bør tjekke	Robinson-listen inden henvendelse  
 Derudover gælder markedsføringslovens § 10, stk. 6: Den erhvervsdrivende skal ved den første henvendelse til forbrugeren, oplyse om retten til at frabede sig uanmodede henvendelser fra den erhvervsdrivende i fremtiden.
 
- 
-
- 
+## Salg uden for den erhvervsdrivendes faste forretningssted
 
 Henvendelse fra en erhvervsdrivende må gerne ske:
 
@@ -1768,13 +1777,10 @@ Henvendelse fra en erhvervsdrivende må gerne ske:
 * På bopælen, hvis det ikke har med erhvervsmæssigt salg at gøre, fx henvendelser vedrørende religion, indsamlinger til velgørende formål, salg af lodsedler, spørgsmål i forbindelse med markedsundersøgelser mv.
 
  
- 
-
-
-
 Aftalen er ugyldig: Aftaler indgået i strid med FBL § 4 er ugyldig, jf. FBL § 5. Forbrugeren kan godt fastholde aftalen uanset ugyldighed
 Bødestraf: Det kan være forbundet med bødestraf, for virksomheden, at handle i strid med forbrugeraftaleloven, jf. FBL § 34 - se H&M sag om opringninger på mobiltelefoner.
-Speak23
+
+Speak 4-6
 
  
 Robinson-listen: En forbrugers tilmelding til Robinson-listen skal forhindre henvendelser fr virksomheder om produkter omfattet af FBL § 4, stk. 2. Overtrædelse straffes med bøde.
@@ -1789,7 +1795,7 @@ Robinson-listen: En forbrugers tilmelding til Robinson-listen skal forhindre hen
 en erhvervsdrivende udfører, uden at forbrugeren har bedt om det.
 * Området er tæt forbundet med princippet om god markedsføringsskik, jf. markedsføringslovens § 3 og god erhvervsskik i denne lovs § 4. Det kan også være en vildledning af forbrugerens retsstilling, jf. markedsføringslovens § 5.
 
-Speak23
+Speak 4-7
 
 
  
@@ -1797,7 +1803,7 @@ Speak23
 Fortrydelsesret: En ret for forbrugeren til uden angivelse af begrundelse, at træde tilbage fra e aftale, som ellers ville være bindende for forbrugeren.
  
 
-HR: Ingen fortrydelsesret i dansk ret
+HR: Ingen fortrydelsesret i dansk ret i den fysiske handel.
 Undtagelse: FBL § 18, stk. 1.
 
 * Forbrugeraftaler indgået ved fjernsalg.
@@ -1807,7 +1813,7 @@ Undtagelse: FBL § 18, stk. 1.
 Fortrydelsesret: Andre særregler
 Fortrydelsesret ved køb af fast ejendom, jf. lov om forbrugerbeskyttelse ved erhvervelse af fas ejendom.
 
-* 	En køber kan fortryde et køb af en fast ejendom i 6 hverdage fra aftalens indgåelse mod samtidig betaling af en godtgørelse til sælger på 1% af kontantkøbesummen.
+* En køber kan fortryde et køb af en fast ejendom i 6 hverdage fra aftalens indgåelse mod samtidig betaling af en godtgørelse til sælger på 1% af kontantkøbesummen.
 
 Fortrydelsesret ved indgåelse af forsikringsaftaler
 
@@ -1834,8 +1840,6 @@ Forbrugeren har fortrydelsesret i:
 * Forbrugeraftaler indgået uden for den erhvervsdrivendes forretningssted fx på en messe i Bellacentreret
 
  
-
- 
 ### Aftaler indgået uden for forretningssted
 <img src="img/homeparty.jpeg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Aftalen er indgået et andet sted end der hvor den erhvervsdrivende sælger har sit forretningssted, fx
@@ -1843,6 +1847,7 @@ Aftalen er indgået et andet sted end der hvor den erhvervsdrivende sælger har 
 * Homeparties, salgsdemonstrationer under udflugter, udstilling/messe, marked.
  
 Den erhvervsdrivende har pligt til at give tydelig skriftlig oplysning om fortrydelsesretten og hvortil henvendelse kan ske. 
+
 Oplysning skal gives:
 
 * Ved mødet med forbrugeren.
@@ -1883,8 +1888,6 @@ Hvis oplysning først kommer frem senere, løber fristen fra oplysningerne er mo
 Hvis der ikke modtages nogen oplysninger om fortrydelsesretten så udskydes fortrydelsesrettens begyndelsestidspunkt med 12 måneder
  
 
-
- 
 Varer og ikke-finansielle tjenesteydelser: 
 Forsinkelse med levering
 
@@ -1906,8 +1909,6 @@ Forsinkelse med levering
 * Ved værdiforringelse (forskellen mellem ny-pris og gensalgspris) skal forbrugeren betale. Der kan fradrages i den købesum den erhvervsdrivende skal tilbagebetale til kunden
 
  
-
- 
 ### Retsvirkning ved fortrydelse
 Ved tilbagetræden fra aftalen inden fortrydelsesfristens udløb, bortfalder aftalen, og:
  
@@ -1919,8 +1920,11 @@ senest 30 dage efter, at den erhvervsdrivende har modtaget forbrugerens meddelel
 
  
 
- 
-### Fjernsalg - Finansielle tjenesteydelser 
+### Fjernsalg - Finansielle tjenesteydelser
+
+
+
+
 
 #### Oplysningspligt, FBL § 14
 Den erhvervsdrivende skal bl.a. give oplysninger om:
@@ -1978,7 +1982,8 @@ AFTL §§ 38a – 38 d – særligt kapitel om forbrugeraftaler:
 
 ## Løbende tjenesteydelser/abonnementer
 En forbruger kan opsige en aftale om løbende levering af varer eller tjenesteydelser med 1 måneds varsel til udgangen af en måned, når der er gået 5 måneder efter aftalens indgåelse, jf. FBL § 28, stk. 1, fx abonnementslignende aftaler.
-Speak23:
+
+Speak 4-8:
 
 ## Quiz
 
@@ -7481,7 +7486,8 @@ En aftaleerhverver (ikke kreditor) kan fortrænge en tidligere indsigelse hvis:
 *  Dobbeltoverdragelse
   +	Som ovenfor beskrevet ved simple pantebreve
 
- 
+
+
 
 ####  Video Tingbogens historie overgangen fra realregistrene til digital registrering:
 <div class="video-container"><iframe src="https://www.youtube.com/embed/2EwMrDiABD8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -7807,7 +7813,8 @@ mydf %>%
   column_spec(1:4, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
   # column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
   # # column_spec(3, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  row_spec(1,italic = T,bold = T,font_size = 12,color = "white", background = "darkgrey") #%>%
+  row_spec(1,italic = T,bold = T,font_size = 12,color = "white", background = "darkgrey") %>%
+scroll_box(width = "100%")
   # row_spec(1,italic = T,bold = T,font_size = 12)
   # column_spec(0, angle = -45)%>%
   # scroll_box(width = "500px") %>%
