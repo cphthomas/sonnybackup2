@@ -76,7 +76,7 @@ indeks <<- data.frame(BEGREB,forklaring)
 
 
 
-# Retskilder retssystemet og juridisk-metode 
+# Retsstaten 
 
 ```{r, echo=FALSE, results='asis'}
 #cat(readLines('np.html'))
@@ -93,6 +93,7 @@ indeks <<- data.frame(BEGREB,forklaring)
 
 Af de mere end 1.300 love, vi har i Danmark, er der én lov, en retskilde, der er hævet over alle de andre, nemlig grundloven.  ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` er Danmarks forfatning, dvs. den lov, der beskriver de grundlæggende regler for samfundet. I Danmark fejrer man hvert år grundlovens fødselsdag 5. juni. Men hvordan blev grundloven egentlig indført?
 Fra 1660 til 1848 havde Danmark enevælde og i 1700-tallet begyndte modstanden mod enevældet at ulme rundt om i Europa. 
+
 Befolkningerne stillede krav om, at folket skulle være med til at bestemme, hvordan deres land skulle styres, og flere steder blev monarkiet væltet og erstattet af en republik.
 Efterhånden som den internationale udvikling tog fart, erkendte Kong Christian den 8., at Danmark også måtte have en fri forfatning. Da han døde, gjorde hans søn, Frederik den 7., arbejdet med forfatningen færdig.  
  
@@ -357,7 +358,8 @@ De almindelige domstole behandler civile sager og straffesager.
 
 Alle sager kan som udgangspunkt behandles ved 2 retsinstanser, f.eks. ved byret og landsret. Visse mindre sager kan dog normalt kun behandles ved én instans, byretterne, uden mulighed for appel til landsretten.
  
-### Højesteret 
+### Højesteret   
+
 Danmark har én højesteret. Den ligger ved Christiansborg Slot i København. Højesteret er den øverste domstol i Danmark. Her afgøres f.eks. sager, der har betydning for, hvordan lignende sager skal afgøres, eller sager, der har særlig samfundsmæssig interesse. 
 Højesteret er en appeldomstol, som behandler domme og kendelser, der er afsagt af Østre Landsret, Vestre Landsret eller Sø- og Handelsretten. Man kan altså ikke anlægge sag direkte ved Højesteret.
 Højesteret behandler både civile sager og straffesager og fungerer som tredje instans i skifte-, foged- og tinglysningssager. Ved Højesteret behandles også sager, som Procesbevillingsnævnet har tilladt indbragt for retten. Det drejer sig om sager af særlig principiel betydning, f.eks. sager, som kan have betydning for afgørelse af en række andre sager, eller om sager af særlig samfundsmæssig interesse.
@@ -380,6 +382,7 @@ Landsretterne er delt i afdelinger. Til hver afdeling hører tre landsdommere, s
 Vestre og Østre Landsret er appelinstanser for byretterne.
 
 ### Sø- og Handelsretten 
+
 Sø- og Handelsretten ligger i København. I Sø- og Handelsretten er ansat en præsident, 2 vicepræsidenter, 2 dommere og et antal sagkyndige medlemmer. De sagkyndige medlemmer har særlig kendskab til sø- og handelsforhold. 
 Sø- og Handelsretten behandler bl.a. sager, hvor kendskab til sø- og handelsforhold er af væsentlig betydning.
 Sø- og Handelsretten behandler også sager om konkurs, rekonstruktion og gældssanering m.v. fra hele Storkøbenhavn.
@@ -534,7 +537,7 @@ Stævning og svarskrift
 *	Replik og duplik
 *	Hovedforhandling
  
-Småsagsprocessen:
+### Småsagsprocessen
 
 *	Sager under 50.000 kr.
 *	Formål: Enklere, hurtigere og billigere
@@ -599,6 +602,8 @@ Sammensætningen af Domstolsstyrelsens bestyrelse er fastsat i lov om Domstolsst
  
 <div class="video-container"><iframe src="https://www.youtube.com/embed/uvpuD60uLdI" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
+<br>
+
 ### EU-domstolen
 
 <img src="img/eudomstolen.png" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
@@ -606,8 +611,65 @@ Den Europæiske Unions Domstol (EU-Domstolen) fortolker EU's lovgivning for at s
 
 I visse tilfælde kan den også anvendes af enkeltpersoner, virksomheder eller organisationer til at gribe ind over for en EU-institution, hvis de mener, den på den ene eller anden måde har tilsidesat deres rettigheder.
 
-### Hvad laver EU-Domstolen?
+<br>
+
+# Retskilderne
+
+## Begrebet retskilde
+
+Retskilder er de faktorer, som danner grundlaget for at opnå viden om, hvad der er gældende ret. 
+Lovgivningen er den primære retskilde, som altid skal tages i betragtning ved fastlæggelse af retsstillingen, men retspraksis er også en vigtig retskilde, især hvis der foreligger en afgørelse fra Højesteret (se præjudikat) eller en afgørelse fra EU-Domstolen eller fra Menneskerettighedsdomstolen vedrørende Den Europæiske Menneskerettighedskonvention. 
+Andre faktorer, der kan anvendes som retskilder, er fx retssædvaner, aftaler, lovforarbejder, administrativ praksis, administrative retsforskrifter, udtalelser fra Folketingets Ombudsmand samt retsvidenskabens analyser. Herudover anvendes traditionelt også forholdets natur som retskilde.  
+Der kan ikke opstilles en fast prioritering af retskilderne, idet de i konkrete tilfælde alle kan have betydning for, hvad der er gældende ret.
+Der er stor forskel på retskildeopfattelsen inden for forskellige retssystemer, se fx case law.  
+
+## Case law
+Case law, judge-made law, dommerskabt ret.  I common law-lande har domstolene en mere vidtgående funktion end den dømmende magt i andre retssystemer. Common law-domstolen skal ikke kun fortolke og anvende lovgiverens retsregler, statutory law, men skaber også sin egen ret, case law eller judge-made law. En domstolsafgørelse har således ikke alene betydning for parterne i en konkret tvist; afgørelsen skaber præcedens, dvs. at en lignende sag i fremtiden med stor sandsynlighed vil blive afgjort på samme måde, den såkaldte stare decisis-doktrin.
+Betegnelsen case law er engelsk, af case 'tilfælde' og law 'lov'.
+I England er de afgørelser, der hidrører fra samme eller en højere domstol, bindende. Andre afgørelser har kun vejledende karakter. Der sondres desuden mellem den tidligere afgørelses egentlige begrundelse, ratio decidendi, og andre udtalelser i afgørelsen, obiter dicta. Et obiter dictum er kun vejledende, uanset fra hvilken domstol det måtte hidrøre.
+Selv bindende afgørelser bliver fra tid til anden tilsidesat (overruled); fx kan der bag afgørelsen ligge en forældet tankegang, og i 1966 udtalte Englands højeste domstol, House of Lords, at den ikke fremover ville betragte sig som evigt bundet af sine egne tidligere afgørelser.
+I USA håndhæves stare-decisis mindre strengt end i England. USA's højesteret har enkelte gange tilsidesat sine tidligere afgørelser, selv i sager om fortolkning af USA's forfatning. Fx gav United States Supreme Court i 1954 sorte elever adgang til skoler og universiteter, som tidligere havde været forbeholdt de hvide, og tilsidesatte herved sin egen ældre afgørelse, der havde anerkendt doktrinen om "separate but equal", dvs. at man i undervisningen adskilte sorte og hvide.  
+
+## Retskildepolycentri
+Retskildepolycentri er en nyere retsvidenskabelig erkendelse af, at dannelsen af retskilder i forskellige fora i det moderne samfund kan resultere i, at en retskilde kan have forskellig virkning for forskellige retsanvendere. Teorien bryder med den hierarkiske retskildeopfattelse. Teoriens ophavsmand er den danske juraprofessor Henrik Zahle.  
+
+# Juridisk metode
+Juridisk metode, fremgangsmåde ved stillingtagen til juridiske problemer.  Metoden består for det første af en beskrivelse og identifikation af de retskilder, som gyldigt kan inddrages i en juridisk argumentation; for det andet af læren om, hvordan retskilderne fortolkes. Juridisk metode består af 3 hovedelementer:  
+
+Et faktum (Hændelsesforløbet fx der er sket økonomisk misbrug af en kortholderens mistede Dankort)  
++  
+Et retsfaktum (Hvilken retsregel i betalingsloven skal anvendes i forhold til tredjemandsmisbruget af Dankortet)  
+=  
+En retsfølge (Afgørelsen, hvem der kommer til at betale for misbruget af Dankortet banken eller kortholderen)  
+
+Se f.eks. i henhold til bestemmelsen i betalingslovens § 100, stk. 4, nr. 3, hæfter betaleren for op til 8.000 kr. af misbrug, som finder sted som følge af betalerens groft uforsvarlige adfærd. 
+Begrebet groft uforsvarlig adfærd er ikke nærmere afgrænset i betalingsloven, men traditionelt anvendes begrebet »grov uagtsomhed« som betegnelse for »tilsidesættelse af den agtpågivenhed, som selv skødesløse personer plejer at udvise.« Med anvendelsen af begrebet groft uforsvarlig adfærd er det således præciseret, at grov uagtsomhed i sædvanlig forstand ikke er tilstrækkeligt til at pådrage betaleren hæftelse efter bestemmelsen. Der skal altså mere til. Groft uforsvarlig adfærd må herefter forstås som sløseri, der er præget af ligegyldighed i forbindelse med opbevaring af bl.a. pinkoden. Der skal derfor meget til efter praksis i Pengeinstitutankenævnet (nu Det finansielle Ankenævn), før der statueres groft uforsvarlig adfærd.
+
+---
+
+<img src="img/atm.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+*PIA 78/2006: »Det forhold, at misbrugeren på klagerens bopæl tilfældigt fik mulighed for at overhøre klageren oplyse sin kode til dankortet til kæresten sammenholdt med, at dankortet opbevaredes i hendes pung, der lå i hendes jakke på bopælen, kan ikke betegnes som groft uforsvarlig adfærd, heller ikke selv om klageren havde givet T adgang til sin bopæl, uanset om hun måtte have kendskab til T’s kriminelle baggrund« *
+
+*PIA 205/2005: »Klagerens Visa/Dankort blev opbevaret i en pung, som lå i en jakke, der var anbragt bag disken i klagerens butik og ikke var synlig for kunderne. Selvom det må bebrejdes klageren, at pinkoden til kortet var anført på en seddel, der lå i pungen sammen med kortet, findes klageren efter en samlet vurdering ikke at have udvist en groft uforsvarlig adfærd som omhandlet i lov om visse betalingsmidler § 11, stk. 3, nr. 3. Ankenævnet har herved også lagt vægt på, at det i lovens forarbejder er forudsat, at det udvidede ansvar kun ville kunne gøres gældende i et fåtal af tilfælde«.*  
+
+*Selvforskyldt beruselse kan blive betragtet som uforsvarlig adfærd, jf. PIA 281/2013 Spørgsmål om misbrug af kort var muliggjort ved groft uforsvarlig adfærd som følge af beruselse: »Som sagen foreligger oplyst, lægger vi til grund, at klageren ikke ved, hvad han foretog sig fra ca. kl. 00.30 til ca. kl. 02.00, da han vågnede i en bil, som han formoder var en pirattaxa. Vi finder ikke grundlag for at antage, at klagerens tilstand skyldes andre forhold end indtagelse af alkohol. Under disse omstændigheder finder vi, at misbruget af klagerens betalingskort er muliggjort, fordi han var stærkt påvirket af alkohol. Vi finder, at klageren under de beskrevne omstændigheder har udvist groft uforsvarlig adfærd. Vi stemmer derfor for at lade klageren hæfte med 8.000 kr. af det tab, der opstod som følge af den uberettigede brug af kortet, jf. lov om betalingstjenester § 62, stk. 3 nr. 3«.*  
+
+*Det er en konkret vurdering, om der bliver statueret groft uforsvarlig adfærd, jf. fx PIA 436/1993: Natten mellem den 12. og 13. juni 1993 blev klageren, medens han opholdt sig på en restauration, frastjålet sit dankort, som var opbevaret i klagerens tegnebog. Klageren anmeldte den 13. juni 1993 kl. 11.10 telefonisk tyveriet til kriminalpolitiet i Sønderborg efter forinden telefonisk at have spærret dankortet ved meddelelse til PBS. Det viste sig efterfølgende, at der ved anvendelse af dankortet og korrekt pinkode den 13. juni 1993 mellem kl. 9.25 og 9.28 var hævet 3 x 2.000 kr. i tre forskellige dankortautomater. Efter de foreliggende oplysninger lagde Pengeinstitutankenævnet til grund, at tyveriet af dankortet var blevet forøvet af to unge piger, som senere blev dømt for tyveri ved den 13. juni 1993 kl. 9.25-9.28 under anvendelse af dankortet at have stjålet de 3 x 2.000 kr. fra dankortautomaterne. Det fremgik af en retsbogsudskrift fra straffesagen, at de sigtede havde forklaret, at den ene af dem, A, snakkede med klageren, mens den anden sigtede, B, tog pungen op af lommen på ham. Herefter gik de ud på toilettet, hvor de tog pengene og kortet. A forklarede videre, at hun havde spurgt klageren om koden, og han havde givet hende den. Han sagde noget om, at han skulle ringe til banken for at få kortet spærret, og hun tilbød at gøre det for ham. Hun lod, som om hun telefonerede til banken, og sagde i den forbindelse til klageren, at hun skulle bruge pinkoden, hvorefter han gav hende den. Klageren indbragte sagen for Ankenævnet med påstand om, at indklagede var tilpligtet at anerkende, at klageren ikke hæftede for de 6.000 kr. Ankenævnet traf følgende afgørelse: »Efter betalingskortlovens § 21, stk. 2, hæfter kortindehaveren uden beløbsbegrænsning for tab, der opstår som følge af andres uberettigede brug af betalingskortet og den dertil hørende personlige hemmelige kode, såfremt kortudstederen godtgør, at kortindehaveren har oplyst koden til den, der har foretaget den uberettigede brug. Ankenævnet finder imidlertid ikke, at bestemmelsen er anvendelig på et tilfælde som det foreliggende. Ankenævnet finder på den anden side, at klageren udviste groft uforsvarlig adfærd ved i det foreliggende tilfælde at oplyse sin PIN-kode. Han hæfter derfor med op til 8.000 kr. for det tab, der opstod som følge af det uberettigede brug af kortet, jf. betalingskortlovens § 21, stk. 3, nr. 2, (nu § 11, stk. 3, nr. 3). Som følge af det anførte bestemmes: Den indgivne klage tages ikke til følge«.*  
+
+---
+
+Den juridiske metode indeholder væsentlige elementer af vurdering og skøn og er derfor mindre eksakt end de metoder, der anvendes inden for mange andre fagområder.
+I juridisk Ordbog (Bo von Eyben, 14. udg.) defineres juridisk metode som følger:"den metode, der skal anvendes for at afgøre, hvilken regel der er gældende for et bestemt retsområde. Dette forudsætter kendskab til læren om retskilderne og evne til herudfra at finde de relevante retskilder og at anvende dem korrekt på det givne forhold..." 
+
  
+
+
+
+
+
+
+# EU-Domstolen<sup><font color="red"> Premium </font></sup>  
+
 <img src="img/eudomstolen2.png" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 Domstolen træffer afgørelser i de sager, der indbringes for den. De mest almindelige typer sager er:
 
@@ -618,7 +680,7 @@ Privatpersoner kan også bede Domstolen om at ophæve en EU-retsakt, som berøre
 *	Sikring af, at EU træffer foranstaltninger (passivitetssøgsmål) – Parlamentet, Rådet og Kommissionen skal træffe visse afgørelser i bestemte situationer. Undlader de dette, kan EU's institutioner eller (i visse tilfælde) enkeltpersoner eller virksomheder klage til Domstolen.
 *	Sanktionering af EU-institutionerne (erstatningssøgsmål) – enhver person eller virksomhed, hvis interesser er blevet skadet som følge af EU's eller dets personales handlinger eller mangel på handlinger, kan bringe sagen for Domstolen.  
 
-### Sammensætning
+## Sammensætning
  
 <img src="img/eudomstolen3.png" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 EU-Domstolen er inddelt i 2 organer:
@@ -627,7 +689,7 @@ EU-Domstolen er inddelt i 2 organer:
 *	Retten – som træffer afgørelse i annullationssøgsmål indbragt af enkeltpersoner, virksomheder og i visse tilfælde medlemslande. Det vil i praksis sige, at Retten primært beskæftiger sig med konkurrenceret, statsstøtte, handel, landbrug og varemærker.  
 Hver dommer og generaladvokat udnævnes i fællesskab af medlemslandene for en periode på 6 år, som kan fornyes. I hver domstol vælger dommerne en formand for en periode på 3 år, som kan forlænges.  
 
-### Hvordan fungerer EU-Domstolen?  
+## Hvordan fungerer EU-Domstolen?  
 I Domstolen tildeles hver sag én dommer (refererende dommer) og én generaladvokat. Sagerne behandles i to faser:  
 
 *	Den skriftlige fase  
@@ -641,14 +703,14 @@ I Domstolen tildeles hver sag én dommer (refererende dommer) og én generaladvo
   +	Dommerne voterer så og kommer med deres afgørelse.  
 *	Rettens procedure er lignende, bortset fra at de fleste sager høres af 3 dommere, og at der ikke er nogen generaladvokat.  
 
-### EU-Domstolen og dig
+## EU-Domstolen og dig
 Hvis du – som privatperson eller virksomhed – har lidt skade som følge af handlinger eller mangel på handlinger fra EU's institutioners eller ansattes side, kan du indbringe en sag for Domstolen på to måder:  
 
 *	Indirekte gennem nationale domstole (som kan beslutte at henvise sagen til EU-Domstolen)  
 *	Direkte for Retten – hvis en afgørelse truffet af en EU-institution har berørt dig direkte og individuelt.  
 Hvis du mener, at myndighederne i et medlemsland har overtrådt EU-reglerne, skal du følge den officielle klageprocedure. (link) 
 
-#### Video: EU-domstolen:
+### Video: EU-domstolen:
 <div class="video-container"><iframe src="https://www.youtube.com/embed/M3LPCK1eWBs" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
@@ -656,7 +718,7 @@ Med ikrafttrædelsen af Lissabontraktaten den 1. december 2009 har Den Europæis
 Ved siden af Den Europæiske Union fortsætter Det Europæiske Atomenergifællesskab (Euratom) med at eksistere. Eftersom Domstolens beføjelser vedrørende Euratom i princippet er de samme som dem, der udøves inden for rammerne af Den Europæiske Union, og for at gøre præsentationen mere læsevenlig, vil enhver henvisning til unionsretten ligeledes omfatte Euratomretten.
 
  
-### Sammensætning
+## Sammensætning
 	 
 <img src="img/eudomstolen4.png" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Domstolen består af 28 dommere og 11 generaladvokater. Dommerne og generaladvokaterne udnævnes for en periode af 6 år af medlemsstaternes regeringer efter fælles overenskomst efter høring af et udvalg, som har til opgave at udtale sig om, hvorvidt de indstillede kandidater er egnede til at varetage de omhandlede opgaver. De kan genudnævnes. Til dommere og generaladvokater ved Domstolen 
@@ -679,38 +741,38 @@ Domstolen samarbejder med samtlige retsinstanser i medlemsstaterne, som er de or
 Domstolen besvarer ikke sådanne spørgsmål ved blot at afgive en udtalelse, men i en dom eller en begrundet kendelse. Den forelæggende ret er bundet af Domstolens fortolkning. Domstolens dom binder på samme måde de øvrige nationale domstole, som måtte skulle træffe afgørelse vedrørende et identisk spørgsmål.
 Det er ligeledes gennem præjudicielle forelæggelser, at enhver europæisk borger kan få afklaring på spørgsmål om de bestemmelser i unionsretten, der vedrører ham. Selv om et præjudicielt spørgsmål kun kan forelægges af en national domstol, har parterne i den sag, der verserer for den nationale domstol, medlemsstaterne og EU-institutionerne adgang til at deltage i proceduren for Domstolen. En række af unionsrettens hovedprincipper er blevet defineret på baggrund af præjudicielle spørgsmål, der også er blevet forelagt af nationale domstole, som træffer afgørelse i første instans.
 
-####	 Traktatbrudssøgsmål
+###	 Traktatbrudssøgsmål
 
 Domstolen har herigennem adgang til at kontrollere, om medlemsstaterne overholder de forpligtelser, der påhviler dem i medfør af unionsretten. Forud for sagens anlæg ved Domstolen har Kommissionen gennemført en procedure, hvorunder vedkommende medlemsstat har fået lejlighed til at svare på de klagepunkter, som er rejst imod den. Hvis denne procedure ikke fører til, at medlemsstaten bringer traktatbruddet til ophør, kan der anlægges en traktatbrudssag ved Domstolen.
 En sådan sag kan anlægges enten af Kommissionen - hvilket i praksis er det hyppigst forekommende - eller af en anden medlemsstat. Hvis Domstolen fastslår, at der foreligger et traktatbrud, skal medlemsstaten straks bringe det til ophør. Hvis Domstolen, efter at Kommissionen på ny har indbragt sagen for den, fastslår, at den pågældende medlemsstat ikke har efterkommet dens dom, kan Domstolen pålægge medlemsstaten at betale et fast beløb eller en tvangsbøde. Hvis Kommissionen ikke er blevet underrettet om foranstaltninger til gennemførelse af et direktiv, kan Domstolen imidlertid efter anmodning herom fra Kommissionen pålægge medlemsstaten en økonomisk sanktion allerede fra tidspunktet for afsigelsen af den første traktatbrudsdom.
 
-#### Annullationssøgsmål
+### Annullationssøgsmål
 I en sådan sag nedlægger sagsøgeren påstand om annullation af en retsakt, der er udstedt af Unionens institutioner, organer, kontorer eller agenturer (bl.a. forordninger, direktiver og beslutninger). Domstolen er forbeholdt kompetencen i sager, der anlægges af en medlemsstat mod Europa-Parlamentet og/eller Rådet (med undtagelse af Rådets retsakter, der vedrører statsstøtte, antidumping og gennemførelsesbeføjelser), eller sager, der anlægges af en EU-institution mod en anden institution. Retten er kompetent til at træffe afgørelse, i første instans, i alle andre sager af denne art, herunder navnlig i sager, der er anlagt af private.
 
-####	Passivitetssøgsmål
+###	Passivitetssøgsmål
 Domstolen og Retten har herigennem adgang til at kontrollere, om det er lovligt, at en fællesskabsinstitution forholder sig passivt i en given situation. En sådan sag kan imidlertid først anlægges, efter at institutionen er blevet opfordret til at handle. Når det er fastslået, at undladelsen var ulovlig, har den pågældende institution pligt til at træffe egnede foranstaltninger til at bringe passiviteten til ophør. Beføjelsen til at påkende passivitetssøgsmål er opdelt mellem Domstolen og Retten efter de samme kriterier, som gælder ved annullationssøgsmål.
 
-####	Appelsager
+###	Appelsager
 Endelig kan domme og kendelser afsagt af Retten appelleres til Domstolen for så vidt angår retsspørgsmål. Såfremt appellen admitteres, og Domstolen giver appellanten medhold i realiteten, ophæver den Rettens afgørelse. Hvis sagen er moden til påkendelse, kan Domstolen selv træffe afgørelse i sagen. Finder Domstolen ikke, at sagen er moden til påkendelse, hjemviser den sagen til Retten. I tilfælde af hjemvisning er Retten bundet af de afgørelser, som er truffet af Domstolen under appelsagen.
 
-### Sagsbehandling
+## Sagsbehandling
 Uanset hvilken sagstype der er tale om, omfatter den en skriftlig fase og i givet fald en mundtlig fase, der er offentlig. Der er imidlertid forskel på sagsbehandlingen for så vidt angår præjudicielle forelæggelser og i de øvrige sager(direkte søgsmål og appelsager).
 
 ### Sagens anlæg og den skriftlige forhandling
 
-####	Præjudicielle forelæggelser
+##	Præjudicielle forelæggelser
 Den nationale domstol forelægger Domstolen spørgsmål om fortolkningen eller gyldigheden af en bestemmelse i unionsretten, hvilket sædvanligvis sker i form af en retsafgørelse, alt efter de nationale retsplejeregler. Når anmodningen af Domstolens oversættelsestjeneste er oversat til alle unionssprogene, forkynder justitssekretæren den for parterne i hovedsagen samt for medlemsstaterne og EU-institutionerne. Justitssekretæren lader en meddelelse, der indeholder de pågældende parters navne samt spørgsmålene, offentliggøre i Den Europæiske Unions Tidende. Parterne, medlemsstaterne og institutionerne har herefter en frist på to måneder til at indgive skriftlige indlæg til Domstolen.
 Den nationale domstol forelægger Domstolen spørgsmål om fortolkningen eller gyldigheden af en bestemmelse i unionsretten, hvilket sædvanligvis sker i form af en retsafgørelse, alt efter de nationale retsplejeregler. Når anmodningen af Domstolens oversættelsestjeneste er oversat til alle unionssprogene, forkynder justitssekretæren den for parterne i hovedsagen samt for medlemsstaterne og EU-institutionerne. Justitssekretæren lader en meddelelse, der indeholder de pågældende parters navne samt spørgsmålene, offentliggøre i Den Europæiske Unions Tidende. Parterne, medlemsstaterne og institutionerne har herefter en frist på to måneder til at indgive skriftlige indlæg til Domstolen.
 
-####	Direkte søgsmål og appelsager
+##	Direkte søgsmål og appelsager
 Sagen anlægges ved Domstolen ved indlevering af en stævning til justitskontoret. Justitssekretæren lader en meddelelse om sagsanlægget offentliggøre i Den Europæiske Unions Tidende, hvori sagsøgerens søgsmålsgrunde og argumenter kort angives. Stævningen forkyndes for de øvrige parter, der har en frist på to måneder til at indgive svarskrift eller replik. I givet fald har sagsøgeren ret til at indgive replik og sagsøgte duplik. Den frist, der er fastsat for fremlæggelse af disse dokumenter skal overholdes.
 
 I begge sagstyper udpeges der af henholdsvis præsidenten og førstegeneraladvokaten en refererende dommer og en generaladvokat, der følger sagen under hele forløbet.
 
-### Sagens oplysning
+## Sagens oplysning
 Når den skriftlige forhandling er afsluttet, opfordres parterne til inden for en frist på tre uger at tilkendegive, om og hvorfor de ønsker, at der afholdes en mundtlig forhandling. Domstolen beslutter på grundlag af den refererende dommers indstilling, og efter at have hørt generaladvokaten, om der skal ske bevisoptagelse, til hvilket dommerkollegium sagen skal henvises, og om der er grund til at afholde en mundtlig forhandling, for hvilken præsidenten i givet fald fastsætter en dato for.
 
-#### Offentligt retsmøde og generaladvokatens forslag til afgørelse
+### Offentligt retsmøde og generaladvokatens forslag til afgørelse
 Besluttes det at afholde en mundtlig forhandling, procederes sagen i et offentligt retsmøde, hvori dommerkollegiet og generaladvokaten deltager. Dommerne og generaladvokaten kan stille parterne de spørgsmål, som de finder hensigtsmæssige. Nogle uger senere fremsætter generaladvokaten i et nyt offentligt retsmøde sit forslag til afgørelse for Domstolen. Generaladvokaten behandler navnlig sagens retlige aspekter i enkeltheder og foreslår i al uafhængighed Domstolen, hvorledes problemet efter hans eller hendes opfattelse skal løses. Hermed er den mundtlige del af sagsbehandlingen afsluttet. Hvis det vurderes, at sagen ikke rejser nye retsspørgsmål, kan Domstolen efter at have hørt generaladvokaten bestemme, at sagen skal påkendes uden forslag til afgørelse.
 
 ## Dommene
@@ -739,7 +801,7 @@ Sagsbehandlingen ved Domstolen er fritaget omkostninger. Til gengæld dækkes om
 ### Sprogordning
 I direkte søgsmål bliver det sprog, som stævningen er affattet på (hvilket kan være ethvert af Den Europæiske Unions 24 officielle sprog) i princippet sagens processprog, dvs. det sprog, som sagen behandles på. I appelsager anvendes samme processprog som i den appellerede dom eller kendelse fra Retten. For så vidt angår præjudicielle forelæggelser, er processproget det, som den nationale ret har henvendt sig til Domstolen på. Under den mundtlige forhandling i retsmøder er der efter behov simultantolkning til forskellige af Den Europæiske Unions officielle sprog. Dommerne voterer uden brug af tolke på et fælles sprog, der normalt vil være fransk.
 
-### Oversigt over rettergangsmåden
+## Oversigt over rettergangsmåden
 ![Fakultative led i rettergangsmåden er anført i kantet parentes.\n
 Fed skrift angiver, at der er tale om et offentligt dokument. ](img/juraskema.png)
  
@@ -755,7 +817,7 @@ Domstolen har ligeledes anerkendt princippet om medlemsstaternes ansvar for tils
 Domstolen arbejder tæt sammen med de nationale retter, som er unionsrettens ordinære domstole. Enhver national ret, der skal afgøre en tvist med berøring til unionsretten, kan, og skal undertiden, forelægge Domstolen præjudicielle spørgsmål. Domstolen får således lejlighed til at fremlægge sin fortolkning af en unionsretlig regel eller til at kontrollere dens lovlighed.
 Udviklingen i Domstolens praksis illustrerer dens bidrag til skabelsen af et retsområde, der angår borgerne, idet den beskytter de rettigheder, som EU-lovgivningen tildeler dem på forskellige områder af deres dagligdag.
 
-### Grundsætninger fastslået i retspraksis
+## Grundsætninger fastslået i retspraksis
 Ved en serie domme (begyndende med dommen i sagen Van Gend & Loos i 1963) indførte Domstolen i sin retspraksis princippet om fællesskabsrettens direkte virkning i medlemsstaterne, som nu gør det muligt for Europas borgere direkte at påberåbe sig bestemmelserne i unionsretten for deres nationale retter.
 I forbindelse med indførsel fra Tyskland til Nederlandene skulle transportvirksomheden Van Gend & Loos betale told, som firmaet fandt stridende mod EØF-traktatens regel om forbud til medlemsstaterne mod at forhøje tolden i deres gensidige handelssamkvem. Sagen rejste spørgsmålet om konflikten mellem en national lovgivning og EØF-traktatens regler. En nederlandsk ret forelagde sagen for Domstolen, og den afgjorde spørgsmålet ved at hævde doktrinen om direkte virkning, således at transportvirksomheden fik en direkte sikkerhed for sine rettigheder i henhold til fællesskabsretten for den nationale ret.
 I 1964 blev det i Costa-dommen fastslået, at fællesskabsretten har forrang for intern lovgivning. I denne sag havde en italiensk ret spurgt Domstolen, om en italiensk lov om nationalisering i sektoren for fremstilling og distribution af elektricitet var forenelig med en række regler i EØF-traktaten. Domstolen indførte doktrinen om fællesskabsrettens forrang, som den begrundede med den særlige karakter af Fællesskabets retsorden, der må anvendes ensartet i samtlige medlemsstater.
@@ -765,85 +827,39 @@ To italienske borgere, som havde løntilgodehavender hos deres konkursramte arbe
 ### Domstolens rolle i unionsborgerens liv
 Blandt de tusinder af domme, Domstolen har afsagt, har størstedelen, navnlig de, der er afsagt under den præjudicielle procedure, helt åbenbart betydelige virkninger for de europæiske borgeres dagligliv. Heraf skal nævnes nogle stykker som eksempel på de væsentligste af fællesskabsrettens områder.  
 
-####	Frie varebevægelser
+###	Frie varebevægelser
 Efter dommen i sagen Cassis de Dijon, der blev afsagt i 1979 vedrørende grundsætningen om frie varebevægelser, kan de erhvervsdrivende til deres land indføre enhver vare med oprindelse i et andet unionsland - på den betingelse, at varen dér er blevet fremstillet lovligt og bragt i omsætning, og at ingen tvingende grund, f.eks. forbundet med beskyttelsen af sundhed og miljø, er til hinder for varens indførsel til forbrugslandet.
 
-####	Fri bevægelighed for personer
+###	Fri bevægelighed for personer
 Adskillige domme er blevet afsagt på området for fri bevægelighed for personer.
 I Kraus-dommen (1993) fastslog Domstolen, at retstillingen for en EF-borger, der er indehaver af et bevis for afsluttet universitetseksamen, som er erhvervet i en anden medlemsstat, og som letter adgangen til en profession eller udøvelsen af en økonomisk virksomhed, er reguleret af fællesskabsretten, endog hvad angår den pågældende borgers forhold til sin hjemstat. Det gælder således, at selv om en medlemsstat kan betinge anvendelsen af eksamensbeviset på sit område af en administrativ godkendelse, må godkendelsesproceduren alene have det formål at klarlægge, om beviset er blevet lovligt udstedt.
 
 Blandt de øvrige domme afsagt på dette område er en af de mest kendte Bosman-dommen (1995), hvori Domstolen efter anmodning fra en belgisk ret tog stilling til spørgsmålet, om fodboldforbunds regler kunne anses for forenelige med arbejdskraftens frie bevægelighed. Domstolen udtalte, at professionel sport er en økonomisk virksomhed, hvis udøvelse ikke kan hindres af reglerne om spillertransfert eller ved en begrænsning af antallet af spillere med statsborgerskab i en andre medlemsstater. Sidstnævnte udtalelse er ved senere domme blevet udvidet til at gælde retsstillingen for professionelle sportsudøvere med oprindelse i tredjelande, der har indgået en associerings- (dommen i sagen Deutscher Handballbund fra 2003) eller partnerskabsaftale (Simutenkov-dommen 2005) med De Europæiske Fællesskaber.
 
-####	Fri udveksling af tjenesteydelser
+###	Fri udveksling af tjenesteydelser
 En dom fra 1989 vedrørende fri udveksling af tjenesteydelser angik en britisk turist, der var blevet overfaldet og alvorligt såret i den parisiske metro. Efter en forelæggelse fra en fransk ret fastslog Domstolen, at den pågældende i sin egenskab af turist havde adgang til tjenesteydelser uden for sit land og principielt var omfattet af det grundlæggende forbud mod forskelsbehandling på grundlag af nationalitet, der er knæsat i fællesskabsretten. Turisten havde følgelig ret til samme erstatning, som en fransk statsborger kunne gøre krav på (Cowan-dommen).
 Efter en præjudiciel anmodning fra luxembourgske retter fastslog Domstolen, at en national lovgivning med den virkning, at en forsikringstager får afslag på godtgørelse af udgifter ved tandbehandling med den begrundelse, at denne har fundet sted i en anden medlemsstat, udgør en uberettiget hindring for den frie udveksling af tjenesteydelser (Kohll-dommen, 1998), og at et afslag på godtgørelse af udgifter til køb af briller i udlandet må bedømmes som en uberettiget hindring for de frie varebevægelser (Decker-dommen, 1998).
 
-####	Ligebehandling og sociale rettigheder
+###	Ligebehandling og sociale rettigheder
 En flystewardesse anlagde sag mod sin arbejdsgiver på grund af forskelsbehandling vedrørende den løn, hun oppebar i forhold til sine mandlige kolleger, der udførte samme arbejde. En belgisk ret forelagde sagen for Domstolen, som i 1976 fastslog, at traktatreglen med påbuddet om principiel ligebehandling med hensyn til løn til kvindelige og mandlige arbejdstagere for samme arbejde havde direkte virkning (Defrenne-dommen).
 
 Ved en fortolkning af EF-reglerne vedrørende ligebehandling af mænd og kvinder har Domstolen bidraget til at beskyttelsen af kvinderne mod afskedigelse i forbindelse med barsel. En kvinde, der ikke længere kunne arbejde som følge af besværligheder forbundet med graviditet, blev afskediget. I 1998 kendte Domstolen afskedigelsen stridende mod fællesskabsretten. Afskedigelse af en kvinde under graviditet som følge af fravær, forårsaget af en sygdom på grund af selve graviditeten, er en forbudt forskelsbehandling på grundlag af køn (Brown-dommen).
 
 Med henblik på at sikre arbejdstagernes sikkerhed og sundhed er det nødvendigt, at disse har adgang til betalt årlig ferie. I 1999 rejste den britiske fagforening BECTU tvivl om britiske regler, som fratog arbejdstagere med arbejdskontrakter af kort varighed denne ret med den begrundelse, at reglerne ikke var i overensstemmelse med et EF-direktiv vedrørende fastlæggelse af arbejdstiden. Domstolen nåede til det resultat (BECTU-dommen, 2001), at retten til betalt årlig ferie er en social ret, som direkte er tillagt samtlige arbejdstagere i fællesskabsretten, og at ingen arbejdstager kan afskæres herfra.
 
-####	Grundlæggende rettigheder
+###	Grundlæggende rettigheder
 Med en udtalelse om, at overholdelsen af grundlæggende rettigheder er en integrerende del af de almindelige retsgrundsætninger, som Domstolen skal søge overholdt, har Domstolen bidraget væsentligt til højere standarder i relation til beskyttelsen af de nævnte rettigheder. Herved tager Domstolen hensyn til de for medlemsstaternes fælles forfatningstraditioner og folkeretlige aftaler om beskyttelse af menneskerettighederne, navnlig den europæiske konvention til beskyttelse af menneskerettigheder, som medlemsstaterne har samarbejdet om eller tiltrådt. Efter ikrafttrædelsen af Lissabontraktaten vil Domstolen kunne anvende og fortolke Den Europæiske Unions charter om grundlæggende rettigheder af 7. december 2000, som i medfør af Lissabontraktaten tillægges samme retsværdi som traktaterne. 
 Efter talrige terroristattentater mod politiembedsmænd indførte man i Nordirland bevæbning af politistyrkerne. Af hensyn til den offentlige sikkerhed tillod man imidlertid ikke bevæbning (på grundlag af en attest udstedt af vedkommende minister, som ikke kunne anfægtes ved domstolene) af kvinder ansat i politiet. Som følge heraf var der ikke længere mulighed for fuldtidsansættelse af kvinder i det nordirske politi. Efter en præjudiciel forelæggelse fra en ret i Det Forenede Kongerige afgjorde Domstolen, at udelukkelsen af enhver domstolsprøvelse af en attest fra en national myndighed er i strid med princippet om en effektiv domstolsbeskyttelse, der tilkommer enhver, som finder sig ramt af kønsdiskriminering (Johnston-dommen, 1986).
 
-#### Unionsborgerskab
+### Unionsborgerskab
 Vedrørende unionsborgerskabet, som ifølge traktaten om Den Europæiske Unions virkemåde tilkommer enhver statsborger i medlemsstaterne, har Domstolen bekræftet, at dette indebærer retten til ophold på en anden medlemsstats område. Således har en mindreårig statsborger i en medlemsstat, som er sygeforsikret og har tilstrækkelige midler til sit underhold, også ret til ophold. Domstolen fremhævede, at fællesskabsretten ikke kræver af den mindreårige, at han selv har de nødvendige midler, og at afslaget på samtidig at meddele den mindreåriges moder, med statsborgerskab i tredjeland, ret til ophold, vil bevirke, at barnets opholdsret bliver uden enhver effektiv virkning (dommen i sagen Zhu og Chen, 2004).  
 I samme dom præciserede Domstolen, at en medlemsstat - selv i det tilfælde, hvor erhvervelse af statsborgerskab i en medlemsstat har til formål at opnå en opholdsret i henhold til fællesskabsretten for en statsborger i en medlemsstat - ikke kan indskrænke virkningerne af tildeling af statsborgerskab i en anden medlemsstat.  
 
-## Retskilderne
-Retskilder, de faktorer, som danner grundlaget for at opnå viden om, hvad der er gældende ret. 
-Lovgivningen er den primære retskilde, som altid skal tages i betragtning ved fastlæggelse af retsstillingen, men retspraksis er også en vigtig retskilde, især hvis der foreligger en afgørelse fra Højesteret (se præjudikat) eller en afgørelse fra EU-Domstolen eller fra Menneskerettighedsdomstolen vedrørende Den Europæiske Menneskerettighedskonvention. 
-Andre faktorer, der kan anvendes som retskilder, er fx retssædvaner, aftaler, lovforarbejder, administrativ praksis, administrative retsforskrifter, udtalelser fra Folketingets Ombudsmand samt retsvidenskabens analyser. Herudover anvendes traditionelt også forholdets natur som retskilde.  
-Der kan ikke opstilles en fast prioritering af retskilderne, idet de i konkrete tilfælde alle kan have betydning for, hvad der er gældende ret.
-Der er stor forskel på retskildeopfattelsen inden for forskellige retssystemer, se fx case law.  
-
-### Case law
-Case law, judge-made law, dommerskabt ret.  I common law-lande har domstolene en mere vidtgående funktion end den dømmende magt i andre retssystemer. Common law-domstolen skal ikke kun fortolke og anvende lovgiverens retsregler, statutory law, men skaber også sin egen ret, case law eller judge-made law. En domstolsafgørelse har således ikke alene betydning for parterne i en konkret tvist; afgørelsen skaber præcedens, dvs. at en lignende sag i fremtiden med stor sandsynlighed vil blive afgjort på samme måde, den såkaldte stare decisis-doktrin.
-Betegnelsen case law er engelsk, af case 'tilfælde' og law 'lov'.
-I England er de afgørelser, der hidrører fra samme eller en højere domstol, bindende. Andre afgørelser har kun vejledende karakter. Der sondres desuden mellem den tidligere afgørelses egentlige begrundelse, ratio decidendi, og andre udtalelser i afgørelsen, obiter dicta. Et obiter dictum er kun vejledende, uanset fra hvilken domstol det måtte hidrøre.
-Selv bindende afgørelser bliver fra tid til anden tilsidesat (overruled); fx kan der bag afgørelsen ligge en forældet tankegang, og i 1966 udtalte Englands højeste domstol, House of Lords, at den ikke fremover ville betragte sig som evigt bundet af sine egne tidligere afgørelser.
-I USA håndhæves stare-decisis mindre strengt end i England. USA's højesteret har enkelte gange tilsidesat sine tidligere afgørelser, selv i sager om fortolkning af USA's forfatning. Fx gav United States Supreme Court i 1954 sorte elever adgang til skoler og universiteter, som tidligere havde været forbeholdt de hvide, og tilsidesatte herved sin egen ældre afgørelse, der havde anerkendt doktrinen om "separate but equal", dvs. at man i undervisningen adskilte sorte og hvide.  
-
-### Retskildepolycentri
-Retskildepolycentri er en nyere retsvidenskabelig erkendelse af, at dannelsen af retskilder i forskellige fora i det moderne samfund kan resultere i, at en retskilde kan have forskellig virkning for forskellige retsanvendere. Teorien bryder med den hierarkiske retskildeopfattelse. Teoriens ophavsmand er den danske juraprofessor Henrik Zahle.  
-
-## Juridisk metode
-Juridisk metode, fremgangsmåde ved stillingtagen til juridiske problemer.  Metoden består for det første af en beskrivelse og identifikation af de retskilder, som gyldigt kan inddrages i en juridisk argumentation; for det andet af læren om, hvordan retskilderne fortolkes. Juridisk metode består af 3 hovedelementer:  
-
-Et faktum (Hændelsesforløbet fx der er sket økonomisk misbrug af en kortholderens mistede Dankort)  
-+  
-Et retsfaktum (Hvilken retsregel i betalingsloven skal anvendes i forhold til tredjemandsmisbruget af Dankortet)  
-=  
-En retsfølge (Afgørelsen, hvem der kommer til at betale for misbruget af Dankortet banken eller kortholderen)  
-
-Se f.eks. i henhold til lovbestemmelsen i betalingslovens § 100, stk. 4, nr. 3, hæfter betaleren for op til 8.000 kr. af misbrug, som finder sted som følge af betalerens groft uforsvarlige adfærd. 
-Begrebet groft uforsvarlig adfærd er ikke nærmere afgrænset i betalingsloven, men traditionelt anvendes begrebet »grov uagtsomhed« som betegnelse for »tilsidesættelse af den agtpågivenhed, som selv skødesløse personer plejer at udvise.« Med anvendelsen af begrebet groft uforsvarlig adfærd er det således præciseret, at grov uagtsomhed i sædvanlig forstand ikke er tilstrækkeligt til at pådrage betaleren hæftelse efter bestemmelsen. Der skal altså mere til. Groft uforsvarlig adfærd må herefter forstås som sløseri, der er præget af ligegyldighed i forbindelse med opbevaring af bl.a. pinkoden. Der skal derfor meget til efter praksis i Pengeinstitutankenævnet (nu Det finansielle Ankenævn), før der statueres groft uforsvarlig adfærd.
-
----
-
-<img src="img/atm.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-*PIA 78/2006: »Det forhold, at misbrugeren på klagerens bopæl tilfældigt fik mulighed for at overhøre klageren oplyse sin kode til dankortet til kæresten sammenholdt med, at dankortet opbevaredes i hendes pung, der lå i hendes jakke på bopælen, kan ikke betegnes som groft uforsvarlig adfærd, heller ikke selv om klageren havde givet T adgang til sin bopæl, uanset om hun måtte have kendskab til T’s kriminelle baggrund« *
-
-*PIA 205/2005: »Klagerens Visa/Dankort blev opbevaret i en pung, som lå i en jakke, der var anbragt bag disken i klagerens butik og ikke var synlig for kunderne. Selvom det må bebrejdes klageren, at pinkoden til kortet var anført på en seddel, der lå i pungen sammen med kortet, findes klageren efter en samlet vurdering ikke at have udvist en groft uforsvarlig adfærd som omhandlet i lov om visse betalingsmidler § 11, stk. 3, nr. 3. Ankenævnet har herved også lagt vægt på, at det i lovens forarbejder er forudsat, at det udvidede ansvar kun ville kunne gøres gældende i et fåtal af tilfælde«.*  
-
-*Selvforskyldt beruselse kan blive betragtet som uforsvarlig adfærd, jf. PIA 281/2013 Spørgsmål om misbrug af kort var muliggjort ved groft uforsvarlig adfærd som følge af beruselse: »Som sagen foreligger oplyst, lægger vi til grund, at klageren ikke ved, hvad han foretog sig fra ca. kl. 00.30 til ca. kl. 02.00, da han vågnede i en bil, som han formoder var en pirattaxa. Vi finder ikke grundlag for at antage, at klagerens tilstand skyldes andre forhold end indtagelse af alkohol. Under disse omstændigheder finder vi, at misbruget af klagerens betalingskort er muliggjort, fordi han var stærkt påvirket af alkohol. Vi finder, at klageren under de beskrevne omstændigheder har udvist groft uforsvarlig adfærd. Vi stemmer derfor for at lade klageren hæfte med 8.000 kr. af det tab, der opstod som følge af den uberettigede brug af kortet, jf. lov om betalingstjenester § 62, stk. 3 nr. 3«.*  
-
-*Det er en konkret vurdering, om der bliver statueret groft uforsvarlig adfærd, jf. fx PIA 436/1993: Natten mellem den 12. og 13. juni 1993 blev klageren, medens han opholdt sig på en restauration, frastjålet sit dankort, som var opbevaret i klagerens tegnebog. Klageren anmeldte den 13. juni 1993 kl. 11.10 telefonisk tyveriet til kriminalpolitiet i Sønderborg efter forinden telefonisk at have spærret dankortet ved meddelelse til PBS. Det viste sig efterfølgende, at der ved anvendelse af dankortet og korrekt pinkode den 13. juni 1993 mellem kl. 9.25 og 9.28 var hævet 3 x 2.000 kr. i tre forskellige dankortautomater. Efter de foreliggende oplysninger lagde Pengeinstitutankenævnet til grund, at tyveriet af dankortet var blevet forøvet af to unge piger, som senere blev dømt for tyveri ved den 13. juni 1993 kl. 9.25-9.28 under anvendelse af dankortet at have stjålet de 3 x 2.000 kr. fra dankortautomaterne. Det fremgik af en retsbogsudskrift fra straffesagen, at de sigtede havde forklaret, at den ene af dem, A, snakkede med klageren, mens den anden sigtede, B, tog pungen op af lommen på ham. Herefter gik de ud på toilettet, hvor de tog pengene og kortet. A forklarede videre, at hun havde spurgt klageren om koden, og han havde givet hende den. Han sagde noget om, at han skulle ringe til banken for at få kortet spærret, og hun tilbød at gøre det for ham. Hun lod, som om hun telefonerede til banken, og sagde i den forbindelse til klageren, at hun skulle bruge pinkoden, hvorefter han gav hende den. Klageren indbragte sagen for Ankenævnet med påstand om, at indklagede var tilpligtet at anerkende, at klageren ikke hæftede for de 6.000 kr. Ankenævnet traf følgende afgørelse: »Efter betalingskortlovens § 21, stk. 2, hæfter kortindehaveren uden beløbsbegrænsning for tab, der opstår som følge af andres uberettigede brug af betalingskortet og den dertil hørende personlige hemmelige kode, såfremt kortudstederen godtgør, at kortindehaveren har oplyst koden til den, der har foretaget den uberettigede brug. Ankenævnet finder imidlertid ikke, at bestemmelsen er anvendelig på et tilfælde som det foreliggende. Ankenævnet finder på den anden side, at klageren udviste groft uforsvarlig adfærd ved i det foreliggende tilfælde at oplyse sin PIN-kode. Han hæfter derfor med op til 8.000 kr. for det tab, der opstod som følge af det uberettigede brug af kortet, jf. betalingskortlovens § 21, stk. 3, nr. 2, (nu § 11, stk. 3, nr. 3). Som følge af det anførte bestemmes: Den indgivne klage tages ikke til følge«.*  
-
----
-
-Den juridiske metode indeholder væsentlige elementer af vurdering og skøn og er derfor mindre eksakt end de metoder, der anvendes inden for mange andre fagområder.
-I juridisk Ordbog (Bo von Eyben, 14. udg.) defineres juridisk metode som følger:"den metode, der skal anvendes for at afgøre, hvilken regel der er gældende for et bestemt retsområde. Dette forudsætter kendskab til læren om retskilderne og evne til herudfra at finde de relevante retskilder og at anvende dem korrekt på det givne forhold..." 
-
- 
 
 
 # Aftaleloven
 <img src="img/deal1.jpg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-Aftalelovens principper har betydning på hele aftaleområdet, fx i:
+Aftalelovens principper har betydning på hele aftaleområdet,^[Følgene bygger tildels på *Torsten Iversen og Lars Hedegaard Kristensens* karnovkommentar til aftaleloven] fx i:
 
 * Forsikringsaftaleloven, kreditaftaleloven, forbrugeraftaleloven, AB 18, købeloven, E-handelsloven m.fl.
 *	Aftaleindgåelse - aftalelovens §§ 2-9
@@ -897,6 +913,10 @@ Mundtlige aftaler ctr. skriftlige aftaler:
 Ensidigt løfte ctr. gensidigt løfte se figurer.  
 Udtrykkeligt løfte ctr. stiltiende løfte.
 
+Forskellen på en aftale og en kontrakt:  
+
+En aftale kan også være mundtlig.  
+En kontrakt er skriftlig og kan påberåbes ved domstolene.  
 
 
 
@@ -1328,6 +1348,7 @@ Modsætningsvis: Hvis løftemodtager ikke indså eller burde have kunnet indse, 
 
 Speak
 
+
 #### God og ond tro
 
 *	God tro
@@ -1345,6 +1366,8 @@ Speak
 * Ved svage ugyldighedsgrunde:
       +	LM er i ond tro = LG er ikke bundet af løftet (aftalen erklæres ugyldig
       +	LM er i god tro = LG er bundet af løftet (aftalen fortsat bindende)
+
+
 
 
  
@@ -1428,7 +1451,9 @@ kable(collapse_rows_dt, align = "l",caption = "Regler og tolkning") %>%
 
 
 
+<br>
 
+## Aftalelovens anvendelse i den finansielle sektor
 
 
 
@@ -1447,6 +1472,11 @@ kable(collapse_rows_dt, align = "l",caption = "Regler og tolkning") %>%
 
 
 # Fuldmagter og mellemmænd
+
+<br>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/ugJt8-E7xJY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div> 
+
+<br>
 
 <img src="img/fuldmagt1.jpeg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
@@ -1483,7 +1513,7 @@ visNetwork(nodes, edges, width = "80%",avoidOverlap=2) %>%
 visEdges(color = list(color = "lightgrey", highlight = "yellow"))
 ```
 
-*Fuldmagt:* Aftaleloven afsnit II, jf. aftalelovens §§ 10-27
+*Fuldmagt:* Aftaleloven afsnit II, jf. aftalelovens §§ 10-27 ^[Følgene bygger tildels på *Torsten Iversens og Lars Hedegaard Kristensen* karnovkommentar til aftaleloven]
 
 *HR:* Fuldmagtsgiver bliver bundet af de aftaler, som fuldmægtigen indgår på fuldmagtsgivers vegne, jf. aftalelovens § 10, stk. 1:  
 ”Den, som har givet en anden fuldmagt til at foretage en retshandel, bliver umiddelbart berettiget og forpligtet overfor tredjemand ved retshandel, som fuldmægtigen foretager i fuldmagtsgiverens navn og indenfor fuldmagtens grænser”.
@@ -1504,30 +1534,23 @@ En aftale kan i nogle tilfælde rammes af ugyldighed, hvis der er handlet i stri
 Aftaleloven sondrer mellem på den ene side »fuldmagt« og på den anden side »beføjelse«. Ved »fuldmagt« forstås den magt eller kompetence (legitimation), fuldmægtigen har til inden for visse grænser at foretage retshandler med bindende virkning for fuldmagtsgiveren. Ved »beføjelse« (bemyndigelse) den ret eller tilladelse, fuldmægtigen iht. det mellem ham og fuldmagtsgiveren bestående retsforhold har til at optræde på dennes vegne:
 
 * Bemyndigelse/beføjelse: Den interne instruks mellem fuldmagtsgiver og fuldmægtig. Indholdet af denne instruks er som udgangspunkt ikke kendt for omverdenen.
-* Legitimation: Den ydre fuldmagt er synlig og kendt for omverdenen.
+* Legitimation: Den ydre fuldmagt er synlig og kendt for omverdenen.  
+ 
+
+<br>
+
+ 
+<img src="img/Bemyndigelse vs. legitimation.png" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+
+ 
+ <br>
  
 
 
 
- 
- 
-```{r ugyldighedsgrunde2, echo=FALSE}
-options(knitr.table.format = "html")
 
-dt23 <- data.frame(Indenfor=c("Indenfor fuldmagtens grænser","legitimation (ydre forhold)","Bemyndigelse","(indre forhold)"),Udenfor= c(rep("Udenfor fuldmagtens grænser", 4))
-                 )
-kable(dt23, align = "l",col.names = NA,caption = "Oversigt over mangler og ugyldighedsgrunde") %>%
-  kable_styling(full_width = T,bootstrap_options = c( "hover","responsive","striped")) %>%
-  collapse_rows(columns = 1:2, valign = "top") %>%
-row_spec(c(1), bold = T, color = "white", background = "darkgrey") %>%
-  column_spec(1,  bold = T, color = "black", background = "grey") #%>%
 
-# add_header_above(c( "Oversigt over mangler og ugyldighedsgrunde" = 2),italic = TRUE)
-
-```
- 
- 
- 
 
 
 ## De 2 fuldmagtsformer
@@ -1681,7 +1704,7 @@ Fuldmægtigen skal erstatte tredjemand den positive opfyldelsesinteresse, dvs. t
 
 
 
-
+## Anvendelsen af fuldmagter og mellemmænd i den finansielle sektor
 
 
  
@@ -1712,7 +1735,7 @@ Fuldmægtigen skal erstatte tredjemand den positive opfyldelsesinteresse, dvs. t
 
 
 ## Introduktion til forbrugeraftaleloven
-Forbrugeraftalelovens (FBL) formål:
+Forbrugeraftalelovens (FBL) formål:.^[Følgende afsnit om forbrugeraftaler bygger på Sonny Kristoffersen: ”Kend forbrugerkøbsreglerne”, 2018, Samfundslitteratur.]
 
 * Beskyttelsespræceptiv – loven kan ikke fraviges til skade for forbrugeren, FBL § 33, men forbrugeren kan godt stilles bedre end, hvad lovgivningen tilsiger.
 
@@ -1947,11 +1970,19 @@ Finansiel tjenesteydelse:
 * Enhver tjeneste, der har karakter af bank-, kredit, forsikrings-, individuel pensions-, investerings- eller betalingstjenesteydelse.
 Fortrydelsesfristen
 * 14 dage fra aftalens indgåelse, eller fra det tidspunkt forbrugeren har modtaget oplysning om fortrydelsesret.
+<img src="img/pension.PNG"align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 * 30 dage ved aftaler om individuel pensionsordning, FBL § 19, stk. 1.
+  
 
- 
 
-Tilbagebetale
+
+
+
+
+
+
+
+Tilbagebetale  
 
 * Den erhvervsdrivende skal tilbagebetale eventuelt modtagne beløb snarest mulig og inden 30 dage efter forbrugerens underretning om fortrydelse er kommet frem.
 
@@ -2010,11 +2041,11 @@ Har du styr på, om du må eje kopivarer i Danmark? Eller om du må tage dem med
 
 
 
-# Erstatning og den forsikringsmæssige afdækning
+# Erstatningsreglerne i en praksisnær kontekst
 
 
 ## Erstatningsansvar uden lovgivning
-Ofte findes der ingen lovgivning, som kan fortælle, hvornår man som privatperson er ansvarlig for en skade. I stedet er der ud af mange års domspraksis udledt en erstatningsregel, der kaldes “den almindelige erstatningsregel”. Denne regel fastslår, at man er ansvarlig for den økonomiske skade, som man har forvoldt ved uagtsomhed eller med vilje. Reglen hedder også culpa- eller skyldreglen. Culpa, er den grundlæggende betingelse for at pålægge erstatningsansvar uden for kontraktforhold. En skadevolder har udvist culpa, optrådt culpøst, overtrådt culpareglen, hvis han eller hun har handlet enten forsætligt, dvs. med vilje og viden om handlingens elementer, eller uagtsomt. Se f.eks. følgende domme:  
+Et ansvarsforsikringsselskab beskæfter sig indgående med erstatningsreglerne for at vurdere, om skadevolderen (forsikringstageren) har pådraget sig et erstatningsansvar over for en skadelidt. Ofte findes der ingen lovgivning, som kan fortælle, hvornår man som privatperson er ansvarlig for en skade. I stedet er der ud af mange års domspraksis udledt en erstatningsregel, der kaldes “den almindelige erstatningsregel”. Denne regel fastslår, at man er ansvarlig for den økonomiske skade, som man har forvoldt ved uagtsomhed eller med vilje. Reglen hedder også culpa- eller skyldreglen. Culpa, er den grundlæggende betingelse for at pålægge erstatningsansvar uden for kontraktforhold. En skadevolder har udvist culpa, optrådt culpøst, overtrådt culpareglen, hvis han eller hun har handlet enten forsætligt, dvs. med vilje og viden om handlingens elementer, eller uagtsomt. Se f.eks. følgende domme:  
 
 
 
@@ -2322,10 +2353,17 @@ Forsørgertabserstatning til ægtefælle eller samlever udgør 30 procent af den
 
 Efterlevende børn får en erstatning, der svarer til summen af de børnebidrag, som afdøde på skadetidspunktet kunne være pålagt at betale. Erstatningen bliver fordoblet, hvis afdøde var eneforsørger.
 
-## Ansvaret og dækningen på ansvarsforsikringen
+<br>
+
+# Ansvarsforsikringen<sup><font color="red"> Premium </font></sup>
+
+<br>
+
 Følgende betragtninger og oplysninger om det private ansvar, husejeransvaret, ansvaret for ens hund, skader på arbejdet samt skader ved udøvelse af sportsaktiviteter bygger hovedsageligt på Forsikringsankenævnets oplysninger i ankenævnets ”klageguide” samt Forsikringsankenævnets praksis, herunder på retspraksis, samt viden fra Forsikringsoplysningen.
 
-### Privatansvarsforsikring
+##Privatansvarsforsikring 
+<br>
+
 Privatansvarsforsikringen er normalt er en del af ens familie/indboforsikring. Forsikringen dækker den erstatning, man skal betale, hvis man som privatperson forvolder skade på andre personer eller på andres genstande. Der er også knyttet en ansvarsforsikring til en række andre forsikringer, bl.a. en bygningsforsikring. 
 
 Privatansvarsforsikringen dækker kun, hvis man juridisk set er erstatningsansvarlig for den indtrufne skade. Forsikringen dækker således normalt ikke, hvis man ønsker at betale erstatning ud fra et “rimelighedssynspunkt” eller ud fra ens moralske opfattelse.
@@ -2396,13 +2434,13 @@ Hvis man som skadelidt ikke kan blive enig med skadevolderen eller med vedkommen
 
 Ofte kan der være oplysninger i en sag om erstatningsansvar, som ikke giver et entydigt billede af, hvad der er sket. Hvis der er tvivl om, hvad der er sket, vil forsikringsankenævnet altid vil foretage en konkret vurdering af validiteten af de oplysninger, som klageren (forsikringstageren) og forsikringsselskabet er fremkommet med. Forsikringsankenævnet vil normalt lægge størst vægt på de oplysninger, der er fremkommet fra uvildige parter. Og ankenævnet vil ofte lægge betydelig vægt på de forklaringer, som forsikringstageren eller en anden person først har givet til forsikringsselskabet eller til en tredjemand.
 
-### Uagtsom, forsætlig og hændelig skade samt gæstebudsskade
+## Uagtsom, forsætlig og hændelig skade samt gæstebudsskade
 Privatansvarsforsikringen dækker som nævnt, hvis forsikringstageren juridisk set har pådraget sig et erstatningsansvar. For at pådrage sig et erstatningsansvar skal man bl.a. have udvist en uforsvarlig adfærd (handling eller undladelse), som kan tilregnes én som forsætlig eller uagtsom, og den skade, man har forvoldt, skal være en påregnelig følge af ens adfærd. Denne såkaldte culparegel står ikke skrevet i nogen lov, men er udviklet gennem langvarig retspraksis.
 
-#### Uagtsom
+### Uagtsom
 Man har handlet uagtsomt, hvis en almindelig, fornuftig person (bonus pater) ved almindelig agtpågivenhed ville have indset, at skaden kunne indtræde som følge af ens adfærd. Ens adfærd vil med andre ord blive betragtet som uagtsom, hvis den afviger fra de i samfundet almindeligt anerkendte, forsvarlige handlemønstre. Det ses eksempelvis – som allerede nævnt – i Forsikringsankenævnets sag 86059, hvor ankenævnet fandt, at klageren havde handlet ansvarspådragende ved at lade en veninde til sin datter benytte en trampolin, hvis sikkerhedsnet ikke var monteret korrekt. Ligeledes er Forsikringsankenævnets sag 88426 om en 12-årig dreng, der skubber en voksen i ryggen, samt sagerne 87739, 86992 og 85472 relevante.  
 
-#### Forsætlig
+### Forsætlig
 <img src="img/stupid.jpg" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Man har handlet forsætligt, hvis man havde vilje til at forårsage den skade, der indtrådte, hvis man havde indset, at skaden ville indtræde, eller hvis man ikke ville have handlet anderledes, selv om man havde indset, at skaden med stor sandsynlighed ville indtræde. Det ses eksempelvis i tidligere nævnte Forsikringsankenævns sag 86464, hvor nævnet fandt, at brandskaderne på et solcenter var sket med forsæt, da skadevolderen måtte have indset, at der var nærliggende risiko for skade, idet en papirdispenser røg, da skadevolderen forlod solcentret.
 
@@ -2435,7 +2473,7 @@ Se fra retspraksis:
 
 Et eksempel på en forsætlig skade er Forsikringsankenævnets sag 86048, hvor nævnet fandt, at klagerens søn havde handlet forsætligt, da han – mens han stod med ryggen til og i irritation over at være blevet låst ude af nogle klassekammerater – sparkede bagud mod en dør og en siderude. Nævnet fandt, at det var overvejende sandsynligt, at ruden ville gå i stykker ved en sådan handling.
 
-#### Hændelig
+### Hændelig
 Forvolder man en skade hændeligt, dækker ens ansvarsforsikring heller ikke. At det er hændeligt, betyder, at skaden indtræffer tilfældigt, og uden at det skyldes uagtsomhed eller forsømmelse fra ens side. I den situation bliver man ikke juridisk erstatningsansvarlig efter dansk ret. Derfor må skadelidte i en sådan situation selv bære tabet, med mindre skadevolder alligevel betaler, fordi skadevolder føler, at skadevolder er moralsk ansvarlig. Men dette er ansvarsforsikringen uvedkommende. Af relevante sager kan nævnes Forsikringssankenævnets sag 86248, hvor en kvinde tissede i en seng, samt forsikringsankenævnets sag 81840 om en kajak, der i en carport faldt ned på en bil:
 
 ---
@@ -2448,7 +2486,7 @@ Forvolder man en skade hændeligt, dækker ens ansvarsforsikring heller ikke. At
 
 ---
 
-#### Gæstebudsskade
+### Gæstebudsskade
 Forvolder man skaden under almindeligt privat samvær – typisk af selskabelig karakter – dækker ansvarsforsikringen i en række situationer, hvor domstolene vil være tilbageholdende med at pålægge en et juridisk erstatningsansvar. Disse skader kaldes normalt for “gæstebudsskader”. Et eksempel er Forsikringsankenævnets sag 75029, hvor klagerens datter – mens hun var på besøg – beskadigede et trægulv med sine spidse stilethæle. Der kan også henvises til Forsikringsankenævnets sag 75365, samt sammenstød af cykler under en fælles motionsaktivitet, jf. forsikringsankenævnets sag 91226:.
 
 ---
@@ -2506,7 +2544,7 @@ Er skaden dækket af en tingsforsikring tegnet af skadelidte, f.eks. en indbofor
 
 Der gælder visse undtagelser fra dette princip. Eksempelvis er der alligevel erstatningsansvar – og dækning hos ens ansvarsforsikringsselskab – hvis man har forvoldt skaden ved grov uagtsomhed. Ved grov uagtsomhed forstås normalt, at den udviste adfærd indebar en indlysende fare for den skade, som faktisk skete. Der er ligeledes erstatningsansvar, hvis man har forvoldt skaden forsætligt, men i de tilfælde dækker ens ansvarsforsikring som ovenfor anført ikke.
 
-### Ansvarsforsikringens undtagelser
+## Ansvarsforsikringens undtagelser
 Privatansvarsforsikringen indeholder en række undtagelser, hvor ansvarsforsikringen ikke dækker. De mest almindelige undtagelser er ifølge Forsikringsankenævnet følgende:
 
 Ansvar for skade, der rammer den sikrede personkreds
@@ -2528,7 +2566,7 @@ ___
 
 ---
 
-Ansvar i kontraktforhold
+### Ansvar i kontraktforhold
 Hvis man bliver erstatningsansvarlig, fordi man ikke overholder en aftale eller en kontrakt, dækker ansvarsforsikringen ikke.
 
 Ansvar for ting, der er i ens varetægt
@@ -2570,9 +2608,11 @@ Sådanne skader dækkes ikke, og man skal således købe en autoansvarsforsikrin
 
 
 
-### Introduktion til Lovbekendtgørelse nr. 140 af 17. februar 2014 Købelov (KBL) 
+## Hvad er et køb? 
+<br>
+
 ![](img/buing.jpg)
-KBL opstiller ikke en definition af, hvad der forstås ved køb. Køb forstås traditionelt som en aftale om overdragelse af et formuegode mod vederlag i penge).  
+KBL (Lovbekendtgørelse nr. 140 af 17. februar 2014 Købelov) opstiller ikke en definition af, hvad der forstås ved køb. Køb forstås traditionelt som en aftale om overdragelse af et formuegode mod vederlag i penge).  
 
 Der skal være tale om en gensidigt bebyrdende aftale, dvs. at både køberens og sælgerens ydelse forholder sig som vederlag for modydelsen. Sælgerens ydelse er et formuegode, dvs. en ejendomsgenstand. Der er hyppigst tale om overdragelse af ejendomsretten til løsøre (dvs. ting), men der kan også være tale om overdragelse af fordringsrettigheder (f.eks. aktier og skriftlige rentebærende fordringer), ophavsrettigheder eller andre immaterielle rettigheder, goodwill, valuta (dvs. penge af en anden mønt end betalingsstedets), overdragelse af en begrænset rettighed, jf. f.eks. U 1952.288/3 H (om køb af udnyttelsesretten til et mergelleje) osv. Selv om loven udtrykkeligt angiver kun at regulere »køb«, er loven i vidt omfang udtryk for almindelige obligationsretlige grundsætninger. Dette indebærer, at lovens principper i mange henseender også finder anvendelse på andre, ulovregulerede kontraktstyper fx afgrænsningsbegrebet ved tjenesteydelser, håndværksydelser og køb af fast ejendom.
 
@@ -2595,6 +2635,8 @@ Hovedregel: Købeloven er deklaratorisk i handelskøb
 
 * Kan fraviges ved aftale
 * Må vige for handelsbrug eller sædvane - se U 1984.525 H – Den ufrugtbare orne
+
+
  
 Speak23
 
@@ -2602,21 +2644,21 @@ Undtagelse: Købeloven kan ikke fraviges i forbrugerkøb, medmindre fravigelsen 
  
 
 
-#### Købelovens begreber ved handelskøb
+## Købelovens begreber ved handelskøb
  
 * Et køb, der indgås mellem handlende, der handler i eller for deres bedrift, jf. KBL § 4, stk. 1.
 * Et køb, hvor både køber og sælger er erhvervsdrivende, og hvor købet indgås i forbindelse med deres virksomhed eller deres erhvervsmæssige aktiviteter.
 * Det købte skal hovedsageligt anvendes i erhvervsøjemed.
 * KBL opstiller i en række sammenhænge særlige regler for handelskøb, jf. fx. KBL §§ 6 og 16, § 21, stk. 3, og § 28, stk. 1, §§ 27, 32, 51 og § 52, stk. 1. 
-* Det er karakteristisk for de særlige regler om handelskøb, at parternes forpligtelser skærpes i forhold til, hvad der gælder i civile køb. Det er dog ikke udelukket, at man i nogle typer af civile køb, som har et betydeligt merkantilt præg, efter omstændighederne kan skærpe parternes forpligtelser, således at der f.eks. pålægges køberen en streng reklamationsforpligtelse ligesom i handelskøb, hvor KBH § 54’s reklamationsfrist på 2 år fraviges ved aftale.
-* Det er ikke en betingelse i KBH, af det købte skal anvendes til videresalg. Køb af inventar, kontormøbler, kontorrekvisitter, biler til brug for transport af varer eller kundebesøg udgør fx. handelskøb, når køberen og sælgeren er handlende
+* Det er karakteristisk for de særlige regler om handelskøb, at parternes forpligtelser skærpes i forhold til, hvad der gælder i civile køb. Det er dog ikke udelukket, at man i nogle typer af civile køb, som har et betydeligt merkantilt præg, efter omstændighederne kan skærpe parternes forpligtelser, således at der f.eks. pålægges køberen en streng reklamationsforpligtelse ligesom i handelskøb, hvor KBL § 54’s reklamationsfrist på 2 år fraviges ved aftale.
+* Det er ikke en betingelse i KBL, af det købte skal anvendes til videresalg. Køb af inventar, kontormøbler, kontorrekvisitter, biler til brug for transport af varer eller kundebesøg udgør fx. handelskøb, når køberen og sælgeren er handlende
 * Landbrug eller fiskeri konstituerer ikke handelskøb. Heller ikke aftaler, som indgås af erhvervsdrivende, som driver liberalt erhverv, f.eks. advokater, rådgivnings- og konsulentvirksomheder mv., anses for handelskøb.
 * Den handel, hvorved en forretningsdrivende etablerer sig ved køb af en forretning, er hverken et handelskøb eller et forbrugerkøb, men derimod et civilkøb, jf. dommen i U 1988.76 V:
 U 1988.76 V: Forsinkelse med betaling af ydelse. Efter en i 1982 indgået kontrakt med ejendomsforbehold om salg af en restauration forfaldt restkøbesummen til betaling, hvis ydelser udeblev ud over 5 dage efter forfaldsdag. I juli 1986 videresolgtes restaurationen til K, der overtog gælden i henhold til købekontrakten, men ikke rettidigt betalte en den 1. august 1986 forfalden ydelse til den oprindelige ejer E. Efter at E den 12. august 1986 havde opsagt restgælden, betalte K dagen efter den forfaldne ydelse. - Da det ikke kunne udelukkes, at E, der havde været bekendt med salget til K, måtte have indset, at den manglende betaling af ydelsen måtte bero på en fejltagelse, havde forsinkelsen ikke berettiget E til at kræve restgælden betalt.
 
  
 
-#### Købelovens begreber ved forbrugerkøb:
+## Købelovens begreber ved forbrugerkøb:
 
 <img src="img/buing2.jpeg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
@@ -2656,7 +2698,7 @@ Speak23
 Link til min artikel
 
  
-#### Civile køb (Ej defineret i KBL):
+## Civile køb (Ej defineret i KBL):
 
 <img src="img/dba.png" align="right" width="10%" height="10%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 * Et køb, hvor begge parter er privat personer, og hvor der ikke bruges en erhvervsdrivende mellemmand til at formidle salget. Man anvender handelskøbsreglerne analogt, som har et betydeligt merkantilt præg, medmindre andet er blevet aftalt mellem parterne. Et civilt køb kan fx foregå på ”Den Blå Avis” eller på et loppemarked, hvor private udveksler genstande og penge samtidigt. 
@@ -2708,7 +2750,7 @@ Modtages betaling ikke samtidig med levering, overgår købet fra kontantkøb ti
 Speak23
  
 
-### Sælgers og købers forpligtelser ved køb
+## Sælgers og købers forpligtelser ved køb
  
  
 Sælgers forpligtelser består i at:
@@ -2721,7 +2763,7 @@ Købers forpligtelser består i modtage varen og at betale den aftalte købesum:
 * Med rette betalingsmiddel
  
 
-### Levering og risikoens overgang
+## Levering og risikoens overgang
  
 Hvornår er levering er sket?:
 
@@ -2774,7 +2816,7 @@ Købelovens leveringsklausuler:
 
 Til internationale køb anvendes INCOTERMS 2010. 
 
-### Sælgers misligholdelse
+## Sælgers misligholdelse
 Sælger kan som udgangspunkt misligholde en aftale på tre måder:
 
 * Forsinkelse med levering (afsnit 6.2.1.)
@@ -2782,7 +2824,7 @@ Sælger kan som udgangspunkt misligholde en aftale på tre måder:
 * Retlige mangler – vanhjemmel (afsnit 6.2.3).
 
 
-#### Forsinkelse med leveringen 
+### Forsinkelse med leveringen 
 
 * Hvis leveringstidspunkt ikke er aftalt – Levering skal ske efter påkrav, jf. KBL § 12.
 * Hvis der er aftalt levering:
@@ -2796,7 +2838,7 @@ Sælger kan som udgangspunkt misligholde en aftale på tre måder:
 
 Hovedregel: Leveres varen ikke i rette tid, er der tale om forsinkelse, og køber kan gøre misligholdelsesbeføjelser gældende, jf. KBL § 21, stk. 1.      
 
-* KBH § 21, stk. 1 gælder for både genus- og specieskøb. Det er først og fremmest aftalen, der er afgørende for, om levering er sket rettidigt eller ej.
+* KBL § 21, stk. 1 gælder for både genus- og specieskøb. Det er først og fremmest aftalen, der er afgørende for, om levering er sket rettidigt eller ej.
 * Lovbestemmelsen finder anvendelse, uanset om sælgeren faktisk leverer, men leverer for sent, eller om sælgeren slet ikke leverer, fx fordi en speciesgenstand er gået til grunde. Sælgeren har almindeligvis bevisbyrden for, at der er leveret rettidigt.
 * Leverer sælgeren før det aftalte leveringstidspunkt, kan køberen afvise at modtage genstanden og kræve fornyet levering i rette tid, hvis afvigelsen fra sælgerens frigørelsestid er væsentlig,
 
@@ -2929,9 +2971,9 @@ Kræve erstatning for tab
 * Sælgers ansvarsgrundlag er objektivt ansvar over for køber, hvis køber er i god tro, dvs. hverken vidste eller burde vide, at der var retlige mangler.
  
 
-### Købers misligholdelse
+## Købers misligholdelse
 
-#### Købers forsinkelse med købesummens betaling
+### Købers forsinkelse med købesummens betaling
 <img src="img/payment.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Købers forpligtelse:
 Køber skal modtage varen som aftalt betale den aftalte købesum til tiden.
@@ -2974,7 +3016,7 @@ Sælger har standsningsret – hindre overgivelse
 Det solgte er på vej til køber. Sælger kan hindre overgivelsen til køber indtil køber eller købers bo har stillet sikkerhed for betaling.
 Hæve købet: Når det er blevet tid til at levere, kan sælger hæve købet, hvis køber eller købers bo ikke har stillet sikkerhed for betaling, jf. KBL § 39, stk. 1. 
 
-#### Fordringshavermora, KBL §§ 33-37
+### Fordringshavermora, KBL §§ 33-37
 Betragtes ikke som misligholdelse, men situationen udløser en række krav og valgmuligheder for sælgeren, der ikke kan ”komme af med” varen.
 
 * Sælger har pligt til at drage omsorg for varen for købers regning
@@ -3161,7 +3203,7 @@ Tag forbrug.dks udsalgsquiz, og find ud af, om du har styr på dine rettigheder,
 
 
 
-# Markedsføring
+# Markedsføring<sup><font color="red"> Premium </font></sup>
 
 
 
@@ -3185,9 +3227,11 @@ Lov nr. 426 af 3. maj 2017 om markedsføring
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/FtVlOzjQitY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>  
 
+ 
+
 ## Markedsføringslovens formål, opbygning og EU-regulering
 
-* Formålet med markedsføringsloven er, at den skal understøtte fair konkurrence samt gode forbrugerforhold
+* Formålet med markedsføringsloven er, at den skal understøtte fair konkurrence samt gode forbrugerforhold.^[Følgende afsnit om markedsføringsloven bygger på Sonny Kristoffersen: ”Forbrugerretten I. Markedsføringsloven anno 2017 i en civil- og offentligretlig kontekst, 6. udg., KarnovGroup”, 2017.]
 * Markedsføringsloven udgør således en væsentlig rammebetingelse for alle virksomheder og forbrugere i Danmark 
 * Fair konkurrence, og en hensigtsmæssig forbrugerbeskyttelse, hvor forbrugerne er beskyttet mod fx at blive vildledt eller udsat for aggressiv markedsføring, understøtter velfungerende markeder
 * Målet er at lave en forenklet markedsføringslov, som, inden for rammerne af EU-reguleringen, gør op med unødige byrder for erhvervslivet og understøtter velfungerende markeder
@@ -3195,7 +3239,7 @@ Lov nr. 426 af 3. maj 2017 om markedsføring
 * Markedsføringsloven berører alle danske forbrugere og virksomheder. Loven skal både sikre, at virksomheder kan konkurrere effektivt, og at forbrugerne er hensigtsmæssigt beskyttet mod for eksempel meget aggressiv markedsføring 
 * Den skal også sikre en god balance mellem, at forbrugerne får den relevante information, de har behov for, så de kan træffe aktive valg, og samtidig skal virksomhederne ikke pålægges overdrevne og overflødige oplysningskrav  
 
-Opbygningen af markedsføringsloven:
+## Opbygningen af markedsføringsloven
 
 * § 1 Anvendelsesområde 
 * § 2 Definitionsbestemmelse 
@@ -3656,7 +3700,7 @@ Markedsføringsloven sætter rammerne for, hvornår og hvordan virksomheder må 
 ##### Quiz: Spam og reklamer
 Bliver du konstant kontaktet af telefonsælgere, eller er din indbakke ramt af spam? <a href="https://www.forbrug.dk/quiz/spam-og-reklamer/?rn=43716" target="_blank">Forbrug.dk sætter med denne quiz fokus på reglerne for spam og reklamer.</a>  
 
-## Kursus: Regler for online handel og markedsføring
+## e-Kursus: Regler for online handel og markedsføring
 <img src="img/mf20.png" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 Ekstra materiale som ikke er en del af pensum om advokatefteruddannelseskursus om ”Online handel og markedsføring ”  
 
@@ -3680,20 +3724,18 @@ Ekstra materiale som ikke er en del af pensum om advokatefteruddannelseskursus o
 
 
 
-# Persondatabeskyttelse og hvidvask
-
-## Databeskyttelse og bekæmpelse af hvidvask og terrorfinansiering
- 
+# Persondatabeskyttelse<sup><font color="red"> Premium </font></sup>
 
 
-#### Databeskyttelsesforordningen stiller krav i praksis
+
+## Databeskyttelsesforordningen stiller krav til den finansielle sektor
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/5OwWsQHpsDc" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
 
 
-#### Databeskyttelsesreglerne på 7 minutter
+### Databeskyttelsesreglerne på 7 minutter
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/AXnQQyVvmuM" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -4093,7 +4135,7 @@ GDPR For Dummies
 
  
 
-## Bekæmpelse af hvidvask og terrorfinansiering
+# Bekæmpelse af hvidvask i den finansielle sektor<sup><font color="red"> Premium </font></sup>
 
 ![](img/hvidvask.jpg)
 
@@ -4111,7 +4153,7 @@ Sådan foregår hvidvask?
  
  
 
-### Hvidvasklovens formål og indhold
+## Hvidvasklovens formål og indhold
  
 Loven indfører en opmærksomhedspligt, som består i, at de af loven omfattede virksomheder og personer generelt skal være opmærksomme på kundernes aktiviteter, som på grund af deres særlige karakter menes at kunne have tilknytning til hvidvask eller finansiering af terrorisme.
 
@@ -4139,7 +4181,7 @@ Ved mistanke om at en kunde er i gang med at hvidvaske penge eller finansiere te
 Finanstilsynet fører tilsyn med de finansielle virksomheder og kontrollerer, at virksomhederne overholder hvidvasklovens regler.
  
 
-### Definition af begrebet ”hvidvask”
+## Begrebet ”hvidvask”
  
 ![](img/hvidvask3.jpg)
 Definitionen af ”hvidvask” fremgår af lovens § 3, stk. 1. Hvidvask er uberettiget at modtage eller skaffe sig eller andre del i økonomisk udbytte eller midler, der er opnået ved en strafbar lovovertrædelse. Lovbestemmelsen beskriver udtrykket »hvidvask«. Beskrivelsen tager udgangspunkt i straffelovens § 290 om hæleri. Direktivets definition af hvidvask findes i art. 1, stk. 3.
@@ -4233,24 +4275,24 @@ footnote(general = "Hvidvasksekretariatet",general_title = "Kilde: ")
 
 
 
-### Beskyttelse af medarbejderen
+## Beskyttelse af medarbejderen
 Direktivet indeholder i art. 61 en bestemmelse om beskyttelse af medarbejdere hos de personer og virksomheder, der er omfattet af direktivet, mod trusler og repressalier, når de indberetter mistanke om hvidvask og terrorfinansiering. Dette forhold er reguleret ved lovens §§ 35-36, og Politimesterforeningen udsendte i forbindelse med den tidligere lov en beskrivelse af, hvordan sagerne skal behandles, optrykt i »Aktuel Orientering« 6/2000 af 4. juli 2000, der sendes til politikredsene. Se betænkning nr. 1447/2004, s. 70.
 
 Det fremgår af »Aktuel Orientering«, at politiet skal tage særligt hensyn til de finansielle virksomheder og deres medarbejdere, når de behandler underretninger efter hvidvaskloven. Baggrunden herfor er, at medarbejderne er forpligtede til at foretage indberetning. Den særlige hensyntagen sker for det første ved, at den kunde, der er indgivet underretning om, i videst muligt omfang ikke orienteres om underretningen. Hvis kunden sigtes i sagen, er underretningen dog en del af straffesagens akter, som den sigtede har adgang til.
 
 Udgangspunktet efter retsplejeloven er, at der er vidnepligt. Imidlertid fremgår det af »Aktuel Orientering«, at den medarbejder, der har fået mistanke, kun indkaldes som vidne i en straffesag mod kunden, såfremt den overordnede medarbejder i den finansielle virksomhed ikke kan besvare spørgsmålene i sagen.
 
-### Kontantforbud
+## Kontantforbud
 Loven viderefører det tidligere gældende kontantforbud. Således er det forbudt for »erhvervsdrivende«, der ikke er omfattet af hvidvaskloven, jf. dennes § 1, at modtage kontantbetalinger på 50.000 kr. eller derudover, hvad enten betalingen sker på én gang eller som flere betalinger, der ser ud til at være indbyrdes forbundet.
 
 
-### Falskmøntneri
+## Falskmøntneri
 
 ![](img/falsk.jpg)
 
 Loven indeholder bestemmelser svarende til Rfo 1338/2001 om fastlæggelse af de foranstaltninger, der er nødvendige for at beskytte euroen mod falskmøntneri (offentliggjort i EFT 2001 L 181/6), samt Rfo 1339/2001, der udvider bestemmelserne i ovennævnte forordning 1338/2001 til også at gælde for EU-lande uden for eurosamarbejdet, herunder Danmark (offentliggjort i EFT 2001 L 181/11). Forordninger gælder umiddelbart i hver medlemsstat. Gengivelsen af forordningen i loven er alene begrundet i praktiske hensyn og berører ikke forordningens gyldighed i Danmark. 
 
-### Andre forpligtelser, som finansielle virksomheder skal overholde
+## Andre forpligtelser, som finansielle virksomheder skal overholde
 Løbende overvågning af virksomhedens kunderne
 
 * Skal sikre at kundens transaktioner er i overensstemmelse med de oplysninger, som kunden oprindelig gav virksomheden
@@ -4271,7 +4313,7 @@ Sekretariatet modtager også underretninger fra offentlige myndigheder.
 
 [På Finanstilsynets hjemmeside her findes flere informationer om hvidvask](https://www.finanstilsynet.dk/Tilsyn/Information-om-udvalgte-tilsynsomraader/Hvidvask)
 
-### Et eksempel om ejendomsmægleren og hvidvaskreglerne
+## Ejendomsmægleren og hvidvaskreglerne
 Speak23
 
 Den enkelte ejendomsmægler og ejendomsmæglervirksomhed skal foretage en analyse af, hvor stor risikoen er, for at de kan blive misbrugt til hvidvask af en kunde; af køber som af sælger. 
@@ -4589,7 +4631,7 @@ Partrederi:
 ![](img/aura.png)
 
 
-
+## Anvendelsen af virksomhedsformer og hæftelse i den finansielle sektor
 
 
 
@@ -5044,7 +5086,7 @@ Omstødelsesreglerne finder anvendelse i gældssanering Skifteretten kan ophæve
 
 
 
-
+## Insolvensret i en praksisnær kontekst
 
 
 
@@ -5576,6 +5618,9 @@ Sælger kan:
   +	Ikke få aktivet tilbage
   +	Kun kræve gæld udover aktivets værdi tilbagebetalt, hvis køber har misligholdt aktivet
 
+<br>
+
+## Anvendelsen af kreditaftaleretten i den finansielle sektor
 
 
 #### Quiz: Forbrugslån
@@ -6098,6 +6143,10 @@ Hermed menes, at kautionsforpligtelsen indfries af den del af arven, som tilkomm
 Med venlig hilsen
 Advokat Y
 
+<br>
+
+## Den praktiske anvendelse af kautionsforhold i pengeinstitutterne
+
 ## Tredjemandspant
 
 <img src="img/kaution11.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
@@ -6207,15 +6256,26 @@ visNetwork(nodes, edges, width = "80%") %>%
 
 # Fordringer gældsbreve og pantebreve
 
+<img src="img/Geldsbrev.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+
+<br>
 
 Om overdragelse af fordringer, se kapitel 14 og ophør af fordringer i kapitel 15
  
 
 ## Generelle regler for fordringer og gældsbreve
 
+<br>
 
-*Hvad er en fordring?*  
-<img src="img/gb2.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/gb2.jpg" align="left" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+<br>
+
+
+*Hvad er en fordring?* 
+
+
 En fordring er et krav, som en person eller et selskab (kreditor) har mod en anden part (debitor). En fordring består typisk i et pengebeløb, men den kan også bestå i andet^[Herværende gennemgang af reglerne om fordringer, gældsbreve og pantebreve bygger bl.a. på oplysninger fra SKAT og Lars Hedegaard Kristensen: Karnovkommentaren til gældsbrevsloven].  Den kan fx bestå i, at debitor skylder en arbejdsydelse, eller i at der skal leveres en ting. Et gaveløfte betyder, at man skal give den lovede gave, som fx kan være en ting.
 
 *Bemærk*    
@@ -6621,7 +6681,7 @@ Gældsbrevsdebitor bliver ved betaling til udlægshaver frigjort under samme bet
 
 
 
-
+## Den praktiske anvendelse af reglerne i et pengeinstitut
 
 
 
@@ -7528,7 +7588,7 @@ En aftaleerhverver (ikke kreditor) kan fortrænge en tidligere indsigelse hvis:
 
 
 
-### Definition og regel
+## Definition og regel
 
 Konneksitet betyder, at der er tale om krav, som har fælles oprindelse.
 
@@ -7538,7 +7598,7 @@ Tvungen ikke-konneks modregning iværksættes ved, at modregneren afgiver en mod
 
 Fordringer vedbliver således med at bestå med deres fulde beløb, indtil modregning er erklæret, og ophører først, når erklæringen er nået frem til hovedmanden.
 
-#### Betingelser for tvungen ikke-konneks modregning
+## Betingelser for tvungen ikke-konneks modregning
 
 For at tvungen ikke-konneks modregning må finde sted, er der en række betingelser, der skal være opfyldte. Disse betingelser skal alle være opfyldte på det tidspunkt, hvor den tvungne ikke-konnekse modregning iværksættes.
 
@@ -7578,7 +7638,7 @@ Om forældelsesfrister i forældelsesloven (afsnit 15.2.3.)
 Forældelsesfrister - pengelån, indlån, kaution (afsnit 15.2.4.)
 Afbrydelse af forældelse (afsnit 15.2.5.)
 
-### Hvorfor forældelsesregler? 
+## Hvorfor forældelsesregler? 
 
 Forældelsesreglerne er nødvendige regler, der primært er til for at udelukke gamle krav, som det kan være svært at føre bevis for eksistensen af, eller krav, som de involverede parter havde indrettet sig på ikke længere eksisterede.
 
@@ -7604,7 +7664,7 @@ Skyldner skal ikke betale, hvis kravet er forældet
    + Misligholdelsestidspunkt, hvis en kontrakt bliver misligholdt
    + Skadestidspunkt, hvis kravet opstår som følge af erstatningsansvar for en skade
 
-### Retsvirkningerne af forældelse 
+## Retsvirkningerne af forældelse 
 Når forældelsen faktisk indtræder, ophører forpligtelsen helt med at eksistere – uanset om de involverede parter har kendskab til fordringen eller ej, eller om de med vilje ikke har betalt. 
 
 Det er heller ikke nødvendigt at meddele modparten, at kravet er forældet. Man kan forholde sig passiv.
@@ -7613,7 +7673,7 @@ Renter mv. af en forældet fordring bliver forældede samtidig med selve fordrin
 
 Det er i mange situationer muligt at aftale, at forældelsen ikke skal indtræde. Dog kan forældelsesfristerne i forældelsesloven ikke på forhånd fraviges til skade for en forbruger.
 
-### Om forældelsesfrister i forældelsesloven 
+## Om forældelsesfrister i forældelsesloven 
 
 Forældelseslovens opbygning er lavet sådan, at der er en almindelig forældelsesfrist på 3 år. Det fremgår af forældelseslovens § 3, stk. 1.
 
@@ -7681,7 +7741,7 @@ Når en fordring er sikret ved kaution, forældes kautionen ligesom den fordring
    + Pengelån
  
 
-### Afbrydelse af forældelse 
+## Afbrydelse af forældelse 
 
 I forældelseslovens kapitel 5 findes der nogle regler om, hvordan forældelsen kan afbrydes. Det vil sige, at fristen kan komme til at løbe længere end det umiddelbare udgangspunkt.
 
@@ -8454,7 +8514,7 @@ Speak 23
 
  
  
-## Tinglysningssystemet  
+# Tinglysningssystemet<sup><font color="red"> Premium </font></sup>  
 
 ![](img/tinglysning5.jpg)
 
@@ -8462,7 +8522,7 @@ Alle tinglysninger foretages i den digitale tingbog, som administreres af Tingly
 
 
 
-###### Hjemmesiden for den digitale tinglysning klik for at besøge siden
+## Hjemmesiden for den digitale tinglysning klik for at besøge siden
 
 <a href="https://www.tinglysning.dk/tinglysning/landingpage/landingpage.xhtml" target="_blank">
 <img border="0" alt="https://www.tinglysning.dk/tinglysning/landingpage/landingpage.xhtml" src="img/tinglysning.png" width="100%">
@@ -8501,7 +8561,7 @@ Opslag i rettighedsregistrene sker på www.tinglysning.dk.
 
 
 
-### Hvad er tinglysning?
+## Hvad er tinglysning?
 
 ![](img/tinglysning6.jpg)
 
@@ -8518,7 +8578,7 @@ Tinglysning er en offentlig registrering af:
 
 
  
-### Tinglysning som sikringsakt
+## Tinglysning som sikringsakt
 
 Tinglysning er en sikringsakt, hvor rettighedshaveren sikrer sin rettighed (ejendomsret, pant mv.) mod andre rettigheder, der stiftes efterfølgende, og som strider mod ens egen rettighed.
 Vedrørende for eksempel fast ejendom bliver køb, pant og andre aftaler samt kreditorforfølgning (f.eks. udlæg) tinglyst for at sikre aftalen mod andre rettigheder over ejendommen. Når en ejendom bliver solgt, bliver skøde og købsaftale tinglyst for at sikre, at andre rettighedshavere kan se, at køber nu ejer ejendommen, hvis f.eks:
@@ -8533,7 +8593,7 @@ Tinglysning sker med andre ord for at beskytte sig mod andres eventuelle krav. F
 
 
   
-### Tinglysning som prioritet
+## Tinglysning som prioritet
 Rettigheder tinglyst som adkomst, pant eller byrde/servitut bliver opstillet i rangorden. Det vil sige i den rækkefølge, de har sikkerhed i ejendommen, køretøjet, andelsboligen eller løsøret. Rækkefølgen bliver afgjort dels af tidspunktet for tinglysning, dels af eventuelle tinglyste erklæringer om at ville respektere senere tinglyste rettigheder (rykningspåtegninger).
 
 Hvis en ejendom bliver solgt til flere, er det som regel den køber, der først får tinglyst sit køb, der får ret til at beholde ejendommen. Hvis en ejendom bliver solgt, og der efterfølgende bliver foretaget udlæg over for sælger, har kreditor sikkerhed i ejendommen uanset det forudgående salg. Sikkerheden gælder dog kun, hvis udlægget bliver tinglyst før skødet.
@@ -8662,7 +8722,7 @@ Andre vejledninger til fuldmagter:
 
 
 
-### Om Andelsboligbogen  
+## Om Andelsboligbogen  
 I Andelsboligbogen kan kreditorer registrere deres rettigheder (pant, udlæg mv.) over andele i andelsboligforeninger, og aktier og anparter i henholdsvis boligaktieselskaber og boliganpartsselskaber omfattet af tinglysningslovens kapitel 6 b.
 
 Hvordan får man en rettighed tinglyst i Andelsboligbogen:
@@ -8682,7 +8742,7 @@ Spørgsmål og svar om Andelsboligbogen inden for generelle områder som f.eks. 
 <a href="https://www.tinglysningsretten.dk/tinglysning/faq/andel/Pages/default.aspx?FAQCategory=Generelt" target="_blank">Se spørgsmål og svar om Andelsboligbogen her</a>
 
 
-### Om bilbogen
+## Om bilbogen
  
 Få oplysninger i Bilbogen om gæld i bilen
 
@@ -8705,7 +8765,7 @@ Det koster som udgangspunkt en grundafgift på 1.660 kr. at tinglyse et dokument
 
 <a href="https://www.tinglysningsretten.dk/tinglysning/faq/bilbogen/Pages/default.aspx?FAQCategory=Generelt" target="_blank">Spørgsmål og svar om Bilbogen inden for generelle områder som f.eks. fuldmagter og prøvetinglysning finder du i deres respektive kategorier. Denne kategori indeholder spørgsmål og svar, der udelukkende vedrører Bilbogen</a>
 
-### Om personbogen
+## Om personbogen
 Ægtepagter bliver registreret i Personbogen. I Personbogen bliver det også registreret, hvis en person kun kan råde over sin formue i begrænset omfang.
 I Personbogen kan kreditorer også registrere rettigheder over andet løsøre end biler.
 
@@ -8748,7 +8808,7 @@ I nogle tilfælde bliver en rettighed kun noteret. Der sker i disse tilfælde ik
 
 Spørgsmål og svar om Personbogen inden for generelle områder som f.eks. fuldmagter og prøvetinglysning finder du i deres respektive kategorier. <a href="https://www.tinglysningsretten.dk/tinglysning/faq/person/Pages/default.aspx" target="_blank">Denne kategori indeholder spørgsmål og svar, der udelukkende vedrører Personbogen.</a>  
 
-### Digitalisering af pantebrev 
+## Digitalisering af pantebrev 
 I forbindelse med digital tinglysning kan det være nødvendigt at konvertere et eksisterende pantebrev til et digitalt pantebrev.
 
 Det er som udgangspunkt kun nødvendigt at digitalisere, hvis der skal tinglyses en påtegning på dokumentet. Der er ingen 5-års frist for konvertering af pantebreve. Alle pantebreve (også ejerpantebreve) bevarer deres gyldighed, indtil de aflyses på helt sædvanlig vis - uanset om det er om 10, 20 eller 30 år.
@@ -8784,7 +8844,7 @@ Tinglysningsloven og tinglysningsbekendtgørelsen indeholder regler om, hvilke o
 
 Man skal anmelde dokumentet på www.tinglysning.dk.
 
-### Hvad er servitutter?
+## Hvad er servitutter?
 Servitutter er forskellige begrænsede rettigheder over fast ejendom, for eksempel færdselsret, jagtret, aftægtsret og forkøbsret tinglyses som servitut.
 Servitutter kan opdeles i privatretlige rettigheder og offentligretlige rettigheder. 
 
@@ -8808,14 +8868,14 @@ En aftale mellem ejeren af ejendommen og andre kan blive tinglyst. hvis den stif
  
 Der skal for de fleste dokumenters vedkommende være angivet en eller flere påtaleberettigede i dokumentet. Det er den påtaleberettigede, der skal godkende ændringer, rykninger, eller aflysning.
 
-### Tingsrettens historie
+## Tingsrettens historie
 
 ![](img/tinglysning10.jpg)
 
 Tinglysningen er samlet under Tinglysningsretten i Hobro, og al tinglysning foregår nu digitalt.<a href="https://www.tinglysningsretten.dk/om/Pages/default.aspx" target="_blank">Tinglysningens historie går langt tilbage, læs mere her</a>
  
 
-### Love og bekendtgørelser om tinglysning 
+## Love og bekendtgørelser om tinglysning 
 Hovedloven: Lovbekendtgørelse nr. 1075 af 30. september 2014 om tinglysning
 <a href="https://www.tinglysningsretten.dk/hvad/lovgrundlag/Pages/default.aspx" target="_blank">Links til love, bekendtgørelser og cirkulærer om tinglysning.</a>
 
@@ -8892,9 +8952,10 @@ Som bruger af Retsinformation.dk skal man derfor være opmærksom på, eventuell
 # Rådgiveransvar og god skik
 # Familie og arveret
 # Forsikring
-# Lejeret
-# De finansielle tvistløsningsorganer
-
+# Lejeret<sup><font color="red"> Premium </font></sup>
+# De finansielle tvistløsningsorganer<sup><font color="red"> Premium </font></sup>
+# Hvordan man skriver en god eksamensopgave
+# Eksamensopgaver
 # Lovsamling
 
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=177079" target="_blank">Aftaleloven</a></h3>
