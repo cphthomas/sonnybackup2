@@ -8957,8 +8957,11 @@ Som bruger af Retsinformation.dk skal man derfor være opmærksom på, eventuell
 #### Video: Forstå tinlysning på 45 sekunder
 
 
-<div class="video-container"><iframe src="https://youtu.be/6Spl32wXXco" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/6Spl32wXXco" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 <br>
+
+
+
 
 *	**Dobbeltoverdragelse** – når samme rettighedshaver disponerer over samme ret mere end én gang, dvs., at overdrageren uberettiget har overdraget rettigheden aktivet til flere erhververe.
 * **Kædeoverdragelse** – når rettigheden over aktivet først overdrages fra A til B, hvorefter B overdrager dette aktiv videre til C
@@ -9043,17 +9046,17 @@ Når udlægget er foretaget i fogedretten, kan køretøjet med fogedens hjælp a
 
 #### Video: Mødet i fogedretten
 
-<div class="video-container"><iframe src="https://youtu.be/ozjrbeuLrTU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/ozjrbeuLrTU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 <br>
 
 #### Video: Video: Gode råd om gæld i fogedretten
 
-<div class="video-container"><iframe src="https://youtu.be/th9E-UvXijE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/th9E-UvXijE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 <br>
 
 #### Video: Fogedretten og tvangsfuldbyrdelse
 
-<div class="video-container"><iframe src="https://youtu.be/GyL1vMMADkQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/GyL1vMMADkQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 <br>
 
 
@@ -9087,12 +9090,12 @@ Speak 23
 
 #### Video: Hvordan sender man et betalingspåkrav til fogedretten:
 
-<div class="video-container"><iframe src="https://youtu.be/2h39KNIjA3Y" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/2h39KNIjA3Y" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 <br>
 
 #### Video: Unge og gæld:
 
-<div class="video-container"><iframe src="https://youtu.be/kJWmIWzhHKk" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/kJWmIWzhHKk" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 <br>
 
  
