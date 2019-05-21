@@ -9441,7 +9441,7 @@ Efter den tidligere omsætningslovs § 19, stk. 1, skulle ejendommen udbydes med
 
 <div class="Keats">
 **Formidlingsbekendtgørelsen**  
-**Salgsopstillingen**
+**Salgsopstillingen**  
 § 6. Salgsopstillingen skal, ud over kravene i LOFE § 39, stk. 1, indeholde oplysning om følgende:
 
 1.	Den skønnede kontantpris (udbudsprisen), jf. LOFE § 41, stk. 1.
@@ -9467,7 +9467,6 @@ Eksempel
 
 <div class="Keats">
 **Formidlingsbekendtgørelsen **  
-
 **Ejerudgift**  
 § 12. Ejerudgiften det første år specificeres i salgsopstillingen. Den omfatter den aktuelle ejendomsværdiskat, grundskyld og ejendomsforsikring for den pågældende ejendom. Den omfatter endvidere de aktuelle udgifter som køber er forpligtet til at afholde som ejer af ejendommen, med undtagelse af udgifter til lovpligtige eftersyn af ejendommens forsyningsanlæg, herunder varmeanlæg. Desuden omfatter ejerudgiften ydelserne på eventuel gæld, som overtages af køber uden for købesummen. Fællesudgifter til ejerforening indgår i ejerudgiften efter fradrag af forbrugsafhængige udgifter.  
 Stk. 2. I stedet for indregning af og oplysning om den aktuelle forsikringsudgift, jf. stk. 1, kan udgiften til ejendomsforsikring baseres på et konkret tilbud eller på et anslået tilbud baseret på offentlige tilgængelige priser fra et forsikringsselskab. I forbindelse hermed skal det oplyses, om forsikringstilbuddet indeholder forbehold, samt om det dækker svamp-, insekt- og rørskader.  
@@ -9483,8 +9482,7 @@ Bestemmelsen i LOFE § 40 fastsætter, at ejendommen også skal udbydes med rele
 
 <div class="Keats">
 **Formidlingsbekendtgørelsen**  
-
-**Forbrugsafhængige forhold**
+**Forbrugsafhængige forhold**  
 § 13. I salgsopstillinger for boliger, hvor der skal udarbejdes energimærkning for selve boligenheden, jf. lov om fremme af energibesparelser i bygninger, skal der oplyses om det årlige beregnede varmeforbrug, som fremgår af energimærkningen. Der skal angives følgende oplysninger om det beregnede forbrug:  
 
 1.	udgiften til forbruget  
