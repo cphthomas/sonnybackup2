@@ -11984,14 +11984,13 @@ Et uigenkaldeligt testamente indskrænker testators testationskompetence – arv
 *	Pensionsopsparingsloven (POL)  
 
 #### Video: Forstå forsikring på 3 minutter
-https://www.youtube.com/watch?v=jhoZCUQd-n8
+<div class="video-container"><iframe src="https://www.youtube.com/embed/jhoZCUQd-n8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 #### Video: Birgitte sælger forsikringer
-https://www.youtube.com/watch?v=C5MKa1y1r8I
+<div class="video-container"><iframe src="https://www.youtube.com/embed/C5MKa1y1r8I" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 #### Video: Bliv skadesbehandler I forsikringsselskab
-https://www.youtube.com/watch?v=j-qLQu7qECw  
-
+<div class="video-container"><iframe src="https://www.youtube.com/embed/j-qLQu7qECw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ## Indgåelse af en forsikringsaftale
 
@@ -12000,7 +11999,7 @@ https://www.youtube.com/watch?v=j-qLQu7qECw
 Forsikringsaftalen omfatter enhver aftale, som indgås mellem på den ene side en forsikringsgiver (forsikringsselskabet) og på den anden side for sikringstageren.  En forsikringsaftale kan således defineres som en aftale, hvor forsikringsselskabet (forsikringsgiver) overtager den økonomiske risiko for en uvis begivenheds indtræden mod et vederlag (præmie), der kan
 beregnes statistisk af forsikringsselskabet.  
 
-Det kan ikke antages, at den, der tegner forsikring, har en egentlig oplysningspligt, medmindre det må antages, at oplysningen vedrører forhold som forsikrede  må vide har betydning for risikobedømmelsen, jf. FAL § 7. Forsikrede vil i almindelighed kunne indskrænke sig til redeligt at besvare de stillede spørgsmål i ”forsikringsbegæringen”, se nedenfor afsnit 21.2.4.  
+Det kan ikke antages, at den, der tegner forsikring, har en egentlig oplysningspligt, medmindre det må antages, at oplysningen vedrører forhold som forsikrede  må vide har betydning for risikobedømmelsen, jf. FAL § 7. Forsikrede vil i almindelighed kunne indskrænke sig til redeligt at besvare de stillede spørgsmål i ”forsikringsbegæringen”, se nedenfor.  
  
 En forsikringsaftale er normalt en standardkontrakt og vil blive fortolket imod forsikringsselskabet, hvis indholdet er uklart, jf. nærmere koncipistreglen i aftalelovens § 38 b.  
 
@@ -12015,8 +12014,7 @@ Ved en forbrugerforsikring forstås en forsikringsaftale, hvor forsikringstagere
 
 #### Video: Unge og Forsikringer | Gode råd om forsikringer
 
-https://www.youtube.com/watch?v=sixGZPICtew
-
+<div class="video-container"><iframe src="https://www.youtube.com/embed/sixGZPICtew" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
  
  
 ### Bevisbyrderegler
@@ -12025,7 +12023,7 @@ Forsikringsselskabet har bevisbyrden for, at en forsikringsaftale ikke er en for
 Det er som udgangspunkt forsikringstageren, der skal bevise, at man har ret til at få erstatning fra ens forsikringsselskab. Dermed er det forsikringstageren, der har bevisbyrden.  
 
 I nogle tilfælde er det forsikringsselskabet, der har bevisbyrden. Mener selskabet, at en forsikringsbegivenhed (tyveri, skade mv.) ikke er dækket af forsikringen, fordi den er omfattet af en undtagelse i forsikringsbetingelserne, skal selskabet bevise dette. Mener selskabet, at man ved købet af forsikringen har givet forkerte (urigtige) oplysninger, skal selskabet bevise
-dette. Har man afgivet urigtige oplysninger, kan det betyde, at selskabet opsiger ens forsikringer tilbage til tegningstidspunktet.  
+dette. Har man afgivet urigtige oplysninger, kan det betyde, at selskabet opsiger ens forsikringer tilbage til tegningstidspunktet.   
 
 Tilsvarende har selskabet bevisbyrden, hvis selskabet mener, at man er underforsikret, eller at forsikringen er ophørt, fordi selskabet har opsagt ens forsikring. Mener selskabet, at en anden person skulle stå som ejer eller bruger af bilen i din forsikringspolice, er det også selskabet, der skal bevise, at den pågældende person er rette ejer eller bruger. Det har betydning
 for størrelsen af præmien og for erstatningen, hvis der ikke er betalt korrekt præmie.  
@@ -12043,8 +12041,7 @@ Der er en lovbestemt pligt til at tegne forsikringer inden for en række retsomr
 Forsikrings- og Erstatningsretlig Domsamling; (herefter FED), jf. FED 2012.14: Jagt blev afbrudt og deltagerne kørte et andet sted hen for at spise frokost. Efter frokost ville jægerne A og B justere A's riffel, men ved et uheld blev A dræbt, da B utilsigtet affyrede riflen. Den lovpligtige jagtansvarsforsikring, F1, afviste at dække skaden med henvisning til, at denne forsikring kun dækker under „jagt eller i umiddelbar forbindelse med jagtens påbegyndelse eller afslutning“. B's almindelige ansvarsforsikring, F2, dækkede skaden, men gjorde regres over for F1 og gjorde bl.a. gældende, at vådeskudsulykken skete i en for jagten naturlig tilknyttet situation, hvor der blev håndteret jagtvåben. Landsretten fandt ikke, at ulykken var sket under jagt, eller at den havde haft en sådan tæt tidsmæssig og stedlig tilknytning til jagt, at ulykken kunne anses som sket i umiddelbart forbindelse med jagtens påbegyndelse eller afslutning. F1 blev derfor frifundet.  
 
 #### Video: Kan alle få almindelige forsikringer?   
-
-https://www.youtube.com/watch?v=asAt_30Pd_o
+<div class="video-container"><iframe src="https://www.youtube.com/embed/asAt_30Pd_o" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ### Hvordan ansøger man om en forsikring?
 Det sker via et skema kaldet en „forsikringsbegæring“, hvor man giver forsikringsselskabet de oplysninger, som danner grundlag for forsikringens art, størrelse, risiko og antagelsesvilkår. Forsikringsbegæringen vil normalt indeholde oplysninger om ens person m.m. og omfatte en række spørgsmål, som man skal besvare til belysning af risikoforholdene. Disse spørgsmål har man pligt til at besvare i nøje overensstemmelse med de faktiske forhold. Forsikringsselskabet må ikke i forbindelse med eller efter indgåelse af forsikringsaftaler anmode om, indhente eller modtage og bruge oplysninger, der kan belyse en persons arveanlæg og risiko for at udvikle eller pådrage sig sygdomme, herunder kræve undersøgelser, som er nødvendige
@@ -12132,10 +12129,10 @@ For livsforsikring og individuel pensionsordning er fristen dog 30 dage. Har man
 Fortryder man aftalen, har forsikringsselskabet ikke krav på præmie. Fortryder man aftalen, og har anmeldt en skade til forsikringen, er der ingen dækning for skaden. Det gælder også, hvis det er en lovpligtig ansvarsforsikring, man fortryder – for eksempel en bil- eller hundeansvarsforsikring.  
 
 #### Video: Bilforsikring
-https://www.youtube.com/watch?v=6JfjVjptXGs
 
-https://www.youtube.com/watch?v=H9PzSmkhC48&list=PLrSYxSf78XlfU6wcvF2NPDHRvn1A5txwm&index=3
+<div class="video-container"><iframe src="https://www.youtube.com/embed/6JfjVjptXGs" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
+<div class="video-container"><iframe src="https://www.youtube.com/embed/H9PzSmkhC48" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 Retten til at fortryde gælder ikke ved ændring af en forsikring, man har i forvejen. Det gælder heller ikke for rejse- eller bagageforsikringer eller lignende forsikringer, der har en begrænset løbetid på højest en måned.  
 
@@ -12146,7 +12143,8 @@ forsikringsselskabet, at man ikke ønsker forsikringen. Det betyder, at oplysnin
 den 18. februar. Det er for sent, at forsikringsselskabet først modtager henvendelse den 19. februar eller senere. Sker det, kan aftalen ikke fortrydes.  
 
 #### Video: Hvordan dækker en ulykkesforsikring
-https://www.youtube.com/watch?v=gsK8tssPiZ0&list=PLrSYxSf78XlfU6wcvF2NPDHRvn1A5txwm
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/gsK8tssPiZ0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ### Indtrædelse af forsikringsselskabets ansvar
 Er forsikringsaftale sluttet, uden at det er bestemt, når ansvaret skal begynde, anses forsikringsselskabets ansvar at indtræde allerede på det tidspunkt, da selskabet eller forsikringstageren afsender meddelelse om, at den anden parts tilbud antages.  
@@ -12207,7 +12205,8 @@ Risikooplysningerne afgives sædvanligvis i et spørgeskema (begæringen). I en 
 FED 2015.120: A havde ikke oplyst F om de rigtige brugerforhold af hendes bil, hvilket var groft uagtsomt i henhold til FAL §§ 6 og 7. F kunne derfor rette et forholdsmæssigt krav mod A.  
 
 #### Video: Hvordan dækker familieforsikringen
-https://www.youtube.com/watch?v=FfIcQgcMKn4&list=PLrSYxSf78XlfU6wcvF2NPDHRvn1A5txwm&index=2
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/FfIcQgcMKn4" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ### Risikoforøgelse skal anmeldes til forsikringsselskabet
 Præmien for en forsikring beregnes ud fra risikoforholdene på tidspunktet for forsikringens tegning. Ifølge policen/forsikringsbetingelserne skal det anmeldes til selskabet, såfremt der sker ændringer i fx en bygnings benyttelse.  
@@ -12246,14 +12245,12 @@ Police og forsikringsbetingelser kan indeholde krav om, at forsikringstageren sk
 ## Eksempler på sikkerhedsforholdsregler, som nævnes af Forsikringsankenævnet, kan være:
 
 * Krav i familie-/indboforsikringen om, at ens bolig skal være forsvarligt aflåst, for at man har ret til erstatning efter reglerne om indbrudstyveri.  
-* Krav i bygningsforsikringen om, at bygningen skal være forsvarligt vedligeholdt.
+* Krav i bygningsforsikringen om, at bygningen skal være forsvarligt vedligeholdt.  
 * Krav i motorkøretøjsforsikringen om, at føreren skal have gyldigt kørekort.  
 
 #### Video: Jørgen har styr på det
 
-https://www.youtube.com/watch?v=Oi1NnFx8NB4
-
-
+<div class="video-container"><iframe src="https://www.youtube.com/embed/Oi1NnFx8NB4" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 # Se praksis fra Forsikringsankenævnet og retspraksis omkring FAL § 51<sup><font color="red"> Premium </font></sup>  
 
@@ -12385,25 +12382,27 @@ www.forsikringsoplysningen.dk
 e-mail: fp@forsikringogpension.dk  
 
 #### Video: Sådan sikrer du din hushandel
-https://www.youtube.com/watch?v=GCogSgE3ZmU
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/GCogSgE3ZmU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 #### Video: Forsikringsguiden - Husforsikring 
-https://www.youtube.com/watch?v=Q1DLpo0fPUo
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/Q1DLpo0fPUo" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 #### Video: Dagsgebyr for manglende ansvarsforsikring
-https://www.youtube.com/watch?v=9kHkH-8HxZI 
 
-
+<div class="video-container"><iframe src="https://www.youtube.com/embed/9kHkH-8HxZI" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
 
 
 Efter § 43 i lov om finansiel virksomhed skal forsikringsvirksomhed udøves i overensstemmelse med redelig forretningsskik og god praksis inden for forsikringsområdet. Vil forsikringstageren klage over forsikringsselskabers tilsidesættelse af god forsikringsskik, skal Finanstilsynet kontaktes.  
 
-Finanstilsynet  
+**Finanstilsynet**  
 Finanstilsynet kan tage sager vedrørende overholdelsen af god skik og de udstedte bekendtgørelser op af egen drift, f.eks. i forbindelse med inspektionsbesøg eller temaundersøgelser. Finanstilsynet kan endvidere tage sager op efter anmodning fra Finanstilsynets bestyrelse eller Forbrugerombudsmanden. Finanstilsynet modtager tillige henvendelser direkte
 fra forbrugere, der imidlertid normalt henvises til de finansielle tvistløsningsorganer, hvis klagen også vedrører civilretlige spørgsmål om erstatning eller tilbagebetaling af uretmæssigt opkrævede beløb. Erhvervsdrivende henvises til domstolene. Finanstilsynet træffer en traditionel forvaltningsretlig afgørelse med mulighed for administrativ rekurs, og tilsynet
 har ikke en direkte søgsmålskompetence til domstolene. Såfremt en sag om god skik har vidtrækkende eller principiel betydning, skal Finanstilsynet forelægge sagen for Tilsynets bestyrelse.  
+
 Se følgende kontaktoplysninger:  
 Finanstilsynet  
 Århusgade 110,  
@@ -12414,23 +12413,28 @@ www.finanstilsynet.dk
 e-mail: finanstilsynet@ftnet.dk  
 
 #### Video: Årsmødet I Forsikring og Pension 2018
-https://www.youtube.com/watch?v=HHljb90aVsk
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/HHljb90aVsk" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>  
 
  
 #### Video: Mandrilaftalen – Forsikringer
-https://www.youtube.com/watch?v=EGj0tVWtr6g&t=54s
 
+<div class="video-container"><iframe src="https://www.youtube.com/embed/EGj0tVWtr6g" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>  
 
 ## Pensionsforsikringer
 
 #### Video: Hvad indeholder min pensionsordning? 
-https://www.youtube.com/watch?v=Vcf8Ckorb5s
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/Vcf8Ckorb5s" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 #### Video: Pension forklaret så man faktisk fatter det
-https://www.youtube.com/watch?v=W6i8F73jeRE
+
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/W6i8F73jeRE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 #### Video: Pensionsopsparing‐ Skal jeg vælge Livrente som en del af min pension? 
-https://www.youtube.com/watch?v=vdSRTFzuhjo
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/vdSRTFzuhjo" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
  
 Det danske pensionssystem består af tre dele:  
 
@@ -12517,7 +12521,7 @@ Har man afgivet urigtige oplysninger til forsikringsselskabet ved tegningen af f
 
 #### Video: Jakob oplysning: Pension  
 
-https://www.youtube.com/watch?v=fLnGjz9729U  
+<div class="video-container"><iframe src="https://www.youtube.com/embed/fLnGjz9729U" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ###	Hvordan oplyses sagen i forsikringsselskabet, og hvilke forhold der indgår i deres vurdering
 
@@ -12586,14 +12590,16 @@ Hvis man afgiver urigtige oplysninger til forsikringsselskabet ved tegningen af 
 
 #### Video: Styr på arven: Hvem får pensionen?  
 
-https://www.youtube.com/watch?v=F6Yourieo0Q
+<div class="video-container"><iframe src="https://www.youtube.com/embed/F6Yourieo0Q" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 #### Video: Pensionsopsparing ‐ Aldersopsparing er afløseren for kapitalpension
-https://www.youtube.com/watch?v=XlRPMMEtnOI
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/XlRPMMEtnOI" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 #### Video: Pensionsopsparing‐Hvad får du med en ratepension? 
-https://www.youtube.com/watch?v=uM9qeWfdZfE
 
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/uM9qeWfdZfE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ## Livsforsikringer
 Man kan tegne en livsforsikring, hvis man ønsker at sikre sine efterladte økonomisk. Mange har en livsforsikring via deres arbejdsplads, fagforening, pensionsselskab eller lign.  
@@ -12678,8 +12684,8 @@ Reglerne er følgende:
 *	Har man en samlever, som man ønsker, skal have en sum penge fra ATP, hvis man dør inden en vis alder, så registrer jer nu. Flytter man fra hinanden, bortfalder samlevers ret til engangsudbetalingen.
 
 #### Video: Ole Møgdahl Vil tegne livsforsikring for sin kone
-https://www.youtube.com/watch?v=UKGAt8fcHaU
 
+<div class="video-container"><iframe src="https://www.youtube.com/embed/UKGAt8fcHaU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
 
