@@ -858,6 +858,7 @@ I samme dom præciserede Domstolen, at en medlemsstat - selv i det tilfælde, hv
 
 
 # Aftaleloven
+<script async src="https://widget.spreaker.com/widgets.js"></script>
 
 <img src="img/deal1.jpg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Aftalelovens principper har betydning på hele aftaleområdet,^[Følgene bygger tildels på *Torsten Iversen og Lars Hedegaard Kristensens* karnovkommentar til aftaleloven] fx i:
@@ -901,6 +902,11 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 *	U2: Urimelige aftaler, aftalelovens §§ 38c, jf. 36
 *	U3: Lov og ærbarhed Danske Lov fra 1683
 
+  
+<br>
+<a class="spreaker-player" href="https://www.spreaker.com/show/jura" data-resource="show_id=3421279" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https://d1bm3dmew779uf.cloudfront.net/cover/82d497d128ab0adc306278c68db0041d.jpg"></a>
+
+<br>
 
 
 ### Hvad er en aftale?
@@ -1475,11 +1481,18 @@ kable(collapse_rows_dt, align = "l",caption = "Regler og tolkning") %>%
 
 
 # Fuldmagter og mellemmænd
+<script async src="https://widget.spreaker.com/widgets.js"></script>
 
 <br>
 <div class="video-container"><iframe src="https://www.youtube.com/embed/ugJt8-E7xJY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div> 
 
 <br>
+
+<br>
+<a class="spreaker-player" href="https://www.spreaker.com/show/kapitel-2-aftaleloven" data-resource="show_id=3543307" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https://d1bm3dmew779uf.cloudfront.net/cover/bb453683459dec52bf6b9b83a3192674.jpg"></a>
+
+<br>
+
 
 <img src="img/fuldmagt1.jpeg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
@@ -1493,7 +1506,7 @@ kable(collapse_rows_dt, align = "l",caption = "Regler og tolkning") %>%
 
 
 ## Fuldmagtsforhold og aftaleindgåelse 
-
+<script async src="https://widget.spreaker.com/widgets.js"></script>
 
 
 ```{r network4, echo=FALSE, result=TRUE,fig.cap=("Fuldmagtsforhold og aftaleindgåelse ")}
@@ -1518,6 +1531,9 @@ visNetwork(nodes, edges, width = "80%",avoidOverlap=2) %>%
   visLayout(randomSeed = 24) %>% # to have always the same network
 visEdges(color = list(color = "lightgrey", highlight = "yellow"))
 ```
+
+
+
 
 *Fuldmagt:* Aftaleloven afsnit II, jf. aftalelovens §§ 10-27 ^[Følgene bygger tildels på *Torsten Iversens og Lars Hedegaard Kristensen* karnovkommentar til aftaleloven]
 
