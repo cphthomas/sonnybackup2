@@ -69,7 +69,7 @@ indeks <<- data.frame(BEGREB,forklaring)
 
 
 
-`r icon::fa("medal")` 
+<!-- `r icon::fa("medal")`  -->
 
 
 
