@@ -1,3 +1,134 @@
+--- 
+title: "Erhvervs- og finansjura"
+author: "Sonny Kristoffersen Advokat, Partner, lektor og Ph.D."
+date: "2019-05-25"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "JURA"
+favicon: "favicon.ico"
+---
+
+
+#    {-}
+					
+					
+
+
+<!-- <!-- BEGIN LOGIN FORM -->
+<!-- <META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE"> -->
+<!-- <META HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE"> -->
+<!-- <style> -->
+<!-- .handCursor { -->
+<!-- cursor:pointer; -->
+<!-- cursor:hand; -->
+<!-- }  -->
+<!-- #magicGroup form { -->
+<!-- margin: 0; -->
+<!-- padding: 0;  -->
+<!-- } -->
+<!-- #magicGroup A:link {text-decoration: none; color:black;} -->
+<!-- #magicGroup A:visited {text-decoration: none; color:black;} -->
+<!-- #magicGroup A:active {text-decoration: none; color:black;} -->
+<!-- #magicGroup A:hover {text-decoration: none; color:black;} -->
+<!-- .clearfix:after{ -->
+<!--   content:".";display:block;height:0;clear:both;visibility:hidden; -->
+<!-- } -->
+<!--   .spacer0{clear:both; height:0px; margin:0px; padding:0px; line-height:0px; font-size:0px;} -->
+<!--   .spacer{clear:both; height:1px; margin:0px; padding:0px; line-height:0px; font-size:0px;} -->
+<!--   .spacer2{clear:both; height:2px; margin:0px; padding:0px; line-height:0px; font-size:0px;} -->
+<!--   .spacer3{clear:both; height:3px; margin:0px; padding:0px; line-height:0px; font-size:0px;} -->
+<!--   .spacer4{clear:both; height:4px; margin:0px; padding:0px; line-height:0px; font-size:0px;} -->
+<!--   .spacer5{clear:both; height:5px; margin:0px; padding:0px; line-height:0px; font-size:0px;} -->
+<!--   .spacer10{clear:both; height:10px; margin:0px; padding:0px; line-height:0px; font-size:0px;} -->
+<!--   .spacer20{clear:both; height:20px; margin:0px; padding:0px; line-height:0px; font-size:0px;} -->
+<!--   </style> -->
+<!--   <script type="text/javascript" src="https://www.sentrylogin.com/sentry/scripts/Sentry_AJAX.js"></script> -->
+<!--   <div id="Settings" ALIGNMENT="CENTER" MANNER="GROW" style="display:none;"></div> -->
+
+<!--   <div id="Sentry_outermost" style="width:175px; position:relative;">  -->
+
+
+<!--   <form name="Sentry_login_form" onsubmit="sentryLogin();"> -->
+<!--   <div style="height:1px;"><a href="https://www.sentrylogin.com"><img src="https://www.sentrylogin.com/sentry/images/logo.gif" alt="Sentry Password Protection Member Login" width="2" height="1" border="0"></a></div> -->
+<!--   <div id="TopBar" onclick="Sentry_onClick(this.id);" class="handCursor" style="width:175px; background-color:White; padding-top:2px; padding-bottom:2px; border-width:1px; border-style:solid; border-color:LightGray; border-radius: 6px;"> -->
+<!--   <div id="Sentry_label" style="text-align: right; font-family:sans-serif; font-size:12px; font-weight:bold; margin-bottom:3px;"><span id="Sentry_label_span" style="padding-right:10px; padding-left:5px;">Member Login</span><span id="downArrow"><img src="https://www.sentrylogin.com/sentry/images/down_arrow.png" align="baseline" style="margin-right:5px;"></span></div></div> -->
+<!--   <div id="magicGroup" style="z-index: 10000; background-color:white; text-align:left; position:absolute; left: -9999px; width:175px; padding-top:15px; border-style:solid; border-color:LightGray; border-top-width:0px; border-right-width:1px; border-bottom-width:1px; border-left-width:1px; border-radius: 6px;"> -->
+<!--   <div id="messages" style="display:none; padding-left:15px; padding-right:15px; padding-bottom:15px; font-family: Arial; font-size:12px; color: red;">.</div> -->
+<!--   <div id="Sentry_emailDiv" style="width:146px; margin-left:15px;"><span style="text-align:left;">  -->
+<!--   <input type="text" id="Sentry_email" style="padding-left: 3px; border-style:solid; border-width:1px; border-color:LightGray; border-radius: 6px; width:146px; height:24px;" onfocus="Sentry_onfocus(this.id);" onkeydown="Sentry_onkeydown(event, this.id);" onkeyup="Sentry_onkeyup(this.value, this.id, event);" onblur="Sentry_onblur(this.value, this.id);" value="E-mail Address"></span></div> -->
+<!--   <div id="Sentry_passwordDiv" style="width:146px; margin-left:15px; margin-top:2px;"><span style="text-align:left;">  -->
+<!--   <input type="text" id="Sentry_password" style=" padding-left: 3px; border-style:solid; border-width:1px; border-color:LightGray; border-radius: 6px; width:146px; height:24px;" onfocus="Sentry_onfocus(this.id);" onkeydown="Sentry_onkeydown(event, this.id);" onkeyup="Sentry_onkeyup(this.value, this.id, event);" onblur="Sentry_onblur(this.value, this.id);" value="Password"></span> </div> -->
+<!--   <div id="Sentry_HIDpasswordDiv" style="width:146px; display: none; margin-left:15px; margin-top:2px;"><span style="text-align:left;"> -->
+<!--   <input type="password" id="Sentry_HIDpassword" style=" padding-left: 3px; border-style:solid; border-width:1px; border-color:LightGray; border-radius: 6px; width:146px; height:24px;" onfocus="Sentry_onfocus(this.id);" onkeydown="Sentry_onkeydown(event, this.id);" onkeyup="Sentry_onkeyup(this.value, this.id, event);" onblur="Sentry_onblur(this.value, this.id);"></span></div> -->
+<!--   <div id="unHideDiv" style="margin-bottom:5px; font-family:Arial; font-size:10px;"><span id="forgotSpan" onclick="Sentry_onClick(this.id);" style="vertical-align:top; margin-left:15px; font-family:Arial; font-size:10px; color:gray;" class="handCursor">Forgot?</span>  -->
+<!--   <input type="checkbox" id="unHide" style="height:12px; width:10px; margin:4px; display:none;" value="1"> -->
+<!--   <span id="unHideSpan" style="width:25px; vertical-align:top; font-family: Arial;font-size:10px; color:gray; margin-left:78px;" onclick="Sentry_onClick(this.id);" class="handCursor" title="Do not reveal password in public">Show</span></div> -->
+<!--   <div id="buttonDiv" style="float:left; width:45px; margin-left:15px;">  -->
+
+<!--   <button type="button" onclick="sentryLogin();" style="height:25px; padding:2; width:45px; font-family:Arial; font-size:11px;" id="Sentry_button">Go</button></div> -->
+<!--   <div id="psistDiv" style="float:left; width:98px; text-align:right; margin-top:10px; margin-right:15px;">  -->
+<!--   <input id="psist" type="checkbox" value="1" style="height:10px; width:10px; margin:0; margin-bottom:2px; margin-right:2px;" class="handCursor" title="Do not use when in public" onclick="Sentry_onClick(this.id);"> -->
+<!--   <span id="psistSpan" style="font-family: Arial;font-size:10px; color:gray;" onclick="Sentry_onClick(this.id);" class="handCursor" title="Do not use when in public">Stay Logged In</span></div> -->
+<!--   <div class="spacer0"> </div> -->
+<!--   <div class="spacer10"> </div> -->
+<!--   <div id="goInside" style="font-family: Arial;font-size:12px; text-align: right; margin-top:10px; margin-right:15px; margin-bottom:5px; margin-left:15px; display:none;"><span id="goInsideSpan" class="handCursor" style="font-weight:bold;">.</span></div> -->
+<!--   <div id="myProfile" onclick="Sentry_onClick(this.id);" style="font-family: Arial;font-size:12px; font-weight:bold; text-align: right; margin-top:2px; margin-right:15px; margin-left:15px;" class="handCursor">My Profile</div> -->
+<!--   <div id="signUp" style="font-family: Arial;font-size:12px; font-weight:bold; text-align: right; margin-top:2px; margin-right:15px; margin-bottom:5px; margin-left:15px;"><a href="https://www.sentrylogin.com/sentry/member_signup_list.asp?Site_ID=22367" title="Click to Subscribe Now">Sign Up</a> </div> -->
+<!--   <div id="logOut" style="font-family: Arial;font-size:12px; font-weight:bold; text-align: right; margin-top:2px; margin-right:15px; margin-bottom:5px; margin-left:15px; display:none;"><span class="handCursor" onClick="LogOut();">Log Out</span></div> -->
+<!--   <div class="spacer0"> </div> -->
+<!--   <div id="xbox" style="margin-top:12px;"><img id="xout" onclick="Sentry_onClick(this.id);" src="https://www.sentrylogin.com/sentry/images/x.png" style="margin:2px; margin-right:9px;" class="handCursor"></div> -->
+<!--   <div class="spacer5"> </div> -->
+<!--   </div> -->
+<!--   <input id="Sentry_ID" type="hidden" value="22367"> -->
+<!--   <input id="univ" type="hidden" value="1"> -->
+<!--   <div id="Sentry_noJSLogin" style="width:175px; background-color:white;"><span style="color:red; font-family: Arial;font-size:12px; font-weight:bold;">Javascript Required</span></div> -->
+<!--   </form> -->
+<!--   </div> -->
+<!--   <div id="Sentry_loggingIn" style="width:175px; display:none;"> -->
+<!--   <img src="https://www.sentrylogin.com/sentry/images/wait_animated_sentry.gif"> -->
+<!--   </div> -->
+<!--   <div id="Sentry_In" style="display:none;">For testing. -->
+<!--   </div> -->
+<!--   <script language="JavaScript" type="text/JavaScript">initializeSentry();  -->
+<!--   </script> -->
+<!--   <noscript>You must have JavaScript enabled in order to log in.</noscript> -->
+<!--   <!-- END LOGIN FORM -->
+  
+  
+
+
+<br>
+<br>
+
+ 
+
+  <br>
+  
+<!--   <h3>Video sådan køber du adgang.</h3> -->
+<!-- <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/320339623' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div> -->
+<!--   <br> -->
+<!--   <br> -->
+
+<!-- <h3>Video sådan køber du adgang.</h3> -->
+<!-- <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/283118599' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div> -->
+<!--   <br> -->
+<!--   <br> -->
+<!--   <br> -->
+<!--   <br> -->
+<!-- <h3>Video sådan logger du ind.</h3> -->
+<!-- <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/283117974' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div> -->
+
+
+
+
+
+<!--chapter:end:index.Rmd-->
+
 ---
 output: 
   html_document: 
@@ -12,43 +143,13 @@ output:
 
 
 
-```{r echo=FALSE}
 
-BEGREB <- c(
-          "Grundloven",
-          "Tinglysningsloven",
-          "Aftaleloven"
-          # ,
-          # "h test"
-          
-          
-          
-          )
-forklaring <- c(
-  "Grundloven beskriver bl.a. den enkelte borgers rettigheder og pligter, du kan se den her:<br><a href=\"https://www.retsinformation.dk/Forms/R0710.aspx?id=45902\" style=\"color:#3088fc\" target=\"_blank\">Grundloven</a>",
-  "Tinglysningsloven indeholder reglerne for den offentlige registrering af rettigheder over fast ejendom<br><a href=\"https://www.retsinformation.dk/Forms/R0710.aspx?id=142900\" style=\"color:#3088fc\" target=\"_blank\">Tinglysningsloven</a>",
-  "Aftaleloven"
-#   ,
-#   "Vi tester hypotesen
-#   <br>H<sub>0</sub>: &mu;=34
-#   <br>H<sub>1</sub>: &mu;&ne;34<br>
-# <br>H<sub>0</sub>: &mu;≤34
-#   <br>H<sub>1</sub>: &mu;>34<br>
-#   <a href=\"https://www.retsinformation.dk/Forms/R0710.aspx?id=142900\" style=\"color:#3088fc\" target=\"_blank\">Tinglysningsloven</a>"
-#   
-  
-  )
-  
-indeks <<- data.frame(BEGREB,forklaring)
-  
-
-```
 
 
 #   Indledning {-}
 
 
-`r source('/cloud/project/script2.R')`
+
 
 
 
@@ -69,7 +170,7 @@ indeks <<- data.frame(BEGREB,forklaring)
 
 
 
-<!-- `r icon::fa("medal")`  -->
+<!-- <!--html_preserve--><i class="fas  fa-medal "></i><!--/html_preserve-->  -->
 
 
 
@@ -78,9 +179,7 @@ indeks <<- data.frame(BEGREB,forklaring)
 
 # Retsstaten 
 
-```{r, echo=FALSE, results='asis'}
-#cat(readLines('np.html'))
-```
+
 
 
 
@@ -91,7 +190,8 @@ indeks <<- data.frame(BEGREB,forklaring)
 <img src="img/grundloven.jpg" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
-Af de mere end 1.300 love, vi har i Danmark, er der én lov, en retskilde, der er hævet over alle de andre, nemlig grundloven.  ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` er Danmarks forfatning, dvs. den lov, der beskriver de grundlæggende regler for samfundet. I Danmark fejrer man hvert år grundlovens fødselsdag 5. juni. Men hvordan blev grundloven egentlig indført?
+Af de mere end 1.300 love, vi har i Danmark, er der én lov, en retskilde, der er hævet over alle de andre, nemlig grundloven.  `<!--html_preserve--><span id="htmlwidget-caf8eca320f24ab09f7e" class="tippy html-widget" width="960" height="500"></span>
+<script type="application/json" data-for="htmlwidget-caf8eca320f24ab09f7e">{"x":{"opts":{"size":"large","interactive":true,"arrow":true},"tooltip":"<h4>Grundloven beskriver bl.a. den enkelte borgers rettigheder og pligter, du kan se den her:<br><a href=\"https://www.retsinformation.dk/Forms/R0710.aspx?id=45902\" style=\"color:#3088fc\" target=\"_blank\">Grundloven<\/a><\/h4>","text":"Grundloven"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->` er Danmarks forfatning, dvs. den lov, der beskriver de grundlæggende regler for samfundet. I Danmark fejrer man hvert år grundlovens fødselsdag 5. juni. Men hvordan blev grundloven egentlig indført?
 Fra 1660 til 1848 havde Danmark enevælde og i 1700-tallet begyndte modstanden mod enevældet at ulme rundt om i Europa. 
 
 Befolkningerne stillede krav om, at folket skulle være med til at bestemme, hvordan deres land skulle styres, og flere steder blev monarkiet væltet og erstattet af en republik.
@@ -108,41 +208,27 @@ Efterhånden som den internationale udvikling tog fart, erkendte Kong Christian 
 
 
 ## Rettigheder og pligter
-``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` beskriver bl.a. den enkelte borgers rettigheder og pligter, f.eks. at der er ytringsfrihed, religionsfrihed og værnepligt. I grundloven står der også, at den øverste magt i Danmark skal deles mellem den lovgivende, den udøvende og den dømmende magt.
+`<!--html_preserve--><span id="htmlwidget-ff4a8c555538908e3cff" class="tippy html-widget" width="960" height="500"></span>
+<script type="application/json" data-for="htmlwidget-ff4a8c555538908e3cff">{"x":{"opts":{"size":"large","interactive":true,"arrow":true},"tooltip":"<h4>Grundloven beskriver bl.a. den enkelte borgers rettigheder og pligter, du kan se den her:<br><a href=\"https://www.retsinformation.dk/Forms/R0710.aspx?id=45902\" style=\"color:#3088fc\" target=\"_blank\">Grundloven<\/a><\/h4>","text":"Grundloven"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->` beskriver bl.a. den enkelte borgers rettigheder og pligter, f.eks. at der er ytringsfrihed, religionsfrihed og værnepligt. I grundloven står der også, at den øverste magt i Danmark skal deles mellem den lovgivende, den udøvende og den dømmende magt.
 I grundloven kan du læse om magtens fordeling i samfundet. Om Folketinget som den demokratisk valgte forsamling, der vedtager love, der gælder for os alle. Om regeringen, der skal sikre, at lovene bliver overholdt af os borgere og af de myndigheder, der skal sørge for, at vi for eksempel har gode skoler, sygehuse og biblioteker. Om domstolene, der er uafhængige af regering og Folketing, fordi de skal dømme i konflikter mellem borgerne indbyrdes og mellem myndigheder og borgere.
 
-``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` handler også om de rettigheder, du har som borger. Vi kalder dem friheds- eller menneskerettigheder.
-Den ene slags frihedsrettigheder er ytringsfriheden, retten til at forsamles og demonstrere for dine synspunkter og retten til at oprette foreninger og til at være medlem af en forening. ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` sikrer også, at du har ret til at være medlem af et politisk parti og være politisk aktiv – også selv om det går imod regeringens eller flertallets synspunkter. Disse rettigheder skal sikre, at demokratiet kan fungere. Grundlovens regler om folkeafstemninger og valg til Folketinget ville for eksempel ikke være meget værd, hvis vi ikke havde ret til at diskutere politiske spørgsmål og sige vores mening.
-Den anden slags frihedsrettigheder er reglerne om den personlige frihed og om ejendomsretten og boligens ukrænkelighed. Disse regler skal først og fremmest beskytte borgerne mod overgreb fra statsmagten. Hvis du bliver anholdt af politiet, har du for eksempel krav på, at en dommer tager stilling til din sag inden 24 timer. Hvis myndighederne vil undersøge din bolig, dine private papirer eller din pc, skal de som hovedregel have en dommers tilladelse først. – Og hvis myndighederne vil tage dit hus for at rive det ned, fordi der skal bygges en motorvej eller en jernbane hen over grunden, ja så skal du have en erstatning, der svarer til husets og grundens værdi. ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` sætter på den måde grænser for, hvordan staten kan blande sig i vores privatliv.
-``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` skal sikre stabile rammer om det politiske liv og de politiske kampe om magten. Og grundloven skal sikre, at borgernes rettigheder ikke krænkes. Begge dele sikres ved, at grundloven er mere vanskelig at ændre end andre love. Den danske grundlov er kun blevet ændret få gange, siden den blev vedtaget for mere end 160 år siden. Og sproget i mange af paragrafferne er ikke blevet moderniseret siden. Derfor er der i dette hæfte nogle forklarende kommentarer til de enkelte paragraffer.
+`<!--html_preserve--><span id="htmlwidget-8beb505730cc139d483c" class="tippy html-widget" width="960" height="500"></span>
+<script type="application/json" data-for="htmlwidget-8beb505730cc139d483c">{"x":{"opts":{"size":"large","interactive":true,"arrow":true},"tooltip":"<h4>Grundloven beskriver bl.a. den enkelte borgers rettigheder og pligter, du kan se den her:<br><a href=\"https://www.retsinformation.dk/Forms/R0710.aspx?id=45902\" style=\"color:#3088fc\" target=\"_blank\">Grundloven<\/a><\/h4>","text":"Grundloven"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->` handler også om de rettigheder, du har som borger. Vi kalder dem friheds- eller menneskerettigheder.
+Den ene slags frihedsrettigheder er ytringsfriheden, retten til at forsamles og demonstrere for dine synspunkter og retten til at oprette foreninger og til at være medlem af en forening. `<!--html_preserve--><span id="htmlwidget-02dda1270b6a38f208cc" class="tippy html-widget" width="960" height="500"></span>
+<script type="application/json" data-for="htmlwidget-02dda1270b6a38f208cc">{"x":{"opts":{"size":"large","interactive":true,"arrow":true},"tooltip":"<h4>Grundloven beskriver bl.a. den enkelte borgers rettigheder og pligter, du kan se den her:<br><a href=\"https://www.retsinformation.dk/Forms/R0710.aspx?id=45902\" style=\"color:#3088fc\" target=\"_blank\">Grundloven<\/a><\/h4>","text":"Grundloven"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->` sikrer også, at du har ret til at være medlem af et politisk parti og være politisk aktiv – også selv om det går imod regeringens eller flertallets synspunkter. Disse rettigheder skal sikre, at demokratiet kan fungere. Grundlovens regler om folkeafstemninger og valg til Folketinget ville for eksempel ikke være meget værd, hvis vi ikke havde ret til at diskutere politiske spørgsmål og sige vores mening.
+Den anden slags frihedsrettigheder er reglerne om den personlige frihed og om ejendomsretten og boligens ukrænkelighed. Disse regler skal først og fremmest beskytte borgerne mod overgreb fra statsmagten. Hvis du bliver anholdt af politiet, har du for eksempel krav på, at en dommer tager stilling til din sag inden 24 timer. Hvis myndighederne vil undersøge din bolig, dine private papirer eller din pc, skal de som hovedregel have en dommers tilladelse først. – Og hvis myndighederne vil tage dit hus for at rive det ned, fordi der skal bygges en motorvej eller en jernbane hen over grunden, ja så skal du have en erstatning, der svarer til husets og grundens værdi. `<!--html_preserve--><span id="htmlwidget-d627941d256fb76b3328" class="tippy html-widget" width="960" height="500"></span>
+<script type="application/json" data-for="htmlwidget-d627941d256fb76b3328">{"x":{"opts":{"size":"large","interactive":true,"arrow":true},"tooltip":"<h4>Grundloven beskriver bl.a. den enkelte borgers rettigheder og pligter, du kan se den her:<br><a href=\"https://www.retsinformation.dk/Forms/R0710.aspx?id=45902\" style=\"color:#3088fc\" target=\"_blank\">Grundloven<\/a><\/h4>","text":"Grundloven"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->` sætter på den måde grænser for, hvordan staten kan blande sig i vores privatliv.
+`<!--html_preserve--><span id="htmlwidget-276da6c19d4e6225c268" class="tippy html-widget" width="960" height="500"></span>
+<script type="application/json" data-for="htmlwidget-276da6c19d4e6225c268">{"x":{"opts":{"size":"large","interactive":true,"arrow":true},"tooltip":"<h4>Grundloven beskriver bl.a. den enkelte borgers rettigheder og pligter, du kan se den her:<br><a href=\"https://www.retsinformation.dk/Forms/R0710.aspx?id=45902\" style=\"color:#3088fc\" target=\"_blank\">Grundloven<\/a><\/h4>","text":"Grundloven"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->` skal sikre stabile rammer om det politiske liv og de politiske kampe om magten. Og grundloven skal sikre, at borgernes rettigheder ikke krænkes. Begge dele sikres ved, at grundloven er mere vanskelig at ændre end andre love. Den danske grundlov er kun blevet ændret få gange, siden den blev vedtaget for mere end 160 år siden. Og sproget i mange af paragrafferne er ikke blevet moderniseret siden. Derfor er der i dette hæfte nogle forklarende kommentarer til de enkelte paragraffer.
 
 ## Magtadskillelseslæren i grundlovens § 3
 Grundlovens § 3 har følgende ordlyd: ”Den lovgivende magt er hos kongen og Folketinget i forening. Den udøvende magt er hos kongen. Den dømmende magt er hos domstolene”.
 
-```{r magtenstredeling, echo=FALSE,fig.cap=("Magtens tredeling")}
-nodes <- data.frame(id = 1:3, shadow = FALSE,
-                    shape = c("image"),
-                    image = c("https://jura.tepedu.dk/img/folketing.jpg",
-                    "https://jura.tepedu.dk/img/hojesteret.jpg",
-                    "https://jura.tepedu.dk/img/politi.jpeg"),
-                    label = c("Lovgivende magt \n Folketinget/Dronningen",    "Dømmende magt \n Domstolene","Udøvende magt \n Regering/ministerier,\nforvaltningen\npolitiet m.fl."),
-                    color = "red",
-                    highlight = "yellow",
-                    font.size=12)
-  
-edges <- data.frame(from = c(1,2,3), to = c(2,3,1),
-                    # length = c(400,400,400),
-                    # label=c("Lån til købesum","Købsaftale","Garanti for\nkøbesum"),
-                    # arrows = c("to"),
-                    smooth = FALSE)
-visNetwork(nodes, edges, width = "80%") %>% 
-  visNodes(shapeProperties = list(useBorderWithImage = FALSE)) %>%
-  visLayout(randomSeed = 2) %>%
-
- visEdges(shadow = TRUE,
-           # arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
-           color = list(color = "lightgrey", highlight = "yellow"))
-``` 
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-faa290e00825db957c18" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-faa290e00825db957c18">{"x":{"nodes":{"id":[1,2,3],"shadow":[false,false,false],"shape":["image","image","image"],"image":["https://jura.tepedu.dk/img/folketing.jpg","https://jura.tepedu.dk/img/hojesteret.jpg","https://jura.tepedu.dk/img/politi.jpeg"],"label":["Lovgivende magt \n Folketinget/Dronningen","Dømmende magt \n Domstolene","Udøvende magt \n Regering/ministerier,\nforvaltningen\npolitiet m.fl."],"color":["red","red","red"],"highlight":["yellow","yellow","yellow"],"font.size":[12,12,12]},"edges":{"from":[1,2,3],"to":[2,3,1],"smooth":[false,false,false]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","shapeProperties":{"useBorderWithImage":false}},"manipulation":{"enabled":false},"layout":{"randomSeed":2},"edges":{"color":{"color":"lightgrey","highlight":"yellow"},"shadow":true}},"groups":null,"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:magtenstredeling)Magtens tredeling</p>
+</div>
 
 
 
@@ -163,7 +249,8 @@ I 1999 fastslog Højesteret, jf. U 1999.841 H, at den såkaldte Tvindlov var i s
 ## Folketinget som den lovgivende magt
 Folketinget er Danmarks parlament. Her vedtages al lovgivning i Danmark. Folketingets grundlæggende opgaver og nogle af arbejdsformerne er beskrevet i grundloven.  Andre metoder er praksisser, der har udviklet sig gennem de snart 170 år, Folketinget har eksisteret.
 Folketinget er den lovgivende magt. Folketinget og regeringen er de eneste, der kan fremsætte lovforslag, dvs. komme med forslag til nye love og lovændringer. Den lovgivende magt er Folketinget og regering, men det er kun Folketinget, der kan vedtage lovforslag.
-``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` beskriver fordelingen af magten mellem Folketinget (lovgivende), regeringen (udøvende og lovgivende) og domstolene (dømmende), også kaldet magtens tredeling. Magten i samfundet er delt i 3 for at forhindre, at der sker magtmisbrug.  
+`<!--html_preserve--><span id="htmlwidget-4c0ea0b183771d01b13c" class="tippy html-widget" width="960" height="500"></span>
+<script type="application/json" data-for="htmlwidget-4c0ea0b183771d01b13c">{"x":{"opts":{"size":"large","interactive":true,"arrow":true},"tooltip":"<h4>Grundloven beskriver bl.a. den enkelte borgers rettigheder og pligter, du kan se den her:<br><a href=\"https://www.retsinformation.dk/Forms/R0710.aspx?id=45902\" style=\"color:#3088fc\" target=\"_blank\">Grundloven<\/a><\/h4>","text":"Grundloven"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->` beskriver fordelingen af magten mellem Folketinget (lovgivende), regeringen (udøvende og lovgivende) og domstolene (dømmende), også kaldet magtens tredeling. Magten i samfundet er delt i 3 for at forhindre, at der sker magtmisbrug.  
 
 ### Parlamentarisk kontrol og lovgivning i Folketinget
 Folketinget har 3 hovedopgaver:
@@ -227,7 +314,8 @@ Statsministeren er regeringens chef og den der bestemmer, hvem der skal være mi
 ![](img/folketinget6.png)
 
 
-``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` giver dronningen magt til at udpege statsministeren og de øvrige ministre. Men i praksis er det et flertal i Folketinget, der er afgørende for, hvem der skal være statsminister. Statsministeren sætter så sit ministerhold og danner sin regering.
+`<!--html_preserve--><span id="htmlwidget-e175659e7b0297b75115" class="tippy html-widget" width="960" height="500"></span>
+<script type="application/json" data-for="htmlwidget-e175659e7b0297b75115">{"x":{"opts":{"size":"large","interactive":true,"arrow":true},"tooltip":"<h4>Grundloven beskriver bl.a. den enkelte borgers rettigheder og pligter, du kan se den her:<br><a href=\"https://www.retsinformation.dk/Forms/R0710.aspx?id=45902\" style=\"color:#3088fc\" target=\"_blank\">Grundloven<\/a><\/h4>","text":"Grundloven"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->` giver dronningen magt til at udpege statsministeren og de øvrige ministre. Men i praksis er det et flertal i Folketinget, der er afgørende for, hvem der skal være statsminister. Statsministeren sætter så sit ministerhold og danner sin regering.
  
 ### Statsministeren vælges og nedsætter sin regering
 Folketingsvalg skal afholdes mindst én gang hvert 4. år. Det står i grundloven. Statsministeren kan dog til enhver tid udskrive folketingsvalg, så der kan sagtens gå mindre end 4 år mellem hvert valg.
@@ -306,26 +394,13 @@ En ministers arbejde består bl.a. i at:
 
 ## Domstolene
 
-```{r domstolene,echo=FALSE, result=TRUE, fig.cap=("Oversigt over domstolene")}
-
-nodes <- data.frame(id = 1:9, 
-                    shape = c("box"), 
-                    level = c(1,2,2,4,4,4,3,4,1),
-                    label = c(" Højesteret ","Vestre \n Landsret","Østre \n Landsret","Sø og \n Handelsretten","Tinglysningsretten","Grønlandsdomstolen","Byretterne","Retten\npå Færøerne", " Procesbevillingsnævnet \n Den særlige klageret \n Dommerudnævnelsesrådet \n Bibeskæftigelsesnævnet"),
-                    font.size = c(25,18,18,rep(12,6)))
-edges <- data.frame(from = c(1,1,1,1,2,2,2,3,3,3), to = c(2,3,4,6,4,5,7,4,7,8),arrows = c(""),length = rep(75,10))
-
-visNetwork(nodes, edges, height = "500px", width = "80%",avoidOverlap=2) %>% 
-  visNodes(color = list(background = "white", 
-                        border = "white",
-                        highlight = "yellow"),
-           shadow = list(enabled = TRUE, size = 30))  %>%
-  visHierarchicalLayout(direction = "UD",levelSeparation = 100) %>%
-  visEdges(color = list(color = "lightgrey", highlight = "yellow"))
-  #visLayout(randomSeed = 24) # to have always the same network
-
-```
-Uafhængige domstole er en grundlæggende del af magtens tredeling i et demokrati. Sådan er det også i Danmark. ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` siger nemlig, at domstolene alene har den dømmende magt.
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-af9c97d89c49709bdfb3" style="width:80%;height:500px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-af9c97d89c49709bdfb3">{"x":{"nodes":{"id":[1,2,3,4,5,6,7,8,9],"shape":["box","box","box","box","box","box","box","box","box"],"level":[1,2,2,4,4,4,3,4,1],"label":[" Højesteret ","Vestre \n Landsret","Østre \n Landsret","Sø og \n Handelsretten","Tinglysningsretten","Grønlandsdomstolen","Byretterne","Retten\npå Færøerne"," Procesbevillingsnævnet \n Den særlige klageret \n Dommerudnævnelsesrådet \n Bibeskæftigelsesnævnet"],"font.size":[25,18,18,12,12,12,12,12,12]},"edges":{"from":[1,1,1,1,2,2,2,3,3,3],"to":[2,3,4,6,4,5,7,4,7,8],"arrows":["","","","","","","","","",""],"length":[75,75,75,75,75,75,75,75,75,75]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"}},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"80%","height":"500px","idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:domstolene)Oversigt over domstolene</p>
+</div>
+Uafhængige domstole er en grundlæggende del af magtens tredeling i et demokrati. Sådan er det også i Danmark. `<!--html_preserve--><span id="htmlwidget-9c8cbd895b51c72dd18a" class="tippy html-widget" width="960" height="500"></span>
+<script type="application/json" data-for="htmlwidget-9c8cbd895b51c72dd18a">{"x":{"opts":{"size":"large","interactive":true,"arrow":true},"tooltip":"<h4>Grundloven beskriver bl.a. den enkelte borgers rettigheder og pligter, du kan se den her:<br><a href=\"https://www.retsinformation.dk/Forms/R0710.aspx?id=45902\" style=\"color:#3088fc\" target=\"_blank\">Grundloven<\/a><\/h4>","text":"Grundloven"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->` siger nemlig, at domstolene alene har den dømmende magt.
 
  
 
@@ -338,7 +413,9 @@ Uafhængige domstole er en grundlæggende del af magtens tredeling i et demokrat
 Domstolene er den dømmende magt i Danmark. De afgør, om personer har overtrådt landets love, og afgør uoverensstemmelser mellem to parter i civile sager.
  
 Alle har ret til en retfærdig rettergang. Det står i den europæiske menneskerettighedskonvention. Det betyder bl.a., at en retssag skal afgøres inden for en rimelig tidsperiode og ved en domstol, der er uafhængig og upartisk.  
-Domstolenes uafhængighed er bestemt i den danske grundlov. ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` deler nemlig magten i tre for at forhindre magtmisbrug, jf. ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))``s § 3:
+Domstolenes uafhængighed er bestemt i den danske grundlov. `<!--html_preserve--><span id="htmlwidget-0cb1f10d425e0951707c" class="tippy html-widget" width="960" height="500"></span>
+<script type="application/json" data-for="htmlwidget-0cb1f10d425e0951707c">{"x":{"opts":{"size":"large","interactive":true,"arrow":true},"tooltip":"<h4>Grundloven beskriver bl.a. den enkelte borgers rettigheder og pligter, du kan se den her:<br><a href=\"https://www.retsinformation.dk/Forms/R0710.aspx?id=45902\" style=\"color:#3088fc\" target=\"_blank\">Grundloven<\/a><\/h4>","text":"Grundloven"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->` deler nemlig magten i tre for at forhindre magtmisbrug, jf. `<!--html_preserve--><span id="htmlwidget-5ac38f661b24c511414d" class="tippy html-widget" width="960" height="500"></span>
+<script type="application/json" data-for="htmlwidget-5ac38f661b24c511414d">{"x":{"opts":{"size":"large","interactive":true,"arrow":true},"tooltip":"<h4>Grundloven beskriver bl.a. den enkelte borgers rettigheder og pligter, du kan se den her:<br><a href=\"https://www.retsinformation.dk/Forms/R0710.aspx?id=45902\" style=\"color:#3088fc\" target=\"_blank\">Grundloven<\/a><\/h4>","text":"Grundloven"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->`s § 3:
 
 *	den lovgivende magt (Folketinget og regeringen)
 *	den udøvende magt (regeringen)
@@ -364,7 +441,8 @@ Danmark har én højesteret. Den ligger ved Christiansborg Slot i København. H�
 Højesteret er en appeldomstol, som behandler domme og kendelser, der er afsagt af Østre Landsret, Vestre Landsret eller Sø- og Handelsretten. Man kan altså ikke anlægge sag direkte ved Højesteret.
 Højesteret behandler både civile sager og straffesager og fungerer som tredje instans i skifte-, foged- og tinglysningssager. Ved Højesteret behandles også sager, som Procesbevillingsnævnet har tilladt indbragt for retten. Det drejer sig om sager af særlig principiel betydning, f.eks. sager, som kan have betydning for afgørelse af en række andre sager, eller om sager af særlig samfundsmæssig interesse.
 I straffesager kan Højesteret ikke tage stilling til skyldsspørgsmålet.
-Særlige forvaltnings- eller forfatningsdomstole anvender man i mange andre EU-lande. Det gør man ikke i Danmark. Her er det de almindelige domstole – i praksis Højesteret – der undersøger, om de afgørelser, myndighederne træffer, er lovlige, eller om en lov er i strid med ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))``.
+Særlige forvaltnings- eller forfatningsdomstole anvender man i mange andre EU-lande. Det gør man ikke i Danmark. Her er det de almindelige domstole – i praksis Højesteret – der undersøger, om de afgørelser, myndighederne træffer, er lovlige, eller om en lov er i strid med `<!--html_preserve--><span id="htmlwidget-c520b4d0c0991f81e479" class="tippy html-widget" width="960" height="500"></span>
+<script type="application/json" data-for="htmlwidget-c520b4d0c0991f81e479">{"x":{"opts":{"size":"large","interactive":true,"arrow":true},"tooltip":"<h4>Grundloven beskriver bl.a. den enkelte borgers rettigheder og pligter, du kan se den her:<br><a href=\"https://www.retsinformation.dk/Forms/R0710.aspx?id=45902\" style=\"color:#3088fc\" target=\"_blank\">Grundloven<\/a><\/h4>","text":"Grundloven"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->`.
 
 ### Landsretterne
 
@@ -406,27 +484,11 @@ Danmark har 24 byretter. De er fordelt over hele landet. Byretten behandler som 
 ### Byretterne
 
 
-```{r byretterne,echo=FALSE, result=TRUE, fig.cap=("Byretterne")}
-
-
-
-nodes <- data.frame(id = 1:6, 
-                    shape = c("box"), 
-                    level = c(1,2,2,2,2,2),
-                    label = c("Byrettens afdelinger","Civilretten","Fogedretten","Skifteretten","Boligretten","Kriminalretten"),
-                    font.size = c(15,15,15,15,15,15))
-edges <- data.frame(from = c(1,1,1,1,1), to = c(2,3,4,5,6))
-
-visNetwork(nodes, edges, width = "80%") %>% 
-  visNodes(color = list(background = "white", 
-                        border = "white",
-                        highlight = "yellow"),
-           shadow = list(enabled = TRUE, size = 30))  %>%
-      visHierarchicalLayout(direction = "UD",levelSeparation = 100)  %>%
-      visLayout(randomSeed = 24) %>%
-  visEdges(color = list(color = "lightgrey", highlight = "yellow"))
-
-```
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-0ce74cdddd883ecb050b" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-0ce74cdddd883ecb050b">{"x":{"nodes":{"id":[1,2,3,4,5,6],"shape":["box","box","box","box","box","box"],"level":[1,2,2,2,2,2],"label":["Byrettens afdelinger","Civilretten","Fogedretten","Skifteretten","Boligretten","Kriminalretten"],"font.size":[15,15,15,15,15,15]},"edges":{"from":[1,1,1,1,1],"to":[2,3,4,5,6]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:byretterne)Byretterne</p>
+</div>
 
 
 
@@ -465,44 +527,50 @@ Supplerende værneting, f.eks.:
  
 
 
-```{r værneting, echo=FALSE, result=TRUE}
-
-
-
-text_tbl <- data.frame(
-  Paragraf = c("§239", "§240", "§241","§242","§243","§244","§246"),
-  Indhold = c(
-    "Regioner og kommuner har hjemting i den retskreds, hvor hovedkontoret ligger.",
-    
-    "Sager mod staten: Staten har hjemting i den retskreds, hvor den myndighed, som stævnes på statens vegne, har kontor.", 
-    
-    "Ejendomsværneting: Sager vedrørende rettigheder over fast ejendom, kan anlægges ved retten på det sted, hvor ejendommen ligger.",
-    
-    "Opfyldelsesværneting: Sager om kontraktsforhold kan anlægges ved retten på det sted, hvor den forpligtelse, der ligger til grund for sagen, er opfyldt eller skal opfyldes.
-Bestemmelsen finder ikke anvendelse på pengekrav, medmindre kravet er opstået under ophold i retskredsen under sådanne omstændigheder, at det skulle opfyldes, inden stedet forlades.
-",
-
-"Deliktsværneting: Sager, hvorunder der påstås straf, erstatning eller oprejsning i anledning af retskrænkelser, kan anlægges ved retten på det sted, hvor retskrænkelsen er foregået (skadestedet).",
-
-"Forbrugerværneting: I sager om forbrugeraftaler, som ikke er indgået ved personlig henvendelse på den erhvervsdrivendes faste forretningssted, kan forbrugeren anlægge sag mod den erhvervsdrivende ved sit eget hjemting.",
-
-"Sagsøgte har ikke dansk hjemting: Stk. 1: Sager mod personer, selskaber, foreninger, private institutioner og andre sammenslutninger, der ikke har hjemting i Danmark, kan anlægges her i landet, for så vidt nogen ret efter bestemmelserne i §§ 237, 238, stk. 2, 241, 242, 243 og 245 kan anses som værneting i sagen.  
+<table class="table table-hover table-responsive table-bordered table-striped" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:værneting)Værneting</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Paragraf </th>
+   <th style="text-align:left;"> Indhold </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> §239 </td>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: darkgrey !important;"> Regioner og kommuner har hjemting i den retskreds, hvor hovedkontoret ligger. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> §240 </td>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: darkgrey !important;"> Sager mod staten: Staten har hjemting i den retskreds, hvor den myndighed, som stævnes på statens vegne, har kontor. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> §241 </td>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: darkgrey !important;"> Ejendomsværneting: Sager vedrørende rettigheder over fast ejendom, kan anlægges ved retten på det sted, hvor ejendommen ligger. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> §242 </td>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: darkgrey !important;"> Opfyldelsesværneting: Sager om kontraktsforhold kan anlægges ved retten på det sted, hvor den forpligtelse, der ligger til grund for sagen, er opfyldt eller skal opfyldes.
+Bestemmelsen finder ikke anvendelse på pengekrav, medmindre kravet er opstået under ophold i retskredsen under sådanne omstændigheder, at det skulle opfyldes, inden stedet forlades. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> §243 </td>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: darkgrey !important;"> Deliktsværneting: Sager, hvorunder der påstås straf, erstatning eller oprejsning i anledning af retskrænkelser, kan anlægges ved retten på det sted, hvor retskrænkelsen er foregået (skadestedet). </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> §244 </td>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: darkgrey !important;"> Forbrugerværneting: I sager om forbrugeraftaler, som ikke er indgået ved personlig henvendelse på den erhvervsdrivendes faste forretningssted, kan forbrugeren anlægge sag mod den erhvervsdrivende ved sit eget hjemting. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> §246 </td>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: darkgrey !important;"> Sagsøgte har ikke dansk hjemting: Stk. 1: Sager mod personer, selskaber, foreninger, private institutioner og andre sammenslutninger, der ikke har hjemting i Danmark, kan anlægges her i landet, for så vidt nogen ret efter bestemmelserne i §§ 237, 238, stk. 2, 241, 242, 243 og 245 kan anses som værneting i sagen.  
 
 Opholdsværneting: Stk. 2: Kan ingen ret efter stk. 1 anses som værneting i sagen, kan sager vedrørende formueretsforhold mod de i stk. 1 nævnte personer anlægges ved retten på det sted, hvor de ved stævningens forkyndelse opholder sig.  
 
-Godsværneting: Stk. 3: Sager vedrørende formueretsforhold mod de i stk. 1 nævnte personer og sammenslutninger kan endvidere, hvis der ikke er værneting efter reglen i stk. 1, anlægges ved retten på det sted, hvor den pågældende person eller sammenslutning på tidspunktet for sagens anlæg har gods, eller hvor det gods, kravet angår, befinder sig på tidspunktet for sagens anlæg. Afværges arrest i gods gennem sikkerhedsstillelse, betragtes sikkerhedsstillelsen som gods, der befinder sig på det sted, hvor arrestbegæringen er eller i givet fald skulle være indgivet."
-
-
-  )
-)
-
-kable(text_tbl,caption="Værneting") %>%
-  kable_styling(full_width = T,bootstrap_options = c( "hover","responsive","bordered","striped")) %>%
-  column_spec(1, bold = T, border_right = T,color = "black",background = "lightgrey") %>%
-  column_spec(2) %>%
-  column_spec(2,  bold = T, color = "white", background = "darkgrey")
-# add_header_above(c( "Koncipistreglen" = 2),italic = TRUE)
-```
+Godsværneting: Stk. 3: Sager vedrørende formueretsforhold mod de i stk. 1 nævnte personer og sammenslutninger kan endvidere, hvis der ikke er værneting efter reglen i stk. 1, anlægges ved retten på det sted, hvor den pågældende person eller sammenslutning på tidspunktet for sagens anlæg har gods, eller hvor det gods, kravet angår, befinder sig på tidspunktet for sagens anlæg. Afværges arrest i gods gennem sikkerhedsstillelse, betragtes sikkerhedsstillelsen som gods, der befinder sig på det sted, hvor arrestbegæringen er eller i givet fald skulle være indgivet. </td>
+  </tr>
+</tbody>
+</table>
 
 
 
@@ -893,25 +961,11 @@ Aftalelovens principper har betydning på hele aftaleområdet,^[Følgene bygger 
 
 
 
-```{r aftalelov,echo=FALSE, result=TRUE,fig.cap=("Oversigt over aftalelove")}
-
-
-nodes <- data.frame(id = 1:7, 
-                    shape = c("box"), 
-                    label = c(" Aftalelov "," Forsikringsaftalelov "," Kreditaftalelov "," Forbrugeraftalelov "," AB92 "," Købelov "," E-handelslov "),
-                    font.size = c(50,25,25,25,25,25,25))
-edges <- data.frame(from = c(1,1,1,1,1,1), to = c(2,3,4,5,6,7),arrows = c("to"),length = rep(20,6))
-
-visNetwork(nodes, edges,  width = "80%") %>% 
-  visNodes(color = list(background = "white", 
-                        border = "white",
-                        highlight = "yellow"),
-           shadow = list(enabled = TRUE, size = 30))  %>%
-  visHierarchicalLayout(direction = "LR",levelSeparation = 400) %>%
-visEdges(color = list(color = "lightgrey", highlight = "yellow") )
-  # visLayout(randomSeed = 24) # to have always the same network
-
-```
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-ce950ee97a6c954e73c9" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-ce950ee97a6c954e73c9">{"x":{"nodes":{"id":[1,2,3,4,5,6,7],"shape":["box","box","box","box","box","box","box"],"label":[" Aftalelov "," Forsikringsaftalelov "," Kreditaftalelov "," Forbrugeraftalelov "," AB92 "," Købelov "," E-handelslov "],"font.size":[50,25,25,25,25,25,25]},"edges":{"from":[1,1,1,1,1,1],"to":[2,3,4,5,6,7],"arrows":["to","to","to","to","to","to"],"length":[20,20,20,20,20,20]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":400,"direction":"LR"}},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:aftalelov)Oversigt over aftalelove</p>
+</div>
 
 
 ## Aftaleindgåelse
@@ -953,53 +1007,19 @@ En kontrakt er skriftlig og kan påberåbes ved domstolene.
 
 
 
-```{r gensidigtloefte, echo=FALSE, result=TRUE,fig.cap=("Gensidigt løfte")}
-
-
-nodes <- data.frame(id = 1:2, group = c("B", "A"),label = c(" Sælger "," Køber "))
-edges <- data.frame(from = c(1), 
-                    to = c(2),
-                    arrows = c("to","from"),
-                    length = c(800,500),
-                    label=c("Varer/Ydelser","Penge/modydelse"),
-                    smooth = TRUE
-                    )
-
- visNetwork(nodes, edges, width = "80%") %>%
- visGroups(groupname = "A", shape = "icon", 
-           icon = list(code = "f007", size = 150)) %>%
- visGroups(groupname = "B", shape = "icon", 
-           icon = list(code = "f007", size = 150, color = "red",highlight = "yellow")) %>%
- addFontAwesome() %>%
- 
- visEdges(shadow = TRUE,
-           arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
-           color = list(color = "lightblue", highlight = "red"))
-```
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-51f68bda2b2bbbaf49ad" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-51f68bda2b2bbbaf49ad">{"x":{"nodes":{"id":[1,2],"group":["B","A"],"label":[" Sælger "," Køber "]},"edges":{"from":[1,1],"to":[2,2],"arrows":["to","from"],"length":[800,500],"label":["Varer/Ydelser","Penge/modydelse"],"smooth":[true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot"},"manipulation":{"enabled":false},"groups":{"A":{"shape":"icon","icon":{"code":"f007","size":150,"color":"#2B7CE9"}},"useDefaultGroups":true,"B":{"shape":"icon","icon":{"code":"f007","size":150,"color":"red","highlight":"yellow"}}},"edges":{"arrows":{"to":{"enabled":true,"scaleFactor":2}},"color":{"color":"lightblue","highlight":"red"},"shadow":true}},"groups":["B","A"],"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","iconsRedraw":true},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:gensidigtloefte)Gensidigt løfte</p>
+</div>
 
 
 
-```{r faicon2, echo=FALSE, result=TRUE,fig.cap=("Ensidigt løfte")}
-
-nodes <- data.frame(id = 1:2, group = c("B", "A"),label = c(" Testator "," Arving "))
-edges <- data.frame(from = c(1), 
-                    to = c(2),
-                    arrows = c("to"),
-                    length = c(300),
-                    label=c(" ARV "),
-                    smooth = TRUE
-                    )
- visNetwork(nodes, edges,  width = "80%") %>%
- visGroups(groupname = "A", shape = "icon", 
-           icon = list(code = "f007", size = 150, color = "red")) %>%
- visGroups(groupname = "B", shape = "icon", 
-           icon = list(code = "f007", size = 150, color = "black")) %>%
- addFontAwesome() %>%
- 
- visEdges(shadow = TRUE,
-           arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
-           color = list(color = "lightblue", highlight = "red"))
-```
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-be8903285719d625bc56" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-be8903285719d625bc56">{"x":{"nodes":{"id":[1,2],"group":["B","A"],"label":[" Testator "," Arving "]},"edges":{"from":[1],"to":[2],"arrows":["to"],"length":[300],"label":[" ARV "],"smooth":[true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot"},"manipulation":{"enabled":false},"groups":{"A":{"shape":"icon","icon":{"code":"f007","size":150,"color":"red"}},"useDefaultGroups":true,"B":{"shape":"icon","icon":{"code":"f007","size":150,"color":"black"}}},"edges":{"arrows":{"to":{"enabled":true,"scaleFactor":2}},"color":{"color":"lightblue","highlight":"red"},"shadow":true}},"groups":["B","A"],"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","iconsRedraw":true},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:faicon2)Ensidigt løfte</p>
+</div>
 
 ### Parterne og juridisk terminologi
 
@@ -1043,49 +1063,19 @@ Resultat: Der er indgået en juridisk bindende aftale
 
 
 
-```{r faicon3, echo=FALSE, result=TRUE,fig.cap=("Aftale sælgers initiativ")}
-nodes <- data.frame(id = 1:2, group = c("B", "A"),label = c("Sælger \n tilbudsgiver ","Køber \n tilbudsmodtager "))
-edges <- data.frame(from = c(1), 
-                    to = c(2),
-                    arrows = c("to","from"),
-                    length = c(800,500),
-                    label=c("1. Sælger sender tilbud til køber","2. Køber sender accept/ordre"),
-                    smooth = TRUE
-                    )
- visNetwork(nodes, edges,width = "80%") %>%
- visGroups(groupname = "A", shape = "icon", 
-           icon = list(code = "f007", size = 150)) %>%
- visGroups(groupname = "B", shape = "icon", 
-           icon = list(code = "f007", size = 150, color = "red",highlight = "yellow")) %>%
- addFontAwesome() %>%
- 
- visEdges(shadow = TRUE,
-           arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
-           color = list(color = "lightblue", highlight = "red"))
-```
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-5d8ac6987936b653ef89" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-5d8ac6987936b653ef89">{"x":{"nodes":{"id":[1,2],"group":["B","A"],"label":["Sælger \n tilbudsgiver ","Køber \n tilbudsmodtager "]},"edges":{"from":[1,1],"to":[2,2],"arrows":["to","from"],"length":[800,500],"label":["1. Sælger sender tilbud til køber","2. Køber sender accept/ordre"],"smooth":[true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot"},"manipulation":{"enabled":false},"groups":{"A":{"shape":"icon","icon":{"code":"f007","size":150,"color":"#2B7CE9"}},"useDefaultGroups":true,"B":{"shape":"icon","icon":{"code":"f007","size":150,"color":"red","highlight":"yellow"}}},"edges":{"arrows":{"to":{"enabled":true,"scaleFactor":2}},"color":{"color":"lightblue","highlight":"red"},"shadow":true}},"groups":["B","A"],"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","iconsRedraw":true},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:faicon3)Aftale sælgers initiativ</p>
+</div>
 
 
 
-```{r faicon4, echo=FALSE, result=TRUE,fig.cap=("Aftale købers initiativ")}
-nodes <- data.frame(id = 1:2, group = c("B", "A"),label = c("Sælger \n tilbudsmodtager ","Køber \n tilbudsgiver "))
-edges <- data.frame(from = c(1), 
-                    to = c(2),
-                    arrows = c("to","from"),
-                    length = c(800,500),
-                    label=c("2. Sælger sender accept/ordrebekræftelse","1. Køber sender købstilbud/ordre"),
-                    smooth = TRUE
-                    )
- visNetwork(nodes, edges,width = "80%") %>%
- visGroups(groupname = "A", shape = "icon", 
-           icon = list(code = "f007", size = 150)) %>%
- visGroups(groupname = "B", shape = "icon", 
-           icon = list(code = "f007", size = 150, color = "red",highlight = "yellow")) %>%
- addFontAwesome() %>%
- 
- visEdges(shadow = TRUE,
-           arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
-           color = list(color = "lightblue", highlight = "red"))
-```
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-107fc9071701ce46d68e" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-107fc9071701ce46d68e">{"x":{"nodes":{"id":[1,2],"group":["B","A"],"label":["Sælger \n tilbudsmodtager ","Køber \n tilbudsgiver "]},"edges":{"from":[1,1],"to":[2,2],"arrows":["to","from"],"length":[800,500],"label":["2. Sælger sender accept/ordrebekræftelse","1. Køber sender købstilbud/ordre"],"smooth":[true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot"},"manipulation":{"enabled":false},"groups":{"A":{"shape":"icon","icon":{"code":"f007","size":150,"color":"#2B7CE9"}},"useDefaultGroups":true,"B":{"shape":"icon","icon":{"code":"f007","size":150,"color":"red","highlight":"yellow"}}},"edges":{"arrows":{"to":{"enabled":true,"scaleFactor":2}},"color":{"color":"lightblue","highlight":"red"},"shadow":true}},"groups":["B","A"],"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","iconsRedraw":true},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:faicon4)Aftale købers initiativ</p>
+</div>
 
 #### Tilbud eller opfordring til tilbud
 
@@ -1208,53 +1198,105 @@ Ugyldighed som kan ramme aftalen kan opstå pga:
 
 
 
-```{r ugyldighedsgrunde, echo=FALSE, result=TRUE}
+<table class="table table-hover table-responsive table-bordered table-striped" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:ugyldighedsgrunde)Oversigt over mangler og ugyldighedsgrunde</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Mangeltype </th>
+   <th style="text-align:left;"> Årsag </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;font-weight: bold;vertical-align: top !important;font-weight: bold;color: white !important;background-color: darkgrey !important;" rowspan="4"> Tilblivelsesmangler </td>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: darkgrey !important;"> Ugyldighed pga. omstændigheder ved aftalens indgåelse (tilblivelse), fx: </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:left;"> falsk, forfalskning, forvanskning, fuldmagtsoverskridelse, voldelig tvang, mekanisk tvang </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:left;"> svig, udnyttelse, simpel tvang, fejltagelse (fejlskrift),
+pro forma </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:left;"> tilblivelse i strid med almindelig hæderlighed og
+redelig handlemåde, AFTL §§ 33 og 36 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;vertical-align: top !important;font-weight: bold;color: white !important;background-color: darkgrey !important;" rowspan="3"> Indholdsmangler </td>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: darkgrey !important;"> Ugyldighed pga. mangler ved selve aftalens indhold, fx: </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:left;"> i strid med loven </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:left;"> i strid med almindelig moral, almindelig hæderlighed,
+redelig handlemåde </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;vertical-align: top !important;font-weight: bold;color: white !important;background-color: darkgrey !important;" rowspan="2"> Habilitetsmangler </td>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: darkgrey !important;"> Ugyldighed pga. manglende evne eller habilitet, fx: </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:left;"> inhabilitet, umyndighed, værgemål, fornuftsmangel </td>
+  </tr>
+</tbody>
+</table>
 
-options(knitr.table.format = "html")
-collapse_rows_dt <- data.frame(Mangeltype = c(rep("Tilblivelsesmangler", 4), rep("Indholdsmangler",3 ),rep("Habilitetsmangler",2 )),
-                 Årsag = c("Ugyldighed pga. omstændigheder ved aftalens indgåelse (tilblivelse), fx:
-","falsk, forfalskning, forvanskning, fuldmagtsoverskridelse, voldelig tvang, mekanisk tvang
-","svig, udnyttelse, simpel tvang, fejltagelse (fejlskrift),
-pro forma
-","tilblivelse i strid med almindelig hæderlighed og
-redelig handlemåde, AFTL §§ 33 og 36
-","Ugyldighed pga. mangler ved selve aftalens indhold, fx:","i strid med loven","i strid med almindelig moral, almindelig hæderlighed,
-redelig handlemåde
-","Ugyldighed pga. manglende evne eller habilitet, fx:","inhabilitet, umyndighed, værgemål, fornuftsmangel"))
-                 
-kable(collapse_rows_dt, align = "l" ,caption = "Oversigt over mangler og ugyldighedsgrunde") %>%
-  kable_styling(full_width = T,bootstrap_options = c( "hover","responsive","bordered","striped")) %>%
-  column_spec(1, bold = T) %>%
-  collapse_rows(columns = 1:2, valign = "top") %>%
-row_spec(c(1,5,8), bold = T, color = "white", background = "darkgrey")
 
-# add_header_above(c( "Oversigt over mangler og ugyldighedsgrunde" = 2),italic = TRUE)
-
-```
-
-
-```{r ssugyldighedsgrunde, echo=FALSE, result=TRUE }
-options(knitr.table.format = "html")
-collapse_rows_dt <- data.frame(Ugyldighedsgrunde = c(rep("Stærke ugyldighedsgrunde", 4), rep("Svage ugyldighedsgrunde",5 ) ),
-                 Årsag = c("Falsk og forfalskning.",
-                  "Forvanskning, AFTL § 32, stk. 2.",
-                  "Voldelig tvang, AFTL § 28, stk. 1.",
-                  "Umyndighed, værgemål, fornuftsmangel, værgemålsloven.",
-                  "Simpel tvang, AFTL § 29.",
-                  "Svig, AFTL § 30.",
-                  "Udnyttelse, AFTL § 31.",
-                  "Fejlskrift eller anden fejltagelse, AFTL § 32, stk. 1.",
-                  "I strid med almindelig hæderlighed, AFTL § 33."))
-                 
-kable(collapse_rows_dt, align = "l",caption = "Oversigt over stærke og svage ugyldighedsgrunde") %>%
-  kable_styling(full_width = T,bootstrap_options = c( "hover","responsive","bordered","striped")) %>%
-  column_spec(1, bold = T) %>%
-  collapse_rows(columns = 1:2, valign = "top") %>%
-row_spec(1:4, bold = T, color = "black", background = "grey") %>%
-row_spec(5:9, bold = T, color = "white", background = "darkgrey")
-# add_header_above(c( "Oversigt over stærke og svage ugyldighedsgrunde" = 2),italic = TRUE)
-
-```
+<table class="table table-hover table-responsive table-bordered table-striped" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:ssugyldighedsgrunde)Oversigt over stærke og svage ugyldighedsgrunde</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Ugyldighedsgrunde </th>
+   <th style="text-align:left;"> Årsag </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;font-weight: bold;vertical-align: top !important;font-weight: bold;color: black !important;background-color: grey !important;" rowspan="4"> Stærke ugyldighedsgrunde </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: grey !important;"> Falsk og forfalskning. </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: grey !important;"> Forvanskning, AFTL § 32, stk. 2. </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: grey !important;"> Voldelig tvang, AFTL § 28, stk. 1. </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: grey !important;"> Umyndighed, værgemål, fornuftsmangel, værgemålsloven. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;vertical-align: top !important;font-weight: bold;color: white !important;background-color: darkgrey !important;" rowspan="5"> Svage ugyldighedsgrunde </td>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: darkgrey !important;"> Simpel tvang, AFTL § 29. </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: darkgrey !important;"> Svig, AFTL § 30. </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: darkgrey !important;"> Udnyttelse, AFTL § 31. </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: darkgrey !important;"> Fejlskrift eller anden fejltagelse, AFTL § 32, stk. 1. </td>
+  </tr>
+  <tr>
+   
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: darkgrey !important;"> I strid med almindelig hæderlighed, AFTL § 33. </td>
+  </tr>
+</tbody>
+</table>
 <img src="img/deal4.jpg" align="right" width="60%" height="60%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 De stærke ugyldighedsgrunde:
@@ -1458,27 +1500,38 @@ Standardvilkår ses eksempelvis i fortrykt lejekontrakt, salgsaftale for biler, 
 *Rimelighedsreglen:* Aftalen fortolkes i overensstemmelse med hvad der er rimeligt og hensigtsmæssigt.  
 
 
-```{r reglerogtolkning,echo=FALSE}
-options(knitr.table.format = "html")
-collapse_rows_dt <- data.frame(Regel = c("Koncipistreglen", "Minimumsreglen","Prioritetsreglen", "Gyldighedsreglen","Rimelighedsreglen"),
-                 Tolkning = c("Dette fortolkningsprincip kaldes også for uklarhedsreglen og betyder, at den part som har konciperet (skrevet) kontrakten må bære risikoen for tvetydighed. Er der en uklarhed i kontrakten, tolkes aftalen til skade eller ugunst for koncipisten og dermed mindst tyngende for den anden part, som ikke har haft indflydelse på aftalens formulering. Uklarhedsreglen er særlig relevant ved fortolkning af standardaftaler, der er udarbejdet af en stærk part.",
-                              "Hvis der er tvivl om, hvad løftegiveren har forpligtet sig til i aftalen, vælges den forståelse af aftalen, som er
-mest gunstig for løftegiveren. Hvis der fx er tvivl, om der er aftalt simpel kaution eller selvskyldnerkaution, vælges simpel kaution, der er mest gunstig for forbrugeren. Særligt hvad angår forbrugeraftaler, har minimumsreglen fundet en plads i AFTL § 38b. Bestemmelsen beskytter forbrugeren i de tilfælde, hvor et tyngende aftalevilkår ikke har været til forhandling med en erhvervsdrivende aftalepart. En sådan aftale skal tolkes på den måde, som er mest gunstig for forbrugeren.
-",
-                              "Ved fortolkning efter prioritetsreglen går et specielt vilkår forud for et generelt vilkår. Man kan også kalde det en fortolkning efter et lex specialis-princip, hvor en speciel og udspecificeret bestemmelse vejer tungere end en generel formuleret bestemmelse",
-                              "Hvis man står overfor et valg, om aftalen er gyldig og kan gennemføres, eller ugyldig og må bortfalde, er gyldighedsreglen et fortolkningsprincip, hvor aftalen tolkes med henblik på at opnå en gyldig aftale, som vil kunne gennemføres.",
-                              "Efter rimelighedsreglen fortolker man ud fra hensigtsmæssigheds- og rimelighedsbetragtninger. Ved tvivl om forståelsen af en aftale, tolkes aftalen i overensstemmelse med, hvad der er rimeligt."))
-                 
-kable(collapse_rows_dt, align = "l",caption = "Regler og tolkning") %>%
-  kable_styling(full_width = T,bootstrap_options = c( "hover","responsive","bordered","striped")) %>%
-  column_spec(1, bold = T) %>%
-  collapse_rows(columns = 1:2, valign = "top") %>%
-  column_spec(2,  bold = T, color = "white", background = "darkgrey")
-  # row_spec(1, bold = T, color = "white", background = "red") %>%
-# row_spec(5:9, bold = T, color = "Black", background = "yellow") %>%
-# add_header_above(c( "Koncipistreglen" = 2),italic = TRUE)
-
-```
+<table class="table table-hover table-responsive table-bordered table-striped" style="margin-left: auto; margin-right: auto;">
+<caption>(\#tab:reglerogtolkning)Regler og tolkning</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Regel </th>
+   <th style="text-align:left;"> Tolkning </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;font-weight: bold;"> Koncipistreglen </td>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: darkgrey !important;"> Dette fortolkningsprincip kaldes også for uklarhedsreglen og betyder, at den part som har konciperet (skrevet) kontrakten må bære risikoen for tvetydighed. Er der en uklarhed i kontrakten, tolkes aftalen til skade eller ugunst for koncipisten og dermed mindst tyngende for den anden part, som ikke har haft indflydelse på aftalens formulering. Uklarhedsreglen er særlig relevant ved fortolkning af standardaftaler, der er udarbejdet af en stærk part. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;"> Minimumsreglen </td>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: darkgrey !important;"> Hvis der er tvivl om, hvad løftegiveren har forpligtet sig til i aftalen, vælges den forståelse af aftalen, som er
+mest gunstig for løftegiveren. Hvis der fx er tvivl, om der er aftalt simpel kaution eller selvskyldnerkaution, vælges simpel kaution, der er mest gunstig for forbrugeren. Særligt hvad angår forbrugeraftaler, har minimumsreglen fundet en plads i AFTL § 38b. Bestemmelsen beskytter forbrugeren i de tilfælde, hvor et tyngende aftalevilkår ikke har været til forhandling med en erhvervsdrivende aftalepart. En sådan aftale skal tolkes på den måde, som er mest gunstig for forbrugeren. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;"> Prioritetsreglen </td>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: darkgrey !important;"> Ved fortolkning efter prioritetsreglen går et specielt vilkår forud for et generelt vilkår. Man kan også kalde det en fortolkning efter et lex specialis-princip, hvor en speciel og udspecificeret bestemmelse vejer tungere end en generel formuleret bestemmelse </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;"> Gyldighedsreglen </td>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: darkgrey !important;"> Hvis man står overfor et valg, om aftalen er gyldig og kan gennemføres, eller ugyldig og må bortfalde, er gyldighedsreglen et fortolkningsprincip, hvor aftalen tolkes med henblik på at opnå en gyldig aftale, som vil kunne gennemføres. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;"> Rimelighedsreglen </td>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: darkgrey !important;"> Efter rimelighedsreglen fortolker man ud fra hensigtsmæssigheds- og rimelighedsbetragtninger. Ved tvivl om forståelsen af en aftale, tolkes aftalen i overensstemmelse med, hvad der er rimeligt. </td>
+  </tr>
+</tbody>
+</table>
 
 
 
@@ -1531,28 +1584,11 @@ kable(collapse_rows_dt, align = "l",caption = "Regler og tolkning") %>%
 <script async src="https://widget.spreaker.com/widgets.js"></script>
 
 
-```{r network4, echo=FALSE, result=TRUE,fig.cap=("Fuldmagtsforhold og aftaleindgåelse ")}
-
-nodes <- data.frame(id = 1:3, 
-                    shape = c("box"), 
-                    label = c(" Fuldmagtsgiver "," Fuldmægtig "," Trediemand "),
-                    font.size = c(35,35,35))
-edges <- data.frame(from = c(1,2,3),
-                    to = c(2,3,1),
-                    label = c("Fuldmagt", "Aftale indgås",""),
-                    # arrows = c("middle"),
-                    length = c(300,300,200)
-                    )
-
-visNetwork(nodes, edges, width = "80%",avoidOverlap=2) %>% 
-  visNodes(color = list(background = "white", 
-                        border = "white",
-                        highlight = "yellow"),
-           shadow = list(enabled = TRUE, size = 30))  %>%
-  # visHierarchicalLayout()
-  visLayout(randomSeed = 24) %>% # to have always the same network
-visEdges(color = list(color = "lightgrey", highlight = "yellow"))
-```
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-935a0ffba91f326e54c3" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-935a0ffba91f326e54c3">{"x":{"nodes":{"id":[1,2,3],"shape":["box","box","box"],"label":[" Fuldmagtsgiver "," Fuldmægtig "," Trediemand "],"font.size":[35,35,35]},"edges":{"from":[1,2,3],"to":[2,3,1],"label":["Fuldmagt","Aftale indgås",""],"length":[300,300,200]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"layout":{"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:network4)Fuldmagtsforhold og aftaleindgåelse </p>
+</div>
 
 
 
@@ -2610,41 +2646,43 @@ Forvolder man skaden under almindeligt privat samvær – typisk af selskabelig 
 
 
 
-```{r ansvarsforsikringen, echo=FALSE}
-mydf <- data.frame(
-  S1 = c("Hvordan er handlingen forvoldt?" ,
-         "Forsætligt", 
-          "Uagtsomt", 
-          "Gæstebudsskade", 
-          "Hændeligt"
-),
-  S2 = c("Er der juridisk set erstatningsansvar?" ,
-  "Ja",
-"Ja",
-"Ja",
-"Nej"
-),
-  S3 = c("Dækker ansvarsforsikringen?",
-         "Nej",
-         "Ja",
-         "Ja",
-         "Nej"
-)
-)
-names(mydf) <- NULL
-mydf %>%
-  kable("html", escape = FALSE, caption = "Er skaden dækket af ansvarsforsikringen?") %>%
-  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
-  column_spec(1, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  column_spec(3, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  row_spec(1,italic = T,bold = T,font_size = 12,color = "white", background = "darkgrey") %>%
-  # row_spec(1,italic = T,bold = T,font_size = 12)
-  # column_spec(0, angle = -45)%>%
-  # scroll_box(width = "500px") %>%
-  footnote(general = "Forsikringsankenævnets klageguide",general_title = "Kilde:")%>%
-footnote(number = "Hvis skadevolder er under 14 år eller er utilregnelig, kan der dog være dækning selv om handlingen er forvoldt forsætligt")
-```
+<table class="table table-responsive table-bordered table-striped" style="font-size: 10px; margin-left: auto; margin-right: auto;">
+<caption style="font-size: initial !important;">(\#tab:ansvarsforsikringen)Er skaden dækket af ansvarsforsikringen?</caption>
+<tbody>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Hvordan er handlingen forvoldt? </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Er der juridisk set erstatningsansvar? </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Dækker ansvarsforsikringen? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Forsætligt </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Ja </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Nej </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Uagtsomt </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Ja </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Ja </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Gæstebudsskade </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Ja </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Ja </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Hændeligt </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Nej </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Nej </td>
+  </tr>
+</tbody>
+<tfoot>
+<tr><td style="padding: 0; border: 0;" colspan="100%"><span style="font-style: italic;">Kilde:</span></td></tr>
+<tr><td style="padding: 0; border: 0;" colspan="100%">
+<sup></sup> Forsikringsankenævnets klageguide</td></tr>
+</tfoot>
+<tfoot><tr><td style="padding: 0; border: 0;" colspan="100%">
+<sup>1</sup> Hvis skadevolder er under 14 år eller er utilregnelig, kan der dog være dækning selv om handlingen er forvoldt forsætligt</td></tr></tfoot>
+</table>
 
 
 
@@ -3935,10 +3973,16 @@ Kategorier af personoplysninger
 
 
 
-```{r personoplysninger, echo=FALSE}
-
-mydf <- data.frame(
-  S1 = c("Følsomme personoplysninger" ,"Race, etnisk 
+<table class="table table-responsive table-bordered table-striped" style="font-size: 10px; margin-left: auto; margin-right: auto;">
+<caption style="font-size: initial !important;">(\#tab:personoplysninger)Beskyttelse af personoplysninger</caption>
+<tbody>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: darkgrey !important;border-right:1px solid;font-weight: bold;font-style: italic;font-size: 12px;"> Følsomme personoplysninger </td>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: black !important;border-right:1px solid;font-weight: bold;font-style: italic;font-size: 12px;">  </td>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: grey !important;border-right:1px solid;font-weight: bold;font-style: italic;font-size: 12px;"> Almindelige personoplysninger </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: darkgrey !important;border-right:1px solid;"> Race, etnisk 
 oprindelse, 
 politisk, religiøs el. 
 filosofisk overbevisning, 
@@ -3946,30 +3990,21 @@ fagforeningsmæssige
 tilhørsforhold, genetiske data, 
 biometriske data mhp. entydig 
 identifikation, helbredsoplysninger, 
-seksuelle forhold eller orientering "),
-  S2 = c("" ,
-  "Straffedomme og lovovertrædelser"),
-  S3 = c("Almindelige personoplysninger",
-    "Væsentlige sociale problemer, andre rent private 
+seksuelle forhold eller orientering </td>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: black !important;border-right:1px solid;"> Straffedomme og lovovertrædelser </td>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: grey !important;border-right:1px solid;"> Væsentlige sociale problemer, andre rent private 
 forhold, økonomi, skat, gæld, sygedage, tjenstlige forhold, 
 familieforhold, bolig, bil, eksamen, ansøgning, CV, 
 ansættelsesdato, stilling, arbejdsområde, 
-arbejdstelefon, navn, adresse, fødselsdato"
-  )
-)
-names(mydf) <- NULL
-
-mydf %>%
-  kable("html", escape = FALSE, caption = "Beskyttelse af personoplysninger" ) %>%
-  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
-  column_spec(1, bold = T, border_right = T, color = "white", background = "darkgrey") %>%
-  column_spec(2, bold = T, border_right = T, color = "white", background = "black") %>%
-  column_spec(3, bold = T, border_right = T, color = "white", background = "grey") %>%
-  row_spec(1,italic = T,bold = T,font_size = 12) %>%
-  # column_spec(0, angle = -45)%>%
-  # scroll_box(width = "500px") %>%
-  footnote(general = "Databeskyttelsesforordningen",general_title = "Kilde:")
-```
+arbejdstelefon, navn, adresse, fødselsdato </td>
+  </tr>
+</tbody>
+<tfoot>
+<tr><td style="padding: 0; border: 0;" colspan="100%"><span style="font-style: italic;">Kilde:</span></td></tr>
+<tr><td style="padding: 0; border: 0;" colspan="100%">
+<sup></sup> Databeskyttelsesforordningen</td></tr>
+</tfoot>
+</table>
 
 
  
@@ -4039,45 +4074,42 @@ Af databeskyttelsesforordningen fremgår det, hvornår der må ske behandling af
 
 
 
-```{r echo=FALSE}
-
-mydf <- data.frame(
-  S1 = c("Følsomme personoplysninger" ,"Som udgangspunkt ikke, medmindre:<br><br>
+<table class="table table-responsive table-bordered table-striped" style="font-size: 10px; margin-left: auto; margin-right: auto;">
+<caption style="font-size: initial !important;">(\#tab:unnamed-chunk-3)Hvordan må man opsamle og behandle personoplysninger?</caption>
+<tbody>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: black !important;border-right:1px solid;font-weight: bold;font-style: italic;font-size: 12px;"> Følsomme personoplysninger </td>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: grey !important;border-right:1px solid;font-weight: bold;font-style: italic;font-size: 12px;"> Personoplysninger med særlig beskyttelse </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;font-weight: bold;font-style: italic;font-size: 12px;"> Andre personoplysninger </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: black !important;border-right:1px solid;"> Som udgangspunkt ikke, medmindre:<br><br>
 - Der er givet samtykke<br><br>
 - Det sker for at sikre personens vitale interesser, og der ikke kan indhentes samtykke (Sygdomsreglen)<br><br>
 - Der er tale om en forening der behandler oplysningerne som led i deres aktiviteter<br><br>
 - Hvis man selv har offentliggjort oplysningen<br><br>
 - For at kunne fastlægge et retskrav<br><br>
-- For at kunne overholde arbejdsretlige forpligtelser"),
-  S2 = c("Personoplysninger med særlig beskyttelse" ,
-  "Hvis:<br><br>
+- For at kunne overholde arbejdsretlige forpligtelser </td>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: grey !important;border-right:1px solid;"> Hvis:<br><br>
     - Der er givet samtykke<br><br>
     - Det følger af lovgivningen<br><br>
     - Det sker som til statistiske formål<br><br>
-    - Et af kriterierne fra de følsomme oplysninger er opfyldt"),
-  S3 = c("Andre personoplysninger",
-    "Hvis:<br><br> 
+    - Et af kriterierne fra de følsomme oplysninger er opfyldt </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Hvis:<br><br> 
     - Der er givet samtykke<br><br>
     - Det sker for at opfylde en kontrakt<br><br>
     - Det sker for at opfylde en retlig forpligtelse<br><br>
     - Det sker for at sikre personens vitale interesser, og der ikke kan indhentes samtykke (Sygdomsreglen)<br><br>
     - Det sker for at udføre en opgave i samfundets interesse<br><br>
-    - Der er en legitim interesse hos virksomheden)"
-  )
-)
-names(mydf) <- NULL
-
-mydf %>%
-  kable("html", escape = FALSE,caption = "Hvordan må man opsamle og behandle personoplysninger?") %>%
-  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
-  column_spec(1, bold = T, border_right = T, color = "white", background = "black") %>%
-  column_spec(2, bold = T, border_right = T, color = "white", background = "grey") %>%
-  column_spec(3, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  row_spec(1,italic = T,bold = T,font_size = 12) %>%
-  # column_spec(0, angle = -45)%>%
-  # scroll_box(width = "500px") %>%
-  footnote(general = "Datatilsynet",general_title = "Kilde:")
-```
+    - Der er en legitim interesse hos virksomheden) </td>
+  </tr>
+</tbody>
+<tfoot>
+<tr><td style="padding: 0; border: 0;" colspan="100%"><span style="font-style: italic;">Kilde:</span></td></tr>
+<tr><td style="padding: 0; border: 0;" colspan="100%">
+<sup></sup> Datatilsynet</td></tr>
+</tfoot>
+</table>
 
 
 
@@ -4347,37 +4379,44 @@ Speak23
 Virksomhederne har pligt til at opbevare den dokumentation, som de har indsamlet om kunderne i mindst 5 år 
 
 
-```{r echo=FALSE}
-library(kableExtra)
-
-fr <- data.frame(
-  Aktivitet = c(rep("Anbringelse<br><br>Det ulovlige udbytte anbringes, Det kan fx. være i det finansielle system.", 1), rep("Sløring<br><br>Det ulovlige udbytte adskilles fra dets kilde. Det kan f.eks. ske gennem (finansielle) transaktioner.",1 ),rep("Anvendelse<br><br>Udbytte tilbageføres til gerningsrmanden. Det kan f.eks. være i en form, hvor udbyttet er ændret til midler eller aktiver, der ser ud til at være lovlige.",1)),
-  EksempelA = c(
-    "Indbetaling af kontanter i en bank (evt. blandet med midler fra lovlig virksomhed)",
-    "Elektronisk overførsel til udlandet (ofte ved brug af selskaber uden reel aktivitet. eller midlerne maskeres som udbytte fra lovlige forretninger)", 
-    "Tilbageførsel som betaling for (fiktive) lån eller betaling af (fiktive) fakturaer"
-  ),
-  EksempelB = c(
-    "Udførsel af kontanter til udlandet",
-    "Indsættelse af kontanter i en bank i udlandet ", 
-    "Et kompliceret net af overførsler nationalt og internationalt, der gør det næsten umuligt at spore midlernes oprindelige kilde"
-  ),
-  EksempelC = c(
-    "Anvendelse af kontanter til køb af højværdivarer, fast ejendom eller aktiver til erhvervsvirksomhed ",
-    "Salg af de købte varer/aktiver", 
-    "Indtægt fra fast ejendom eller virksomhed, der fremstår som lovlig"
-  )
-)
-names(fr) <- c("Aktivitet" ,"Eksempel 1" , "Eksempel 2" , "Eksempel 3")
-kable(fr,  format = "html", escape = FALSE,caption = "Hvidvask i praksis") %>%
-  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
-  column_spec(1, bold = T, border_right = T, color = "white", background = "black") %>%
-  row_spec(0,italic = T, color = "white", background = "grey",font_size = 12) %>%
-  # column_spec(0, angle = -45)%>%
-  # scroll_box(width = "500px") %>%
-  scroll_box(width = "100%") %>%
-footnote(general = "Hvidvasksekretariatet",general_title = "Kilde: ")
-```
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+<table class="table table-responsive table-bordered table-striped" style="font-size: 10px; margin-left: auto; margin-right: auto;">
+<caption style="font-size: initial !important;">(\#tab:unnamed-chunk-4)Hvidvask i praksis</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;font-style: italic;color: white !important;background-color: grey !important;font-size: 12px;"> Aktivitet </th>
+   <th style="text-align:left;font-style: italic;color: white !important;background-color: grey !important;font-size: 12px;"> Eksempel 1 </th>
+   <th style="text-align:left;font-style: italic;color: white !important;background-color: grey !important;font-size: 12px;"> Eksempel 2 </th>
+   <th style="text-align:left;font-style: italic;color: white !important;background-color: grey !important;font-size: 12px;"> Eksempel 3 </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: black !important;border-right:1px solid;"> Anbringelse<br><br>Det ulovlige udbytte anbringes, Det kan fx. være i det finansielle system. </td>
+   <td style="text-align:left;"> Indbetaling af kontanter i en bank (evt. blandet med midler fra lovlig virksomhed) </td>
+   <td style="text-align:left;"> Udførsel af kontanter til udlandet </td>
+   <td style="text-align:left;"> Anvendelse af kontanter til køb af højværdivarer, fast ejendom eller aktiver til erhvervsvirksomhed </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: black !important;border-right:1px solid;"> Sløring<br><br>Det ulovlige udbytte adskilles fra dets kilde. Det kan f.eks. ske gennem (finansielle) transaktioner. </td>
+   <td style="text-align:left;"> Elektronisk overførsel til udlandet (ofte ved brug af selskaber uden reel aktivitet. eller midlerne maskeres som udbytte fra lovlige forretninger) </td>
+   <td style="text-align:left;"> Indsættelse af kontanter i en bank i udlandet </td>
+   <td style="text-align:left;"> Salg af de købte varer/aktiver </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: black !important;border-right:1px solid;"> Anvendelse<br><br>Udbytte tilbageføres til gerningsrmanden. Det kan f.eks. være i en form, hvor udbyttet er ændret til midler eller aktiver, der ser ud til at være lovlige. </td>
+   <td style="text-align:left;"> Tilbageførsel som betaling for (fiktive) lån eller betaling af (fiktive) fakturaer </td>
+   <td style="text-align:left;"> Et kompliceret net af overførsler nationalt og internationalt, der gør det næsten umuligt at spore midlernes oprindelige kilde </td>
+   <td style="text-align:left;"> Indtægt fra fast ejendom eller virksomhed, der fremstår som lovlig </td>
+  </tr>
+</tbody>
+</table>
+<tfoot>
+<tr><td style="padding: 0; border: 0;" colspan="100%"><span style="font-style: italic;">Kilde: </span></td></tr>
+<tr><td style="padding: 0; border: 0;" colspan="100%">
+<sup></sup> Hvidvasksekretariatet</td></tr>
+</tfoot>
+</div>
 
 
 
@@ -5790,29 +5829,11 @@ Kaution, betyder overtagelse af en økonomisk risiko, som bæres af en kreditor 
   
 
   
-```{r network5, echo=FALSE, result=TRUE,fig.cap=("Eneanpartshaver stiller kaution overfor banken til sikkerhed for virksomhedens lån")}
-nodes <- data.frame(id = 1:3, shadow = FALSE,
-                    shape = c("image"),
-                    image = c("https://jura.tepedu.dk/img/kaution.svg",
-                    "https://jura.tepedu.dk/img/piggybank.svg",
-                    "https://jura.tepedu.dk/img/firm.svg"),
-                    label = c("Kautionist\nEneanpartshaver","Bank","Debitor\nApS"),
-                    color = "red",
-                    highlight = "yellow")
-  
-edges <- data.frame(from = c(1,2,3), to = c(2,3,1),
-                    length = c(400,400,400),
-                    label=c("Kautionsaftale","Lån","100% anparter"),
-                    # arrows = c("to"),
-                    smooth = TRUE)
-visNetwork(nodes, edges, width = "80%") %>% 
-  visNodes(shapeProperties = list(useBorderWithImage = FALSE)) %>%
-  visLayout(randomSeed = 2) %>%
-
- visEdges(shadow = TRUE,
-           arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
-           color = list(color = "lightgrey", highlight = "red"))
-```
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-ef1d0d4656c8efae815e" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-ef1d0d4656c8efae815e">{"x":{"nodes":{"id":[1,2,3],"shadow":[false,false,false],"shape":["image","image","image"],"image":["https://jura.tepedu.dk/img/kaution.svg","https://jura.tepedu.dk/img/piggybank.svg","https://jura.tepedu.dk/img/firm.svg"],"label":["Kautionist\nEneanpartshaver","Bank","Debitor\nApS"],"color":["red","red","red"],"highlight":["yellow","yellow","yellow"]},"edges":{"from":[1,2,3],"to":[2,3,1],"length":[400,400,400],"label":["Kautionsaftale","Lån","100% anparter"],"smooth":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","shapeProperties":{"useBorderWithImage":false}},"manipulation":{"enabled":false},"layout":{"randomSeed":2},"edges":{"arrows":{"to":{"enabled":true,"scaleFactor":2}},"color":{"color":"lightgrey","highlight":"red"},"shadow":true}},"groups":null,"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:network5)Eneanpartshaver stiller kaution overfor banken til sikkerhed for virksomhedens lån</p>
+</div>
 
 
 
@@ -5979,42 +6000,48 @@ Hvis oplysningspligten ikke er overholdt kan kautionen   eventuelt tilsidesætte
 (Se figuren nedenfor)
  
 
-```{r kautionsoversigt, echo=FALSE}
-
-mydf <- data.frame(
-  S1 = c("Kautionstype" ,"Simpel kaution", 
-"Selvskyldnerkaution", 
-"Tabskaution", 
-"Begrænset kaution", 
-"Delkaution", 
-"Samkaution", 
-"Medkaution", 
-"Efterkaution"),
-  S2 = c("Definition" ,
-  "Kan først gøres gældende, når det er dokumenteret, at 
-debitor ikke kan betale gælden.", 
-"Kan gøres gældende, når debitor misligholder lånet. ",
-"Kan gøres gældende efter udtømmende retsforfølgning.",
-"Omfatter hele gælden med et maksimalt beløb.",
-"Kautionen omfatter en bestemt del af gælden.",
-"Flere kautionister for samme gældsforhold under forudsætning af, at andre kautionister også har kautioneret.", 
-"Flere kautionister for samme gældsforhold stillet uafhængigt af hinanden.",
-"Kaution stillet overfor kreditor som effektueres, når hovedkautionist ikke kan betale")
-  
-)
-names(mydf) <- NULL
-
-mydf %>%
-  kable("html", escape = FALSE,caption = "Kautionsoversigt") %>%
-  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
-  column_spec(1, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  row_spec(1,italic = T,bold = T,font_size = 12,color = "white", background = "darkgrey")
-  # row_spec(1,italic = T,bold = T,font_size = 12)
-  # column_spec(0, angle = -45)%>%
-  # scroll_box(width = "500px") %>%
-  # footnote(general = "Databeskyttelsesforordningen",general_title = "Kilde:")
-```
+<table class="table table-responsive table-bordered table-striped" style="font-size: 10px; margin-left: auto; margin-right: auto;">
+<caption style="font-size: initial !important;">(\#tab:kautionsoversigt)Kautionsoversigt</caption>
+<tbody>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Kautionstype </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Definition </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Simpel kaution </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Kan først gøres gældende, når det er dokumenteret, at 
+debitor ikke kan betale gælden. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Selvskyldnerkaution </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Kan gøres gældende, når debitor misligholder lånet. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Tabskaution </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Kan gøres gældende efter udtømmende retsforfølgning. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Begrænset kaution </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Omfatter hele gælden med et maksimalt beløb. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Delkaution </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Kautionen omfatter en bestemt del af gælden. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Samkaution </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Flere kautionister for samme gældsforhold under forudsætning af, at andre kautionister også har kautioneret. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Medkaution </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Flere kautionister for samme gældsforhold stillet uafhængigt af hinanden. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Efterkaution </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Kaution stillet overfor kreditor som effektueres, når hovedkautionist ikke kan betale </td>
+  </tr>
+</tbody>
+</table>
 
 
 
@@ -6096,113 +6123,33 @@ De samme beskyttelsesregler gælder, hvis en privatperson stiller pantesikkerhed
 * Samkautionister har efter betaling af gælden regresret mod de andre kautionister
  
  
-```{r network6, echo=FALSE, result=TRUE,fig.cap=("Flere kautionister kan kautionere, enten som sam- eller medkautionister.")}
-nodes <- data.frame(id = 1:6, shadow = FALSE,
-                    shape = c("image"),
-                    image = c("https://jura.tepedu.dk/img/piggybank.svg",
-                    "https://jura.tepedu.dk/img/kaution.svg",
-                    "https://jura.tepedu.dk/img/kaution.svg",
-                    "https://jura.tepedu.dk/img/kaution.svg",
-                    "https://jura.tepedu.dk/img/kaution.svg",
-                    "https://jura.tepedu.dk/img/poor.svg"),
-                    label = c("Kreditor","Kautionist 1","Kautionist 2","Kautionist 3","Kautionist 4","Debitor\nHovedskyldner"),
-                    color = "red",
-                    highlight = "yellow")
-  
-edges <- data.frame(from = c(2,3,4,5,1), to = c(1,1,1,1,6),
-                    length = c(100,100,100,100,130),
-                    # label=c("Kautionsaftale","Lån","100% anparter"),
-                    # arrows = c("to"),
-                    smooth = FALSE)
-visNetwork(nodes, edges, width = "80%") %>% 
-  visNodes(shapeProperties = list(useBorderWithImage = FALSE)) %>%
-  visLayout(randomSeed = 2) %>%
-
- visEdges(shadow = TRUE,
-           arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
-           color = list(color = "red", highlight = "yellow"))
-```
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-d32c17e76ef46cb499ad" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-d32c17e76ef46cb499ad">{"x":{"nodes":{"id":[1,2,3,4,5,6],"shadow":[false,false,false,false,false,false],"shape":["image","image","image","image","image","image"],"image":["https://jura.tepedu.dk/img/piggybank.svg","https://jura.tepedu.dk/img/kaution.svg","https://jura.tepedu.dk/img/kaution.svg","https://jura.tepedu.dk/img/kaution.svg","https://jura.tepedu.dk/img/kaution.svg","https://jura.tepedu.dk/img/poor.svg"],"label":["Kreditor","Kautionist 1","Kautionist 2","Kautionist 3","Kautionist 4","Debitor\nHovedskyldner"],"color":["red","red","red","red","red","red"],"highlight":["yellow","yellow","yellow","yellow","yellow","yellow"]},"edges":{"from":[2,3,4,5,1],"to":[1,1,1,1,6],"length":[100,100,100,100,130],"smooth":[false,false,false,false,false]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","shapeProperties":{"useBorderWithImage":false}},"manipulation":{"enabled":false},"layout":{"randomSeed":2},"edges":{"arrows":{"to":{"enabled":true,"scaleFactor":2}},"color":{"color":"red","highlight":"yellow"},"shadow":true}},"groups":null,"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:network6)Flere kautionister kan kautionere, enten som sam- eller medkautionister.</p>
+</div>
 
 
 
-```{r network11, echo=FALSE, result=TRUE,fig.cap=("Pro rata hæftelse.")}
-nodes <- data.frame(id = 1:5, shadow = FALSE,
-                    shape = c("image"),
-                    image = c("https://jura.tepedu.dk/img/piggybank.svg",
-                    "https://jura.tepedu.dk/img/kaution.svg",
-                    "https://jura.tepedu.dk/img/kaution.svg",
-                    "https://jura.tepedu.dk/img/kaution.svg",
-                    "https://jura.tepedu.dk/img/poor.svg"),
-                    label = c("Kreditor","Kautionist 1 50%","Kautionist 2 25%","Kautionist 3 25%","Debitor"),
-                    color = "red",
-                    highlight = "yellow")
-  
-edges <- data.frame(from = c(2,3,4,1), to = c(1,1,1,5),
-                    # length = c(100,100,100,130),
-                    label=c("Hæftelse\n500.000","Hæftelse\n250.000","Hæftelse\n250.000","Lån 1 mio"),
-                    # arrows = c("to"),
-                    smooth = FALSE)
-visNetwork(nodes, edges, width = "80%") %>% 
-  visNodes(shapeProperties = list(useBorderWithImage = FALSE)) %>%
-  visLayout(randomSeed = 2) %>%
-
- visEdges(shadow = TRUE,
-           arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
-           color = list(color = "red", highlight = "yellow"))
-```
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-61a0fbb6cb6c77586cd1" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-61a0fbb6cb6c77586cd1">{"x":{"nodes":{"id":[1,2,3,4,5],"shadow":[false,false,false,false,false],"shape":["image","image","image","image","image"],"image":["https://jura.tepedu.dk/img/piggybank.svg","https://jura.tepedu.dk/img/kaution.svg","https://jura.tepedu.dk/img/kaution.svg","https://jura.tepedu.dk/img/kaution.svg","https://jura.tepedu.dk/img/poor.svg"],"label":["Kreditor","Kautionist 1 50%","Kautionist 2 25%","Kautionist 3 25%","Debitor"],"color":["red","red","red","red","red"],"highlight":["yellow","yellow","yellow","yellow","yellow"]},"edges":{"from":[2,3,4,1],"to":[1,1,1,5],"label":["Hæftelse\n500.000","Hæftelse\n250.000","Hæftelse\n250.000","Lån 1 mio"],"smooth":[false,false,false,false]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","shapeProperties":{"useBorderWithImage":false}},"manipulation":{"enabled":false},"layout":{"randomSeed":2},"edges":{"arrows":{"to":{"enabled":true,"scaleFactor":2}},"color":{"color":"red","highlight":"yellow"},"shadow":true}},"groups":null,"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:network11)Pro rata hæftelse.</p>
+</div>
   
 
  
-```{r network7, echo=FALSE, result=TRUE,fig.cap=("Efterkaution.")}
-nodes <- data.frame(id = 1:4, shadow = FALSE,
-                    shape = c("image"),
-                    image = c("https://jura.tepedu.dk/img/piggybank.svg",
-                    "https://jura.tepedu.dk/img/kaution.svg",
-                    "https://jura.tepedu.dk/img/kaution.svg",
-                    "https://jura.tepedu.dk/img/poor.svg"),
-                    label = c("Kreditor","Hovedkautionist\nEneanpartshaver","Efterkautionist\nÆgtefælle","Debitor\nBank"),
-                    color = "red",
-                    highlight = "yellow")
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-968d4ee15f42271a23dd" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-968d4ee15f42271a23dd">{"x":{"nodes":{"id":[1,2,3,4],"shadow":[false,false,false,false],"shape":["image","image","image","image"],"image":["https://jura.tepedu.dk/img/piggybank.svg","https://jura.tepedu.dk/img/kaution.svg","https://jura.tepedu.dk/img/kaution.svg","https://jura.tepedu.dk/img/poor.svg"],"label":["Kreditor","Hovedkautionist\nEneanpartshaver","Efterkautionist\nÆgtefælle","Debitor\nBank"],"color":["red","red","red","red"],"highlight":["yellow","yellow","yellow","yellow"]},"edges":{"from":[2,3,1],"to":[1,1,4],"label":["Hæftelse 1","Hæftelse 2","Lån"],"smooth":[false,false,false]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","shapeProperties":{"useBorderWithImage":false}},"manipulation":{"enabled":false},"layout":{"randomSeed":2},"edges":{"arrows":{"to":{"enabled":true,"scaleFactor":2}},"color":{"color":"red","highlight":"yellow"},"shadow":true}},"groups":null,"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:network7)Efterkaution.</p>
+</div>
   
-edges <- data.frame(from = c(2,3,1), to = c(1,1,4),
-                    # length = c(100,100,100,130),
-                    label=c("Hæftelse 1","Hæftelse 2","Lån"),
-                    # arrows = c("to"),
-                    smooth = FALSE)
-visNetwork(nodes, edges, width = "80%") %>% 
-  visNodes(shapeProperties = list(useBorderWithImage = FALSE)) %>%
-  visLayout(randomSeed = 2) %>%
-
- visEdges(shadow = TRUE,
-           arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
-           color = list(color = "red", highlight = "yellow"))
-``` 
-  
-```{r network9, echo=FALSE, result=TRUE,fig.cap=("Kautionistens regresret mod låntager")}
-nodes <- data.frame(id = 1:5, shadow = FALSE,
-                    shape = c("image"),
-                    image = c("https://jura.tepedu.dk/img/piggybank.svg",
-                    "https://jura.tepedu.dk/img/poor.svg",
-                    "https://jura.tepedu.dk/img/piggybank.svg",
-                    "https://jura.tepedu.dk/img/kaution.svg",
-                    "https://jura.tepedu.dk/img/poor.svg"),
-                    label = c("Banken har krav\npå låntager","Låntager\nmisligholder","Banken kræver\nkautionen indfriet","Kautionisten betaler\nbanken","Kautionisten har\nkrav på låntager"),
-                    color = "red",
-                    highlight = "yellow")
-  
-edges <- data.frame(from = c(1,2,3,4), to = c(2,3,4,5),
-                    # length = c(100,100,100,130),
-                    # label=c("Hæftelse 1","Hæftelse 2","Lån"),
-                    # arrows = c("to"),
-                    smooth = FALSE)
-visNetwork(nodes, edges, width = "80%") %>% 
-  visNodes(shapeProperties = list(useBorderWithImage = FALSE)) %>%
-  visLayout(randomSeed = 2) %>%
-
- visEdges(shadow = TRUE,
-           arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
-           color = list(color = "red", highlight = "yellow"))
-``` 
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-567c5619d1b69463c48c" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-567c5619d1b69463c48c">{"x":{"nodes":{"id":[1,2,3,4,5],"shadow":[false,false,false,false,false],"shape":["image","image","image","image","image"],"image":["https://jura.tepedu.dk/img/piggybank.svg","https://jura.tepedu.dk/img/poor.svg","https://jura.tepedu.dk/img/piggybank.svg","https://jura.tepedu.dk/img/kaution.svg","https://jura.tepedu.dk/img/poor.svg"],"label":["Banken har krav\npå låntager","Låntager\nmisligholder","Banken kræver\nkautionen indfriet","Kautionisten betaler\nbanken","Kautionisten har\nkrav på låntager"],"color":["red","red","red","red","red"],"highlight":["yellow","yellow","yellow","yellow","yellow"]},"edges":{"from":[1,2,3,4],"to":[2,3,4,5],"smooth":[false,false,false,false]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","shapeProperties":{"useBorderWithImage":false}},"manipulation":{"enabled":false},"layout":{"randomSeed":2},"edges":{"arrows":{"to":{"enabled":true,"scaleFactor":2}},"color":{"color":"red","highlight":"yellow"},"shadow":true}},"groups":null,"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:network9)Kautionistens regresret mod låntager</p>
+</div>
 
 
 ### Kautionens ophør
@@ -6274,30 +6221,11 @@ Advokat Y
   + Kautionen må ikke stå i misforhold til kautionistens økonomi
   
 
-```{r network12, echo=FALSE, result=TRUE,fig.cap=("Trediemandspant")}
-nodes <- data.frame(id = 1:4, shadow = FALSE,
-                    shape = c("image"),
-                    image = c("https://jura.tepedu.dk/img/kaution.svg",
-                    "https://jura.tepedu.dk/img/piggybank.svg",
-                    "https://jura.tepedu.dk/img/poor.svg",
-                    "https://jura.tepedu.dk/img/kaution.svg"),
-                    label = c("Pantsætter","Bank","Låntager\nSelskab","Kautionisten"),
-                    color = "red",
-                    highlight = "yellow")
-  
-edges <- data.frame(from = c(1,2,4), to = c(2,3,2),
-                    # length = c(100,100,100,130),
-                    label=c("Pant","Lån","Kaution"),
-                    # arrows = c("to"),
-                    smooth = FALSE)
-visNetwork(nodes, edges, width = "80%") %>% 
-  visNodes(shapeProperties = list(useBorderWithImage = FALSE)) %>%
-  visLayout(randomSeed = 2) %>%
-
- visEdges(shadow = TRUE,
-           arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
-           color = list(color = "red", highlight = "yellow"))
-``` 
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-b84764b8c6736be8c30d" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-b84764b8c6736be8c30d">{"x":{"nodes":{"id":[1,2,3,4],"shadow":[false,false,false,false],"shape":["image","image","image","image"],"image":["https://jura.tepedu.dk/img/kaution.svg","https://jura.tepedu.dk/img/piggybank.svg","https://jura.tepedu.dk/img/poor.svg","https://jura.tepedu.dk/img/kaution.svg"],"label":["Pantsætter","Bank","Låntager\nSelskab","Kautionisten"],"color":["red","red","red","red"],"highlight":["yellow","yellow","yellow","yellow"]},"edges":{"from":[1,2,4],"to":[2,3,2],"label":["Pant","Lån","Kaution"],"smooth":[false,false,false]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","shapeProperties":{"useBorderWithImage":false}},"manipulation":{"enabled":false},"layout":{"randomSeed":2},"edges":{"arrows":{"to":{"enabled":true,"scaleFactor":2}},"color":{"color":"red","highlight":"yellow"},"shadow":true}},"groups":null,"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:network12)Trediemandspant</p>
+</div>
  
 
   
@@ -6315,29 +6243,11 @@ visNetwork(nodes, edges, width = "80%") %>%
 
 
  
-```{r network13, echo=FALSE, result=TRUE,fig.cap=("Garantistillelse")}
-nodes <- data.frame(id = 1:3, shadow = FALSE,
-                    shape = c("image"),
-                    image = c("https://jura.tepedu.dk/img/piggybank.svg",
-                    "https://jura.tepedu.dk/img/man.svg",
-                    "https://jura.tepedu.dk/img/man.svg"),
-                    label = c("Garant\nBank","Garantirekvirent\nKøber","Beneficiant\nSælger"),
-                    color = "red",
-                    highlight = "yellow")
-  
-edges <- data.frame(from = c(1,2,1), to = c(2,3,3),
-                    # length = c(100,100,100,130),
-                    label=c("Lån til købesum","Købsaftale","Garanti for\nkøbesum"),
-                    # arrows = c("to"),
-                    smooth = FALSE)
-visNetwork(nodes, edges, width = "80%") %>% 
-  visNodes(shapeProperties = list(useBorderWithImage = FALSE)) %>%
-  visLayout(randomSeed = 2) %>%
-
- visEdges(shadow = TRUE,
-           arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
-           color = list(color = "red", highlight = "yellow"))
-``` 
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-539b4f7f7202e831237f" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-539b4f7f7202e831237f">{"x":{"nodes":{"id":[1,2,3],"shadow":[false,false,false],"shape":["image","image","image"],"image":["https://jura.tepedu.dk/img/piggybank.svg","https://jura.tepedu.dk/img/man.svg","https://jura.tepedu.dk/img/man.svg"],"label":["Garant\nBank","Garantirekvirent\nKøber","Beneficiant\nSælger"],"color":["red","red","red"],"highlight":["yellow","yellow","yellow"]},"edges":{"from":[1,2,1],"to":[2,3,3],"label":["Lån til købesum","Købsaftale","Garanti for\nkøbesum"],"smooth":[false,false,false]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","shapeProperties":{"useBorderWithImage":false}},"manipulation":{"enabled":false},"layout":{"randomSeed":2},"edges":{"arrows":{"to":{"enabled":true,"scaleFactor":2}},"color":{"color":"red","highlight":"yellow"},"shadow":true}},"groups":null,"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:network13)Garantistillelse</p>
+</div>
 
 
 
@@ -6506,64 +6416,62 @@ Kortmisbrug her er, hvor kortholder ikke selv har brugt kortet
 Efter kortet er spærret er banken ansvarlig for al misbrug af kortholders betalingskort.
 
 
-```{r hæftelse, echo=FALSE}
-
-mydf <- data.frame(
-  S1 = c("Hæftelse i kr" ,"0", 
-"0", 
-"375", 
-"Højst 8000", 
-"Ubegrænset"
-),
-  S2 = c("Paragraf" ,
-  "BL S 100, stk. 8",
-"BL S 100, stk. 6",
-"BL S 100, stk. 3",
-"BL S 100, stk. 4",
-"BL S 100, stk. 5"),
-  S3 = c("Hændelse",
-         "Misbrug efter kortet er 
-spærret. ",
-         "Misbrug hvor kortet og 
-          pinkoden er brugt. ",
-         "Hæftelse hvis kortet og 
-      den pinkoden er brugt. Kunden har som minimum har handlet simpelt uagtsomt. ",
-         "Misbrug af kortet, hvor pinkoden har været anvendt samt et af følgende:<br>1. Kunden har ikke oplyst at kortet er   mistet<br>
-          2. Kunden selv har givet en anden kortet<br>
-          3. Kunden har haft en anden groft uforsvarlig adfærd",
-         "Misbrug af kort og pinkode, og kunden selv har udleveret kort og kode til misbrugeren samt at kunden              burde have indset at. der var risiko for misbrug."),
-  S4 = c("Eksempel",
-         "En dame har tabt sit kort og 
+<table class="table table-responsive table-bordered table-striped" style="font-size: 10px; margin-left: auto; margin-right: auto;">
+<caption style="font-size: initial !important;">(\#tab:hæftelse)Hæftelse ved kortmisbrug</caption>
+<tbody>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Hæftelse i kr </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Paragraf </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Hændelse </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Eksempel </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> 0 </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> BL S 100, stk. 8 </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Misbrug efter kortet er 
+spærret. </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> En dame har tabt sit kort og 
           spærret dette, så snart hun opdagede tabet.<br>Efter kortet blev 
           spærret blev kortet brugt til 
-          køb på internettet.",
-          "En kunde har mistet sit kort
+          køb på internettet. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> 0 </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> BL S 100, stk. 6 </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Misbrug hvor kortet og 
+          pinkoden er brugt. </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> En kunde har mistet sit kort
           og pinkode, og der er 
           intet at bebrejde kunden i 
-          forbindelse med tab og misbrug",
-         "En fortravlet mand har glemt sit dankort 
+          forbindelse med tab og misbrug </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> 375 </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> BL S 100, stk. 3 </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Hæftelse hvis kortet og 
+      den pinkoden er brugt. Kunden har som minimum har handlet simpelt uagtsomt. </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> En fortravlet mand har glemt sit dankort 
           i en hæveautomat, inden kortet 
           bliver spærret bliver det 
           brugt til betaling i en forretning med den 
-          rigtige pinkode. ",
-         "En cafegæst får stjålet sin pung med både kort og pinkode, fra sin efterladte taske, under toiletbesøg. Kortet misbruges til hævninger og køb for i alt 25.000,- kr.",
-         "En pige låner en ven sit kort og pinkode, til trods for denne tidligere har misbrugt kort. Han fester på barer og diskoteker for 38.000,- kr.")
-)
-names(mydf) <- NULL
-
-mydf %>%
-  kable("html", escape = FALSE, caption = "Hæftelse ved kortmisbrug") %>%
-  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
-  column_spec(1, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  column_spec(3, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  column_spec(4, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  row_spec(1,italic = T,bold = T,font_size = 12,color = "white", background = "darkgrey")
-  # row_spec(1,italic = T,bold = T,font_size = 12)
-  # column_spec(0, angle = -45)%>%
-  # scroll_box(width = "500px") %>%
-  # footnote(general = "Databeskyttelsesforordningen",general_title = "Kilde:")
-```
+          rigtige pinkode. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Højst 8000 </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> BL S 100, stk. 4 </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Misbrug af kortet, hvor pinkoden har været anvendt samt et af følgende:<br>1. Kunden har ikke oplyst at kortet er   mistet<br>
+          2. Kunden selv har givet en anden kortet<br>
+          3. Kunden har haft en anden groft uforsvarlig adfærd </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> En cafegæst får stjålet sin pung med både kort og pinkode, fra sin efterladte taske, under toiletbesøg. Kortet misbruges til hævninger og køb for i alt 25.000,- kr. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Ubegrænset </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> BL S 100, stk. 5 </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Misbrug af kort og pinkode, og kunden selv har udleveret kort og kode til misbrugeren samt at kunden              burde have indset at. der var risiko for misbrug. </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> En pige låner en ven sit kort og pinkode, til trods for denne tidligere har misbrugt kort. Han fester på barer og diskoteker for 38.000,- kr. </td>
+  </tr>
+</tbody>
+</table>
 
 
 
@@ -6596,40 +6504,11 @@ Ad. Tinglyste simple pantebreve – typisk pantebrev med pant i andet end fast e
   
 
 
-```{r network14, echo=FALSE, result=TRUE,fig.cap=("Typer af pengekrav og fordringer")}
-
-
-nodes <- data.frame(id = 1:7, 
-                    level = c(1,2,2,3,3,3,3),
-                    shape = c(rep("box",7)), 
-                    label = c("Gældsbrev?\nUnderskrevet ensidig\nubetinget skyldnererklæring",
-                              "Pantebrev?\nGælden er sikret ved pant i et aktiv",
-                              "Simpel fordring",
-                              "Omsætningsgældsbrev\nTilhører de 4 kategorier\nfra GBL §11 stk. 2",
-                              "Simpelt gældsbrev\nTilhører ikke de 4 kategorier\nfra GBL §11 stk. 2",
-                              "Simpelt pantebrev\nPant i andet end\nfast ejendom",
-                              "Negotiabelt pantebrev\nPant i fast ejendom"
-                              ),
-                    font.size = c(rep(8,7)))
-          edges <- data.frame(from = c(1,1,2,2,2,2),
-                              to = c(2,3,4,5,6,7),
-                              label = c("Ja","Nej","Nej","Nej","Ja","Ja"),
-                              # arrows = c(""),
-                              # length = rep(10,6),
-                              color = list(color = "lightgrey", highlight = "yellow"),
-                              font.size = c(rep(8,6))
-                              
-                              )
-
-visNetwork(nodes, edges, height = "500px", width = "80%",avoidOverlap=2) %>% 
-  visNodes(color = list(background = "white", 
-                        border = "white",
-                        highlight = "yellow"),
-           shadow = list(enabled = TRUE, size = 30))  %>%
-  visHierarchicalLayout(direction = "UD",levelSeparation = 100) %>%
-  visLayout(hierarchical = TRUE)
-
-```
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-4f3544bcde6b56ad658e" style="width:80%;height:500px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-4f3544bcde6b56ad658e">{"x":{"nodes":{"id":[1,2,3,4,5,6,7],"level":[1,2,2,3,3,3,3],"shape":["box","box","box","box","box","box","box"],"label":["Gældsbrev?\nUnderskrevet ensidig\nubetinget skyldnererklæring","Pantebrev?\nGælden er sikret ved pant i et aktiv","Simpel fordring","Omsætningsgældsbrev\nTilhører de 4 kategorier\nfra GBL §11 stk. 2","Simpelt gældsbrev\nTilhører ikke de 4 kategorier\nfra GBL §11 stk. 2","Simpelt pantebrev\nPant i andet end\nfast ejendom","Negotiabelt pantebrev\nPant i fast ejendom"],"font.size":[8,8,8,8,8,8,8]},"edges":{"from":[1,1,2,2,2,2],"to":[2,3,4,5,6,7],"label":["Ja","Nej","Nej","Nej","Ja","Ja"],"color.color":["lightgrey","lightgrey","lightgrey","lightgrey","lightgrey","lightgrey"],"color.highlight":["yellow","yellow","yellow","yellow","yellow","yellow"],"font.size":[8,8,8,8,8,8]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"layout":{"hierarchical":true}},"groups":null,"width":"80%","height":"500px","idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:network14)Typer af pengekrav og fordringer</p>
+</div>
 
 
 
@@ -6726,7 +6605,8 @@ A) Gældsbrevsloven(GBL), hvor det i GBL § 11, stk. 2, fastslås, hvad der er o
 3.	Gældsbreve, der giver pant i registreret skib eller luftfartøj, medmindre der i gældsbrevet er indføjet ordene »ikke til ordre« eller tilsvarende forbehold.
 4.	Gældsbreve, der lyder på betaling til en bestemt person (navnegældsbreve), når de tydeligt angiver, at de skal være omsætningsgældsbreve.
 
-B) ``r tippy(indeks[2,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[2,2],"</h4>"))`` (TL), hvor der står, at:  
+B) `<!--html_preserve--><span id="htmlwidget-5d0363ddad7dd284b7f3" class="tippy html-widget" width="960" height="500"></span>
+<script type="application/json" data-for="htmlwidget-5d0363ddad7dd284b7f3">{"x":{"opts":{"size":"large","interactive":true,"arrow":true},"tooltip":"<h4>Tinglysningsloven indeholder reglerne for den offentlige registrering af rettigheder over fast ejendom<br><a href=\"https://www.retsinformation.dk/Forms/R0710.aspx?id=142900\" style=\"color:#3088fc\" target=\"_blank\">Tinglysningsloven<\/a><\/h4>","text":"Tinglysningsloven"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->` (TL), hvor der står, at:  
 1. Et tinglyst pantebrev, bortset fra et skadesløsbrev, der giver pant i fast ejendom, er negotiabelt, medmindre der i pantebrevet er indføjet ordene »ikke til ordre« eller tilsvarende forbehold, jf. TL § 27, stk. 2.
 2. Et tinglyst pantebrev, herunder et ejerpantebrev, der giver pant i motorkøretøjer er ikke negotiabelt, medmindre dette klart fremgår af pantebrevet, jf. TL § 42 c. Skadesløsbreve er ikke negotiable pantebreve, jf. TL § 42g, stk. 3, 2. og 3. pkt.  
 3. Et tinglyst pantebrev, herunder et ejerpantebrev, der giver pant i andele i andelsboligforeninger som nævnt i TL § 42 i, er ikke negotiabelt, medmindre dette klart fremgår af pantebrevet. Skadesløsbreve er ikke negotiable pantebreve: Se TL § 42m, stk. 2, 2. og 3. pkt.  
@@ -6808,31 +6688,11 @@ Hvad er en fordring?
 
 En fordring er et krav, som en person eller et selskab (kreditor) har mod en anden part (debitor). En fordring består typisk i et pengebeløb, men den kan også bestå i andet. Den kan fx bestå i, at debitor skylder en arbejdsydelse, eller i at der skal leveres en ting. Et gaveløfte betyder, at man skal give den lovede gave, som fx kan være en ting.  
 
-```{r fordring1,echo=FALSE, result=TRUE, fig.cap=("Skyldner, kreditor og senere erhverver eller erhververe")}
-
-
-
-nodes <- data.frame(id = 1:4, 
-                    shape = c("box"), 
-                    level = c(1,2,3,4),
-                    label = c("Debitor\nSkyldner","Kreditor\nOverdrager","Erhverver","Erhverver"),
-                    font.size = c(15,15,15,15))
-edges <- data.frame(from = c(1,2,3), to = c(2,3,4),
-                    arrows = c("to"),
-                    label = c("Kreditor har en fordring på debitor","Kreditor overdrager til erhverver 1","Erhverver 1 overdrager til erhverver 2"),
-                    
-                    shadow = TRUE)
-
-visNetwork(nodes, edges, width = "80%") %>% 
-  visNodes(color = list(background = "white", 
-                        border = "white",
-                        highlight = "yellow"),
-           shadow = list(enabled = TRUE, size = 30))  %>%
-      visHierarchicalLayout(direction = "UD",levelSeparation = 100)  %>%
-      visLayout(randomSeed = 24) %>%
-  visEdges(color = list(color = "lightgrey", highlight = "yellow"))
-
-```
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-60c98b240d561869e201" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-60c98b240d561869e201">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,3,4],"label":["Debitor\nSkyldner","Kreditor\nOverdrager","Erhverver","Erhverver"],"font.size":[15,15,15,15]},"edges":{"from":[1,2,3],"to":[2,3,4],"arrows":["to","to","to"],"label":["Kreditor har en fordring på debitor","Kreditor overdrager til erhverver 1","Erhverver 1 overdrager til erhverver 2"],"shadow":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:fordring1)Skyldner, kreditor og senere erhverver eller erhververe</p>
+</div>
 
 *Bemærk*
 I relation til retsplejelovens regler er en fordring et krav på betaling af en pengeydelse.
@@ -6876,27 +6736,11 @@ Som eksempler på fordringer kan nævnes:
 
 *Lovbekendtgørelse nr. 333 af 31. marts 2014 om gældsbreve*  
 
-```{r fordring2,echo=FALSE, result=TRUE, fig.cap=("Indsigelse over gældsforhold")}
-nodes <- data.frame(id = 1:2, 
-                    shape = c("box"), 
-                    level = c(1,2),
-                    label = c("Debitor\nSkyldner","Kreditor\nSælger"),
-                    font.size = c(15,15))
-edges <- data.frame(from = c(1), to = c(2),
-                    arrows = c("to"),
-                    label = c("Debitor har en indsigelse overfor kreditor"),
-                    
-                    shadow = TRUE)
-
-visNetwork(nodes, edges, width = "80%") %>% 
-  visNodes(color = list(background = "white", 
-                        border = "white",
-                        highlight = "yellow"),
-           shadow = list(enabled = TRUE, size = 30))  %>%
-      visHierarchicalLayout(direction = "UD",levelSeparation = 100)  %>%
-      visLayout(randomSeed = 24) %>%
-  visEdges(color = list(color = "lightgrey", highlight = "yellow"))
-```
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-3e09e4032f9507ec17fb" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-3e09e4032f9507ec17fb">{"x":{"nodes":{"id":[1,2],"shape":["box","box"],"level":[1,2],"label":["Debitor\nSkyldner","Kreditor\nSælger"],"font.size":[15,15]},"edges":{"from":[1],"to":[2],"arrows":["to"],"label":["Debitor har en indsigelse overfor kreditor"],"shadow":[true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:fordring2)Indsigelse over gældsforhold</p>
+</div>
 
 *  Skyldner kan gøre alle indsigelser gældende overfor oprindelig kreditor, jf. GBL § 1. Skyldneren bevarer dermed over for kreditor indsigelser om mangler, manglende levering eller ugyldighed mv. i det retsforhold, som gav anledning til gældsbrevets udstedelse. Skyldneren bevarer også den indsigelse, at han ikke har modtaget det lån, som skulle tilbagebetales med det beløb, som gældsbrevet lyder på.  
 
@@ -6911,31 +6755,11 @@ Det har ikke betydning om kravet er en simpel fordring, et gældsbrev eller et p
  
 ### Forholdet mellem overdrager og erhverver
  
-```{r fordring3,echo=FALSE, result=TRUE, fig.cap=("Kreditor overdrager fordring til erhverver")}
-
-
-
-nodes <- data.frame(id = 1:3, 
-                    shape = c("box"), 
-                    level = c(1,2,2),
-                    label = c("Debitor\nSkyldner","Kreditor\nOverdrager","Erhverver"),
-                    font.size = c(15,15,15))
-edges <- data.frame(from = c(1,2,1), to = c(2,3,3),
-                    arrows = c("to"),
-                    label = c("1. Kreditor har\nen fordring på debitor","2. Kreditor overdrager\ntil erhverver","3. Debitor skal nu\nbetale erhververen"),
-                    length = c(100,300,100),
-                    shadow = TRUE)
-
-visNetwork(nodes, edges, width = "80%") %>% 
-  visNodes(color = list(background = "white", 
-                        border = "white",
-                        highlight = "yellow"),
-           shadow = list(enabled = TRUE, size = 30))  %>%
-      visHierarchicalLayout(direction = "UD",levelSeparation = 100)  %>%
-      visLayout(randomSeed = 24) %>%
-  visEdges(color = list(color = "lightgrey", highlight = "yellow"))
-
-```
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-3302f66ef2ff10d5bc45" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-3302f66ef2ff10d5bc45">{"x":{"nodes":{"id":[1,2,3],"shape":["box","box","box"],"level":[1,2,2],"label":["Debitor\nSkyldner","Kreditor\nOverdrager","Erhverver"],"font.size":[15,15,15]},"edges":{"from":[1,2,1],"to":[2,3,3],"arrows":["to","to","to"],"label":["1. Kreditor har\nen fordring på debitor","2. Kreditor overdrager\ntil erhverver","3. Debitor skal nu\nbetale erhververen"],"length":[100,300,100],"shadow":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:fordring3)Kreditor overdrager fordring til erhverver</p>
+</div>
 
 Juridisk karakteriseret som *”det efterfølgende trepartsforhold”*   
 Hvad er et efterfølgende trepartsforhold?  
@@ -6947,30 +6771,11 @@ Forholdet mellem forbrugeren i et kreditkøb og tredjemanden i det efterfølgend
 *  Fordringer kan overdrages til en anden kreditor (sælges eller pantsættes) som andre aktiver
 *  Fx kan købekontrakt med gyldigt ejendomsforbehold sælges til en anden kreditor (erhverver):
  
-```{r fordring4,echo=FALSE, result=TRUE, fig.cap=("Salg af købekontrakt fx. bilkøb")}
-nodes <- data.frame(id = 1:3, 
-                    shape = c("box"), 
-                    level = c(1,2,2),
-                    label = c("Bilkøber\nDebitor\nSkyldner","Bilsælger\nKreditor\nOverdrager","Finansieringsselskab"),
-                    font.size = c(10,10,10))
-edges <- data.frame(from = c(1,2,1,2,3), to = c(2,3,3,1,2),
-                    arrows = c("to","to","to","to","to"),
-                    font.size = c(10,10,10,10,10),
-                    
-                    label = c("1. Bilsalg på\nkøbekontrakt","2. Bilsælger\nsælger\nkøbekontrakt\ntil finansieringsselskab","3. Debitor skal nu\nbetale\nfinansieringsselskabet","",""),
-                    length = c(300,300,300,300,300),
-                    shadow = TRUE
-              
-                    )
-  visNetwork(nodes, edges, width = "80%") %>% 
-  visNodes(color = list(background = "white", 
-                        border = "white",
-                        highlight = "yellow"),
-           shadow = list(enabled = TRUE, size = 30))  %>%
-      visHierarchicalLayout(direction = "UD",levelSeparation = 100)  %>%
-      visLayout(randomSeed = 24) %>%
-  visEdges(color = list(color = "lightgrey", highlight = "yellow"))
-```
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-ba07b33c4ade6484d21b" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-ba07b33c4ade6484d21b">{"x":{"nodes":{"id":[1,2,3],"shape":["box","box","box"],"level":[1,2,2],"label":["Bilkøber\nDebitor\nSkyldner","Bilsælger\nKreditor\nOverdrager","Finansieringsselskab"],"font.size":[10,10,10]},"edges":{"from":[1,2,1,2,3],"to":[2,3,3,1,2],"arrows":["to","to","to","to","to"],"font.size":[10,10,10,10,10],"label":["1. Bilsalg på\nkøbekontrakt","2. Bilsælger\nsælger\nkøbekontrakt\ntil finansieringsselskab","3. Debitor skal nu\nbetale\nfinansieringsselskabet","",""],"length":[300,300,300,300,300],"shadow":[true,true,true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:fordring4)Salg af købekontrakt fx. bilkøb</p>
+</div>
 
 
 
@@ -7039,30 +6844,11 @@ Læs og hør mere om de enkelte typer af fordringer i kapitel 13.
 *Fakturabelåning er ofte overdragelse af enkelte (større) fordringer til en bank*
 
 
-```{r fordring5,echo=FALSE, result=TRUE, fig.cap=("Fakturabelåning bank får sikkerhed i udestående faktura")}
-nodes <- data.frame(id = 1:3, 
-                    shape = c("box"), 
-                    level = c(1,2,2),
-                    label = c("Rederi\nDebitor\nSkyldner","Skibsværft\nKreditor\nOverdrager","Bank"),
-                    font.size = c(10,10,10))
-edges <- data.frame(from = c(1,2,1,2,3), to = c(2,3,3,1,2),
-                    arrows = c("to","to","to","to","to"),
-                    font.size = c(10,10,10,10,10),
-                    
-                    label = c("1. Skibsværft sælger\nskib og udsteder\nfaktura","2. Skibsværft\noverdrager\nfakturaen\ntil bank","3. Rederiet skal nu\nbetale\nbanken","",""),
-                    length = c(300,300,300,300,300),
-                    shadow = TRUE
-              
-                    )
-  visNetwork(nodes, edges, width = "80%") %>% 
-  visNodes(color = list(background = "white", 
-                        border = "white",
-                        highlight = "yellow"),
-           shadow = list(enabled = TRUE, size = 30))  %>%
-      visHierarchicalLayout(direction = "UD",levelSeparation = 100)  %>%
-      visLayout(randomSeed = 24) %>%
-  visEdges(color = list(color = "lightgrey", highlight = "yellow"))
-```
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-03556280a67ef78ab1f4" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-03556280a67ef78ab1f4">{"x":{"nodes":{"id":[1,2,3],"shape":["box","box","box"],"level":[1,2,2],"label":["Rederi\nDebitor\nSkyldner","Skibsværft\nKreditor\nOverdrager","Bank"],"font.size":[10,10,10]},"edges":{"from":[1,2,1,2,3],"to":[2,3,3,1,2],"arrows":["to","to","to","to","to"],"font.size":[10,10,10,10,10],"label":["1. Skibsværft sælger\nskib og udsteder\nfaktura","2. Skibsværft\noverdrager\nfakturaen\ntil bank","3. Rederiet skal nu\nbetale\nbanken","",""],"length":[300,300,300,300,300],"shadow":[true,true,true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:fordring5)Fakturabelåning bank får sikkerhed i udestående faktura</p>
+</div>
 
 
 * Den korte forklaring: Factoring er typisk overdragelse af alle virksomhedens krav til et finansieringsselskab  
@@ -7070,29 +6856,11 @@ edges <- data.frame(from = c(1,2,1,2,3), to = c(2,3,3,1,2),
 
 
 
-```{r fordring6,echo=FALSE, result=TRUE, fig.cap=("Factoringselskab køber udestående fakturaer")}
-nodes <- data.frame(id = 1:6, 
-                    shape = c("box"), 
-                    level = c(1,1,1,1,2,2),
-                    label = c("Debitor\nkøber varer\naf virksomhed","Debitor\nkøber varer\naf virksomhed","Debitor\nkøber varer\naf virksomhed","Debitor\nkøber varer\naf virksomhed","Virksomhed\nsælger varer","Factoringselskab\nErhverver fordring\nog modtager betaling"),
-                    font.size = c(12))
-edges <- data.frame(from = c(1,2,3,4,5,1,2,3,4), to = c(5,5,5,5,6,6,6,6,6),
-                    arrows = c("from","from","from","from","to","to","to","to","to"),
-                    font.size = c(10,10,10,10,10,10,10,10,10),
-                    label = c("1. Varesalg","1. Varesalg","1. Varesalg","1. Varesalg","2. Overdragelse\naf fordring\nfrigiver livkviditet\ntil virksomheden","\n\n\n      3. Betaling","\n\n\n    3. Betaling","3. Betaling","3. Betaling"),
-                    length = c(100,100,100,100,600,100,100,100,100),
-                    shadow = TRUE
-              
-                    )
-  visNetwork(nodes, edges, width = "80%") %>% 
-  visNodes(color = list(background = "white", 
-                        border = "white",
-                        highlight = "yellow"),
-           shadow = list(enabled = TRUE, size = 30))  %>%
-      visHierarchicalLayout(direction = "UD",levelSeparation = 200)  %>%
-      visLayout(randomSeed = 24) %>%
-  visEdges(color = list(color = "lightgrey", highlight = "yellow"))
-```
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-8a589c7a2dc963740787" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-8a589c7a2dc963740787">{"x":{"nodes":{"id":[1,2,3,4,5,6],"shape":["box","box","box","box","box","box"],"level":[1,1,1,1,2,2],"label":["Debitor\nkøber varer\naf virksomhed","Debitor\nkøber varer\naf virksomhed","Debitor\nkøber varer\naf virksomhed","Debitor\nkøber varer\naf virksomhed","Virksomhed\nsælger varer","Factoringselskab\nErhverver fordring\nog modtager betaling"],"font.size":[12,12,12,12,12,12]},"edges":{"from":[1,2,3,4,5,1,2,3,4],"to":[5,5,5,5,6,6,6,6,6],"arrows":["from","from","from","from","to","to","to","to","to"],"font.size":[10,10,10,10,10,10,10,10,10],"label":["1. Varesalg","1. Varesalg","1. Varesalg","1. Varesalg","2. Overdragelse\naf fordring\nfrigiver livkviditet\ntil virksomheden","\n\n\n      3. Betaling","\n\n\n    3. Betaling","3. Betaling","3. Betaling"],"length":[100,100,100,100,600,100,100,100,100],"shadow":[true,true,true,true,true,true,true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":200,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:fordring6)Factoringselskab køber udestående fakturaer</p>
+</div>
 
 
  
@@ -7110,29 +6878,11 @@ edges <- data.frame(from = c(1,2,3,4,5,1,2,3,4), to = c(5,5,5,5,6,6,6,6,6),
 *  Overdrager og erhverver skal denuntiere (give meddelelse) til skyldner, GBL § 31
 *  Betaling til erhverver er med frigørende virkning medmindre der er en stærk ugyldighedsgrund mellem overdrager og erhverver, jf. GBL § 30 (se figur \@ref(fig:fordring7))
 
-```{r fordring7,echo=FALSE, result=TRUE, fig.cap=("Stærk ugyldighedsgrund")}
-nodes <- data.frame(id = 1:3, 
-                    shape = c("box"), 
-                    level = c(1,2,2),
-                    label = c("Debitor\nSkyldner","Kreditor\nOverdrager","Erhverver\nny kreditor"),
-                    font.size = c(10,10,10))
-edges <- data.frame(from = c(1,2), to = c(2,3),
-                    arrows = c("to","to"),
-                    font.size = c(10,10),
-                    label = c("Kreditor har\nfortsat krav","Stærk ugyldighedsgrund\nOverdrager har fortsat krav\nmod skyldner"),
-                    length = c(300,300),
-                    shadow = TRUE
-              
-                    )
-  visNetwork(nodes, edges, width = "80%") %>% 
-  visNodes(color = list(background = "white", 
-                        border = "white",
-                        highlight = "yellow"),
-           shadow = list(enabled = TRUE, size = 30))  %>%
-      visHierarchicalLayout(direction = "UD",levelSeparation = 100)  %>%
-      visLayout(randomSeed = 24) %>%
-  visEdges(color = list(color = "lightgrey", highlight = "yellow"))
-```
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-5db8d9fe14af6004b2e2" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-5db8d9fe14af6004b2e2">{"x":{"nodes":{"id":[1,2,3],"shape":["box","box","box"],"level":[1,2,2],"label":["Debitor\nSkyldner","Kreditor\nOverdrager","Erhverver\nny kreditor"],"font.size":[10,10,10]},"edges":{"from":[1,2],"to":[2,3],"arrows":["to","to"],"font.size":[10,10],"label":["Kreditor har\nfortsat krav","Stærk ugyldighedsgrund\nOverdrager har fortsat krav\nmod skyldner"],"length":[300,300],"shadow":[true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:fordring7)Stærk ugyldighedsgrund</p>
+</div>
 
 *  Gælder både ordinære og ekstraordinære afdrag
 *  Hvis skyldneren ikke ved, til hvem fordringen er overdraget eller ikke har modtaget betryggende meddelelse herom, men han dog ikke kan betale til den tidligere kreditor, kan han frigøre sig ved at deponere efter Lovbekendtgørelse nr. 339 af 2. februar 2014 om skyldneres ret til at frigøre sig ved deponering (deponeringsloven)
@@ -7147,29 +6897,11 @@ Hvad sker der med skyldners indsigelser, når kreditor har overdraget fordringen
 *  Erhververen får som hovedregel ikke større ret end overdrageren havde, dvs. der indtræder ikke ekstinktion (udslettelse) af indsigelser eller rettigheder
 *  Skyldner kan gøre samme indsigelser gældende overfor erhverver, som han eller hun kunne gøre gældende over for kreditor (overdrageren), jf. GBL § 27 (se figur \@ref(fig:fordring8))
 
-```{r fordring8,echo=FALSE, result=TRUE, fig.cap=("Hvem er skyldner i konflikt med? Hvilken §?")}
-nodes <- data.frame(id = 1:4, 
-                    shape = c("box"), 
-                    level = c(1,2,2,2),
-                    label = c("Debitor\nSkyldner","Kreditor\nOverdrager","Erhverver 1","Erhverver 2"),
-                    font.size = c(10,10,10,10))
-edges <- data.frame(from = c(1,2,3,1,1), to = c(2,3,4,3,4),
-                    arrows = c("to","to","to","to","to"),
-                    font.size = c(12,12,12,12,12),
-                    label = c("GBL §1","Fordring\noverdrages","Fordring\noverdrages","GBL §27","GBL §27"),
-                    length = c(200,100,100,200,200),
-                    shadow = TRUE
-              
-                    )
-  visNetwork(nodes, edges, width = "80%") %>% 
-  visNodes(color = list(background = "white", 
-                        border = "white",
-                        highlight = "yellow"),
-           shadow = list(enabled = TRUE, size = 30))  %>%
-      visHierarchicalLayout(direction = "UD",levelSeparation = 100)  %>%
-      visLayout(randomSeed = 24) %>%
-  visEdges(color = list(color = "lightgrey", highlight = "yellow"))
-```
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-a7f6dfd2166a3677adb5" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-a7f6dfd2166a3677adb5">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,2,2],"label":["Debitor\nSkyldner","Kreditor\nOverdrager","Erhverver 1","Erhverver 2"],"font.size":[10,10,10,10]},"edges":{"from":[1,2,3,1,1],"to":[2,3,4,3,4],"arrows":["to","to","to","to","to"],"font.size":[12,12,12,12,12],"label":["GBL §1","Fordring\noverdrages","Fordring\noverdrages","GBL §27","GBL §27"],"length":[200,100,100,200,200],"shadow":[true,true,true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:fordring8)Hvem er skyldner i konflikt med? Hvilken §?</p>
+</div>
 
 
 *  Grundlæggende er formålet med reglerne om overdragelse af simple fordringer at undgå, at skylderens byrde øges ved overdragelse. Dette har særligt fundet udtryk i GBL § 27, hvorefter skyldnerens indsigelser mod at være helt eller delvis forpligtet over for kreditor, også kan gøres gældende over for en senere erhverver af fordringen
@@ -7187,29 +6919,11 @@ edges <- data.frame(from = c(1,2,3,1,1), to = c(2,3,4,3,4),
 
 
 
-```{r fordring9,echo=FALSE, result=TRUE, fig.cap=("Kædeoverdragelse erhverver ikke bedre ret end overdrager")}
-nodes <- data.frame(id = 1:4, 
-                    shape = c("box"), 
-                    level = c(1,2,2,2),
-                    label = c("Debitor\nSkyldner","Kreditor\nOverdrager","Erhverver\nny kreditor","Erhverver\nseneste kreditor"),
-                    font.size = c(10,10,10,10))
-edges <- data.frame(from = c(1,2,3), to = c(2,3,4),
-                    arrows = c("to","to","to"),
-                    font.size = c(10,10,10),
-                    label = c("","GBL §27","GBL §27"),
-                    length = c(100,200,200),
-                    shadow = TRUE
-              
-                    )
-  visNetwork(nodes, edges, width = "80%") %>% 
-  visNodes(color = list(background = "white", 
-                        border = "white",
-                        highlight = "yellow"),
-           shadow = list(enabled = TRUE, size = 30))  %>%
-      visHierarchicalLayout(direction = "UD",levelSeparation = 100)  %>%
-      visLayout(randomSeed = 24) %>%
-  visEdges(color = list(color = "lightgrey", highlight = "yellow"))
-```
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-39b7c77959b6a1eaa656" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-39b7c77959b6a1eaa656">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,2,2],"label":["Debitor\nSkyldner","Kreditor\nOverdrager","Erhverver\nny kreditor","Erhverver\nseneste kreditor"],"font.size":[10,10,10,10]},"edges":{"from":[1,2,3],"to":[2,3,4],"arrows":["to","to","to"],"font.size":[10,10,10],"label":["","GBL §27","GBL §27"],"length":[100,200,200],"shadow":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:fordring9)Kædeoverdragelse erhverver ikke bedre ret end overdrager</p>
+</div>
 
  
 **Dobbeltoverdragelse**
@@ -7226,29 +6940,11 @@ edges <- data.frame(from = c(1,2,3), to = c(2,3,4),
 
 I tilfælde af at en fordring bliver overdraget flere gange, er den erhverver, der først meddeler fordringsskyldneren om overdragelsen af fordringen, sikret retten til fordringen. Det er under forudsætning af, at han var i god tro om, at der ikke var andre rettighedshavere ved underretningen til fordringsskyldneren, jf. GBL § 31, stk. 2. Dette gælder, selvom han først fik overdraget fordringen efter, at en anden havde erhvervet fordringen (se figur \@ref(fig:fordring10)).  
 
-```{r fordring10,echo=FALSE, result=TRUE, fig.cap=("Dobbeltoverdragelse af fordring")}
-nodes <- data.frame(id = 1:4, 
-                    shape = c("box"), 
-                    level = c(1,2,3,3),
-                    label = c("Debitor\nSkyldner","Kreditor\nOverdrager\ndobbeltoverdrager","Erhverver\nkreditor","Erhverver\nkreditor"),
-                    font.size = c(10,10,10,10))
-edges <- data.frame(from = c(1,2,2), to = c(2,3,4),
-                    arrows = c("to","to","to"),
-                    font.size = c(10,10,10),
-                    label = c("","GBL §31","GBL §31"),
-                    length = c(100,100,100),
-                    shadow = TRUE
-              
-                    )
-  visNetwork(nodes, edges, width = "80%") %>% 
-  visNodes(color = list(background = "white", 
-                        border = "white",
-                        highlight = "yellow"),
-           shadow = list(enabled = TRUE, size = 30))  %>%
-      visHierarchicalLayout(direction = "UD",levelSeparation = 100)  %>%
-      visLayout(randomSeed = 24) %>%
-  visEdges(color = list(color = "lightgrey", highlight = "yellow"))
-```
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-872af3689fa1c83bba34" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-872af3689fa1c83bba34">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,3,3],"label":["Debitor\nSkyldner","Kreditor\nOverdrager\ndobbeltoverdrager","Erhverver\nkreditor","Erhverver\nkreditor"],"font.size":[10,10,10,10]},"edges":{"from":[1,2,2],"to":[2,3,4],"arrows":["to","to","to"],"font.size":[10,10,10],"label":["","GBL §31","GBL §31"],"length":[100,100,100],"shadow":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:fordring10)Dobbeltoverdragelse af fordring</p>
+</div>
 
 
 
@@ -7311,29 +7007,11 @@ Gældsbrevsdebitor bliver ved betaling til udlægshaver frigjort under samme bet
   +	Den gode tro er tilstede på det tidspunkt gældsbrevet bliver overdraget fysisk
 * Skyldner bevarer stærke indsigelser også overfor en erhverver i god tro, jf. GBL § 17
 
-```{r fordring11,echo=FALSE, result=TRUE, fig.cap=("Skyldners indsigelser")}
-nodes <- data.frame(id = 1:4, 
-                    shape = c("box"), 
-                    level = c(1,2,2,2),
-                    label = c("Debitor\nSkyldner","Kreditor\nOverdrager","1. Erhverver\n kreditor","2. Erhverver\nseneste kreditor"),
-                    font.size = c(10,10,10,10))
-edges <- data.frame(from = c(1,2,2,1,1), to = c(2,3,4,3,4),
-                    arrows = c("to","to","to","to","to"),
-                    font.size = c(10,10,10,10,10),
-                    label = c("GBL §1","","","GBL §15-17","GBL §15-17"),
-                    length = c(100,100,100,100,100),
-                    shadow = TRUE
-              
-                    )
-  visNetwork(nodes, edges, width = "80%") %>% 
-  visNodes(color = list(background = "white", 
-                        border = "white",
-                        highlight = "yellow"),
-           shadow = list(enabled = TRUE, size = 30))  %>%
-      visHierarchicalLayout(direction = "UD",levelSeparation = 100)  %>%
-      visLayout(randomSeed = 24) %>%
-  visEdges(color = list(color = "lightgrey", highlight = "yellow"))
-```
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-f34310bfd5ae557e3e7f" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-f34310bfd5ae557e3e7f">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,2,2],"label":["Debitor\nSkyldner","Kreditor\nOverdrager","1. Erhverver\n kreditor","2. Erhverver\nseneste kreditor"],"font.size":[10,10,10,10]},"edges":{"from":[1,2,2,1,1],"to":[2,3,4,3,4],"arrows":["to","to","to","to","to"],"font.size":[10,10,10,10,10],"label":["GBL §1","","","GBL §15-17","GBL §15-17"],"length":[100,100,100,100,100],"shadow":[true,true,true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:fordring11)Skyldners indsigelser</p>
+</div>
  
  
 ### Konflikt mellem senere erhververe
@@ -7344,29 +7022,11 @@ En aftaleerhverver (ikke retsforfølgende kreditor) kan fortrænge en tidligere 
   +	Har fået gældsbrevet udleveret
   +	Har en berettiget forventning om at overdragelsen er gyldig
 
-```{r fordring12,echo=FALSE, result=TRUE, fig.cap=("Skyldners indsigelser")}
-nodes <- data.frame(id = 1:4, 
-                    shape = c("box"), 
-                    level = c(1,2,2,2),
-                    label = c("Debitor\nSkyldner","Kreditor\nOverdrager","1. Erhverver\n kreditor","2. Erhverver\nseneste kreditor"),
-                    font.size = c(10,10,10,10))
-edges <- data.frame(from = c(1,2,3), to = c(2,3,4),
-                    arrows = c("to","to","to"),
-                    font.size = c(10,10,10),
-                    label = c("","GBL §14","GBL §14"),
-                    length = c(100,200,200),
-                    shadow = TRUE
-              
-                    )
-  visNetwork(nodes, edges, width = "80%") %>% 
-  visNodes(color = list(background = "white", 
-                        border = "white",
-                        highlight = "yellow"),
-           shadow = list(enabled = TRUE, size = 30))  %>%
-      visHierarchicalLayout(direction = "UD",levelSeparation = 100)  %>%
-      visLayout(randomSeed = 24) %>%
-  visEdges(color = list(color = "lightgrey", highlight = "yellow"))
-```
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-ca4fdec2578f26ecc978" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-ca4fdec2578f26ecc978">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,2,2],"label":["Debitor\nSkyldner","Kreditor\nOverdrager","1. Erhverver\n kreditor","2. Erhverver\nseneste kreditor"],"font.size":[10,10,10,10]},"edges":{"from":[1,2,3],"to":[2,3,4],"arrows":["to","to","to"],"font.size":[10,10,10],"label":["","GBL §14","GBL §14"],"length":[100,200,200],"shadow":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:fordring12)Skyldners indsigelser</p>
+</div>
 
 En aftaleerhververs ret til et omsætningsgældsbrev kan således ikke anfægtes af andre, hvis aftaleerhververen har fået gældsbrevet i hænde og er i god tro om overdragerens ret, jf. her GBL § 14.
 Sikringsakten over for aftaleerhververe er derfor rådighedsberøvelse, hvad angår disse gældsbreve. Det vil sige, at man ved udlæg i disse omsætningsgældsbreve efter RPL § 523, stk. 2, altid skal tage gældsbrevet i forvaring.
@@ -7389,29 +7049,11 @@ Et udlæg i fordringer, herunder omsætningsgældsbreve, er beskyttet over for a
   + U2: Et udlæg i gældsbrevet er beskyttet mod andre kreditorer fra udlægget er foretaget.    
 
 
-```{r fordring13,echo=FALSE, result=TRUE, fig.cap=("Dobbeltoverdragelse salg")}
-nodes <- data.frame(id = 1:4, 
-                    shape = c("box"), 
-                    level = c(1,2,3,3),
-                    label = c("Debitor\nSkyldner","Overdrager","1. kreditor","2. Kreditor"),
-                    font.size = c(10,10,10,10))
-edges <- data.frame(from = c(1,2,2), to = c(2,3,4),
-                    arrows = c("to","to","to"),
-                    font.size = c(10,10,10),
-                    label = c("","HR Først\ni tid bedst i ret","Senere kreditor"),
-                    length = c(100,100,100),
-                    shadow = TRUE
-              
-                    )
-  visNetwork(nodes, edges, width = "80%") %>% 
-  visNodes(color = list(background = "white", 
-                        border = "white",
-                        highlight = "yellow"),
-           shadow = list(enabled = TRUE, size = 30))  %>%
-      visHierarchicalLayout(direction = "UD",levelSeparation = 100)  %>%
-      visLayout(randomSeed = 24) %>%
-  visEdges(color = list(color = "lightgrey", highlight = "yellow"))
-```
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-93615d822d19c5bb773b" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-93615d822d19c5bb773b">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,3,3],"label":["Debitor\nSkyldner","Overdrager","1. kreditor","2. Kreditor"],"font.size":[10,10,10,10]},"edges":{"from":[1,2,2],"to":[2,3,4],"arrows":["to","to","to"],"font.size":[10,10,10],"label":["","HR Først\ni tid bedst i ret","Senere kreditor"],"length":[100,100,100],"shadow":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:fordring13)Dobbeltoverdragelse salg</p>
+</div>
 
 
 En lidt længere forklaring om GBL § 14:   
@@ -7440,29 +7082,11 @@ Bestemmelsen kan medføre ekstinktion af enhver ret over et omsætningsgældsbre
 Selv om GBL § 14's betingelser ikke er opfyldt, må man være opmærksom på, at erhververen altid får den ret, som overdrageren havde, og som han naturligvis kan videregive.  
 
  
-```{r fordring14,echo=FALSE, result=TRUE, fig.cap=("Dobbeltoverdragelse pant")}
-nodes <- data.frame(id = 1:4, 
-                    shape = c("box"), 
-                    level = c(1,2,3,3),
-                    label = c("Debitor\nSkyldner","Overdrager\nPantsætter","Panthaver","Kreditor"),
-                    font.size = c(10,10,10,10))
-edges <- data.frame(from = c(1,2,2), to = c(2,3,4),
-                    arrows = c("to","to","to"),
-                    font.size = c(10,10,10),
-                    label = c("","Panthavers beskyttelse mod\npansætters kreditorer er\nreguleret i GBL §22","GBL §22"),
-                    length = c(100,100,100),
-                    shadow = TRUE
-              
-                    )
-  visNetwork(nodes, edges, width = "80%") %>% 
-  visNodes(color = list(background = "white", 
-                        border = "white",
-                        highlight = "yellow"),
-           shadow = list(enabled = TRUE, size = 30))  %>%
-      visHierarchicalLayout(direction = "UD",levelSeparation = 100)  %>%
-      visLayout(randomSeed = 24) %>%
-  visEdges(color = list(color = "lightgrey", highlight = "yellow"))
-```
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-09ddc438f24660a9b79f" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-09ddc438f24660a9b79f">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,3,3],"label":["Debitor\nSkyldner","Overdrager\nPantsætter","Panthaver","Kreditor"],"font.size":[10,10,10,10]},"edges":{"from":[1,2,2],"to":[2,3,4],"arrows":["to","to","to"],"font.size":[10,10,10],"label":["","Panthavers beskyttelse mod\npansætters kreditorer er\nreguleret i GBL §22","GBL §22"],"length":[100,100,100],"shadow":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:fordring14)Dobbeltoverdragelse pant</p>
+</div>
 
 
 
@@ -7504,57 +7128,21 @@ medmindre de efter deres indhold er gjort negotiable, jf. tinglysningslovens §�
   +	Som et simpelt gældsbrev, jf. GBL § 26, stk. 2
   +	Erhverver ikke bedre ret end overdrager, jf. GBL § 27
 
-```{r fordring15,echo=FALSE, result=TRUE, fig.cap=("Senere erhververe konflikt")}
-nodes <- data.frame(id = 1:4, 
-                    shape = c("box"), 
-                    level = c(1,2,2,2),
-                    label = c("Skyldner","Overdrager","Erhverver 1","Erhverver 2"),
-                    font.size = c(10,10,10,10))
-edges <- data.frame(from = c(1,2,3), to = c(2,3,4),
-                    arrows = c("to","to","to"),
-                    font.size = c(10,10,10),
-                    label = c("","Overdragers indsigelse\noverfor Erhverver 2\nreguleres af GBL §27","Overdragers indsigelse\noverfor Erhverver 2\nreguleres af GBL §27"),
-                    length = c(100,200,200),
-                    shadow = TRUE
-              
-                    )
-  visNetwork(nodes, edges, width = "80%") %>% 
-  visNodes(color = list(background = "white", 
-                        border = "white",
-                        highlight = "yellow"),
-           shadow = list(enabled = TRUE, size = 30))  %>%
-      visHierarchicalLayout(direction = "UD",levelSeparation = 100)  %>%
-      visLayout(randomSeed = 24) %>%
-  visEdges(color = list(color = "lightgrey", highlight = "yellow"))
-```
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-f83189ce27a117f8ef35" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-f83189ce27a117f8ef35">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,2,2],"label":["Skyldner","Overdrager","Erhverver 1","Erhverver 2"],"font.size":[10,10,10,10]},"edges":{"from":[1,2,3],"to":[2,3,4],"arrows":["to","to","to"],"font.size":[10,10,10],"label":["","Overdragers indsigelse\noverfor Erhverver 2\nreguleres af GBL §27","Overdragers indsigelse\noverfor Erhverver 2\nreguleres af GBL §27"],"length":[100,200,200],"shadow":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:fordring15)Senere erhververe konflikt</p>
+</div>
 
 
 
 *  Dobbeltoverdragelse (se figur \@ref(fig:fordring16))
 
-```{r fordring16,echo=FALSE, result=TRUE, fig.cap=("Dobbeltoverdragelse pant")}
-nodes <- data.frame(id = 1:4, 
-                    shape = c("box"), 
-                    level = c(1,2,3,3),
-                    label = c("Debitor\nSkyldner","Overdrager\nPantsætter","1. Rettighedshaver","2. Rettighedshaver"),
-                    font.size = c(10,10,10,10))
-edges <- data.frame(from = c(1,2,2), to = c(2,3,4),
-                    arrows = c("to","to","to"),
-                    font.size = c(10,10,10),
-                    label = c("","Panthaver skal tinglyse\nsin ret for at sikre sig mod\ndobbeltoverdragelse jvf. TL §1",""),
-                    length = c(100,100,100),
-                    shadow = TRUE
-              
-                    )
-  visNetwork(nodes, edges, width = "80%") %>% 
-  visNodes(color = list(background = "white", 
-                        border = "white",
-                        highlight = "yellow"),
-           shadow = list(enabled = TRUE, size = 30))  %>%
-      visHierarchicalLayout(direction = "UD",levelSeparation = 100)  %>%
-      visLayout(randomSeed = 24) %>%
-  visEdges(color = list(color = "lightgrey", highlight = "yellow"))
-```
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-923ccb6deada06022493" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-923ccb6deada06022493">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,3,3],"label":["Debitor\nSkyldner","Overdrager\nPantsætter","1. Rettighedshaver","2. Rettighedshaver"],"font.size":[10,10,10,10]},"edges":{"from":[1,2,2],"to":[2,3,4],"arrows":["to","to","to"],"font.size":[10,10,10],"label":["","Panthaver skal tinglyse\nsin ret for at sikre sig mod\ndobbeltoverdragelse jvf. TL §1",""],"length":[100,100,100],"shadow":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:fordring16)Dobbeltoverdragelse pant</p>
+</div>
 
 
 * **HR:** Først i tid bedst i ret  
@@ -7623,29 +7211,11 @@ Hvis der foretages udlæg i et papirbaseret pantebrev, skal fogeden tage dette m
 *  Som ved omsætningsgældsbrev, jf. TL § 27b
 *  Kædeoverdragelse (se figur \@ref(fig:fordring17))
 
-```{r fordring17,echo=FALSE, result=TRUE, fig.cap=("Konflikt mellem skyldner og senere erhververe reguleres af TL §27b")}
-nodes <- data.frame(id = 1:4, 
-                    shape = c("box"), 
-                    level = c(1,2,2,2),
-                    label = c("Debitor\nSkyldner","Overdrager","1. Erhverver\nny kreditor","2. Erhverver\nseneste kreditor"),
-                    font.size = c(10,10,10,10))
-edges <- data.frame(from = c(1,2,3), to = c(2,3,4),
-                    arrows = c("to","to","to"),
-                    font.size = c(10,10,10),
-                    label = c("","TL §27b","TL §27b"),
-                    length = c(100,200,200),
-                    shadow = TRUE
-              
-                    )
-  visNetwork(nodes, edges, width = "80%") %>% 
-  visNodes(color = list(background = "white", 
-                        border = "white",
-                        highlight = "yellow"),
-           shadow = list(enabled = TRUE, size = 30))  %>%
-      visHierarchicalLayout(direction = "UD",levelSeparation = 100)  %>%
-      visLayout(randomSeed = 24) %>%
-  visEdges(color = list(color = "lightgrey", highlight = "yellow"))
-```
+<div class="figure">
+<!--html_preserve--><div id="htmlwidget-0c55e51f5ad9ef6d394b" style="width:80%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-0c55e51f5ad9ef6d394b">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,2,2],"label":["Debitor\nSkyldner","Overdrager","1. Erhverver\nny kreditor","2. Erhverver\nseneste kreditor"],"font.size":[10,10,10,10]},"edges":{"from":[1,2,3],"to":[2,3,4],"arrows":["to","to","to"],"font.size":[10,10,10],"label":["","TL §27b","TL §27b"],"length":[100,200,200],"shadow":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"80%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<p class="caption">(\#fig:fordring17)Konflikt mellem skyldner og senere erhververe reguleres af TL §27b</p>
+</div>
 
 En aftaleerhverver (ikke kreditor) kan fortrænge en tidligere indsigelse hvis:
 
@@ -7794,39 +7364,39 @@ Alle fristerne i forældelsesloven skal som hovedregel regnes fra det tidligste 
 Forældelsesfrister (se tabel \@ref(tab:ophør1))
 
 
-```{r ophør1, echo=FALSE}
-mydf <- data.frame(
-  S1 = c("Forældelse 3 år HR alle krav fx." ,
-         "Mangler fast ejendom", 
-          "Renter", 
-          "Rykkergebyrer", 
-          "Overtræk kontokort",
-         "Rådgiveransvar",
-         ""
-),
-  S2 = c("Forældelse 10 år, når der er en undtagelse fx." ,
-  "Gældsbrev",
-"Frivilligt forlig",
-"Dom",
-"Pengelån",
-"Ubevilliget overtræk Bank",
-"Kassekredit indenfor maksimum"
-)
-)
-names(mydf) <- NULL
-mydf %>%
-  kable("html", escape = FALSE, caption = "Forældelse 3 og 10 år") %>%
-  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
-  column_spec(1, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  # column_spec(3, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  row_spec(1,italic = T,bold = T,font_size = 12,color = "white", background = "darkgrey") #%>%
-  # row_spec(1,italic = T,bold = T,font_size = 12)
-  # column_spec(0, angle = -45)%>%
-  # scroll_box(width = "500px") %>%
-  # footnote(general = "Forsikringsankenævnets klageguide",general_title = "Kilde:")%>%
-# footnote(number = "Hvis skadevolder er under 14 år eller er utilregnelig, kan der dog være dækning selv om handlingen er forvoldt forsætligt")
-```
+<table class="table table-responsive table-bordered table-striped" style="font-size: 10px; margin-left: auto; margin-right: auto;">
+<caption style="font-size: initial !important;">(\#tab:ophør1)Forældelse 3 og 10 år</caption>
+<tbody>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Forældelse 3 år HR alle krav fx. </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Forældelse 10 år, når der er en undtagelse fx. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Mangler fast ejendom </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Gældsbrev </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Renter </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Frivilligt forlig </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Rykkergebyrer </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Dom </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Overtræk kontokort </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Pengelån </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Rådgiveransvar </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Ubevilliget overtræk Bank </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;">  </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Kassekredit indenfor maksimum </td>
+  </tr>
+</tbody>
+</table>
 
 
 
@@ -7949,48 +7519,42 @@ om skyldneres ret til at frigøre sig ved deponering). Loven vedrører en debito
 * Panthaver kan tvangssælge aktivet på tvangsauktion
 * Er der flere panthaver i samme aktiv opstår en prioritetsstilling:
 
-```{r pant1, echo=FALSE}
-mydf <- data.frame(
-  S1 = c("Prioritetsstilling" ,
-         "1", 
-          "2", 
-          "3", 
-          "4"
-),
-  S0 = c("Type af\nhæftelse" ,
-         "Realkreditlån", 
-          "Pantebrev", 
-          "Pantebrev", 
-          "Pantebrev"
-),
-  S1 = c("Beløb" ,
-         "3.000.000 DKK", 
-          "172.000 DKK", 
-          "150.000 DKK", 
-          "170.000 DKK"
-),
-  S2 = c("Tinglysningsdato" ,
-         "23. august 2016", 
-          "16 juli 2017", 
-          "2. maj 2018", 
-          "27. maj 2019"
-)
-)
-names(mydf) <- NULL
-mydf %>%
-  kable("html", escape = FALSE, caption = "Eksempel på prioritetsstilling for en ejendom") %>%
-  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
-  column_spec(1:4, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  # column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  # # column_spec(3, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  row_spec(1,italic = T,bold = T,font_size = 12,color = "white", background = "darkgrey") %>%
-scroll_box(width = "100%")
-  # row_spec(1,italic = T,bold = T,font_size = 12)
-  # column_spec(0, angle = -45)%>%
-  # scroll_box(width = "500px") %>%
-  # footnote(general = "Forsikringsankenævnets klageguide",general_title = "Kilde:")%>%
-# footnote(number = "Hvis skadevolder er under 14 år eller er utilregnelig, kan der dog være dækning selv om handlingen er forvoldt forsætligt")
-```
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; "><table class="table table-responsive table-bordered table-striped" style="font-size: 10px; margin-left: auto; margin-right: auto;">
+<caption style="font-size: initial !important;">(\#tab:pant1)Eksempel på prioritetsstilling for en ejendom</caption>
+<tbody>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Prioritetsstilling </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Type af
+hæftelse </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Beløb </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Tinglysningsdato </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> 1 </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Realkreditlån </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> 3.000.000 DKK </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> 23. august 2016 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> 2 </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Pantebrev </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> 172.000 DKK </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> 16 juli 2017 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> 3 </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Pantebrev </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> 150.000 DKK </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> 2. maj 2018 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> 4 </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Pantebrev </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> 170.000 DKK </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> 27. maj 2019 </td>
+  </tr>
+</tbody>
+</table></div>
 
 
 
@@ -8093,78 +7657,80 @@ Vores hotline kan være behjælpelig, hvis man har tekniske problemer. Tinglysni
    + Ingenting
 
 
-```{r pant2, echo=FALSE}
-mydf <- data.frame(
-  S1 = c("Aktivtype" ,
-         "Fast ejendom", 
-          "Biler", 
-          "Løsøre", 
-          "Simple fordringer",
-         "Negotiable gældsbreve", 
-          "Digitale pantebreve", 
-          "Værdipapirer"
-),
-  S2 = c("Ejendomsret" ,
-         "Tinglysning i\ntingbogen", 
-          "Ingen", 
-          "Ingen", 
-          "Denunciation til debitorer",
-         "Rådighedsberøvelse", 
-          "Tinglysning", 
-          "Registrering hos værdipapircentralen, VP securities"
-),
-  S3 = c("Underpant" ,
-          "Tinglysning i\ntingbogen", 
-          "Ingen", 
-          "Ingen", 
-          "Denunciation til debitorer",
-         "", 
-          "Tinglysning", 
-          "Registrering hos værdipapircentralen, VP securities"
-),
-  S4 = c("Udlæg" ,
-         "", 
-          "Tinglysning\nbilbogen\nrådighedsberøvelse", 
-          "Intet", 
-          "Intet",
-         "Rådighedsberøvelse", 
-          "Tinglysning", 
-          "Registrering hos værdipapircentralen, VP securities"
-),
-  S5 = c("Ejendomsforbehold" ,
-         "", 
-          "Tinglysning\nbilbogen", 
-          "Intet", 
-          "",
-         "", 
-          "", 
-          ""
-),
-  S6 = c("Håndpant" ,
-         "", 
-          "", 
-          "Rådighedsberøvelse", 
-          "",
-         "Rådighedsberøvelse", 
-          "", 
-          ""
-)
-)
-names(mydf) <- NULL
-mydf %>%
-  kable("html", escape = FALSE, caption = "Sikringsakter for aktiver") %>%
-  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
-  column_spec(1:6, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  # column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  # # column_spec(3, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  row_spec(1,italic = T,bold = T,font_size = 12,color = "white", background = "darkgrey") %>%
-scroll_box(width = "100%")
-  # row_spec(1,italic = T,bold = T,font_size = 12)
-  # column_spec(0, angle = -45)%>%
-  # scroll_box(width = "500px") %>%
-  # footnote(general = "Forsikringsankenævnets klageguide",general_title = "Kilde:")%>%
-# footnote(number = "Hvis skadevolder er under 14 år eller er utilregnelig, kan der dog være dækning selv om handlingen er forvoldt forsætligt")
-```
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; "><table class="table table-responsive table-bordered table-striped" style="font-size: 10px; margin-left: auto; margin-right: auto;">
+<caption style="font-size: initial !important;">(\#tab:pant2)Sikringsakter for aktiver</caption>
+<tbody>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Aktivtype </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Ejendomsret </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Underpant </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Udlæg </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Ejendomsforbehold </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Håndpant </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Fast ejendom </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Tinglysning i
+tingbogen </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Tinglysning i
+tingbogen </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;">  </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;">  </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Biler </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Ingen </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Ingen </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Tinglysning
+bilbogen
+rådighedsberøvelse </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Tinglysning
+bilbogen </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Løsøre </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Ingen </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Ingen </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Intet </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Intet </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Rådighedsberøvelse </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Simple fordringer </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Denunciation til debitorer </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Denunciation til debitorer </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Intet </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;">  </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Negotiable gældsbreve </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Rådighedsberøvelse </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;">  </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Rådighedsberøvelse </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;">  </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Rådighedsberøvelse </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Digitale pantebreve </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Tinglysning </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Tinglysning </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Tinglysning </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;">  </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Værdipapirer </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Registrering hos værdipapircentralen, VP securities </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Registrering hos værdipapircentralen, VP securities </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Registrering hos værdipapircentralen, VP securities </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;">  </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;">  </td>
+  </tr>
+</tbody>
+</table></div>
 
  
 Formålet med sikringsakten er:  
@@ -8191,44 +7757,47 @@ Aktivtyper:
 * Fly og skibe
  
 
-```{r pant3, echo=FALSE}
-mydf <- data.frame(
-  S1 = c("Aktivtype" ,
-         "Fast ejendom samt tilbehør", 
-          "Andelslejlighed", 
-          "Biler", 
-          "Løsøre herunder virksomhedspant og fordringspant, erhvervsfartøjer under 5 bruttoton, fritidsskibe under 20 bruttoton",
-         "Børsnoterede værdipapirer også kaldet fondsaktiver", 
-          "Aktier og anparter ikke børsnoterede", 
-          "Fly",
-         "Erhvervsfartøjer over 5 bruttoton, fritidsskibe over 20 bruttoton"
-         
-),
-  S2 = c("Lov" ,
-         "Tinglysningsloven afsnit 1, kapitel 1-6", 
-          "Tinglysningsloven kapitel 6b", 
-          "Tinglysningsloven kapitel 6a", 
-          "Tinglysningsloven kapitel 7",
-         "Kapitalmarkedsloven", 
-          "Selskabsloven", 
-          "Lov om registrering af rettigheder over luftfartøjer",
-         "Søloven"
-)
-)
-names(mydf) <- NULL
-mydf %>%
-  kable("html", escape = FALSE, caption = "Hvilken lov regulerer  sikkerhed for aktiver") %>%
-  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
-  column_spec(1:2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  # column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  # # column_spec(3, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  row_spec(1,italic = T,bold = T,font_size = 12,color = "white", background = "darkgrey") #%>%
-  # row_spec(1,italic = T,bold = T,font_size = 12)
-  # column_spec(0, angle = -45)%>%
-  # scroll_box(width = "500px") %>%
-  # footnote(general = "Forsikringsankenævnets klageguide",general_title = "Kilde:")%>%
-# footnote(number = "Hvis skadevolder er under 14 år eller er utilregnelig, kan der dog være dækning selv om handlingen er forvoldt forsætligt")
-```
+<table class="table table-responsive table-bordered table-striped" style="font-size: 10px; margin-left: auto; margin-right: auto;">
+<caption style="font-size: initial !important;">(\#tab:pant3)Hvilken lov regulerer  sikkerhed for aktiver</caption>
+<tbody>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Aktivtype </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Lov </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Fast ejendom samt tilbehør </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Tinglysningsloven afsnit 1, kapitel 1-6 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Andelslejlighed </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Tinglysningsloven kapitel 6b </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Biler </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Tinglysningsloven kapitel 6a </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Løsøre herunder virksomhedspant og fordringspant, erhvervsfartøjer under 5 bruttoton, fritidsskibe under 20 bruttoton </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Tinglysningsloven kapitel 7 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Børsnoterede værdipapirer også kaldet fondsaktiver </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Kapitalmarkedsloven </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Aktier og anparter ikke børsnoterede </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Selskabsloven </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Fly </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Lov om registrering af rettigheder over luftfartøjer </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Erhvervsfartøjer over 5 bruttoton, fritidsskibe over 20 bruttoton </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Søloven </td>
+  </tr>
+</tbody>
+</table>
  
 
  
@@ -8279,73 +7848,69 @@ En bygning på en lejet grund kan i nogle tilfælde være særskilt fast ejendom
    + TL § 38 om indlagt løsøre
    + TL § 37 om erhvervsløsøre
 
-```{r pant5, echo=FALSE}
-mydf <- data.frame(
-  S1 = c("I konflikt med" ,
-          "TL § 47, individuelt løsørepant", 
-          "TL § 47b, stk. 2, flydende pant i driftsmateriel", 
-          " TL § 47c, virksomhedspant",
-         "Ejendomsforbehold", 
-          "Udlæg i løsøre"
-),
-  S2 = c("Løsning" ,
-         "Løsørepant skal aftales før aktivet kommer ind på ejendommen.", 
-         "Ingen konflikt, TL § 47b, stk. 2 finder udelukkende anvendelse i virksomheder fra lejede lokaler.", 
-          "TL § 37 vinder altid over virksomhedspant jf. TL § 47c stk. 4", 
-         "Ejendomsforbeholdet vinder, hvis det er gyldigt", 
-          "Det er ikke muligt at få udlæg i løsøre omfattet af TL $ 37 jf. rpl. § 510"
-)
-)
-names(mydf) <- NULL
-mydf %>%
-  kable("html", escape = FALSE, caption = "Tilbehør til fast ejendom, løsøre omfattet af TL § 37") %>%
-  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
-  column_spec(1:2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  # column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  # # column_spec(3, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  row_spec(1,italic = T,bold = T,font_size = 12,color = "white", background = "darkgrey") #%>%
-# scroll_box(width = "100%")
-  # row_spec(1,italic = T,bold = T,font_size = 12)
-  # column_spec(0, angle = -45)%>%
-  # scroll_box(width = "500px") %>%
-  # footnote(general = "Forsikringsankenævnets klageguide",general_title = "Kilde:")%>%
-# footnote(number = "Hvis skadevolder er under 14 år eller er utilregnelig, kan der dog være dækning selv om handlingen er forvoldt forsætligt")
-```
+<table class="table table-responsive table-bordered table-striped" style="font-size: 10px; margin-left: auto; margin-right: auto;">
+<caption style="font-size: initial !important;">(\#tab:pant5)Tilbehør til fast ejendom, løsøre omfattet af TL § 37</caption>
+<tbody>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> I konflikt med </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Løsning </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> TL § 47, individuelt løsørepant </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Løsørepant skal aftales før aktivet kommer ind på ejendommen. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> TL § 47b, stk. 2, flydende pant i driftsmateriel </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Ingen konflikt, TL § 47b, stk. 2 finder udelukkende anvendelse i virksomheder fra lejede lokaler. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> TL § 47c, virksomhedspant </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> TL § 37 vinder altid over virksomhedspant jf. TL § 47c stk. 4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Ejendomsforbehold </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Ejendomsforbeholdet vinder, hvis det er gyldigt </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Udlæg i løsøre </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Det er ikke muligt at få udlæg i løsøre omfattet af TL $ 37 jf. rpl. § 510 </td>
+  </tr>
+</tbody>
+</table>
 
-```{r pant4, echo=FALSE}
-mydf <- data.frame(
-  S1 = c("I konflikt med" ,
-         "TL § 37, tilbehør til fast ejendom (erhverv)", 
-          "TL § 47, individuelt løsørepant", 
-          "TL § 47b, stk. 2, flydende pant i driftsmateriel", 
-          " TL § 47c, virksomhedspant",
-         "Ejendomsforbehold", 
-          "Udlæg i løsøre"
-),
-  S2 = c("Løsning" ,
-         "Benyt TL § 38", 
-          "Ikke særskilt ret over TL § 38-tilbehør, hvorfor TL § 38 anvendes", 
-          "Ingen konflikt, TL § 47b, stk. 2 finder udelukkende anvendelse i virksomheder fra lejede lokaler.", 
-          "Ikke særskilt ret over TL § 38-tilbehør, hvorfor TL § 38 anvendes", 
-         "Ikke særskilt ret over TL § 38-tilbehør, hvorfor TL § 38 anvendes", 
-          "rpl § 510 udelukker udlæg i løsøre omfattet af TL § 38"
-)
-)
-names(mydf) <- NULL
-mydf %>%
-  kable("html", escape = FALSE, caption = "Tilbehør til fast ejendom, løsøre omfattet af TL § 38") %>%
-  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
-  column_spec(1:2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  # column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  # # column_spec(3, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  row_spec(1,italic = T,bold = T,font_size = 12,color = "white", background = "darkgrey") #%>%
-# scroll_box(width = "100%")
-  # row_spec(1,italic = T,bold = T,font_size = 12)
-  # column_spec(0, angle = -45)%>%
-  # scroll_box(width = "500px") %>%
-  # footnote(general = "Forsikringsankenævnets klageguide",general_title = "Kilde:")%>%
-# footnote(number = "Hvis skadevolder er under 14 år eller er utilregnelig, kan der dog være dækning selv om handlingen er forvoldt forsætligt")
-```
+<table class="table table-responsive table-bordered table-striped" style="font-size: 10px; margin-left: auto; margin-right: auto;">
+<caption style="font-size: initial !important;">(\#tab:pant4)Tilbehør til fast ejendom, løsøre omfattet af TL § 38</caption>
+<tbody>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> I konflikt med </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Løsning </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> TL § 37, tilbehør til fast ejendom (erhverv) </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Benyt TL § 38 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> TL § 47, individuelt løsørepant </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Ikke særskilt ret over TL § 38-tilbehør, hvorfor TL § 38 anvendes </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> TL § 47b, stk. 2, flydende pant i driftsmateriel </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Ingen konflikt, TL § 47b, stk. 2 finder udelukkende anvendelse i virksomheder fra lejede lokaler. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> TL § 47c, virksomhedspant </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Ikke særskilt ret over TL § 38-tilbehør, hvorfor TL § 38 anvendes </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Ejendomsforbehold </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Ikke særskilt ret over TL § 38-tilbehør, hvorfor TL § 38 anvendes </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Udlæg i løsøre </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> rpl § 510 udelukker udlæg i løsøre omfattet af TL § 38 </td>
+  </tr>
+</tbody>
+</table>
 
 
 
@@ -8516,52 +8081,55 @@ Oversigt over, hvad der er omfattet af virksomhedspant, jf. TL § 47:
 
 
 
-```{r pant6, echo=FALSE}
-mydf <- data.frame(
-  S1 = c(
-           
-          "TL § 47b, stk. 2, flydende pant i driftsmateriel", 
-          "TL § 47c, virksomhedspant",
-         "Ejendomsforbehold", 
-          "Udlæg i løsøre",
-         "TL § 47c, virksomhedspant",
-          "Ejendomsforbehold", 
-          "Udlæg i løsøre",
-         "Ejendomsforbehold", 
-          "Udlæg i løsøre",
-         "Udlæg i løsøre"
-),
-  S2 = c(
-         
-         "Individuelt løsørepant, tinglyst inden det kommer ind i virksomheden vil have førsteprioritet", 
-          "Individuelt løsørepant, tinglyst inden det kommer ind i virksomheden vil have førsteprioritet",  
-         "Ejendomsforbeholdet skal respekteres af pant", 
-          "Løsørepant skal respekteres af udlæg",
-         "Tinglysningstidspunktet afgør prioritetsstillingen",
-         "Ejendomsforbeholdet skal respekteres af pant", 
-         "Løsørepant skal respekteres af udlæg",
-         "Ejendomsforbeholdet skal respekteres af pant", 
-         "Ved meddelelse inden 3 dage, skal udlæg respekteres af virksomhedspant",
-         "Ejendomsforbeholdet skal respekteres af udlæg"
-)
-)
-names(mydf) <- NULL
-mydf %>%
-  kable("html", escape = FALSE, caption = "Virksomhedspant TL § 47") %>%
-  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
-   column_spec(1:2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  # column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-   # column_spec(3, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  pack_rows(index = c( "TL § 47 Individuelt løsørepant" = 4, "TL § 47 b stk. 2 flydende pant" = 3,"TL § 47 c virksomhedspant" = 2,"Ejendomsforbehold" = 1),label_row_css = "background-color: #666; color: #fff;")
-
-
-# scroll_box(width = "100%")
-  # row_spec(1,italic = T,bold = T,font_size = 12)
-  # column_spec(0, angle = -45)%>%
-  # scroll_box(width = "500px") %>%
-  # footnote(general = "Forsikringsankenævnets klageguide",general_title = "Kilde:")%>%
-# footnote(number = "Hvis skadevolder er under 14 år eller er utilregnelig, kan der dog være dækning selv om handlingen er forvoldt forsætligt")
-```
+<table class="table table-responsive table-bordered table-striped" style="font-size: 10px; margin-left: auto; margin-right: auto;">
+<caption style="font-size: initial !important;">(\#tab:pant6)Virksomhedspant TL § 47</caption>
+<tbody>
+  <tr grouplength="4"><td colspan="2" style="background-color: #666; color: #fff;"><strong>TL § 47 Individuelt løsørepant</strong></td></tr>
+<tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid; padding-left: 2em;" indentlevel="1"> TL § 47b, stk. 2, flydende pant i driftsmateriel </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Individuelt løsørepant, tinglyst inden det kommer ind i virksomheden vil have førsteprioritet </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid; padding-left: 2em;" indentlevel="1"> TL § 47c, virksomhedspant </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Individuelt løsørepant, tinglyst inden det kommer ind i virksomheden vil have førsteprioritet </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid; padding-left: 2em;" indentlevel="1"> Ejendomsforbehold </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Ejendomsforbeholdet skal respekteres af pant </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid; padding-left: 2em;" indentlevel="1"> Udlæg i løsøre </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Løsørepant skal respekteres af udlæg </td>
+  </tr>
+  <tr grouplength="3"><td colspan="2" style="background-color: #666; color: #fff;"><strong>TL § 47 b stk. 2 flydende pant</strong></td></tr>
+<tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid; padding-left: 2em;" indentlevel="1"> TL § 47c, virksomhedspant </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Tinglysningstidspunktet afgør prioritetsstillingen </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid; padding-left: 2em;" indentlevel="1"> Ejendomsforbehold </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Ejendomsforbeholdet skal respekteres af pant </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid; padding-left: 2em;" indentlevel="1"> Udlæg i løsøre </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Løsørepant skal respekteres af udlæg </td>
+  </tr>
+  <tr grouplength="2"><td colspan="2" style="background-color: #666; color: #fff;"><strong>TL § 47 c virksomhedspant</strong></td></tr>
+<tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid; padding-left: 2em;" indentlevel="1"> Ejendomsforbehold </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Ejendomsforbeholdet skal respekteres af pant </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid; padding-left: 2em;" indentlevel="1"> Udlæg i løsøre </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Ved meddelelse inden 3 dage, skal udlæg respekteres af virksomhedspant </td>
+  </tr>
+  <tr grouplength="1"><td colspan="2" style="background-color: #666; color: #fff;"><strong>Ejendomsforbehold</strong></td></tr>
+<tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid; padding-left: 2em;" indentlevel="1"> Udlæg i løsøre </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Ejendomsforbeholdet skal respekteres af udlæg </td>
+  </tr>
+</tbody>
+</table>
 
  
 
@@ -10886,22 +10454,18 @@ En kort oversigt over god skik og informationskrav til værdipapirhandleren:
 
 
 
-```{r invest1, echo=FALSE}
-mydf <- data.frame(
-  S1 = c("Kategori" ,
-         "1. Grøn", 
-          "2. Gul", 
-          "3. Rød"
-),
-  S2 = c("Beskrivelse" ,
-         "Investeringsprodukter, hvor risikoen for at tabe hele det investerede beløb må betragtes som meget lille. Produkttypen er ikke vanskelig at gennemskue.", 
-          "Investeringsprodukter, hvor der er risiko for at det investerede beløb kan tabes helt eller delvist. Produkttypen er ikke vanskelig at gennemskue.", 
-          "Investeringsprodukter, hvor der er risiko for at tabe mere end det investerede beløb, eller produkttyper, som er vanskelige at gennemskue."
-          
-),
-  S3 = c("Produkt
-", 
-"Danske statsobligationer udstedt i DKK og EUR<br>
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; "><table class="table table-responsive table-bordered table-striped" style="font-size: 10px; margin-left: auto; margin-right: auto;">
+<caption style="font-size: initial !important;">(\#tab:invest1)Sikringsakter for aktiver</caption>
+<tbody>
+  <tr>
+   <td style="text-align:left;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Kategori </td>
+   <td style="text-align:left;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Beskrivelse </td>
+   <td style="text-align:left;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Produkt </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: green !important;font-size: 10px;"> 1. Grøn </td>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: green !important;font-size: 10px;"> Investeringsprodukter, hvor risikoen for at tabe hele det investerede beløb må betragtes som meget lille. Produkttypen er ikke vanskelig at gennemskue. </td>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: green !important;font-size: 10px;"> Danske statsobligationer udstedt i DKK og EUR<br>
 Skatkammerbeviser<br>
 Statsobligationer udstedt af eurolande i EUR og DKK<br>
 Realkreditobligationer udstedt af danske realkreditinstitutter<br>
@@ -10909,10 +10473,12 @@ Særligt dækkede realkreditobligationer (SDRO) udstedt af danske realkreditinst
 Særligt dækkede obligationer (SDO) udstedt af danske penge- og realkreditinstitutter<br>
 Junior covered bonds og seniorgæld udstedt af danske penge- og realkreditinstitutter til finansiering af supplerende kapital til dækning af SDO'er og SDRO'er<br>
 Skibskreditobligationer og kasseobligationer udstedt af et skibsfinansieringsinstitut<br>
-Obligationer udstedt af Kommunekredit",
-
-
-"Andelsbeviser<br>
+Obligationer udstedt af Kommunekredit </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: yellow !important;font-size: 10px;"> 2. Gul </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: yellow !important;font-size: 10px;"> Investeringsprodukter, hvor der er risiko for at det investerede beløb kan tabes helt eller delvist. Produkttypen er ikke vanskelig at gennemskue. </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: yellow !important;font-size: 10px;"> Andelsbeviser<br>
 Aktier, der er optaget til handel på et reguleret marked<br>
 ADR'er (American depositary receipt), ADS'er, GDR'er og andre depot-/aktiebeviser, som er optaget til handel på et reguleret marked<br>
 Erhvervsobligationer, der er handlet på et reguleret marked<br>
@@ -10923,10 +10489,12 @@ Udenlandske realkreditobligationer<br>
 Investeringsforeningsbeviser (UCITS)<br>
 Exchange Traded Funds (ETF'er), som er UCITS-godkendte<br>
 Specialforeningsbeviser<br>
-Tegningsretter på investeringsprodukter i gul kategori
-",
-
-"Hedgefondbeviser uanset det underliggende investeringsprodukt<br>
+Tegningsretter på investeringsprodukter i gul kategori </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: red !important;font-size: 10px;"> 3. Rød </td>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: red !important;font-size: 10px;"> Investeringsprodukter, hvor der er risiko for at tabe mere end det investerede beløb, eller produkttyper, som er vanskelige at gennemskue. </td>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: red !important;font-size: 10px;"> Hedgefondbeviser uanset det underliggende investeringsprodukt<br>
 Aktier, som ikke er optaget til handel på et reguleret marked (herunder handel på multilaterale handelsfaciliteter (MHF) og alternative markedspladser)<br>
 ADR'er (American depositary receipt), ADS'er, GDR'er og andre depot-/aktiebeviser, som ikke er optaget til handel på et reguleret marked<br>
 Erhvervsobligationer, som ikke er handlet på et reguleret marked (herunder handel på multilaterale handelsfaciliteter (MHF) og alternative markedspladser)<br>
@@ -10934,29 +10502,10 @@ Non-UCITS<br>
 Strukturerede obligationer<br>
 Optioner, futures, og terminsforretninger på fx: valuta, aktier, obligationer, andre værdipapirer, afkast, renter, indeks og råvarer<br>
 Exchange Traded Funds (ETF'er), som ikke er UCITS-godkendte<br>
-Tegningsretter på investeringsprodukter i rød kategori"
-          
-)
-)
-names(mydf) <- NULL
-mydf %>%
-  kable("html", escape = FALSE, caption = "Sikringsakter for aktiver") %>%
-  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
-  # column_spec(1, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  # column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  # # column_spec(3, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  row_spec(1,italic = T,bold = T,font_size = 12,color = "white", background = "darkgrey") %>%
-  row_spec(2,italic = F,bold = T,font_size = 10,color = "white", background = "green") %>%
-  row_spec(3,italic = F,bold = T,font_size = 10,color = "black", background = "yellow") %>%
-  row_spec(4,italic = F,bold = T,font_size = 10,color = "white", background = "red") %>%
-  
-scroll_box(width = "100%")
-  # row_spec(1,italic = T,bold = T,font_size = 12)
-  # column_spec(0, angle = -45)%>%
-  # scroll_box(width = "500px") %>%
-  # footnote(general = "Forsikringsankenævnets klageguide",general_title = "Kilde:")%>%
-# footnote(number = "Hvis skadevolder er under 14 år eller er utilregnelig, kan der dog være dækning selv om handlingen er forvoldt forsætligt")
-```
+Tegningsretter på investeringsprodukter i rød kategori </td>
+  </tr>
+</tbody>
+</table></div>
 
 
  
@@ -11155,21 +10704,18 @@ Bekendtgørelse nr. 553 af 1. juni 2016 om risikomærkning af investeringsproduk
 
 Skemaet nedenfor fordeler typer af investeringsprodukter i de tre mærkningskategorier grøn, gul og rød.
 
-```{r invest2, echo=FALSE}
-mydf <- data.frame(
-  S1 = c("Kategori" ,
-         "1. Grøn", 
-          "2. Gul", 
-          "3. Rød"
-),
-  S2 = c("Beskrivelse" ,
-         "Investeringsprodukter, hvor risikoen for at tabe hele det investerede beløb må betragtes som meget lille. Produkttypen er ikke vanskelig at gennemskue.", 
-          "Investeringsprodukter, hvor der er risiko for at det investerede beløb kan tabes helt eller delvist. Produkttypen er ikke vanskelig at gennemskue.", 
-          "Investeringsprodukter, hvor der er risiko for at tabe mere end det investerede beløb, eller produkttyper, som er vanskelige at gennemskue."
-          
-),
-  S3 = c("Investeringsprodukter" ,
-          "Danske statsobligationer udstedt i DKK og EUR.
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; "><table class="table table-responsive table-bordered table-striped" style="font-size: 10px; margin-left: auto; margin-right: auto;">
+<caption style="font-size: initial !important;">(\#tab:invest2)Risikomærkningsordningen</caption>
+<tbody>
+  <tr>
+   <td style="text-align:left;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Kategori </td>
+   <td style="text-align:left;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Beskrivelse </td>
+   <td style="text-align:left;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;"> Investeringsprodukter </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: green !important;font-size: 10px;"> 1. Grøn </td>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: green !important;font-size: 10px;"> Investeringsprodukter, hvor risikoen for at tabe hele det investerede beløb må betragtes som meget lille. Produkttypen er ikke vanskelig at gennemskue. </td>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: green !important;font-size: 10px;"> Danske statsobligationer udstedt i DKK og EUR.
 Junior covered bonds og seniorgæld udstedt af danske penge- og realkreditinstitutter til finansiering af supplerende kapital til dækning af RO’er, SDO’er og SDRO’er.
 Obligationer udstedt af Kommune Kredit.<br>
 Danske statsobligationer udstedt i DKK og EUR.<br>
@@ -11182,10 +10728,12 @@ Skibskreditobligationer og kasseobligationer udstedt af et skibsfinansieringsins
 Statsgaranterede erhvervsobligationer, garanteret af et euroland med bruttogæld på mindre end 110 procent af landets BNP.<br>
 Statsobligationer udstedt af EU-lande i EUR og DKK med en bruttogæld på mindre end 110 procent af landets BNP.<br>
 Særligt dækkede obligationer (SDO) udstedt af danske penge- og realkreditinstitutter.<br>
-Særligt dækkede realkreditobligationer (SDRO) udstedt af danske realkreditinstitutter.
-", 
-
-"Aktier, der er optaget til handel på et reguleret marked eller en alternativ markedsplads.<br>
+Særligt dækkede realkreditobligationer (SDRO) udstedt af danske realkreditinstitutter. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: yellow !important;font-size: 10px;"> 2. Gul </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: yellow !important;font-size: 10px;"> Investeringsprodukter, hvor der er risiko for at det investerede beløb kan tabes helt eller delvist. Produkttypen er ikke vanskelig at gennemskue. </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: yellow !important;font-size: 10px;"> Aktier, der er optaget til handel på et reguleret marked eller en alternativ markedsplads.<br>
 Andele i kapitalforeninger, som investerer i henhold til investeringsbegrænsningerne i medfør af §§ 157 a og 157 b i lov om finansiel virksomhed.<br>
 Andele i kollektive investeringsordninger (herunder Exchange Traded Funds (ETF’er)) der er godkendt efter UCITS direktivet.<br>
 Andele i udenlandske investeringsinstitutter, som investerer i henhold til investeringsbegrænsningerne i medfør af §§ 157 a og 157 b i lov om finansiel virksomhed.<br>
@@ -11198,11 +10746,12 @@ Statsobligationer udstedt i andre valutaer end DKK og EUR.<br>
 Statsobligationer udstedt i EUR og DKK af EU-lande med en bruttogæld på 110 procent og derover af landets BNP.<br>
 Strukturerede indlån der hverken har en kompleks afkaststruktur eller vanskeligt gennemskuelige omkostninger forbundet med førtidig opsigelse.<br>
 Tegningsretter på investeringsprodukter i gul kategori.<br>
-Udenlandske realkreditobligationer.<br>
-
-",
-
-"Aktier, som ikke er optaget til handel på et reguleret marked (herunder handel på multilaterale handelsfaciliteter (MHF)).<br>
+Udenlandske realkreditobligationer.<br> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: red !important;font-size: 10px;"> 3. Rød </td>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: red !important;font-size: 10px;"> Investeringsprodukter, hvor der er risiko for at tabe mere end det investerede beløb, eller produkttyper, som er vanskelige at gennemskue. </td>
+   <td style="text-align:left;font-weight: bold;color: white !important;background-color: red !important;font-size: 10px;"> Aktier, som ikke er optaget til handel på et reguleret marked (herunder handel på multilaterale handelsfaciliteter (MHF)).<br>
 Aktieswaps og swaps på aktieindeks.<br>
 Andele i alternative investeringsfonde (AIF’er).<br>
 Andele i kapitalforeninger, som ikke investerer i henhold til investeringsbegrænsningerne i medfør af § 157 a og 157 b i lov om finansiel virksomhed
@@ -11231,30 +10780,10 @@ Swaptioner.<br>
 Tegningsretter på investeringsprodukter i rød kategori.<br>
 Total Return Swaps.<br>
 Valutaswaps (udveksling af betalinger i forskellige valutaer).<br>
-Warrents.
-"
-          
-)
-)
-names(mydf) <- NULL
-mydf %>%
-  kable("html", escape = FALSE, caption = "Risikomærkningsordningen") %>%
-  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
-  # column_spec(1, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  # column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  # # column_spec(3, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  row_spec(1,italic = T,bold = T,font_size = 12,color = "white", background = "darkgrey") %>%
-  row_spec(2,italic = F,bold = T,font_size = 10,color = "white", background = "green") %>%
-  row_spec(3,italic = F,bold = T,font_size = 10,color = "black", background = "yellow") %>%
-  row_spec(4,italic = F,bold = T,font_size = 10,color = "white", background = "red") %>%
-  
-scroll_box(width = "100%")
-  # row_spec(1,italic = T,bold = T,font_size = 12)
-  # column_spec(0, angle = -45)%>%
-  # scroll_box(width = "500px") %>%
-  # footnote(general = "Forsikringsankenævnets klageguide",general_title = "Kilde:")%>%
-# footnote(number = "Hvis skadevolder er under 14 år eller er utilregnelig, kan der dog være dækning selv om handlingen er forvoldt forsætligt")
-```
+Warrents. </td>
+  </tr>
+</tbody>
+</table></div>
 
 
   
@@ -13074,33 +12603,41 @@ Reglerne er følgende:
 
 
 
-<!-- ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` -->
+<!-- `<!--html_preserve--><span id="htmlwidget-821d9693f756e512eda7" class="tippy html-widget" width="960" height="500"></span>
+<script type="application/json" data-for="htmlwidget-821d9693f756e512eda7">{"x":{"opts":{"size":"large","interactive":true,"arrow":true},"tooltip":"<h4>Grundloven beskriver bl.a. den enkelte borgers rettigheder og pligter, du kan se den her:<br><a href=\"https://www.retsinformation.dk/Forms/R0710.aspx?id=45902\" style=\"color:#3088fc\" target=\"_blank\">Grundloven<\/a><\/h4>","text":"Grundloven"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->` -->
 
-<!-- ``r tippy(indeks[2,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[2,2],"</h4>"))`` -->
+<!-- `<!--html_preserve--><span id="htmlwidget-4006476b5032ce15d414" class="tippy html-widget" width="960" height="500"></span>
+<script type="application/json" data-for="htmlwidget-4006476b5032ce15d414">{"x":{"opts":{"size":"large","interactive":true,"arrow":true},"tooltip":"<h4>Tinglysningsloven indeholder reglerne for den offentlige registrering af rettigheder over fast ejendom<br><a href=\"https://www.retsinformation.dk/Forms/R0710.aspx?id=142900\" style=\"color:#3088fc\" target=\"_blank\">Tinglysningsloven<\/a><\/h4>","text":"Tinglysningsloven"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->` -->
 
-<!-- ``r tippy(indeks[4,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[4,2],"</h4>"))``   -->
-
-
-```{r begrebsoversigt, echo=FALSE}
-
-mydf <- indeks[order(BEGREB,forklaring),]
-row.names(mydf) <- NULL
-names(mydf) <- c("BEGREB","HVAD BETYDER DET?")
+<!-- `<!--html_preserve--><span id="htmlwidget-198d36a6c7e8be667d27" class="tippy html-widget" width="960" height="500"></span>
+<script type="application/json" data-for="htmlwidget-198d36a6c7e8be667d27">{"x":{"opts":{"size":"large","interactive":true,"arrow":true},"tooltip":"<h4>NA<\/h4>","text":null},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->`   -->
 
 
-mydf %>%
-  kable("html", escape = FALSE, caption = "Begrebsoversigt") %>%
-  kable_styling(full_width = T,font_size = 12,bootstrap_options = c("responsive","bordered","striped")) %>%
-  column_spec(1, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  # column_spec(3, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  # column_spec(4, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  # row_spec(1,italic = T,bold = T,font_size = 12,color = "white", background = "darkgrey") %>%
-  row_spec(0,italic = T,bold = T,font_size = 14,color = "white", background = "darkgrey")
-  # row_spec(1,italic = T,bold = T,font_size = 12)
-  # column_spec(0, angle = -45)%>%
-  # scroll_box(width = "500px") %>%
-  # footnote(general = "Databeskyttelsesforordningen",general_title = "Kilde:")
-```
+<table class="table table-responsive table-bordered table-striped" style="font-size: 12px; margin-left: auto; margin-right: auto;">
+<caption style="font-size: initial !important;">(\#tab:begrebsoversigt)Begrebsoversigt</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 14px;"> BEGREB </th>
+   <th style="text-align:left;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 14px;"> HVAD BETYDER DET? </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Aftaleloven </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Aftaleloven </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Grundloven </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Grundloven beskriver bl.a. den enkelte borgers rettigheder og pligter, du kan se den her:<br><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=45902" style="color:#3088fc" target="_blank">Grundloven</a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Tinglysningsloven </td>
+   <td style="text-align:left;font-weight: bold;color: black !important;background-color: lightgrey !important;border-right:1px solid;"> Tinglysningsloven indeholder reglerne for den offentlige registrering af rettigheder over fast ejendom<br><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=142900" style="color:#3088fc" target="_blank">Tinglysningsloven</a> </td>
+  </tr>
+</tbody>
+</table>
 
+
+
+<!--chapter:end:01-JURA.Rmd-->
 
