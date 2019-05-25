@@ -857,7 +857,29 @@ I samme dom præciserede Domstolen, at en medlemsstat - selv i det tilfælde, hv
 
 
 
-# Aftaleloven
+# Aftaleret
+
+<br>
+
+Hvilke problemstillinger og aftaleretlige lovregler, du som studerende særlig skal være opmærksom på vedrørende eksamensspørgsmål indenfor aftaleretten:
+
+<br>
+• Opfordring contra tilbud, aftalelovens § 9, herunder    
+  prisangivelser på nettet, i netbutikker og i fysiske butikker
+  <br>
+• Aftaleindgåelse, aftalelovens § 2-7 og § 40
+<br>
+• Ugyldighed (svig, aftalelovens § 30 fejl, aftalelovens § 32, stk.   1, udnyttelse, aftalelovens § 31)
+<br>
+• Falsk/forfalskning
+<br>
+• Urimelighed - §§ 38c, jf. 36
+<br>
+• Fuldmagtstyper (især stillingsfuldmagt, aftalelovens § 10, stk.     2), fuldmagtens omfang og konsekvenser, aftalelovens § 10, 11, 15   og 25, modificeret ved erstatningsansvarslovens § 23
+
+
+<br>
+
 <script async src="https://widget.spreaker.com/widgets.js"></script>
 
 <img src="img/deal1.jpg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
@@ -1599,6 +1621,8 @@ Aftaleloven sondrer mellem på den ene side »fuldmagt« og på den anden side �
 > *”Indtager nogen ifølge aftale med en anden en stilling, som efter lov eller sædvane medfører beføjelse for ham til indenfor visse grænser at handle på den andens vegne, anses han befuldmægtiget til at foretage retshandler, som falder indenfor disse grænser”.*  
 
 <img src="img/fuldmagt2.jpg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<br>
+
 Når du (fuldmagtsgiver) giver en anden (fuldmægtig) fuldmagt til at handle på dine vegne, bliver du som hovedregel bundet af den aftale din fuldmægtig indgår med tredjemand. Der er kun tale om en stillingsfuldmagt i § 10’s forstand, når du efter aftale med en anden (fuldmagtsgiver/arbejdsgiveren) indtager en stilling, dvs. er ansat hos den pågældende. Stillingsfuldmagten stiftes ved, at du efter aftale med fuldmagtsgiver indtager en vis stilling og faktisk indtager denne fx, at du er ansat i en bank eller forsikringsselskab. Deraf følger så, at en advokat ikke har en stillingsfuldmagt for sin klient, og en tilsynsførende arkitekt eller ingeniør ingen stillingsfuldmagt fra bygherren. Tredjemand fx kunden kan påberåbe sig stillingsfuldmagten, selv om han ikke kender til ansættelsen af fuldmægtigen hos fuldmagtsgiveren.
 
 * En ansat, har således via sin stilling, fuldmagt til at handle på vegne af fuldmagtsgiver (arbejdsgiver).
@@ -1752,11 +1776,29 @@ Fuldmægtigen skal erstatte tredjemand den positive opfyldelsesinteresse, dvs. t
 
 
 
-# Forbrugeraftaler
+# Forbrugeraftaler og forbrugerbeskyttelse
 
+<br>
+
+Indledningsvis skal du som studerende særlig være opmærksom på følgende problemstillinger ved forbrugeraftaler og forbrugerbeskyttelse:
+
+
+<br>
+•	Forbrugerbeskyttelse ved erhvervelse af fast ejendom;    
+  fortrydelsesret og tilbud, tilbagekaldelse og sælgers accept, LFFE   kapitel 2 
+  <br>
+•	Forbrugeraftaleloven, §§ 3-6 
+<br>
+•	Fortrydelsesret, §§ 18-24 
+<br>
+•	Uanmodet henvendelse (forbrugeraftalelovens § 4 og 
+  markedsføringslovens § 10)
+  
+  <br>
 
 
 ## Introduktion til forbrugeraftaleloven
+<br>
 Forbrugeraftalelovens (FBL) formål:.^[Følgende afsnit om forbrugeraftaler bygger på Sonny Kristoffersen: ”Kend forbrugerkøbsreglerne”, 2018, Samfundslitteratur.]
 
 * Beskyttelsespræceptiv – loven kan ikke fraviges til skade for forbrugeren, FBL § 33, men forbrugeren kan godt stilles bedre end, hvad lovgivningen tilsiger.
@@ -1929,7 +1971,8 @@ Oplysningerne skal være klare og forståelige.
 * Fremgangsmåden ved forbrugerens brug af fortrydelsesretten og
 * Hvortil/til hvem fortrydelse kan meddeles
 Ved køb af varer som skal sendes til forbrugeren, skal oplysning om fortrydelsesfristen gives senest ved varen overgivelse.
-Hvis oplysning først kommer frem senere, løber fristen fra oplysningerne er modtaget. 
+Hvis oplysning først kommer frem senere, løber fristen fra oplysningerne er modtaget.
+
 Hvis der ikke modtages nogen oplysninger om fortrydelsesretten så udskydes fortrydelsesrettens begyndelsestidspunkt med 12 måneder
  
 
@@ -1956,6 +1999,8 @@ Forsinkelse med levering
  
 ### Retsvirkning ved fortrydelse
 Ved tilbagetræden fra aftalen inden fortrydelsesfristens udløb, bortfalder aftalen, og:
+
+<br>
  
 * Hver part tilbageleverer ydelse/modydelse.
 * Hvis forbrugeren har betalt helt eller delvis, skal det modtagne tilbagebetales til forbrugeren.
@@ -2063,11 +2108,26 @@ Har du styr på, om du må eje kopivarer i Danmark? Eller om du må tage dem med
 
 
 
-# Erstatningsreglerne i en praksisnær kontekst
+# Erstatningsreglerne og den forsikringsmæssige afdækning
+<br>
+
+Indledningsvis skal du som studerende være særlig opmærksom på følgende i forbindelse med gennemgangen af erstatningsretten:
+<br>
+•	Grundlæggende erstatningsbetingelser; ansvarsgrundlag, 
+  årsagsforbindelse, påregnelighed, økonomisk tab og værnet 
+  interesse 
+  <br>
+•	Principalansvar (arbejdsgiverens hæftelsesansvar i DL 3-19-2)
+<br>
+•	Ansvarets sammenhæng med forsikringsdækning, erstatningsansvarslovens (forkortet; EAL) §§ 19 – 23 
+<br>
 
 
 ## Erstatningsansvar uden lovgivning
-Et ansvarsforsikringsselskab beskæfter sig indgående med erstatningsreglerne for at vurdere, om skadevolderen (forsikringstageren) har pådraget sig et erstatningsansvar over for en skadelidt. Ofte findes der ingen lovgivning, som kan fortælle, hvornår man som privatperson er ansvarlig for en skade. I stedet er der ud af mange års domspraksis udledt en erstatningsregel, der kaldes “den almindelige erstatningsregel”. Denne regel fastslår, at man er ansvarlig for den økonomiske skade, som man har forvoldt ved uagtsomhed eller med vilje. Reglen hedder også culpa- eller skyldreglen. Culpa, er den grundlæggende betingelse for at pålægge erstatningsansvar uden for kontraktforhold. En skadevolder har udvist culpa, optrådt culpøst, overtrådt culpareglen, hvis han eller hun har handlet enten forsætligt, dvs. med vilje og viden om handlingens elementer, eller uagtsomt. Se f.eks. følgende domme:  
+
+Et ansvarsforsikringsselskab beskæfter sig indgående med erstatningsreglerne for at vurdere, om skadevolderen (fx. forsikringstageren) har pådraget sig et erstatningsansvar over for en skadelidt. Ofte findes der ingen lovgivning, som kan fortælle, hvornår man som privatperson er ansvarlig for en skade. I stedet er der ud af mange års domspraksis udledt en erstatningsregel, der kaldes “den almindelige erstatningsregel”. Denne regel fastslår, at man er ansvarlig for den økonomiske skade, som man har forvoldt ved uagtsomhed eller med vilje. Reglen hedder også culpa- eller skyldreglen ("culpa" betyder "skyld" på latin eller brøde, uagtsomhed, forseelse, synd). 
+<br>
+Culpa, er den grundlæggende betingelse for at pålægge erstatningsansvar uden for kontraktforhold. En skadevolder har udvist culpa, optrådt culpøst, overtrådt culpareglen, hvis han eller hun har handlet enten forsætligt, dvs. med vilje og viden om handlingens elementer, eller uagtsomt. Se f.eks. følgende domme:  
 
 
 
@@ -2089,7 +2149,7 @@ Et ansvarsforsikringsselskab beskæfter sig indgående med erstatningsreglerne f
 
 ---     
 
-Man er kun erstatningsansvarlig for skader, der kan gøres op i penge (økonomisk tab, som den skadelidte skal kunne bevise). Ved tingsskader vil det være værdien af eller reparation af det ødelagte. Ved personskader bliver det økonomiske tab beregnet efter reglerne i Lov om erstatningsansvar (erstatningsansvarsloven). Det er f.eks. erstatning for varige mén, tabt arbejdsfortjeneste eller tab af forsørger. Se følgende domme, hvor der i dømmes erstatningsansvar i forskellige situationer:  
+Man er kun erstatningsansvarlig for skader, der kan gøres op i penge (økonomisk tab, som den skadelidte skal kunne bevise). Ved tingsskader vil det være værdien af eller reparation af det ødelagte. Ved personskader bliver det økonomiske tab beregnet efter reglerne i Lov om erstatningsansvar (EAL). Det er f.eks. erstatning for varige mén, tabt arbejdsfortjeneste eller tab af forsørger. Se følgende domme, hvor der i dømmes erstatningsansvar i forskellige situationer:  
 
 ---     
 
@@ -2097,10 +2157,12 @@ Man er kun erstatningsansvarlig for skader, der kan gøres op i penge (økonomis
 
 
 
-*FED 2009.114: En kvinde, som faldt i søvn som fører af en bil, påkørte og dræbte en modkørende bilist. Hun blev idømt en fængselsstraf på 10 måneder, men hendes kørsel kunne ikke karakteriseres som særlig hensynsløs, hvorfor afdødes ægtefælle ikke havde krav på godtgørelse i medfør af EAL (erstatningsansvarsloven) § 26 a.*  
+*FED 2009.114: En kvinde, som faldt i søvn som fører af en bil, påkørte og dræbte en modkørende bilist. Hun blev idømt en fængselsstraf på 10 måneder, men hendes kørsel kunne ikke karakteriseres som særlig hensynsløs, hvorfor afdødes ægtefælle ikke havde krav på godtgørelse i medfør af EAL § 26 a.*  
 
 
 <img src="img/stripper2.jpg" align="right" width="10%" height="10%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+<br>
 *FED 2008.1: En mandlig stripteasedanser B ansvarlig for øjenskade på deltager A i kvindelig polterabend, da B affyrede konfettirør. Ikke grundlag for at nedsætte erstatningen som følge af egen skyld eller accept af risiko.*
 
 
@@ -2150,36 +2212,42 @@ Har skadevolderen derimod opført sig som en såkaldt bonus pater familias (lati
 
 
 ## Handlet forkert eller undladt at handle
-Har skadevolder handlet forkert – dvs. er ansvarlig – er det vigtigt at finde ud af, om skaden er forvoldt ved en simpel uagtsomhed, grov uagtsomhed eller med forsæt (med vilje). Denne vurdering af handlingen eller undladelsen har bl.a. betydning for, om skadevolderens ansvarsforsikring skal betale for skaden hos skadelidte. Se her afgørelserne fra retspraksis:  
+Har skadevolder handlet forkert – dvs. er ansvarlig – er det vigtigt at finde ud af, om skaden er forvoldt ved en simpel uagtsomhed, grov uagtsomhed eller med forsæt (med vilje). Denne vurdering af handlingen eller undladelsen har bl.a. betydning for, om skadevolderens ansvarsforsikring skal betale for skaden hos skadelidte. Se her domsafgørelser fra retspraksis:  
 
 
 
 ---          
 
 *FED 2016.122: Diskotek erstatningsansvarlig for personskade opstået ved, at diskotekets dørmand gik ud over det nødvendige og forsvarlige ved at skubbe eller kaste skadelidte ud af diskotekets dør.*
+<br>
 
-
+*Ø.L.D. af 12. maj 2005. Sag: 20. afd., a.s. nr. B-2581-04: Værtinde ifaldt erstatningsansvar, fordi hun bar et sofabord ned ad en trappe iført højhælede sko og uden at fjerne noget nips, der indskrænkede trappearealet, hvilket forårsagede, at hun tabte bordet, som ramte en gæst i hovedet. (Utrykt)*
+<br>
 
 ![](img/stairs.jpg)
-*Ø.L.D. af 12. maj 2005. Sag: 20. afd., a.s. nr. B-2581-04: Værtinde ifaldt erstatningsansvar, fordi hun bar et sofabord ned ad en trappe iført højhælede sko og uden at fjerne noget nips, der indskrænkede trappearealet, hvilket forårsagede, at hun tabte bordet, som ramte en gæst i hovedet. (Utrykt)*
+
 
 
 ---     
 
 
-### Den gode familiefader
+## Den gode familiefader
 Når en domstol bedømmer, om skadevolder har handlet forkert, sammenligner domstolen skadevolderens handling med, hvordan en “bonus pater familias” ville have handlet i samme situation.
 Bonus pater familias (latin for den gode familiefader) er en fiktiv person, som aldrig begår fejl, fordi han eller hun altid tænker sig grundigt om, før denne handler. I nogle situationer vil denne fiktive person være “den gode forældre”, “det gode barn”, “den gode lærer”, “den gode håndværker” osv. Begrebet repræsenterer en uagtsomhed en adfærd, der afviger fra de adfærdsnormer, der gælder inden for det pågældende område.
+<br>
 Kommer en domstol til det resultat, at en skadevolder har handlet anderledes, end en bonus pater familias ville have gjort i samme situation, har skadevolderen handlet forkert og vil blive pålagt et erstatningsansvar.
+<br>
 Det skal bevises af skadelidte (kaldet en ”ligefrem bevisbyrde”). Det er hovedreglen i dansk ret; Den der vil gøre noget gældende, har også bevisbyrden herfor.
-For at kunne få erstatning fra en skadevolder skal skadelidte ifølge retspraksis (domstolene) bevise følgende over for retten:  
+<br>
+For at kunne få erstatning fra en skadevolder skal skadelidte ifølge retspraksis (domstolene) bevise følgende over for retten: 
+<br>
 
 *	Der er sket en skade og lidt et tab.  
 *	Det er skadevolders skyld – skadevolder har handlet uagtsomt eller med forsæt.  
 *	Der er årsagssammenhæng (kausalitet) mellem den skete skade og det lidte tab, dvs. at tabet er en direkte følge af skaden.  
 *	Der er påregnelighed (adækvans) mellem skaden og tabet, dvs., at skadevolder burde kunne forudse, at skaden ville ske.  
 
-Kan skadelidte ikke bevise det, er det ikke muligt at få erstatning fra en skadevolder eller dennes ansvarsforsikring:
+Kan skadelidte ikke bevise det, er det ikke muligt at få erstatning fra en skadevolder eller dennes ansvarsforsikring, se følgende dom:
 
 ---     
 
@@ -2189,35 +2257,40 @@ Kan skadelidte ikke bevise det, er det ikke muligt at få erstatning fra en skad
 ---     
 
 
-### Ansvar for ikke at gøre noget
+## Ansvar for ikke at gøre noget
 Det er ikke kun handlinger, man kan blive erstatningsansvarlig for. I visse tilfælde kan man også blive erstatningsansvarlig for sine undladelser. Det sker oftest i situationer, hvor der er pligt til at handle. Eksempler er husejeren, der ikke gruser et isglat fortov, eller forældre, der ikke holder øje med deres børn.
 
-### Ansvar for psykiske personskader
+## Ansvar for psykiske personskader
 Udover at der kan tilkendes erstatningsansvar ved tingsskader samt fysiske personskader, så kan der være erstatningspligt for psykiske personskader. Se her nævnte domme:  
 
 ---
 
 <img src="img/meeting.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<br>
 *U.2012.524 H: A blev sygemeldt efter et begivenhedsforløb på en personaleweekend og rejste krav om godtgørelse for svie og smerte mod kommunen K som arbejdsgiver. Begivenhedsforløbet vedrørte en følelsesladet drøftelse i plenum af A’s sygdomsfravær, som ifølge A endte med, at hun i overværelse af sine kollegaer reelt blev fyret. K bestred ikke, at A var blevet påført en psykisk skade som følge af begivenhedsforløbet, og parterne var enige om opgørelsen af godtgørelseskravet. Højesteret udtalte bl.a., at udtrykket “personskade” i erstatningsansvarslovens § 1 må forstås i overensstemmelse med dansk rets almindelige erstatningsregler, og den psykiske skade, som A var blevet påført, var omfattet af bestemmelsen. Højesteret fandt endvidere, at personaleweekenden i forhold til A blev afviklet på en uforsvarlig måde, og at dette var ansvarspådragende for K som arbejdsgiver. Den uforsvarlige afvikling af personaleweekenden medførte en betydelig forøgelse af risikoen for en psykisk skade hos en medarbejder, som ledelsen må have forstået befandt sig i en psykisk anspændt situation, og Højesteret fandt, at A’s psykiske skade var en påregnelig følge. A var direkte skadelidt som følge af den ansvarspådragende adfærd, og der var ikke grundlag for at anse den psykiske skade for at falde uden for, hvad der var omfattet af kommunens erstatningspligt. K skulle herefter betale 50.000 kr. til A for svie og smerte. Landsretten havde frifundet K.*
+<br>
 
 *U 2010.1609 H: Psykisk personskade anset for omfattet af ulykkesbegrebet i ulykkesforsikring*
 
 ---
 
-### Simpel uagtsomhed
-Ved simpelt uagtsomhed (culpa levis), har skadevolder handlet mere skødesløst end en bonus pater familias – den lille dagligdags uagtsomhed – er skadevolder erstatningsansvarlig. Simpel uagtsomhed er en uagtsomhed som ikke kan betegnes som grov. Culpareglen omfatter som hovedregel begge former for uagtsomhed. Forsikringsankenævnet og domstolene foretager et konkret skøn, om skadevolder har handlet simpelt uagtsomt. Hvis eksempelvis en fodgænger træder ud på vejbanen uden at se sig for og rammer en forbikørende cyklist, der vælter, kan uheldet bebrejdes fodgængeren, der har været mere skødesløs end “den gode fodgænger”. Derfor er fodgængeren erstatningsansvarlig for cyklistens økonomiske tab. Se følgende sager fra retspraksis og Forsikringsankenævnet, om spørgsmålet, om der er simpel uagtsomhed hos skadevolder:
+## Simpel uagtsomhed
+Ved simpelt uagtsomhed (culpa levis), har skadevolder handlet mere skødesløst end en bonus pater familias – den lille dagligdags uagtsomhed – er skadevolder erstatningsansvarlig. Simpel uagtsomhed er en uagtsomhed som ikke kan betegnes som grov. Culpareglen omfatter som hovedregel begge former for uagtsomhed.
+<br>
+Forsikringsankenævnet og domstolene foretager et konkret skøn, om skadevolder har handlet simpelt uagtsomt. Hvis eksempelvis en fodgænger træder ud på vejbanen uden at se sig for og rammer en forbikørende cyklist, der vælter, kan uheldet bebrejdes fodgængeren, der har været mere skødesløs end “den gode fodgænger”. Derfor er fodgængeren erstatningsansvarlig for cyklistens økonomiske tab. Se følgende sager fra retspraksis og Forsikringsankenævnet, om spørgsmålet, om der er simpel uagtsomhed hos skadevolder:
 
 ---
 
 *U 1915.242 H: (Uagtsom Brandstiftelse). En Tiltalt færdedes en Nat i et straatækket Udhus, hvor der henlaa Fourage og Halm, med en to Tommer lang; Lysestump, som han under sit Ophold i Udhuset tændte. Under sit Ophold i Udhuset røg han derhos Cigaret. Umiddelbart efter at Tiltalte havde forladt Udhuset, viste det sig, at der var Ild i dette, der nedbrændte. Antaget, at Tiltalte havde foraarsaget Ilden, og at der forelaa Tilsidesættelse af almindelig Forsigtighed.*
 
 *Ankenævnskendelse i sag nr. 03.256 – 03.09.79: Da forsikringstageren, som under pasning af skadelidtes blomster havde forvoldt skade på dennes gulvtæppe, ikke fandtes at have udvist et så uforsvarligt forhold, at han ville kunne gøres ansvarlig for skaden, var selskabet berettiget til at afslå at erstatte denne. (Utrykt)*
+<br>
 
 *Ankenævnskendelse i sag nr. 03.308 – 03.09.79: Da forsikringstageren, som under arbejde i sin svigerfars lejlighed forvoldte skade på el-hovedkablet, ikke fandtes at have udvist et så uforsvarligt forhold, at han ville kunne gøres ansvarlig for skaden, var selskabet berettiget til at afslå at erstatte denne (utrykt).*
 
 ---
 
-### Grov uagtsomhed
+## Grov uagtsomhed
 Grov uagtsomhed (latin; culpa lata) er en betydelig form for uagtsomhed. Nyere retspraksis lægger vægt på, om skadevolderens adfærd indebar en ”indlysende fare”, for den indtrådte skade. Skadevolderens bevidsthed om faren kan indgå i vurderingen af, om uagtsomheden er grov. Går en fodgænger over for rødt og vælter en cyklist, er fodgængeren nu mere uforsigtig end selv en skødesløs fodgænger. Det kan betegnes som grov uagtsomhed, og fodgængeren er erstatningsansvarlig. Det er en skønsmæssig vurdering, om domstolene og Ankenævnet for Forsikring anser en person for at have handlet groft uagtsomt, se her nævnte domme og ankenævnsafgørelser:
 
 ---
@@ -2255,7 +2328,7 @@ Grov uagtsomhed (latin; culpa lata) er en betydelig form for uagtsomhed. Nyere r
 
 ---
 
-### Forsæt (med vilje)
+## Forsæt (med vilje)
 Forsæt, er en handling der er foretaget med vilje, er ikke i dansk ret en betingelse for at ifalde erstatningsansvar. At skadevolderen har udvist uagtsomhed, dvs. tilsidesat den agtpågivenhed, som kræves på det pågældende område, er som hovedregel tilstrækkeligt til at pålægge erstatningsansvar, Kaster en person en sten efter en cyklist for at ramme denne, og det lykkes, er skaden på cyklisten lavet med vilje – med forsæt. Skadevolderen er selvfølgelig også her erstatningsansvarlig. Hovedreglen er i dansk ret, at kun forsætlige forhold er strafbare, dog en vigtig undtagelse uagtsom drab. Ved forsætlige handlinger afviser skadevolders ansvarsforsikring at udbetale erstatning, se her nævnte sager om vurderingen om skadevolder har handlet med forsæt – med vilje:
 
 
@@ -2275,8 +2348,8 @@ Ved simpel og grov uagtsomhed er det hovedreglen, at en ansvarsforsikring dække
 
 ---
 
-### Objektivt ansvar
-I dansk ret kan der også gælde et såkaldt “objektivt ansvar”, hvorefter skadevolderen pålægges erstatningsansvar, selv om der ikke er handlet uagtsomt (uden skyld). Med andre ord er der situationer, hvor man kan blive ansvarlig, selv om skaden sker ved et hændeligt uheld. Objektivt ansvar er bl.a. lovfæstet i produktansvarsloven, jernbaneloven, luftfartsloven, lov om drift af nukleare anlæg, søloven, hundeloven, færdselsloven og lov om formidling af fast ejendom:  
+## Objektivt ansvar
+I dansk ret kan der også gælde et såkaldt “objektivt ansvar”, hvorefter skadevolderen pålægges erstatningsansvar, selv om der ikke er handlet uagtsomt (uden skyld). Med andre ord er der situationer, hvor man kan blive ansvarlig, selv om skaden sker ved et hændeligt uheld. Objektivt ansvar er bl.a. lovfæstet i produktansvarsloven, jernbaneloven, luftfartsloven, lov om drift af nukleare anlæg, søloven, hundeloven, færdselsloven og lov om formidling af fast ejendom, se følgende dom over en ejendomsmægler:  
 
 
 ---
@@ -2285,7 +2358,9 @@ I dansk ret kan der også gælde et såkaldt “objektivt ansvar”, hvorefter s
 
 ---
 
-Men det objektive ansvar kan også være ulovhjemlet (ikke fastsat i loven). Domstolene har i visse tilfælde pålagt skadevoldere objektivt ansvar uden lovhjemmel, når skaden er indtrådt som følge af materialesvigt, f.eks. skader, der er forvoldt af brud på fjernvarmerør, el og gasledninger mv.  
+Men det objektive ansvar kan også være ulovhjemlet (ikke fastsat i loven). Domstolene har i visse tilfælde pålagt skadevoldere objektivt ansvar uden lovhjemmel, når skaden er indtrådt som følge af materialesvigt, f.eks. skader, der er forvoldt af brud på fjernvarmerør, el og gasledninger mv. 
+
+Se følgende domme: 
 
 
 ---
@@ -2298,9 +2373,12 @@ Men det objektive ansvar kan også være ulovhjemlet (ikke fastsat i loven). Dom
 
 ## Generelt bortfald af ansvar
 Selv om skadevolder har handlet forkert – været uagtsom – er der nogle situationer, hvor skadevolder alligevel ikke er erstatningsansvarlig.
+<br>
 Er den skade, der er sket, i forvejen dækket af en tingsforsikring eller en driftstabsforsikring, er skadevolder ikke erstatningsansvarlig. Det gælder dog kun, hvis skaden ikke er forvoldt med vilje eller ved grov uagtsomhed. Det fremgår af Lov om erstatningsansvar (Lovbekendtgørelse nr. 1070 af 24. august 2018). Smadrer en dreng eksempelvis naboens glasrude, der er forsikret, ved en simpel uagtsomhed, er drengen ikke erstatningsansvarlig. Vinduet bliver betalt af glasforsikringen.
+<br>
 Lov om erstatningsansvar fastslår også, at hvis staten, en kommune eller en anden offentlig institution er selvforsikrende, skal de erstatningsmæssigt betragtes på samme måde, som hvis de havde tegnet forsikring. Det betyder, at der ikke er forskel på, om drengen ved en simpel uagtsomhed, smadrer naboens glasforsikrede rude eller en rude i kommunens skole, hvor kommunen er selvforsikret. I ingen af tilfældene er drengen erstatningsansvarlig. For kommunens vedkommende betyder det, at den selv må betale ruden.
-Man kan ikke blive erstatningsansvarlig over for sig selv. De ting, som man ødelægger af sine egne ting, udløser ikke et erstatningsansvar, som der kan dækkes på ens ansvarsforsikring. Se f.eks. her nævnte sag:
+<br>
+Man kan ikke blive erstatningsansvarlig over for sig selv. De ting, som man ødelægger af sine egne ting, udløser ikke et erstatningsansvar, som der kan dækkes på ens ansvarsforsikring. Se f.eks. her nævnte dom:
 
 ---
 
@@ -2323,14 +2401,14 @@ I Lov om erstatningsansvar kan man læse, hvad der kan kræves i erstatning af e
 ### Anmeldelse af erstatningskrav
 Skadelidte skal henvende sig til den, der er skyld i skaden. Har skadevolder en ansvarsforsikring, kan vedkommende anmelde skaden til sit eget forsikringsselskab. Har skadevolderen ingen forsikring, må skadevolderen selv betale. Skadelidte må eventuelt rejse sit krav om erstatning gennem en retssag.
 
-#### Sådan bliver man erstatningsansvarlig i relation til ansvarsforsikringen
+### Sådan bliver man erstatningsansvarlig i relation til ansvarsforsikringen
 Flere forsikringer indeholder automatisk en ansvarsforsikring, der dækker, hvis en af de forsikrede bliver erstatningsansvarlig for en skade. For mange er det svært at vurdere, hvornår de er ansvarlige for en skade, og hvornår ansvarsforsikringen dækker. Derfor vil reglerne for, hvornår der er ansvar, kort blive gennemgået nedenfor.
 
 Har man forvoldt en skade, er det naturligt, at man føler skyld og mener, at skadelidte skal have erstatning, enten fra en selv eller fra det forsikringsselskab, hvor man er ansvarsforsikret.
 
 At føle skyld for en skade er ikke det samme som, at man juridisk er ansvarlig, og at skadelidte dermed har ret til erstatning. I nogle tilfælde vil det fremgå af lovgivningen, om man er erstatningsansvarlig, mens det i tilfælde, hvor der ikke er lovgivet, vil være retspraksis (domstolene), der afgør, om man er erstatningsansvarlig.
 
-#### Udgifter til behandling
+### Udgifter til behandling
 <img src="img/doctor.jpeg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Man kan få erstattet de udgifter til behandling, som ikke bliver betalt fra anden side (f.eks. den offentlige sygesikring eller sin egen ulykkesforsikring). Det kan være udgifter til medicin, fysioterapi, kiropraktorbehandling, hjælpemidler og hjemmehjælp, som lægen har ordineret, eller rimelige udgifter til transport til og fra et behandlingssted.
 Fremtidige helbredelsesudgifter bliver erstattet med et kapitalbeløb, der udbetales på én gang og udregnes efter regler, der er fastsat i loven.
@@ -2339,8 +2417,8 @@ Fremtidige helbredelsesudgifter bliver erstattet med et kapitalbeløb, der udbet
 *	Erstatning for erhvervsevnetab, hvis denne udbetales som en løbende ydelse
 *	Renter, uanset om beløbet, de vedrører, er skattepligtigt eller ej. Erstatningen er skattefri, men der skal betales skat af eventuelle renter.
 
-#### Tabt arbejdsfortjeneste
-Har man tab af indtægt som følge af uheldet, kan man kræve hele tabet erstattet. Man får erstatning fra det tidspunkt, hvor uheldet skete, og indtil man kan begynde at arbejde igen. Medfører skaden, at man vil få et varigt erhvervsevnetab, får man erstatning frem til det tidspunkt, hvor det er muligt midlertidigt eller endeligt at skønne over ens fremtidige erhvervsevne.
+### Tabt arbejdsfortjeneste
+Har man tab af indtægt som følge af uheldet, kan man kræve hele tabet erstattet. Man får erstatning fra det tidspunkt, hvor uheldet skete, og indtil man kan begynde at arbejde igen. Medfører skaden, at man vil få et varigt erhvervsevnetab, får man erstatning frem til det tidspunkt, hvor det er muligt midlertidigt eller endeligt at skønne over ens fremtidige erhvervsevne, se følgende dom.
 
 
 ---
@@ -2349,15 +2427,15 @@ Har man tab af indtægt som følge af uheldet, kan man kræve hele tabet erstatt
 
 ---
 
-#### Svie og smerte
+### Svie og smerte
 Godtgørelse for svie og smerte ydes som kompensation for det ubehag og de smerter, som et uheld medfører. Godtgørelsen kan kræves for perioden fra tidspunktet for uheldet, og normalt så længe man er sygemeldt. Godtgørelsen bliver givet efter en fast takst.
 
-#### Godtgørelse for varigt mén
+### Godtgørelse for varigt mén
 Hvis man får varige gener i sin dagligdag på grund af uheldet, kan man kræve godtgørelse for varigt mén.
 
 Størrelsen af ens mén angives i ménprocent. Det er et lægeligt skøn, der afgør, hvor stort ens mén bliver. Det skal være mindst 5 procent, for at man kan få godtgørelse. Er man fyldt 40 år, bliver godtgørelsen reduceret i forhold til ens alder. Godtgørelsen for varigt mén har intet med ens (evt. tidligere) erhverv at gøre. Derfor vil man måske opleve, at man sagtens kan passe et kontorjob, selv om man har fået erstatning for varigt mén, hvorimod man måske ville have svært ved at passe et job, der var fysisk hårdere.
 
-#### Erhvervsevnetabserstatning
+### Erhvervsevnetabserstatning
 Hvis uheldet betyder, at man mister mindst 15 procent af ens evne til at erhverve indtægt ved arbejde, kan man få erstatning for tab af erhvervsevne. Erstatningens størrelse afhænger af ens løn lige før uheldet, ens alder på uheldstidspunktet og størrelsen af ens erhvervsevnetab. Erstatningen bliver udregnet efter regler fastsat i loven.
 
 Var man fyldt 30 år på tidspunktet for uheldet, bliver ens erstatning nedsat i forhold til ens alder.
@@ -2366,11 +2444,11 @@ Man kan også kræve erstatning, selv om man ikke har nogen egentlig indtægt. F
 
 Erhvervsevnetabserstatningen bliver udbetalt på én gang.
 
-#### Dødsfald
+### Dødsfald
 <img src="img/funeral.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Der gives erstatning for rimelige begravelsesudgifter. En efterladt ægtefælle eller samlever har desuden krav på et såkaldt “overgangsbeløb”. Dette beløb skal gøre den økonomiske overgang fra gift/samlevende til enlig nemmere. Beløbets størrelse er fastsat i loven. Der kan dog ikke både gives erstatning for begravelsesudgifter og betales overgangsbeløb.
 
-#### Afdøde havde forsørgerpligt
+### Afdøde havde forsørgerpligt
 Forsørgertabserstatning til ægtefælle eller samlever udgør 30 procent af den erstatning, som afdøde ville have fået udbetalt ved fuldstændigt tab af erhvervsevnen. Der er dog fastsat et minimum- og et maksimumbeløb.
 
 Efterlevende børn får en erstatning, der svarer til summen af de børnebidrag, som afdøde på skadetidspunktet kunne være pålagt at betale. Erstatningen bliver fordoblet, hvis afdøde var eneforsørger.
@@ -2392,7 +2470,7 @@ Privatansvarsforsikringen dækker kun, hvis man juridisk set er erstatningsansva
 
 Efter dansk ret er man juridisk set ansvarlig for en skade, hvis man har udvist en uforsvarlig adfærd (handling eller undladelse), hvis adfærden kan tilregnes en som forsætlig eller uagtsom, og hvis den skade, som man har forvoldt, må anses for at være en forventelig (påregnelig) følge af ens adfærd. Denne såkaldte culparegel står ikke skrevet i nogen lov, men er udviklet gennem en langvarig retspraksis.
 
-Hændelige skader er man ikke ansvarlig for, se f.eks. her fra retspraksis:
+Hændelige skader er man ikke ansvarlig for, se f.eks. her fra retspraksis følgende domme:
 
 
 ---
@@ -2408,14 +2486,17 @@ Hændelige skader er man ikke ansvarlig for, se f.eks. her fra retspraksis:
 *Sag 88426: Klager over afslag på dækning for en ansvarsskade, hvor klagers 12-årige søn var skadevolder. Efter afsluttet fodboldspil, hvor de var på vej ud for at samle bolde ind, gav sønnen faderen et hårdt skub i ryggen, så han faldt forover og beskadigede knæet. Selskabet henviste til, at sønnen ikke var ansvarlig for skaden. Nævnet fandt, at sønnen havde udvist en adfærd, som kunne tilregnes ham som uagtsom. Klagers tilskadekomst var derfor omfattet af hjemforsikringens dækning for ansvar ved personskade. Nævnet lagde vægt på, at skubbet ikke kunne anses for at være sket under et igangværende fodboldspil eller under farlig leg. Klager medhold.*
 
 <img src="img/raket.jpg" align="right" width="25%" height="25%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<br>
 *Sag 87739: Klager over afslag på at dække en ansvarsskade forvoldt af klagers søn. Sønnen beskadigede gulvet i sit værelse på efterskolen, da han tabte et tændt heksehyl, som han ville smide ud af vinduet. Forsikringen dækkede ikke ansvar på skader på ting, som den sikrede havde i sin varetægt. Nævnet fandt derfor ikke at kunne kritisere selskabets afgørelse. Selskab medhold.*
 
 *Sag 86992: Klager over afslag på dækning for en anmeldt ansvarsskade. Klager anmeldte, at der var sket skade på hendes nabos gulv i forbindelse med, at hun havde passet naboens hus og have og ikke havde fået lukket tilstrækkeligt for vandet efter vanding af blomster. Herved var vandet løbet gennem en haveslange dryppet ned i en spand, hvor haveslangens frie ende var placeret, hvorefter vandet løb ud på gulvet. Selskabet anførte, at der var tale om en hændelig skade. Nævnet fandt, at skaden opstod ved klagers udførelse af en vennetjeneste for naboen, hvor hun ikke fik lukket forsvarligt for vandet. Nævnet fandt, at klager herved havde handlet ansvarspådragende, og lagde bl.a. vægt på, haveslangen var placeret i stuen, og at huset henstod ubeboet på tidspunktet for skadens indtræden. Det forhold, at klagers kortfattede mail af 12/8 2014 kunne give anledning til usikkerhed om, hvem der placerede spanden i stuen, kunne efter nævnets opfattelse ikke føre til andet resultat. Selskabet skulle derfor anerkende, at klager var erstatningsansvarlig. Klager medhold.*
 
 
 <img src="img/trampolin.jpg" align="right" width="25%" height="25%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<br>
 *Sag 86059: Klager over afvisning af dækning for en knæskade, som klagers datters veninde (12 år) pådrog sig under et hop på klagers trampolin den 3/6 2013. Selskabet afviste dækning med henvisning til, at der var tale om et hændeligt uheld, og at klager ikke var ansvarlig for den skete skade. Nævnet fandt, at klager havde handlet ansvarspådragende ved at lade datterens veninde benytte en trampolin med et sikkerhedsnet, der ikke var monteret korrekt. Nævnet fandt det godtgjort, at den mangelfulde montering af sikkerhedsnettet var medvirkende årsag til, at venindens fod satte sig fast, så hun kom til skade. Selskabet skulle derfor anerkende, at klager var ansvarlig for de skader, som veninden måtte have pådraget sig. Det forhold, at skadelidte og skadelidtes mor var bekendt med sikkerhedsnettets tilstand, kunne ikke føre til andet resultat. Klager medhold.*
 
+<br>
 
 *Sag 85472: Klager over afvisning af dækning for en ansvarsskade over en familieforsikring. Klager havde etableret et stort hul i gulvet i sin ejerlejlighed med henblik på at opsætte vindeltrappe. En maler faldt ned gennem hullet og kom til skade. Selskabet afviste ansvarsdækning med henvisning til, at der var tale om et grundejeransvar, som ikke var dækket af forsikringen. Nævnets flertal fandt, klagers eventuelle ansvar var et culpaansvar uden for kontrakt, og at han havde ageret som privatperson. Det eventuelle ansvar var derfor dækningsberettigende. Betingelsernes punkt 8.1.4 vedrørende grundejeransvar kunne alene anses for et tillæg til, og ikke en indskrænkning af, den dækning, der ydedes efter hovedreglen i punkt 8.1.1 om ansvar som privatperson. Mindretallet fandt, at betingelsernes 8.1.4 udtømmende gjorde op med dækningen for grundejeransvar, og at den anmeldte skade ikke kunne henføres herunder. Mindretallet bemærkede, at klager kunne have tegnet en entrepriseforsikring. Klager medhold.*
 
@@ -2426,6 +2507,7 @@ Forsikringen dækker normalt ikke, hvis man har handlet forsætligt (med vilje).
 ---
 
 <img src="img/fire.jpg" align="right" width="25%" height="25%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<br>
 *Sag 86464: Klager over dækning for erstatningsansvar som følge af brand i solcenter. Klager og en veninde havde i et solcenter sat ild til papirstykker i kabinerne, som fik fat i en papirdispenser, der begyndte at brænde. Pigerne forlod solcentret og den rygende papirdispenser. Der var efterfølgende sket brandskader for 2,3 mio. kr. Klager blev idømt solidarisk ansvar med veninden for skaderne. Selskabet afviste at yde dækning med henvisning til at skaderne var sket med forsæt. Klager gjorde gældende, at det ikke var hende, der konkret havde sat ild til det papirstykke, der førte til ild i papirdispenseren og de efterfølgende brandskader. Nævnet fandt, at skaderne var sket med forsæt fra klager og lagde navnlig vægt på, at et solidarisk ansvar var omfattet af dækningsundtagelsen, og at klager ved sin medvirken og ved at forlade stedet med en rygende papirdispenser, der havde været ild i måtte have indset, at der herved var nærliggende risiko for yderligere skader. Selskab medhold.*
 
 ---
@@ -2464,6 +2546,7 @@ Man har handlet uagtsomt, hvis en almindelig, fornuftig person (bonus pater) ved
 
 ### Forsætlig
 <img src="img/stupid.jpg" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<br>
 Man har handlet forsætligt, hvis man havde vilje til at forårsage den skade, der indtrådte, hvis man havde indset, at skaden ville indtræde, eller hvis man ikke ville have handlet anderledes, selv om man havde indset, at skaden med stor sandsynlighed ville indtræde. Det ses eksempelvis i tidligere nævnte Forsikringsankenævns sag 86464, hvor nævnet fandt, at brandskaderne på et solcenter var sket med forsæt, da skadevolderen måtte have indset, at der var nærliggende risiko for skade, idet en papirdispenser røg, da skadevolderen forlod solcentret.
 
 Privatansvarsforsikringen dækker ikke, hvis man har forvoldt skaden forsætligt. Har man handlet forsætligt, bliver man selvfølgelig erstatningsansvarlig over for skadelidte, men det er ikke noget, som ansvarsforsikringen dækker. Her må skadevolder selv betale. Dette gælder dog ikke for børn under 14 år, der handler forsætligt, medmindre det klart fremgår af forsikringsbetingelserne, at børns forsætlige handlinger ikke dækkes. Det følger af forsikringsaftalelovens (Lovbekendtgørelse nr. 1237 af 9. november 2015) § 19, stk. 1:
@@ -2476,7 +2559,7 @@ Bestemmelserne i § 18 om bortfald eller begrænsning af selskabets ansvar finde
 
 
 
-Se fra retspraksis:
+Se fra retspraksis følgende domme:
 
 
 ---
@@ -2489,6 +2572,7 @@ Se fra retspraksis:
 *U 1982 528 H: Hvor en mand dræbte sin hustru og hund, hvorefter han satte ild på sit hus, hvorved han indebrændte. Det var ubestridt, at han havde handlet forsætligt, jf. forsikringsaftalelovens § 18, stk. 1. Retslægerådet mente, at der ikke var sikre holdepunkter for, at mandens handling skyldtes sindssygdom eller lignende tilstand. Retten antog – på grund af det abnorme handlingsforløb – at manden havde befundet sig i en sygelig sindstilstand, hvorfor forsikringsselskabet skulle udbetale forsikringssummen.*
 
 <img src="img/fire2.jpg" align="right" width="25%" height="25%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<br>
 *U 2006 1961 Ø: Hvor en mand satte i suicidal øjemed ild til sin ejendom. Retslægerådet skønnede at han ikke var sindssyg og heller ikke var det på gerningstidspunktet. Rådet fandt dog – med henvisning til omfattende alkoholmisbrug – at manden mest sandsynlig var omfattet af straffelovens § 69. Landsretten bemærkede, at forsikringsaftalelovens § 19, stk. 1, har et bredere anvendelsesområde end straffelovens § 16, idet forsikringsaftalelovens § 19, stk. 1, blandt andet omfatter »forbigående sindsforvirring eller lignende tilstand«. Bevisbyrden for, at den sikrede ved fremkaldelse af forsikringsbegivenheden opfylder det psykiske kriterium, ligger hos kravstilleren, jf. U 1982 528 H, nævnt ovenfor. Det er en relativ tung bevisbyrde.*
 
 ---
@@ -2501,9 +2585,11 @@ Forvolder man en skade hændeligt, dækker ens ansvarsforsikring heller ikke. At
 ---
 
 <img src="img/piss.jpg" align="right" width="15%" height="15%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<br>
 *Sag 86248: Klager over afvisning af dækning for en skade på klagers vens seng forårsaget af klagers ufrivillige vandladning. Selskabet henviste til, at uheldet var hændeligt, og at klager ikke havde handlet uagtsomt, hvorfor selskabet ikke kunne anerkende, at hun havde handlet ansvarspådragende. Nævnet fandt, at klager ikke havde udvist fejl eller forsømmelser forud for skadens indtræden, hvorfor klager ikke kunne pålægges et ansvar for den indtrufne skade. Nævnet fandt endvidere, at klagers lejlighedsvise brug af et præparat mod ufrivillig vandladning ikke kunne ændre herpå. Selskab medhold.*
 
 <img src="img/kajak.jpg" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<br>
 *Sag 81840: Klager over afvisning af at dækning af ansvarsskade. Klagers kajak, der var opmagasineret i hans tidligere udlejers carport, blæste under storm ned fra sin placering mellem to bjælker og forårsagede herved skade på udlejers bil. Selskabet afviste dækning med henvisning til, at skaden var hændelig. Selskab medhold.*
 
 ---
@@ -2625,6 +2711,10 @@ Sådanne skader dækkes ikke, og man skal således købe en autoansvarsforsikrin
 
 <h3><a href="https://quiz.tepedu.dk/juraerstatning" target="_blank">Quiz Erstatning   <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></h3>
 </a>
+
+<br>
+
+
 
 # Køb
 
@@ -11178,7 +11268,9 @@ FED1996.1322: Ejendomsmægler ikke ansvarlig for sælgers skuffede forventninger
 
 ## Professionsansvaret
 Professionsansvar, ansvar for skader, der er forvoldt af personer med særlig faglig uddannelse, fx håndværkere, advokater, ejendomsmæglere, revisorer, ingeniører og læger. Ansvarsgrundlaget er culpa, men ved bedømmelsen af, om der er handlet ansvarspådragende, indgår de forskrifter og sædvaner, der gælder for faget. Hvor der ikke foreligger forskrifter eller sædvaner, er vurderingsgrundlaget fagets dygtige, veluddannede udøvere. Den professionelle fagudøver er forpligtet til at præstere en god faglig indsats, dvs. opfylde de krav, der kan stilles til en sagkyndig på området.   
-Erstatningsansvar for rådgivning kræver at almindelige erstatningsansvarsbetingelser er opfyldt, Hvis en rådgiver nogle af reglerne har det indflydelse på vurderingen af ansvarsgrundlaget, jf. FIL § 43a.^[FIL; Lov om finansiel virksomhed. Aktuelt er der udstedt bkg 2016 330 om god skik for finansielle virksomheder, bkg 2018 1581 om god skik for boligkredit og bkg 2017 747 om investorbeskyttelse ved værdipapirhandel.]  Manglende overholdelse af reglerne betyder ikke nødvendigvis, at rådgiveren er erstatningsansvarlig. Manglende overholdelse af reglerne vil have en afsmittende effekt på culpa-bedømmelsen. Det vil sige, at de almindelige erstatningsretlige betingelser skal være opfyldt. Den finansielle virksomhed eller finansielle rådgiver skal således have optrådt uagtsomt (culpøst). Kunden skal have lidt et økonomisk tab, der skal være årsagssammenhæng (kausalitet) mellem den culpøse adfærd og det lidte tab, ligesom tabet skal være påregneligt (adækvat), og den skadelidte kunde skal ikke have udvist egen skyld. Bestemmelsen i FIL § 43a har betydning for vurderingen af, om det fornødne ansvarsgrundlag er til stede, men berører derimod ikke de øvrige erstatningsretlige betingelser. Bestemmelsen i FIL § 43a berører ikke mulighederne for at anvende aftaleretlige sanktioner ved overtrædelse af de omfattede regler, såfremt betingelserne herfor er opfyldt. Hvorvidt en handling i strid med den de udstedte bekendtgørelser medfører aftaleretlige konsekvenser, afhænger således af dansk rets almindelige aftaleretlige regler, herunder aftalelovens § 36 og § 38 c. Spørgsmålet om ansvarsgrundlagets tilstedeværelse er alene aktuelt i de situationer, hvor regler, der har private interesser som beskyttelsesformål, er overtrådt, eksempelvis de formelle krav til bekræftelse af alle væsentlige aftaler i papirformat eller på andet varigt medium, krav til rådgivning samt dokumentation herfor, gennemførelse af en hensigtsmæssighedstest m.v. Det vil næppe i sig selv kunne medføre erstatningsansvar, hvis overtrædelsen vedrører en regel, der må betragtes som en ren ordensforskrift. Det beror på en konkret vurdering hos domstolene eller ved de finansielle ankenævn, om en overtrædelse af reglerne i god skik bekendtgørelserne medfører erstatningsansvar.  
+Erstatningsansvar for rådgivning kræver at almindelige erstatningsansvarsbetingelser er opfyldt, Hvis en rådgiver nogle af reglerne har det indflydelse på vurderingen af ansvarsgrundlaget, jf. FIL § 43a.^[FIL; Lov om finansiel virksomhed. Aktuelt er der udstedt bkg 2016 330 om god skik for finansielle virksomheder, bkg 2018 1581 om god skik for boligkredit og bkg 2017 747 om investorbeskyttelse ved værdipapirhandel.]  Manglende overholdelse af reglerne betyder ikke nødvendigvis, at rådgiveren er erstatningsansvarlig. Manglende overholdelse af reglerne vil have en afsmittende effekt på culpa-bedømmelsen. Det vil sige, at de almindelige erstatningsretlige betingelser skal være opfyldt. Den finansielle virksomhed eller finansielle rådgiver skal således have optrådt uagtsomt (culpøst). Kunden skal have lidt et økonomisk tab, der skal være årsagssammenhæng (kausalitet) mellem den culpøse adfærd og det lidte tab, ligesom tabet skal være påregneligt (adækvat), og den skadelidte kunde skal ikke have udvist egen skyld. Bestemmelsen i FIL § 43a har betydning for vurderingen af, om det fornødne ansvarsgrundlag er til stede, men berører derimod ikke de øvrige erstatningsretlige betingelser. Bestemmelsen i FIL § 43a berører ikke mulighederne for at anvende aftaleretlige sanktioner ved overtrædelse af de omfattede regler, såfremt betingelserne herfor er opfyldt. Hvorvidt en handling i strid med den de udstedte bekendtgørelser medfører aftaleretlige konsekvenser, afhænger således af dansk rets almindelige aftaleretlige regler, herunder aftalelovens § 36 og § 38 c. 
+
+Spørgsmålet om ansvarsgrundlagets tilstedeværelse er alene aktuelt i de situationer, hvor regler, der har private interesser som beskyttelsesformål, er overtrådt, eksempelvis de formelle krav til bekræftelse af alle væsentlige aftaler i papirformat eller på andet varigt medium, krav til rådgivning samt dokumentation herfor, gennemførelse af en hensigtsmæssighedstest m.v. Det vil næppe i sig selv kunne medføre erstatningsansvar, hvis overtrædelsen vedrører en regel, der må betragtes som en ren ordensforskrift. Det beror på en konkret vurdering hos domstolene eller ved de finansielle ankenævn, om en overtrædelse af reglerne i god skik bekendtgørelserne medfører erstatningsansvar.  
 
 
 
@@ -11210,7 +11302,7 @@ Erstatningsansvar for rådgivning kræver at almindelige erstatningsansvarsbetin
 
 
 
-# Familie og arveret
+# Familieret
 
 
 
@@ -11241,32 +11333,45 @@ Erstatningsansvar for rådgivning kræver at almindelige erstatningsansvarsbetin
 
 
 
-#### Video: Familieliv og jura
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/lXw-hdped28" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
  
-## Ægtefællernes rådighed under ægteskabet
- 
+## Ægtefællernes rådighed under ægteskabet  
 
+ 
+<br>
+
+<img src="Ring på finger.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+<br>
 Lov nr. 548 af 30 maj 2017 om ægtefællers økonomiske forhold om ægtefællers økonomiske forhold (ÆL)– gælder for ægtefæller – ikke for ugifte samlevende – og regulerer ægtefællernes økonomiske forhold indbyrdes. Under ægteskabet er ægtefællerne to selvstændige personer med hver sin økonomi. Ægtefællerne har særråden og særhæften. Særråden betyder, at uanset ægteskabets indgåelse så råder hver ægtefælle stadig over de aktiver, som den pågældende står som ejer af. Står bilen i mandens navn kan manden altså frit sælge den uden at spørge sin ægtefælle. Står bilen derimod i hans ægtefælles navn er det kun hans ægtefælle, der kan sælge bilen.  
 
 På samme måde betyder princippet om særhæften, at hver ægtefælle, uanset ægteskabets indgåelse, alene hæfter for sin egen gæld. Det, at man indgår ægteskab betyder altså som klart udgangspunkt ikke, at man kommer til at hæfte for sin ægtefælles gæld. En enkelt generel undtagelse fra denne hovedregel er dog skattegæld, som den ene part opbygger under ægteskabet. Her er den anden part medhæftende på grund af princippet om sambeskatning af ægtefæller.  
 
-I alle øvrige forhold har det til gengæld stor betydning hvem af ægtefællerne der står som ejer af de enkelte aktiver og hvem der hæfter for gælden..^[Følgende afsnit om arve og familieret bygger på Linda Nielsens karnovkommentar til arveloven og lov om ægtefælleres Sonny Kristoffersen: ”Kend databeskyttelsesreglerne”, 2019, Samfundslitteratur.]  
+I alle øvrige forhold har det til gengæld stor betydning hvem af ægtefællerne der står som ejer af de enkelte aktiver og hvem der hæfter for gælden..^[Følgende afsnit om arve og familieret bygger på Linda Nielsens Karnovkommentar til arveloven og lov om ægtefællers øknomisk forhold, KarnovGroup.] 
 
-Lov om ægtefællers økonomiske forhold om ægtefællers økonomiske forhold ÆL er inddelt i 7 afsnit:  
+<br>
+
+### Video: Familieliv og jura
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/lXw-hdped28" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+<br>
+
+## Ægtefællelovens inddeling
+
+Lov om ægtefællers økonomiske forhold om ægtefællers økonomiske forhold (forkortet; ÆL) er inddelt i 7 afsnit:  
 
 Afsnit I indeholder almindelige bestemmelser om ægtefællers økonomiske forhold. Afsnittet indledes med kapitel 1, der indeholder regler om ægtefællers ret til at råde over deres formue, om aftaler mellem ægtefæller, om hæftelse for gæld og om forsørgelsespligt under ægteskabet. Kapitlet indeholder også den centrale bestemmelse om formuedelingen, der fastslår, at ægtefællers formue som udgangspunkt deles lige mellem dem ved separation, skilsmisse og død.
 Afsnit I indeholder endvidere regler om forbud mod salg m.v. af familiens helårsbolig uden den anden ægtefælles samtykke (kapitel 2) og om gaver til og andre aftaler med tredjemand (kapitel 3).  
 
 Afsnit II indeholder reglerne om særeje og forhåndsaftaler om formuedelingen. I kapitel 4 og 5 fastlægges ægtefællers muligheder for ved ægtepagt at indgå aftaler om særeje og andre forhåndsaftaler om formuedelingen, mens kapitel 6 indeholder formkrav til ægtepagter. Regler om særejebestemmelser om arv og gave fra tredjemand findes i kapitel 7, og kapitel 8 indeholder generelle regler for særeje, herunder om surrogater for og indtægter af særeje.  
 
-#### Video: Tinglysning af ægtepagt
+### Video: Tinglysning af ægtepagt
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/NNG8jga_q_Y" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
-#### Video: Sådan laver du selv en ægtepagt
+### Video: Sådan laver du selv en ægtepagt
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/DQmRSVrdmrY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -11282,7 +11387,7 @@ Afsnit VI (kapitel 18) indeholder regler om internationale forhold, navnlig om l
 Endelig fastlægges tidspunktet for lovens ikrafttræden (den 1. januar 2018) i afsnit VII, der også indeholder overgangsregler og bestemmelser om loven territoriale anvendelse (kapitel 19-21).
 Behandlingen af sager om formuedelingen ved separation og skilsmisse er fortsat reguleret i ægtefælleskifteloven, og arveloven og dødsboskifteloven indeholder regler om skifte af dødsboer og uskiftede boer.  
 
-### Almindelige bestemmelser om ægtefællers økonomiske forhold
+## Almindelige bestemmelser om ægtefællers økonomiske forhold
 Det følger af ÆL § 1: ”Under ægteskabet råder hver ægtefælle over sin formue, uanset om formuen er erhvervet før eller efter indgåelsen af ægteskabet, dog med de begrænsninger, som følger af stk. 2, § 2 og kapitel 2 og 3”. Det betyder, at hver ægtefælle har i levende live rådigheden over alt, hvad ægtefællen har indført i fællesboet. Denne råderet kaldes særråden. En ægtefælle kan således som udgangspunkt frit sælge, bortgive og pantsætte sine aktiver uden at spørge den anden ægtefælle om lov.  
 
 Efter ÆL § 1, stk. 1, råder hver ægtefælle under ægteskabet over sin formue, uanset om formuen er erhvervet før eller efter indgåelsen af ægteskabet, dog med de begrænsninger som følger af § 1, stk. 2 (forringelse af formuen), og ÆL § 2 (begrænsninger i ægtefællers adgang til at indgå aftaler med hinanden), samt kapitel 2 (beskyttelse af familiens helårsbolig) og kapitel 3 (gaver til og aftaler med tredjemand).  
@@ -11297,9 +11402,12 @@ Anvendelse af bestemmelsen i ÆL § 1, stk. 3 forudsætter, at samlivet mellem �
 
 Efter ÆL § 1, stk. 3 er en ægtefælle ikke forhindret i at varetage sine interesser, hvis den pågældende er i fængsel, på hospital eller institution eller på udlandsrejse, i det omfang det er muligt at komme i kontakt med den pågældende ægtefælle med henblik på at få samtykke til den omhandlede retshandel, eventuelt pr. telefon eller e-mail. Bestemmelsen omhandler både ægtefællens bemyndigelse i forhold til den anden ægtefælle til at handle på dennes vegne og ægtefællens legitimation til at handle i forhold til tredjemand. Bestemmelsen finder også anvendelse, selvom der er formuefællesskab i ægteskabet, og selvom der er tale om en disposition vedrørende et særejeaktiv. Dispositionsadgangen gælder ikke, hvis en anden er bemyndiget til at foretage dispositionen, eksempelvis ved en almindelig fuldmagt eller ved en fremtidsfuldmagt efter lov nr. 618 af 8. juni 2016 om fremtidsfuldmagter. Bemyndigelsen til at foretage dispositionen kan også tilkomme en værge, der er beskikket efter værgemålsloven.  
 
-Ægtefællernes adgang til at indgå aftaler og pådrage sig forpligtelser over for hinanden reguleres af ÆL § 2. Efter § 2, stk. 1, kan ægtefæller under ægteskabet indgå aftaler med hinanden, give hinanden gaver og pådrage sig forpligtelser over for hinanden med de undtagelser, der følger af ÆL § 2, stk. 2 og 3 samt konkurslovens § 64. Der kan f.eks. ske overdragelse af aktiver fra den ene ægtefælle til den anden ægtefælle, leje af hinandens aktiver, ydelse af lån og ansættelse af den ene ægtefælle i den anden ægtefælles virksomhed. Det gælder, uanset om de har særeje eller delingsformue, at de fx med juridisk gyldighed kan købe hinandens ting eller pantsætte dem til hinanden, indgå lejeaftaler og arbejdsaftaler mv., se dommene U 1943 947, U 1931 294 H og U 1930 1 H. Da ægtefæller ofte tager ret formløst på de aftaler, de indgår under ægteskabet, kan det i praksis være vanskeligt at afgrænse lån, gaver, sameje og forsørgelse. Spørgsmålet har konsekvenser dels over for ægtepars kreditorer, dels over for ægtefællerne selv i en senere bodelingssituation, især for ægtefæller med særeje. Den ægtefælle, der hævder at have et gældskrav på den anden, må føre bevis herfor, idet der som udgangspunkt er en formodning for, at overførsel af pengebeløb til ægtefællen sker til opfyldelse af forsørgelsespligten. Ægtefællerne kan også pådrage sig forpligtelser over for hinanden uden aftale, f.eks. som følge af, at en ægtefælle uagtsomt eller forsætligt forvolder skade på den anden ægtefælles ejendele eller person. Der kan være tale om erstatnings- eller kontraktsforpligtelser, jf. dommene U 1986 212 (erstatningsansvar for uberettiget afhændelse); U 1966 151 H; U 1963 1056 (drabsforsøg, personskade); U 1954 825 (regreskrav for tab af forsørger ikke anerkendt); U 1959 403 (færdselsuheld) og U 1936 636 (færdselsuheld). Ægtefællerne kan have en interesse i at få erstatningsansvaret fastlagt, hvor skaden er dækket af en forsikring, f.eks. ansvarsforsikring for en bil.  
+Ægtefællernes adgang til at indgå aftaler og pådrage sig forpligtelser over for hinanden reguleres af ÆL § 2. Efter § 2, stk. 1, kan ægtefæller under ægteskabet indgå aftaler med hinanden, give hinanden gaver og pådrage sig forpligtelser over for hinanden med de undtagelser, der følger af ÆL § 2, stk. 2 og 3 samt konkurslovens § 64. Der kan f.eks. ske overdragelse af aktiver fra den ene ægtefælle til den anden ægtefælle, leje af hinandens aktiver, ydelse af lån og ansættelse af den ene ægtefælle i den anden ægtefælles virksomhed. Det gælder, uanset om de har særeje eller delingsformue, at de fx med juridisk gyldighed kan købe hinandens ting eller pantsætte dem til hinanden, indgå lejeaftaler og arbejdsaftaler mv., se dommene U 1943 947, U 1931 294 H og U 1930 1 H. Da ægtefæller ofte tager ret formløst på de aftaler, de indgår under ægteskabet, kan det i praksis være vanskeligt at afgrænse lån, gaver, sameje og forsørgelse. Spørgsmålet har konsekvenser dels over for ægtepars kreditorer, dels over for ægtefællerne selv i en senere bodelingssituation, især for ægtefæller med særeje. Den ægtefælle, der hævder at have et gældskrav på den anden, må føre bevis herfor, idet der som udgangspunkt er en formodning for, at overførsel af pengebeløb til ægtefællen sker til opfyldelse af forsørgelsespligten. Ægtefællerne kan også pådrage sig forpligtelser over for hinanden uden aftale, f.eks. som følge af, at en ægtefælle uagtsomt eller forsætligt forvolder skade på den anden ægtefælles ejendele eller person. 
+
+Der kan være tale om erstatnings- eller kontraktsforpligtelser, jf. dommene U 1986 212 (erstatningsansvar for uberettiget afhændelse); U 1966 151 H; U 1963 1056 (drabsforsøg, personskade); U 1954 825 (regreskrav for tab af forsørger ikke anerkendt); U 1959 403 (færdselsuheld) og U 1936 636 (færdselsuheld). Ægtefællerne kan have en interesse i at få erstatningsansvaret fastlagt, hvor skaden er dækket af en forsikring, f.eks. ansvarsforsikring for en bil.  
 
 Efter ÆL § 2, stk. 2 kan ægtefæller ikke ved aftale fravige reglerne i loven, medmindre andet følger af lovens kapitler 4-6 (aftaler om særeje og andre aftaler om formuedeling samt krav om ægtepagt for sådanne aftaler) samt ÆL § 25, stk. 2, (aftaler om surrogater for og indtægter af særeje og ÆL § 32 (aftaler om formuedeling i forbindelse med separation og skilsmisse).
+
 Ægtefæller kan således navnlig ikke give afkald på retten til forsørgelse efter ÆL § 4, stk. 1, eller på forhånd aftale fravigelse af reglerne om samtykke til dispositioner over familiens helårsbolig (lovens kapitel 2).  
 
 Ægtefæller kan ligeledes ikke indgå forhåndsaftaler om formuedelingen ved separation, skilsmisse og død (lovens afsnit III og IV), om regulerings- og misbrugskrav (lovens kapitel 11), om retten til kompensation (lovens kapitel 12), om pensionskompensation (lovens kapitel 13) og om udtagelse af aktiver (lovens kapitel 14).  
@@ -11308,7 +11416,9 @@ Efter ÆL § 2, stk. 3 kan ægtefæller ikke gyldigt aftale, at det, som den ene
 
 Efter ÆL § 3 hæfter hver af ægtefællerne med den del af delingsformuen, hvorover den pågældende ægtefælle råder, og med sit særeje for de forpligtelser, der påhviler ægtefællen, hvad enten forpligtelserne er opstået før eller under ægteskabet. Bestemmelsen medfører, at en ægtefælle alene hæfter for sin egen gæld. Dette kaldes særhæften. En ægtefælle hæfter således som udgangspunkt ikke for den anden ægtefælles gæld. Ægtefæller hæfter dog sammen for forpligtelser, som de har påtaget sig sammen, f.eks. ved i fællesskab at optage et lån. Ægtefæller hæfter også sammen for forpligtigelser, der følger af, at de sammen ejer et aktiv (sameje), f.eks. ejendomsskatter vedrørende en fast ejendom, som de begge er medejere af.  
 
-Ægtefæller hæfter efter almindelige formueretlige regler sammen for forpligtelser, som de har påtaget sig sammen, f.eks. ved i fællesskab at optage et lån, herunder et realkreditlån i fast ejendom. Ægtefæller hæfter også sammen for forpligtigelser, der følger af, at de ejer et aktiv i sameje. Hvis de f.eks. sammen ejer fast ejendom, hæfter de begge for f.eks. ejendomsskatter. Fælles hæftelse kan også følge af fuldmagt, kaution mv. Overladelse af kreditkort eller kontokort kan efter omstændighederne anses som en særlig form for fuldmagt. Retspraksis har ud fra stiltiende accept eller passivitet statueret fælles hæftelse for reparationer mv. udført på en ægtefælles ejendom, selvom den anden ægtefælle har bestilt arbejdet,  se f.eks. dommene U 1994 328, U 1991 343 og U 1987 43.  
+Ægtefæller hæfter efter almindelige formueretlige regler sammen for forpligtelser, som de har påtaget sig sammen, f.eks. ved i fællesskab at optage et lån, herunder et realkreditlån i fast ejendom. Ægtefæller hæfter også sammen for forpligtigelser, der følger af, at de ejer et aktiv i sameje. Hvis de f.eks. sammen ejer fast ejendom, hæfter de begge for f.eks. ejendomsskatter. Fælles hæftelse kan også følge af fuldmagt, kaution mv. Overladelse af kreditkort eller kontokort kan efter omstændighederne anses som en særlig form for fuldmagt. 
+
+Retspraksis har ud fra stiltiende accept eller passivitet statueret fælles hæftelse for reparationer mv. udført på en ægtefælles ejendom, selvom den anden ægtefælle har bestilt arbejdet,  se f.eks. dommene U 1994 328, U 1991 343 og U 1987 43.  
 
 Hæftelse for den anden ægtefælles gæld kan også følge af lovgivningen, bl.a. § 12 i lov om inddrivelse af gæld til det offentlige, hvorefter en ægtefælle under visse betingelser hæfter for den anden ægtefælles skattegæld, og § 92, stk. 2, i aktivloven, hvorefter ægtefæller hæfter solidarisk for krav på tilbagebetaling af hjælp til betaling af renter og afdrag på lån i fast ejendom, selv om kun den ene ægtefælle er ejer af ejendommen.  
 
@@ -11335,13 +11445,14 @@ Efter ÆL § 5, stk. 1, 1. pkt., deler ægtefæller ved separation eller skilsmi
 
 Det fremgår af ÆL § 5, stk. 2, at en ægtefælles formue, der efter ÆL § 5, stk. 1 ligeledes, betegnes delingsformue. Ægtefællernes delingsformuer udgør et formuefællesskab mellem ægtefællerne.  
 
-### Dispositioner over familiens helårsbolig
+## Dispositioner over familiens helårsbolig
 Efter ÆL § 6, stk. 1, må en ægtefælle ikke uden den anden ægtefælles samtykke indgå aftale om at overdrage, pantsætte, udleje eller bortforpagte familiens helårsbolig eller en bolig, der er bestemt til familiens helårsbolig, når boligen helt eller delvist helt eller delvist indgår i ligedelingen efter ÆL § 5, stk. 1, 1. pkt. Bestemmelsen i § 6, stk. 1 omfatter alle helårsboliger, bortset fra lejeboliger, hvor lejerægtefællens ret til at disponere over lejligheden er reguleret af lejelovens § 81, stk. 2, og almenlejelovens § 84, jf. § 87. Reglen er således i forhold til den gældende bestemmelse udvidet til også at omfatte andelsboliger og andre boliger omfattet af andelsboliglovens § 1 a, der blandt andet omfatter boligaktieselskaber, boliganpartsselskaber, boligsamejer, boliginteressentskaber og boligkommanditselskaber. Er ægtefællernes helårsbolig f.eks. en husbåd eller en campingvogn, er den også omfattet.  
 
 I forhold til den gældende bestemmelse er bestemmelsen også begrænset, idet den ikke omfatter erhvervsejendomme og heller ikke fritidshuse, medmindre de tillige anvendes som helårsbolig.  
 
 Ikke kun en ejendom, som familien aktuelt bor i, er omfattet af bestemmelsen i § 6, stk. 1, men bestemmelsen omfatter f.eks. også en nyindkøbt ejendom eller et hus under opførelse, som familien endnu ikke har nået at flytte ind i, hvilket fremgår af ordene "bestemt til“. Også en ejendom, der midlertidigt er udlejet under f.eks. en udstationering i udlandet, er omfattet af bestemmelsen, hvis det er hensigten, at familien skal vende tilbage til boligen efter det midlertidige ophold. Det afgørende er, hvor familien faktisk bor eller har til hensigt at bo, og ikke boligens status af helårs- eller fritidshus. Anvendes et helårshus faktisk som fritidshus, er det ikke omfattet af bestemmelsen, og anvendes et fritidshus faktisk som helårsbolig, er det omfattet. Flere ejendomme tilhørende ægtefællerne kan være omfattet af bestemmelsen, f.eks. hvis familien bor i ét hus i sommerhalvåret og et andet i vinterhalvåret, eller hvis familien bor i et hus, mens et nyt hus er under opførelse.  
-ÆL § 6, stk. 1beskytter kun selve helårsboligen. Det er således fortsat tilladt uden samtykke f.eks. at frasælge eller bortforpagte et jordstykke fra en ejendom. Det afgørende for, om salg af en del af en ejendom kræver samtykke, vil som efter hidtidig praksis være, om den del, der ønskes frasolgt, udgør en naturlig bestanddel af den faste ejendom, og dermed om ejendommen efter afhændelsen af en del af den stadig kan anvendes til familiens bolig.  
+
+ÆL § 6, stk. 1 beskytter kun selve helårsboligen. Det er således fortsat tilladt uden samtykke f.eks. at frasælge eller bortforpagte et jordstykke fra en ejendom. Det afgørende for, om salg af en del af en ejendom kræver samtykke, vil som efter hidtidig praksis være, om den del, der ønskes frasolgt, udgør en naturlig bestanddel af den faste ejendom, og dermed om ejendommen efter afhændelsen af en del af den stadig kan anvendes til familiens bolig.  
 
 ÆL § 6, stk. 1 omfatter også ejendomme med mere end en beboelseslejlighed, hvis familien bor i en af lejlighederne. Det afgørende er, om dispositionen omfatter familiens helårsbolig. Bor familien f.eks. i en lejlighed i en udlejningsejendom, som den ene ægtefælle ejer, kan de andre lejligheder udlejes uden samtykke fra den, der ikke ejer ejendommen. Udstykkes en sådan ejendom i ejerlejligheder, kan de øvrige lejligheder sælges uden samtykke. Salg af hele ejendommen kræver derimod samtykke.  
 
@@ -11349,10 +11460,11 @@ Beskyttelsen af familiens bolig, kun skal omfatte bolig, hvor der er delingsform
 
 Hvis boligen er erhvervet for både delingsformue og særeje, er den efter ÆL § 24, stk. 1, brøkdelssæreje. Den del af boligen, der er delingsformue, indgår i formuedelingen efter ÆL § 5, stk. 1, 1. pkt., og dermed indgår boligen i formuedelingen, også selvom delingsformuen kun udgør en beskeden del af boligens værdi. Boligen er således omfattet af beskyttelsen efter ÆL § 6.  
 
-Hvis hele ejerægtefællens formue er brøkdelssæreje, sumsæreje, eller sumdeling efter ÆL § 12, stk. 2, nr. 3-5, er ægtefællens enkelte aktiver ikke fuldt ud særeje, hvorfor boligen ligeledes er omfattet af beskyttelsen efter ÆL § 6.  
+Hvis hele ejerægtefællens formue er brøkdelssæreje, sumsæreje, eller sumdeling efter ÆL § 12, stk. 2, nr. 3-5, er ægtefællens enkelte aktiver ikke fuldt ud særeje, hvorfor boligen ligeledes er omfattet af beskyttelsen efter ÆL § 6. 
+
 Tilsvarende gælder ved retten til at udtage den anden ægtefælles ejendele efter ÆL § 48.   
 
-I modsætning til den tidligere gældende § 18, stk. 1, 3. pkt., i retsvirkningsloven, er værgens beføjelser ikke udtrykkeligt reguleret. Det indebærer, at de almindelige regler om værgemål finder anvendelse. Er en ægtefælle frataget den retlige handleevne efter værgemålslovens § 6, kan værgen give samtykke på ægtefællens vegne. Dette forudsætter selvsagt, at værgen ikke er inhabil, f.eks. fordi ejerægtefællen selv er værge. I sådanne tilfælde kan der beskikkes en særlig værge efter værgemålslovens § 47.  
+I modsætning til den tidligere gældende lovs § 18, stk. 1, 3. pkt., i retsvirkningsloven, er værgens beføjelser ikke udtrykkeligt reguleret. Det indebærer, at de almindelige regler om værgemål finder anvendelse. Er en ægtefælle frataget den retlige handleevne efter værgemålslovens § 6, kan værgen give samtykke på ægtefællens vegne. Dette forudsætter selvsagt, at værgen ikke er inhabil, f.eks. fordi ejerægtefællen selv er værge. I sådanne tilfælde kan der beskikkes en særlig værge efter værgemålslovens § 47.  
 
 Efter ÆL § 6, stk. 2, kræves samtykke efter ÆL § 6, stk. 1, selv om ægtefællerne har ophævet samlivet, og efter det ÆL § 6, stk. 3 kræves samtykke efter § 6, stk. 1 også efter separation eller skilsmisse, indtil der efter almindelige formueretlige principper er indgået aftale, eller der er truffet endelig afgørelse om boligen efter ÆL § 48 om ægtefællernes ret til at udtage aktiver ved formuedeling i forbindelse med separation og skilsmisse. Hvis der ikke er taget stilling til, hvad der skal ske med ejendommen, skal ejerægtefællen også efter separation eller skilsmisse have den anden ægtefælles samtykke for at kunne foretage dispositioner omfattet af ÆL § 6, stk. 1.  
 
@@ -11363,8 +11475,9 @@ Har en ægtefælle indgået en aftale, der er omfattet af ÆL § 6, uden samtykk
 
 Bestemmelsen i ÆL § 9 fastslår, at beskyttelsesreglerne i ÆL §§ 6-8 kun finder anvendelse på boliger, der befinder sig i Danmark. Dette skyldes, at en afgørelse om dispositioner over boliger i andre lande bør træffes af myndighederne i det pågældende land, ikke mindst fordi danske afgørelser herom ikke kan forventes at blive anerkendt i andre lande.  
 
-### Aftaler med tredjemand om erhvervsløsøre
-I det tilfælde, hvor en ægtefælle har givet tredjemand en gave. Hvis bortgivelsen af gaven medfører nærliggende risiko for, at den anden ægtefælle ikke vil kunne få dækket sine krav ved en formuedeling, og tredjemand (gavemodtageren) vidste eller burde vide dette, giver bestemmelsen i ÆL § 10 denne ægtefælle mulighed for at kræve, at tredjemand giver gaven tilbage.  
+## Aftaler med tredjemand om erhvervsløsøre
+I det tilfælde, hvor en ægtefælle har givet tredjemand en gave. Hvis bortgivelsen af gaven medfører nærliggende risiko for, at den anden ægtefælle ikke vil kunne få dækket sine krav ved en formuedeling, og tredjemand (gavemodtageren) vidste eller burde vide dette, giver bestemmelsen i ÆL § 10 denne ægtefælle mulighed for at kræve, at tredjemand giver gaven tilbage. 
+
 De krav, som efter ÆL § 10 kan danne grundlag at kræve gaven tilbage, er navnlig regulerings- og misbrugskrav (lovens kapitel 11), krav på kompensation i særlige situationer (lovens kapitel 12) og krav på pensionskompensation (lovens kapitel 13).  
 
 Gaven kan ikke kræves tilbage, hvis gavegiver ved gaven ikke blev insolvent (konkurslovens § 17, stk. 2), og gavegiver utvivlsomt havde tilstrækkelige midler til at dække sine forpligtelser, dvs. ikke blev insufficient. Efter konkurslovens § 17, stk. 2, er en skyldner insolvent, hvis den pågældende ikke kan opfylde sine forpligtelser, efterhånden som de forfalder, medmindre betalingsudygtigheden må antages blot at være forbigående.  
@@ -11374,6 +11487,7 @@ Gavegiver skal ikke som i konkurslovens § 64 godtgøre at have været sufficien
 Det forudsættes, at ÆL § 10 kun anvendes ved gaver af stor økonomisk værdi, hvilket udelukker lejlighedsgaver. De gaver, der kan kræves tilbage, vil typisk stå i misforhold til gavegivers økonomiske forhold, hvilket beror på en konkret vurdering af gavegivers formue- og indtægtsforhold.  
 
 Også motivet for gaven indgår i vurderingen. Der vil således navnlig være grund til at kunne kræve gaven tilbage, hvis gavegiver som forberedelse af eller i forbindelse med en samlivsophævelse giver værdifulde gaver til sin nye partner eller andre familiemedlemmer eller venner, med henblik på at unddrage den anden ægtefælle fra at få dækket sine krav.  
+
 Gaven kan ikke kræves tilbage, hvis den er givet af midler, der ikke ville være indgået i formuedelingen, typisk fordi midlerne var særeje. At give en gave af sit særeje m.v. kan dog være til skade for den anden ægtefælle, hvis gavegiver står tilbage med en betydelig gæld, der efter ÆL § 29, stk. 2, ville være blevet dækket helt eller delvist af gaven, men nu skal dækkes af delingsformuen. Det samme gælder, hvis den anden ægtefælle har regulerings- og misbrugskrav efter lovens kapitel 11, der på grund af bortgivelsen ikke kan dækkes af gavegivers resterende formue.  
 
 Endelig kræves det, at gavemodtageren vidste eller burde vide, at gaven var givet under de foreliggende omstændigheder. Dette vil f.eks. være tilfældet, hvis gavegivers nye partner er klar over, at gavegiver er i færd med at overføre sin formue til partneren inden samlivsophævelse.  
@@ -11387,6 +11501,7 @@ Det er ikke en betingelse for at anvende bestemmelsen, at ægtefællerne bliver 
 Efter bestemmelsen gives gaven tilbage til gavegiveren sådan, at den anden ægtefælle kan få dækket sine krav ved formuedelingen i gavegiverens formue.  
 
 Hvis gavegiver erklæres konkurs, finder omstødelsesreglerne i konkursloven anvendelse.
+
 Efter ÆL § 10, stk. 2 skal retssag om krav efter § 10, stk. 1 anlægges inden 1 år efter, at den anden ægtefælle har fået kendskab til gaven, og inden 3 år efter det tidspunkt, hvor gaven blev givet. Hvis tinglysning eller anden sikringsakt er nødvendig for, at gavemodtager opnår beskyttelse mod retsforfølgning fra gavegivers kreditorer, anses gaven for givet på det tidspunkt, hvor sikringsakten blev foretaget.  
 
 Har en ægtefælle overladt løsøre til brug i den anden ægtefælles erhvervsvirksomhed, bliver den ægtefælle, der ejer løsøret, bundet af aftaler om løsøret, som den anden ægtefælle har indgået med tredjemand. Dette gælder dog ikke, hvis tredjemand vidste eller burde vide, at ægtefællen ikke var berettiget til at indgå aftalen, jf. ÆL § 11.  
@@ -11394,58 +11509,61 @@ Har en ægtefælle overladt løsøre til brug i den anden ægtefælles erhvervsv
 ## Særeje og forhåndsaftaler om formuefordelingen
 Efter ÆL § 12 kan ægtefæller ved ægtepagt indgå følgende aftaler om særeje. En ægtepagt om særeje er en skriftlig aftale mellem to ægtefæller. Aftalen bestemmer, at der ikke skal gælde formuefællesskab i ægteskabet, som man ellers automatisk får, når man gifter sig. Formuefællesskab betyder kort sagt, at man som ægtefæller skal dele formuer i tilfælde af separation, skilsmisse eller død.  
 
-### Særeje
+## Særeje
 Særeje er en formueordning, der betyder, at man ikke nødvendigvis skal dele alt i tilfælde af skilsmisse eller død. Der findes flere forskellige særejeformer: fuldstændigt særeje, skilsmissesæreje, kombinationssæreje, brøkdelssæreje og tidsbegrænset særeje. Skilsmissesæreje gælder kun ved skilsmisse.  
 
-#### Video: Hvilket særeje skal du vælge?
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/u3qv7qhAn14" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-<br>
 
-**Fuldstændigt særeje**   
+### **Fuldstændigt særeje**   
 Hvis man har aftalt et fuldstændigt særeje, indebærer dette at der er særejevirkning under ægteskabet, ved separation og skilsmisse, samt ved en eller begge ægtefællers død. Med andre ord betyder det, at det man har som sit fuldstændige særeje ikke skal deles med den anden ægtefælle i forbindelse med skilsmisse. Har man ikke oprettet særeje vil det betyde, at i forbindelse med en skilsmisse skal der ske en deling og derved skal hver part opgøre sin bodel i form af aktiver fratrukket passiver. Af sin positive bodel skal man give halvdelen til sin ægtefælle – begge parter ender derved med at gå ud af ægteskabet med lige mange penge, forudsat at begge parter har en positiv bodel og derfor ikke er insolvente. Har man oprettet fuldstændigt særeje vil denne deling i form af bodele ikke ske hverken i tilfælde af skilsmisse eller død. Hvis ægteskabet ophører ved død vil den længstlevende ægtefælle dog stadig modtage arv af det fuldstændige særeje. Det skal dog bemærkes, at den længstlevende ægtefælle ikke har mulighed for at sidde i uskiftet bo med de midler der er fuldstændigt særeje.  
 
-**Skilsmissesæreje**  
+### **Skilsmissesæreje**  
 Skilsmissesærejet er en kombination af de to formueretlige grundformer fælleseje og fuldstændigt særeje. Der er særejevirkninger under ægteskabet, samt ved separation og skilsmisse, men fællesejevirkninger ved død, uanset hvem af ægtefællerne, der dør først. Der er mulighed for at sidde i uskiftet bo. Ulempen ved skilsmissesærejet er, at fællesejet opstår uanset hvem af ægtefællerne, der dør først. Dette kan være uheldigt i de tilfælde, hvor det er den ægtefælle med megen gæld, der dør som den første. Den længstlevende ægtefælle er nemlig i denne situation forpligtet til at lade sin formue indgå i delingen med den førstafdøde ægtefælles kreditorer eller særarvinger. Derfor bør man normalt aldrig bruge et rent skilsmissesæreje, men derimod aftale et ægtefællebegunstigende kombinationssæreje.  
 
-**Kombinationssæreje**  
+### **Kombinationssæreje**  
 Kombinationssæreje er således en kombination af skilsmissesæreje og fuldstændigt særeje. Ved kombinationssæreje er der altid særeje ved separation og skilsmisse (skilsmissesæreje), og dette skilsmissesæreje bliver i bestemte situationer særeje ved en ægtefælles død (dvs. fuldstændigt særeje).  
+
 Ægtefællerne kan aftale, i hvilke situationer der skal være særeje ved en ægtefælles død afhængigt af, hvem af ægtefællerne der dør først. Skilsmissesæreje kan således kombineres med særeje ved død på en række forskellige måder. Kombinationssærejets betydning på et dødsboskifte afhænger derfor dels af den valgte kombination af skilsmissesæreje og fuldstændigt særeje og dels af, hvem af ægtefællerne der dør først.  
 Valget af, i hvilke situationer der skal være særeje ved en ægtefælles død, afhænger af, om ægtefællerne ønsker at begunstige den ene af ægtefællerne ved dødsfaldet frem for førstafdødes eller længstlevendes arvinger (ægtefællebegunstigende kombinationssæreje), eller om de ønsker at begunstige deres arvinger (arvingsbegunstigende kombinationssæreje).  
 
-**Ægtefællebegunstigende kombinationssæreje**  
+### **Ægtefællebegunstigende kombinationssæreje**  
 For de fleste er det mest fordelagtige at aftale et såkaldt ægtefællebegunstigende kombinationssæreje. Dette indebærer, at der er særeje i tilfælde af separation og skilsmisse. Men når den første ægtefælle dør, bliver dennes særeje til fælleseje og skal således deles med den længstlevende. Den længstlevende ægtefælles særeje opretholdes imidlertid og bliver altså til fuldstændigt særeje. Det er derfor kun førstafdødes skilsmissesæreje, der bliver til fælleseje ved død.  
+
 Det ægtefællebegunstigende kombinationssæreje er en særejeform, der tiltaler de fleste, idet formen kombinerer fordelene ved skilsmissesæreje og fuldstændigt særeje, således at den længstlevende ægtefælle sikres bedst muligt i forhold til førstafdødes arvinger og eventuelle kreditorer.  
 
 Ægtefællebegunstigende kombinationssæreje anvendes således i tilfælde, hvor ægtefællerne ønsker at tilgodese den længstlevende ægtefælle fremfor ægtefællernes sær- og/eller fællesbørn. Ægtefæller aftaler ofte et ægtefællebegunstigende kombinationssæreje, hvor ægtefællerne har skilsmissesæreje, der skal være fuldstændigt særeje for længstlevende ved førstafdødes død, uanset hvem af ægtefællerne der dør først. Dette indebærer, at førstafdødes formue er delingsformue. Fordelene for den længstlevende er, at længstlevende har mulighed for enten at sidde i uskiftet bo med førstafdødes formue eller modtage boslod og arv af førstafdødes formue, samtidig med at længstlevendes egen formue bliver særeje og dermed ikke skal deles med førstafdødes arvinger, navnlig førstafdødes særbørn og ægtefællernes fællesbørn.  
 
-**Arvingsbegunstigende kombinationssæreje**   
+### **Arvingsbegunstigende kombinationssæreje**   
 Arvingsbegunstigende kombinationssæreje anvendes i tilfælde, hvor ægtefællerne ønsker at tilgodese enten førstafdødes eller længstlevendes arvinger frem for ægtefællen. Ved arvingsbegunstigende kombinationssæreje kan eksempelvis førstafdødes arvinger tilgodeses ved, at førstafdødes formue er fuldstændigt særeje, mens længstlevendes formue er delingsformue. Dette indebærer, at førstafdødes formue ikke deles med længstlevende, inden formuen deles med førstafdødes arvinger (ægtefællen og førstafdødes børn). Samtidig skal længstlevendes formue, der er delingsformue, deles lige mellem førstafdødes arvinger og længstlevende. Længstlevende har ikke mulighed for at sidde i uskiftet bo.  
 
-**Dødsfaldssæreje ikke muligt**  
+### **Dødsfaldssæreje ikke muligt**  
 Det er ikke muligt at etablere et såkaldt dødsfaldssæreje, hvor der er fælleseje ved skilsmisse men fuldstændigt særeje ved død. Hvis man vil have fuldstændigt særeje i tilfælde af død må man også have særeje i tilfælde af skilsmisse.  
 
-**Tidsbegrænset særeje**  
+### **Tidsbegrænset særeje**  
 Man har mulighed for at tidsbegrænse særejet, således at man f.eks. har særeje de første 10 år af ægteskabet, hvorefter særejet automatisk bliver til fælleseje.  
 
 **Brøkdelssæreje**  
 Det er muligt at aftale, at en bestemt brøkdel af ens formue eller af et bestemt aktiv skal være særeje. Der kan dog være en del praktiske vanskeligheder forbundet med en sådan særejeform. For som tiden går, kan midlerne blive blandet sammen eller nyt blive anskaffet, og det kan blive svært at udskille hvad der er fælleseje og hvad der er særeje.  
 
-*Hvad kan man aftale særeje om?*  
+### *Hvad kan man aftale særeje om?*  
 Det er muligt at aftale, at alt hvad man hver for sig ejer på nuværende tidspunkt, samt alt hvad man erhverver i fremtiden skal være særeje. Man kan også aftale, at alt hvad ægtefællerne bringer ind i ægteskabet skal være deres særeje, men alt hvad der erhverver under ægteskabet skal være fælleseje.
+
 Det er også muligt at aftale særeje vedrørende bestemte ejendele, f.eks. sommerhuset, båden eller motorcyklen.  
 
 *Hvordan etableres særeje?*   
 Som tidligere nævnt er udgangspunktet, at man automatisk får fælleseje ved indgåelse af ægteskab. Derfor er det nødvendigt at oprette en ægtepagt, hvis man ønsker særeje.
+
 Særeje kan også opstå, hvis det er bestemt af en gavegiver eller I forbindelse med et arveforskud, hvor det særskilt bestemmes at arveforskuddet skal være særeje. En arvelader kan også i et testamente bestemme, at arven skal tilfalde arvingen som særeje. Dette kan gælde både tvangsarv og friarv.  
 
 Endelig kan man også i en begunstigelsesklausul i livs- og ulykkesforsikringer indsætte særejebestemmelser.  
-Særeje stiftes ved:  
 
+### Hvordan særeje stiftes  
+
+  Særeje stiftes ved:
   *	Ægtepagt, jf. § 12 og § 20
   *	Gave, jf. ÆL § 23
   *	Testamente, jf. ÆL § 23
-  *	Begunstigelse i forsikring, jf. forsikringsaftalelovens § 103, stk. 2
+  *	Begunstigelse i forsikring, jf. forsikringsaftalelovens § 103,        stk. 2
   *	Begunstigelse i pension, jf. Pensionsopsparingslovens  § 3, stk. 2  
 
 Ægtefæller kan ved ægtepagt aftale, at en pensionsrettighed skal være særeje, jf. ÆL § 12. En sådan aftale kan også omfatte fremtidige indbetalinger på pensionsrettigheden, jf. ÆL § 13. Efter ÆL § 13 kan ægtefællerne ved ægtepagt aftale, at en pensionsrettighed skal være særeje i overensstemmelse med de muligheder for særeje, der findes i ÆL § 12. Pensionsrettigheden kan således gøres til skilsmissesæreje, fuldstændigt særeje, kombinationssæreje osv., ligesom særejet kan gøres tidsbegrænset.  
@@ -11457,12 +11575,18 @@ Da rimelige pensioner efter ÆL § 34 ikke indgår i formuedelingen, vil det som
 For det første undgås, at den del af en pensionsrettighed, der overstiger det rimelige, efter ÆL § 34, stk. 4 skal indgå i formuedelingen. Særejet bevirker med andre ord, at den overskydende pension - ekstra pension - ikke indgår i ligedelingen.  
 For det andet bevirker særejebestemmelsen, at reglerne om pensionkompensation i lovens kapitel 13 ikke kan finde anvendelse. Der kan således ikke ved særeje blive tale om fællesskabskompensation efter ÆL § 44 eller rimelighedskompensation efter ÆL § 45. Derimod kan der godt blive tale om rimelighedskompensation efter ÆL § 42, hvis betingelserne heri er opfyldt.  
 
-Ægtefællerne kan aftale, at allerede foretagne indbetalinger skal være særeje. Herudover kan de aftale, at også fremtidige indbetalinger skal være særeje. Aftaler ægtefællerne, at pensionsrettigheden skal være særeje, vil dette ifølge motiverne som udgangspunkt også omfatte fremtidige indbetalinger.   
+Ægtefællerne kan aftale, at allerede foretagne indbetalinger skal være særeje. Herudover kan de aftale, at også fremtidige indbetalinger skal være særeje. Aftaler ægtefællerne, at pensionsrettigheden skal være særeje, vil dette ifølge motiverne som udgangspunkt også omfatte fremtidige indbetalinger.
+
 Ægtefæller kan ved ægtepagt aftale, at særeje bestemt af tredjemand helt eller delvis skal være en anden form for særeje, jf. § 12, eller skal være delingsformue, jf. ÆL § 14. Ved ægtepagt kan ægtefællerne ikke træffe nogen bestemmelse, der strider mod gavegivers eller arveladers bestemmelse om særeje. Det fremgår indirekte af ÆL § 14, at ægtefæller ved ægtepagt kan aftale ændringer af tredjemandsbestemt særeje, forudsat at aftalen er i overensstemmelse med særejebestemmelsen, eksempelvis hvis tredjemand har bestemt, at ægtefællerne kan ophæve en særejebestemmelse, når de har været gift i et vist antal år. Tredjemandsbestemt særeje kan således kun ændres, hvis tredjemand har bestemt, at dette kan ske. I relation til gaver kan tredjemand efter fuldbyrdelsen af gaven give samtykke til ændring af den oprindelige særejebestemmelse. Hvis ægtefællerne opretter en ægtepagt i strid med tredjemands bestemmelser, er ægtepagten ugyldig.  
+### Video: Hvilket særeje skal du vælge?
+<br>
 
-### Forhåndsaftaler om formuedelingen  
+<div class="video-container"><iframe src="https://www.youtube.com/embed/u3qv7qhAn14" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br>
 
-#### Alders-, kapital- og ratepensioner
+## Forhåndsaftaler om formuedelingen  
+
+### Alders-, kapital- og ratepensioner
 Ægtefæller kan ved ægtepagt aftale, at værdien af en alders-, kapital- eller ratepension skal indgå i formuedelingen ved separation eller skilsmisse, jf. ÆL § 15. Denne bestemmelse omfatter ikke aftaler om deling af pensionsrettigheder ved en ægtefælles død, da den længstlevende ægtefælles pensionsrettigheder og lignende rettigheder efter ÆL § 52, stk. 1, ikke indgår i formuedelingen ved en ægtefælles død.  
 
 Denne regel er affødt af, at en ægtefælles rimelige pensionsrettigheder efter ÆL § 34, stk. 1, ikke indgår i formuedelingen. Ønsker ægtefællerne at fravige dette, giver bestemmelsen dem mulighed for ved ægtepagt at aftale, at værdien af alders-, kapital- og ratepensioner skal indgå i formuedelingen ved en separation og skilsmisse. Det er værdien af pensionen og ikke selve pensionen, der indgår i formuedelingen.  
@@ -11473,7 +11597,7 @@ En aftale efter ÆL § 15, vedrører ikke værdien af pensionsordningen ved afta
 
 Der kan også aftales deling af udbetalte alders-, kapital- og ratepensioner samt indtægter og surrogater. Det er uafklaret, om det er muligt at aftale, at delingen af alders-, kapital- eller ratepensioner alene skal ske i det omfang værdien af den ene ægtefælles samlede pensioner, herunder rentepensioner, overstiger værdien af den anden ægtefælles pensioner, herunder rentepensioner. Der kan formentlig oprettes ægtepagt om sådan deling af »overskydende pension«, således at hver af ægtefællerne får lige meget pension forlods, hvorefter resten deles.  
 
-#### Personlige erstatninger
+### Personlige erstatninger
 Ægtefæller kan ved ægtepagt aftale, at en personlig erstatning, godtgørelse eller forsikringsudbetaling, jf. ÆL § 36, stk. 1 og 2, helt eller delvis skal indgå i formuedelingen. Aftalen kan begrænses til at gælde formuedelingen ved en ægtefælles død, herunder hvis en bestemt ægtefælle dør først, eller til at omfatte førstafdødes eller længstlevendes rettigheder, jf. ÆL § 16.  
 
 Herved får en ægtefælle, der har modtaget eksempelvis en personskadeerstatning, mulighed for at sikre den anden ægtefælle, der måske har indrettet sin tilværelse ud fra hensynet til den tilskadekomne ægtefælle, en kompensation i form af andel i erstatningen.  
@@ -11482,12 +11606,12 @@ Aftalen kan således begrænses til at gælde formuedelingen ved en ægtefælles
 
 Retten til forlods udtagelse af personskadeerstatning mv. fremgår af ÆL § 36.  
 
-#### Uoverdragelige og personlige rettigheder 
+## Uoverdragelige og personlige rettigheder 
 Ægtefæller kan ved ægtepagt aftale, at værdien af en rettighed omfattet af ÆL § 37 helt eller delvis skal indgå i formuedelingen. Aftalen kan begrænses til at gælde formuedelingen ved en ægtefælles død, herunder hvis en bestemt ægtefælle dør først, eller til at omfatte førstafdøde eller længstlevende ægtefælles rettigheder, jf. ÆL § 17. Sådanne aftaler kan indgås for alle typer af uoverdragelige og personlige rettigheder. Ægtefæller kan f.eks. aftale, at værdien af en personlig goodwill, som tilhører den ene ægtefælle, skal indgå i delingen ved separation eller skilsmisse med den virkning, at værdien skal gøres op og indgå i formuedelingen.  
 
 En aftale efter ÆL § 17 vedrører ikke værdien af den pågældende rettighed ved aftalens indgåelse, men den til enhver tid værende værdi, dvs. i praksis værdien ved formuedelingen.  
 
-#### Gæld
+### Gæld
 Ægtefæller kan ved ægtepagt aftale, i hvilket omfang gæld skal fradrages i delingsformuen ved formuedeling ved separation, skilsmisse og død, jf. ÆL § 18, stk. 1.  
 
 Adgangen til at aftale fradrag for gæld er begrænset ved ÆL § 18, stk. 2-4 og ÆL § 30. En aftale om, at en gældspost ikke skal kunne fradrages ved opgørelsen af delingsformuen, får den virkning, at gælden bæres af ægtefællens særejeaktiver eller andre aktiver, der ikke indgår i formuedelingen, herunder navnlig personlige erstatninger, jf. ÆL § 36. Har den ægtefælle, hvis gældspost efter aftalen skal holdes udenfor delingen, ikke aktiver, der kan holdes uden for delingen, og som kan dække gælden, vil aftalen indebære, at den formue, der skal deles, deles skævt til fordel for den anden ægtefælle, således at denne bliver stillet, som om gælden ikke fandtes.  
@@ -11509,7 +11633,7 @@ Efter ÆL § 18, stk. 4 kan en aftale efter ÆL § 18, stk. 1 ikke tidsbegrænse
 Med henvisningen i ÆL § 18, stk. 1 til Æl § 30 kan en aftale om fordelingen af gæld ikke medføre, at en ægtefælle ved formuedelingen skal aflevere så meget af sin formue til den anden ægtefælle, at den pågældende ikke har tilstrækkelige midler til at dække sine forpligtelser og kreditorer.  
 
 
-###  Ægtepagter og kravet om tinglysning
+##  Ægtepagter og kravet om tinglysning
 I overensstemmelse med ÆL § 19 er det lovfæstet, at såvel ægtefæller som kommende ægtefæller kan oprette en ægtepagt. Ægtepagt er et nødvendigt formkrav for etablering af særeje, jf. ÆL § 12, stk. 1. Ægtepagt er derimod ikke længere et formkrav for gaveoverdragelser. Herefter er gaver mellem ægtefæller gyldige såvel inter partes som i forhold til kreditorerne, også selvom der ikke er oprettet ægtepagt. Givers kreditorer er henvist til at søge gaven omstødt efter konkurslovens § 64. Kun hvis gaven skal gøres til særeje kræves ægtepagt, jf. ÆL § 12, stk. 1.  
 
 En ægtepagt er kun gyldig, når den er underskrevet af begge ægtefæller og tinglyst i personbogen efter reglerne herom i lov om tinglysning. Skal en ægtefælles værge efter værgemålsloven give samtykke til ægtepagten, er ægtepagten kun gyldig, hvis også værgen har underskrevet den, jf. ÆL § 20.  
@@ -11529,7 +11653,7 @@ Ofte opretter ægtefæller et testamente og en ægtepagt samtidig. Der er ikke n
 Der er i tinglysningslovens § 50 c, stk. 7 gennemført ændringer i offentlighedens adgang til indholdet af ægtepagter, sådan at de alene kan videregives til brug i konkrete retsforhold. Fuldstændige oplysninger skal dog efter anmodning videregives til den, som oplysningerne angår.  
 En ægtepagt kan kun ændres eller ophæves ved ægtepagt. Enhver af ægtefællerne kan anmode om, at en ægtepagt tinglyses, jf. nærmere ÆL §§ 21 og 22.  
 
-### Arveladers og gavegivers bestemmelser om særeje  
+## Arveladers og gavegivers bestemmelser om særeje  
 
 Bestemmelsen i ÆL § 23 indebærer, at arv og gave indgår i formuedelingen, medmindre arvelader og gavegiver har bestemt, at arven og gaven skal være særeje.  
 
@@ -11549,12 +11673,15 @@ Det, der træder i stedet for særeje, og indtægter af særeje er særeje, jf. 
 
 ## Formuedeling ved separation og skilsmisse
 
-#### Video: Guide til separation og skilsmisse
+### Video: Guide til separation og skilsmisse
 
+<br>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/-ZXmo3X8GOQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
-#### Video: Guide til bodeling ved skilsmisse
+<br>
+
+### Video: Guide til bodeling ved skilsmisse
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/cKeZZuNhIaw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -11599,21 +11726,28 @@ Følgende aktiver og krav indgår ikke i ligedelingen af ægtefællernes delings
 
 Ved formuedelingen indgår de aktiver og passiver, som hver ægtefælle havde ved udgangen af det døgn, hvor ”Familieretshuset” modtog anmodning om separation eller skilsmisse, jf. ÆL § 27.  
 
-Tidspunktet for værdiansættelsen  
+### Tidspunktet for værdiansættelsen  
 Ægtefællernes aktiver og passiver indgår i formuedelingen med værdien på udlægstidspunktet eller ved skiftets afslutning, hvis de ikke er udlagt forinden, jf. ÆL § 28.  
 
-Gæld  
+### Gæld  
 Ved opgørelsen af delingsformuen fradrages gæld, der har sikkerhed i aktiver, der er delingsformue. Endvidere fradrages usikret gæld, der er stiftet til brug for anskaffelse, forbedring eller vedligeholdelse af aktiver, der er delingsformue, eller i øvrigt kan henføres til sådanne aktiver, jf. ÆL § 29, stk. 1.  
 
-Personlige genstande  
+### Personlige genstande  
 En ægtefælle kan inden formuedelingen udtage aktiver, som udelukkende tjener til ægtefællens personlige brug, i det omfang aktivernes værdi ikke står i misforhold til ægtefællernes økonomiske forhold. Dette gælder også aktiver, som tilhører den anden ægtefælles delingsformue, jf. ÆL § 31.  
 
 
-#### Video: Skilsmisse i børnehøjde
+### Video: Skilsmisse i børnehøjde
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/M2Av7OqKLtw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
-### Aftaler om formuedelingen
+## Aftaler om formuedelingen
+
+<br>
+
+<img src="Skilt hus.jpg" align="right" width="40%" height="40%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+<br>
+
 Med ÆL § 32 lovfæstes mulighed for, at ægtefæller i forbindelse med en separation eller skilsmisse kan indgå aftale om delingen af deres formue, som anses indeholdt indirekte i ægteskabslovens § 58.  
 
 Når en separation eller skilsmisse er aktuel, kan ægtefællerne som udgangspunkt frit indgå aftaler om, hvordan deres formue skal deles. De kan derfor aftale deling af formue, der ellers ikke skulle deles, og de kan aftale betaling af og afkald på kompensationer. De kan også indgå aftaler om, hvem af dem der skal udtage de enkelte aktiver.  
@@ -11622,7 +11756,7 @@ Efter bestemmelsen i ÆL § 32 indtræder aftalefriheden, når en separation ell
 
 Aftaler om delingen af ægtefællernes ejendele, der tillige har virkning ved død, kan kun indgås ved ægtepagt efter bestemmelserne i lovens afsnit II. Herudover kan ægtefællerne hver for sig eller sammen træffe bestemmelse herom ved testamente efter arvelovens regler.   
 
-### Fravigelse af ligedelingen  
+## Fravigelse af ligedelingen  
 
 Tilhørte den væsentligste del af ægtefællernes delingsformue den ene ægtefælle ved indgåelsen af ægteskabet, eller har den ene ægtefælle under ægteskabet erhvervet den væsentligste del af delingsformuen ved arv eller gave, og vil ligedeling af formuen efter ÆL § 5, stk. 1, 1. pkt., være åbenbart urimelig, navnlig fordi ægteskabet har været kortvarigt og uden økonomisk fællesskab af betydning, kan det ved formuedeling bestemmes, at denne ægtefælle helt eller delvis kan beholde værdien af egen formue, jf. ÆL § 33.  
 
@@ -11632,16 +11766,18 @@ Hvis betingelserne for skævdeling er opfyldt, fastsættes det beløb, der holde
 
 At indbringe den væsentligste del af fællesboet ved ægteskabets indgåelse - eller efterfølgende erhvervelser i form af arv, gave - betyder ikke nødvendigvis, at de indbragte aktiver udgør mere end halvdelen af fællesboets værdi, se hertil også U 1980 463 Ø. Afgørende er, om den ene ægtefælle har indbragt væsentligt mere end den anden, jf. TFA 2009 92 V, og at denne værdiforskel er et væsentligt beløb set i forhold til fællesboets samlede værdi. I U 1976 752 V nævnes boets forholdsvis beskedne værdi som argument mod skævdeling (ikke tillagt M ret til forlods udtagelse efter 1½ års ægteskab; væsentligste aktiv var en af ham indbragt sommerhusgrund ansat til 50.000 kr. Begge ægtefæller havde bidraget til den fælles husholdning). Men heraf kan næppe udledes, at skævdeling ikke kan komme på tale, hvis boet er under 100.000 kr.  
 
-### Aktiver, der ikke indgår i formuedelingen  
+## Aktiver, der ikke indgår i formuedelingen  
 
-Pensioner  
+### Pensioner  
 En ægtefælles rimelige pensionsrettigheder indgår ikke i formuedelingen, jf. ÆL § 34.  
+
 Skal boet deles i tilfælde af død, kan længstlevende ægtefælle udtage sine pensioner forlods, jf. ÆL § 52  
 
 Deling i tilfælde af ægtefællernes separation/skilsmisse:  
 Hovedreglen er at ægtefæller kan forlods udtage rimelige pensionsordninger, jf. ÆL § 34. Alle sædvanlige arbejdsmarkedspensioner anses for at være rimelige. Pensioner, som svarer til sædvanlig arbejdsmarkedspension er rimelig.  
 ”Rimelig” vurderes i forhold til økonomien på indbetalingstidspunktet, og tidspunkt for indbetaling i forhold til bodelingen
 Pensioner kan udtages forlods af ægtefællerne, hvis ægteskabet har været af kortere varighed, jf. ÆL § 35
+
 Udtages pensionerne af ægtefællen, skal der evt. betales fællesskabskompensation, til den ægtefælle der f.eks. har været på børneorlov og derfor har en mindre pension, jf. ÆL § 44
 Er der stor forskel på pensionerne, kan den ene ægtefælle bliver pålagt at betale rimelighedskompensation, men kun hvis ægteskabet har varet i mere end 15 år, jf. nærmere ÆL § 45
 
@@ -11652,17 +11788,25 @@ Loven indebærer, at ægtefæller på skifte i tilfælde af separation og skilsm
 Der skal være tale om "pensionsrettigheder", og disse skal være "rimelige", for at der kan ske forlods udtagelse.  
 "Pensionsrettigheder " omfatter alle pensionsordninger uanset art, dvs. uanset om pensionsordningen er oprettet som led i ansættelsesforhold eller privat, uanset om den er obligatorisk eller frivillig, uanset om den er oprettet i pensionskasse, livsforsikringsselskab eller pengeinstitut og uanset om udbetalingsvilkårene giver ret til løbende udbetaling, (rentepension), rateudbetalinger (ratepension) eller engangsudbetaling (kapitalpension og alderspension).  
 
-Således omfatter begrebet pensionsrettigheder i ÆL § 34, stk. 1 tjenestemandspensioner og lignende offentlige tilsagnsordninger, alle typer arbejdsmarkedspensioner i pensionskasser, i livs- og pensionsforsikringsselskaber og i pengeinstitutter, alle typer individuelt oprettede eller videreførte ordninger i pensionskasser og i livs- og pensionsforsikringsselskaber, ATP (Arbejdsmarkedets Tillægs Pension) samt tilsvarende udenlandske ordninger. Desuden omfatter begrebet pensionsrettigheder pensionsopsparingsordninger i pengeinstitutter. Den tidligere så almindelige kapitalpension er afløst af aldersopsparing i pengeinstitutter eller aldersforsikring i forsikringsselskaber. Sådanne aldersopsparinger er også omfattet af begrebet pensionsrettigheder.  Der er dog nogle klare udgangspunkter. Alle sædvanlige arbejdsmarkedspensioner er rimelige, idet ordninger aftalt mellem arbejdsmarkedets parter, f.eks. aftalt ved overenskomst, lokal overenskomst eller fastlagt ved firmaaftale, må anses som udtryk for det pensionsopsparingsniveau, der er almindeligt accepteret som svarende til de pågældendes uddannelses- eller arbejdsmæssige situation. Der vil typisk være tale om kollektive ordninger. Når det gælder individuelle og private pensionsordninger er billedet ikke helt så tydeligt. Ægtefæller, der ikke er omfattet af en pensionsordning som led i ansættelsen, kan dog normalt indbetale tilsvarende regelmæssige pensionsbidrag til f.eks. en alders-, kapital-, rate- eller rentepension med den virkning, at pensionsordningen er rimelig.  
+Således omfatter begrebet pensionsrettigheder i ÆL § 34, stk. 1 tjenestemandspensioner og lignende offentlige tilsagnsordninger, alle typer arbejdsmarkedspensioner i pensionskasser, i livs- og pensionsforsikringsselskaber og i pengeinstitutter, alle typer individuelt oprettede eller videreførte ordninger i pensionskasser og i livs- og pensionsforsikringsselskaber, ATP (Arbejdsmarkedets Tillægs Pension) samt tilsvarende udenlandske ordninger. Desuden omfatter begrebet pensionsrettigheder pensionsopsparingsordninger i pengeinstitutter. Den tidligere så almindelige kapitalpension er afløst af aldersopsparing i pengeinstitutter eller aldersforsikring i forsikringsselskaber. Sådanne aldersopsparinger er også omfattet af begrebet pensionsrettigheder.  
+
+Der er dog nogle klare udgangspunkter. Alle sædvanlige arbejdsmarkedspensioner er rimelige, idet ordninger aftalt mellem arbejdsmarkedets parter, f.eks. aftalt ved overenskomst, lokal overenskomst eller fastlagt ved firmaaftale, må anses som udtryk for det pensionsopsparingsniveau, der er almindeligt accepteret som svarende til de pågældendes uddannelses- eller arbejdsmæssige situation. Der vil typisk være tale om kollektive ordninger. Når det gælder individuelle og private pensionsordninger er billedet ikke helt så tydeligt. Ægtefæller, der ikke er omfattet af en pensionsordning som led i ansættelsen, kan dog normalt indbetale tilsvarende regelmæssige pensionsbidrag til f.eks. en alders-, kapital-, rate- eller rentepension med den virkning, at pensionsordningen er rimelig.  
 
 Også pensionsordninger for mindre grupper, der har et kortere eller anderledes opsparingsforløb end sædvanligt, som f.eks. piloter, balletdansere, sangere og lignende, falder efter motiverne ind under begrebet rimelige pensionsrettigheder, hvis ordningen må anses for rimelig i forhold til den pågældende ægtefælles økonomiske situation og forventede pensioneringstidspunkt.  
 
 Selvstændige erhvervsdrivende vil ofte også have et andet pensionsopsparingsforløb end lønmodtagere. Ved vurderingen af, om en pensionsordning for en selvstændig erhvervsdrivende kan holdes uden for formuedelingen, må der lægges vægt på, om ordningen må anses for rimelig ud fra virksomhedens økonomiske forhold. Denne vurdering kan være vanskelig.  
 
-Ved vurderingen af, om en pensionsordning må anses for rimelig, må der ud over den pågældende ægtefælles egen situation og indtjeningsforhold også lægges vægt på ægtefællernes samlede situation. Pensionsindbetalinger udover en sædvanlig arbejdsmarkedspension, som har til formål at bringe den i pensionsmæssig henseende ringest stillede ægtefælle op på niveau med den anden ægtefælle, vil derfor som udgangspunkt skulle anses som en del af en rimelig pensionsordning, hvis ægtefællernes økonomiske forhold i øvrigt tilsiger en sådan ekstra opsparing. Ægtefællen med de mindste pensionsrettigheder kan således inden for rimelighedsbegrebet foretage såkaldt »opfyldningsopsparing« der bringer ægtefællens pensionsniveau på linje med den anden ægtefælles pensionsniveau. Se fra praksis TFA 2017 49 Ø, hvor en pensionsindbetaling på 339.000 kr. blev anset at overskride grænsen for opfyldningspension. Indbetalingen blev anset for ekstraordinær, da den i væsentlig grad oversteg, hvad M ellers havde indbetalt og skete på et tidspunkt, hvor M og H havde diskuteret separation. Se tillige TFA 2017 229 Ø om en ægtefælle, der var selvstændig. Indbetalinger i en årrække ud over 18 % skulle indgå i formuedelingen. Engangssum fra gruppelivsforsikring udbetalt til H i forbindelse med bevilling af førtidspension skulle indgå i formuedelingen.  
+Ved vurderingen af, om en pensionsordning må anses for rimelig, må der ud over den pågældende ægtefælles egen situation og indtjeningsforhold også lægges vægt på ægtefællernes samlede situation.
+
+Pensionsindbetalinger udover en sædvanlig arbejdsmarkedspension, som har til formål at bringe den i pensionsmæssig henseende ringest stillede ægtefælle op på niveau med den anden ægtefælle, vil derfor som udgangspunkt skulle anses som en del af en rimelig pensionsordning, hvis ægtefællernes økonomiske forhold i øvrigt tilsiger en sådan ekstra opsparing. 
+
+Ægtefællen med de mindste pensionsrettigheder kan således inden for rimelighedsbegrebet foretage såkaldt »opfyldningsopsparing« der bringer ægtefællens pensionsniveau på linje med den anden ægtefælles pensionsniveau. Se fra retspraksis dommen TFA 2017 49 Ø, hvor en pensionsindbetaling på 339.000 kr. blev anset at overskride grænsen for opfyldningspension. Indbetalingen blev anset for ekstraordinær, da den i væsentlig grad oversteg, hvad M ellers havde indbetalt og skete på et tidspunkt, hvor M og H havde diskuteret separation. Se tillige dommen TFA 2017 229 Ø om en ægtefælle, der var selvstændig. Indbetalinger i en årrække ud over 18 % skulle indgå i formuedelingen. Engangssum fra gruppelivsforsikring udbetalt til H i forbindelse med bevilling af førtidspension skulle indgå i formuedelingen.  
 
 Pensionsordninger, som er etableret ved gældsstiftelse kan i almindelighed ikke betragtes som rimelige ordninger. Som udgangspunkt vil indbetalinger til en pensionsordning, der er større end de på et givet tidspunkt sædvanlige arbejdsmarkedspensionsindbetalinger inden for det pågældende område, eller hvad der svarer hertil, ikke kunne holdes uden for formuedelingen.   
 
-Selvom en pensionsordning anses for rimelig og derfor kan udtages forlods ved separation og skilsmisse, kan en ægtefælle blive pålagt at betale et beløb til den anden ægtefælle efter reglerne om pensionskompensation i ÆL §§ 44 og 45. Endvidere indgår pensionsrettigheder, der holdes uden for formuedelingen efter ÆL § 34, efter motiverne i vurderingen af, om en ægtefælle er berettiget til kompensation efter ÆL § 42, fordi ægtefællen er stillet urimeligt økonomisk. Derimod omtales muligheden for kompensation efter ÆL § 43 om medvirken ikke i motiverne.  
+Selvom en pensionsordning anses for rimelig og derfor kan udtages forlods ved separation og skilsmisse, kan en ægtefælle blive pålagt at betale et beløb til den anden ægtefælle efter reglerne om pensionskompensation i ÆL §§ 44 og 45. 
+
+Endvidere indgår pensionsrettigheder, der holdes uden for formuedelingen efter ÆL § 34, efter motiverne i vurderingen af, om en ægtefælle er berettiget til kompensation efter ÆL § 42, fordi ægtefællen er stillet urimeligt økonomisk. Derimod omtales muligheden for kompensation efter ÆL § 43 om medvirken ikke i motiverne.  
 
 Ægtefællerne kan ved ægtepagt aftale, at ratepension, alderspension eller kapitalpension, der kan udtages forlods som rimelig, alligevel skal inddrages i ligedelingen. De kan derimod ikke aftale dette med hensyn til rentepension.  
 
@@ -11670,10 +11814,12 @@ Bestemmelsen om forlods udtagelse af rimelige pensionsrettigheder i ÆL § 34 su
 
 Et ægteskab anses som udgangspunkt for at være af kortere varighed, hvis det har varet i mindre end 5 år. Der skal ved opgørelsen af ægteskabets varighed normalt ikke tages hensyn til et forudgående samliv. Der kan dog forekomme situationer, hvor det vil være rimeligt også at lægge vægt på et forudgående samliv med økonomisk fællesskab af nogen længde.  
 
-I TFA 2017 39 V blev et ægteskab på 4 år og 10 måneder anset for kortvarigt, således at parterne kunne udtage alle deres egne pensionsrettigheder forlods.  
+I dommen TFA 2017 39 V blev et ægteskab på 4 år og 10 måneder anset for kortvarigt, således at parterne kunne udtage alle deres egne pensionsrettigheder forlods.  
 
-Personlig erstatninger  
-Værdien af en ægtefælles erstatninger, godtgørelser og forsikringsudbetalinger m.v., der skyldes erhvervsevnetab, varigt men, svie og smerte, kritisk sygdom og tort m.v. som følge af personskade, indgår ikke i formuedelingen, i det omfang det modtagne er i behold. Det modtagne anses også for at være i behold, hvis det er anvendt til betaling af gæld, der bestod på tidspunktet for modtagelsen, og som ville kunne fratrækkes i delingsformuen, jf. ÆL § 36. Det afgørende fællestræk ved disse udbetalinger er ifølge motiverne, at de kompenserer for et fremtidigt indtægtstab eller for en mere ideel skade i form af fysisk eller psykisk lidelse eller integritetskrænkelse, som f.eks. ved voldtægt eller frihedsberøvelse. Sådanne erstatninger er således tæt knyttet til skadelidte selv, og skadelidte bør derfor kunne beholde dem efter separation og skilsmisse. På samme måde er en forsørgertabserstatning, der ligeledes vedrører fremtiden, knyttet til den berettigedes person.  
+### Personlig erstatninger  
+Værdien af en ægtefælles erstatninger, godtgørelser og forsikringsudbetalinger m.v., der skyldes erhvervsevnetab, varigt men, svie og smerte, kritisk sygdom og tort m.v. som følge af personskade, indgår ikke i formuedelingen, i det omfang det modtagne er i behold. Det modtagne anses også for at være i behold, hvis det er anvendt til betaling af gæld, der bestod på tidspunktet for modtagelsen, og som ville kunne fratrækkes i delingsformuen, jf. ÆL § 36. 
+
+Det afgørende fællestræk ved disse udbetalinger er ifølge motiverne, at de kompenserer for et fremtidigt indtægtstab eller for en mere ideel skade i form af fysisk eller psykisk lidelse eller integritetskrænkelse, som f.eks. ved voldtægt eller frihedsberøvelse. Sådanne erstatninger er således tæt knyttet til skadelidte selv, og skadelidte bør derfor kunne beholde dem efter separation og skilsmisse. På samme måde er en forsørgertabserstatning, der ligeledes vedrører fremtiden, knyttet til den berettigedes person.  
 
 Med ÆL § 36 foreslås det således, at der indføres en samlet bestemmelse om hvilke erstatninger m.v., der ikke indgår i formuedelingen. De erstatninger, der efter bestemmelsen ikke indgår i formuedelingen, betegnes personlige erstatninger.  
 
@@ -11693,9 +11839,9 @@ I ÆL § 36, stk. 3 fastsættes det, at ÆL § 36, stk. 1 og 2 ikke skal finde a
 
 Opregningen ovenfor af erstatninger m.v., der er omfattet af ÆL § 36, stk. 1, 2 og 3, er ikke udtømmende. Der skal således foretages en vurdering af, om en erstatning er omfattet af de nævnte bestemmelser.  
 
-Ansættelsesforhold.  
+  
 
-Uoverdragelige og personlige rettigheder  
+## Uoverdragelige og personlige rettigheder  
 
 Rettigheder, som ikke kan overdrages eller i øvrigt har personlig karakter, indgår kun i formuedelingen, i det omfang det er foreneligt med de regler, der gælder for disse rettigheder, jf. ÆL § 37.  
 
@@ -11709,13 +11855,17 @@ Det følger således af fortolkningen af andre love, private viljeserklæringer 
 
 Indtægter og surrogater af personlige rettigheder er i almindelighed delingsformue og undergivet den almindelige ligedelingsnorm.  
 
-### Regulering og misbrugskrav
+## Regulering og misbrugskrav efter loven
 
 Hvis en ægtefælle ved misbrug af rådigheden over sin formue eller på anden uforsvarlig måde væsentligt har reduceret delingsformuen, har den anden ægtefælle krav på at blive stillet, som om formindskelsen ikke havde fundet sted. Sådanne krav betegnes misbrugskrav, jf. ÆL § 40, stk. 1.  
 
 Misbrugskravet kan kun gøres gældende ved formuedelingen. Overstiger misbrugskravet delingsformuen, udtages halvdelen af den manglende del af kravet af særeje eller alders- og kapitalpension, supplerende engangssum og supplerende engangsydelse, jf. ÆL § 34, stk. 2, og ÆL § 35, stk. 2, der tilhører den ægtefælle, der har foretaget misbruget, jf. § 40, stk. 1.  
 
-Misbrugskrav, der ikke er blevet dækket ved formuedelingen, kan senere gøres gældende mod den anden ægtefælle for halvdelen af den del af kravet, der ikke er blevet dækket. Misbrug kan bl.a. være uforholdsmæssigt stort forbrug enten af kapital eller ved optagelse af lån, påtagelse af kautionsforpligtelser, tab ved spekulationsprægede forretninger eller lignende. Andre dispositioner, der kan udgøre misbrug, kan være pådragelse af erstatningsansvar ved forsætligt eller groft uagtsomme forhold, spirituskørsel, vanrøgt af en ejendom eller forsætlig eller grov uagtsom ødelæggelse af egne aktiver. Også gaver til tredjemand kan være misbrug, navnlig hvis ægtefællerne har ophævet samlivet, eller en samlivsophævelse er nært forestående.  
+Misbrugskrav, der ikke er blevet dækket ved formuedelingen, kan senere gøres gældende mod den anden ægtefælle for halvdelen af den del af kravet, der ikke er blevet dækket. 
+
+Misbrug kan bl.a. være uforholdsmæssigt stort forbrug enten af kapital eller ved optagelse af lån, påtagelse af kautionsforpligtelser, tab ved spekulationsprægede forretninger eller lignende. 
+
+Andre dispositioner, der kan udgøre misbrug, kan være pådragelse af erstatningsansvar ved forsætligt eller groft uagtsomme forhold, spirituskørsel, vanrøgt af en ejendom eller forsætlig eller grov uagtsom ødelæggelse af egne aktiver. Også gaver til tredjemand kan være misbrug, navnlig hvis ægtefællerne har ophævet samlivet, eller en samlivsophævelse er nært forestående.  
 
 Rimelige indbetalinger på pensionsordninger, jf. ÆL § 34, kan ifølge motiverne aldrig være misbrug, mens indbetalinger af uforholdsmæssigt store beløb på pensionsordninger, der kan udtages forlods i medfør af ÆL § 35 om kortvarige ægteskaber, derimod efter omstændighederne kan være misbrug. Ved vurderingen heraf må der lægges vægt på størrelsen af indbetalingerne, om de afviger fra et hidtidigt indbetalingsmønster, og om der er særligt store indbetalinger lige op til anmodningen om separation eller skilsmisse. Det kan f.eks. være relevant i tilfælde, hvor en ægtefælle på illoyal måde ved en nærtstående separation eller skilsmisse tegner en privat livrente mod et større engangsindskud, selvom ægtefællen ikke tidligere har foretaget sådanne engangsindskud.  
 
@@ -11730,7 +11880,7 @@ Ved vurderingen af, om der er grundlag for et misbrugskrav, foretages der en sam
 
 Ved misbrug forstås stort personligt forbrug i form af kostbare udlandsrejser, køb af dyr bil, påtagelse af kautionsforpligtelser, pådragelse af uforholdsmæssig stor gæld, tab ved spekulation og spil og vanrøgt i form af undladelser. Der må foretages en samlet bedømmelse af ægtefællens dispositioner set i forhold til ægtefællens indtægts- og formueforhold, udgifternes omfang, forbrugets karakter, hensigten med udgifterne og den tidsmæssige sammenhæng med en skiftesituation. Forretningsfolk i vid forstand har en bred margin, således at kun forretningsspekulationer, der i høj grad er letsindige eller åbenbart uforsvarlige kan begrunde vederlagskrav.  
 
-Som eksempler på bestemmelsens anvendelse, se fra praksis TFA 2016 116 Ø (misbrugskrav afvist. Forbrug på ejendom i Spanien i form af ca. 1,3 mio. kr. til istandsættelse og køb af indbo); U 2006 2792 (boets nettobeholdning var 1,7 mio. I 1998 og 1999 var H’s privatforbrug 986.000 kr. Misbrugskrav på 200.000 kr.); TFA 2006 119 (salg af andelsbolig i 2-familie hus. Ikke misbrugskrav); TFA 2001 305 (ikke misbrugskrav); U 1965 820 (betydelige gaver fra M til K, som han senere giftede sig med, ej misbrug, da de var afholdt af hans løbende indtægter); U 1964 174 (forbrug på 14.000 kr. i 5 mdr.-periode lige før samlivsophævelse anset som misbrug. M’s bodel var 21.000 kr.; H’s 6.000 kr.) samt TFA 1997 96 (forbrug på ca. 236.000 kr. på ½ år fra samlivsophævelsen; krav på 127.500 kr.). Misbrug foreligger også, hvor ægtefællen har ydet gaver til tredjemand af en vis, relativ størrelse. Misbrugstærsklen vil være lav, hvor gaven ydes til en ny samlivspartner, særlig hvor en skiftesituation er aktualiseret. Meget betydelige arveforskud til et særbarn i en aktuel skiftesituation vil formentlig også kunne udløse misbrugskrav. Bodelen må være formindsket væsentligt - i form af forringelse af aktiver eller forøgelse af passiver. Der må udøves et samlet skøn over fællesejets værdi før og efter forringelsen, motivet for dispositionen og graden af uforsvarlighed og evt. sammenhæng med en skiftesituation.  
+Som eksempler på bestemmelsens anvendelse, se fra retspraksis dommen i TFA 2016 116 Ø (misbrugskrav afvist. Forbrug på ejendom i Spanien i form af ca. 1,3 mio. kr. til istandsættelse og køb af indbo); dommen i U 2006 2792 (boets nettobeholdning var 1,7 mio. I 1998 og 1999 var H’s privatforbrug 986.000 kr. Misbrugskrav på 200.000 kr.); dommen i TFA 2006 119 (salg af andelsbolig i 2-familie hus. Ikke misbrugskrav); dommen i TFA 2001 305 (ikke misbrugskrav); dommen i U 1965 820 (betydelige gaver fra M til K, som han senere giftede sig med, ej misbrug, da de var afholdt af hans løbende indtægter); dommen i U 1964 174 (forbrug på 14.000 kr. i 5 mdr.-periode lige før samlivsophævelse anset som misbrug. M’s bodel var 21.000 kr.; H’s 6.000 kr.) samt dommen i TFA 1997 96 (forbrug på ca. 236.000 kr. på ½ år fra samlivsophævelsen; krav på 127.500 kr.). Misbrug foreligger også, hvor ægtefællen har ydet gaver til tredjemand af en vis, relativ størrelse. Misbrugstærsklen vil være lav, hvor gaven ydes til en ny samlivspartner, særlig hvor en skiftesituation er aktualiseret. Meget betydelige arveforskud til et særbarn i en aktuel skiftesituation vil formentlig også kunne udløse misbrugskrav. Bodelen må være formindsket væsentligt - i form af forringelse af aktiver eller forøgelse af passiver. Der må udøves et samlet skøn over fællesejets værdi før og efter forringelsen, motivet for dispositionen og graden af uforsvarlighed og evt. sammenhæng med en skiftesituation.  
 
 For at der kan rettes et misbrugskrav mod den anden ægtefælle kræves, at delingsformuen er formindsket i væsentlig grad. Om formindskelsen er så væsentlig, at der kan kræves misbrugskrav afgøres ved at sammenligne størrelsen af ægtefællens delingsformue før og efter den pågældende disposition. Kan der rejses misbrugskrav, er det afgørende for kravets størrelse, hvor stort boslodstab den anden ægtefælle har lidt ved dispositionen. Tabet kan derfor først opgøres, når delingsformuerne gøres op og deles mellem ægtefællerne.  
 
@@ -11741,18 +11891,22 @@ Misbrugskrav vil altid stå tilbage for eventuelle kreditorers krav.
 En ægtefælle er stillet urimeligt økonomisk
 Har en ægtefælle formue, der ikke indgår i formuedelingen, kan den anden ægtefælle ved formuedelingen få tilkendt en kompensation for at sikre, at denne ægtefælle ikke bliver stillet urimeligt økonomisk. Ved vurderingen lægges vægt på ægteskabets varighed, et eventuelt forudgående samliv, ægtefællernes indtægts-, formue- og pensionsforhold og omstændighederne i øvrigt., jf. ÆL § 42.  
 
-Pensionskompensation  
+## Pensionskompensation  
 Efter ÆL § 44 kan der ved formuedelingen tilkendes en ægtefælle en kompensation, hvis ægtefællen under ægteskabet har foretaget en mindre pensionsopsparing, end hvad der svarer til en rimelig pensionsordning for den pågældende, og dette skyldes, at ægtefællen af hensyn til familien eller den anden ægtefælle helt eller delvis har været uden for arbejdsmarkedet, haft orlov eller arbejdet på nedsat tid. Kompensationen kan højst udgøre halvdelen af forskellen mellem værdien af den pensionsopsparing, hver af ægtefællerne har foretaget under ægteskabet af delingsformue.  
 
-Rimelighedskompensation  
+## Rimelighedskompensation  
 Der kan ved formuedelingen efter ÆL § 45 tilkendes en ægtefælle en kompensation for at sikre, at denne ikke stilles urimeligt i pensionsmæssig henseende, hvis  
 
 1.	ægteskabet har været af længere varighed og 
 2.	der er stor forskel i værdierne af ægtefællernes pensionsrettigheder
 
+<br>
 
+<img src="barn i båd.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-### Udtagelse af aktiver
+<br>  
+
+## Udtagelse af aktiver
 Hver ægtefælle kan efter vurdering efter ÆL § 48 udtage aktiver, der helt eller delvis indgår i ligedelingen efter § 5, stk. 1, 1. pkt. Dette gælder også aktiver, der tilhører den anden ægtefælle.
 Anmoder begge ægtefæller om at udtage samme aktiv, udtages aktivet af den ægtefælle, der ejer aktivet, jf. dog § 48, stk. 3, hvoraf fremgår, at uanset ÆL § 48, stk. 2 udtager den anden ægtefælle et aktiv, hvis aktivet for denne har den væsentligste betydning for opretholdelsen af hjemmet eller fortsættelse af erhverv eller i øvrigt. Retten til at udtage et aktiv efter 1. pkt. omfatter følgende aktiver:  
 
@@ -11764,32 +11918,53 @@ Anmoder begge ægtefæller om at udtage samme aktiv, udtages aktivet af den ægt
 *	Erhvervsvirksomhed og erhvervsløsøre.
 *	Transportmidler.
 
-
- 
-
-### Formuedeling ved en ægtefælles død
+## Formuedeling ved en ægtefælles død
 Hovedreglen er, at delingsformuen skal deles lige, jf. ÆL § 51, med følgende undtagelser:  
 U1: Særejeaktiver  
 U2: Personlige rettigheder mm., jf. ÆL §37  
 U3: Pensionsordninger, jf. ÆL § 52  
 U4: Førstafdøde ægtefælles pensioner, som tilfalder en begunstiget  
-U4: Regulerings-, misbrugs- eller kompensationskrav, jf. ÆL § 53  
- 
+U4: Regulerings-, misbrugs- eller kompensationskrav, jf. ÆL § 53 
 
+## Andre aspekter af skilsmissen
 
-#### Video: Når det går galt ved en skilsmisse: Familieretten
+### Video: Når det går galt ved en skilsmisse: Familieretten
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/ZvS2L4wIKPo" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
-#### Video: Regler for samvær
+### Video: Regler for samvær  
+
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/tEDkwMk96r8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+<br>
+
+<img src="Hiver i barn.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+<br>  
+
+
+
+### Video: Hvordan møder man skilsmissen?
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/o3E7r1JbvpA" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>  
+
+
+
+
+
  
-#### Video: Hvordan møder man skilsmissen?
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/o3E7r1JbvpA" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+ 
+ 
 
-## Arveretten
+
+
+
+ 
+
+# Arveretten
 Med arvelovsrevisionen er der blevet gennemført en styrkelse af den længstlevende ægtefælles retsstilling. Ægtefæller vil typisk have et ønske om, at længstlevende så vidt muligt kan fortsætte sin livsførelse. Arveloven (AL)  er derfor søgt indrettet, så dette ønske i højere grad kan realiseres, uden at ægtefællerne behøver at oprette et testamente om begrænsning af børnenes arv. Dette er navnlig sket ved en forhøjelse af den legale arveret,  fra 1/3 til ½ af arveladerens ejendele, når arveladeren samtidig efterlader sig børn (livsarvinger).  
 
  
@@ -11818,7 +11993,7 @@ Det siges, at "arven er faldet", når kravet på arv kan overføres ved aftale, 
 
 Arvinger kan inddeles i tre hovedgrupper: slægtninge, ægtefæller og testamentsarvinger.  
 
-Oversigt over arveloven  
+## Oversigt over arveloven  
 KAP. 1 SLÆGTNINGES ARVERET  
 KAP. 2 ÆGTEFÆLLENS ARVERET  
 KAP. 4 USKIFTET BO  
@@ -11829,12 +12004,12 @@ KAP. 10 TESTAMENTARISK BESTEMMELSE OVER FRIARV
 Kap. 11 OPRETTELSE OG TILBAGEKALDELSE AF TESTAMENTE  
 Kap. 12 TESTAMENTES UGYLDIGHED OG ANFÆGTELSE  
  
-### Arvens fordeling til arveklasser
+## Arvens fordeling til arveklasser
 Arven fordeles til arveklasse 1, 2 eller 3. Er der ingen arvinger i arveklasse 1 går man videre til arveklasse 2, og er der ingen arvinger i arveklasse 2, arver arveklasse 3.  
 
 Ægtefælle har også legal arveret. Arvelader kan selv få indflydelse på fordeling af arven ved at oprette testamente. Er der ingen arvinger efter arvelov eller testamente tilfalder arven statskassen, jf. AL § 94.  
 
-Arveklasse 1  
+### Arveklasse 1  
 Arveklasse 1 er livsarvinger, som er børn, børnebørn, oldebørn osv., jf. AL § 1. Børnene arver lige. Er et af børnene døde, træder dette barns livsarvinger i stedet og arver lige ¼ af arven er tvangsarv, jf. AL § 5. Børns arv kan begrænses til 1 mio. kr., jf. AL § 5, stk. 2. (1.290.000 kr. i 2019).   
 
 AL § 1 omhandler således arv til 1. arveklasse, dvs. arveladerens livsarvinger (tvangsarvinger), som er arveladerens nærmeste slægtsarvinger. Børnelinjen omfatter børn, børnebørn, oldebørn osv. Slægtskab foreligger mellem en mor og hendes barn og mellem barnet og den mand, der er barnets retlige far. Det er en forudsætning at faderskabet er fastslået inden dødsfaldet eller efterfølgende bliver det. arver lige.  
@@ -11842,11 +12017,11 @@ AL § 1 omhandler således arv til 1. arveklasse, dvs. arveladerens livsarvinger
 Er et barn død, træder dets børn i dets sted og arver indbyrdes lige. På tilsvarende måde arver fjernere livsarvinger. Denne såkaldte stirpal-grundsætning betyder, at arven inden for hver arveklasse fordeles i »stammer« og ikke efter »hoveder«. Børnebørn arver således ikke, så længe barnet lever. Når børnebørnene arver, må de »deles« om det afdøde barns arv - det såkaldte »repræsentationsprincip«. På tilsvarende måde arver fjernere livsarvinger (oldebørn mv.).  
 
  
-Arveklasse 2  
+### Arveklasse 2  
 Arveklasse 2 er arveladers forældre, jf. AL § 2. Forældrene arver lige. Er en af forældrene død, træder dennes børn (arveladers søskende) i stedet og arver lige. Der bliver på denne måde forskel på hel- og halvsøskende. Arveklasse 2 er ikke tvangsarvinger. Bestemmelsen i AL § 2 omhandler således arv til 2. arveklasse - forældrelinjen. Hvis arveladeren ikke efterlader sig livsarvinger, tilfalder arven anden arveklasse, som også kaldes udarvinger. Denne arveklasse udgøres af afdødes forældre og disses efterkommere, dvs. arveladerens søskende, nevøer og niecer osv. Lever begge arveladerens forældre, arver de hver halvdelen.  
 
  
-Arveklasse 3  
+### Arveklasse 3  
 Arveklasse 3 er arveladers bedsteforældre, jf. AL § 3. Arven fordeles med halvdelen til moderens forældre og halvdelen til faderens forældre. Er en af bedsteforældrene døde, træder dennes børn (arveladers faster, moster osv.) i stedet og arver lige. Bedsteforældre børnebørn (fætre og kusiner) arver ikke. Arveklasse 3 er ikke tvangsarvinger.  
 
 Lever alle 4 bedsteforældre deles arven i 4 portioner. Er en af bedsteforældrene død, træder dennes børn i stedet efter repræsentationsprincippet. Arveladers farbrødre, fastre, mostre og morbrødre kan således være legale arvinger. Er farfaren død og efterlader sig to børn, arver disse således 1/8. Derimod falder arven ikke videre til fjernere livsarvinger. Arveladerens kusiner og fætre samt deres børn er således ikke legale arvinger.  
@@ -11858,8 +12033,7 @@ Arven mellem bedsteforældrelinien på fædrene side og bedsteforældrene på m�
 
 
 
-
-#### Video: Sådan fordeles arven
+### Video: Sådan fordeles arven
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/EIgZkPOF0_E" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -11878,10 +12052,10 @@ Her en oversigt over længstlevendes ægtefælles arveret:
   +	Ved længstlevende ægtefælles død, skal arven (som udgangspunkt) fordeles mellem begge ægtefællers arvinger, jf. AL § 16, stk. 2 
  
  
-### Uskiftet bo for den længstlevendes ægtefælle
+## Uskiftet bo for den længstlevendes ægtefælle
 Vælger ægtefællen at sidde i uskiftet bo, får ægtefællen rådighed over alle aktiver og overtager afdødes gældsforpligtelser, jf. AL §§ 24 og 25. Kan kun sidde i uskiftet bo med delingsformue – særejet skal skiftes, jf. AL § 17. Man kan ikke sidde i uskiftet bo, hvis man ikke har været gift. Særbørn skal give samtykke til uskiftet bo, jf. AL § 18. Hvis længstlevende misbruger det uskiftede bos midler, kan børnene kræve skifte, jf. AL § 29.  
 
-#### Video: Fordeling af arv: Ægtepar med stedbørn
+### Video: Fordeling af arv: Ægtepar med stedbørn
 
 https://www.youtube.com/watch?v=MQ6i9G5NxUc
 <div class="video-container"><iframe src="https://www.youtube.com/embed/lXw-hdped28" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -11891,7 +12065,6 @@ Længstlevende ægtefælle kan således forbruge det uskiftede bos midler og giv
 Når længstlevende dør, skal arven fordeles til begge ægtefællers livsarvinger, men der regnes ikke arv til ægtefællen, jf. AL § 28.  
 
 ## Arveladers testationskompetence
- 
 Testamenter giver arvelader mulighed for at få indflydelse på, hvem der skal arve, og hvad de skal arve.  
 
 Oversigt over arveladers testationskompetence:  
@@ -11901,11 +12074,11 @@ Tvangsarven er som udgangspunkt ¼ af arveladers formue.
 
 OBS: Suppleringsarv er også tvangsarv. Der er tale om en tvangsarveret, der ikke kan fratages ved testamente. Retten til forlods udtagelse indebærer, at udtagelsen ikke belaster den længstlevende ægtefælles boslodskrav ved opgørelsen af fællesboet, og heller ikke kravet i henhold til retten til suppleringsarv. En længstlevende ægtefælles påberåbelse af AL § 11, stk. 1 vil kunne medføre, at et dødsbo kan sluttes uden skiftebehandling. Reglen vil derfor også i praksis blive påberåbt af en længstlevende ægtefælle, der som enearving ville kunne overtage hele boet efter AL § 9, stk. 2.  
  
-#### Video:Hvordan opretter du et testamente?
+### Video:Hvordan opretter du et testamente?
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/TcZb7VCClcQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
-Gyldigt testamente kræver:  
+## Kravet til et gyldigt testamente  
 
 *	at testator er fyldt 18 år (15 år for midler den umyndige selv kan råde over)
 *	At testator kan handle fornuftsmæssigt
@@ -11914,18 +12087,18 @@ Gyldigt testamente kræver:
 *	Vidnetestamente
 *	Nødtestamente
 
-Notartestamente, jf. AL § 63:
+### Notartestamente, jf. AL § 63
 
 *	Notaren (i Byretten) påtegner testamentet og kontrollerer testators identitet, fornuft, mv.
 *	Registrerer testamentet i Centralregistret for testamenter
 *	Notartestamentet er svært at anfægte
 
-Vidnetestamente, jf. AL § 64:
+### Vidnetestamente, jf. AL § 64
 
 *	To vitterlighedsvidner, som ikke selv må være begunstiget i testamentet
 *	Vidnerne kontrollerer testators underskrift, fornuft mv.
 
-Nødtestamente, jf. AL § 65:
+### Nødtestamente, jf. AL § 65
 
 *	Kræver en nødsituation
 *	Ingen formkrav
@@ -11933,16 +12106,16 @@ Nødtestamente, jf. AL § 65:
 
  
 
-#### Video: Fordeling af arv uden børn
+### Video: Fordeling af arv uden børn
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/bNa7tt460bY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
-#### Video: Fordeling af arv med fællesbørn
+### Video: Fordeling af arv med fællesbørn
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/TXaWe8-jz9s" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
-Udvidet samlevertestamente:
+### Udvidet samlevertestamente
 
 *	Samlevende har ingen legal arveret, kræver oprettelse af testamente
 *	Samleverne kan arve hinanden – maksimalt 7/8 af formuen i konkurrence med børn 
@@ -11956,7 +12129,7 @@ Udvidet samlevertestamente:
 Hvis et testamente skal ændres eller tilbagekaldes, skal ændringen overholde formkravene til testamenter, jf. AL § 67.  
 Et uigenkaldeligt testamente indskrænker testators testationskompetence – arvelader har ikke mulighed for at ændre testamentet. Hvis forudsætningerne for at oprette et uigenkaldeligt testamente brister eller var urigtige, kan testamentet være ugyldigt, jf. AL § 77.  
   
-#### Video:Arv mellem sammenlevende
+### Video:Arv mellem sammenlevende
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/WVec5BYeu34" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -12073,7 +12246,7 @@ Forsikringsselskaberne og pensionskasserne må heller ikke spørge om, hvorvidt 
 eller pensionstagers slægtninge. Forsikringsaftalen kommer i stand, ved at forsikringsselskabet accepterer ens forsikringsbegæring, enten i form af et antagende svar eller eventuelt blot ved fremsendelse af en police til forsikringstageren.  
 Et forsikringselskabs afslag på at tegne en forsikring som begæret og forsikringsselskabets opsigelse af en forsikringsaftale skal efter anmodning begrundes. Begrundelsen i forsikringsaftalelovens § 3 b skal indeholde en henvisning til de relevante retsregler samt en kort redegørelse for, hvorfor forsikringen ikke kan tegnes, eller hvorfor forsikringsaftalen opsiges. Begrundelsen skal efter anmodning være skriftlig.  
 
-# Udvidet forklaring om selskabernes begrundelsespligt for at afvise en forsikringstegning<sup><font color="red"> Premium </font></sup>    
+# Forsikirngsselskabets begrundelsespligt<sup><font color="red"> Premium </font></sup>    
 Begrundelsespligten ved forsikringsselskabets afslag på at tegne en forsikring omfatter således i første række tilfælde, hvor selskabet helt afviser at tegne en forsikring. Reglen i FAL § 3 b omfatter imidlertid også tilfælde, hvor selskabet ikke umiddelbart kan acceptere forsikringsbegæringen, men hvor selskabet tilbyder at tegne forsikringen på andre vilkår, f.eks. til en højere præmie eller med særlige undtagelser fra forsikringsdækningen, jf. ordene i § 3 b »som begæret«.   
 
 Forsikringsselskabet skal endvidere efter anmodning begrunde enhver opsigelse af forsikringsaftalen. Opsigelsen skal således begrundes, uanset om den har hjemmel i lovgivningen (f.eks. forsikringsaftaleloven) eller i forsikringsbetingelserne. Opsigelsen skal endvidere begrundes, uanset om den foretages i forsikringstiden eller til forsikringstidens udløb (f.eks. ved
@@ -12104,7 +12277,7 @@ Reglen indebærer, at den forsikringssøgende/forsikringstageren skal gøres bek
 selskabets tilsidesættelse af begrundelsespligten. Det betyder imidlertid ikke, at overtrædelse af begrundelsespligten er usanktioneret. Et selskabs tilsidesættelse af begrundelsespligten må således anses for at være i strid med redelig forretningsskik og god praksis, jf. lov om finansiel virksomhed § 43.  Dette indebærer bl.a., at Finanstilsynet kan påbyde selskabet at ændre adfærd, og overtrædelse af et sådant påbud kan straffes med bøde. Finanstilsynet vil dog i almindelighed ikke behandle konkrete tvister mellem et forsikringsselskab og forsikringstageren, men alene gribe ind over for en generel adfærd hos selskabet.  
 
 
-### Urigtige oplysninger ved forsikringsaftalens indgåelse
+## Urigtige oplysninger ved forsikringsaftalens indgåelse
 Forsikringsselskabets vurdering af, om det vil tegne en forsikring, afhænger i vidt omfang af de risikooplysninger, som selskabet modtager fra forsikringstageren. Det er væsentligt, at selskabet modtager så korrekte oplysninger som muligt – dels for at selskabet kan beregne den korrekte præmie og fastsætte de korrekte vilkår for forsikringen, dels for at forsikringstageren/ sikrede undgår, at selskabet senere påberåber sig, at der er afgivet urigtige oplysninger med den virkning, at selskabet helt eller delvist bliver fri for ansvar.  
 
 Har forsikringstageren ved forsikringens tegning svigagtig givet urigtig oplysning om eller fortiet en omstændighed, som må antages at være af betydning for forsikringsselskabet, er forsikringsaftalen ikke bindende for dette, jf. FAL § 4. Det samme gælder, hvis hans eller hendes forhold i øvrigt har været af en sådan art, at det ville stride mod almindelig hæderlighed at gøre forsikringsaftalen gældende. Det forsikringsretlige svigbegreb kan ikke sammenlignes med det aftaleretlige svigbegreb,
@@ -12131,7 +12304,7 @@ I FED 2000.1608 Ø havde forsikringstageren ikke oplyst om en erklæring fra Tek
 Forsikringstagerens undladelse af at give oplysning ved forsikringstegningen har ingen indflydelse på forsikringsselskabets ansvar, medmindre forsikringstageren burde være klar over, at den ikke oplyste omstændighed var af betydning for forsikringsselskabet, og forsikringstagerens forhold kan tilregnes forsikringstageren som grov uagtsomhed. I så fald anses forsikringstageren, som om forsikringstageren havde givet urigtig oplysning, Det antages ikke i praksis, at forsikringstageren har en egentlig oplysningspligt medmindre det må antages, at oplysningen vedrører forhold som forsikringstageren må vide, at det har en betydning for forsikringsselskabets risikobedømmelse. Han eller hun vil i almindelighed kunne indskrænke sig til redeligt at besvare de stillede spørgsmål i forsikringsbegæringen.  
 Se Højesteretsdom H.D. af 17. maj 2002. Sag: I 220/2001: Nyfødt barn var omfattet af forældrenes ulykkesforsikring. Forsikringsselskabet skulle imidlertid ikke dække sygdom i form af blindhed, idet forældrene under de konkrete omstændigheder burde have underrettet selskabet om sygdommen, før forsikringen blev antaget, jf. FAL  § 7.  
 
-### Forsikringstagerens police og forsikringsbetingelserne
+## Forsikringstagerens police og forsikringsbetingelserne
 Forsikringstageren police er et forsikringsdokument, der indeholder de generelle og specielle vilkår for en indgået forsikringsaftale. En police er således en af forsikringsselskabet udstedt bekræftelse på, at der er indgået en forsikringsaftale.  
 
 Policen består normalt af en „forside“, hvor de helt individuelle oplysninger fremgår, f.eks. forsikringstager, -sted, -genstand og -omfang. Endvidere fremhæves sædvanligt forsikringsbetingelsernes nummer og særlige for forsikringen gældende klausuler, hvis fulde ordlyd oftest er anført på policens „bagside“.  
@@ -12150,7 +12323,7 @@ For livsforsikring og individuel pensionsordning er fristen dog 30 dage. Har man
 
 Fortryder man aftalen, har forsikringsselskabet ikke krav på præmie. Fortryder man aftalen, og har anmeldt en skade til forsikringen, er der ingen dækning for skaden. Det gælder også, hvis det er en lovpligtig ansvarsforsikring, man fortryder – for eksempel en bil- eller hundeansvarsforsikring.  
 
-#### Video: Bilforsikring
+### Video: Bilforsikring
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/6JfjVjptXGs" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -12164,17 +12337,17 @@ den 4. februar, ønsker man alligevel ikke forsikringen. Man har nu en frist til
 forsikringsselskabet, at man ikke ønsker forsikringen. Det betyder, at oplysningen fra én skal ligge hos forsikringsselskabet
 den 18. februar. Det er for sent, at forsikringsselskabet først modtager henvendelse den 19. februar eller senere. Sker det, kan aftalen ikke fortrydes.  
 
-#### Video: Hvordan dækker en ulykkesforsikring
+### Video: Hvordan dækker en ulykkesforsikring
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/gsK8tssPiZ0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
-### Indtrædelse af forsikringsselskabets ansvar
+## Indtrædelse af forsikringsselskabets ansvar
 Er forsikringsaftale sluttet, uden at det er bestemt, når ansvaret skal begynde, anses forsikringsselskabets ansvar at indtræde allerede på det tidspunkt, da selskabet eller forsikringstageren afsender meddelelse om, at den anden parts tilbud antages.  
 
 FED 2000.2067: Telefonisk bestilt forsikring trådte i kraft ved fremsendelse af girokort, selv om skaden skete inden dette var betalt.  
 FED 1999.1405: Forsikringsselskab pålagt at dække en brandskade uanset generelle acceptregler, idet det blev anset for godtgjort, at en indsendt forsikringsbegæring ville være blevet antaget, hvis selskabet havde været uden kendskab til en indtruffet skade.  
 
-### Præmien (betalingen) for forsikringen
+## Præmien (betalingen) for forsikringen
 Præmiens størrelse og hvornår den skal betales af forsikringstageren fastlægges i overensstemmelse med den enkelte forsikringsaftale, hvor det f.eks. kan bestemmes, at præmien forfalder til betaling hvert år den 1. januar, således at forsikringsselskabet kan kræve præmien betalt pr. denne dato. Forsikringstageren kan også vælge kvartalsvis, halvårlig eller helårlig betaling af præmien.  
 
 Betales præmien ikke rettidigt, kan forsikringsselskabet opsige forsikringsaftalen med den virkning, at aftalen ophører, hvis præmien ikke er betalt senest 21 dage efter opsigelsen.   Forsikringsselskabet kan påberåbe sig manglende betaling af præmien, uanset om den manglende betaling beror på undskyldelige forhold hos forsikringstageren. Forsikringsselskabet kan opsige forsikringen ved for sen betaling af præmien. Forsikringstagerens manglende præmiebetaling kan i sig selv, dvs. uden at opsigelse er nødvendig, medføre, at forsikringsselskabets ansvar og dermed forsikringsdækningen ophører.  
@@ -12185,22 +12358,22 @@ et ekspeditionsgebyr.«
 Forsikring & Pension  har endvidere udtalt, at det må anses for usædvanligt og i strid med god forsikringsskik, hvis forsikringsbetingelserne ikke indeholder bestemmelser om, at der ved manglende præmiebetaling sendes forsikringstageren en påmindelse med indrømmelse af yderligere betalingsfrist.
 De ovenfor citerede forsikringsbetingelser indebærer, at forsikringstageren to gange bliver mindet om betaling af præmien, ligesom han eller hun får en betalingsfrist på mindst 2 gange 14 dage. Der stilles samtidig krav om, at det i påmindelsen om manglende betaling udtrykkeligt er anført, at forsikringsdækningen ophører, hvis præmien ikke betales. Hvis forsikringsselskabet ikke overholder disse betingelser i forsikringsaftalen, indtræder retsvirkningerne af manglende præmiebetaling ikke.    
 
-### Opsigelse af forsikringen
+## Opsigelse af forsikringen
 Der er flere måder, man kan opsige sine private forsikringer på. Man kan benytte sig af det korte opsigelsesvarsel, som betyder, at man kan opsige forsikringen med 30 dages varsel til den 1. i en måned. Bruger man den korte opsigelse, koster det normalt et gebyr. Har man haft forsikringen i mere end 1 år, vil gebyret være omkring 50 kroner. Har man derimod haft forsikringen i mindre end 1 år, kan gebyret være væsentlig højere, f.eks. 500 kroner. Grunden til, at der er et gebyr,
 er, at forsikringsselskaberne har haft udgifter, da de oprettede forsikringen. Det er altid gratis at opsige sin forsikring til det normale udløb ved hovedforfald. Man skal bare huske at kontakte sit forsikringsselskab mindst 1 måned før hovedforfaldet. Opsigelsen skal være skriftlig.  
 
 Har man været udsat for en skade, har både forsikringstageren og forsikringsselskabet mulighed for at opsige forsikringen med 14 dages varsel. Denne skriftlige opsigelse kan først laves efter, at man har lavet en skriftlig skadeanmeldelse til selskabet, og skal være lavet senest 1 måned efter, at man har modtaget erstatning eller afslag fra sit forsikringsselskab.  
 
-### Begrebet „forsikringstid“
+## Begrebet "forsikringstid“
 Forsikringstiden er den periode, i hvilken forsikringsselskabet er ansvarlig for betaling af dine eller andres skader, enten fordi årsagen til skaden er indtrådt i forsikringstiden, fordi virkningen af skaden har vist sig i forsikringstiden, eller fordi kravet er rejst i forsikringstiden. Det afhænger af, hvilket princip der finder anvendelse. Det vil fremgå af de almindelige forsikringsbetingelser (det med det småtrykte), som er blevet udleveret i forbindelse med tegningen af forsikringen.  
 
 Eksempel fra retspraksis    
 FED 2008.290: Uagtet en forsikringsbegæring vedrørende ansvarsforsikring af en bil angav ikrafttræden som 19. maj, blev aftalen anset for at være trådt i kraft den 18. maj, idet assurandøren under et møde den 18. gav forsikringstager et forsikringsbevis, hvoraf ikke fremgik, at forsikringen første trådte i kraft dagen efter. Datoen var indført af assurandøren uden drøftelse med forsikringstager. Selskabet dømtes til at dække det erstatningsansvar, som forsikringstager pådrog sig ved et færdselsuheld, som han var involveret i samme aften.  
 
-### Forsikringstagerens pligter over for forsikringsselskabet
+## Forsikringstagerens pligter over for forsikringsselskabet
 Man har i visse situationer pligt til at tegne forsikring, enten i henhold til lov, obligatoriske vedtægter eller i henhold til en aftale. F.eks. er der pligt til at tegne ansvarsforsikring for motordrevne køretøjer, og besidderen/ ejeren af en hund er pligtig til at tegne ansvarsforsikring for hunden.  
 
-#### Fareforøgelse
+### Fareforøgelse
 Forsikringens vilkår og præmie er bestemt ud fra de risikooplysninger, der er givet ved forsikringens tegning. Hvis risikoforholdene ændrer sig i forsikringens løbetid, ændres forudsætningerne for forsikringen også. Det vil derfor i forsikringsaftalen være anført, at den forsikrede skal anmelde ændringer om nærmere bestemte forhold. Det kan være ændring af tagbeklædning for et forsikret hus, flytning til et dyrere risikoområde vedrørende bilforsikring eller ændring af erhvervsmæssig beskæftigelse på en ulykkesforsikring. Det er derfor en god idé at se i policen under "fareforøgelse"
 eller "risikoændring" for at sætte sig ind i, hvilke ændringer selskabet skal orienteres om.  
 
@@ -12215,36 +12388,36 @@ og anvendelse, opfyldte ikke kravet for så vidt angik en knælidelse, som den f
 ### Forsikringsselskabets pligter
 Forsikringsselskabets pligt eller modydelse kaldes forsikringsydelsen. Dvs. erstatningen skal udbetales af selskabet, når der er indtrådt en erstatningsberettiget forsikringsbegivenhed – eller sagt på en anden måde, når der er sket en skade, som er dækket af forsikringen.  
 
-### Anmeldelse af forsikringsbegivenheden
+## Anmeldelse af forsikringsbegivenheden
 Af forsikringsbetingelserne fremgår, at man skal anmelde enhver skade så hurtigt som muligt til forsikringsselskabet. På den måde kan forsikringsselskabet danne sig et overblik over skadens omfang og sørge for at indhente supplerende oplysninger om skaden, hvis det er nødvendigt. Det kan også være, at skadede genstande bør „sikres“, så det senere er utvivlsomt,
 hvad skaden omfatter.  
 
-### Urigtige risikooplysninger
+## Urigtige risikooplysninger
 Ved forsikringsaftalens indgåelse skal man afgive risikooplysninger, således at forsikringsselskabet kan vurdere risikoen og fastsætte præmie og vilkår. Det er derfor vigtigt, at risikooplysningerne er korrekte. Hvis oplysningerne ikke er rigtige, kan det føre til nedsat erstatning eller slet ingen erstatning, hvis forsikringsselskabet annullerer forsikringen helt.  
 
 Risikooplysningerne afgives sædvanligvis i et spørgeskema (begæringen). I en begæring om familieforsikring spørges der bl.a. om tidligere skadesforløb, og om man tidligere er sagt op af et andet forsikringsselskab. Forsikringsselskaberne går ud fra, at oplysninger, der afgives, er rigtige, men undersøger det stikprøvevis i skadesituationen. Hvis der er afgivet urigtige oplysninger ved tegningen, medfører det som regel, at forsikringen annulleres med tilbagevirkende kraft, hvis selskabet kan godtgøre, at det ifølge sin acceptpolitik ikke ville have tegnet forsikringen, hvis det havde kendt til de rigtige oplysninger. Konsekvensen er, at der heller ikke bliver udbetalt erstatning. Se nærmere i FAL § 6 samt nedenfor.  
 
 FED 2015.120: A havde ikke oplyst F om de rigtige brugerforhold af hendes bil, hvilket var groft uagtsomt i henhold til FAL §§ 6 og 7. F kunne derfor rette et forholdsmæssigt krav mod A.  
 
-#### Video: Hvordan dækker familieforsikringen
+### Video: Hvordan dækker familieforsikringen
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/FfIcQgcMKn4" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
-### Risikoforøgelse skal anmeldes til forsikringsselskabet
+## Risikoforøgelse skal anmeldes til forsikringsselskabet
 Præmien for en forsikring beregnes ud fra risikoforholdene på tidspunktet for forsikringens tegning. Ifølge policen/forsikringsbetingelserne skal det anmeldes til selskabet, såfremt der sker ændringer i fx en bygnings benyttelse.  
 Manglende anmeldelse af ændringer kan derfor resultere i, at der enten – hvis en risikoforøgelse bortfalder – betales for meget i præmie, eller at forsikringen – hvis risikoen forøges – yder utilstrækkelig dækning.   
 
-### Overholdelse af sikkerhedsforskrifter
+## Overholdelse af sikkerhedsforskrifter
 Hvis forsikringsselskabet i forsikringstiden har betinget sig, at forsikringstageren skal iagttage visse forholdsregler, der skal forebygge risikoen for skade eller formindske en eventuel skades omfang, foreligger der en sikkerhedsforskrift. Der kan fx være tale om forbud mod tobaksrygning, pligt til at tilslutte tyverialarm uden for åbningstid o.l. Forsikringsselskabet vil normalt afslå at tegne forsikringen, hvis man nægter at imødekomme disse krav. Som følge heraf vil det være en væsentlig forudsætning for forsikringsselskabet, at sikkerhedsforskrifterne overholdes. En sikkerhedsforskrift skal være præcist bekrevet i policen, og såfremt forsikringsselskabet kan bevise, at forsikringstageren forsætligt eller uagtsomt har overtrådt en sikkerhedsforskrift, der medfører skade eller forøger skadens omfang, er forsikringsselskabet fri for ansvar, medmindre
 forsikringstageren kan bevise, at det forhold, der er udvist, har været uden betydning for forsikringsbegivenhedens indtræden og skadens størrelse.  
 
-### Forsikringspræmien
+## Forsikringspræmien
 I forsikringsvilkårene vil det være aftalt, at forsikringsselskabet skal sende et påkrav (typisk fremsendelse af et girokort) til den betalingsadresse, man har opgivet til selskabet. (Hvis man skifter adresse, skal man huske at meddele forsikringsselskabet om adresseændringen. Selskabet har med få undtagelser ingen pligt til at finde ud af, hvor man er flyttet hen).
 Påkravet (girokortet) sendes som regel ud i slutningen af måneden forud for forfaldsdagen, der som regel er fastsat til den 1. i måneden. I påkravet vil det være anført, at præmien skal betales senest 21 dage efter forsikringsselskabets påkrav herom.  
 Hvis betaling ikke er sket rettidigt, kan forsikringsselskabet, når der er gået yderligere 14 dage, opsige aftalen. Dog får man i den forbindelse en frist på endnu 21 dage til at betale i henhold til påkravet. I praksis vil en forsikringstager således have i alt 8 uger (3 uger + 2 uger + 3 uger) til at få præmiebetalingen bragt i orden, uden at det får dækningsmæssige konsekvenser.  
 Er der tale om en nytegnet forsikring, kan det være aftalt, at forsikringsaftalen ophører uden opsigelse, hvis betaling ikke er sket inden en kortere frist (typisk 1 uge).  
 
-### Generelle forhold mellem forsikringstageren og forsikringsselskabet
+## Generelle forhold mellem forsikringstageren og forsikringsselskabet
 Udbetaler forsikringsselskabet ikke erstatning til forsikringstageren inden 14 dage efter, at selskabet har modtaget de nødvendige oplysninger til at afgøre forsikringstagerens krav, skal selskabet betale renter af erstatningen
 fra denne dato. Det fremgår af FAL § 24.   
 
@@ -12261,10 +12434,10 @@ krav som udgangspunkt 14 dage efter, at forsikringsselskabet har modtaget faktur
 Forsikringsselskabet skal udbetale aconto-erstatning til forsikringstageren, hvis en del af erstatningen kan opgøres, og det er sikkert, at selskabet under alle omstændigheder skal udbetale dette beløb i erstatning til forsikringstageren.  
 Forsikringsselskabet kan altså ikke tilbageholde hele erstatningen, fordi der stadig er genstande, hvor erstatningen ikke kan fastsættes. Det fremgår nærmere af FAL § 24, stk. 1, og § 25.  
 
-### Sikkerhedsforholdsregler/sikkerhedsforskrifter
+## Sikkerhedsforholdsregler/sikkerhedsforskrifter
 Police og forsikringsbetingelser kan indeholde krav om, at forsikringstageren skal modvirke/forebygge, at der sker skade på hans eller hendes ting. Den type regler kaldes sikkerhedsforholdsregler eller sikkerhedsforskrifter. Reglerne findes i FAL § 51. Det er forsikringsselskabets bevisbyrde, hvis selskabet mener, at sikkerhedsforskrifterne er blevet ovetrådt af forsikringstageren.  
 
-## Eksempler på sikkerhedsforholdsregler, som nævnes af Forsikringsankenævnet, kan være:
+### Eksempler på sikkerhedsforholdsregler, som nævnes af Forsikringsankenævnet, kan være:
 
 * Krav i familie-/indboforsikringen om, at ens bolig skal være forsvarligt aflåst, for at man har ret til erstatning efter reglerne om indbrudstyveri.  
 * Krav i bygningsforsikringen om, at bygningen skal være forsvarligt vedligeholdt.  
@@ -12274,7 +12447,7 @@ Police og forsikringsbetingelser kan indeholde krav om, at forsikringstageren sk
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/Oi1NnFx8NB4" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
-# Se praksis fra Forsikringsankenævnet og retspraksis omkring FAL § 51<sup><font color="red"> Premium </font></sup>  
+### Se praksis fra Forsikringsankenævnet og retspraksis omkring FAL § 51<sup><font color="red"> Premium </font></sup>  
 
 FED 1994 52. (Krav om aflåsning kunne ikke anses som krav om vedvarende aflåsning. Dækning af tyveri fra skab trods uaflåst hoveddør). Den manglende aflåsning skal kunne tilregnes den pågældende som en forsømmelse.  
 Forsikringsankenævnet sagsnr.: 42671. Tyveri sker fra uaflåst bygning, mens klager for en kort periode er inde hos naboen, som har skåret sig i foden og råbt om hjælp. Den manglende aflåsning af huset i denne situation findes ikke at kunne tilregnes klageren som uagtsom, og hun havde derfor krav på erstatning.   
@@ -12298,15 +12471,16 @@ Sagsnr.: 84958. Klager over erstatningsopgørelse. Klager anmeldte et indbrudsty
 Har forsikringsselskabet formuleret dækningsbetingelsen helt objektivt, er der ikke tale om en sikkerhedsforholdsregel. Eksempelvis kan selskabet i en familie-/indboforsikring skrive, at der ved indbrudstyveri skal være "tegn på voldeligt opbrud". Står dette tydeligt i forsikringstagerens forsikringsbetingelser, får forsikringstageren kun erstatning efter reglerne om indbrudstyveri, hvis forsikringstageren kan bevise, at der er tegn på voldeligt opbrud af ens bolig, og det er uden betydning, om forsikringstageren har udvist nogen forsømmelse eller ej.  
 
 
-21.1.20. Risikooplysninger og urigtige oplysninger
+## Risikooplysninger og urigtige oplysninger
 Når man tegner en forsikring, skal man som tidligere nævnt normalt give forsikringsselskabet en række oplysninger, så selskabet kan vurdere, hvor stor en risiko det løber ved at forsikre én. Disse oplysninger bruger selskabet blandt andet til at afgøre, om selskabet vil forsikre én, og hvad man skal betale for forsikringen. Det er derfor vigtigt, at ens oplysninger er korrekte. Hvis ens oplysninger ikke er rigtige, kan det betyde, at man får nedsat erstatningen (fordi man har betalt for lidt for forsikringen), eller at man slet ikke får nogen erstatning (fordi selskabet ikke ville have haft en som kunde), jf. FAL § 6.
+
 Man kan også risikere, at forsikringsselskabet opsiger forsikringen, så man ikke længere er forsikret, eller ophæver forsikringen med tilbagevirkende kraft til det tidspunkt, hvor forsikringsaftalen blev indgået. Forsikringsselskabet kan kun ophæve forsikringen med tilbagevirkende kraft og helt afvise at betale erstatning til forsikringstageren, hvis selskabet kan sandsynliggøre, at selskabet slet ikke ville have indgået forsikringsaftalen med forsikringstageren, hvis forsikringstageren havde givet korrekte oplysninger.  
 
 Man skal derfor være meget omhyggelig med at svare rigtigt på spørgsmålene, når man indgår en forsikringsaftale. Og kontrollér nøje, hvilke oplysninger – f.eks. om antal skader mv. – der fremgår af det forsikringstilbud, man får fra forsikringsselskabet. Husk, at det, man mundtligt oplyser til en sælger (assurandør), også skal fremgå af de papirer,
 man skriver under på, idet man senere hen vil have meget vanskeligt ved at bevise, at man oplyste noget andet til sælgeren end det, man skrev under på. Tegner man flere forsikringer på samme tid i forsikringsselskabet, kan man risikere, at de urigtige oplysninger – som man afgav for én forsikring – får betydning for alle de forsikringer, man tegnede samtidig. Se eksempelvis Forsikringsankenævnets sagsnr.: 99.208:  
 
 
-## Retspraksis om risikooplysninger og urigtige oplysninger<sup><font color="red"> Premium </font></sup>  
+### Retspraksis om risikooplysninger og urigtige oplysninger<sup><font color="red"> Premium </font></sup>  
 Sagsnr.: 99208. Hvor klageren i forbindelse med køb af indbo-, bil- og ulykkesforsikring i selskabet havde sat kryds i "nej" som svar på spørgsmålet: "Har et selskab over for en i husstanden inden for de seneste tre år stillet krav om skærpede vilkår (f.eks. forhøjet præmie og/eller selvrisiko) efter anmeldelse af skade(r)?". Klagerens tidligere bilforsikringsselskab havde 4 måneder før sendt et brev til klageren, hvor det oplyste, at det forhøjede selvrisikoen. Nævnet fandt, at selskabet ved fremlæggelse af sine interne acceptregler kunne sandsynliggøre, at det, såfremt klageren havde afgivet korrekte oplysninger, ikke ville have tegnet andre forsikringer end den lovpligtige ansvarsforsikring for bilen. Nævnet kunne derfor ikke kritisere, at selskabet havde ophævet alle forsikringerne – bortset fra ansvarsforsikringen for bilen – med tilbagevirkende kraft til tegningstidspunktet. Klageren fik som konsekvens heraf ikke udbetalt erstatning for et indbrudstyveri.
 
 Risikooplysningerne afgives ofte i et spørgeskema (forsikringsbegæringen). I begæringen om familieforsikring spørger selskabet blandt andet om tidligere skadesforløb, og om man tidligere har fået sine forsikringer opsagt af et forsikringsselskab. Forsikringsselskabet kan også spørge, om man er registreret som dårlig betaler. I stedet for begæringer stiller en del selskaber telefonisk spørgsmålene til én og beder om, at man på en mail bekræfter, at de svar, selskabet har noteret, er korrekte. Forsikringsselskaberne går ud fra, at ens oplysninger er rigtige. Forsikringsselskaberne undersøger kun stikprøvevis, om ens oplysninger er korrekte. Oftest undersøger selskabet først, om ens oplysninger var korrekte, når
@@ -12317,14 +12491,15 @@ Sagsnr.: 83753 om en arbejdsløshedsforsikring, hvor selskabet ikke kunne bevise
 I sagsnr.: 78797 kunne selskabet ikke bevise, at klageren telefonisk havde afgivet urigtige oplysninger. „Her var det ikke nok, at selskabet i policen, som klageren modtog efter at have indgået aftalen med selskabet, under et punkt, der hed "Øvrige forhold ved forsikringen", blandt andet havde skrevet "Du har ikke haft skader de sidste 3 år" og "Du er ikke opsagt af – eller har fået skærpede vilkår – i andet selskab". Nævnet henviste her til forsikringsaftalelovens § 10, stk. 3, hvor det fremgår, at hvis selskabet i policen har beskrevet et faktisk forhold uden at have indhentet oplysning om det fra forsikringstageren, kan det ikke komme forsikringstageren til skade, hvis det viser sig, at oplysningen var urigtig“. Reglerne om ens og forsikringsselskabets rettigheder, hvis man har givet urigtige oplysninger, finder man i FAL §§ 4-10.  
 
 
-### Erstatning og renter
+## Erstatning og renter
 Udbetaler forsikringsselskabet ikke erstatning til dig inden 14 dage efter, at selskabet har modtaget de nødvendige oplysninger til at afgøre ens krav, skal selskabet betale renter af erstatningen fra denne dato. Det fremgår af FAL § 24.  
 
 Skal forsikringsselskabet erstatte skaden således, at selskabet betaler indkomne fakturaer fra f.eks. håndværkere, tandlæge eller kiropraktor, skal selskabet normalt ikke betale renter til forsikringstageren. Betaler man derimod selv eksempelvis håndværkeren, og selskabet skal erstatte ens udlæg, forrentes ens krav som udgangspunkt 14 dage efter, at selskabet
 har modtaget fakturaen og forsikringstagerens meddelelse om, at man har betalt (forudsat, at de øvrige betingelser er opfyldt).  
 Forsikringsselskabet skal udbetale aconto-erstatning til forsikringstageren, hvis en del af erstatningen kan opgøres, og det er sikkert, at selskabet under alle omstændigheder skal udbetale dette beløb i erstatning til forsikringstageren. Selskabet kan altså ikke tilbageholde hele erstatningen, fordi der stadig er genstande, hvor erstatningen ikke kan fastsættes. Det fremgår af FAL § 24, stk. 1, og § 25  
 
-### Under- og dobbeltforsikring
+## Under- og dobbeltforsikring
+
 Forsikringssummen på dens forsikring skal altid mindst svare til forsikringsværdien af f.eks. indboet. Dvs. hvad det vil koste at genanskaffe alt dit indbo i tilfælde af en totalskade – fx en brand. Forsikringstageren er selv ansvarlig for, at forsikringssummen er rigtig. Man er underforsikret, når forsikringssummen er mindre en værdien af ens indbo. I tilfælde af en skade betyder det, at erstatningen bliver mindre, end hvad det koster at genanskaffe det ødelagte. Ved underforsikring
 bliver erstatningen regnet ud efter denne formel:  
 
@@ -12338,7 +12513,8 @@ Er ens forsikringssum større end ens værdier, er man overforsikret.
 Forsikringsselskabet betaler i den situation alene erstatning for ens skade
 og ikke for det, man har betalt for meget i forsikring.  
 
-### Forældelse af forsikringskrav
+## Forældelse af forsikringskrav
+
 For at man kan få fyldestgjort sit krav, skal man fremsætte det, inden det er forældet. Som udgangspunkt sker der forældelse efter 3 år, jf. forældelseslovens § 3, stk. 1. Det betyder, at man skal have fremsat sit krav overfor selskabet indenfor 3 år. Fristen regnes fra skadetidspunktet. Hvis skaden ikke kan konstateres med det samme, regnes 3-årsfristen fra det
 tidspunkt, hvor skaden opdages eller konstateres, dog således, at der under alle omstændigheder sker forældelse senest 30 år efter skadetidspunktet for så vidt angår erstatning og godtgørelse i anledning af personskade. For tingsskade er denne frist 10 år.  
 Når en sag indbringes for Ankenævnet for Forsikring inden for forældelsesfristen, forældes sagen ikke, mens nævnet behandler sagen. Når nævnets afgørelse foreligger, har man en tillægsfrist på 1 år til at gå videre med sagen til domstolene, hvis man stadig ikke har fået sit krav opfyldt.  
@@ -12349,27 +12525,30 @@ klagesagen ved nævnet, inden nævnet træffer afgørelse i sagen, eller hvis n�
 
 Reglerne kan ikke fraviges af selskabet til skade for forsikringstageren. Dog kan selskabet gyldigt aftale en anmeldelsesfrist i forbindelse med forsikringens ophør, hvis denne frist er mindst 6 mdr.  
 
-### Klage over forsikringsselskabets afgørelse
-Ankenævnet for Forsikring
-Ankenævnet er et privat klagenævn oprettet i 1975 af Forbrugerrådet Tænk og brancheforeningen Forsikring & Pension. Ankenævnet er godkendt af Erhvervsministeren og derfor "autoriseret" til at behandle forsikringsklager udenretligt.  
+## Klage over forsikringsselskabets afgørelse
 
-Kriterier for at klage:  
+Ankenævnet for Forsikring er et privat klagenævn oprettet i 1975 af Forbrugerrådet Tænk og brancheforeningen Forsikring & Pension. Ankenævnet er godkendt af Erhvervsministeren og derfor "autoriseret" til at behandle forsikringsklager udenretligt.  
+
+### Kriterier for at klage  
+
 Klagen skal vedrøre ens forsikringer. Man kan således ikke klage over en afgørelse truffet af modpartens forsikringsselskab.  
 Klagen skal vedrøre privatlivets forsikringsforhold: Klager vedrørende erhvervslivets forsikringsforhold falder som udgangspunkt uden for Ankenævnets område.  
+
 Klagen skal angå et konkret økonomisk mellemværende: Klagen skal altså angå et spørgsmål af økonomisk betydning. Ankenævnet kan ikke behandle klager over f.eks. ansattes opførsel, et forsikringsselskabs markedsføring eller andre generelle forhold. Ankenævnet er således ikke et disciplinærnævn eller en tilsynsmyndighed.  
 
-Behandling af klage:  
+### Behandling af klage  
 Ankenævnet kan ikke behandle klagen, hvis behandling hører under offentlige myndigheder, f.eks. Finanstilsynet, eller andre anke- eller klagenævn. Nævnet kan heller ikke behandle klagen, hvis ens sag er afgjort ved endelig dom, gyldigt bindende voldgift eller retsforlig.  
 
-Hvornår kan man klage:  
+### Hvornår kan man klage  
 Man kan først klage til Ankenævnet, når man har klaget til forsikringsselskabet over afgørelsen, og forsikringsselskabet har fastholdt sin afgørelse eller har undladt at besvare ens klage.  
 
-Klagegebyr:  
+### Klagegebyr
+
 Man skal betale et klagegebyr på 200 kr. Hvis man får medhold i sin klage, får man gebyret retur. Det samme gælder, hvis Forsikringsankenævnet ikke kan afgøre ens sag.  
 
-Sagsbehandlingstid:  
-Den typiske sagsbehandlingstid er 6-8 måneder. Sagsbehandlingstiden afhænger i høj grad af, hvor mange gange klageren og forsikringsselskabet ønsker at indsende nye oplysninger eller synspunkter til sagen. Europæiske klageorganer: Ankenævnet for Forsikring er optaget på Europa-Kommissionens liste over alternative tvistbilæggelsesorganer (ATB-instanser) og kan modtage klager via Europa-Kommissionens online-tvistbilæggelsesplatform (OTB-platform). OTB-platformen kan
-med fordel anvendes, hvis man ønsker at klage over et forsikringsselskab, som er etableret i et andet land end Danmark, og som dermed har leveret en grænseoverskridende tjenesteydelse til forsikringstageren. Vil man klage over et dansk forsikringsselskab, anbefaler Forsikringsankenævnet, at man benytter denne hjemmeside. Ankenævnet for Forsikring er også tilsluttet FIN-NET – et europæisk netværk af klageorganer i Europa inden for det finansielle område. Klik ind på FIN-NET for at læse nærmere.  
+### Sagsbehandlingstid 
+
+Den typiske sagsbehandlingstid er 6-8 måneder. Sagsbehandlingstiden afhænger i høj grad af, hvor mange gange klageren og forsikringsselskabet ønsker at indsende nye oplysninger eller synspunkter til sagen. Europæiske klageorganer: Ankenævnet for Forsikring er optaget på Europa-Kommissionens liste over alternative tvistbilæggelsesorganer (ATB-instanser) og kan modtage klager via Europa-Kommissionens online-tvistbilæggelsesplatform (OTB-platform). OTB-platformen kan med fordel anvendes, hvis man ønsker at klage over et forsikringsselskab, som er etableret i et andet land end Danmark, og som dermed har leveret en grænseoverskridende tjenesteydelse til forsikringstageren. Vil man klage over et dansk forsikringsselskab, anbefaler Forsikringsankenævnet, at man benytter denne hjemmeside. Ankenævnet for Forsikring er også tilsluttet FIN-NET – et europæisk netværk af klageorganer i Europa inden for det finansielle område. Klik ind på FIN-NET for at læse nærmere.  
 
 Kontaktoplysninger:  
 Ankenævnet for Forsikring  
@@ -12381,7 +12560,7 @@ www.ankeforsikring.dk
 Hvis klagen falder uden for Ankenævnet for Forsikrings område – det vil navnlig vedrøre klager over modpartens forsikringsselskab og erhvervsforsikring – kan forbrugeren kontakte Forsikringsoplysningen,
 Konkurrence- og Forbrugerstyrelsen/Forbrugerklagenævnet eller i den sidste ende starte en sag op ved domstolene.  
 
-Forsikringsoplysningen  
+### Forsikringsoplysningen  
 
 https://www.forsikringogpension.dk/presse/publikationer/  
 
@@ -12420,10 +12599,8 @@ e-mail: fp@forsikringogpension.dk
 
 Efter § 43 i lov om finansiel virksomhed skal forsikringsvirksomhed udøves i overensstemmelse med redelig forretningsskik og god praksis inden for forsikringsområdet. Vil forsikringstageren klage over forsikringsselskabers tilsidesættelse af god forsikringsskik, skal Finanstilsynet kontaktes.  
 
-**Finanstilsynet**  
-Finanstilsynet kan tage sager vedrørende overholdelsen af god skik og de udstedte bekendtgørelser op af egen drift, f.eks. i forbindelse med inspektionsbesøg eller temaundersøgelser. Finanstilsynet kan endvidere tage sager op efter anmodning fra Finanstilsynets bestyrelse eller Forbrugerombudsmanden. Finanstilsynet modtager tillige henvendelser direkte
-fra forbrugere, der imidlertid normalt henvises til de finansielle tvistløsningsorganer, hvis klagen også vedrører civilretlige spørgsmål om erstatning eller tilbagebetaling af uretmæssigt opkrævede beløb. Erhvervsdrivende henvises til domstolene. Finanstilsynet træffer en traditionel forvaltningsretlig afgørelse med mulighed for administrativ rekurs, og tilsynet
-har ikke en direkte søgsmålskompetence til domstolene. Såfremt en sag om god skik har vidtrækkende eller principiel betydning, skal Finanstilsynet forelægge sagen for Tilsynets bestyrelse.  
+### Finanstilsynet  
+Finanstilsynet kan tage sager vedrørende overholdelsen af god skik og de udstedte bekendtgørelser op af egen drift, f.eks. i forbindelse med inspektionsbesøg eller temaundersøgelser. Finanstilsynet kan endvidere tage sager op efter anmodning fra Finanstilsynets bestyrelse eller Forbrugerombudsmanden. Finanstilsynet modtager tillige henvendelser direkte fra forbrugere, der imidlertid normalt henvises til de finansielle tvistløsningsorganer, hvis klagen også vedrører civilretlige spørgsmål om erstatning eller tilbagebetaling af uretmæssigt opkrævede beløb. Erhvervsdrivende henvises til domstolene. Finanstilsynet træffer en traditionel forvaltningsretlig afgørelse med mulighed for administrativ rekurs, og tilsynet har ikke en direkte søgsmålskompetence til domstolene. Såfremt en sag om god skik har vidtrækkende eller principiel betydning, skal Finanstilsynet forelægge sagen for Tilsynets bestyrelse.  
 
 Se følgende kontaktoplysninger:  
 Finanstilsynet  
