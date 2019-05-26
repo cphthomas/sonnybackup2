@@ -58,7 +58,7 @@ indeks <<- data.frame(BEGREB,forklaring)
 
 
 
-<br>
+
 <br>
 <h3>*Vigtigt bemærk!*</h3>
 
@@ -154,9 +154,13 @@ visNetwork(nodes, edges, width = "80%") %>%
 *	Magtbalance  
 
 Bestemmelsen handler om magtens tredeling i den lovgivende, den udøvende og den dømmende magt. Magten er delt mellem forskellige myndigheder (Folketing, regering og domstole) for at undgå, at al magt samles hos én myndighed. Det ville kunne føre til magtmisbrug.
+<br>
 Ifølge grundloven har dronningen og Folketinget i fællesskab magten til at lovgive. Men helt sådan er det ikke i virkeligheden. I praksis er det nemlig regeringen og Folketinget, som bestemmer, hvordan lovene skal se ud. Dronningen skriver dem bare under. Dronningen skal føre lovene ud i livet – hun har den udøvende magt. I dag betyder det blot, at hun rent formelt udnævner ministrene i en regering. Derefter er det i praksis ministrene og deres ministerier, der sørger for, at lovene bliver overholdt.
+<br>
 Dronningen har ingen indflydelse på, hvem der skal være ministre. Det bestemmer statsministeren. Hun har heller ingen indflydelse på, hvilke partier der skal danne regering. Det handler grundlovens §§ 12-15 bl.a. om.
+<br>
 Domstolene har magten til at dømme. De afgør, om folk har overtrådt landets love og skal straffes. Og de tager stilling i sager, hvor borgere har indbyrdes konflikter. Domstolene afgør også, om ministerier og kommuner har overtrådt lovene, og om lovene overholder grundloven.
+<br>
 I 1999 fastslog Højesteret, jf. U 1999.841 H, at den såkaldte Tvindlov var i strid med grundlovens § 3. Tvindlovens bestemmelse om, at en række Tvindskoler ikke længere skulle have penge fra det offentlige, var derfor ugyldig.  
 
 
@@ -240,6 +244,7 @@ Taber regeringen valget, skal der findes en ny statsminister og en ny regering.
 
 ### Dronningen udnævner formelt den nye regering
 Den siddende statsminister skal, i samarbejde med dronningen, finde ud af, hvilken statsministerkandidat der har den bredeste opbakning hos det nye folketingsmedlemmer. Det kaldes en dronningerunde.
+<br>
 Når statsministeren har fundet sine ministre, udnævner dronningen formelt regeringen på Amalienborg. Regeringen kommer bagefter ud på slotspladsen. Her præsenterer statsministeren sin nye regering for danskerne.
 
 ### Sådan arbejder regeringen
@@ -249,7 +254,9 @@ Regeringens ministre leder via deres ministerier landet efter de love, Folketing
  
 ### Regeringen fremsætter lovforslagene
 Den udøvende magt ligger hos regeringen. Det står i grundloven. Regeringen har ret og pligt til at gennemføre de regler og love, som Folketinget vedtager, så lovene bliver til virkelighed i samfundet. 
+<br>
 Lovgivningsarbejdet har regeringen også stor indflydelse på. Det er regeringen, der forbereder og foreslår langt de fleste nye love og ændringer i eksisterende love. Regeringen er ansvarlig for hele processen med forberedelse af lovforslagene inden de når til Folketinget, herunder at lægge de overordnede planer, drive de politiske forhandlinger, skrive lovudkast og sende det i høring.
+<br>
 Når regeringen foreslår en lov, kaldes det, at den fremsætter et lovforslag. Både regeringen og medlemmerne af Folketinget kan fremsætte lovforslag – men de fleste kommer fra regeringen.  
 
 ### Lovkataloget viser regeringens mål
@@ -345,6 +352,14 @@ Domstolenes uafhængighed er bestemt i den danske grundlov. ``r tippy(indeks[1,1
 *	den dømmende magt (domstolene)
 
 Det er Folketinget, der vedtager Danmarks love. Regeringen regerer ud fra lovene. Men hverken Folketinget eller regeringen kan dømme på baggrund af de vedtagne love. Kun domstolene kan afgøre, hvordan lovene skal fortolkes, og dømme ud fra dem. Dommerne må kun rette sig efter, hvad der står i loven og det forarbejde, der ligger til grund for den. De må ikke lade sig påvirke af Folketinget, regeringen, pressen eller andre, når de dømmer i en sag. 
+
+#### Hvad er ret
+<br>
+
+
+<div class="video-container"><iframe src="https://youtu.be/A22w_IOl5yc" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+<br>
 
 ### Byret, landsret og Højesteret
 Domstolene i Danmark har 3 instanser: byret, landsret og Højesteret. Alle retssager begynder som udgangspunkt i en byret. Almindelige borgere kan være med til at dømme i straffesager som domsmænd eller nævninge, afhængigt af sagens karakter. 
@@ -1040,7 +1055,14 @@ edges <- data.frame(from = c(1),
 Resultat: Der er indgået en juridisk bindende aftale
 
 
+#### Video om aftalers indgåelse
+<br>
 
+
+
+<div class="video-container"><iframe src="https://youtu.be/WbgTUpCLz00" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+<br>
 
 
 ```{r faicon3, echo=FALSE, result=TRUE,fig.cap=("Aftale sælgers initiativ")}
@@ -1623,6 +1645,14 @@ Aftaleloven sondrer mellem på den ene side »fuldmagt« og på den anden side �
 <img src="img/fuldmagt2.jpg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 <br>
 
+#### Video om stillingsfuldmagten, jf. aftalelovens § 10, stk. 2
+<br>
+
+
+<div class="video-container"><iframe src="https://youtu.be/Zrg3TkUcot0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+<br>
+
 Når du (fuldmagtsgiver) giver en anden (fuldmægtig) fuldmagt til at handle på dine vegne, bliver du som hovedregel bundet af den aftale din fuldmægtig indgår med tredjemand. Der er kun tale om en stillingsfuldmagt i § 10’s forstand, når du efter aftale med en anden (fuldmagtsgiver/arbejdsgiveren) indtager en stilling, dvs. er ansat hos den pågældende. Stillingsfuldmagten stiftes ved, at du efter aftale med fuldmagtsgiver indtager en vis stilling og faktisk indtager denne fx, at du er ansat i en bank eller forsikringsselskab. Deraf følger så, at en advokat ikke har en stillingsfuldmagt for sin klient, og en tilsynsførende arkitekt eller ingeniør ingen stillingsfuldmagt fra bygherren. Tredjemand fx kunden kan påberåbe sig stillingsfuldmagten, selv om han ikke kender til ansættelsen af fuldmægtigen hos fuldmagtsgiveren.
 
 * En ansat, har således via sin stilling, fuldmagt til at handle på vegne af fuldmagtsgiver (arbejdsgiver).
@@ -1780,8 +1810,7 @@ Fuldmægtigen skal erstatte tredjemand den positive opfyldelsesinteresse, dvs. t
 
 <br>
 
-Indledningsvis skal du som studerende særlig være opmærksom på følgende problemstillinger ved forbrugeraftaler og forbrugerbeskyttelse:
-
+Indledningsvis skal du som studerende være særlig opmærksom på følgende problemstillinger ved gennemgangen af "forbrugeraftaler og forbrugerbeskyttelse":
 
 <br>
 •	Forbrugerbeskyttelse ved erhvervelse af fast ejendom;    
@@ -1831,6 +1860,7 @@ tilsyn med at FBL overholdes – se www.forbrug.dk
 
 ## Forbud mod uanmodet henvendelse
 <img src="img/sale1.jpg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<br>
 Hovedregel: Forbud mod uanmodet telefonisk eller direkte personlig henvendelse til forbrugere på deres bopæl, arbejdsplads, skoler, gymnasier, universiteter eller andre steder, hvor der ikke er almindelig adgang, fx også foreninger, hvis henvendelsen fra virksomheden har til formål at opnå en aftale med forbrugeren, jf. FBL § 4, stk. 1.
  
 Speak 4-5
@@ -2095,6 +2125,7 @@ Bestiller du rejser på nettet? Der gælder særlige regler ved handel på nette
 ##### Quiz: Elektronik
 I forbrug.dk’s quiz kan du teste, hvad du har ret til, hvis dit elektroniske udstyr, fx dit kamera, din computer eller din mobiltelefon, går i stykker. <a href="https://www.forbrug.dk/quiz/elektronik/?rn=43716" target="_blank">Tag testen her.</a>
 
+
 ##### Quiz: Forbrugerrettigheder
 Har du styr på, hvad du har ret til som forbruger? Jo mere du ved, jo bedre er du klædt på, når du står i butikken eller handler på nettet. <a href="https://www.forbrug.dk/quiz/forbrugerquizzen/?rn=43716" target="_blank">Test din viden her.</a>
 
@@ -2103,8 +2134,7 @@ Har du styr på, hvad du har ret til som forbruger? Jo mere du ved, jo bedre er 
 Har du styr på, om du må eje kopivarer i Danmark? Eller om du må tage dem med hjem fra et andet land? <a href="https://www.forbrug.dk/quiz/kopivarequizzen/?rn=43716" target="_blank">Prøv forbrug.dks quiz om kopivarer, og bliv klogere her.</a>
 
 
-
-
+<img src="img/bog.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 
@@ -2113,14 +2143,23 @@ Har du styr på, om du må eje kopivarer i Danmark? Eller om du må tage dem med
 
 Indledningsvis skal du som studerende være særlig opmærksom på følgende i forbindelse med gennemgangen af erstatningsretten:
 <br>
+
 •	Grundlæggende erstatningsbetingelser; ansvarsgrundlag, 
   årsagsforbindelse, påregnelighed, økonomisk tab og værnet 
   interesse 
   <br>
 •	Principalansvar (arbejdsgiverens hæftelsesansvar i DL 3-19-2)
 <br>
-•	Ansvarets sammenhæng med forsikringsdækning, erstatningsansvarslovens (forkortet; EAL) §§ 19 – 23 
+•	Ansvarets sammenhæng med forsikringsdækning, erstatningsansvarslovens (forkortet; EAL) §§ 19 – 23 <br>
 <br>
+
+#### Video om erstatningsretten
+
+<br>
+
+
+<div class="video-container"><iframe src="https://youtu.be/aUJNx9bEge4" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
 
 
 ## Erstatningsansvar uden lovgivning
@@ -4580,24 +4619,28 @@ Lovgivning: Lov om visse erhvervsdrivende virksomheder (Lovbekendtgørelse nr. 1
  
 
 
-### ApS og A/S (kapitalselskaber)
+## ApS og A/S (kapitalselskaber)
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/XIQuq979kfg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>  
 
 
 Efter selskabsloven, § 1, stk. 1, jf. Lovbekendtgørelse nr. 1089 af 14. september 2015 om aktie- og anpartsselskaber, finder loven anvendelse alle aktieselskaber og anpartsselskaber (kapitalselskaber). Det omfatter Bestemmelsen i § 1, stk. 1 angiver selskabslovens anvendelsesområde.
+<br>
 Ikke blot A/S’er og ApS’er, men også partnerselskaber (P/S’er), jf. kapitel 22, er omfattet af begrebet kapitalselskaber. 
+<br>
 Andelsselskabet (AMBA’et) er ikke omfattet af selskabsloven. Den tidligere definition i selskabsloven er udgået og definitionen findes nu i lov om erhvervsdrivende virksomheder § 4. 
+<br>
 Det er fundet unødvendigt at medtage en negativ afgrænsning heraf også i selskabsloven, hvor heller ikke andre juridiske personer, der falder uden for selskabsloven (eksempelvis fonde og foreninger) er negativt afgrænset.
+<br>
 Finansielle virksomheder er som udgangspunkt omfattet af selskabsloven, men er i øvrigt undergivet omfattende særregulering, jf. især lov om finansiel virksomheder. Selskabsloven gælder tillige for andre juridiske enheder i kraft af krydshenvisninger fra særlovgivningen, se eksempelvis lov om finansiel virksomhed § 23, hvorefter kapital 3 i selskabsloven med de nødvendige tilpasninger finder anvendelse på gensidige forsikringsselskaber og tværgående pensionskasser.
+<br>
 Udenlandsk indregistrerede selskaber omfattes ikke. En betingelse for selskabets registrering i Danmark er, at dets hjemsted er beliggende her.  
 
-Om advokatselskaber og advokatholdingselskaber henvises til Bekendtgørelse nr. 1427 11. december 2007
-om advokatselskaber.
+Om advokatselskaber og advokatholdingselskaber henvises til Bekendtgørelse nr. 1427 11. december 2007 om advokatselskaber.
 
 
-* Stiftelse af et kapitalselskab:
+### Stiftelse af et kapitalselskab (Aps of A/S):
 * Erhvervsstyrelsen
 * Stiftelsesdokument, vedtægter, tegning af selskabskapital
 
@@ -4609,12 +4652,13 @@ om advokatselskaber.
 1. På den ene side kan det ikke heraf uden videre udledes, at ejerne (eller stiftere og ledelse) under alle omstændigheder kan påberåbe sig den begrænsede hæftelse, der er aktie- og anpartsselskabsformens kendemærke ifølge selskabslovens § 1, stk. 2. Det påhviler nemlig ud over opfyldelse af minimumskapitalkravet stifterne/anpartshaverne (under hensyn til den påtænkte virksomhed) og senere ledelsen (under hensyn til den konkrete økonomiske situation) løbende at vurdere, hvor stor en selskabskapital det konkrete anpartsselskab skal have. For så vidt angår ledelsen påhviler pligten til løbende at udøve dette skøn forsvarligt af loven:
 
 Kapitalberedskabet skal således til enhver tid være forsvarligt, dvs. stå i rimeligt forhold til selskabets aktiviteter. Ledelsen er personligt ansvarlig for dette forhold. Pligten er for hvert enkelt relevant ledelsesorgan fastslået henholdsvis i § 115, nr. 5 (som en af bestyrelsens opgaver), i § 116, nr. 5 (som en af tilsynsrådets opgaver), og i § 118, stk. 2 (som en af direktionens opgaver).
+<br>
 
 2. Det nævnte forhold må på den anden side ikke lede til den misforståelse, at hvis den beholdne egenkapital i et anpartsselskab kommer under minimumskravet, er der indbygget et automatisk ejer- og/eller ledelsesansvar, hvis anpartsselskabets kreditorer lider tab ved dets efterfølgende økonomiske sammenbrud.
-
+<br>
 Der gælder en lovbestemt reaktionspligt, hvis egenkapitalen i anpartsselskabet kommer under halvdelen af selskabskapitalen, jf. § 119, men der er ingen pligt til at bringe nettoegenkapitalen op på niveau med selskabskapitalen (der består altså ingen retableringspligt), hvis ledelse og ejere overholder det ovenfor beskrevne forsvarlighedskrav. Bryder anpartsselskabets økonomi sammen, efter at selskabet gennem længere tid ikke har opfyldt minimumskapitalkravet, kan det dog blive en for ejere og ledelse ansvarsmæssigt belastende omstændighed, hvis der har foreligget såkaldt underkapitalisering.
 
-* Begrænset hæftelse
+### Begrænset hæftelse
 
 * Apportindskud – indskud af andre værdier end kontanter:
 * Revisorvurdering af aktiver der indskydes
@@ -4625,19 +4669,24 @@ Der gælder en lovbestemt reaktionspligt, hvis egenkapitalen i anpartsselskabet 
 * A/S: Aktier – aktionær
  
 
-Ledelsesstruktur og beslutninger:
+### Ledelsesstruktur og beslutninger:
 
 • Bestyrelse	&rarr; direktion  
 • Tilsynsråd	&rightarrow; direktion
 
-Generalforsamlingen:
-• Et kapitalselskabs øverste myndighed. Kredsen af kapitalejerne træffer beslutning om de overordnede forhold i kapitalselskabet, herunder valg af medlemmer til bestyrelse/tilsynsråd i kapitalselskabet.
+### Generalforsamlingen:
+• Et kapitalselskabs øverste myndighed. Kredsen af kapitalejerne  
+  træffer beslutning om de overordnede forhold i kapitalselskabet, 
+  herunder valg af medlemmer til bestyrelse/tilsynsråd i 
+  kapitalselskabet.
  
-Tegningsret:
-• Hvilke personer kan handle og indgå aftaler på kapitalselskabets vegne.
-• En tegningsudskrift eller et sammenskrevet resumé fra Erhvervs- og Selskabsstyrelsen.
+### Tegningsret:
+• Hvilke personer kan handle og indgå aftaler på kapitalselskabets  
+  vegne.
+• En tegningsudskrift eller et sammenskrevet resumé fra Erhvervs- og 
+  Selskabsstyrelsen.
 
-Ejeraftale:
+### Ejeraftale:
 Regulerer det interne forhold mellem kapitalejerne (aktionær- overenskomst/anpartshaveroverenskomst)
 
 <h3>Indgåelse af en ejeraftale</h3>
@@ -4647,41 +4696,66 @@ Regulerer det interne forhold mellem kapitalejerne (aktionær- overenskomst/anpa
 
 
 
-#### Selskabskapital
+### Selskabskapital
 
 ![](img/capital.jpg)
 
-* Begrebet selskabskapital, der er defineret i selskabslovens § 5, nr. 30, udgøres af det indskud, som kapitalejernes hæftelse er begrænset til i medfør af selskabslovens § 4, stk. 2.
-* Garantikapital, hvad enten denne er indbetalt eller ej, er ikke en del af selskabskapitalen.
-* Ansvarlig lånekapital eller ansvarlig indskudskapital er ikke en del af selskabskapitalen. Hverken garantikapital eller ansvarlig lånekapital/indskudskapital skal anmeldes til registrering i Erhvervsstyrelsen, men kan oplyses i årsregnskabet i noterne som et samlet tal angivende selskabskapitalen og optaget ansvarlig lånekapital, hvilket så skal ske under en anden betegnelse som f.eks. »samlet ansvarlig kapital«.
-* Et lån, der er ydet til selskabet på vilkår, at det skal stå tilbage for alle eksisterende og eller kommende selskabskreditorer, skal særskilt opregnes med noteoplysning herom i årsregnskabet, jf. årsregnskabsloven § 93, stk. 3 (der gælder for virksomheder i regnskabsklasse C (mellemstore og store selskaber) og regnskabsklasse D (navnlige statslige og børnoterede aktieselskaber). En årsregnskabsoplysning om, at låntagerselskabet er rådig over et ansvarligt lån, er et løfte til almenheden om at lånet indestår »indtil videre«.
+* Begrebet selskabskapital, der er defineret i selskabslovens § 5,  
+  nr. 30, udgøres af det indskud, som kapitalejernes hæftelse er 
+  begrænset til i medfør af selskabslovens § 4, stk. 2.
+  <br>
+* Garantikapital, hvad enten denne er indbetalt eller ej, er ikke en 
+  del af selskabskapitalen.
+  <br>
+* Ansvarlig lånekapital eller ansvarlig indskudskapital er ikke en 
+  del af selskabskapitalen. Hverken garantikapital eller ansvarlig 
+  lånekapital/indskudskapital skal anmeldes til registrering i 
+  Erhvervsstyrelsen, men kan oplyses i årsregnskabet i noterne som et   samlet tal angivende selskabskapitalen og optaget ansvarlig 
+  lånekapital, hvilket så skal ske under en anden betegnelse som 
+  f.eks. »samlet ansvarlig kapital«.
+  <br>
+* Et lån, der er ydet til selskabet på vilkår, at det skal stå 
+  tilbage for alle eksisterende og eller kommende selskabskreditorer,   skal særskilt opregnes med noteoplysning herom i årsregnskabet, jf.   årsregnskabsloven § 93, stk. 3 (der gælder for virksomheder i 
+  regnskabsklasse C (mellemstore og store selskaber) og 
+  regnskabsklasse D (navnlige statslige og børnoterede 
+  aktieselskaber). En årsregnskabsoplysning om, at låntagerselskabet 
+  er rådig over et ansvarligt lån, er et løfte til almenheden om at 
+  lånet indestår »indtil videre«.
+  <br>
 
 
-Koncern, jf. selskabslovens § 6:
+## Koncern, jf. selskabslovens § 6:
 
-* Et moderselskab er karakteriseret ved at selskabet ejer en stor del af aktierne eller anparterne i et andet selskab, som kaldes et datterselskab.
-* Hvert selskab inden for koncernen er en  juridisk person, som har sit ”eget liv”.
-* I koncerner hæfter de enkelte koncernselskaber ikke for hinandens forpligtelser. Dette gælder også med hensyn til modregning.
-* Koncernforbundne selskaber kan indgå aftaler    og handle med hinanden på sædvanlige vilkår.
+* Et moderselskab er karakteriseret ved at selskabet ejer en stor del   af aktierne eller anparterne i et andet selskab, som kaldes et   
+  datterselskab.
+* Hvert selskab inden for koncernen er en  juridisk person, som har  
+  sit ”eget liv”.
+* I koncerner hæfter de enkelte koncernselskaber ikke for hinandens    forpligtelser. Dette gælder også med hensyn til modregning.
+* Koncernforbundne selskaber kan indgå aftaler og handle med   
+  hinanden på sædvanlige vilkår.
 
 ![](img/google.png)
   
-#### Aktieselskaber A/S 
+## Aktieselskaber A/S 
 
 
 
-Efter selskabslovens § 5, nr. 1 er et aktieselskab et kapitalselskab, herunder et partnerselskab, hvor kapitalejernes indskudskapital er fordelt på aktier. Aktier kan udbydes til offentligheden. Kapitalejerne hæfter alene med deres indskud i selskabet. Kun kapitalsselskabets formue hæfter for kapitalsselskabets gæld og øvrige forpligtelser, jf. også selskabslovens § 1, stk. 2:” I et aktie- eller anpartsselskab hæfter aktionærerne og anpartshaverne (kapitalejerne) ikke personligt for kapitalselskabets forpligtelser, men alene med deres indskud.  Kapitalejerne har ret til andel i kapitalselskabets overskud i forhold til deres ejerandel, medmindre andet er fastsat i selskabets vedtægter.”
+Efter selskabslovens § 5, nr. 1 er et aktieselskab et kapitalselskab, herunder et partnerselskab, hvor kapitalejernes indskudskapital er fordelt på aktier. Aktier kan udbydes til offentligheden. Kapitalejerne hæfter alene med deres indskud i selskabet. Kun kapitalsselskabets formue hæfter for kapitalsselskabets gæld og øvrige forpligtelser, jf. også selskabslovens § 1, stk. 2:” 
+<br>
+I et aktie- eller anpartsselskab hæfter aktionærerne og anpartshaverne (kapitalejerne) ikke personligt for kapitalselskabets forpligtelser, men alene med deres indskud.  Kapitalejerne har ret til andel i kapitalselskabets overskud i forhold til deres ejerandel, medmindre andet er fastsat i selskabets vedtægter.”
 
 Tilsvarende gælder, at når en kapitalejer har indbetalt sine kapitalandele fuldt ud, jf. selskabslovens §§ 33-34, er kapitalejeren ikke selskabsretligt forpligtet til at tilføre selskabet yderligere kapital.
 
 Udover at kapitalselskabets ejere og ledelse kan ifalde erstatningsansvar efter reglerne i selskabslovens kapitel 22, der i vidt omfang er modelleret over dansk rets almindelige erstatningsreger og omtales i forbindelse med det nævnte kapitels enkelte bestemmelser, kan der tænkes en såkaldt gennembrudshæftelse – som dog er meget sjældent set i praksis, men hvis grundsynspunkt kan føre til hæftelse på objektivt grundlag, altså hvor kapitalejere/ledelse ikke har handlet ansvarspådragende.
+<br>
 Retstilstanden kan for det i praksis mest interessante områdes vedkommende – koncerner/hovedaktionærforhold m.v. – antagelig sammenfattes i et udsagn om, at et moderselskab/en hovedaktionær på objektivt grundlag kommer til at betale en dattervirksomheds gæld, hvis moderselskabet/hovedaktionæren forretningsmæssigt har drevet koncernens selskaber som én virksomhed, hvori ligger, at moderselskabet/hovedaktionæren klart har ladet datterselskabet leve på koncernens goodwill og kreditværdighed, og at driften af datterselskabets virksomhed kun er forretningsmæssig mulig under forudsætning af, at moderselskabet/hovedaktionæren til stadighed tilfører den nødvendige kapital.
+<br>
 Den første danske højesteretsdom om gennembrudshæftelse er U 1997 1642 H. Dommen vedrører gennembrudshæftelse i forhold til et »søsterselskab«:
 
 Speak23
 
 
-#### Anpartsselskab ApS
+## Anpartsselskab ApS
 
 ![](img/as.jpg)
 
@@ -4697,7 +4771,7 @@ Et anpartsselskab kan have én eller flere ejere. Ejerne af selskabet kan være 
 * Beskatning af et anpartsselskab: Der skal betales 25 procent selskabsskat af årets resultat, mens der betales 28 procent udbytteskat ved et udbytte på under 48.300 kroner, og 42 procent udbytteskat for resterende udbytte derover. Et anpartsselskab skal udarbejde og offentliggøre regnskabet, der som hovedregel skal revideres af en revisor.
 * Pligt i forbindelse med bogføringsloven: Et anpartsselskab er underlagt en pligt om at følge bogføringsloven, dvs. bogholderiet skal udarbejdes efter gældende lov. Hvis dette ikke overholdes, kan det føre til krav om supplerende oplysninger eller forbehold i årsregnskabet.
 
-### Kommanditselskab K/S
+## Kommanditselskab K/S
 
 Ejerne og hæftelse:
 Ejerne i et K/S kan både være virksomheder (juridiske personer) og enkeltpersoner (fysiske personer).
@@ -4718,7 +4792,7 @@ Ejerne i et K/S kan både være virksomheder (juridiske personer) og enkeltperso
 
 
  
-### Partrederi og partselskab
+## Partrederi og partselskab
 
 Partrederi:
 
@@ -4727,7 +4801,7 @@ Partrederi:
 * Ikke særlig udbredt, men ses dog særligt inden for tidsbegrænsede projekter, fx byggeprojekter, hvor der er et tidsbegrænset samarbejde mellem de involverede håndværkere.
 * Partselskabsdeltageren hæfter pro-rata med hele sin formue, men kun for sin egen del af selskabets gæld.
  
-### Andelsselskab A.M.B.A
+## Andelsselskab A.M.B.A
 
 ![](img/andelsselskab.jpg) 
  
@@ -4818,11 +4892,11 @@ Ordet ”insolvent”
 
 Der må ved afgørelsen om skyldnerens insolvens og dermed en konkursbehandling tages der hensyn til en række momenter i praksis:
 
-* En rigtigt opgjort status er et vægtigt indicium om skyldnerens betalingsevne, jf. U 2001 2592 Ø (skyldner, der siden 2000-02-10 ved (delvis) betaling havde afværget 15 konkursbegæringer, var insolvent, da han ikke kunne betale 50.798 kr. ifølge en udeblivelsesdom, og da han havde yderligere gældsposter), hør nærmere omtale om dommen. 
+* En rigtigt opgjort status er et vægtigt indicium om skyldnerens betalingsevne, jf. dommen U 2001 2592 Ø (skyldner, der siden 2000-02-10 ved (delvis) betaling havde afværget 15 konkursbegæringer, var insolvent, da han ikke kunne betale 50.798 kr. ifølge en udeblivelsesdom, og da han havde yderligere gældsposter), hør nærmere omtale om dommen. 
 
 * Det må kræves, at der består en fordring mod skyldneren, men ikke at den er forfalden. Fordringen må endvidere tilkomme den, der indleverer konkursbegæringen til skifteretten.
 
-* At fordringen er genstand for en ikke afsluttet retssag, udelukker ikke i sig selv, at den kan tjene som grundlag for konkurs, se f.eks. U 1973 673 H.
+* At fordringen er genstand for en ikke afsluttet retssag, udelukker ikke i sig selv, at den kan tjene som grundlag for konkurs, se f.eks. dommen U 1973 673 H.
 
 * Kreditor skal have en retlig interesse i konkursbehandlingen. Denne vil normalt bestå i, at der er udsigt til dividende. Det forhold, at kreditor aktuelt ikke kan forvente dividende i boet, udelukker ikke konkurs. Den retlige interesse kan bestå i, at konkursbehandlingen kan tænkes at tilvejebringe yderligere aktiver.
 
@@ -6736,6 +6810,24 @@ B) ``r tippy(indeks[2,1], size="large" ,interactive = TRUE, arrow = TRUE, toolti
 Bemærk  
 Hvis et gældsbrev ikke falder ind under definitionen i henholdsvis GBL eller TL, og det klart fremgår af gældsbrevet, at det ikke skal være negotiabelt, er det et simpelt gældsbrev: Se GBL § 11, stk. 2 og TL § 27, stk. 2, § 42g, stk. 3, 2. og 3. pkt., § 42m, stk. 2, 2. og 3. pkt. og § 47, stk. 7, 2. og 3. pkt.  
 
+<br>
+
+#### Videoer om gældsbrevsloven
+<br>
+
+
+<div class="video-container"><iframe src="https://youtu.be/4SY6YPbY2YY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+<br>
+
+<div class="video-container"><iframe src="https://youtu.be/uODiLMSn3kg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br>
+
+
+<div class="video-container"><iframe src="https://youtu.be/nC3Sy7tBCaY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+<br>
+
 *Tinglysning af simple (ikkenegotiable) pantebreve:*  
 
 <img src="img/gb14.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
@@ -6852,23 +6944,31 @@ Som eksempler på fordringer kan nævnes:
 *  tilgodehavender bestående af gevinster
 *  erstatningskrav for såvel tingsskade som for personskade
 *  lån af penge
-*  koncerninterne skattekrav, fx et datterselskabs tilgodehavende hos administrationsselskabet i form af ikke-betalt skatteværdi af et udnyttet underskud
+*  koncerninterne skattekrav, fx et datterselskabs tilgodehavende hos    administrationsselskabet i form af ikke-betalt skatteværdi af et 
+   udnyttet underskud
 
 
 
 <img src="img/over3.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
+<br>
+
+#### Overdragelse af fordringer
+<div class="video-container"><iframe src="https://youtu.be/NqakMVHBPw4" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br>
 
 #### Video Hvordan laver jeg et gældsbrev?
 <div class="video-container"><iframe src="https://www.youtube.com/embed/8ufuecp-wXA" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br>
 
 #### Video Opret et gældsbrev online
 <div class="video-container"><iframe src="https://www.youtube.com/embed/J88adaVemVQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br>
 
 #### Video Sådan laver du en låneaftale
 <div class="video-container"><iframe src="https://www.youtube.com/embed/PPqd-fYRCg0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
-
+<br>
 
 ## Skyldners indsigelser over for den oprindelige kreditor
 
@@ -8252,6 +8352,25 @@ Pant i fast ejendom kan både bruges som sikkerhed via et pantebrev til køb af 
 * Kreditor kan højst give henstand med betaling på pantebrevet 1 år, ellers vil rentekravet komme sidst i prioritetsordenen
 * Ejerpant kan opstå, hvis der ikke er aftalt oprykningsret, og et gælden i et foranstående pantebrev er nedbragt
 
+<br<
+
+Video om tinglysningslovens §§ 1 og 27
+
+<br>
+
+<div class="video-container"><iframe src="https://youtu.be/hPEDQjWpyjg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+<br>
+
+Vidoe om tinglysningslovens § 40
+<br>
+
+
+<div class="video-container"><iframe src="https://youtu.be/W-GUDkF6tIg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+<br>
+
+
 
 Vigtigste dokumenter, der således kan tinglyses:
 
@@ -8382,15 +8501,15 @@ Tilbehør til en erhvervsejendom nu kun omfattes af TL § 38, såfremt tilbehør
 
 Formuleringen i TL 38: »når en bygning er opført, helt eller delvis« gælder bestemmelsen herefter uden hensyn til, om bygningen (virksomheden) er fuldført eller taget i brug. § 38 kan anvendes analogt på tilbehør til grunden. 
 
-I U 1934 167 (centrifugalpumpe ved brønd i det fri, der anvendtes til gartneris forsyning med vand omfattet af TL § 38), U 1932 603 (automatisk pumpe i ejendoms gård forbundet med rør til hovedbygning og stald omfattet af TL 38), men VLT 1932 329 (pumpe anvendt i briketfabrik, anbragt i skur uden tilknytning til nogen bygning, ikke omfattet af TL § 38). Svinehuse, hønsehuse og mindre skure omfattes af TL § 38, selv om man ikke kan henregne dem til bygninger. U 1939 883 (hønsehus af tynde brædder, opstillet et stykke fra ejendommens bygninger på støbt cementramme, således at det let kunne fjernes, uden for TL § 38).
+I dommen U 1934 167 (centrifugalpumpe ved brønd i det fri, der anvendtes til gartneris forsyning med vand omfattet af TL § 38), dommen U 1932 603 (automatisk pumpe i ejendoms gård forbundet med rør til hovedbygning og stald omfattet af TL 38), men VLT 1932 329 (pumpe anvendt i briketfabrik, anbragt i skur uden tilknytning til nogen bygning, ikke omfattet af TL § 38). Svinehuse, hønsehuse og mindre skure omfattes af TL § 38, selv om man ikke kan henregne dem til bygninger. dommen U 1939 883 (hønsehus af tynde brædder, opstillet et stykke fra ejendommens bygninger på støbt cementramme, således at det let kunne fjernes, uden for TL § 38).
 
-Det er tvivlsomt, i hvilket omfang vindmøller er omfattet af § 38, således at særskilt pantsætning - og andre særskilte rettigheder - er afskåret i tilfælde, hvor møllen opføres på egen ejendom, se U 1991 447/1 V (vindmølle, der udelukkende producerede el til videresalg og ikke forsynede den ejendom, hvorpå den var beliggende, ikke omfattet af pantet i ejendommen efter § 38; pantsætning måtte derfor ske efter reglerne for løsøre).
+Det er tvivlsomt, i hvilket omfang vindmøller er omfattet af § 38, således at særskilt pantsætning - og andre særskilte rettigheder - er afskåret i tilfælde, hvor møllen opføres på egen ejendom, se dommen U 1991 447/1 V (vindmølle, der udelukkende producerede el til videresalg og ikke forsynede den ejendom, hvorpå den var beliggende, ikke omfattet af pantet i ejendommen efter § 38; pantsætning måtte derfor ske efter reglerne for løsøre).
 
-Der lægges der vægt på i TL § 38, om tilbehøret er indlagt i »bygningen«. Hermed er det understreget, at en genstand kun kan anses for omfattet af TL § 38, hvis den kan anses som et tilbehør til selve bygningen, jf. også ordene »til brug for bygningen«. Det er således ikke tilstrækkeligt, at genstanden kan betragtes som tilbehør til en erhvervsvirksomhed, der drives i bygningen.  Tilbehør til grunden kan også være omfattet af TL § 38, jf. ordet »delvis«. Med udtrykket »indlagt« er det bl.a. fremhævet, at der må være en vis rumlig forbindelse mellem bygning (grund) og tilbehør, selv om det ikke kræves, at anbringelsen er sket »mur- og nagelfast«. Generelt følger af begrebet »indlagt« dels et krav om, at genstanden skal være bestemt til stationær brug (modsat let transportabel), dels et krav om, at den skal være varigt anbragt på ejendommen (modsat blot midlertidigt). SE U 1987 854 V (køleskabe, komfurer og elradiatorer, der var opstillet i 2 nyopførte huse, men ikke var tilsluttet elnettet, anset for omfattet af TL § 38).
+Der lægges der vægt på i TL § 38, om tilbehøret er indlagt i »bygningen«. Hermed er det understreget, at en genstand kun kan anses for omfattet af TL § 38, hvis den kan anses som et tilbehør til selve bygningen, jf. også ordene »til brug for bygningen«. Det er således ikke tilstrækkeligt, at genstanden kan betragtes som tilbehør til en erhvervsvirksomhed, der drives i bygningen.  Tilbehør til grunden kan også være omfattet af TL § 38, jf. ordet »delvis«. Med udtrykket »indlagt« er det bl.a. fremhævet, at der må være en vis rumlig forbindelse mellem bygning (grund) og tilbehør, selv om det ikke kræves, at anbringelsen er sket »mur- og nagelfast«. Generelt følger af begrebet »indlagt« dels et krav om, at genstanden skal være bestemt til stationær brug (modsat let transportabel), dels et krav om, at den skal være varigt anbragt på ejendommen (modsat blot midlertidigt). Se dommen U 1987 854 V (køleskabe, komfurer og elradiatorer, der var opstillet i 2 nyopførte huse, men ikke var tilsluttet elnettet, anset for omfattet af TL § 38).
 
-Kravet om, at anskaffelsen skal være sket på ejerens bekostning. Udenfor falder herefter tilfælde, hvor anskaffelsen er bekostet af en lejer, idet det afgørende i denne henseende er, om vederlaget i realiteten betales af ejeren, ikke om betalingen formelt kommer fra ham, jf. U 1941 731 H.
+Kravet om, at anskaffelsen skal være sket på ejerens bekostning. Udenfor falder herefter tilfælde, hvor anskaffelsen er bekostet af en lejer, idet det afgørende i denne henseende er, om vederlaget i realiteten betales af ejeren, ikke om betalingen formelt kommer fra ham, jf. dommen U 1941 731 H.
 
-Er en genstand anskaffet af ejendommens ejers ægtefælle, må udgangspunktet være, at den ikke omfattes af TL § 38, jf. U 1983 951 V og U 1985 227 V. Man vil dog formentlig stille ret strenge krav til beviset for, at genstanden reelt er bekostet af den anden ægtefælle, ligesom § 38 er anvendelig, hvis den ægtefælle, der har anskaffet genstanden, må antages reelt at være medejer af ejendommen, jf. U 1984 620 V. Tilsvarende gælder ved faste samlivsforhold.
+Er en genstand anskaffet af ejendommens ejers ægtefælle, må udgangspunktet være, at den ikke omfattes af TL § 38, jf. dommene U 1983 951 V og U 1985 227 V. Man vil dog formentlig stille ret strenge krav til beviset for, at genstanden reelt er bekostet af den anden ægtefælle, ligesom § 38 er anvendelig, hvis den ægtefælle, der har anskaffet genstanden, må antages reelt at være medejer af ejendommen, jf. dommen U 1984 620 V. Tilsvarende gælder ved faste samlivsforhold.
 
 Hvis indføjelsen er foretaget af en lejer, en brugspanthaver eller anden midlertidig besidder, omfattes forholdet som nævnt ikke af TL § 38.
 
@@ -8425,15 +8544,30 @@ Er driftsmateriel og driftsmidler omfattet af ejendomspantet. Altså - med undta
  
 Hvis ejendommen er en landejendom omfatter pantet også:
 
-* Besætningen. Dyr er i ældre retspraksis efter omstændighederne blevet opfattet som driftsmateriel, således at de ansås for omfattet af tilbehørspantet, selv om der ikke var tale om en landejendom (se hertil efterfølgende note), jf. U 1981 863 V (heste i stutteri) og U 1969 961 V (høns i hønseri). Men se nu U 1987 807 H (en ørredbestand på et dambrug kunne ikke anses for driftsmateriel) og U 1995 362 H (en minkfarms besætning af mink ikke anset som driftsinventar eller driftsmateriel). Under besætning falder alle dyr, der indgår i en normal landbrugsdrift, herunder avlsdyr samt afkom, U 1935 561, således også høns, smågrise og får, VLT 1957 159 (ekstraordinært stort fårehold, uanset at besætningen ikke kunne ernæres af gårdens produkter), men ikke kaniner, pelsdyr, duer, bier og lignende. Det må dog kræves, at dyrene har væsentlig betydning for ejendommen, hvorfor man snarere vil medtage høns ved husmandsbrug, U 1937 154, end ved større landejendomme, U 1935 373.
+* Besætningen. Dyr er i ældre retspraksis efter omstændighederne blevet opfattet som driftsmateriel, således at de ansås for omfattet af tilbehørspantet, selv om der ikke var tale om en landejendom (se hertil efterfølgende note), jf. dommen U 1981 863 V (heste i stutteri) og dommen U 1969 961 V (høns i hønseri). Men se nu dommen U 1987 807 H (en ørredbestand på et dambrug kunne ikke anses for driftsmateriel) og dommen U 1995 362 H (en minkfarms besætning af mink ikke anset som driftsinventar eller driftsmateriel). Under besætning falder alle dyr, der indgår i en normal landbrugsdrift, herunder avlsdyr samt afkom, dommen U 1935 561, således også høns, smågrise og får, dommen VLT 1957 159 (ekstraordinært stort fårehold, uanset at besætningen ikke kunne ernæres af gårdens produkter), men ikke kaniner, pelsdyr, duer, bier og lignende. Det må dog kræves, at dyrene har væsentlig betydning for ejendommen, hvorfor man snarere vil medtage høns ved husmandsbrug, dommen U 1937 154, end ved større landejendomme, dommen U 1935 373.
  
-* Gødning, afgrøder og andre frembringelser. En landbrugsejendoms mælkekvote er ikke omfattet af TL § 37, og det samme gælder et krav på godtgørelse for ophør med mælkeleverance, jf. U 1992 815 V. Såvel den på roden værende som den indhøstede avl og afgrøde, U 1964 746 V. Panthaverne i den faste ejendom må dog respektere høstpant stiftet i henhold til lov om høstpant. Om kartoffelleveringsrettigheder se U 1998 209/2 V og U 2000 967 V.
-* En landejendom er oftest en traditionel gård med jordbrug og besætning. Der må være tale om en egentlig jordbrugsvirksomhed, U 1995 362 H (minkfarm ikke omfattet), U 1987 807 H (dambrug ikke omfattet), U 1981 863 V (en ejendom, der var noteret som landbrugsejendom, men som gennem lang tid udelukkende havde været drevet som stutteri og var indrettet specielt hertil, var ikke omfattet), U 1969 961 V (hønseri ikke anset for landejendom), U 1933 762 (ligeledes), VLT 1935 58 (pant i smedje med tilhørende areal af 1 td land antoges ikke at omfatte 1 hest, 1 ko og nogle smågrise, selv om stald var indrettet i husets ene ende). Det er uden betydning, om ejendommens jorder er beliggende i en landkommune eller ikke. Det er ligeledes uden betydning, om ejendommen ligger i landzone eller er noteret som en landbrugsejendom efter loven herom. Muligvis kan antallet af dyr på en ejendom være så stort, at der ikke er tale om jordbrug i traditionel forstand, men om industri, der ikke er omfattet. Det er derimod ikke nødvendigt, at opdræt af en besætning udelukkende baseres på ejendommens egen avl af foder.
+* Gødning, afgrøder og andre frembringelser. En landbrugsejendoms mælkekvote er ikke omfattet af TL § 37, og det samme gælder et krav på godtgørelse for ophør med mælkeleverance, jf. dommen U 1992 815 V. Såvel den på roden værende som den indhøstede avl og afgrøde, dommen U dommen 1964 746 V. Panthaverne i den faste ejendom må dog respektere høstpant stiftet i henhold til lov om høstpant. Om kartoffelleveringsrettigheder se dommen U 1998 209/2 V og dommen U 2000 967 V.
+* En landejendom er oftest en traditionel gård med jordbrug og besætning. Der må være tale om en egentlig jordbrugsvirksomhed, dommen U 1995 362 H (minkfarm ikke omfattet), dommen U 1987 807 H (dambrug ikke omfattet), dommen U 1981 863 V (en ejendom, der var noteret som landbrugsejendom, men som gennem lang tid udelukkende havde været drevet som stutteri og var indrettet specielt hertil, var ikke omfattet), U 1969 961 V (hønseri ikke anset for landejendom), dommen U 1933 762 (ligeledes), dommen VLT 1935 58 (pant i smedje med tilhørende areal af 1 td land antoges ikke at omfatte 1 hest, 1 ko og nogle smågrise, selv om stald var indrettet i husets ene ende). Det er uden betydning, om ejendommens jorder er beliggende i en landkommune eller ikke. Det er ligeledes uden betydning, om ejendommen ligger i landzone eller er noteret som en landbrugsejendom efter loven herom. Muligvis kan antallet af dyr på en ejendom være så stort, at der ikke er tale om jordbrug i traditionel forstand, men om industri, der ikke er omfattet. Det er derimod ikke nødvendigt, at opdræt af en besætning udelukkende baseres på ejendommens egen avl af foder.
 
-Uden for panteretten falder personlige brugsgenstande, jf. U 1975 323 Ø. (udsmykningsgenstande, herunder en antik våbensamling, i restaurationsvirksomhed ikke anset for omfattet af TL § 37, hvorimod et farvefjernsyn efter sin placering og anvendelse måtte betragtes som driftsinventar i forretningen). Personbiler er i almindelighed ikke omfattet, selv om de er anskaffet forud for 1993-06-01 og derfor ikke er undtaget efter TL § 37, stk. 3, jf. U 1979 411/1 V, U 1978 823 V og U 1973 354 V.
+Uden for panteretten falder personlige brugsgenstande, jf. dommen U 1975 323 Ø. (udsmykningsgenstande, herunder en antik våbensamling, i restaurationsvirksomhed ikke anset for omfattet af TL § 37, hvorimod et farvefjernsyn efter sin placering og anvendelse måtte betragtes som driftsinventar i forretningen). Personbiler er i almindelighed ikke omfattet, selv om de er anskaffet forud for 1993-06-01 og derfor ikke er undtaget efter TL § 37, stk. 3, jf. dommene U 1979 411/1 V, U 1978 823 V og U 1973 354 V.
 Er der tvivl om, hvorvidt genstande er omfattet af TL § 37 (eller TL § 38), kan de fremhæves udtrykkeligt i pantebrevet. Løsøregenstande, som ikke er omfattet af TL § 37, kan pantsættes særskilt efter TL § 47 (individualiserbart løsøre) eller efter TL § 47 c, virksomhedspant.
 
+
+#### Video om pant i fast ejendom, jf. TL §§ 37 og 38:
+
+<br>
+
+<div class="video-container"><iframe src="https://youtu.be/xHy4WseYSYY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
  
+<br>
+
+
+
+<div class="video-container"><iframe src="https://youtu.be/uK1iZr2t3y8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+<br>
+
+
 ## Pant i løsøre
 
 * Løsøre omfatter enkelte aktiver, fx cykel, maleri, smykker, båd eller andre genstande
