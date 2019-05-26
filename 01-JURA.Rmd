@@ -8365,7 +8365,7 @@ Video om tinglysningslovens § 40
 <br>
 
 
-<div class="video-container"><iframe src="https://youtu.be/W-GUDkF6tIg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="video-container"><iframe src="https://youtu.be/embed/W-GUDkF6tIg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 <br>
 
