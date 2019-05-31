@@ -112,13 +112,14 @@ Efterhånden som den internationale udvikling tog fart, erkendte Kong Christian 
 I grundloven kan du læse om magtens fordeling i samfundet. Om Folketinget som den demokratisk valgte forsamling, der vedtager love, der gælder for os alle. Om regeringen, der skal sikre, at lovene bliver overholdt af os borgere og af de myndigheder, der skal sørge for, at vi for eksempel har gode skoler, sygehuse og biblioteker. Om domstolene, der er uafhængige af regering og Folketing, fordi de skal dømme i konflikter mellem borgerne indbyrdes og mellem myndigheder og borgere.
 
 ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` handler også om de rettigheder, du har som borger. Vi kalder dem friheds- eller menneskerettigheder.
+<br>
 Den ene slags frihedsrettigheder er ytringsfriheden, retten til at forsamles og demonstrere for dine synspunkter og retten til at oprette foreninger og til at være medlem af en forening. ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` sikrer også, at du har ret til at være medlem af et politisk parti og være politisk aktiv – også selv om det går imod regeringens eller flertallets synspunkter. Disse rettigheder skal sikre, at demokratiet kan fungere. Grundlovens regler om folkeafstemninger og valg til Folketinget ville for eksempel ikke være meget værd, hvis vi ikke havde ret til at diskutere politiske spørgsmål og sige vores mening.
 Den anden slags frihedsrettigheder er reglerne om den personlige frihed og om ejendomsretten og boligens ukrænkelighed. Disse regler skal først og fremmest beskytte borgerne mod overgreb fra statsmagten. Hvis du bliver anholdt af politiet, har du for eksempel krav på, at en dommer tager stilling til din sag inden 24 timer. Hvis myndighederne vil undersøge din bolig, dine private papirer eller din pc, skal de som hovedregel have en dommers tilladelse først. – Og hvis myndighederne vil tage dit hus for at rive det ned, fordi der skal bygges en motorvej eller en jernbane hen over grunden, ja så skal du have en erstatning, der svarer til husets og grundens værdi. ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` sætter på den måde grænser for, hvordan staten kan blande sig i vores privatliv.
 ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` skal sikre stabile rammer om det politiske liv og de politiske kampe om magten. Og grundloven skal sikre, at borgernes rettigheder ikke krænkes. Begge dele sikres ved, at grundloven er mere vanskelig at ændre end andre love. Den danske grundlov er kun blevet ændret få gange, siden den blev vedtaget for mere end 160 år siden. Og sproget i mange af paragrafferne er ikke blevet moderniseret siden. Derfor er der i dette hæfte nogle forklarende kommentarer til de enkelte paragraffer.
-
+<br>
 ## Magtadskillelseslæren i grundlovens § 3
 Grundlovens § 3 har følgende ordlyd: ”Den lovgivende magt er hos kongen og Folketinget i forening. Den udøvende magt er hos kongen. Den dømmende magt er hos domstolene”.
-
+<br>
 ```{r magtenstredeling, echo=FALSE,fig.cap=("Magtens tredeling")}
 nodes <- data.frame(id = 1:3, shadow = FALSE,
                     shape = c("image"),
@@ -144,7 +145,7 @@ visNetwork(nodes, edges, width = "80%") %>%
            color = list(color = "lightgrey", highlight = "yellow"))
 ``` 
 
-
+<br>
 
  
 *	Lovgivende magt: Folketinget
@@ -162,96 +163,108 @@ Dronningen har ingen indflydelse på, hvem der skal være ministre. Det bestemme
 Domstolene har magten til at dømme. De afgør, om folk har overtrådt landets love og skal straffes. Og de tager stilling i sager, hvor borgere har indbyrdes konflikter. Domstolene afgør også, om ministerier og kommuner har overtrådt lovene, og om lovene overholder grundloven.
 <br>
 I 1999 fastslog Højesteret, jf. U 1999.841 H, at den såkaldte Tvindlov var i strid med grundlovens § 3. Tvindlovens bestemmelse om, at en række Tvindskoler ikke længere skulle have penge fra det offentlige, var derfor ugyldig.  
-
+<br>
 
 ## Folketinget som den lovgivende magt
 Folketinget er Danmarks parlament. Her vedtages al lovgivning i Danmark. Folketingets grundlæggende opgaver og nogle af arbejdsformerne er beskrevet i grundloven.  Andre metoder er praksisser, der har udviklet sig gennem de snart 170 år, Folketinget har eksisteret.
+<br>
 Folketinget er den lovgivende magt. Folketinget og regeringen er de eneste, der kan fremsætte lovforslag, dvs. komme med forslag til nye love og lovændringer. Den lovgivende magt er Folketinget og regering, men det er kun Folketinget, der kan vedtage lovforslag.
-``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` beskriver fordelingen af magten mellem Folketinget (lovgivende), regeringen (udøvende og lovgivende) og domstolene (dømmende), også kaldet magtens tredeling. Magten i samfundet er delt i 3 for at forhindre, at der sker magtmisbrug.  
+<br>
+``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` beskriver fordelingen af magten mellem Folketinget (lovgivende), regeringen (udøvende og lovgivende) og domstolene (dømmende), også kaldet magtens tredeling. Magten i samfundet er delt i 3 for at forhindre, at der sker magtmisbrug. 
+<br>
 
 ### Parlamentarisk kontrol og lovgivning i Folketinget
+<br>
 Folketinget har 3 hovedopgaver:
-
+<br>
 ![](img/sonfolketingssalen.png)
+<br>
 
 *	At behandle lovforslag og vedtage landets love
 *	At behandle og vedtage statens årlige budget, finansloven
 *	At føre kontrol med regeringens magtudøvelse
-
+<br>
 For at kunne løfte de opgaver kræves det, at folketingsmedlemmerne ved, hvordan det politiske arbejde skal foregå. Reglerne for, hvordan folketingsmedlemmerne skal samarbejde, og hvordan lovgivningsprocessen er, står beskrevet i Folketingets forretningsorden. Reglerne kan ændre sig over tid, fordi samfundet ændrer sig, men de fleste af reglerne har mange år på bagen.
-
+<br>
 ### Lovforslag
-
+<br>
 ![](img/folketinget2.png)
 
 Love regulerer, hvordan vi skal leve sammen i Danmark, hvad vi skal drive i fællesskab – f.eks. folkeskolen og sygehusene – og hvordan det fælles skal være indrettet. Lovgivning handler om, hvad man skal som borger, og hvad man ikke må, herunder hvad der er strafbart. Lovteksterne skal derfor skrives så præcist, at borgerne ikke er i tvivl om de fælles spilleregler i samfundet.
-
-Nye lovforslag kan fremsættes af regeringen og folketingsmedlemmerne (folketingsbeslutninger). 
-Regeringen fremsætter de fleste lovforslag
-
+<br>
+Nye lovforslag kan fremsættes af regeringen og folketingsmedlemmerne (folketingsbeslutninger).
+<br>
+Regeringen fremsætter de fleste lovforslag, da regeringen har statsadministrationen (ministerierne og styrelser) til at hjælpe sig med udformning af lovforslag mv.
+<br>
  
 Lovforslag tager lang tid at skrive, og det kræver stor juridisk indsigt. Derfor er det regeringen, der fremsætter de fleste lovforslag. For regeringen har mange embedsmænd i ministerierne til at hjælpe sig, mens partierne uden for regeringen, oppositionen, har færre til at hjælpe sig – de har kun medarbejdere i deres gruppesekretariater og i Folketingets Administration.
-
+<br>
 Ideer til nye love kommer primært fra regeringen, men kan også komme fra:
-
+<br>
 *	Folketingsmedlemmerne
 *	Interesseorganisationer, erhvervslivet, foreninger m.v.
 *	Sager i medierne
-*	Borgere, der henvender sig til et folketingsmedlem eller et parti med en sag  
+*	Borgere, der henvender sig til et folketingsmedlem eller et parti 
+  med en sag 
+  <br>
 Inden et lovforslag fremsættes i Folketingssalen, har det som regel været igennem en længere process i ministerierne.
-
+<br>
 ## Folketingets kontrol med regeringen
-
+<br>
 ![](img/folketinget3.png)
 Ud over at lovgive har Folketinget en anden og lige så vigtig rolle i demokratiet. Det er at kontrollere, om regeringen – den udøvende magt ‒ fører Folketingets love ud i livet, som de var tænkt, og om der sker magtmisbrug. Det kalder man parlamentarisk kontrol.
- 
+ <br>
 ### Den kritiske opposition
+<br>
 Parlamentarisk kontrol med regeringen er en meget vigtig opgave i Folketinget, hvor Folketinget kontrollerer, hvordan regeringen fører lovene ud i livet, og om regeringen fører en politik, der i hovedtræk bliver støttet af et flertal i Folketinget.
+<br>
 Søgelyset rettes ofte mod ministrene i regeringen. For det meste går det stille af, men situationen kan også spidse til, så regering og Folketing kommer til at stå stejlt over for hinanden. 
+<br>
 I praksis er det oppositionen – de partier i Folketinget, som er imod regeringens politik – der udfører den parlamentariske kontrol. Det er dem, der har den største interesse i at være kritiske over for regeringens arbejde og afsløre, om der sker magtmisbrug.
 Oppositionen undersøger bl.a., om regeringen:
-
+<br>
 *	Virkeliggør lovens indhold og gør det på den måde, som regeringen har lovet
 *	Overholder statsbudgettet  
-
+<br>
 Folketingsmedlemmerne fra oppositionspartierne finder den parlamentariske kontrol af regeringens magtudøvelse vigtig. Oppositionen har en politisk fordel i at finde fejl og mangler ved en regering, den ikke er enig med, og det giver oppositionspartierne mulighed for at forklare vælgerne, hvordan deres politik er anderledes end regeringens.
-
+<br>
 ### Udvalgsarbejdet i Folketinget
-
+<br>
 ![](img/folketinget4.png)
 
 Arbejdet i Folketinget foregår både i Folketingssalen og i Folketingets udvalg. Udvalgene arbejder med hvert deres fagområde og behandler både lovgivning og den brede kontrol med regeringens arbejde.  
  
-
+<br>
 ## Regeringen den udøvende magt
+<br>
 Statsministeren er regeringens chef og den der bestemmer, hvem der skal være minister i regeringen. Regeringen laver landets love, mens Folketinget vedtager dem. Ministrene er som regel også medlemmer af Folketinget, men det er ikke et krav.  
-
+<br>
 ### Sådan dannes en regering
-
+<br>
 ![](img/folketinget6.png)
 
 
 ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` giver dronningen magt til at udpege statsministeren og de øvrige ministre. Men i praksis er det et flertal i Folketinget, der er afgørende for, hvem der skal være statsminister. Statsministeren sætter så sit ministerhold og danner sin regering.
- 
+ <br>
 ### Statsministeren vælges og nedsætter sin regering
 Folketingsvalg skal afholdes mindst én gang hvert 4. år. Det står i grundloven. Statsministeren kan dog til enhver tid udskrive folketingsvalg, så der kan sagtens gå mindre end 4 år mellem hvert valg.
-
+<br>
 Når valget er slut og mandaterne fordelt, er det nye Folketing fundet. Så skal man i gang med at finde ud af, hvem der skal være statsminister og danne regering.
-
+<br>
 ### Negativ parlamentarisme
 Den siddende statsminister fortsætter, hvis der ikke er et flertal imod ham eller hende - dvs. 90 eller flere ud af de 179 folketingsmedlemmer. Det kaldes negativ parlamentarisme.
 Taber regeringen valget, skal der findes en ny statsminister og en ny regering.
-
+<br>
 ### Dronningen udnævner formelt den nye regering
 Den siddende statsminister skal, i samarbejde med dronningen, finde ud af, hvilken statsministerkandidat der har den bredeste opbakning hos det nye folketingsmedlemmer. Det kaldes en dronningerunde.
 <br>
 Når statsministeren har fundet sine ministre, udnævner dronningen formelt regeringen på Amalienborg. Regeringen kommer bagefter ud på slotspladsen. Her præsenterer statsministeren sin nye regering for danskerne.
-
+<br>
 ### Sådan arbejder regeringen
 ![](img/folketinget5.png)
 
 Regeringens ministre leder via deres ministerier landet efter de love, Folketinget har vedtaget. Regeringen har stor indflydelse på de love, der vedtages i Folketinget, da det er regeringen, der kommer med langt de fleste forslag til nye love.
- 
+ <br>
 ### Regeringen fremsætter lovforslagene
 Den udøvende magt ligger hos regeringen. Det står i grundloven. Regeringen har ret og pligt til at gennemføre de regler og love, som Folketinget vedtager, så lovene bliver til virkelighed i samfundet. 
 <br>
@@ -261,58 +274,62 @@ Når regeringen foreslår en lov, kaldes det, at den fremsætter et lovforslag. 
 
 ### Lovkataloget viser regeringens mål
 Når en ny regering tiltræder, vil de partier, der indgår i regeringen, sammen skrive et regeringsgrundlag. Et regeringsgrundlag er en slags politisk programerklæring, som signalerer, hvilken politik regeringen gerne vil gennemføre i den kommende regeringsperiode. 
- 
+ <br>
 Lovkataloget er et redskab for regeringen til at omsætte den overordnede politik til konkrete initiativer. Regeringen forsøger at gøre de politiske mål til virkelighed via nye love. De lovforslag, regeringen regner med at kunne få flertal for, bliver præsenteret i regeringens lovkatalog eller lovprogram, som udarbejdes og præsenteres for et folketingsår ad gangen. 
+<br>
 Lovkataloget kan findes på Statsministeriets hjemmeside og giver et pejlemærke for årets politiske beslutninger.
- 
+ <br>
 Den formelle baggrund for lovkataloget er, at der i grundlovens § 38 står beskrevet, at statsministeren skal lave en åbningsredegørelse, når et nyt folketingsår starter. Åbningsredegørelsen består både af en mundtlig og en skriftlig del. Den mundtlige del er åbningstalen, som statsministeren holder på åbningsdagen, mens den skriftlige del er lovkataloget.
-
+<br>
 ### Statsministeren
 ![](img/lokke.png)
 Statsministen er regeringens chef. Det er statsministeren, der bestemmer, hvem der skal være ministre, og hvilke ministerier der skal være.
- 
+ <br>
 ### Statsministeren har stor magt
 Statsministerposten er landets højeste ministerpost. En statsminister har en særlig stor magt og et særlig stort ansvar. Det er f.eks. kun statsministeren, der kan bestemme: 
 
-
+<br>
 *	hvem der skal være minister
 *	hvilke ministre der eventuelt skal afskediges/udskiftes
 *	hvornår der skal være folketingsvalg inden for den 4-årige regeringsperiode
-
+<br>
 Statsministeren fører tilsyn med sine ministre og fordeler opgaver og fagområder imellem dem. 
-
+<br>
 ### Ministrene
 
 ![](img/folketinget7.png)
 
 Regeringen, og dermed ministrene, har den udøvende magt i Danmark. Det vil sige, at ministrene har det overordnende ansvar for, at de love, som Folketinget vedtager, føres ud i livet. Ministrene har meget magt og ansvar, og en af deres vigtigste opgaver er at foreslå ny lovgivning.
- 
+ <br>
 Regeringens ministre har hver sit fagområde: Kulturministeren har ansvar for kulturområdet, skatteministeren for skatteområdet osv. 
 De fleste ministerområder ligger nogenlunde fast – f.eks. er der i praksis altid et Justitsministerium, et Finansministerium osv. Men statsministeren kan ændre ministrenes fagområder eller oprette nye ministerier, hvis statsministeren ønsker at begrænse, fremhæve eller styrke bestemte fagområder. F.eks. blev der efter valget i november 2007 som noget nyt udnævnt en minister for klima og energi. 
-
+<br>
 ### Ministrenes opgaver
 At foreslå ny lovgivning er en af ministrenes fornemste opgaver. Lovforslagene bliver forberedt i ministerierne, som har mange medarbejdere til bl.a. at skrive lovforslag.
-
+<br>
 En ministers arbejde består bl.a. i at:
-
+<br>
 
 *	forhandle indholdet af nye love på plads 
 *	svare på spørgsmål fra Folketinget, f.eks. fra Folketingets udvalg 
 *	svare på henvendelser fra borgere og organisationer m.fl. 
-*	informere offentligheden om ministeriets arbejde, bl.a. i form af hjemmesider, interviews og pressemeddelelser
-*	træffe beslutninger i ministeriet og sørge for, at ministeriet arbejder effektivt
+*	informere offentligheden om ministeriets arbejde, bl.a. i form af 
+  hjemmesider, interviews og pressemeddelelser
+*	træffe beslutninger i ministeriet og sørge for, at ministeriet 
+  arbejder effektivt
 *	samarbejde med internationale parter, herunder EU
-*	deltage i ugentlige ministermøder med resten af regeringens ministre
+*	deltage i ugentlige ministermøder med resten af regeringens 
+  ministre
 *	deltage i statsrådsmøder og regeringens udvalg
 *	deltage i regeringsseminarer
 
-
+<br>
 
 
 
 
 ## Domstolene
-
+<br>
 ```{r domstolene,echo=FALSE, result=TRUE, fig.cap=("Oversigt over domstolene")}
 
 nodes <- data.frame(id = 1:9, 
@@ -334,74 +351,87 @@ visNetwork(nodes, edges, height = "500px", width = "80%",avoidOverlap=2) %>%
 ```
 Uafhængige domstole er en grundlæggende del af magtens tredeling i et demokrati. Sådan er det også i Danmark. ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` siger nemlig, at domstolene alene har den dømmende magt.
 
- 
+ <br>
 
 
 
 ### Domstolenes opgaver
-
+<br>
 ![](img/hojesteret.png)
-
+<br>
 Domstolene er den dømmende magt i Danmark. De afgør, om personer har overtrådt landets love, og afgør uoverensstemmelser mellem to parter i civile sager.
- 
-Alle har ret til en retfærdig rettergang. Det står i den europæiske menneskerettighedskonvention. Det betyder bl.a., at en retssag skal afgøres inden for en rimelig tidsperiode og ved en domstol, der er uafhængig og upartisk.  
+ <br>
+Alle har ret til en retfærdig rettergang. Det står i den europæiske menneskerettighedskonvention. Det betyder bl.a., at en retssag skal afgøres inden for en rimelig tidsperiode og ved en domstol, der er uafhængig og upartisk. 
+<br>
 Domstolenes uafhængighed er bestemt i den danske grundlov. ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` deler nemlig magten i tre for at forhindre magtmisbrug, jf. ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))``s § 3:
-
+<br>
 *	den lovgivende magt (Folketinget og regeringen)
 *	den udøvende magt (regeringen)
 *	den dømmende magt (domstolene)
-
+<br>
 Det er Folketinget, der vedtager Danmarks love. Regeringen regerer ud fra lovene. Men hverken Folketinget eller regeringen kan dømme på baggrund af de vedtagne love. Kun domstolene kan afgøre, hvordan lovene skal fortolkes, og dømme ud fra dem. Dommerne må kun rette sig efter, hvad der står i loven og det forarbejde, der ligger til grund for den. De må ikke lade sig påvirke af Folketinget, regeringen, pressen eller andre, når de dømmer i en sag. 
-
+<br>
 
 ### Byret, landsret og Højesteret
+<br>
 Domstolene i Danmark har 3 instanser: byret, landsret og Højesteret. Alle retssager begynder som udgangspunkt i en byret. Almindelige borgere kan være med til at dømme i straffesager som domsmænd eller nævninge, afhængigt af sagens karakter. 
-
+<br>
 De almindelige domstole behandler civile sager og straffesager. 
-
+<br>
 *	Civile sager er sager, som anlægges ved domstolene for at få afgjort en uenighed mellem 2 parter. Som eksempler på civile sager kan nævnes sager om mangler ved fast ejendom, opsigelse af en arbejdstager, boligretssager, ægteskabssager, faderskabssager og sager om adoption.
 *	Straffesager er først og fremmest sager, hvor retten skal træffe beslutning, om en person skal straffes for en overtrædelse af loven. Afgørelser, der træffes i forbindelse med politiets efterforskning, er også straffesager. Det kan f.eks. være afgørelser om varetægtsfængsling, beslaglæggelse og ransagning.
-
 *	Byretterne behandler ligeledes skiftesager, foged- og auktionssager.
 *	Tinglysning af dokumenter foregår ved Tinglysningsretten.
-
+<br>
 Alle sager kan som udgangspunkt behandles ved 2 retsinstanser, f.eks. ved byret og landsret. Visse mindre sager kan dog normalt kun behandles ved én instans, byretterne, uden mulighed for appel til landsretten.
- 
+<br>
 ### Højesteret   
-
+<br>
 Danmark har én højesteret. Den ligger ved Christiansborg Slot i København. Højesteret er den øverste domstol i Danmark. Her afgøres f.eks. sager, der har betydning for, hvordan lignende sager skal afgøres, eller sager, der har særlig samfundsmæssig interesse. 
-Højesteret er en appeldomstol, som behandler domme og kendelser, der er afsagt af Østre Landsret, Vestre Landsret eller Sø- og Handelsretten. Man kan altså ikke anlægge sag direkte ved Højesteret.
-Højesteret behandler både civile sager og straffesager og fungerer som tredje instans i skifte-, foged- og tinglysningssager. Ved Højesteret behandles også sager, som Procesbevillingsnævnet har tilladt indbragt for retten. Det drejer sig om sager af særlig principiel betydning, f.eks. sager, som kan have betydning for afgørelse af en række andre sager, eller om sager af særlig samfundsmæssig interesse.
+Højesteret er en appeldomstol, som behandler domme og kendelser, der er afsagt af Østre Landsret, Vestre Landsret eller Sø- og Handelsretten. 
+<br>
+Man kan altså ikke anlægge sag direkte ved Højesteret.
+Højesteret behandler både civile sager og straffesager og fungerer som tredje instans i skifte-, foged- og tinglysningssager. 
+<br>
+Ved Højesteret behandles også sager, som Procesbevillingsnævnet har tilladt indbragt for retten. Det drejer sig om sager af særlig principiel betydning, f.eks. sager, som kan have betydning for afgørelse af en række andre sager, eller om sager af særlig samfundsmæssig interesse.
+<br>
 I straffesager kan Højesteret ikke tage stilling til skyldsspørgsmålet.
+<br>
 Særlige forvaltnings- eller forfatningsdomstole anvender man i mange andre EU-lande. Det gør man ikke i Danmark. Her er det de almindelige domstole – i praksis Højesteret – der undersøger, om de afgørelser, myndighederne træffer, er lovlige, eller om en lov er i strid med ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))``.
-
+<br>
 ### Landsretterne
 
 ![Østre Landsret i Bredgade 55, København K](img/landsret.png)
 
-I Danmark findes der 2 landsretter: Vestre Landsret i Viborg og Østre Landsret i København. Landsretten behandler primært appelsager fra byretten. 
+I Danmark findes der 2 landsretter: Vestre Landsret i Viborg og Østre Landsret i København. Landsretten behandler primært appelsager fra byretten.
+
 Hvis byretten f.eks. mener, at en sag er af principiel karakter, kan den også henvise sagen direkte til behandling i landsretten.
  
-Østre Landsret i Bredgade 55, København K
+Adressen: Østre Landsret i Bredgade 55, København K
 
 Ved landsretterne er ansat ca. 100 landsdommere. Hver landsret ledes af en præsident.
+<br>
 Vestre Landsret ligger i Viborg og behandler sager fra Jylland.
 Østre Landsret ligger i København og behandler sager fra resten af landet, Færøerne og Grønland.
+<br>
 Landsretterne er delt i afdelinger. Til hver afdeling hører tre landsdommere, som i fællesskab afgør alle afdelingens sager, både straffesager og civile sager. I nogle straffesager medvirker nævninger, i andre domsmænd. I enkelte sager deltager personer, der er særligt sagkyndige på et specielt område.
+<br>
 Vestre og Østre Landsret er appelinstanser for byretterne.
-
+<br>
 ### Sø- og Handelsretten 
-
+<br>
 Sø- og Handelsretten ligger i København. I Sø- og Handelsretten er ansat en præsident, 2 vicepræsidenter, 2 dommere og et antal sagkyndige medlemmer. De sagkyndige medlemmer har særlig kendskab til sø- og handelsforhold. 
+<br>
 Sø- og Handelsretten behandler bl.a. sager, hvor kendskab til sø- og handelsforhold er af væsentlig betydning.
 Sø- og Handelsretten behandler også sager om konkurs, rekonstruktion og gældssanering m.v. fra hele Storkøbenhavn.
-
+<br>
 ### Den Særlige Klageret 
 Den Særlige Klageret ligger i København samme sted som Højesteret. Klageretten er sammensat af en højesteretsdommer, en landsdommer, en byretsdommer, en advokat og en universitetslærer i retsvidenskab eller anden jurist med særlig videnskabelig uddannelse.
+<br>
 Den Særlige Klageret træffer afgørelser i disciplinære sager vedrørende dommere og andet juridisk personale ansat ved domstolene, herunder også ansatte på Færøerne og i Grønland.
- 
+<br> 
 Klageretten behandler derudover sager om genoptagelse af straffesager og udelukkelse af forsvarere fra straffesager.
-
+<br>
 ### Byretten
 ![](img/byretten.png)
 Danmark har 24 byretter. De er fordelt over hele landet. Byretten behandler som nævnt bl.a.:
@@ -411,7 +441,7 @@ Danmark har 24 byretter. De er fordelt over hele landet. Byretten behandler som 
 *	tinglysningssager
 *	skiftesager 
 
-
+<br>
 ### Byretterne
 
 
@@ -448,31 +478,34 @@ visNetwork(nodes, edges, width = "80%") %>%
 Danmark er inddelt i 24 såkaldte byretskredse.
 Byretterne ledes af en byretspræsident.
 Byretterne behandler civile sager, straffesager, notarialforretninger og skiftesager.
+<br>
 Alle sager begynder som udgangspunkt i byretten.
 Byretterne kan i en række tilfælde henvise en civil sag til behandling ved landsretten. Det gælder f.eks., hvis sagen er af principiel betydning, eller sagen kan få væsentlig betydning for andre end parterne.
- 
+ <br>
  
 
 #### Video: hvordan fungerer byretten?
 <div class="video-container"><iframe src="https://www.youtube.com/embed/vtR3p-7IItk" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
-
+<br>
 #### Video: en sag kommer på tværs
 <div class="video-container"><iframe src="https://www.youtube.com/embed/7WNie-cX1jw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
+<br>
 Saglig kompetence: Hvilken ret/domstol skal behandle sagen?
-
+<br>
 Stedlig kompetence: Værneting – Hvor i landet skal sagen anlægges?
-Hvis der ikke er lavet en værnetingsaftale mellem de stridende parter, skal en retssag som hovedregel anlægges ved sagsøgtes hjemting (bopæl/kendt opholdssted) Værneting er således et spørgsmålet om, hvor en retssag skal anlægges og føres. Ved hvilken domstol en sag skal anlægges, hvis der opstår uenighed mellem aftaleparter med bopæl i hver sit EU-land, afhænger af, om der er indgået en værnetingsaftale og af EU-Domsforordningen.
+Hvis der ikke er lavet en værnetingsaftale mellem de stridende parter, skal en retssag som hovedregel anlægges ved sagsøgtes hjemting (bopæl/kendt opholdssted) 
+<br>
+Værneting er således et spørgsmålet om, hvor en retssag skal anlægges og føres. Ved hvilken domstol en sag skal anlægges, hvis der opstår uenighed mellem aftaleparter med bopæl i hver sit EU-land, afhænger af, om der er indgået en værnetingsaftale og af EU-Domsforordningen.
 Supplerende værneting, f.eks.:
-
+<br>
 *	Virksomhedsværneting 
 *	Ejendomsværneting
 *	Opfyldelsesværneting
 *	Forbrugerværneting
 *	Deliktsværneting
  
-
+<br>
 
 ```{r værneting, echo=FALSE, result=TRUE}
 
@@ -523,101 +556,118 @@ kable(text_tbl,caption="Værneting") %>%
   
 
 
-
+<br>
 
 
 
 ### Processuelle grundbegreber
 *	Forhandlingsprincippet: Sagsøger og sagsøgte har selv ansvaret for sagens bevisførelse. Retten kan opfordre parterne til at føre et bestemt bevis, men parterne er ikke forpligtet til at følge rettens opfordring. 
+<br>
 *	Bevisumiddelbarhedsprincippet: Beviser skal føres umiddelbart foran dommeren. 
 *	Den frie bevisbedømmelse: Retten har frihed til på objektivt grundlag, at vurdere og afgøre, hvad der findes bevist under sagen, og hvilke beviser der vægter tungere end andre.
 *	Bevisbyrde: Den som påstår noget under en retssag, skal bevise at han eller hun har ret og har dermed bevisbyrden for sin påstand (kaldet en ”ligefrem bevisbyrde” som er hovedreglen i dansk ret).
-
+<br>
 #### Video: Retssikkerhed. Hvordan kan domstolene hjælpe mig?
 <div class="video-container"><iframe src="https://www.youtube.com/embed/eZt1GQQKJsg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
+<br>
 ### Civilretssagens forløb
 Parterne: Sagsøger og sagsøgte
 Sagens forberedelse:
 Stævning og svarskrift
-
+<br>
 *	Evt. forberedende retsmøde
 *	Evt. syn og skøn
 *	Replik og duplik
 *	Hovedforhandling
- 
+ <br>
 ### Småsagsprocessen
-
+<br>
 *	Sager under 50.000 kr.
 *	Formål: Enklere, hurtigere og billigere
-
+<br>
 ### Udenretlig tvistløsningsorganer
 Klage- og ankenævn som der har betydning for den finansielle branche:
-
+<br>
 *	Fx Forbrugerklagenævn, Det Finansielle Ankenævn (Sammenlægning pr. 1. februar 2019 af Pengeinstitutankenævnet, Realkreditankenævnet og Ankenævnet for investeringsfonde) Ankenævnet for Forsikring, Ankenævnet for Finansieringsselskaber og Klagenævnet for Ejendomsformidling
+<br>
 *	Sagsbehandling efter officialmaksimen, dvs. nævnets sekretariatet skal oplyse klagesagen
+<br>
 *	Mediation i det offentlige forbrugerklagenævn
+<br>
 Retsmægling
+<br>
 Voldgift 
 *	Voldgiftsloven – voldgiftsklausul i aftale
 *	Ofte hurtigere sagsbehandling end alm. domstole
 *	Dommere med særligt fagkundskab
 *	Sagen er ikke offentlig
 *	Ikke mulighed for anke til højere instans
-
+<br>
 ### Tinglysningsretten
 Tinglysningsretten, som ligger i Hobro, blev etableret den 1. januar 2007 med en præsident som øverste chef.
 Fra den 8. september 2009 er håndteringen af hele tinglysningsområdet samlet i Tinglysningsretten. Byretterne tinglyser altså ikke længere dokumenter.
+<br>
 Tinglysning er nu en digital proces, der foregår fra hjemmesiden www.tinglysning.dk.
+<br>
 Information og vejledning kan findes på www.tinglysningsretten.dk
-
+<br>
 ### Procesbevillingsnævnet
 Procesbevillingsnævnet blev oprettet pr. 1. januar 1996 med det formål at behandle ansøgninger om 2. og 3. instansbevillinger i civile sager og straffesager. Siden den 1. januar 2007 har Procesbevillingsnævnet endvidere haft til opgave at behandle klager over Civilstyrelsens afslag på ansøgninger om fri proces.
-
+<br>
 #### Appeltilladelse
 En appeltilladelse indebærer, at en sag, der ikke ellers ville kunne ankes eller kæres, kan indbringes for en højere retsinstans. Appeltilladelse forudsætter, at sagen rejser spørgsmål af principiel karakter, eller at særlige grunde taler for tilladelse. 
-
+<br>
 #### Fri proces
-Fri proces indebærer i grundtræk, at den pågældende får en advokat beskikket til at føre sagen, og at statskassen betaler sagens omkostninger, herunder retsafgifter, advokatsalær og eventuelle sagsomkostninger, som skal betales til modparten. Fri proces er især forbeholdt personer, som på den ene side ikke selv har økonomisk mulighed for at betale sagsomkostningerne, men som på den anden side har rimelig grund til at føre proces, navnlig fordi der er udsigt til at vinde sagen.
-
+Fri proces indebærer i grundtræk, at den pågældende får en advokat beskikket til at føre sagen, og at statskassen betaler sagens omkostninger, herunder retsafgifter, advokatsalær og eventuelle sagsomkostninger, som skal betales til modparten. 
+<br>
+Fri proces er især forbeholdt personer, som på den ene side ikke selv har økonomisk mulighed for at betale sagsomkostningerne, men som på den anden side har rimelig grund til at føre proces, navnlig fordi der er udsigt til at vinde sagen.
+<br>
 Procesbevillingsnævnets afdeling for appeltilladelser består af en højesteretsdommer (formand), en landsdommer, en byretsdommer, en advokat og et medlem, der repræsenterer retsvidenskaben.
 Nævnets afdeling for fri proces består af en landsdommer (afdelingsformand), en byretsdommer og en advokat.
-
+<br>
 Beslutningerne på nævnsmøderne træffes ved almindelig stemmeflerhed. Der afholdes i almindelighed møde i hver afdeling ugentligt, og sagerne udsendes ca. en uge før mødet. Hastesager kan dog udsendes med kortere varsel. Nævnsmøderne er ikke offentlige, og der er ikke mulighed for at få foretræde for nævnet.
-
+<br>
 I overensstemmelse med forarbejderne til lovgivningen om Procesbevillingsnævnets virksomhed begrundes nævnets afgørelser alene med en henvisning til indholdet af de bestemmelser, der giver hjemmel for meddelelse af bevilling.
+<br>
 Bevillingsmæssigt og administrativt hører Procesbevillingsnævnet under Domstolsstyrelsen, men Procesbevillingsnævnet er uafhængigt af domstolene og af den offentlige forvaltning. Man kan derfor ikke klage over nævnets afgørelser til justitsministeren eller til Folketingets Ombudsmand.
-
+<br>
 ### Rigsretten
+<br>
 Rigsretten består af indtil 15 af Højesterets dommere og et tilsvarende antal medlemmer, som udpeges af Folketinget. Folketingsmedlemmer kan ikke udpeges til medlem af Rigsretten.
 Medlemmerne af Rigsretten vælges for 6 år. Der er udpeget medlemmer af Rigsretten i 1996.
- 
+ <br>
 Rigsretten har til opgave at påkende sager mod ministre vedrørende deres embedsførelse. Det er Folketinget, der beslutter, om der skal rejses tiltale mod en minister.
+<br>
 Folketinget har 5 gange rejst tiltale for Rigsretten. Den seneste sag var mod tidligere justitsminister Erik Ninn-Hansen. Der blev afsagt dom i sagen den 22. juni 1995.
-
-### Dommerudnævnelsesrådet 
+<br>
+### Dommerudnævnelsesrådet
+<br>
 Dommerudnævnelsesrådet er et uafhængigt råd, der har til opgave at afgive indstillinger til justitsministeren vedrørende besættelse af dommerstillinger.
+<br>
 Domstolsstyrelsen stiller sekretariat til rådighed for Dommerudnævnelses-rådet.
+<br>
 Dommerudnævnelsesrådet blev oprettet ved lov nr. 402 af 26. juni 1998 som et led i domstolsreformen, der bl.a. havde til formål at sikre en bredere rekruttering af dommere og større gennemsigtighed ved besættelse af dommerstillinger. Rådet har været i funktion siden den 1. juli 1999, da loven trådte i kraft.
-
+<br>
 ### Domstolsstyrelsen 
 Domstolsstyrelsen har til opgave at administrere og udvikle Danmarks Domstole.
 Domstolsstyrelsen blev oprettet som en ny, selvstændig statsinstitution den 1. juli 1999.
 Domstolsstyrelsen ledes af en bestyrelse og en direktør. Domstolsstyrelsen hører ressortmæssigt under Justitsministeriet, men justitsministeren kan ikke bestemme over styrelsen og kan ikke ændre styrelsens afgørelser.
+<br>
 Bestyrelsen er den øverste ledelse og har det overordnede ansvar for Domstolsstyrelsens virksomhed. Den daglige ledelse er lagt i hænderne på direktøren, som er ansat af og kan afskediges af bestyrelsen.
 Sammensætningen af Domstolsstyrelsens bestyrelse er fastsat i lov om Domstolsstyrelsen.
-
+<br>
 #### Video: historien om de danske domstole og retssystemet
- 
+ <br>
 <div class="video-container"><iframe src="https://www.youtube.com/embed/uvpuD60uLdI" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 <br>
 
 ### EU-domstolen
-
+<br>
 <img src="img/eudomstolen.png" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<br>
 Den Europæiske Unions Domstol (EU-Domstolen) fortolker EU's lovgivning for at sikre, at den anvendes på samme måde i alle EU-lande, og afgør retstvister mellem nationale regeringer og EU's institutioner. 
-
+<br>
 I visse tilfælde kan den også anvendes af enkeltpersoner, virksomheder eller organisationer til at gribe ind over for en EU-institution, hvis de mener, den på den ene eller anden måde har tilsidesat deres rettigheder.
 
 <br>
@@ -625,52 +675,65 @@ I visse tilfælde kan den også anvendes af enkeltpersoner, virksomheder eller o
 # Retskilderne
 
 ## Begrebet retskilde
-
+<br>
 Retskilder er de faktorer, som danner grundlaget for at opnå viden om, hvad der er gældende ret. 
+<br>
 Lovgivningen er den primære retskilde, som altid skal tages i betragtning ved fastlæggelse af retsstillingen, men retspraksis er også en vigtig retskilde, især hvis der foreligger en afgørelse fra Højesteret (se præjudikat) eller en afgørelse fra EU-Domstolen eller fra Menneskerettighedsdomstolen vedrørende Den Europæiske Menneskerettighedskonvention. 
-Andre faktorer, der kan anvendes som retskilder, er fx retssædvaner, aftaler, lovforarbejder, administrativ praksis, administrative retsforskrifter, udtalelser fra Folketingets Ombudsmand samt retsvidenskabens analyser. Herudover anvendes traditionelt også forholdets natur som retskilde.  
+<br>
+Andre faktorer, der kan anvendes som retskilder, er fx retssædvaner, aftaler, lovforarbejder, administrativ praksis, administrative retsforskrifter, udtalelser fra Folketingets Ombudsmand samt retsvidenskabens analyser. Herudover anvendes traditionelt også forholdets natur som retskilde.
+<br>
 Der kan ikke opstilles en fast prioritering af retskilderne, idet de i konkrete tilfælde alle kan have betydning for, hvad der er gældende ret.
-Der er stor forskel på retskildeopfattelsen inden for forskellige retssystemer, se fx case law.  
+<br>
+Der er stor forskel på retskildeopfattelsen inden for forskellige retssystemer, se fx case law.
+<br>
 
 ## Case law
 Case law, judge-made law, dommerskabt ret.  I common law-lande har domstolene en mere vidtgående funktion end den dømmende magt i andre retssystemer. Common law-domstolen skal ikke kun fortolke og anvende lovgiverens retsregler, statutory law, men skaber også sin egen ret, case law eller judge-made law. En domstolsafgørelse har således ikke alene betydning for parterne i en konkret tvist; afgørelsen skaber præcedens, dvs. at en lignende sag i fremtiden med stor sandsynlighed vil blive afgjort på samme måde, den såkaldte stare decisis-doktrin.
+<br>
 Betegnelsen case law er engelsk, af case 'tilfælde' og law 'lov'.
 I England er de afgørelser, der hidrører fra samme eller en højere domstol, bindende. Andre afgørelser har kun vejledende karakter. Der sondres desuden mellem den tidligere afgørelses egentlige begrundelse, ratio decidendi, og andre udtalelser i afgørelsen, obiter dicta. Et obiter dictum er kun vejledende, uanset fra hvilken domstol det måtte hidrøre.
+<br>
 Selv bindende afgørelser bliver fra tid til anden tilsidesat (overruled); fx kan der bag afgørelsen ligge en forældet tankegang, og i 1966 udtalte Englands højeste domstol, House of Lords, at den ikke fremover ville betragte sig som evigt bundet af sine egne tidligere afgørelser.
 I USA håndhæves stare-decisis mindre strengt end i England. USA's højesteret har enkelte gange tilsidesat sine tidligere afgørelser, selv i sager om fortolkning af USA's forfatning. Fx gav United States Supreme Court i 1954 sorte elever adgang til skoler og universiteter, som tidligere havde været forbeholdt de hvide, og tilsidesatte herved sin egen ældre afgørelse, der havde anerkendt doktrinen om "separate but equal", dvs. at man i undervisningen adskilte sorte og hvide.  
-
+<br>
 ## Retskildepolycentri
+<br>
 Retskildepolycentri er en nyere retsvidenskabelig erkendelse af, at dannelsen af retskilder i forskellige fora i det moderne samfund kan resultere i, at en retskilde kan have forskellig virkning for forskellige retsanvendere. Teorien bryder med den hierarkiske retskildeopfattelse. Teoriens ophavsmand er den danske juraprofessor Henrik Zahle.  
-
-# Juridisk metode
+<br>
+## Juridisk metode
+<br>
 Juridisk metode, fremgangsmåde ved stillingtagen til juridiske problemer.  Metoden består for det første af en beskrivelse og identifikation af de retskilder, som gyldigt kan inddrages i en juridisk argumentation; for det andet af læren om, hvordan retskilderne fortolkes. Juridisk metode består af 3 hovedelementer:  
-
+<br>
 Et faktum (Hændelsesforløbet fx der er sket økonomisk misbrug af en kortholderens mistede Dankort)  
 +  
 Et retsfaktum (Hvilken retsregel i betalingsloven skal anvendes i forhold til tredjemandsmisbruget af Dankortet)  
 =  
 En retsfølge (Afgørelsen, hvem der kommer til at betale for misbruget af Dankortet banken eller kortholderen)  
-
+<br>
 Se f.eks. i henhold til bestemmelsen i betalingslovens § 100, stk. 4, nr. 3, hæfter betaleren for op til 8.000 kr. af misbrug, som finder sted som følge af betalerens groft uforsvarlige adfærd. 
-Begrebet groft uforsvarlig adfærd er ikke nærmere afgrænset i betalingsloven, men traditionelt anvendes begrebet »grov uagtsomhed« som betegnelse for »tilsidesættelse af den agtpågivenhed, som selv skødesløse personer plejer at udvise.« Med anvendelsen af begrebet groft uforsvarlig adfærd er det således præciseret, at grov uagtsomhed i sædvanlig forstand ikke er tilstrækkeligt til at pådrage betaleren hæftelse efter bestemmelsen. Der skal altså mere til. Groft uforsvarlig adfærd må herefter forstås som sløseri, der er præget af ligegyldighed i forbindelse med opbevaring af bl.a. pinkoden. Der skal derfor meget til efter praksis i Pengeinstitutankenævnet (nu Det finansielle Ankenævn), før der statueres groft uforsvarlig adfærd.
+Begrebet groft uforsvarlig adfærd er ikke nærmere afgrænset i betalingsloven, men traditionelt anvendes begrebet »grov uagtsomhed« som betegnelse for »tilsidesættelse af den agtpågivenhed, som selv skødesløse personer plejer at udvise.« 
+<br>
+Med anvendelsen af begrebet groft uforsvarlig adfærd er det således præciseret, at grov uagtsomhed i sædvanlig forstand ikke er tilstrækkeligt til at pådrage betaleren hæftelse efter bestemmelsen. Der skal altså mere til. Groft uforsvarlig adfærd må herefter forstås som sløseri, der er præget af ligegyldighed i forbindelse med opbevaring af bl.a. pinkoden. Der skal derfor meget til efter praksis i Pengeinstitutankenævnet (nu Det finansielle Ankenævn), før der statueres groft uforsvarlig adfærd.
 
 ---
 
 <img src="img/atm.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<br>
 *PIA 78/2006: »Det forhold, at misbrugeren på klagerens bopæl tilfældigt fik mulighed for at overhøre klageren oplyse sin kode til dankortet til kæresten sammenholdt med, at dankortet opbevaredes i hendes pung, der lå i hendes jakke på bopælen, kan ikke betegnes som groft uforsvarlig adfærd, heller ikke selv om klageren havde givet T adgang til sin bopæl, uanset om hun måtte have kendskab til T’s kriminelle baggrund« *
-
+<br>
 *PIA 205/2005: »Klagerens Visa/Dankort blev opbevaret i en pung, som lå i en jakke, der var anbragt bag disken i klagerens butik og ikke var synlig for kunderne. Selvom det må bebrejdes klageren, at pinkoden til kortet var anført på en seddel, der lå i pungen sammen med kortet, findes klageren efter en samlet vurdering ikke at have udvist en groft uforsvarlig adfærd som omhandlet i lov om visse betalingsmidler § 11, stk. 3, nr. 3. Ankenævnet har herved også lagt vægt på, at det i lovens forarbejder er forudsat, at det udvidede ansvar kun ville kunne gøres gældende i et fåtal af tilfælde«.*  
-
+<br>
 *Selvforskyldt beruselse kan blive betragtet som uforsvarlig adfærd, jf. PIA 281/2013 Spørgsmål om misbrug af kort var muliggjort ved groft uforsvarlig adfærd som følge af beruselse: »Som sagen foreligger oplyst, lægger vi til grund, at klageren ikke ved, hvad han foretog sig fra ca. kl. 00.30 til ca. kl. 02.00, da han vågnede i en bil, som han formoder var en pirattaxa. Vi finder ikke grundlag for at antage, at klagerens tilstand skyldes andre forhold end indtagelse af alkohol. Under disse omstændigheder finder vi, at misbruget af klagerens betalingskort er muliggjort, fordi han var stærkt påvirket af alkohol. Vi finder, at klageren under de beskrevne omstændigheder har udvist groft uforsvarlig adfærd. Vi stemmer derfor for at lade klageren hæfte med 8.000 kr. af det tab, der opstod som følge af den uberettigede brug af kortet, jf. lov om betalingstjenester § 62, stk. 3 nr. 3«.*  
-
+<br>
 *Det er en konkret vurdering, om der bliver statueret groft uforsvarlig adfærd, jf. fx PIA 436/1993: Natten mellem den 12. og 13. juni 1993 blev klageren, medens han opholdt sig på en restauration, frastjålet sit dankort, som var opbevaret i klagerens tegnebog. Klageren anmeldte den 13. juni 1993 kl. 11.10 telefonisk tyveriet til kriminalpolitiet i Sønderborg efter forinden telefonisk at have spærret dankortet ved meddelelse til PBS. Det viste sig efterfølgende, at der ved anvendelse af dankortet og korrekt pinkode den 13. juni 1993 mellem kl. 9.25 og 9.28 var hævet 3 x 2.000 kr. i tre forskellige dankortautomater. Efter de foreliggende oplysninger lagde Pengeinstitutankenævnet til grund, at tyveriet af dankortet var blevet forøvet af to unge piger, som senere blev dømt for tyveri ved den 13. juni 1993 kl. 9.25-9.28 under anvendelse af dankortet at have stjålet de 3 x 2.000 kr. fra dankortautomaterne. Det fremgik af en retsbogsudskrift fra straffesagen, at de sigtede havde forklaret, at den ene af dem, A, snakkede med klageren, mens den anden sigtede, B, tog pungen op af lommen på ham. Herefter gik de ud på toilettet, hvor de tog pengene og kortet. A forklarede videre, at hun havde spurgt klageren om koden, og han havde givet hende den. Han sagde noget om, at han skulle ringe til banken for at få kortet spærret, og hun tilbød at gøre det for ham. Hun lod, som om hun telefonerede til banken, og sagde i den forbindelse til klageren, at hun skulle bruge pinkoden, hvorefter han gav hende den. Klageren indbragte sagen for Ankenævnet med påstand om, at indklagede var tilpligtet at anerkende, at klageren ikke hæftede for de 6.000 kr. Ankenævnet traf følgende afgørelse: »Efter betalingskortlovens § 21, stk. 2, hæfter kortindehaveren uden beløbsbegrænsning for tab, der opstår som følge af andres uberettigede brug af betalingskortet og den dertil hørende personlige hemmelige kode, såfremt kortudstederen godtgør, at kortindehaveren har oplyst koden til den, der har foretaget den uberettigede brug. Ankenævnet finder imidlertid ikke, at bestemmelsen er anvendelig på et tilfælde som det foreliggende. Ankenævnet finder på den anden side, at klageren udviste groft uforsvarlig adfærd ved i det foreliggende tilfælde at oplyse sin PIN-kode. Han hæfter derfor med op til 8.000 kr. for det tab, der opstod som følge af det uberettigede brug af kortet, jf. betalingskortlovens § 21, stk. 3, nr. 2, (nu § 11, stk. 3, nr. 3). Som følge af det anførte bestemmes: Den indgivne klage tages ikke til følge«.*  
-
+<br>
 ---
 
 Den juridiske metode indeholder væsentlige elementer af vurdering og skøn og er derfor mindre eksakt end de metoder, der anvendes inden for mange andre fagområder.
-I juridisk Ordbog (Bo von Eyben, 14. udg.) defineres juridisk metode som følger:"den metode, der skal anvendes for at afgøre, hvilken regel der er gældende for et bestemt retsområde. Dette forudsætter kendskab til læren om retskilderne og evne til herudfra at finde de relevante retskilder og at anvende dem korrekt på det givne forhold..." 
+<br>
+I juridisk Ordbog (***Bo von Eyben***, 14. udg.) defineres juridisk metode som følger:"den metode, der skal anvendes for at afgøre, hvilken regel der er gældende for et bestemt retsområde. Dette forudsætter kendskab til læren om retskilderne og evne til herudfra at finde de relevante retskilder og at anvende dem korrekt på det givne forhold..." 
 
- 
+ <br>
 
 
 
@@ -868,6 +931,14 @@ I samme dom præciserede Domstolen, at en medlemsstat - selv i det tilfælde, hv
 
 # Aftaleret
 
+## Video: Introduktion til aftaleretten
+<br>
+
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/QdPllNiV5Ck" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br>
+
+
 <br>
 
 Hvilke problemstillinger og aftaleretlige lovregler, du som studerende særlig skal være opmærksom på vedrørende eksamensspørgsmål indenfor aftaleretten:
@@ -892,13 +963,15 @@ Hvilke problemstillinger og aftaleretlige lovregler, du som studerende særlig s
 <script async src="https://widget.spreaker.com/widgets.js"></script>
 
 <img src="img/deal1.jpg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<br>
 Aftalelovens principper har betydning på hele aftaleområdet,^[Følgene bygger tildels på *Torsten Iversen og Lars Hedegaard Kristensens* karnovkommentar til aftaleloven] fx i:
-
+<br>
 * Forsikringsaftaleloven, kreditaftaleloven, forbrugeraftaleloven, AB 18, købeloven, E-handelsloven m.fl.
+<br>
 *	Aftaleindgåelse - aftalelovens §§ 2-9
   + Deklaratorisk, dvs. parterne kan aftale anden fremgangsmåde ved aftaleindgåelse, end den der er beskrevet i aftaleloven.
 
-
+<br>
 
 
 
@@ -922,9 +995,9 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 
 ```
 
-
+<br>
 ## Aftaleindgåelse
-
+<br>
 **HR:** Aftalefrihed – vi kan frit aftale hvad vi vil
 
 *	U1: Begrænsninger i præceptive lovregler, fx
@@ -943,19 +1016,21 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 ### Hvad er en aftale?
 
 Ordet ”aftale”: En aftale - jf. aftalelovens titel - består af viljeserklæringer, som to eller flere personer afgiver indbyrdes, og hvoraf mindst én erklæring er et løfte, som har karakter tilbud. Aftalebegrebet bruges oftest om et tilbud, som er accepteret af modparten, f.eks. en pagt, traktat, kontrakt, charter, overenskomst, vedtægt, vedtagelse, konvention og studehandel. Aftaler er bindende, uanset om de er mundtlige eller skriftlige, jf. aftalelovens § 1. Mundtlige aftaler er således lige så bindende som skriftlige, jf. Danske Lov, DL 5–1–2 og forudsætningsvis aftalelovens § 3, stk. 2, som fastslår, at tilbud, der fremsættes mundtligt skal accepteres straks. De mundtlige kan bare være sværere at bevise, hvis parterne bliver uenige om aftalens indhold. Kontrakten er skriftlig og kan håndhæves i retssystemet. Bevisbyrde - Den part der hævder en mundtlig aftale er indgået, har bevisbyrden (som er hovedreglen i dansk ret; en ligefrem bevisbyrde).
-
+<br>
 
 Mundtlige aftaler ctr. skriftlige aftaler:
-
-*	Aftaler er bindende, uanset om de er mundtlige eller skriftlige. De mundtlige kan bare være sværere at bevise, hvis parterne bliver uenige om aftalens indhold. Kontrakten er skriftlig
-*	Bevisbyrde - Den part der hævder en mundtlig aftale er indgået, har bevisbyrden
-  
+<br>
+*	Aftaler er bindende, uanset om de er mundtlige eller skriftlige. De   mundtlige kan bare være sværere at bevise, hvis parterne bliver 
+  uenige om aftalens indhold. Kontrakten er skriftlig
+*	Bevisbyrde - Den part der hævder en mundtlig aftale er indgået, har   bevisbyrden
+<br> 
 Ensidigt løfte ctr. gensidigt løfte se figurer.  
 Udtrykkeligt løfte ctr. stiltiende løfte.
-
+<br>
 Forskellen på en aftale og en kontrakt:  
-
-En aftale kan også være mundtlig.  
+<br>
+En aftale kan også være mundtlig. 
+<br>
 En kontrakt er skriftlig og kan påberåbes ved domstolene.  
 
 
@@ -1034,29 +1109,37 @@ edges <- data.frame(from = c(1),
 *	Pligtmæssig reklamation: er en reklamation, som afgives af hensyn til adressaten og forsendes på adressatens risiko, jf. aftalelovens § 40 (og tilsvarende købelovens § 61). Aftaleloven bruger herom udtrykket »give meddelelse«.
 
 
-### Aftalemodellen
+## Aftalemodellen
 
-*	Tilbudsgiver sender sit tilbud
-………….fremsendelsestid
+
+
+*	Tilbudsgiver sender sit tilbud ………….fremsendelsestid
 *	Tilbudsmodtager modtager tilbud (kommet frem)
-*	Tilbudsmodtager læser tilbud (kommet til kundskab)
-………….betænkningstid
-*	Tilbudsmodtager accepterer tilbud/sender accept
-………….tilbagesendelsestid
+*	Tilbudsmodtager læser tilbud (kommet til kundskab) 
+  ………….betænkningstid
+*	Tilbudsmodtager accepterer tilbud/sender accept 
+  ………….tilbagesendelsestid
 *	Accept når frem til tilbudsgiver (kommet frem)
 *	Tilbudsgiver læser accepten (kommet til kundskab)
 
 Resultat: Der er indgået en juridisk bindende aftale
 
-
-#### Video om aftalers indgåelse
+### Video om aftalemodellen
+<br>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/DvV2yhetl8M" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 <br>
 
 
 
-<div class="video-container"><iframe src="https://youtu.be/WbgTUpCLz00" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
+### Video om aftalers indgåelse
 <br>
+
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/WbgTUpCLz00" width="853" height="480" frameborder="0"allowfullscreen="allowfullscreen"></iframe></div>
+<br>
+
+
 
 
 ```{r faicon3, echo=FALSE, result=TRUE,fig.cap=("Aftale sælgers initiativ")}
@@ -1103,29 +1186,54 @@ edges <- data.frame(from = c(1),
            color = list(color = "lightblue", highlight = "red"))
 ```
 
-#### Tilbud eller opfordring til tilbud
+### Tilbud eller opfordring til tilbud
 
 Hovedregel: Tilbud er bindende for afgiveren, jf. aftalelovens § 1:
 
-*	Tilbuddet bliver bindende for tilbudsgiver, når tilbudsmodtager får kendskab til tilbuddets indhold.
-    +	Tilbud er bindende i butikker og butiksvinduer, medmindre køber burde indse, at der var tale om en fejl
-    +	Tilbud er bindende i web-butikker, når sælger selv har råderet over websitet
+*	Tilbuddet bliver bindende for tilbudsgiver, når tilbudsmodtager får   kendskab til tilbuddets indhold.
+    +	Tilbud er bindende i butikker og butiksvinduer, medmindre køber     burde indse, at der var tale om en fejl
+    +	Tilbud er bindende i web-butikker, når sælger selv har råderet 
+    over websitet
 
 Undtagelser: Opfordring til tilbud, jf. aftalelovens § 9:
 
 *	Nogle typer tilbud er ikke bindende for sælger, fx:
-    + Slagtilbud og ”så længe lager haves”, tilbud og priser i aviser og kataloger, på plakater, annoncer, TV- og radioreklamer, priser og tilbud på internettet, når sælger ikke selv har råderet over websitet
+    + Slagtilbud og ”så længe lager haves”, tilbud og priser i aviser 
+    og kataloger, på plakater, annoncer, TV- og radioreklamer, priser     og tilbud på internettet, når sælger ikke selv har råderet over 
+    websitet
+
+#### Video: Tilbud contra opfordring
+<br>
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/j36H6TAo7Us" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br>
+
+
+<br>
  
 #### Afslag på tilbud
 
-
-*	Hvis tilbudsmodtager forholder sig passiv, bortfalder tilbuddet når acceptfristen er udløbet, og sælger kan frit sælge til anden side.
-*	Hvis tilbudsmodtager afslår tilbuddet, er det bortfaldet, selvom acceptfristen ikke er udløbet, jf. aftalelovens § 5. Sælger kan frit sælge til anden side.  
+<br>
+*	Hvis tilbudsmodtager forholder sig passiv, bortfalder tilbuddet når   acceptfristen er udløbet, og sælger kan frit sælge til anden side.
+*	Hvis tilbudsmodtager afslår tilbuddet, er det bortfaldet, selvom 
+  acceptfristen ikke er udløbet, jf. aftalelovens § 5. Sælger kan 
+  frit sælge til anden side.  
 
 Situation: Tilbagekaldelse af afslag. Tilbudsmodtager (potentiel køber) sender et afslag til sælger, men han fortryder sit afslag.
+<br>
 – Tilbuddet er stadig bindende for sælger, hvis købers tilbagekaldelse kommer til tilbudsgivers (sælgers) kundskab, senest samtidig med at sælger læser afslaget.
 
-  
+<br>
+
+#### Video: Afslag
+<br>
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/Noq0xWiKryg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br>
+
+
+
+<br>
 
 #### Accept
 
@@ -1142,7 +1250,9 @@ Ingen acceptfrist i tilbud
 *	Den legale acceptfrist, jf. aftalelovens § 3
 Fremsendelsestid + rimelig betænkningstid + tilbagesendelsestid
 
-*	Rimelig betænkningstid” afhænger af de konkrete omstændigheder. Betænkningstid er:
+*	Rimelig betænkningstid” afhænger af de konkrete omstændigheder. 
+
+Betænkningstid er:
     +	Kort, hvis prisen på salgsproduktet svinger meget
     +	Kort, hvis der er tale om letfordærvelige varer
     +	Længere, hvis der er tale om komplekse og større tilbud
@@ -1159,7 +1269,37 @@ Aftalelovens § 4:
 * NB !! Hvis tilbudsgiver ikke vil være bundet af en forsinket accept, skal han uden ugrundet ophold give acceptanten meddelelse om forsinkelsen. Lader han som ingenting, risikerer han at være bundet	og skal opfylde aftalen.
 ”Give meddelelse” se aftalelovens § 40
 
+#### Video: Tilbagekaldelse efter aftalelovens § 40
 
+<br>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/w5HtkYrMXDg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br>
+
+
+
+<br>
+
+#### Video: For sen accept
+<br>
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/xoiUi_ShUJc" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br>
+
+#### Videor: Rettidig accept
+<br>
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/dJmhJTwJzhg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br>
+
+#### Video: Om uoverensstemmende accept
+<br>
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/xGnZFVV1H74" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br>
+
+
+
+<br>
 #### Tilbagekaldelse af tilbud/accept
 
 Aftalelovens § 7
@@ -1180,7 +1320,15 @@ Under særlige omstændigheder kan tilbagekaldelse alligevel ske efter fristens 
 2.	Årsagen til at tilbagekaldelsen er kommet for sent frem, skyldes særlige omstændigheder.
 Re integra-reglen kan ikke påberåbes bare fordi man har fortrudt. Der skal noget særligt til.
 
+#### Video: Om tilbagekaldelse
+<br>
 
+<div class="video-container"><iframe src="https://www.youtube.com/embed/Pf2unCK7tME" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br>
+
+
+
+<br>
 
  
 #### Uoverensstemmende accept
@@ -1191,19 +1339,39 @@ Accepten skal være i overensstemmelse med tilbuddet – spejlbillede, jf. aftal
 
 * U: § 6, stk. 2 – En uoverensstemmende accept betragtes ikke som et modbud (nyt tilbud), hvis afsenderen tror,	at accepten er i overensstemmelse med tilbuddet og tilbudsgiveren må indse at acceptanten tror at accepten er ok.  
 
-NB !! Hvis tilbudsgiver ikke vil være bundet af indholdet i den ”forkerte”
-accept, skal han uden ugrundet ophold give acceptanten besked. Lader han som ingenting, er tilbudsgiver bundet af aftalen og skal levere i henhold til indholdet af den uoverensstemmende accept.
+NB !! Hvis tilbudsgiver ikke vil være bundet af indholdet i den ”forkerte” accept, skal han uden ugrundet ophold give acceptanten besked. Lader han som ingenting, er tilbudsgiver bundet af aftalen og skal levere i henhold til indholdet af den uoverensstemmende accept.
 ”Give meddelelse” se aftalelovens § 40
-
-
-
+<br>
 #### Aftaleindgåelse på internettet
+<br>
 
-*	Aftaleloven gælder også her
+<img src="img/aftaleindgåelse på nettet.png" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+<br>
+
+
+
+*	Aftaleloven gælder også aftaler og køb på nettet
 *	Afsender bærer selv risiko for at e-mailen kommer frem til modtager
 *	”kommet frem”- når mailen ligger i indbakken
 *	”kommet til kundskab”- når mailen åbnes og læses
 *	Aftalelovens § 40 om at ”give meddelelse” omfatter også e-mails
+
+#### Video om køb på nettet
+<br>
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/l1rc2FBSjss" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br>
+
+
+<br>
+
+#### Video: Hvad er e-mærket?
+
+<br>
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/SGvg5W3JRzQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br>
 
 
 
@@ -1215,8 +1383,11 @@ accept, skal han uden ugrundet ophold give acceptanten besked. Lader han som ing
 Ugyldighed som kan ramme aftalen kan opstå pga:
 
 *	Tilblivelsesmangler – omstændigheder ved aftalens indgåelse, fx svig, forfalskning, voldelig tvang, udnyttelse mv. (sondres mellem svage og stærke ugyldighedsgrunde)
+
 *	Habilitetsmangler – en af parterne mangler habilitet eller evne til at indgå aftaler, fx pga. umyndighed, sindssygdom, demens.
+
 *	Indholdsmangler – indholdet er i strid med loven, moral, almindelig hæderlighed mv.
+
 *	Bristende forudsætninger
 
 
@@ -1271,30 +1442,54 @@ row_spec(5:9, bold = T, color = "white", background = "darkgrey")
 # add_header_above(c( "Oversigt over stærke og svage ugyldighedsgrunde" = 2),italic = TRUE)
 
 ```
-<img src="img/deal4.jpg" align="right" width="60%" height="60%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<br>
+
+<img src="img/deal4.jpg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+
+
+
+<br>
+<br>
 
 De stærke ugyldighedsgrunde:
+
 *	Falsk
+
 *	Forfalskning
+
 *	Forvanskning, aftalelovens § 32, stk. 2.
+
 *	Voldelig tvang, aftalelovens § 28, stk. 1
+
 *	Umyndighed, værgemål, fornuftsmangel (Værgemålsloven)
+<br>
+
 
 De svage ugyldighedsgrunde:
+<br>
 *	Simpel tvang, aftalelovens § 29
+<br>
 *	Svig, aftalelovens § 30
+<br>
 *	Udnyttelse, aftalelovens § 31
+<br>
 *	Fejlskrift eller anden fejltagelse, aftalelovens § 32, stk. 1 
+<br>
+
 
 Nærmere om ugyldighedsgrundende:
 
 *	Falsk: Dokumentet er falsk, fx ved falsk underskrift på en selvskyldnerkaution. Løftet er ikke ægte.
-*	Forfalskning: Lånedokumentet er forfalsket, hvis der er ændret i dokumentet, fx et beløb – ændret fra 250.000 kr. til 550.000 kr. Løftet er ægte fra starten, men indholdet af løftet ændres. Eller der bliver forfalsket en underskrift.
-*	Forvanskning: Aftaler eller beskeder der under fremsendelsen ændres eller forvanskes ved en fejl, hvorved aftalen får et andet indhold, aftalelovens § 32, stk. 2, fx af et bud eller i en fax.
-    + Hvis afsenderen ikke vil være bundet af indholdet i den fejlagtige erklæring, skal han uden ugrundet ophold efter at han har opdaget fejlen, give besked til modtageren om, at han ikke vil være bundet. Gør han ikke det, er han bundet af indholdet i den fejlagtige aftale.
-    
-Hvad er voldelig tvang?  
 
+*	Forfalskning: Lånedokumentet er forfalsket, hvis der er ændret i dokumentet, fx et beløb – ændret fra 250.000 kr. til 550.000 kr. Løftet er ægte fra starten, men indholdet af løftet ændres. Eller der bliver forfalsket en underskrift.
+
+*	Forvanskning: Aftaler eller beskeder der under fremsendelsen ændres eller forvanskes ved en fejl, hvorved aftalen får et andet indhold, aftalelovens § 32, stk. 2, fx af et bud eller i en fax.
+
++ Hvis afsenderen ikke vil være bundet af indholdet i den fejlagtige erklæring, skal han uden ugrundet ophold efter at han har opdaget fejlen, give besked til modtageren om, at han ikke vil være bundet. Gør han ikke det, er han bundet af indholdet i den fejlagtige aftale.
+<br>    
+Hvad er voldelig tvang?  
+<br>
 *	Voldelig tvang, aftalelovens § 28, stk. 1:
     +	Aftalen ugyldig hvis løftet fra løftegiver er fremkaldt ved vold eller trussel om øjeblikkelig anvendelse af vold, fx holder en pistol for panden af løftegiver.
     +	Hvis det er tredjemand, som truer for at fremprovokere et løfte, og løftegiver ikke vil være bundet af løftet/aftalen, skal han uden ugrundet ophold give løftemodtager besked om, at han er blevet truet til at afgive løftet. Gør løftegiver ikke det, bliver han bundet af sit løfte og aftalen er bindende, jf. aftalelovens § 28, stk. 2.
@@ -1393,6 +1588,13 @@ Fejlskrift: Fx en skrivelse får et andet indhold end tilsigtet. Løftet i skriv
 
 Modsætningsvis: Hvis løftemodtager ikke indså eller burde have kunnet indse, at det var en fejl, er løftemodtager i god tro og aftalen er gyldig.
 
+#### Video om fejlskrift
+<br>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/-xVEbZDAZZ8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br>
+
+
+
 Speak
 
 
@@ -1404,6 +1606,19 @@ Speak
       
 *	Ond tro
       + Løftemodtager havde en viden om ugyldighedsgrunden. Løftemodtager indså eller burde have indset, at løftet fra løftegiver var mangelfuldt, fx afgivet pga. ulovlig tvang eller at løftegiver var umyndig
+      
+<br>
+
+#### Video om god og ond tro
+
+<br>
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/Ax4X9V-kdGw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br>
+
+
+
+<br>
  
 * Ved stærke ugyldighedsgrunde:
       +	LM er i ond tro = LG er ikke bundet af løftet (aftalen
@@ -1430,7 +1645,13 @@ I vurderingen indgår:
 *	Aftalens indhold og
 *	Senere indtrufne omstændigheder
 
+#### Video: Forudsætningslæren
+<br>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/VliOntGAvUU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br>
 
+
+<br>
 #### Bristende forudsætninger
 
 *	Et løfte kan afgives på baggrund af nogle forudsætninger, som ikke nødvendigvis er diskuteret eller udtrykt klart mellem parterne i en aftale.
@@ -1446,13 +1667,18 @@ Ophævelse kræver at 3 betingelser skal være opfyldt:
 En ugyldig aftale – Parterne er ikke forpligtet af det løfte de har afgivet og aftalen ophæves.
 
 *	Tilbagelevere allerede udvekslede ydelser (penge/varer)
-*	Evt. erstatning til den part, der har handlet i tillid til aftalen, og ved ophævelsen lider et økonomisk tab.
-      + Negativ kontraktsinteresse: Erstatningskrav, hvor man i økonomisk henseende stilles som om aftalen slet ikke var indgået – tilbage til status quo.
+*	Evt. erstatning til den part, der har handlet i tillid til aftalen,   og ved ophævelsen lider et økonomisk tab.
+      + Negativ kontraktsinteresse: Erstatningskrav, hvor man i 
+      økonomisk henseende stilles som om aftalen slet ikke var 
+      indgået – tilbage til status quo.
       
 
-### Aftalens omfang og fortolkning
 
-#### Standardkontrakter/vilkår
+
+
+
+
+### Standardkontrakter/vilkår
 
 Standardvilkår ses eksempelvis i fortrykt lejekontrakt, salgsaftale for biler, lånedokumenter, forsikringsaftaler.
 
@@ -1462,17 +1688,32 @@ Standardvilkår ses eksempelvis i fortrykt lejekontrakt, salgsaftale for biler, 
  
 
 *	Salgs- og leveringsbetingelser skal præsenteres for kunden inden eller i forbindelse med aftalens indgåelse. Fremsendelse sammen med faktura anses ikke for vedtaget
-*	Usædvanlige vilkår skal fremhæves i en kontrakt, hvis de skal anses for vedtaget – må ikke gemmes blandt ”de små bogstaver.” Risiko for tilsidesættelse, jf. AFTALELOVENS § 36.
-*	Forbrugeraftaler – Den erhvervsdrivende, som indgår aftaler med forbrugere, skal lave aftaler på en klar og forståelig måde, jf. AFTALELOVENS § 38b, stk. 2.   
+*	Usædvanlige vilkår skal fremhæves i en kontrakt, hvis de skal anses for vedtaget – må ikke gemmes blandt ”de små bogstaver.” Risiko for tilsidesættelse, jf. aftalelovens § 36.
+*	Forbrugeraftaler – Den erhvervsdrivende, som indgår aftaler med forbrugere, skal lave aftaler på en klar og forståelig måde, jf. aftalelovens § 38b, stk. 2.   
+<br>
 
 
+### Aftalens omfang og fortolkning
+<br>
 *Fortolkningsprincipper:* Ved tvivl om indholdet af en aftale.  
 *Koncipistreglen:* Aftalen fortolkes til skade for ham, som har udarbejdet aftalen.  
 *Minimumsreglen:* Aftalen fortolkes til fordel for løftegiver.  
 *Prioritetsreglen:* Aftalen fortolkes til fordel for det specielle vilkår frem for det generelle.  
 *Gyldighedsreglen:* Aftalen fortolkes med henblik på at opnå en gyldig aftale, som vil kunne gennemføres.  
 *Rimelighedsreglen:* Aftalen fortolkes i overensstemmelse med hvad der er rimeligt og hensigtsmæssigt.  
+<br>
 
+
+
+#### Video: Om fortolkning af aftaler
+<br>
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/DdFmNJpY3dE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br>
+
+
+
+<br>
 
 ```{r reglerogtolkning,echo=FALSE}
 options(knitr.table.format = "html")
@@ -1634,16 +1875,19 @@ Aftaleloven sondrer mellem på den ene side »fuldmagt« og på den anden side �
 
 #### Stillingsfuldmagt, jf. aftalelovens § 10, stk. 2:
 
-> *”Indtager nogen ifølge aftale med en anden en stilling, som efter lov eller sædvane medfører beføjelse for ham til indenfor visse grænser at handle på den andens vegne, anses han befuldmægtiget til at foretage retshandler, som falder indenfor disse grænser”.*  
+> *”Indtager nogen ifølge aftale med en anden en stilling, som efter lov eller sædvane medfører beføjelse for ham til indenfor visse grænser at handle på den andens vegne, anses han befuldmægtiget til at foretage retshandler, som falder indenfor disse grænser”.* 
 
-<img src="img/fuldmagt2.jpg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<br>
+
+<img src="img/fuldmagt2.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 <br>
 
 #### Video om stillingsfuldmagten, jf. aftalelovens § 10, stk. 2
 <br>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/Zrg3TkUcot0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br>
 
 
-<div class="video-container"><iframe src="https://youtu.be/Zrg3TkUcot0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 <br>
 
@@ -1740,7 +1984,15 @@ Stk. 2. Fuldmægtigen er pligtig til på forlangende at give fuldmagten tilbage 
 * Aftaler i strid med fuldmagten: Fuldmagtsgiver er ikke bundet af aftaler som fuldmægtigen indgår i strid med en § 18-fuldmagt, uanset om tredjemand var i god tro, jf. aftalelovens § 11, stk. 2.
 * Tilbagekaldelse af fuldmagten kan ske på samme måde som den er givet.
 * En tilbagekaldelse får virkning når den er kommet frem – behøver ikke at komme til kundskab.
- 
+
+
+#### Video: Aftalelovens § 19 tilbagekaldelse af fuldmagt
+<br>
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/JKyH0smEY9I" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br>
+
+
 
 ## Aftalelovens § 25 – erstatning til tredjemand:
 >***“Den, der optræder som fuldmægtig for en anden, indestår for, at han har fornøden fuldmagt.  Oplyser han ikke, at han havde sådan eller at hans retshandel er godkendt af den opgivne fuldmagtsgiver eller af andre grunde er bindende for denne, skal han erstatte den skade, tredjemand lider ved, at retshandelen ikke kan gøres gældende mod den opgivne fuldmagtsgiver.
@@ -1763,7 +2015,17 @@ Fuldmægtigen indestår for, at han har den fornødne fuldmagt til at foretage d
 Fuldmægtigen er altså i almindelighed ubetinget erstatningsansvarlig (objektivt ansvarlig), hvis det viser sig, at fuldmagten ikke var i orden. Dette stemmer med de almindelige regler om ansvaret i vanhjemmelslignende tilfælde af misligholdelse. Hvis fuldmægtigen er umyndig, kan et sådant ansvar ikke pålægges ham, men han kan ifalde erstatningspligt efter den almindelige culparegel, og medkontrahenten kan i så fald kræve erstatning for den negative kontraktsinteresse (det tab, han lider ved at stole på kontrakten), hvis fuldmægtigen har skuffet ham med forsæt eller uagtsomhed.
 
 Aftalelovens § 25 indebærer, at tredjemand ikke selv behøver at undersøge fuldmagtens eksistens eller at forlange udtrykkelig garanti for, at fornøden fuldmagt foreligger, idet han er berettiget til at gå ud fra, at den, der optræder som fuldmægtig, også har den fornødne fuldmagt.
- 
+<br>
+
+#### Video: Erstatning efter aftalelovens § 25
+
+<br>
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/pg3C6fbVoTs" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br>
+
+
+
 
 <img src="img/mj-s-71657-unsplash.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Fuldmægtigen skal erstatte tredjemand den positive opfyldelsesinteresse, dvs. tredjemand skal stilles som om aftalen var blevet indgået og ikke alene den negative kontraktsinteresse, dvs. stilles som om aftalen ikke var blevet indgået. Tredjemand kan altså kræve erstatning for det fulde tab, han lider ved, at løftet ikke kan gøres gældende imod den opgivne fuldmagtsgiver, inkl. fortjeneste. Tredjemand er ikke henvist til at nøjes med en erstatning for det tab, han har lidt ved at handle i tillid til fuldmagtens eksistens, han har krav på at blive stillet økonomisk, som om fuldmagten eksisterede. Hvis den opgivne fuldmagtgiver er kommet under konkurs, følger det af det anførte, at tredjemand kun kan kræve det beløb, som han, hvis fuldmagten havde været i orden, ville have erholdt af konkursboet.
@@ -2916,6 +3178,14 @@ Hvornår er levering er sket?:
 * Når levering har fundet sted overgår risikoen fra sælger til køber.
 * NB! Levering kan ske inden salgsgenstanden er kommet i købers besiddelse
 
+
+### Video om risikoens overgang
+<br>
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/oqJcGNfpdY0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br>
+
+
 Leveringstidspunktet og risikoens overgang er forskellig og afhænger af, om der er tale om et:
 
 * Afhentningskøb
@@ -3297,7 +3567,16 @@ Sælgers misligholdelsesbeføjelser
 * Krav om erstatning ved økonomisk tab
 * Dækningssalg
 * Tilbageholdsret og standsningsret
- 
+
+#### Video om forholdsmæssig afalag
+
+<br>
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/2HE6yDTD0tQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br>
+
+
+
 
 ### Fordringshavermora - Køber modtager ikke den købte vare
 Fordringshavermora: Købers forhold bevirker at sælger ikke kan levere varen til tiden
@@ -4565,6 +4844,15 @@ aktieselskab.
 Viser det sig, at selskabet ikke kan betale, kan kravet så rettes mod selskabsdeltageren, der fx har kautioneret for selskabets kassekredit.
  
 ## Virksomhedsformer
+<br>
+
+Som studerende skal man være særlig opmærsom på følgende ved gennemgangen af virksomhedsformer:
+
+<br>
+• Overordnet om virksomhedsformer, kapitalkrav og hæftelse 
+  (enkeltmandsvirksomhed, ApS, I/S, A/S), SEL § 4 og 5 
+
+<br>
 
 <h3>Opstart af virksomhed og valg af virksomhedsformer</h3>
 
@@ -12604,6 +12892,15 @@ Et uigenkaldeligt testamente indskrænker testators testationskompetence – arv
 
 
 # Forsikring og pension
+<br>
+Den studerende skal særlig være opmærksom på ved gennemgangen af forsikring:
+<br>
+
+•	Urigtige oplysninger ved aftalens indgåelse, FAL § 4-6 
+•	Forsætlig eller uagtsom fremkaldelse af forsikringsbegivenheden, 
+  FAL § 18-20 
+•	Underforsikring, FAL § 40
+<br>
 
 
 
