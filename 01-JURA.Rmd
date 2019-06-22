@@ -719,6 +719,7 @@ Begrebet groft uforsvarlig adfærd er ikke nærmere afgrænset i betalingsloven,
 <br>
 Med anvendelsen af begrebet groft uforsvarlig adfærd er det således præciseret, at grov uagtsomhed i sædvanlig forstand ikke er tilstrækkeligt til at pådrage betaleren hæftelse efter bestemmelsen. Der skal altså mere til. Groft uforsvarlig adfærd må herefter forstås som sløseri, der er præget af ligegyldighed i forbindelse med opbevaring af bl.a. pinkoden. Der skal derfor meget til efter praksis i Pengeinstitutankenævnet (nu Det finansielle Ankenævn), før der statueres groft uforsvarlig adfærd.
 
+
 ---
 
 <img src="img/atm.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
@@ -740,7 +741,9 @@ I juridisk Ordbog (***Bo von Eyben***, 14. udg.) defineres juridisk metode som f
  <br>
 
 
-
+<br>
+## Domsanalyse
+<br>
 
 
 
@@ -2444,7 +2447,8 @@ Indledningsvis skal du som studerende være særlig opmærksom på følgende i f
 <br>
 
 
-<div class="video-container"><iframe src="https://youtu.be/aUJNx9bEge4" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/aUJNx9bEge4" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
 
 
 
@@ -2795,7 +2799,7 @@ Vejledende løsning
 Lovgrundlag: Lov om erstatningsansvar
 Område: Erstatningsansvar, Principalansvar
 Læringsmål: Den studerende kan anvende og vurdere de grundlæggende erstatningsbetingelser ved erstatning udenfor kontrakt, for derigennem at kunne vurdere reglerne for rådgivnings- og professionsansvar indenfor den finansielle sektor (God skik bekendtgørelsen og LOFE § 24) samt reglerne om principalansvar.
-<b>
+<br>
 Spørgsmålet kan løses med forskellige systematikker. 
 Besvarelsen bør dog gøre opmærksom på at erstatning i alle tilfælde kræver at de 4 grundbetingelser er opfyldt.
 Der kan først ses på om Pernille har lidt et økonomisk tab. Dette må antages for både spejlet og ”Guffe”. Der er ligeledes kausalitet i forbindelse med begge skader. 
@@ -3066,7 +3070,7 @@ Sådanne skader dækkes ikke, og man skal således købe en autoansvarsforsikrin
 
 # Køb
 
-<b
+<br>
 
 ## Hvad er et køb? 
 <br>
@@ -4794,7 +4798,6 @@ Sekretariatet modtager også underretninger fra offentlige myndigheder.
 Speak23
 
 Den enkelte ejendomsmægler og ejendomsmæglervirksomhed skal foretage en analyse af, hvor stor risikoen er, for at de kan blive misbrugt til hvidvask af en kunde; af køber som af sælger. 
-
 
 
 
@@ -14350,10 +14353,18 @@ Det sker via et skema kaldet en „forsikringsbegæring“, hvor man giver forsi
 for at tilvejebringe sådanne oplysninger. Det gælder dog ikke oplysninger om den pågældendes nuværende eller tidligere helbredstilstand. Dette indebærer bl.a., at forsikringsselskaber og pensionskasser ikke må betinge indgåelsen af en aftale af, at der fremlægges såkaldte prædiktive genetiske test, og heller ikke senere må anmode om at få foretaget sådanne undersøgelser med henblik på eventuel ændring af aftalevilkårene eller opsigelse af aftalen. Ved prædiktive genetiske test forstås undersøgelser af en persons arvemasse, som belyser en sygdomsrisiko og gør det muligt at drage slutninger med hensyn til den pågældendes fremtidige helbredstilstand, som ikke direkte og på kortere sigt afspejler en udvikling i en allerede opstået sygdom. Eksempler på sådanne test er DNA-analyser, RNA-analyser, vævstype- og blodtypeundersøgelser.  
 
 Forsikringsselskaberne og pensionskasserne må heller ikke spørge om, hvorvidt den pågældende tidligere har fået foretaget en prædiktiv undersøgelse.  Et forsikringsselskab eller en pensionskasse må derimod gerne indhente oplysninger om forebyggende undersøgelser hos læger eller sygehuse, hvis oplysningerne vedrører sygdomme, forsikrings- eller pensionstager tidligere har haft, eller som allerede er i udbrud. Et forsikringsselskab eller en pensionskasse må ligeledes anmode om og bruge oplysninger om tidligere eller aktuelle sygdomme hos andre personer, herunder forsikrings-
-eller pensionstagers slægtninge. Forsikringsaftalen kommer i stand, ved at forsikringsselskabet accepterer ens forsikringsbegæring, enten i form af et antagende svar eller eventuelt blot ved fremsendelse af en police til forsikringstageren.  
+eller pensionstagers slægtninge. Forsikringsaftalen kommer i stand, ved at forsikringsselskabet accepterer ens forsikringsbegæring, enten i form af et antagende svar eller eventuelt blot ved fremsendelse af en police til forsikringstageren.
+<br>
 Et forsikringselskabs afslag på at tegne en forsikring som begæret og forsikringsselskabets opsigelse af en forsikringsaftale skal efter anmodning begrundes. Begrundelsen i forsikringsaftalelovens § 3 b skal indeholde en henvisning til de relevante retsregler samt en kort redegørelse for, hvorfor forsikringen ikke kan tegnes, eller hvorfor forsikringsaftalen opsiges. Begrundelsen skal efter anmodning være skriftlig.  
 
-# Forsikirngsselskabets begrundelsespligt<sup><font color="red"> Premium </font></sup>    
+# Forsikringsretten<sup><font color="red"> Premium </font></sup>    <br>
+
+Hvis man graver længere ind i forsikringsretten kommer det tydeligt frem, hvilke rettigheder og forpligelser forsikringstageren og hhv. Forsikringsselskabet har efter forsikringsaftaleloven (FAL):
+<br>
+
+## Forsikringsselskabets begrundelsespligt
+
+<br>
 Begrundelsespligten ved forsikringsselskabets afslag på at tegne en forsikring omfatter således i første række tilfælde, hvor selskabet helt afviser at tegne en forsikring. Reglen i FAL § 3 b omfatter imidlertid også tilfælde, hvor selskabet ikke umiddelbart kan acceptere forsikringsbegæringen, men hvor selskabet tilbyder at tegne forsikringen på andre vilkår, f.eks. til en højere præmie eller med særlige undtagelser fra forsikringsdækningen, jf. ordene i § 3 b »som begæret«.   
 
 Forsikringsselskabet skal endvidere efter anmodning begrunde enhver opsigelse af forsikringsaftalen. Opsigelsen skal således begrundes, uanset om den har hjemmel i lovgivningen (f.eks. forsikringsaftaleloven) eller i forsikringsbetingelserne. Opsigelsen skal endvidere begrundes, uanset om den foretages i forsikringstiden eller til forsikringstidens udløb (f.eks. ved
