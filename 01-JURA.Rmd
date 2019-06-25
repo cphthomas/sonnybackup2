@@ -116,9 +116,12 @@ Den ene slags frihedsrettigheder er ytringsfriheden, retten til at forsamles og 
 Den anden slags frihedsrettigheder er reglerne om den personlige frihed og om ejendomsretten og boligens ukrænkelighed. Disse regler skal først og fremmest beskytte borgerne mod overgreb fra statsmagten. Hvis du bliver anholdt af politiet, har du for eksempel krav på, at en dommer tager stilling til din sag inden 24 timer. Hvis myndighederne vil undersøge din bolig, dine private papirer eller din pc, skal de som hovedregel have en dommers tilladelse først. – Og hvis myndighederne vil tage dit hus for at rive det ned, fordi der skal bygges en motorvej eller en jernbane hen over grunden, ja så skal du have en erstatning, der svarer til husets og grundens værdi. ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` sætter på den måde grænser for, hvordan staten kan blande sig i vores privatliv.
 ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` skal sikre stabile rammer om det politiske liv og de politiske kampe om magten. Og grundloven skal sikre, at borgernes rettigheder ikke krænkes. Begge dele sikres ved, at grundloven er mere vanskelig at ændre end andre love. Den danske grundlov er kun blevet ændret få gange, siden den blev vedtaget for mere end 160 år siden. Og sproget i mange af paragrafferne er ikke blevet moderniseret siden. Derfor er der i dette hæfte nogle forklarende kommentarer til de enkelte paragraffer.
 <br>
+
 ## Magtadskillelseslæren i grundlovens § 3
+
 Grundlovens § 3 har følgende ordlyd: ”Den lovgivende magt er hos kongen og Folketinget i forening. Den udøvende magt er hos kongen. Den dømmende magt er hos domstolene”.
 <br>
+
 ```{r magtenstredeling, echo=FALSE,fig.cap=("Magtens tredeling")}
 nodes <- data.frame(id = 1:3, shadow = FALSE,
                     shape = c("image"),
@@ -165,6 +168,7 @@ I 1999 fastslog Højesteret, jf. U 1999.841 H, at den såkaldte Tvindlov var i s
 <br>
 
 ## Folketinget som den lovgivende magt
+
 Folketinget er Danmarks parlament. Her vedtages al lovgivning i Danmark. Folketingets grundlæggende opgaver og nogle af arbejdsformerne er beskrevet i grundloven.  Andre metoder er praksisser, der har udviklet sig gennem de snart 170 år, Folketinget har eksisteret.
 <br>
 Folketinget er den lovgivende magt. Folketinget og regeringen er de eneste, der kan fremsætte lovforslag, dvs. komme med forslag til nye love og lovændringer. Den lovgivende magt er Folketinget og regering, men det er kun Folketinget, der kan vedtage lovforslag.
@@ -173,6 +177,7 @@ Folketinget er den lovgivende magt. Folketinget og regeringen er de eneste, der 
 <br>
 
 ### Parlamentarisk kontrol og lovgivning i Folketinget
+
 <br>
 Folketinget har 3 hovedopgaver:
 <br>
@@ -187,6 +192,7 @@ For at kunne løfte de opgaver kræves det, at folketingsmedlemmerne ved, hvorda
 <br>
 
 ### Lovforslag
+
 <br>
 ![](img/folketinget2.png)
 
@@ -434,21 +440,27 @@ Landsretterne er delt i afdelinger. Til hver afdeling hører tre landsdommere, s
 <br>
 Vestre og Østre Landsret er appelinstanser for byretterne.
 <br>
+
 ### Sø- og Handelsretten 
+
 <br>
 Sø- og Handelsretten ligger i København. I Sø- og Handelsretten er ansat en præsident, 2 vicepræsidenter, 2 dommere og et antal sagkyndige medlemmer. De sagkyndige medlemmer har særlig kendskab til sø- og handelsforhold. 
 <br>
 Sø- og Handelsretten behandler bl.a. sager, hvor kendskab til sø- og handelsforhold er af væsentlig betydning.
 Sø- og Handelsretten behandler også sager om konkurs, rekonstruktion og gældssanering m.v. fra hele Storkøbenhavn.
 <br>
+
 ### Den Særlige Klageret 
+
 Den Særlige Klageret ligger i København samme sted som Højesteret. Klageretten er sammensat af en højesteretsdommer, en landsdommer, en byretsdommer, en advokat og en universitetslærer i retsvidenskab eller anden jurist med særlig videnskabelig uddannelse.
 <br>
 Den Særlige Klageret træffer afgørelser i disciplinære sager vedrørende dommere og andet juridisk personale ansat ved domstolene, herunder også ansatte på Færøerne og i Grønland.
 <br> 
 Klageretten behandler derudover sager om genoptagelse af straffesager og udelukkelse af forsvarere fra straffesager.
 <br>
+
 ### Byretten
+
 ![](img/byretten.png)
 Danmark har 24 byretter. De er fordelt over hele landet. Byretten behandler som nævnt bl.a.:
 
@@ -458,6 +470,7 @@ Danmark har 24 byretter. De er fordelt over hele landet. Byretten behandler som 
 *	skiftesager 
 
 <br>
+
 ### Byretterne
 
 
@@ -633,13 +646,19 @@ Tinglysning er nu en digital proces, der foregår fra hjemmesiden www.tinglysnin
 <br>
 Information og vejledning kan findes på www.tinglysningsretten.dk
 <br>
+
 ### Procesbevillingsnævnet
+
 Procesbevillingsnævnet blev oprettet pr. 1. januar 1996 med det formål at behandle ansøgninger om 2. og 3. instansbevillinger i civile sager og straffesager. Siden den 1. januar 2007 har Procesbevillingsnævnet endvidere haft til opgave at behandle klager over Civilstyrelsens afslag på ansøgninger om fri proces.
 <br>
+
 #### Appeltilladelse
+
 En appeltilladelse indebærer, at en sag, der ikke ellers ville kunne ankes eller kæres, kan indbringes for en højere retsinstans. Appeltilladelse forudsætter, at sagen rejser spørgsmål af principiel karakter, eller at særlige grunde taler for tilladelse. 
 <br>
+
 #### Fri proces
+
 Fri proces indebærer i grundtræk, at den pågældende får en advokat beskikket til at føre sagen, og at statskassen betaler sagens omkostninger, herunder retsafgifter, advokatsalær og eventuelle sagsomkostninger, som skal betales til modparten. 
 <br>
 Fri proces er især forbeholdt personer, som på den ene side ikke selv har økonomisk mulighed for at betale sagsomkostningerne, men som på den anden side har rimelig grund til at føre proces, navnlig fordi der er udsigt til at vinde sagen.
@@ -655,6 +674,7 @@ Bevillingsmæssigt og administrativt hører Procesbevillingsnævnet under Domsto
 <br>
 
 ### Rigsretten
+
 <br>
 Rigsretten består af indtil 15 af Højesterets dommere og et tilsvarende antal medlemmer, som udpeges af Folketinget. Folketingsmedlemmer kan ikke udpeges til medlem af Rigsretten.
 Medlemmerne af Rigsretten vælges for 6 år. Der er udpeget medlemmer af Rigsretten i 1996.
@@ -854,6 +874,7 @@ Domstolen har herigennem adgang til at kontrollere, om medlemsstaterne overholde
 En sådan sag kan anlægges enten af Kommissionen - hvilket i praksis er det hyppigst forekommende - eller af en anden medlemsstat. Hvis Domstolen fastslår, at der foreligger et traktatbrud, skal medlemsstaten straks bringe det til ophør. Hvis Domstolen, efter at Kommissionen på ny har indbragt sagen for den, fastslår, at den pågældende medlemsstat ikke har efterkommet dens dom, kan Domstolen pålægge medlemsstaten at betale et fast beløb eller en tvangsbøde. Hvis Kommissionen ikke er blevet underrettet om foranstaltninger til gennemførelse af et direktiv, kan Domstolen imidlertid efter anmodning herom fra Kommissionen pålægge medlemsstaten en økonomisk sanktion allerede fra tidspunktet for afsigelsen af den første traktatbrudsdom.
 
 ### Annullationssøgsmål
+
 I en sådan sag nedlægger sagsøgeren påstand om annullation af en retsakt, der er udstedt af Unionens institutioner, organer, kontorer eller agenturer (bl.a. forordninger, direktiver og beslutninger). Domstolen er forbeholdt kompetencen i sager, der anlægges af en medlemsstat mod Europa-Parlamentet og/eller Rådet (med undtagelse af Rådets retsakter, der vedrører statsstøtte, antidumping og gennemførelsesbeføjelser), eller sager, der anlægges af en EU-institution mod en anden institution. Retten er kompetent til at træffe afgørelse, i første instans, i alle andre sager af denne art, herunder navnlig i sager, der er anlagt af private.
 
 ###	Passivitetssøgsmål
