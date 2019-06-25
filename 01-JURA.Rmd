@@ -185,6 +185,7 @@ Folketinget har 3 hovedopgaver:
 <br>
 For at kunne løfte de opgaver kræves det, at folketingsmedlemmerne ved, hvordan det politiske arbejde skal foregå. Reglerne for, hvordan folketingsmedlemmerne skal samarbejde, og hvordan lovgivningsprocessen er, står beskrevet i Folketingets forretningsorden. Reglerne kan ændre sig over tid, fordi samfundet ændrer sig, men de fleste af reglerne har mange år på bagen.
 <br>
+
 ### Lovforslag
 <br>
 ![](img/folketinget2.png)
@@ -208,11 +209,14 @@ Ideer til nye love kommer primært fra regeringen, men kan også komme fra:
   <br>
 Inden et lovforslag fremsættes i Folketingssalen, har det som regel været igennem en længere process i ministerierne.
 <br>
+
 ## Folketingets kontrol med regeringen
 <br>
+
 ![](img/folketinget3.png)
 Ud over at lovgive har Folketinget en anden og lige så vigtig rolle i demokratiet. Det er at kontrollere, om regeringen – den udøvende magt ‒ fører Folketingets love ud i livet, som de var tænkt, og om der sker magtmisbrug. Det kalder man parlamentarisk kontrol.
- <br>
+<br>
+ 
 ### Den kritiske opposition
 <br>
 Parlamentarisk kontrol med regeringen er en meget vigtig opgave i Folketinget, hvor Folketinget kontrollerer, hvordan regeringen fører lovene ud i livet, og om regeringen fører en politik, der i hovedtræk bliver støttet af et flertal i Folketinget.
@@ -227,43 +231,50 @@ Oppositionen undersøger bl.a., om regeringen:
 <br>
 Folketingsmedlemmerne fra oppositionspartierne finder den parlamentariske kontrol af regeringens magtudøvelse vigtig. Oppositionen har en politisk fordel i at finde fejl og mangler ved en regering, den ikke er enig med, og det giver oppositionspartierne mulighed for at forklare vælgerne, hvordan deres politik er anderledes end regeringens.
 <br>
+
 ### Udvalgsarbejdet i Folketinget
 <br>
 ![](img/folketinget4.png)
 
 Arbejdet i Folketinget foregår både i Folketingssalen og i Folketingets udvalg. Udvalgene arbejder med hvert deres fagområde og behandler både lovgivning og den brede kontrol med regeringens arbejde.  
- 
 <br>
+
 ## Regeringen den udøvende magt
 <br>
 Statsministeren er regeringens chef og den der bestemmer, hvem der skal være minister i regeringen. Regeringen laver landets love, mens Folketinget vedtager dem. Ministrene er som regel også medlemmer af Folketinget, men det er ikke et krav.  
 <br>
+
 ### Sådan dannes en regering
 <br>
 ![](img/folketinget6.png)
 
 
 ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` giver dronningen magt til at udpege statsministeren og de øvrige ministre. Men i praksis er det et flertal i Folketinget, der er afgørende for, hvem der skal være statsminister. Statsministeren sætter så sit ministerhold og danner sin regering.
- <br>
+<br>
+
 ### Statsministeren vælges og nedsætter sin regering
 Folketingsvalg skal afholdes mindst én gang hvert 4. år. Det står i grundloven. Statsministeren kan dog til enhver tid udskrive folketingsvalg, så der kan sagtens gå mindre end 4 år mellem hvert valg.
 <br>
 Når valget er slut og mandaterne fordelt, er det nye Folketing fundet. Så skal man i gang med at finde ud af, hvem der skal være statsminister og danne regering.
 <br>
+
 ### Negativ parlamentarisme
 Den siddende statsminister fortsætter, hvis der ikke er et flertal imod ham eller hende - dvs. 90 eller flere ud af de 179 folketingsmedlemmer. Det kaldes negativ parlamentarisme.
 Taber regeringen valget, skal der findes en ny statsminister og en ny regering.
 <br>
+
 ### Dronningen udnævner formelt den nye regering
 Den siddende statsminister skal, i samarbejde med dronningen, finde ud af, hvilken statsministerkandidat der har den bredeste opbakning hos det nye folketingsmedlemmer. Det kaldes en dronningerunde.
 <br>
 Når statsministeren har fundet sine ministre, udnævner dronningen formelt regeringen på Amalienborg. Regeringen kommer bagefter ud på slotspladsen. Her præsenterer statsministeren sin nye regering for danskerne.
 <br>
+
 ### Sådan arbejder regeringen
 ![](img/folketinget5.png)
 
 Regeringens ministre leder via deres ministerier landet efter de love, Folketinget har vedtaget. Regeringen har stor indflydelse på de love, der vedtages i Folketinget, da det er regeringen, der kommer med langt de fleste forslag til nye love.
- <br>
+<br>
+
 ### Regeringen fremsætter lovforslagene
 Den udøvende magt ligger hos regeringen. Det står i grundloven. Regeringen har ret og pligt til at gennemføre de regler og love, som Folketinget vedtager, så lovene bliver til virkelighed i samfundet. 
 <br>
@@ -280,10 +291,12 @@ Lovkataloget kan findes på Statsministeriets hjemmeside og giver et pejlemærke
  <br>
 Den formelle baggrund for lovkataloget er, at der i grundlovens § 38 står beskrevet, at statsministeren skal lave en åbningsredegørelse, når et nyt folketingsår starter. Åbningsredegørelsen består både af en mundtlig og en skriftlig del. Den mundtlige del er åbningstalen, som statsministeren holder på åbningsdagen, mens den skriftlige del er lovkataloget.
 <br>
+
 ### Statsministeren
 ![](img/lokke.png)
 Statsministen er regeringens chef. Det er statsministeren, der bestemmer, hvem der skal være ministre, og hvilke ministerier der skal være.
- <br>
+<br>
+
 ### Statsministeren har stor magt
 Statsministerposten er landets højeste ministerpost. En statsminister har en særlig stor magt og et særlig stort ansvar. Det er f.eks. kun statsministeren, der kan bestemme: 
 
@@ -294,6 +307,7 @@ Statsministerposten er landets højeste ministerpost. En statsminister har en s�
 <br>
 Statsministeren fører tilsyn med sine ministre og fordeler opgaver og fagområder imellem dem. 
 <br>
+
 ### Ministrene
 
 ![](img/folketinget7.png)
@@ -303,6 +317,7 @@ Regeringen, og dermed ministrene, har den udøvende magt i Danmark. Det vil sige
 Regeringens ministre har hver sit fagområde: Kulturministeren har ansvar for kulturområdet, skatteministeren for skatteområdet osv. 
 De fleste ministerområder ligger nogenlunde fast – f.eks. er der i praksis altid et Justitsministerium, et Finansministerium osv. Men statsministeren kan ændre ministrenes fagområder eller oprette nye ministerier, hvis statsministeren ønsker at begrænse, fremhæve eller styrke bestemte fagområder. F.eks. blev der efter valget i november 2007 som noget nyt udnævnt en minister for klima og energi. 
 <br>
+
 ### Ministrenes opgaver
 At foreslå ny lovgivning er en af ministrenes fornemste opgaver. Lovforslagene bliver forberedt i ministerierne, som har mange medarbejdere til bl.a. at skrive lovforslag.
 <br>
@@ -384,6 +399,7 @@ De almindelige domstole behandler civile sager og straffesager.
 <br>
 Alle sager kan som udgangspunkt behandles ved 2 retsinstanser, f.eks. ved byret og landsret. Visse mindre sager kan dog normalt kun behandles ved én instans, byretterne, uden mulighed for appel til landsretten.
 <br>
+
 ### Højesteret   
 <br>
 Danmark har én højesteret. Den ligger ved Christiansborg Slot i København. Højesteret er den øverste domstol i Danmark. Her afgøres f.eks. sager, der har betydning for, hvordan lignende sager skal afgøres, eller sager, der har særlig samfundsmæssig interesse. 
@@ -398,6 +414,7 @@ I straffesager kan Højesteret ikke tage stilling til skyldsspørgsmålet.
 <br>
 Særlige forvaltnings- eller forfatningsdomstole anvender man i mange andre EU-lande. Det gør man ikke i Danmark. Her er det de almindelige domstole – i praksis Højesteret – der undersøger, om de afgørelser, myndighederne træffer, er lovlige, eller om en lov er i strid med ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))``.
 <br>
+
 ### Landsretterne
 
 ![Østre Landsret i Bredgade 55, København K](img/landsret.png)
@@ -487,6 +504,7 @@ Byretterne kan i en række tilfælde henvise en civil sag til behandling ved lan
 <div class="video-container"><iframe src="https://www.youtube.com/embed/vtR3p-7IItk" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 <br>
+
 #### Video: en sag kommer på tværs
 <div class="video-container"><iframe src="https://www.youtube.com/embed/7WNie-cX1jw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 <br>
@@ -566,9 +584,11 @@ kable(text_tbl,caption="Værneting") %>%
 *	Den frie bevisbedømmelse: Retten har frihed til på objektivt grundlag, at vurdere og afgøre, hvad der findes bevist under sagen, og hvilke beviser der vægter tungere end andre.
 *	Bevisbyrde: Den som påstår noget under en retssag, skal bevise at han eller hun har ret og har dermed bevisbyrden for sin påstand (kaldet en ”ligefrem bevisbyrde” som er hovedreglen i dansk ret).
 <br>
+
 #### Video: Retssikkerhed. Hvordan kan domstolene hjælpe mig?
 <div class="video-container"><iframe src="https://www.youtube.com/embed/eZt1GQQKJsg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 <br>
+
 ### Civilretssagens forløb
 Parterne: Sagsøger og sagsøgte
 Sagens forberedelse:
@@ -579,11 +599,13 @@ Stævning og svarskrift
 *	Replik og duplik
 *	Hovedforhandling
  <br>
+ 
 ### Småsagsprocessen
 <br>
 *	Sager under 50.000 kr.
 *	Formål: Enklere, hurtigere og billigere
 <br>
+
 ### Udenretlig tvistløsningsorganer
 Klage- og ankenævn som der har betydning for den finansielle branche:
 <br>
@@ -602,6 +624,7 @@ Voldgift
 *	Sagen er ikke offentlig
 *	Ikke mulighed for anke til højere instans
 <br>
+
 ### Tinglysningsretten
 Tinglysningsretten, som ligger i Hobro, blev etableret den 1. januar 2007 med en præsident som øverste chef.
 Fra den 8. september 2009 er håndteringen af hele tinglysningsområdet samlet i Tinglysningsretten. Byretterne tinglyser altså ikke længere dokumenter.
@@ -630,6 +653,7 @@ I overensstemmelse med forarbejderne til lovgivningen om Procesbevillingsnævnet
 <br>
 Bevillingsmæssigt og administrativt hører Procesbevillingsnævnet under Domstolsstyrelsen, men Procesbevillingsnævnet er uafhængigt af domstolene og af den offentlige forvaltning. Man kan derfor ikke klage over nævnets afgørelser til justitsministeren eller til Folketingets Ombudsmand.
 <br>
+
 ### Rigsretten
 <br>
 Rigsretten består af indtil 15 af Højesterets dommere og et tilsvarende antal medlemmer, som udpeges af Folketinget. Folketingsmedlemmer kan ikke udpeges til medlem af Rigsretten.
@@ -639,6 +663,7 @@ Rigsretten har til opgave at påkende sager mod ministre vedrørende deres embed
 <br>
 Folketinget har 5 gange rejst tiltale for Rigsretten. Den seneste sag var mod tidligere justitsminister Erik Ninn-Hansen. Der blev afsagt dom i sagen den 22. juni 1995.
 <br>
+
 ### Dommerudnævnelsesrådet
 <br>
 Dommerudnævnelsesrådet er et uafhængigt råd, der har til opgave at afgive indstillinger til justitsministeren vedrørende besættelse af dommerstillinger.
@@ -647,6 +672,7 @@ Domstolsstyrelsen stiller sekretariat til rådighed for Dommerudnævnelses-råde
 <br>
 Dommerudnævnelsesrådet blev oprettet ved lov nr. 402 af 26. juni 1998 som et led i domstolsreformen, der bl.a. havde til formål at sikre en bredere rekruttering af dommere og større gennemsigtighed ved besættelse af dommerstillinger. Rådet har været i funktion siden den 1. juli 1999, da loven trådte i kraft.
 <br>
+
 ### Domstolsstyrelsen 
 Domstolsstyrelsen har til opgave at administrere og udvikle Danmarks Domstole.
 Domstolsstyrelsen blev oprettet som en ny, selvstændig statsinstitution den 1. juli 1999.
@@ -655,6 +681,7 @@ Domstolsstyrelsen ledes af en bestyrelse og en direktør. Domstolsstyrelsen hør
 Bestyrelsen er den øverste ledelse og har det overordnede ansvar for Domstolsstyrelsens virksomhed. Den daglige ledelse er lagt i hænderne på direktøren, som er ansat af og kan afskediges af bestyrelsen.
 Sammensætningen af Domstolsstyrelsens bestyrelse er fastsat i lov om Domstolsstyrelsen.
 <br>
+
 #### Video: historien om de danske domstole og retssystemet
  <br>
 <div class="video-container"><iframe src="https://www.youtube.com/embed/uvpuD60uLdI" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -704,7 +731,6 @@ Retskildepolycentri er en nyere retsvidenskabelig erkendelse af, at dannelsen af
 
 ## Juridisk metode  
 
-<br>
 Juridisk metode, fremgangsmåde ved stillingtagen til juridiske problemer.  Metoden består for det første af en beskrivelse og identifikation af de retskilder, som gyldigt kan inddrages i en juridisk argumentation; for det andet af læren om, hvordan retskilderne fortolkes. Juridisk metode består af 3 hovedelementer:  
 <br>
 Et faktum (Hændelsesforløbet fx der er sket økonomisk misbrug af en kortholderens mistede Dankort)  
@@ -731,17 +757,20 @@ Med anvendelsen af begrebet groft uforsvarlig adfærd er det således præcisere
 <br>
 *Det er en konkret vurdering, om der bliver statueret groft uforsvarlig adfærd, jf. fx PIA 436/1993: Natten mellem den 12. og 13. juni 1993 blev klageren, medens han opholdt sig på en restauration, frastjålet sit dankort, som var opbevaret i klagerens tegnebog. Klageren anmeldte den 13. juni 1993 kl. 11.10 telefonisk tyveriet til kriminalpolitiet i Sønderborg efter forinden telefonisk at have spærret dankortet ved meddelelse til PBS. Det viste sig efterfølgende, at der ved anvendelse af dankortet og korrekt pinkode den 13. juni 1993 mellem kl. 9.25 og 9.28 var hævet 3 x 2.000 kr. i tre forskellige dankortautomater. Efter de foreliggende oplysninger lagde Pengeinstitutankenævnet til grund, at tyveriet af dankortet var blevet forøvet af to unge piger, som senere blev dømt for tyveri ved den 13. juni 1993 kl. 9.25-9.28 under anvendelse af dankortet at have stjålet de 3 x 2.000 kr. fra dankortautomaterne. Det fremgik af en retsbogsudskrift fra straffesagen, at de sigtede havde forklaret, at den ene af dem, A, snakkede med klageren, mens den anden sigtede, B, tog pungen op af lommen på ham. Herefter gik de ud på toilettet, hvor de tog pengene og kortet. A forklarede videre, at hun havde spurgt klageren om koden, og han havde givet hende den. Han sagde noget om, at han skulle ringe til banken for at få kortet spærret, og hun tilbød at gøre det for ham. Hun lod, som om hun telefonerede til banken, og sagde i den forbindelse til klageren, at hun skulle bruge pinkoden, hvorefter han gav hende den. Klageren indbragte sagen for Ankenævnet med påstand om, at indklagede var tilpligtet at anerkende, at klageren ikke hæftede for de 6.000 kr. Ankenævnet traf følgende afgørelse: »Efter betalingskortlovens § 21, stk. 2, hæfter kortindehaveren uden beløbsbegrænsning for tab, der opstår som følge af andres uberettigede brug af betalingskortet og den dertil hørende personlige hemmelige kode, såfremt kortudstederen godtgør, at kortindehaveren har oplyst koden til den, der har foretaget den uberettigede brug. Ankenævnet finder imidlertid ikke, at bestemmelsen er anvendelig på et tilfælde som det foreliggende. Ankenævnet finder på den anden side, at klageren udviste groft uforsvarlig adfærd ved i det foreliggende tilfælde at oplyse sin PIN-kode. Han hæfter derfor med op til 8.000 kr. for det tab, der opstod som følge af det uberettigede brug af kortet, jf. betalingskortlovens § 21, stk. 3, nr. 2, (nu § 11, stk. 3, nr. 3). Som følge af det anførte bestemmes: Den indgivne klage tages ikke til følge«.*  
 <br>
+
 ---
 
 Den juridiske metode indeholder væsentlige elementer af vurdering og skøn og er derfor mindre eksakt end de metoder, der anvendes inden for mange andre fagområder.
 <br>
 I juridisk Ordbog (***Bo von Eyben***, 14. udg.) defineres juridisk metode som følger:"den metode, der skal anvendes for at afgøre, hvilken regel der er gældende for et bestemt retsområde. Dette forudsætter kendskab til læren om retskilderne og evne til herudfra at finde de relevante retskilder og at anvende dem korrekt på det givne forhold..." 
 
- <br>
+<br>
 
 
 <br>
+
 ## Domsanalyse
+
 <br>
 
 
@@ -1002,6 +1031,7 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 ```
 
 <br>
+
 ## Aftaleindgåelse
 <br>
 **HR:** Aftalefrihed – vi kan frit aftale hvad vi vil
