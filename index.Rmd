@@ -1,6 +1,6 @@
 --- 
 title: "Erhvervs- og finansjura"
-author: "Sonny Kristoffersen Advokat, Partner, lektor og Ph.D."
+author: "Sonny Kristoffersen"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook

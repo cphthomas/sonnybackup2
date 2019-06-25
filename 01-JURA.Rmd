@@ -11,7 +11,6 @@ output:
 
 
 
-
 ```{r echo=FALSE}
 
 BEGREB <- c(
@@ -2067,17 +2066,43 @@ Fuldmægtigen skal erstatte tredjemand den positive opfyldelsesinteresse, dvs. t
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/08Bm3t_CR9s" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
+<br>
+## Eksamensspørgsmål om fuldmagt/mellemmandsaftaler og ansættelsesret
+<br>
+Eksamensopgave - Fix og Hjem  
 
 
-## Anvendelsen af fuldmagter og mellemmænd i den finansielle sektor
 
+Kim er ansat i firmaet Fix og Hjem i Odense. Han blev ansat som salgsassistent den 1. januar 2013. Han er meget dygtig og meget omhyggelig med sit arbejde og bliver efterhånden meget vellidt af kunderne - både de lokale håndværkere og de private kunder. Den 1. januar 2014 bliver Kim forfremmet til butikschef for afdelingen i Odense.
 
+En af hans gamle klassekammerater Andreas er flyttet til Odense, hvor han har købt et helt nyt hus og skal til at etablere haven. Andreas kommer til Fix og Hjem og møder Kim. De får snakket om gamle dage, og Andreas afgiver en ordre på fliser til en stor terrasse, materialer til et flot plankeværk og et sæt havemøbler i træ til 8 personer.
+
+Andreas mener, at Kim må give en god rabat på sådan en stor ordre. Andreas får forhandlet sig frem til 25 % i rabat. Kim er egentlig ikke så glad bagefter, for han har en aftale med hovedkontoret om, at der max. må gives 10 % i rabat.
+
+Andreas har lige startet sit eget firma, Swim der sælger havebassiner. Andreas præsenterer Kim for produkterne, og han får solgt 5 stk. havebassiner til Fix og Hjem til en samlet pris på 15.000 kr. Kim må ellers slet ikke købe varer ind, da det skal foregå centralt.
+
+Karina blev ansat den 1. april 2012 som salgsassistent. Hun er nu i maj 2014 begyndt at sygemelde sig om mandagen og passer ikke sit job, som hun plejer. Kim kalder Karina ind til en samtale. Han forklarer hende, at det ikke kan fortsætte, og hun lover at tage sig sammen, men hun har haft nogle problemer med sin mave. Hun mener, det skyldes den travlhed, der er i firmaet. 
+
+Kim lægger mærke til, at Karina forbedrer sig i de næste par måneder. Men i august 2014 er den gal igen. Karina har endnu mere fravær og er blevet endnu dårligere til sit arbejde. Kim vil gerne af med hende nu.
+
+Sanne blev ansat som ansvarlig for afdelingens lager den 1. marts 2011. Hun er rigtig god til sit job og har ikke fravær og går ikke altid til tiden. Hendes beføjelser drejer sig om at styre lageret – altså hvor varerne skal være og sikre, at der gives besked til indkøbsafdelingen, hvis en vare er ved at være udsolgt.
  
+Sanne bor sammen med Torben. Hendes svigerforældre har inviteret hende og Torben 1 uge til Paris i den sidste uge af juni. Det er hun meget glad for, da det altid har været en af hendes drømme at komme til Paris. 
 
+Sanne spørger Kim om at få ferie i den uge. Kim bliver helt ude af den, da det er den uge, de kører et stort tema om haven, og de har en masse gode tilbud. Af erfaring ved Kim, at der er meget travlt. 
 
+1.	Er Fix og Hjem bundet af de aftaler som Kim har indgået med Andreas?
+2.	Hvilke muligheder har Fix og Hjem for at opsige Karina?
+3.	Har Sanne krav på at holde ferie så hun kan komme til Paris? 
+<br>
+Vejledende løsning:
 
-
-
+1.	Er Fix og Hjem bundet af de aftaler som Kim har indgået med Andreas? Rabatten er Fix & Hjem bundet af, da inden for stillingsfuldmagten, men udenfor bemyndigelsen, men Andreas i god tro. De 5 havebassiner er måske også indenfor stillingsfuldmagten, men udenfor bemyndigelsen, og spørgsmålet er om Andreas er i god eller ond tro. Næppe OK.
+<br>
+2.	Hvilke muligheder har Fix og Hjem for at opsige Karina? Sygdom er jo lovligt forfald, men er de utilfredse med hende, bør hun have skriftlig advarsel, og hvis forholdene ikke forbedres, kan hun afskediges senere. Hvis hun afskediges nu, er hun formentligt berettiget til funktionærlovens § 2b-godtgørelse + 3 mdrs. Opsigelsesvarsel. 
+<br>
+3.	Har Sanne krav på at holde ferie så hun kan komme til Paris? Det kommer an på, hvornår hun spørger om at få fri. Ferien ligger jo i hovedferien og det skal normalt varsles af medarbejderen med mindst 3 ugers varsel (som jeg husker det) og gør hun det, har hun krav på at komme afsted. I øvrigt dårlig stil at nægte hende at tage af sted pga. travlhed, da det jo egt. ikke er hendes problem. 
+<br>
 
 
 
@@ -2784,11 +2809,17 @@ Efterlevende børn får en erstatning, der svarer til summen af de børnebidrag,
 
 <br>
 
-## Eksempel på eksamensspørgsmål indenfor erstatningsretten
+## Eksamensspørgsmål indenfor erstatningsretten mv.
 
+### Eksamensopgave og løsning - Om ejendomsmæglerens erstatningsansvar uden for kontrakt
+
+Ejendomsmæglerens støvler
 <br>
 En fredag eftermiddag var Martin taget ud til en fremvisning af et hus beliggende i nabobyen Indby. Huset tilhørte Pernille. Martin havde i dagens anledning taget sine nye og meget dyre Armani® støvler på. Desværre havde han fået købt dem i en lidt for lille størrelse, men havde valgt at tage dem på alligevel selvom Egild ikke havde ment at det var en god idé, da han syntes at de ikke rigtig udstrålede det image som ”Udby Mæglerne ApS” gerne ville stå for.
-Da Martin kommer ind i huset vil han tage støvlerne af, men finder ud af at de sidder rigtig godt fast. Han kæmper noget med støvlerne, men til sidst får han dem revet af. Desværre rammer han med sin voldsomme bevægelse det spejl der hænger i gange. Spejlet falder ned og smadrer mod gulvet. Ude i køkkenet står Pernille og er ved at lave kaffe. Hun bliver så forskrækket at hun taber den meget varme kaffe ned over sin hun ”Guffe”. ”Guffe”, der var en præmiehund med en værdi på 10.000 kr, måtte efterfølgende aflives.
+<br>
+Da Martin kommer ind i huset vil han tage støvlerne af, men finder ud af at de sidder rigtig godt fast. Han kæmper noget med støvlerne, men til sidst får han dem revet af. Desværre rammer han med sin voldsomme bevægelse det spejl der hænger i gange. Spejlet falder ned og smadrer mod gulvet. 
+<br>
+Ude i køkkenet står Pernille og er ved at lave kaffe. Hun bliver så forskrækket at hun taber den meget varme kaffe ned over sin hun ”Guffe”. ”Guffe”, der var en præmiehund med en værdi på 10.000 kr, måtte efterfølgende aflives.
 <br>
 Eksamensspørgsmålet:
 <br>
@@ -2797,13 +2828,102 @@ Eksamensspørgsmålet:
 Vejledende løsning
 <br>
 Lovgrundlag: Lov om erstatningsansvar
+<br>
 Område: Erstatningsansvar, Principalansvar
-Læringsmål: Den studerende kan anvende og vurdere de grundlæggende erstatningsbetingelser ved erstatning udenfor kontrakt, for derigennem at kunne vurdere reglerne for rådgivnings- og professionsansvar indenfor den finansielle sektor (God skik bekendtgørelsen og LOFE § 24) samt reglerne om principalansvar.
+<br>
+Læringsmål: Du skal som studerende anvende og kunne vurdere de grundlæggende erstatningsbetingelser ved erstatning udenfor kontrakt, for derigennem at kunne vurdere reglerne for rådgivnings- og professionsansvar indenfor den finansielle sektor (God skik bekendtgørelsen og lov om formidling af fast ejendom § 24) samt reglerne om principalansvar, jf. DL (Danske Lov fra 1683) 3-19-2.
+<br>
+
+<img src="img/Danske lov.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+
+
+
+
+
 <br>
 Spørgsmålet kan løses med forskellige systematikker. 
+<br>
 Besvarelsen bør dog gøre opmærksom på at erstatning i alle tilfælde kræver at de 4 grundbetingelser er opfyldt.
+<br>
 Der kan først ses på om Pernille har lidt et økonomisk tab. Dette må antages for både spejlet og ”Guffe”. Der er ligeledes kausalitet i forbindelse med begge skader. 
+<br>
 Det kan dog formodentlig ikke antages at der er adækvans i relation til skaden på ”Guffe”. Det er næppe påregneligt for Lars at hans kamp med at tage støvlerne af vil lede til en begivenhedsrække, der slutter med at Pernille hælder varm kaffe ned over sin hund. Pernille kan derfor nok ikke få erstatning for tabet af ”Guffe”.
+<br>
+
+### Eksamensopgave og løsning - Om erstatning og kaution
+<br>
+Murermester Madsen
+
+Madsen, der er murer, står sammen med sin ansat, murerlærling Anton oppe på et stillads. De er ved at lave reparationer på Knudsens hus’ ydermurer.
+ 
+Madsen benytter opgaven til at undervise Anton i, hvordan arbejdet bør udføres fagligt korrekt, og han forklarer også i detaljer, om sikkerhed på en farlig arbejdsplads, som en byggeplads jo er. Anton er en lærenem elev, og han udfører snart arbejdet til punkt og prikke. 
+<br>
+Men på et tidspunkt smider Anton en murske hen mod spanden med mørtel, men han rammer uheldigvis ved siden af. Skeen falder ud over stilladsets kant og rammer Knudsen, der netop passerer forbi med sin trillebør nedenfor. Knudsen rammes på næsen, der brækker, og pga. slaget og chokket falder Knudsen bagover, og i faldet forvrider han sin skulder. Hans dyre solbriller er også ødelagt. 
+<br>
+Knudsens hustru står samtidig inde i køkkenet. Hustruen ser ikke murskeen ramme Knudsen, men hun ser ud af vinduet lige da han falder bagover. Hun tror, at han er faldet om af et hjerteslag og styrter ud til telefonen i entreen for at ringe 112. I sit hastværk glider hun i et tæppe på entrégulvet og falder. Desværre er hun faldet så uheldigt, at hun slår sin ryg så slemt, at hun senere viser sig at miste sin førlighed delvist.
+<br>
+I det Madsen går hen for at hjælpe hustruen, bliver han bidt af Knudsens hund, der tror, han vil gøre hustruen noget. Bidet er ikke alvorligt, men det ødelægger dog Madsens jakke. 
+<br>
+Madsen ønsker at udvide sin forretning men det kræver en del kapital. Banken vil gerne låne ham pengene men de kræver sikkerhed i form af to kautionister. Madsen spurgte sin far der efterhånden var en ældre herre og som havde en betydelig formue. Faren afviste, da han havde en forestilling om at sønnen ingen økonomisk sans havde. Madsen skrev derfor under i sin fars navn.
+<br>
+Derefter spurgte han sin ansatte murelæring, der netop havde arvet, om han ville kautionere. Madsen lod ham – mellem linjerne – forstå, at hvis han afviste, ville det få ”uheldige konsekvenser” for Antons fremtidige ansættelse. Anton følte sig presset og skrev under.   
+<br>
+1.	Kan Hr. Knudsen kræve erstatning og i givet fald for hvad og af hvem?  
+2.	Kan Hr. Knudsens hustru kræve erstatning og i givet fald for hvad og af      hvem?
+3.	Kan Madsen kræve erstatning og i givet fald for hvad og af hvem?
+4.	Hvis banken ønsker penge af kautionisterne, hvordan er de to kautionister     så stillet? 
+<br>
+1.	Kan Hr. Knudsen kræve erstatning og i givet fald for hvad og af hvem? Ja,     betingelserne opfyldt. I henhold til DL 3-19-2 skal arbejdsgiver betale,     idet skaden skete som et led i arbejdet. 
+2.	Kan Hr. Knudsens hustru kræve erstatning og i givet fald for hvad og af      hvem? Nej, ikke adækvat. 
+3.	Kan Madsen kræve erstatning og i givet fald for hvad og af hvem? Ja, svie     og smerte, evt. personskade og tingsskade hos Knudsen, jf. hundelovens §     8. 
+4.	Hvis banken ønsker penge af kautionisterne, hvordan er de to kautionister     så stillet? De går begge fri. Faren pga. dokumentfalsk fra Madsens side      og Madsen pga. kompulsiv, jf. aftaleloven. 
+<br>
+
+### Eksamensopgave og løsning - Erstatning uden for kontrakt og forbrugeraftaler
+<br>
+Randers Boldklub
+<br>
+Hans bor i Randers og har 2 teenagedrenge. De spiller fodbold, og de kommer sammen med deres far til samtlige af Randers fodboldkampe. 
+<br>
+Randers har kæmpet sig op i rækkerne og spiller rigtig godt, og de er godt med i slutspillet i SAS-ligaen. Hans vil gerne støtte dem, så han køber fantrøjer og kasketter til sig selv og drengene over Internettet. De skal have trøjerne og kasketterne på til næste kamp.
+<br>
+Hans skriver på bestillingen, at han skal bruge det inden 14 dage men varerne når ikke at komme inden kampen.
+<br>
+Hans og drengene drager af sted til kampen mod Nordsjælland. Der er en god stemning på stadion. Randers spiller godt, men kommer bagud, da der bliver afsagt en tvivlsom kendelse. 
+<br>
+I bar frustration over den tvivlsomme kendelse og ikke at have fået trøjerne og kasketterne løber han ind på banen og slår ud efter dommeren, Albert. Albert når at undvige, men falder uheldigt lige ind i målstolpen, og han slår sit hoved ret kraftigt. Han får en dyb flænge i panden og mister bevidstheden i 10 minutter. Albert bliver kørt på hospitalet, og han får konstateret en hjernerystelse, der medfører, at han sygemeldes i 1 måned. 
+<br>
+Albert skulle have været på skiferie dagen efter kampen, men på grund af hjernerystelsen bliver han nødt til at aflyse sin ferie. Han har ikke tegnet nogen rejseforsikring, så han må betale for rejsen selv om han ikke kommer af sted.
+<br>
+Alberts søster, Emilie, der overværede det hele, gik i chok. Hun besvimede, faldt og pådrog sig en brækket arm.
+<br>
+Hans og drengene skynder sig hjem. De løber ned af vejen. Henne ved hjørne står fru Olsen med sin hund Rufus. Rufus er en ret stor hund. Da Hans og drengene kommer løbende, bliver Rufus bange og går til angreb på Hans. Rufus bider Hans i benet og har dermed ødelagt hans bukser, og der er et stort åbent sår, som skal sys på skadestuen. 
+<br>
+En uge efter kampen kommer trøjerne og kasketterne men nu vil Hans ikke længere have dem.
+<br>
+
+1.	Kan Albert få erstatning og hvilke krav kan han i givet fald rejse?
+2.	Er Emilie berettiget til erstatning?
+3.	Er Hans berettiget til erstatning fra fru Olsen? 
+4.	Er Hans bundet af aftalen om køb af trøjerne og kasketterne? 
+<br>
+
+Vejledende løsning
+<br>
+1.	Kan Albert få erstatning og hvilke krav kan han i givet fald rejse? Ja. I     henhold til EAL kan han rejse personskade, tabt arbejdsfortjeneste, svie     og smerte samt erstatning for rejsen, idet krav om kausalitet og adækvans     er opfyldt. Adækvans dog på grænsen. Enig. 
+2.	Er Emilie berettiget til erstatning? Nej, adækvans ikke opfyldt. Enig
+3.	Er Hans berettiget til erstatning fra fru Olsen? Ja. Mener det er       
+    hundelovens § 8. Enig, næppe nedslag i erstatningen. 
+4.	Er Hans bundet af aftalen om køb af trøjerne og kasketterne? 
+    14 dages fortrydeælsesret
+5.	Kan Hans rejse krav om erstatning mod sælger, hvis han er bundet af     
+    aftalen om køb af trøjerne og kasketterne? Ingen erstatning fra sælger af     trøjerne som følge af for sen levering, da intet økonomisk tab lidt af       Hans. 
+<br>
+
+
+
+
 
 
 <br>
@@ -2813,16 +2933,16 @@ Det kan dog formodentlig ikke antages at der er adækvans i relation til skaden 
 
 Følgende betragtninger og oplysninger om det private ansvar, husejeransvaret, ansvaret for ens hund, skader på arbejdet samt skader ved udøvelse af sportsaktiviteter bygger hovedsageligt på Forsikringsankenævnets oplysninger i ankenævnets ”klageguide” samt Forsikringsankenævnets praksis, herunder på retspraksis, samt viden fra Forsikringsoplysningen.
 
-##Privatansvarsforsikring 
+## Privatansvarsforsikring 
 <br>
 
 Privatansvarsforsikringen er normalt er en del af ens familie/indboforsikring. Forsikringen dækker den erstatning, man skal betale, hvis man som privatperson forvolder skade på andre personer eller på andres genstande. Der er også knyttet en ansvarsforsikring til en række andre forsikringer, bl.a. en bygningsforsikring. 
 
 Privatansvarsforsikringen dækker kun, hvis man juridisk set er erstatningsansvarlig for den indtrufne skade. Forsikringen dækker således normalt ikke, hvis man ønsker at betale erstatning ud fra et “rimelighedssynspunkt” eller ud fra ens moralske opfattelse.
-
+<br>
 Efter dansk ret er man juridisk set ansvarlig for en skade, hvis man har udvist en uforsvarlig adfærd (handling eller undladelse), hvis adfærden kan tilregnes en som forsætlig eller uagtsom, og hvis den skade, som man har forvoldt, må anses for at være en forventelig (påregnelig) følge af ens adfærd. Denne såkaldte culparegel står ikke skrevet i nogen lov, men er udviklet gennem en langvarig retspraksis.
-
-Hændelige skader er man ikke ansvarlig for, se f.eks. her fra retspraksis følgende domme:
+<br>
+Hændelige skader er man ikke ansvarlig for, se f.eks. her fra retspraksis følgende afsagte domme:
 
 
 ---
@@ -3639,8 +3759,55 @@ Sælgers misligholdelsesbeføjelser
 Fordringshavermora: Købers forhold bevirker at sælger ikke kan levere varen til tiden
 
 * Betragtes ikke som misligholdelse i købelovens forstand
-* Risikoen for salgsgenstanden overgår til køber selvom købers forhold bevirker at sælger ikke kan levere
-* Sælger har omsorgspligt, og under visse betingelser salgspligt og ret til at sælge købers varer til anden side
+* Risikoen for salgsgenstanden overgår til køber selvom købers forhold     
+  bevirker at sælger ikke kan levere
+* Sælger har omsorgspligt, og under visse betingelser salgspligt og ret til 
+  at sælge købers varer til anden side
+  <br>
+  
+### Eksamensopgave og løsning om forbrugerkøb, kreditsikring og inkasso
+
+<br>
+Børge Brugtvognsforhandler 
+
+<br>
+
+Børge Johansen har i mange år haft skiftende jobs. Han har svært ved at fastholde sine jobs, da han bedst kan lide selv at bestemme arbejdstempo mv. Han interesserer sig meget for biler og er ret god til at reparere biler, da en del jobs har været på bilværksteder. 
+<br>
+En af hans venner, Kasper har en 5 år gammel bil og Børge tilbyder at sælge den for ham. Børge sætter straks bilen til salg og får den solgt til den aftalte pris i løbet af 3 dage.
+<br>
+Nu har Børge fundet sit nye job. Han vil til at sælge brugte biler. Han vil købe dem hos private, shine dem op og sælge dem videre. Børge lejer sig ind på et værksted i et industrikvarter. Han får hurtigt gang i salget, da han sælger bilerne til rimeligt lave priser. 
+<br>
+Børge har bl.a. solgt en 10 år gammel bil til Merete for 15.000 kr. Hun har haft bilen i 5 dage, da den går i stykker, og nu vil Merete have sine penge tilbage. Børge afviser hende med den begrundelse, at der ikke er nogen reklamationsret da det er en ældre bil og da den er solgt som den er og forefindes og at Merete i øvrigt tog en prøvetur i bilen inden hun købte den. Da Merete fastholder sit krav tilbyder Børge, at han vil reparerer bilen, men så må hun også selv betale de nødvendige reservedele – hun skal nok få dem til indkøbspris.
+<br> 
+
+Kaj har også købt en bil hos Børge - for 180.000 kr. Børge har ændret lidt i bilens papirer og det viser sig senere, at den er 2 år ældre end der står i papirerne. Børge lover at tage bilen tilbage, og så skal Kaj få sine penge tilbage. Men Børge kan ikke betale, da han har brugt alle sine penge på bil opkøb. 
+<br>
+
+Derudover har banken sendt et brev om, at der er overtræk på kassekreditten og at de ønsker sikkerhed for deres tilgodehavende. 
+<br>
+
+1.	Redegør for hvilke rettigheder – om nogen - Merete har?  
+2.	Redegør for hvad Kaj kan gøre for at få sine penge?
+<br>
+Vejledende løsning
+<br>
+1.	Redegør for hvilke rettigheder – om nogen - Merete har?  Hun har  
+    sædvanlige 2 års reklamationsret, jf. købelovens § 83, stk. 1, uanset 
+    brugt vare. Årsagen til problemet er afgørende, for bilen er jo 10 år 
+    gammel, så ingen forventning af ”ny-kvalitets-bil”, men reparation er OK,     med mindre uforholdsmæssig dyr for Børge. Børge må dokumentere.
+2.	Redegør for hvad Kaj kan gøre for at få sine penge? Vanhjemmelskrav, så 
+    hævebegrundende mangel, jf. købelovens § 78, stk. 1, nr. 4. Kaj er bare 
+    en simpel kreditor, men kan tilbageholde bilen indtil købesummen 
+    tilbagebetalt (KBL § 57 og §55). Sagen kan indbringes for 
+    Ankenævnet for biler, og evt. pant/sikkerhedsstillelse i varelageret. 
+
+3.	Redegør for hvad kan banken gøre for at sikre kassekreditten – få 
+    virksomhedspant og evt. transport salgspriser på bilerne.  
+
+<br>
+  
+  
 
 ## Quiz
 
@@ -7379,12 +7546,13 @@ Med henvisning til almindelige køberetlige betragtninger, er varen imidlertid m
 Da læringsmålene i relation til spørgsmålet i relation til købeloven er begrænset til en generel viden om principperne bag misligholdelsesbeføjelserne i relation til mangler, kan der ikke kræves udtømmende svar med paragrafhenvisninger. Besvareler der afspejler en generel forståelse for de bagved liggende hensyn og principper skal belønnes.
 <br>
 Svar slut.
-<br>
+
 ---
+
 Det lykkedes ikke for Peter at blive enig med TEMAFESTEN inden Fie skulle holde fødselsdag. Da dagen nærmer sig, har han sendt monsterpakken retur til TEMAFESTEN, og han har ikke noget prinsesseudstyr. 
-<br>
+
 Han går i stedet i en hobbyforretning og køber papir, glimmer, palletter, lim mv. og laver selv udstyr til en super flot prinsessefødselsdag – fødselsdagen bliver et kæmpe hit – men materialerne koster 2.300 kr. 
-<br>
+
 Eksamensspørgsmålet:
 <br>
 2. Kan Peter få refunderet hele eller dele af udgifterne til materialerne til prinsessefesten af TEMAFESTEN? (5%)
@@ -10144,7 +10312,7 @@ mydf %>%
 
  
 
-## Eksamensopgavesæt i pant i fast ejendom og løsøre, samt erstatning, kaution, ertatningsbetingelserne og huseftersynsordningen, mv.
+## Eksamensopgavesæt og løsning om pant i fast ejendom og løsøre, samt erstatning, kaution, ertatningsbetingelserne og huseftersynsordningen, mv.
 
 <br>
 
@@ -13674,6 +13842,45 @@ For det andet bevirker særejebestemmelsen, at reglerne om pensionkompensation i
 <br>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/u3qv7qhAn14" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<br>
+
+### Eksamensopgave om bodeling med løsning
+<br>
+
+Bo og Jette er glade for hinanden og for deres ægteskab, men alle de økonomiske drøftelser har alligevel givet Bo anledning til at overveje, hvorledes deres økonomiske situation ville være, hvis de blev skilt. De har fælleseje i ægteskabet.
+<br>
+Foruden Jettes tøjbutik med tilhørende gæld har de en lejlighed med en friværdi på 500.000 kr. og almindeligt indbo for 600.000 kr. Lejligheden havde Bo købt og finansieret inden de blev gift. Jette har en guldkæde til en værdi af 10.000 kr. Kæden fik hun for nogle år siden i gave af sin bedstemor kort tid inden hendes død. Desuden har Jette for nylig vundet et rejsegavekort på 50.000 kr. Jette har ingen pensionsopsparing. Bo har heller ikke nogen pensionsordning i sit job, men han har til gengæld sparet 170.000 kr. op på sin private ratepension. Desuden har de en leaset Mercedes, hvor de hver måned betaler 2.900 kr. i leasingafgift. 
+<br>
+Spørgsmål: Lav en bodelingsopgørelse for Bo og Jette, hvis de skulle skilles nu og læg til grund, at Jette har købt tøjbutikken for 350.000 kr. og forsat den som personlig virksomhed med en tilhørende gæld på 400.000 kr. 
+<br>
+Løsning på eksamensopgaven
+
+<br>
+Bilen tilhører leasingselskabet og indgår ikke i bodelingen. Bo's pensionsopsparing er ikke en arbejdsmarkedspension, men en privat pensionsopspring. Pensionen er sparet op over nogle år og er af rimelig størrelse og skal ikke indgå i bodelingen, jf. ægtefælleloven § 34 stk.1. Jettes smykker er til hendes personlige brug og står ikke i misforhold til hendes økonomi og skal derfor heller ikke indgå i bodelingen, jf. ægtefællelovens § 31. Øvrige aktiver og passiver fordeles således jf. Ægteskabslovens § 5.
+<br>
+Jette			                 Bo	
+<br>
+AKTIVER	
+<br>
+Tøjbutik	350.000		      Lejlighed	500.000
+<br>
+½ indbo	300.000		        ½ indbo	  300.000
+<br>
+Gavekort	50.000
+<br>
+Aktiver i alt	700.000		  Aktiver i alt	800.000
+<br>
+PASSIVER				        
+<br>
+                          0
+Bankgæld 	400.000			
+<br>
+Bodel	300.000		          Bodel	800.000
+<br>
+Deling		150.000/400.000		
+<br>
+Boslod	550.000 kr.	 	    Boslod	550.000 kr.
+
 <br>
 
 ## Forhåndsaftaler om formuedelingen  
