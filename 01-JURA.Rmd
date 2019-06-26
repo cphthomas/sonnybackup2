@@ -1807,6 +1807,7 @@ Lader han som ingenting, risikerer han at være bundet	og skal opfylde aftalen.
 <br>
 
 ##### Video: Om uoverensstemmende accept
+
 <br>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/xGnZFVV1H74" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -1814,9 +1815,9 @@ Lader han som ingenting, risikerer han at være bundet	og skal opfylde aftalen.
 
 
 
-<br>
+
 ##### Tilbagekaldelse af tilbud/accept
-<br>
+
 
 **Aftalelovens § 7**
 
@@ -2257,16 +2258,18 @@ I urimelighedsvurderingen indgår:
 *	Senere indtrufne omstændigheder
 
 <br>
+
 #### Video: Forudsætningslæren
+
 <br>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/VliOntGAvUU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 <br>
 
 
-<br>
+
 #### Bristende forudsætninger
-<br>
+
 
 *	Et løfte kan afgives på baggrund af nogle forudsætninger, som ikke nødvendigvis er diskuteret eller udtrykt klart mellem parterne i en aftale.
 
@@ -2323,7 +2326,7 @@ Fremsendelse sammen med faktura anses ikke for vedtaget
 
 
 ### Aftalens omfang og fortolkning
-<br>
+
 
 **Fortolkningsprincipper:** Ved tvivl om indholdet af en aftale.  
 
@@ -2341,7 +2344,7 @@ Fremsendelse sammen med faktura anses ikke for vedtaget
 
 
 #### Video: Om fortolkning af aftaler
-<br>
+
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/DdFmNJpY3dE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 <br>
@@ -2420,7 +2423,7 @@ kable(collapse_rows_dt, align = "l",caption = "Regler og tolkning") %>%
 
 
 ## Fuldmagtsforhold og aftaleindgåelse 
-<br>
+
 
 <script async src="https://widget.spreaker.com/widgets.js"></script>
 
@@ -2474,7 +2477,7 @@ Adfærdsfuldmagt foreligger også, når hovedmanden i et tidsrum har tolereret, 
 En aftale kan i nogle tilfælde rammes af ugyldighed, hvis der er handlet i strid med en fuldmagt.
 
 ### Sondringen mellem bemyndigelse og legitimation
-<br>
+
 
 Aftaleloven sondrer mellem på den ene side **»legitimation«** og på den anden side **»beføjelse«**. 
 
@@ -2523,6 +2526,7 @@ Der findes to fuldmagtsformer
     aftalelovens § 16, stk. 1
 
 ### Fuldmagt uden særlig tilværelse
+
 <br>
 
 * Kaldes også **§ 18-fuldmagt**
@@ -2539,12 +2543,13 @@ Der findes to fuldmagtsformer
 > *”Indtager nogen ifølge aftale med en anden en stilling, som efter lov eller sædvane medfører beføjelse for ham til indenfor visse grænser at handle på den andens vegne, anses han befuldmægtiget til at foretage retshandler, som falder indenfor disse grænser”.* 
 
 <br>
-
+<br>
 <img src="img/fuldmagt2.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<br>
 <br>
 
 #### Video om stillingsfuldmagten, jf. aftalelovens § 10, stk. 2
-<br>
+
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/Zrg3TkUcot0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 <br>
@@ -2640,7 +2645,7 @@ Erstatning: Hvis fuldmagtsgiver lider et dokumenteret økonomisk tab, fordi fuld
  
 
 #### Offentlig bekendtgjort fuldmagt, jf. aftalelovens § 14:
-<br>
+
 
 Bestemmelsen har følgende ordlyd:
 
@@ -2704,7 +2709,7 @@ En tinglyst fuldmagt tilbagekaldes efter lovreglen i aftalelovens § 16.
 
 
 #### Video: Aftalelovens § 19 tilbagekaldelse af fuldmagt
-<br>
+
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/JKyH0smEY9I" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 <br>
@@ -2712,7 +2717,7 @@ En tinglyst fuldmagt tilbagekaldes efter lovreglen i aftalelovens § 16.
 
 
 ## Aftalelovens § 25 – erstatning til tredjemand:
-<br>
+
 
 Bestemmeæsen har følgende ordlyd:
 
@@ -2777,17 +2782,17 @@ Tredjemand er ikke henvist til at nøjes med en erstatning for det tab, han har 
 Hvis den opgivne fuldmagtgiver er kommet under konkurs, følger det af det anførte, at tredjemand kun kan kræve det beløb, som han, hvis fuldmagten havde været i orden, ville have erholdt af konkursboet.
 
 ## Video om fuldmagtens grænser
-<br>
+
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/08Bm3t_CR9s" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 <br>
 
 ## Eksamensopgave og løsning om fuldmagt/mellemmandsaftaler og ansættelsesret
-<br>
+
 
 ***Eksamensopgave - Fix og Hjem***  
-<br>
+
 
 
 Kim er ansat i firmaet Fix og Hjem i Odense. Han blev ansat som salgsassistent den 1. januar 2013. 
@@ -2885,7 +2890,7 @@ Indledningsvis skal du som studerende være særlig opmærksom på følgende pro
 
 
 ## Introduktion til forbrugeraftaleloven
-<br>
+
 Forbrugeraftalelovens (FBL) formål:.^[Følgende afsnit om forbrugeraftaler bygger på Sonny Kristoffersen: ”Kend forbrugerkøbsreglerne”, 2018, Samfundslitteratur.]
 
 * Beskyttelsespræceptiv – loven kan ikke fraviges til skade for forbrugeren, FBL § 33, men forbrugeren kan godt stilles bedre end, hvad lovgivningen tilsiger.
@@ -2917,6 +2922,7 @@ tilsyn med at FBL overholdes – se www.forbrug.dk
  
 
 ## Forbud mod uanmodet henvendelse
+
 <img src="img/sale1.jpg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 <br>
 Hovedregel: Forbud mod uanmodet telefonisk eller direkte personlig henvendelse til forbrugere på deres bopæl, arbejdsplads, skoler, gymnasier, universiteter eller andre steder, hvor der ikke er almindelig adgang, fx også foreninger, hvis henvendelsen fra virksomheden har til formål at opnå en aftale med forbrugeren, jf. FBL § 4, stk. 1.
