@@ -187,7 +187,7 @@ I 1999 fastslog Højesteret, jf. U 1999.841 H, at den såkaldte Tvindlov var i s
 <br>
 
 ## Folketinget som den lovgivende magt
->br>
+
 
 Folketinget er Danmarks parlament. Her vedtages al lovgivning i Danmark. Folketingets grundlæggende opgaver og nogle af arbejdsformerne er beskrevet i grundloven.  Andre metoder er praksisser, der har udviklet sig gennem de snart 170 år, Folketinget har eksisteret.
 
@@ -288,10 +288,10 @@ Arbejdet i Folketinget foregår både i Folketingssalen og i Folketingets udvalg
 
 ## Regeringen den udøvende magt
 
-<br>
+
 Statsministeren er regeringens chef og den der bestemmer, hvem der skal være minister i regeringen. Regeringen laver landets love, mens Folketinget vedtager dem. Ministrene er som regel også medlemmer af Folketinget, men det er ikke et krav. 
 
-<br>
+
 
 ### Sådan dannes en regering
 
@@ -304,7 +304,7 @@ Statsministeren er regeringens chef og den der bestemmer, hvem der skal være mi
 <br>
 
 ### Statsministeren vælges og nedsætter sin regering
-<br>
+
 
 Folketingsvalg skal afholdes mindst én gang hvert 4. år. Det står i grundloven. Statsministeren kan dog til enhver tid udskrive folketingsvalg, så der kan sagtens gå mindre end 4 år mellem hvert valg.
 
@@ -314,7 +314,7 @@ Når valget er slut og mandaterne fordelt, er det nye Folketing fundet. Så skal
 <br>
 
 ### Negativ parlamentarisme
-<br>
+
 
 Den siddende statsminister fortsætter, hvis der ikke er et flertal imod ham eller hende - dvs. 90 eller flere ud af de 179 folketingsmedlemmer. Det kaldes negativ parlamentarisme.
 
@@ -369,7 +369,7 @@ Den formelle baggrund for lovkataloget er, at der i grundlovens § 38 står besk
 ### Statsministeren
 <br>
 
-![](img/lokke.png)
+![](img/statsministeren.jpg)
 Statsministen er regeringens chef. Det er statsministeren, der bestemmer, hvem der skal være ministre, og hvilke ministerier der skal være.
 <br>
 
@@ -392,7 +392,7 @@ Statsministeren fører tilsyn med sine ministre og fordeler opgaver og fagområd
 ### Ministrene
 <br>
 
-![](img/folketinget7.png)
+![](img/ministrene.jpg)
 
 Regeringen, og dermed ministrene, har den udøvende magt i Danmark. Det vil sige, at ministrene har det overordnende ansvar for, at de love, som Folketinget vedtager, føres ud i livet. Ministrene har meget magt og ansvar, og en af deres vigtigste opgaver er at foreslå ny lovgivning.
 
@@ -1353,10 +1353,12 @@ I samme dom præciserede Domstolen, at en medlemsstat - selv i det tilfælde, hv
 
 
 # Aftaleret
-<br>
 
-## Video: Introduktion til aftaleretten
-<br>
+
+## Introduktion til aftaleretten
+
+**Video introduktion til aftaleretten**
+
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/QdPllNiV5Ck" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -1400,7 +1402,8 @@ Aftalelovens principper har betydning på hele aftaleområdet,^[Følgene bygger 
 * Forsikringsaftaleloven, kreditaftaleloven, forbrugeraftaleloven, AB 18, købeloven, E-handelsloven m.fl.
 <br>
 *	Aftaleindgåelse - aftalelovens §§ 2-9
-  + Deklaratorisk, dvs. parterne kan aftale anden fremgangsmåde ved aftaleindgåelse, end den der er beskrevet i aftaleloven.
+  + Deklaratorisk, dvs. parterne kan aftale anden fremgangsmåde ved  
+  aftaleindgåelse, end den der er beskrevet i aftaleloven.
 
 <br>
 
@@ -1439,7 +1442,7 @@ fx
       +	Forbrugeraftalelovens regler om 
       fortrydelsesret
       
-*	**U2:** Urimelige aftaler, aftalelovens §§ 38c,       jf. 36
+*	**U2:** Urimelige aftaler, aftalelovens §§ 38c, jf. 36
 
 *	**U3:** Lov og ærbarhed Danske Lov fra 1683
 
@@ -1451,7 +1454,7 @@ fx
 
 
 ### Hvad er en aftale?
-<br>
+
 
 Ordet **”aftale”**: En aftale - jf. aftalelovens titel - består af viljeserklæringer, som to eller flere personer afgiver indbyrdes, og hvoraf mindst én erklæring er et løfte, som har karakter tilbud. 
 
@@ -1542,7 +1545,6 @@ edges <- data.frame(from = c(1),
 ```
 
 ### Eksemplar på juridiske aftaler mellem parter 
-<br>
 
 
 ##### Ejendomsmægleren tager initiativ til en formidlingsaftale om salg af et hus:  
@@ -1591,7 +1593,7 @@ Det øjeblik modtageren er blevet bekendt med indholdet af tilbud eller accept, 
 
 
 ## Aftalemodellen
-<br>
+
 
 
 
@@ -1616,7 +1618,7 @@ Det øjeblik modtageren er blevet bekendt med indholdet af tilbud eller accept, 
 Resultat: Der er indgået en juridisk bindende aftale
 
 ### Video om aftalemodellen
-<br>
+
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/DvV2yhetl8M" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 <br>
@@ -1625,7 +1627,7 @@ Resultat: Der er indgået en juridisk bindende aftale
 
 
 ### Video om aftalers indgåelse
-<br>
+
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/WbgTUpCLz00" width="853" height="480" frameborder="0"allowfullscreen="allowfullscreen"></iframe></div>
@@ -1679,31 +1681,27 @@ edges <- data.frame(from = c(1),
 ```
 
 ### Tilbud eller opfordring til tilbud
-<br>
+
 
 **HR:** Tilbud er bindende for afgiveren, jf. aftalelovens § 1:
 
-*	Tilbuddet bliver bindende for tilbudsgiver, når   tilbudsmodtager får kendskab til tilbuddets      indhold.
+*	Tilbuddet bliver bindende for tilbudsgiver, når   tilbudsmodtager får kendskab til tilbuddets indhold.
 
-    +	Tilbud er bindende i butikker og   
-    butiksvinduer, medmindre køber burde indse,      at der var tale om en fejl
+    +	Tilbud er bindende i butikker og butiksvinduer, medmindre køber 
+    burde indse, at der var tale om en fejl
     
-    +	Tilbud er bindende i web-butikker, når  
-    sælger selv har råderet over websitet
+    +	Tilbud er bindende i web-butikker, når sælger selv har råderet over     websitet
 
 Undtagelser: **Opfordring til tilbud**, jf. aftalelovens § 9:
 
-*	Nogle typer tilbud er ikke bindende for sælger, 
-  fx:
+*	Nogle typer tilbud er ikke bindende for sælger, fx:
   
-    + Slagtilbud og ”så længe lager haves”,  
-    tilbud og priser i aviser og kataloger, på 
-    plakater, annoncer, TV- og radioreklamer,  
-    priser og tilbud på internettet, når sælger 
-    ikke selv har råderet over websitet
+    + Slagtilbud og ”så længe lager haves”, tilbud og priser i aviser og 
+    kataloger, på plakater, annoncer, TV- og radioreklamer, priser og 
+    tilbud på internettet, når sælger ikke selv har råderet over websitet
 
 #### Video: Tilbud contra opfordring
-<br>
+
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/j36H6TAo7Us" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 <br>
@@ -1713,7 +1711,7 @@ Undtagelser: **Opfordring til tilbud**, jf. aftalelovens § 9:
  
 #### Afslag på tilbud
 
-<br>
+
 *	Hvis tilbudsmodtager forholder sig passiv, bortfalder tilbuddet når acceptfristen er udløbet, og sælger kan frit sælge til anden side.
 
 *	Hvis tilbudsmodtager afslår tilbuddet, er det bortfaldet, selvom acceptfristen ikke er udløbet, jf. aftalelovens § 5. Sælger kan frit sælge til anden side.  
@@ -1726,7 +1724,7 @@ Situation: Tilbagekaldelse af afslag. Tilbudsmodtager (potentiel køber) sender 
 <br>
 
 #### Video: Afslag
-<br>
+
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/Noq0xWiKryg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 <br>
@@ -1736,7 +1734,7 @@ Situation: Tilbagekaldelse af afslag. Tilbudsmodtager (potentiel køber) sender 
 <br>
 
 #### Accept
-<br>
+
 
 Acceptfrist er fastsat i tilbuddet
 
@@ -1748,7 +1746,7 @@ Acceptfrist er fastsat i tilbuddet
 
 
 ##### Accept – den legale acceptfrist
-<br>
+
 
 Ingen acceptfrist i tilbud
 
@@ -1761,16 +1759,16 @@ Ingen acceptfrist i tilbud
 
 Betænkningstid er:
 
-    +	Kort, hvis prisen på salgsproduktet svinger     meget
+    +	Kort, hvis prisen på salgsproduktet svinger meget
     
-    +	Kort, hvis der er tale om letfordærvelige      varer
+    +	Kort, hvis der er tale om letfordærvelige varer
     
-    +	Længere, hvis der er tale om komplekse og      større tilbud
+    +	Længere, hvis der er tale om komplekse og større tilbud
     
 *	Mundtlige tilbud der gives uden acceptfrist, skal accepteres straks, ellers er det bortfaldet, jf. aftalelovens § 3, stk. 2.
 
 ##### Accept - forsinket
-<br>
+
 
 Accepten kommer for sent frem – fristen er sprunget - Aftalelovens § 4:
 
@@ -1786,7 +1784,7 @@ Lader han som ingenting, risikerer han at være bundet	og skal opfylde aftalen.
 
 ##### Video: Tilbagekaldelse efter aftalelovens § 40
 
-<br>
+
 <div class="video-container"><iframe src="https://www.youtube.com/embed/w5HtkYrMXDg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 <br>
 
@@ -1795,20 +1793,20 @@ Lader han som ingenting, risikerer han at være bundet	og skal opfylde aftalen.
 <br>
 
 ##### Video: For sen accept
-<br>
+
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/xoiUi_ShUJc" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 <br>
 
 ##### Video: Rettidig accept
-<br>
+
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/dJmhJTwJzhg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 <br>
 
 ##### Video: Om uoverensstemmende accept
 
-<br>
+
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/xGnZFVV1H74" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 <br>
@@ -1842,7 +1840,7 @@ Re integra-reglen kan ikke påberåbes bare fordi man har fortrudt. Der skal så
 <br>
 
 ##### Video: Om tilbagekaldelse
-<br>
+
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/Pf2unCK7tME" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 <br>
@@ -1853,7 +1851,7 @@ Re integra-reglen kan ikke påberåbes bare fordi man har fortrudt. Der skal så
 
  
 #### Uoverensstemmende accept
-<br>
+
 
 Accepten skal være i overensstemmelse med tilbuddet – spejlbillede, jf. aftalelovens § 6:
 
@@ -1867,7 +1865,7 @@ Accepten skal være i overensstemmelse med tilbuddet – spejlbillede, jf. aftal
 <br>
 
 #### Aftaleindgåelse på internettet
-<br>
+
 
 <img src="img/aftaleindgåelse på nettet.png" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
@@ -1887,17 +1885,17 @@ Accepten skal være i overensstemmelse med tilbuddet – spejlbillede, jf. aftal
 <br>
 
 ##### Video om køb på nettet
-<br>
+
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/l1rc2FBSjss" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-<br>
 
 
-<br>
+
+
 
 ##### Video: Hvad er e-mærket?
 
-<br>
+
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/SGvg5W3JRzQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 <br>
@@ -1984,7 +1982,7 @@ row_spec(5:9, bold = T, color = "white", background = "darkgrey")
 <br>
 
 ### De stærke ugyldighedsgrunde
-<br>
+
 De stærke ugyldighedsgrunde omfatter følgende grunde:
 
 *	**Falsk**
@@ -2001,7 +1999,7 @@ De stærke ugyldighedsgrunde omfatter følgende grunde:
 
 
 #### De svage ugyldighedsgrunde
-<br>
+
 
 De svage ugyldighedsgrunde omfatter følgende grunde:
 
@@ -2035,18 +2033,13 @@ Gør han ikke det, er han bundet af indholdet i den fejlagtige aftale.
 
 *	Voldelig tvang, aftalelovens § 28, stk. 1:
 
-    +	Aftalen ugyldig hvis løftet fra løftegiver 
-    er fremkaldt ved vold eller trussel om 
-    øjeblikkelig anvendelse af vold, fx holder en     pistol for panden af løftegiver.
+    +	Aftalen ugyldig hvis løftet fra løftegiver er fremkaldt ved vold 
+    eller trussel om  øjeblikkelig anvendelse af vold, fx holder en  
+    pistol for panden af løftegiver.
     
-    +	Hvis det er tredjemand, som truer for at  
-    fremprovokere et løfte, og løftegiver ikke  
-    vil være bundet af løftet/aftalen, skal han 
-    uden ugrundet ophold give løftemodtager 
-    besked om, at han er blevet truet til at 
-    afgive løftet. Gør løftegiver ikke det, 
-    bliver han bundet af sit løfte og aftalen er 
-    bindende, jf. aftalelovens § 28, stk. 2.
+    +	Hvis det er tredjemand, som truer for at fremprovokere et løfte, og     løftegiver ikke vil være bundet af løftet/aftalen, skal han uden   
+    ugrundet ophold give løftemodtager besked om, at han er blevet truet     til at afgive løftet. Gør løftegiver ikke det, bliver han bundet af  
+    sit løfte og aftalen er bindende, jf. aftalelovens § 28, stk. 2.
 
 
 
@@ -2089,15 +2082,16 @@ Situation: Aftale med mindreårig indgås i god tro, men aftalen rammes af ugyld
 
 **Værgemål og fornuftsmangel**
 
-*	Personer over 18 år kan komme under værgemål/umyndiggøres, fx pga. svær demens, sindssygdom, psykisk handicap mv.
+*	Personer over 18 år kan komme under værgemål/umyndiggøres, fx pga. svær   demens, sindssygdom, psykisk handicap mv.
 
-*	Ude af stand til at varetage deres økonomiske anliggender, og hvor der er en risiko for forringelse eller økonomisk udnyttelse.
+*	Ude af stand til at varetage deres økonomiske anliggender, og hvor der   er en risiko for forringelse eller økonomisk udnyttelse.
 
-*	Loven taler om ”Manglende evne til at handle fornuftsmæssigt”
+*	Loven taler om *”Manglende evne til at handle fornuftsmæssigt”*
 
 *	Der beskikkes en værge, som får ansvaret for økonomien.
 
-*	Aftaler indgået med voksne under værgemål er ugyldige, jf. værgemålslovens § 46, uanset om løftemodtager var i god tro.
+*	Aftaler indgået med voksne under værgemål er ugyldige, jf.   
+  værgemålslovens § 46, uanset om løftemodtager var i god tro.
 
 
 
@@ -5681,7 +5675,12 @@ Det fremgår af »Aktuel Orientering«, at politiet skal tage særligt hensyn ti
 Udgangspunktet efter retsplejeloven er, at der er vidnepligt. Imidlertid fremgår det af »Aktuel Orientering«, at den medarbejder, der har fået mistanke, kun indkaldes som vidne i en straffesag mod kunden, såfremt den overordnede medarbejder i den finansielle virksomhed ikke kan besvare spørgsmålene i sagen.
 
 ## Kontantforbud
+
 Loven viderefører det tidligere gældende kontantforbud. Således er det forbudt for »erhvervsdrivende«, der ikke er omfattet af hvidvaskloven, jf. dennes § 1, at modtage kontantbetalinger på 50.000 kr. eller derudover, hvad enten betalingen sker på én gang eller som flere betalinger, der ser ud til at være indbyrdes forbundet.
+
+Se Højesteretsdom i U.2019.2445 H:
+
+**"Hvidvasklovens kontantforbud overtrådt i forbindelse med kontantsalg af brugte biler. T ApS solgte i perioden fra januar 2015 til marts 2016 mere end 500 brugte biler til udenlandske opkøbere mod kontant betaling. I langt de fleste tilfælde var prisen for den enkelte bil under 50.000 kr., men i 19 tilfælde var der sket salg af en enkelt bil til en enkelt kunde, som havde betalt mere end 50.000 kr. kontant for bilen. I ni yderligere tilfælde var der sket kontantsalg af en bil til en pris af mere end 50.000 kr., men i disse tilfælde havde T også solgt andre biler for mindre end 50.000 kr. til samme kunde. I de resterende tilfælde havde T ApS foretaget kontantsalg af flere biler til samme kunde den samme dag, hvor prisen for den enkelte bil var mindre end 50.000 kr., men hvor summen af de kontante beløb havde været større end 50.000 kr. T ApS blev i landsretten idømt en bøde på 190.000 kr. for de 19 tilfælde af salg af en enkelt bil for en kontant betaling af mere end 50.000 kr., men i øvrigt frifundet. Højesteret skulle alene tage stilling til de forhold, hvori T ApS var blevet frifundet. Højesteret fandt, at der også ved salget af de ni biler til en pris af mere end 50.000 kr., men som var solgt sammen med andre biler, var sket en overtrædelse af kontantforbuddet i hvidvaskloven, og idømte T ApS en bøde på 90.000 kr. for disse forhold, jf. hvidvasklovens § 78, stk. 4, jf. stk. 1, jf. § 5. På baggrund af landsrettens bevisbedømmelse, som Højesteret ikke kunne efterprøve, jf. retsplejelovens § 933, stk. 2, jf. § 912, stk. 1, nr. 4, modsætningsvis, lagde Højesteret til grund, at T ApS ikke i videre udstrækning end ved salget af de 28 biler havde modtaget kontant betaling af 50.000 kr. eller derover på én gang eller havde modtaget flere kontantbetalinger på under 50.000 kr., som var eller så ud til at være indbyrdes forbundet på en måde, som indebar overtrædelse af hvidvasklovens kontantforbud. Højesteret stadfæstede herefter landsrettens dom med den ændring, at bødestraffen til T ApS blev forhøjet med 90.000 kr. til 280.000 kr."**
 
 
 ## Falskmøntneri
@@ -5817,7 +5816,7 @@ aktieselskab.
 Viser det sig, at selskabet ikke kan betale, kan kravet så rettes mod selskabsdeltageren, der fx har kautioneret for selskabets kassekredit.
  
 ## Virksomhedsformer
-<br>
+
 
 Som studerende skal man være særlig opmærsom på følgende ved gennemgangen af virksomhedsformer:
 
@@ -5863,12 +5862,15 @@ Lovgivning: Lov om visse erhvervsdrivende virksomheder (Lovbekendtgørelse nr. 1
 * Selskabets navn (i overensstemmelse med LEV § 6)
 * Selskabets adresse, formål, hjemsted
 * Ejerforhold og arbejdsindsats
-* Loyalitetspligt, tavshedspligt, konkurrenceklausul, erhvervshemmeligheder osv.
+* Loyalitetspligt, tavshedspligt, konkurrenceklausul, 
+  erhvervshemmeligheder osv.
 * Ledelsesstruktur og beslutninger
 * Overskuds- og underskudsdeling
 * Kapitalkonti/økonomiske mellemværende med selskabet
-* Hæftelse – eksternt solidarisk, men hvad med internt? – pro-rata, regres, hæftelse ved indtræden/udtræden osv.
-* Overdragelse af ejerandel, salg af andel (internt eller til 3M), overtagelse af andel fra dødsbo
+* Hæftelse – eksternt solidarisk, men hvad med internt? – pro-rata, 
+  regres, hæftelse ved indtræden/udtræden osv.
+* Overdragelse af ejerandel, salg af andel (internt eller til 3M), 
+  overtagelse af andel fra dødsbo
 * Opsigelse af partnerskab, samarbejdsumulighed
 * Tvister og værneting
  
@@ -5896,6 +5898,7 @@ Om advokatselskaber og advokatholdingselskaber henvises til Bekendtgørelse nr. 
 
 
 ### Stiftelse af et kapitalselskab (Aps of A/S):
+
 * Erhvervsstyrelsen
 * Stiftelsesdokument, vedtægter, tegning af selskabskapital
 
@@ -5930,18 +5933,20 @@ Der gælder en lovbestemt reaktionspligt, hvis egenkapitalen i anpartsselskabet 
 • Tilsynsråd	&rightarrow; direktion
 
 ### Generalforsamlingen:
+
 • Et kapitalselskabs øverste myndighed. Kredsen af kapitalejerne  
   træffer beslutning om de overordnede forhold i kapitalselskabet, 
   herunder valg af medlemmer til bestyrelse/tilsynsråd i 
   kapitalselskabet.
  
 ### Tegningsret:
+
 • Hvilke personer kan handle og indgå aftaler på kapitalselskabets  
   vegne.
-• En tegningsudskrift eller et sammenskrevet resumé fra Erhvervs- og 
-  Selskabsstyrelsen.
+• En tegningsudskrift eller et sammenskrevet resumé fra Erhvervs- og   Selskabsstyrelsen.
 
 ### Ejeraftale:
+
 Regulerer det interne forhold mellem kapitalejerne (aktionær- overenskomst/anpartshaveroverenskomst)
 
 <h3>Indgåelse af en ejeraftale</h3>
@@ -5959,27 +5964,26 @@ Regulerer det interne forhold mellem kapitalejerne (aktionær- overenskomst/anpa
   nr. 30, udgøres af det indskud, som kapitalejernes hæftelse er 
   begrænset til i medfør af selskabslovens § 4, stk. 2.
   <br>
-* Garantikapital, hvad enten denne er indbetalt eller ej, er ikke en 
-  del af selskabskapitalen.
+* Garantikapital, hvad enten denne er indbetalt eller ej, er ikke en   del af selskabskapitalen.
   <br>
 * Ansvarlig lånekapital eller ansvarlig indskudskapital er ikke en 
   del af selskabskapitalen. Hverken garantikapital eller ansvarlig 
   lånekapital/indskudskapital skal anmeldes til registrering i 
-  Erhvervsstyrelsen, men kan oplyses i årsregnskabet i noterne som et   samlet tal angivende selskabskapitalen og optaget ansvarlig 
+  Erhvervsstyrelsen, men kan oplyses i årsregnskabet i noterne som 
+  et samlet tal angivende selskabskapitalen og optaget ansvarlig 
   lånekapital, hvilket så skal ske under en anden betegnelse som 
   f.eks. »samlet ansvarlig kapital«.
   <br>
 * Et lån, der er ydet til selskabet på vilkår, at det skal stå 
-  tilbage for alle eksisterende og eller kommende selskabskreditorer,   skal særskilt opregnes med noteoplysning herom i årsregnskabet, jf.   årsregnskabsloven § 93, stk. 3 (der gælder for virksomheder i 
-  regnskabsklasse C (mellemstore og store selskaber) og 
-  regnskabsklasse D (navnlige statslige og børnoterede 
-  aktieselskaber). En årsregnskabsoplysning om, at låntagerselskabet 
-  er rådig over et ansvarligt lån, er et løfte til almenheden om at 
+  tilbage for alle eksisterende og eller kommende 
+  selskabskreditorer, skal særskilt opregnes med noteoplysning herom   i årsregnskabet, jf. årsregnskabsloven § 93, stk. 3 (der gælder   
+  for virksomheder i regnskabsklasse C (mellemstore og store 
+  selskaber) og regnskabsklasse D (navnlige statslige og børnoterede   aktieselskaber). En årsregnskabsoplysning om, at låntagerselskabet   er rådig over et ansvarligt lån, er et løfte til almenheden om at 
   lånet indestår »indtil videre«.
   <br>
 
-## Eksamensopgavesæt i kreditorforfølgning, sikringsakter, grundlæggende selskabsret, hæftelsesformer, prioritetsstillinger, kredtisikring, selskabsformer og hæftelse, mv.
-<br>
+## Eksamensopgavesæt med løsning i kreditorforfølgning, sikringsakter, grundlæggende selskabsret, hæftelsesformer, prioritetsstillinger, kredtisikring, selskabsformer og hæftelse, mv.
+
 
 Justesens juristerier
 <br>
