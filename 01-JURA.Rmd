@@ -281,7 +281,7 @@ Folketingsmedlemmerne fra oppositionspartierne finder den parlamentariske kontro
 
 <br>
 
-![](img/folketinget4.png)
+![](img/udvalgsarbejde.jpg)
 
 Arbejdet i Folketinget foregår både i Folketingssalen og i Folketingets udvalg. Udvalgene arbejder med hvert deres fagområde og behandler både lovgivning og den brede kontrol med regeringens arbejde.  
 <br>
@@ -297,7 +297,7 @@ Statsministeren er regeringens chef og den der bestemmer, hvem der skal være mi
 
 <br>
 
-![](img/folketinget6.png)
+![](img/dronning.jpg)
 
 
 ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` giver dronningen magt til at udpege statsministeren og de øvrige ministre. Men i praksis er det et flertal i Folketinget, der er afgørende for, hvem der skal være statsminister. Statsministeren sætter så sit ministerhold og danner sin regering.
@@ -334,7 +334,7 @@ Når statsministeren har fundet sine ministre, udnævner dronningen formelt rege
 ### Sådan arbejder regeringen
 <br>
 
-![](img/folketinget5.png)
+![](img/talerstol.jpeg)
 
 Regeringens ministre leder via deres ministerier landet efter de love, Folketinget har vedtaget. Regeringen har stor indflydelse på de love, der vedtages i Folketinget, da det er regeringen, der kommer med langt de fleste forslag til nye love.
 <br>
