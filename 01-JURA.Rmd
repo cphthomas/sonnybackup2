@@ -3001,13 +3001,23 @@ Fortrydelsesfristen 14 dages beregning
 Fortrydelsesfristen beregnes fra forskellige tidspunkter, jf. FBL § 19, stk. 2 – aftale om køb af:
 
 * Tjenesteydelse – beregnes fra aftalens indgåelse
-* Flere varer der leveres enkeltvis – beregnes når den sidste vare er i forbrugerens fysiske besiddelse
-* Flere varer der leveres i partier – beregnes fra det sidste parti er i forbrugerens fysiske besiddelse
-* Varer der leveres regelmæssigt over en periode – beregnes fra den første vare er i forbrugerens besiddelse
-* Levering af vand, gas , elektricitet m.v. samt varer med digitalt indhold – beregnes fra aftalens indgåelse
-* Den dag, hvor forbrugeren har modtaget de oplysninger om fortrydelsesret mv., som det påhviler den erhvervsdrivende at give forbrugeren på papir eller andet varigt medium.
- 
 
+* Flere varer der leveres enkeltvis – beregnes når den sidste vare 
+  er i forbrugerens fysiske besiddelse
+
+* Flere varer der leveres i partier – beregnes fra det sidste parti 
+  er i forbrugerens fysiske besiddelse
+
+* Varer der leveres regelmæssigt over en periode – beregnes fra den 
+  første vare er i forbrugerens besiddelse
+
+* Levering af vand, gas , elektricitet m.v. samt varer med digitalt 
+  indhold – beregnes fra aftalens indgåelse
+
+* Den dag, hvor forbrugeren har modtaget de oplysninger om 
+  fortrydelsesret mv., som det påhviler den erhvervsdrivende at give   forbrugeren på papir eller andet varigt medium.
+ 
+>br>
 
 Forbrugeren har fortrydelsesret i:
 
@@ -3016,10 +3026,12 @@ Forbrugeren har fortrydelsesret i:
 
  
 ### Aftaler indgået uden for forretningssted
+
 <img src="img/homeparty.jpeg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Aftalen er indgået et andet sted end der hvor den erhvervsdrivende sælger har sit forretningssted, fx
 
-* Homeparties, salgsdemonstrationer under udflugter, udstilling/messe, marked.
+* Homeparties, salgsdemonstrationer under udflugter, 
+  udstilling/messe, marked.
  
 Den erhvervsdrivende har pligt til at give tydelig skriftlig oplysning om fortrydelsesretten og hvortil henvendelse kan ske. 
 
@@ -3032,117 +3044,160 @@ Fortrydelsesfristen begynder først at løbe, fra det tidspunkt forbrugeren modt
 
  
 ### Fjernsalg
+
 <img src="img/shopping.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-* Fjernsalg er en aftale om salg af varer eller salg af tjenesteydelser, eller aftale om løbende levering af varer eller tjenesteydelser.
-* Aftalen indgås på afstand ved fjernkommunikation,
-fx e-handel, aftale indgået pr. e-mail, telefonsalg, katalog- og postordresalg.
-* Den erhvervsdrivende og forbrugeren mødes ikke fysisk ved aftalens indgåelse. Forbrugeren har ikke haft mulighed for at afprøve eller undersøge salgsgenstanden.
-* Aftalen skal være indgået, som led i et system for
-fjernsalg, og den skal drives af den erhvervsdrivende, fx en aftale om køb, indgået via virksomhedens hjemmeside.
+
+* Fjernsalg er en aftale om salg af varer eller salg af 
+  tjenesteydelser, eller aftale om løbende levering af varer eller 
+  tjenesteydelser.
+  
+* Aftalen indgås på afstand ved fjernkommunikation, fx e-handel, 
+  aftale indgået pr. e-mail, telefonsalg, katalog- og 
+  postordresalg.
+  
+* Den erhvervsdrivende og forbrugeren mødes ikke fysisk ved aftalens   indgåelse. Forbrugeren har ikke haft mulighed for at afprøve eller   undersøge salgsgenstanden.
+
+* Aftalen skal være indgået, som led i et system for fjernsalg, og 
+  den skal drives af den erhvervsdrivende, fx en aftale om køb, 
+  indgået via virksomhedens hjemmeside.
  
 
 I rimelig tid inden aftalen indgås,	skal den erhvervsdrivende give forbrugeren oplysninger, fx om:
 
-* Den erhvervsdrivendes navn og forretningsadresse, tlf. numre-mailadresse m.v.
+* Den erhvervsdrivendes navn og forretningsadresse, tlf. 
+  numre-mailadresse m.v.
+  
 * Varens eller tjenesteydelsens vigtigste egenskaber.
-* Den samlede pris, inkl. gebyrer, moms og afgifter, øvrige ekstra-omkostninger, fx til levering, bestillingstakster, servicetakst.
-* Betalingsvilkår, leveringsvilkår, aftaleperiode, eventuel uopsigelighedsperiode og opsigelsesvilkår.
-* Oplysninger om der er fortrydelsesret og hvordan den kan udøves, herunder om forbrugeren skal betale for tilbagelevering af en vare
-Oplysningerne skal være klare og forståelige.
- 
 
+* Den samlede pris, inkl. gebyrer, moms og afgifter, øvrige 
+  ekstra-omkostninger, fx til levering, bestillingstakster, 
+  servicetakst.
+  
+* Betalingsvilkår, leveringsvilkår, aftaleperiode, eventuel 
+  uopsigelighedsperiode og opsigelsesvilkår.
+  
+* Oplysninger om der er fortrydelsesret og hvordan den kan udøves, 
+  herunder om forbrugeren skal betale for tilbagelevering af en vare
+  
+* Oplysningerne skal være klare og forståelige.
  
 * Oplysningerne skal meddeles på papir eller andet varigt medium.
-* Snarest muligt efter aftalens indgåelse, skal der gives oplysninger om:
+
+* Snarest muligt efter aftalens indgåelse, skal der gives 
+  oplysninger om:
+  
 * Fortrydelsesfristens begyndelsestidspunkt
+
 * Betingelserne for at fortryde
+
 * Fremgangsmåden ved forbrugerens brug af fortrydelsesretten og
+
 * Hvortil/til hvem fortrydelse kan meddeles
-Ved køb af varer som skal sendes til forbrugeren, skal oplysning om fortrydelsesfristen gives senest ved varen overgivelse.
-Hvis oplysning først kommer frem senere, løber fristen fra oplysningerne er modtaget.
+
+Ved køb af varer som skal sendes til forbrugeren, skal oplysning om fortrydelsesfristen gives senest ved varen overgivelse. Hvis oplysning først kommer frem senere, løber fristen fra oplysningerne er modtaget.
 
 Hvis der ikke modtages nogen oplysninger om fortrydelsesretten så udskydes fortrydelsesrettens begyndelsestidspunkt med 12 måneder
  
 
-Varer og ikke-finansielle tjenesteydelser: 
-Forsinkelse med levering
+***Varer og ikke-finansielle tjenesteydelser:***  
+
+**Forsinkelse med levering**
 
  
 * Hvis leveringstidspunkt ikke er aftalt: Varen/tjenesteydelsen skal leveres inden 30 dage fra bestillingen, jf. FBL § 27, stk. 1.
+
 * Forbrugeren kan hæve aftalen hvis forsinkelsen er væsentlig for forbrugerne og den erhvervsdrivende burde forudsætte dette.
-* Forbrugeren kan vælge at give en frist for levering, overholdes den ikke, kan aftalen hæves
+
+* Forbrugeren kan vælge at give en frist for levering, overholdes den ikke, kan aftalen hæves.
+
 * Hvis en aftale hæves skal hver part tilbagelevere hvad de hver især har modtaget.
+
 * Den erhvervsdrivende skal tilbagebetale penge til forbrugeren, senest 30 dage fra den erhvervsdrivende har modtaget besked om, at forbrugeren vil fortryde
 
  
 ### Varer - Udøvelse af fortrydelsesretten
  
-* Forbrugeren skal meddele sin fortrydelse ved en utvetydig erklæring evt. bruge standardfortrydelsesformular
+* Forbrugeren skal meddele sin fortrydelse ved en utvetydig 
+  erklæring evt. bruge standardfortrydelsesformular
+  
 * Meddelelse om fortrydelse skal være afsendt inden fristens udløb
+
 * Forbrugerne skal have sine penge tilbage
-* Forbrugeren skal sende varen tilbage senest 14 dage efter at den erhvervsdrivende har modtaget besked om fortrydelse
+
+* Forbrugeren skal sende varen tilbage senest 14 dage efter at den 
+  erhvervsdrivende har modtaget besked om fortrydelse
+  
 * Forbrugeren bærer risikoen for varen
-* Ved værdiforringelse (forskellen mellem ny-pris og gensalgspris) skal forbrugeren betale. Der kan fradrages i den købesum den erhvervsdrivende skal tilbagebetale til kunden
+
+* Ved værdiforringelse (forskellen mellem ny-pris og gensalgspris) 
+  skal forbrugeren betale. Der kan fradrages i den købesum den 
+  erhvervsdrivende skal tilbagebetale til kunden
 
  
 ### Retsvirkning ved fortrydelse
+
 Ved tilbagetræden fra aftalen inden fortrydelsesfristens udløb, bortfalder aftalen, og:
 
-<br>
- 
 * Hver part tilbageleverer ydelse/modydelse.
-* Hvis forbrugeren har betalt helt eller delvis, skal det modtagne tilbagebetales til forbrugeren.
-* Tilbagebetaling skal ske snarest muligt og
-senest 30 dage efter, at den erhvervsdrivende har modtaget forbrugerens meddelelse om ophævelse.
-* Den erhvervsdrivende kan vente indtil varen er returneret eller indtil forbrugeren har dokumenteret at varen er tilbagesendt
+
+* Hvis forbrugeren har betalt helt eller delvis, skal det modtagne 
+  tilbagebetales til forbrugeren.
+  
+* Tilbagebetaling skal ske snarest muligt og senest 30 dage efter, 
+  at den erhvervsdrivende har modtaget forbrugerens meddelelse om  
+  ophævelse.
+  
+* Den erhvervsdrivende kan vente indtil varen er returneret eller 
+  indtil forbrugeren har dokumenteret at varen er tilbagesendt
 
  
 
 ### Fjernsalg - Finansielle tjenesteydelser
 
 
-
-
-
 #### Oplysningspligt, FBL § 14
 Den erhvervsdrivende skal bl.a. give oplysninger om:
 
-* CVR-nummer, eller andet relevant identifikationsnummer
-* Klageadgang og fremgangsmåden ved klage, herunder oplysning om en fysisk adresse.
-* Fortrydelsesfristens begyndelsestidspunkt, varighed og betingelserne for og fremgangsmåden ved brug af fortrydelsesretten.
-* Eventuelle særlige risici ved tjenesteydelsen som følge af ydelsens særlige karakter.
+* CVR-nummer, eller andet relevant identifikationsnumme.r
+
+* Klageadgang og fremgangsmåden ved klage, herunder oplysning om en 
+  fysisk adresse.
+  
+* Fortrydelsesfristens begyndelsestidspunkt, varighed og 
+  betingelserne for og fremgangsmåden ved brug af 
+  fortrydelsesretten.
+  
+* Eventuelle særlige risici ved tjenesteydelsen som følge af 
+  ydelsens særlige karakter.
+  
 * En eventuel lovvalgs- eller værnetingsklausul i aftalen. 
-* Forbrugeren skal have oplysningerne på papir eller et andet varigt medie.
+
+* Forbrugeren skal have oplysningerne på papir eller et andet varigt   medie.
 
 En manglende overholdelse af pligten, kan straffes med bøde.
 
- 
 
- 
 #### Fortrydelse - Fjernsalg af finansielle tjenesteydelser
-Finansiel tjenesteydelse:
 
-* Enhver tjeneste, der har karakter af bank-, kredit, forsikrings-, individuel pensions-, investerings- eller betalingstjenesteydelse.
-Fortrydelsesfristen
-* 14 dage fra aftalens indgåelse, eller fra det tidspunkt forbrugeren har modtaget oplysning om fortrydelsesret.
+**Finansiel tjenesteydelse:**
+
+* Enhver tjeneste, der har karakter af bank-, kredit, forsikrings-, 
+  individuel pensions-, investerings- eller betalingstjenesteydelse.
+
+**Fortrydelsesfristen**
+
+* 14 dage fra aftalens indgåelse, eller fra det tidspunkt 
+  forbrugeren har modtaget oplysning om fortrydelsesret.
+
 <img src="img/pension.PNG"align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 * 30 dage ved aftaler om individuel pensionsordning, FBL § 19, stk. 1.
   
 
-
-
-
-
-
-
-
-
-Tilbagebetale  
+**Tilbagebetale**  
 
 * Den erhvervsdrivende skal tilbagebetale eventuelt modtagne beløb snarest mulig og inden 30 dage efter forbrugerens underretning om fortrydelse er kommet frem.
 
  
-
 
 #### Fjernsalg - Finansielle tjenesteydelser: Fremgangsmåde ved fortrydelse
 
@@ -3153,42 +3208,56 @@ Tilbagebetale
  
 
 ## Urimelige aftaler
-Urimelige aftaler kan tilsidesættes helt eller delvis 
+
+Urimelige aftaler kan tilsidesættes helt eller delvis. 
+
 Generelle betragtninger- vurdering:
 
-* Stridende mod hæderlig forretningsskik, jf. aftalelovens §§ 38c, stk 1, jf. 36.
+* Stridende mod hæderlig forretningsskik, jf. aftalelovens §§ 38c, 
+  stk 1, jf. 36.
+  
 * Redelig handlemåde.
+
 AFTL §§ 38a – 38 d – særligt kapitel om forbrugeraftaler:
 * Ved tvivl om indholdet af en forbrugeraftale, tolkes aftalen til fordel for forbrugeren (koncipistreglen).
-* Aftaler skal være udarbejdet på en klar og tydelig måde, jf. aftalelovens § 38b.
+
+* Aftaler skal være udarbejdet på en klar og tydelig måde, jf. 
+  aftalelovens § 38b.
+  
 * Aftalelovens § 36 – redelig handlemåde.
  
 
 
 
 ## Løbende tjenesteydelser/abonnementer
+
 En forbruger kan opsige en aftale om løbende levering af varer eller tjenesteydelser med 1 måneds varsel til udgangen af en måned, når der er gået 5 måneder efter aftalens indgåelse, jf. FBL § 28, stk. 1, fx abonnementslignende aftaler.
 
 Speak 4-8:
 
 ## Quiz
 
-##### Quiz: E-handel
+### Quiz: E-handel
+
 Kan du fortryde dit køb, når du handler på nettet? Hvad gælder for levering? Og hvad kan du gøre, hvis varen ikke dukker op? <a href="https://www.forbrug.dk/quiz/ehandelsquizzen/?rn=43716" target="_blank">Tag quizzen fra forbrug.dk, og få svar.</a>
 
 
-##### Quiz: E-handel og rejser
+### Quiz: E-handel og rejser
+
 Bestiller du rejser på nettet? Der gælder særlige regler ved handel på nettet, som du skal være opmærksom på. <a href="https://www.forbrug.dk/quiz/e-handel-og-rejser/?rn=43716" target="_blank">Få styr på reglerne med forbrug.dk's quiz.</a>
 
-##### Quiz: Elektronik
+### Quiz: Elektronik
+
 I forbrug.dk’s quiz kan du teste, hvad du har ret til, hvis dit elektroniske udstyr, fx dit kamera, din computer eller din mobiltelefon, går i stykker. <a href="https://www.forbrug.dk/quiz/elektronik/?rn=43716" target="_blank">Tag testen her.</a>
 
 
-##### Quiz: Forbrugerrettigheder
+### Quiz: Forbrugerrettigheder
+
 Har du styr på, hvad du har ret til som forbruger? Jo mere du ved, jo bedre er du klædt på, når du står i butikken eller handler på nettet. <a href="https://www.forbrug.dk/quiz/forbrugerquizzen/?rn=43716" target="_blank">Test din viden her.</a>
 
 
-##### Quiz: Kopivarer
+### Quiz: Kopivarer
+
 Har du styr på, om du må eje kopivarer i Danmark? Eller om du må tage dem med hjem fra et andet land? <a href="https://www.forbrug.dk/quiz/kopivarequizzen/?rn=43716" target="_blank">Prøv forbrug.dks quiz om kopivarer, og bliv klogere her.</a>
 
 
@@ -3197,7 +3266,7 @@ Har du styr på, om du må eje kopivarer i Danmark? Eller om du må tage dem med
 
 
 # Erstatningsreglerne og den forsikringsmæssige afdækning
-<br>
+
 
 Indledningsvis skal du som studerende være særlig opmærksom på følgende i forbindelse med gennemgangen af erstatningsretten:
 <br>
@@ -3208,10 +3277,11 @@ Indledningsvis skal du som studerende være særlig opmærksom på følgende i f
   <br>
 •	Principalansvar (arbejdsgiverens hæftelsesansvar i DL 3-19-2)
 <br>
-•	Ansvarets sammenhæng med forsikringsdækning, erstatningsansvarslovens (forkortet; EAL) §§ 19 – 23 <br>
+•	Ansvarets sammenhæng med forsikringsdækning, 
+  erstatningsansvarslovens (forkortet; EAL) §§ 19 – 23 <br>
 <br>
 
-#### Video om erstatningsretten
+## Video om erstatningsretten
 
 <br>
 
@@ -3223,7 +3293,11 @@ Indledningsvis skal du som studerende være særlig opmærksom på følgende i f
 
 ## Erstatningsansvar uden lovgivning
 
-Et ansvarsforsikringsselskab beskæfter sig indgående med erstatningsreglerne for at vurdere, om skadevolderen (fx. forsikringstageren) har pådraget sig et erstatningsansvar over for en skadelidt. Ofte findes der ingen lovgivning, som kan fortælle, hvornår man som privatperson er ansvarlig for en skade. I stedet er der ud af mange års domspraksis udledt en erstatningsregel, der kaldes “den almindelige erstatningsregel”. Denne regel fastslår, at man er ansvarlig for den økonomiske skade, som man har forvoldt ved uagtsomhed eller med vilje. Reglen hedder også culpa- eller skyldreglen ("culpa" betyder "skyld" på latin eller brøde, uagtsomhed, forseelse, synd). 
+Et ansvarsforsikringsselskab beskæfter sig indgående med erstatningsreglerne for at vurdere, om skadevolderen (fx. forsikringstageren) har pådraget sig et erstatningsansvar over for en skadelidt. 
+
+Ofte findes der ingen lovgivning, som kan fortælle, hvornår man som privatperson er ansvarlig for en skade. I stedet er der ud af mange års domspraksis udledt en erstatningsregel, der kaldes “den almindelige erstatningsregel”. 
+
+Denne regel fastslår, at man er ansvarlig for den økonomiske skade, som man har forvoldt ved uagtsomhed eller med vilje. Reglen hedder også culpa- eller skyldreglen ("culpa" betyder "skyld" på latin eller brøde, uagtsomhed, forseelse, synd). 
 <br>
 Culpa, er den grundlæggende betingelse for at pålægge erstatningsansvar uden for kontraktforhold. En skadevolder har udvist culpa, optrådt culpøst, overtrådt culpareglen, hvis han eller hun har handlet enten forsætligt, dvs. med vilje og viden om handlingens elementer, eller uagtsomt. Se f.eks. følgende domme:  
 
@@ -3232,17 +3306,22 @@ Culpa, er den grundlæggende betingelse for at pålægge erstatningsansvar uden 
 
 
 ---   
+<br>
 
-<img src="img/football.png" align="right" width="10%" height="10%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/foldbold.jpg" align="right" width="10%" height="10%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<br>
+
 *FED 2012.2: Landsretten fandt, at en tilskuer, der ved strafbar handling løb ind på fodboldbane og afbrød landskamp, var erstatningsansvarlig for DBU’s tab ved, at næste landskamp blev flyttet til en mindre  bane samt ved betaling af bøde til UEFA (1.869.269 kr. plus renter). Der forelå ikke egen skyld eller anledning til at reducere ansvaret efter EAL (erstatningsansvarsloven) § 24.*
 
 
 
 <img src="img/carbroken.png" align="right" width="15%" height="15%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 *FED 2006.78: Ansvarspådragende efter culpareglen, at en person, der kørte i en lånt bil, ikke sikrede sig, at der var olie og vand på bilen, uagtet temperaturlampen  lyste og uagtet, at han kort forinden med få dages mellemrum havde været nødsaget til at påfylde olie og vand. (Utrykt)*
 
 
 <img src="img/cig.jpg" align="left" width="12%" height="12%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 *U 2015.572 H (U: Ugeskrift for Retsvæsen): Tobaksselskaber ikke ansvarlige for varigt mén som følge af mangeårigt forbrug af cigaretter.*
 
 ---     
@@ -3271,6 +3350,8 @@ Man er kun erstatningsansvarlig for skader, der kan gøres op i penge (økonomis
 
 
 ![](img/bonuspaterfamilias.jpg)
+<br>
+
 Har skadevolderen derimod opført sig som en såkaldt bonus pater familias (latin; 'den gode familiefader'), har han eller hun ikke gjort noget forkert og er ikke ansvarlig for skaden. Man skal heller ikke erstatte noget. Det kaldes et hændeligt uheld. Åbner en hotelgæst eksempelvis døren til sit værelse indefra, i det øjeblik en tjener går forbi på gangen med en bakke med glas, og døren rammer bakken, så glassene falder på gulvet og knuses, er der tale om et hændeligt uheld. Uheldet kan ikke bebrejdes hotelgæsten, da han ikke havde mulighed for at undgå det. Han havde opført sig som “den gode hotelgæst” og ikke begået nogen fejl. Se afgørelserne fra retspraksis og Forsikringsankenævnet om spørgsmålet om hændelige skader:
 
 ---     
@@ -3310,7 +3391,10 @@ Har skadevolderen derimod opført sig som en såkaldt bonus pater familias (lati
 
 
 ## Handlet forkert eller undladt at handle
-Har skadevolder handlet forkert – dvs. er ansvarlig – er det vigtigt at finde ud af, om skaden er forvoldt ved en simpel uagtsomhed, grov uagtsomhed eller med forsæt (med vilje). Denne vurdering af handlingen eller undladelsen har bl.a. betydning for, om skadevolderens ansvarsforsikring skal betale for skaden hos skadelidte. Se her domsafgørelser fra retspraksis:  
+
+Har skadevolder handlet forkert – dvs. er ansvarlig – er det vigtigt at finde ud af, om skaden er forvoldt ved en simpel uagtsomhed, grov uagtsomhed eller med forsæt (med vilje). 
+
+Denne vurdering af handlingen eller undladelsen har bl.a. betydning for, om skadevolderens ansvarsforsikring skal betale for skaden hos skadelidte. Se her domsafgørelser fra retspraksis:  
 
 
 
@@ -3326,24 +3410,32 @@ Har skadevolder handlet forkert – dvs. er ansvarlig – er det vigtigt at find
 
 
 
+
 ---     
 
 
 ## Den gode familiefader
+
 Når en domstol bedømmer, om skadevolder har handlet forkert, sammenligner domstolen skadevolderens handling med, hvordan en “bonus pater familias” ville have handlet i samme situation.
-Bonus pater familias (latin for den gode familiefader) er en fiktiv person, som aldrig begår fejl, fordi han eller hun altid tænker sig grundigt om, før denne handler. I nogle situationer vil denne fiktive person være “den gode forældre”, “det gode barn”, “den gode lærer”, “den gode håndværker” osv. Begrebet repræsenterer en uagtsomhed en adfærd, der afviger fra de adfærdsnormer, der gælder inden for det pågældende område.
-<br>
+
+Bonus pater familias (latin for den gode familiefader) er en fiktiv person, som aldrig begår fejl, fordi han eller hun altid tænker sig grundigt om, før denne handler. 
+
+I nogle situationer vil denne fiktive person være “den gode forældre”, “det gode barn”, “den gode lærer”, “den gode håndværker” osv. Begrebet repræsenterer en uagtsomhed en adfærd, der afviger fra de adfærdsnormer, der gælder inden for det pågældende område.
+
 Kommer en domstol til det resultat, at en skadevolder har handlet anderledes, end en bonus pater familias ville have gjort i samme situation, har skadevolderen handlet forkert og vil blive pålagt et erstatningsansvar.
-<br>
+
 Det skal bevises af skadelidte (kaldet en ”ligefrem bevisbyrde”). Det er hovedreglen i dansk ret; Den der vil gøre noget gældende, har også bevisbyrden herfor.
 <br>
 For at kunne få erstatning fra en skadevolder skal skadelidte ifølge retspraksis (domstolene) bevise følgende over for retten: 
 <br>
 
-*	Der er sket en skade og lidt et tab.  
-*	Det er skadevolders skyld – skadevolder har handlet uagtsomt eller med forsæt.  
-*	Der er årsagssammenhæng (kausalitet) mellem den skete skade og det lidte tab, dvs. at tabet er en direkte følge af skaden.  
-*	Der er påregnelighed (adækvans) mellem skaden og tabet, dvs., at skadevolder burde kunne forudse, at skaden ville ske.  
+*	Der er sket en skade og lidt et tab. 
+
+*	Det er skadevolders skyld – skadevolder har handlet uagtsomt eller   med forsæt.  
+
+*	Der er årsagssammenhæng (kausalitet) mellem den skete skade og det   lidte tab, dvs. at tabet er en direkte følge af skaden.  
+
+*	Der er påregnelighed (adækvans) mellem skaden og tabet, dvs., at    skadevolder burde kunne forudse, at skaden ville ske.  
 
 Kan skadelidte ikke bevise det, er det ikke muligt at få erstatning fra en skadevolder eller dennes ansvarsforsikring, se følgende dom:
 
@@ -3374,7 +3466,8 @@ Udover at der kan tilkendes erstatningsansvar ved tingsskader samt fysiske perso
 
 ## Simpel uagtsomhed
 Ved simpelt uagtsomhed (culpa levis), har skadevolder handlet mere skødesløst end en bonus pater familias – den lille dagligdags uagtsomhed – er skadevolder erstatningsansvarlig. Simpel uagtsomhed er en uagtsomhed som ikke kan betegnes som grov. Culpareglen omfatter som hovedregel begge former for uagtsomhed.
-<br>
+
+
 Forsikringsankenævnet og domstolene foretager et konkret skøn, om skadevolder har handlet simpelt uagtsomt. Hvis eksempelvis en fodgænger træder ud på vejbanen uden at se sig for og rammer en forbikørende cyklist, der vælter, kan uheldet bebrejdes fodgængeren, der har været mere skødesløs end “den gode fodgænger”. Derfor er fodgængeren erstatningsansvarlig for cyklistens økonomiske tab. Se følgende sager fra retspraksis og Forsikringsankenævnet, om spørgsmålet, om der er simpel uagtsomhed hos skadevolder:
 
 ---
@@ -3382,14 +3475,15 @@ Forsikringsankenævnet og domstolene foretager et konkret skøn, om skadevolder 
 *U 1915.242 H: (Uagtsom Brandstiftelse). En Tiltalt færdedes en Nat i et straatækket Udhus, hvor der henlaa Fourage og Halm, med en to Tommer lang; Lysestump, som han under sit Ophold i Udhuset tændte. Under sit Ophold i Udhuset røg han derhos Cigaret. Umiddelbart efter at Tiltalte havde forladt Udhuset, viste det sig, at der var Ild i dette, der nedbrændte. Antaget, at Tiltalte havde foraarsaget Ilden, og at der forelaa Tilsidesættelse af almindelig Forsigtighed.*
 
 *Ankenævnskendelse i sag nr. 03.256 – 03.09.79: Da forsikringstageren, som under pasning af skadelidtes blomster havde forvoldt skade på dennes gulvtæppe, ikke fandtes at have udvist et så uforsvarligt forhold, at han ville kunne gøres ansvarlig for skaden, var selskabet berettiget til at afslå at erstatte denne. (Utrykt)*
-<br>
 
 *Ankenævnskendelse i sag nr. 03.308 – 03.09.79: Da forsikringstageren, som under arbejde i sin svigerfars lejlighed forvoldte skade på el-hovedkablet, ikke fandtes at have udvist et så uforsvarligt forhold, at han ville kunne gøres ansvarlig for skaden, var selskabet berettiget til at afslå at erstatte denne (utrykt).*
 
 ---
 
 ## Grov uagtsomhed
-Grov uagtsomhed (latin; culpa lata) er en betydelig form for uagtsomhed. Nyere retspraksis lægger vægt på, om skadevolderens adfærd indebar en ”indlysende fare”, for den indtrådte skade. Skadevolderens bevidsthed om faren kan indgå i vurderingen af, om uagtsomheden er grov. Går en fodgænger over for rødt og vælter en cyklist, er fodgængeren nu mere uforsigtig end selv en skødesløs fodgænger. Det kan betegnes som grov uagtsomhed, og fodgængeren er erstatningsansvarlig. Det er en skønsmæssig vurdering, om domstolene og Ankenævnet for Forsikring anser en person for at have handlet groft uagtsomt, se her nævnte domme og ankenævnsafgørelser:
+Grov uagtsomhed (latin; culpa lata) er en betydelig form for uagtsomhed. Nyere retspraksis lægger vægt på, om skadevolderens adfærd indebar en ”indlysende fare”, for den indtrådte skade. Skadevolderens bevidsthed om faren kan indgå i vurderingen af, om uagtsomheden er grov. 
+
+Går en fodgænger over for rødt og vælter en cyklist, er fodgængeren nu mere uforsigtig end selv en skødesløs fodgænger. Det kan betegnes som grov uagtsomhed, og fodgængeren er erstatningsansvarlig. Det er en skønsmæssig vurdering, om domstolene og Ankenævnet for Forsikring anser en person for at have handlet groft uagtsomt, se her nævnte domme og ankenævnsafgørelser:
 
 ---
 
@@ -3427,7 +3521,9 @@ Grov uagtsomhed (latin; culpa lata) er en betydelig form for uagtsomhed. Nyere r
 ---
 
 ## Forsæt (med vilje)
-Forsæt, er en handling der er foretaget med vilje, er ikke i dansk ret en betingelse for at ifalde erstatningsansvar. At skadevolderen har udvist uagtsomhed, dvs. tilsidesat den agtpågivenhed, som kræves på det pågældende område, er som hovedregel tilstrækkeligt til at pålægge erstatningsansvar, Kaster en person en sten efter en cyklist for at ramme denne, og det lykkes, er skaden på cyklisten lavet med vilje – med forsæt. Skadevolderen er selvfølgelig også her erstatningsansvarlig. Hovedreglen er i dansk ret, at kun forsætlige forhold er strafbare, dog en vigtig undtagelse uagtsom drab. Ved forsætlige handlinger afviser skadevolders ansvarsforsikring at udbetale erstatning, se her nævnte sager om vurderingen om skadevolder har handlet med forsæt – med vilje:
+Forsæt, er en handling der er foretaget med vilje, er ikke i dansk ret en betingelse for at ifalde erstatningsansvar. At skadevolderen har udvist uagtsomhed, dvs. tilsidesat den agtpågivenhed, som kræves på det pågældende område, er som hovedregel tilstrækkeligt til at pålægge erstatningsansvar, Kaster en person en sten efter en cyklist for at ramme denne, og det lykkes, er skaden på cyklisten lavet med vilje – med forsæt. 
+
+Skadevolderen er selvfølgelig også her erstatningsansvarlig. Hovedreglen er i dansk ret, at kun forsætlige forhold er strafbare, dog en vigtig undtagelse uagtsom drab. Ved forsætlige handlinger afviser skadevolders ansvarsforsikring at udbetale erstatning, se her nævnte sager om vurderingen om skadevolder har handlet med forsæt – med vilje:
 
 
 ---
@@ -3447,7 +3543,9 @@ Ved simpel og grov uagtsomhed er det hovedreglen, at en ansvarsforsikring dække
 ---
 
 ## Objektivt ansvar
-I dansk ret kan der også gælde et såkaldt “objektivt ansvar”, hvorefter skadevolderen pålægges erstatningsansvar, selv om der ikke er handlet uagtsomt (uden skyld). Med andre ord er der situationer, hvor man kan blive ansvarlig, selv om skaden sker ved et hændeligt uheld. Objektivt ansvar er bl.a. lovfæstet i produktansvarsloven, jernbaneloven, luftfartsloven, lov om drift af nukleare anlæg, søloven, hundeloven, færdselsloven og lov om formidling af fast ejendom, se følgende dom over en ejendomsmægler:  
+I dansk ret kan der også gælde et såkaldt “objektivt ansvar”, hvorefter skadevolderen pålægges erstatningsansvar, selv om der ikke er handlet uagtsomt (uden skyld). Med andre ord er der situationer, hvor man kan blive ansvarlig, selv om skaden sker ved et hændeligt uheld. 
+
+Objektivt ansvar er bl.a. lovfæstet i produktansvarsloven, jernbaneloven, luftfartsloven, lov om drift af nukleare anlæg, søloven, hundeloven, færdselsloven og lov om formidling af fast ejendom, se følgende dom over en ejendomsmægler:  
 
 
 ---
@@ -3471,12 +3569,14 @@ Se følgende domme:
 
 ## Generelt bortfald af ansvar
 Selv om skadevolder har handlet forkert – været uagtsom – er der nogle situationer, hvor skadevolder alligevel ikke er erstatningsansvarlig.
-<br>
+
 Er den skade, der er sket, i forvejen dækket af en tingsforsikring eller en driftstabsforsikring, er skadevolder ikke erstatningsansvarlig. Det gælder dog kun, hvis skaden ikke er forvoldt med vilje eller ved grov uagtsomhed. Det fremgår af Lov om erstatningsansvar (Lovbekendtgørelse nr. 1070 af 24. august 2018). Smadrer en dreng eksempelvis naboens glasrude, der er forsikret, ved en simpel uagtsomhed, er drengen ikke erstatningsansvarlig. Vinduet bliver betalt af glasforsikringen.
-<br>
+
 Lov om erstatningsansvar fastslår også, at hvis staten, en kommune eller en anden offentlig institution er selvforsikrende, skal de erstatningsmæssigt betragtes på samme måde, som hvis de havde tegnet forsikring. Det betyder, at der ikke er forskel på, om drengen ved en simpel uagtsomhed, smadrer naboens glasforsikrede rude eller en rude i kommunens skole, hvor kommunen er selvforsikret. I ingen af tilfældene er drengen erstatningsansvarlig. For kommunens vedkommende betyder det, at den selv må betale ruden.
-<br>
-Man kan ikke blive erstatningsansvarlig over for sig selv. De ting, som man ødelægger af sine egne ting, udløser ikke et erstatningsansvar, som der kan dækkes på ens ansvarsforsikring. Se f.eks. her nævnte dom:
+
+**Man kan ikke blive erstatningsansvarlig over for sig selv**. 
+
+De ting, som man ødelægger af sine egne ting, udløser ikke et erstatningsansvar, som der kan dækkes på ens ansvarsforsikring. Se f.eks. her nævnte dom:
 
 ---
 
@@ -3538,12 +3638,15 @@ Hvis uheldet betyder, at man mister mindst 15 procent af ens evne til at erhverv
 
 Var man fyldt 30 år på tidspunktet for uheldet, bliver ens erstatning nedsat i forhold til ens alder.
 
-Man kan også kræve erstatning, selv om man ikke har nogen egentlig indtægt. For børn, der normalt ingen indtægt har, bliver erstatningen fastsat ved, at ménprocenten bliver ganget med en “normalårsløn”, der er fastsat i loven. Dette resultat bliver herefter ganget med 10. For hjemmearbejdende og studerende bliver erstatningen fastsat ud fra et skøn over den økonomiske værdi af deres arbejdskraft på det tidspunkt, hvor de kom til skade.
+Man kan også kræve erstatning, selv om man ikke har nogen egentlig indtægt. For børn, der normalt ingen indtægt har, bliver erstatningen fastsat ved, at ménprocenten bliver ganget med en “normalårsløn”, der er fastsat i loven. Dette resultat bliver herefter ganget med 10. 
+
+For hjemmearbejdende og studerende bliver erstatningen fastsat ud fra et skøn over den økonomiske værdi af deres arbejdskraft på det tidspunkt, hvor de kom til skade.
 
 Erhvervsevnetabserstatningen bliver udbetalt på én gang.
 
 ### Dødsfald
 <img src="img/funeral.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 Der gives erstatning for rimelige begravelsesudgifter. En efterladt ægtefælle eller samlever har desuden krav på et såkaldt “overgangsbeløb”. Dette beløb skal gøre den økonomiske overgang fra gift/samlevende til enlig nemmere. Beløbets størrelse er fastsat i loven. Der kan dog ikke både gives erstatning for begravelsesudgifter og betales overgangsbeløb.
 
 ### Afdøde havde forsørgerpligt
@@ -3557,16 +3660,17 @@ Efterlevende børn får en erstatning, der svarer til summen af de børnebidrag,
 
 ### Eksamensopgave og løsning - Om ejendomsmæglerens erstatningsansvar uden for kontrakt
 
-Ejendomsmæglerens støvler
+***Ejendomsmæglerens støvler***
 <br>
+
 En fredag eftermiddag var Martin taget ud til en fremvisning af et hus beliggende i nabobyen Indby. Huset tilhørte Pernille. Martin havde i dagens anledning taget sine nye og meget dyre Armani® støvler på. Desværre havde han fået købt dem i en lidt for lille størrelse, men havde valgt at tage dem på alligevel selvom Egild ikke havde ment at det var en god idé, da han syntes at de ikke rigtig udstrålede det image som ”Udby Mæglerne ApS” gerne ville stå for.
-<br>
+
 Da Martin kommer ind i huset vil han tage støvlerne af, men finder ud af at de sidder rigtig godt fast. Han kæmper noget med støvlerne, men til sidst får han dem revet af. Desværre rammer han med sin voldsomme bevægelse det spejl der hænger i gange. Spejlet falder ned og smadrer mod gulvet. 
-<br>
+
 Ude i køkkenet står Pernille og er ved at lave kaffe. Hun bliver så forskrækket at hun taber den meget varme kaffe ned over sin hun ”Guffe”. ”Guffe”, der var en præmiehund med en værdi på 10.000 kr, måtte efterfølgende aflives.
-<br>
-Eksamensspørgsmålet:
-<br>
+
+***Eksamensspørgsmålet:***
+
 1.	Er nogen, og i givet fald hvem, erstatningspligtig over for Pernille for tabet af ”Guffe” og det smadrede spejl? (25 %)
 <br>
 Vejledende løsning
@@ -3576,359 +3680,135 @@ Lovgrundlag: Lov om erstatningsansvar
 Område: Erstatningsansvar, Principalansvar
 <br>
 Læringsmål: Du skal som studerende anvende og kunne vurdere de grundlæggende erstatningsbetingelser ved erstatning udenfor kontrakt, for derigennem at kunne vurdere reglerne for rådgivnings- og professionsansvar indenfor den finansielle sektor (God skik bekendtgørelsen og lov om formidling af fast ejendom § 24) samt reglerne om principalansvar, jf. DL (Danske Lov fra 1683) 3-19-2.
-<br>
-
-<img src="img/Danske lov.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 
 
 
+<img src="img/Danske lov.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-<br>
+
+
+
+
+
+
 Spørgsmålet kan løses med forskellige systematikker. 
-<br>
+
 Besvarelsen bør dog gøre opmærksom på at erstatning i alle tilfælde kræver at de 4 grundbetingelser er opfyldt.
-<br>
+
 Der kan først ses på om Pernille har lidt et økonomisk tab. Dette må antages for både spejlet og ”Guffe”. Der er ligeledes kausalitet i forbindelse med begge skader. 
-<br>
+
 Det kan dog formodentlig ikke antages at der er adækvans i relation til skaden på ”Guffe”. Det er næppe påregneligt for Lars at hans kamp med at tage støvlerne af vil lede til en begivenhedsrække, der slutter med at Pernille hælder varm kaffe ned over sin hund. Pernille kan derfor nok ikke få erstatning for tabet af ”Guffe”.
 <br>
 
 ### Eksamensopgave og løsning - Om erstatning og kaution
-<br>
-Murermester Madsen
+
+***Murermester Madsen***
 
 Madsen, der er murer, står sammen med sin ansat, murerlærling Anton oppe på et stillads. De er ved at lave reparationer på Knudsens hus’ ydermurer.
  
 Madsen benytter opgaven til at undervise Anton i, hvordan arbejdet bør udføres fagligt korrekt, og han forklarer også i detaljer, om sikkerhed på en farlig arbejdsplads, som en byggeplads jo er. Anton er en lærenem elev, og han udfører snart arbejdet til punkt og prikke. 
-<br>
+
 Men på et tidspunkt smider Anton en murske hen mod spanden med mørtel, men han rammer uheldigvis ved siden af. Skeen falder ud over stilladsets kant og rammer Knudsen, der netop passerer forbi med sin trillebør nedenfor. Knudsen rammes på næsen, der brækker, og pga. slaget og chokket falder Knudsen bagover, og i faldet forvrider han sin skulder. Hans dyre solbriller er også ødelagt. 
-<br>
+
 Knudsens hustru står samtidig inde i køkkenet. Hustruen ser ikke murskeen ramme Knudsen, men hun ser ud af vinduet lige da han falder bagover. Hun tror, at han er faldet om af et hjerteslag og styrter ud til telefonen i entreen for at ringe 112. I sit hastværk glider hun i et tæppe på entrégulvet og falder. Desværre er hun faldet så uheldigt, at hun slår sin ryg så slemt, at hun senere viser sig at miste sin førlighed delvist.
-<br>
+
 I det Madsen går hen for at hjælpe hustruen, bliver han bidt af Knudsens hund, der tror, han vil gøre hustruen noget. Bidet er ikke alvorligt, men det ødelægger dog Madsens jakke. 
-<br>
+
 Madsen ønsker at udvide sin forretning men det kræver en del kapital. Banken vil gerne låne ham pengene men de kræver sikkerhed i form af to kautionister. Madsen spurgte sin far der efterhånden var en ældre herre og som havde en betydelig formue. Faren afviste, da han havde en forestilling om at sønnen ingen økonomisk sans havde. Madsen skrev derfor under i sin fars navn.
 <br>
 Derefter spurgte han sin ansatte murelæring, der netop havde arvet, om han ville kautionere. Madsen lod ham – mellem linjerne – forstå, at hvis han afviste, ville det få ”uheldige konsekvenser” for Antons fremtidige ansættelse. Anton følte sig presset og skrev under.   
-<br>
-1.	Kan Hr. Knudsen kræve erstatning og i givet fald for hvad og af hvem?  
-2.	Kan Hr. Knudsens hustru kræve erstatning og i givet fald for hvad og af      hvem?
+
+***Eksamensspørgsmålene***
+
+1.	Kan Hr. Knudsen kræve erstatning og i givet fald for hvad og af 
+    hvem? 
+    
+2.	Kan Hr. Knudsens hustru kræve erstatning og i givet fald for 
+    hvad og af hvem?
+    
 3.	Kan Madsen kræve erstatning og i givet fald for hvad og af hvem?
-4.	Hvis banken ønsker penge af kautionisterne, hvordan er de to kautionister     så stillet? 
-<br>
-1.	Kan Hr. Knudsen kræve erstatning og i givet fald for hvad og af hvem? Ja,     betingelserne opfyldt. I henhold til DL 3-19-2 skal arbejdsgiver betale,     idet skaden skete som et led i arbejdet. 
-2.	Kan Hr. Knudsens hustru kræve erstatning og i givet fald for hvad og af      hvem? Nej, ikke adækvat. 
-3.	Kan Madsen kræve erstatning og i givet fald for hvad og af hvem? Ja, svie     og smerte, evt. personskade og tingsskade hos Knudsen, jf. hundelovens §     8. 
-4.	Hvis banken ønsker penge af kautionisterne, hvordan er de to kautionister     så stillet? De går begge fri. Faren pga. dokumentfalsk fra Madsens side      og Madsen pga. kompulsiv, jf. aftaleloven. 
-<br>
+
+4.	Hvis banken ønsker penge af kautionisterne, hvordan er de to 
+    kautionister så stillet? 
+    
+***Vejledende løsning:***    
+
+1.	Kan Hr. Knudsen kræve erstatning og i givet fald for hvad og af 
+    hvem? Ja, betingelserne opfyldt. I henhold til DL 3-19-2 skal 
+    arbejdsgiver betale, idet skaden skete som et led i arbejdet. 
+    
+2.	Kan Hr. Knudsens hustru kræve erstatning og i givet fald for 
+    hvad og af hvem? Nej, ikke adækvat. 
+    
+3.	Kan Madsen kræve erstatning og i givet fald for hvad og af hvem?     Ja, svie og smerte, evt. personskade og tingsskade hos Knudsen, 
+    jf. hundelovens §  8.
+    
+4.	Hvis banken ønsker penge af kautionisterne, hvordan er de to 
+    kautionister så stillet? De går begge fri. Faren pga. 
+    dokumentfalsk fra Madsens side og Madsen pga.kompulsiv, jf. 
+    aftaleloven (stærk ugyldighedsindsigelse). 
+
 
 ### Eksamensopgave og løsning - Erstatning uden for kontrakt og forbrugeraftaler
-<br>
-Randers Boldklub
-<br>
+
+***Randers Boldklub***
+
 Hans bor i Randers og har 2 teenagedrenge. De spiller fodbold, og de kommer sammen med deres far til samtlige af Randers fodboldkampe. 
-<br>
+
 Randers har kæmpet sig op i rækkerne og spiller rigtig godt, og de er godt med i slutspillet i SAS-ligaen. Hans vil gerne støtte dem, så han køber fantrøjer og kasketter til sig selv og drengene over Internettet. De skal have trøjerne og kasketterne på til næste kamp.
-<br>
+
 Hans skriver på bestillingen, at han skal bruge det inden 14 dage men varerne når ikke at komme inden kampen.
-<br>
+
 Hans og drengene drager af sted til kampen mod Nordsjælland. Der er en god stemning på stadion. Randers spiller godt, men kommer bagud, da der bliver afsagt en tvivlsom kendelse. 
-<br>
+
 I bar frustration over den tvivlsomme kendelse og ikke at have fået trøjerne og kasketterne løber han ind på banen og slår ud efter dommeren, Albert. Albert når at undvige, men falder uheldigt lige ind i målstolpen, og han slår sit hoved ret kraftigt. Han får en dyb flænge i panden og mister bevidstheden i 10 minutter. Albert bliver kørt på hospitalet, og han får konstateret en hjernerystelse, der medfører, at han sygemeldes i 1 måned. 
-<br>
+
 Albert skulle have været på skiferie dagen efter kampen, men på grund af hjernerystelsen bliver han nødt til at aflyse sin ferie. Han har ikke tegnet nogen rejseforsikring, så han må betale for rejsen selv om han ikke kommer af sted.
-<br>
+
 Alberts søster, Emilie, der overværede det hele, gik i chok. Hun besvimede, faldt og pådrog sig en brækket arm.
-<br>
+
 Hans og drengene skynder sig hjem. De løber ned af vejen. Henne ved hjørne står fru Olsen med sin hund Rufus. Rufus er en ret stor hund. Da Hans og drengene kommer løbende, bliver Rufus bange og går til angreb på Hans. Rufus bider Hans i benet og har dermed ødelagt hans bukser, og der er et stort åbent sår, som skal sys på skadestuen. 
-<br>
+
 En uge efter kampen kommer trøjerne og kasketterne men nu vil Hans ikke længere have dem.
-<br>
 
-1.	Kan Albert få erstatning og hvilke krav kan han i givet fald rejse?
+***Eksamensspørgsmålene:***
+
+1.	Kan Albert få erstatning og hvilke krav kan han i givet fald 
+    rejse?
+    
 2.	Er Emilie berettiget til erstatning?
+
 3.	Er Hans berettiget til erstatning fra fru Olsen? 
+
 4.	Er Hans bundet af aftalen om køb af trøjerne og kasketterne? 
-<br>
 
-Vejledende løsning
-<br>
-1.	Kan Albert få erstatning og hvilke krav kan han i givet fald rejse? Ja. I     henhold til EAL kan han rejse personskade, tabt arbejdsfortjeneste, svie     og smerte samt erstatning for rejsen, idet krav om kausalitet og adækvans     er opfyldt. Adækvans dog på grænsen. Enig. 
-2.	Er Emilie berettiget til erstatning? Nej, adækvans ikke opfyldt. Enig
-3.	Er Hans berettiget til erstatning fra fru Olsen? Ja. Mener det er       
-    hundelovens § 8. Enig, næppe nedslag i erstatningen. 
+
+***Vejledende løsning:***
+
+1.	Kan Albert få erstatning og hvilke krav kan han i givet fald 
+    rejse? Ja. I henhold til EAL kan han rejse personskade, tabt 
+    arbejdsfortjeneste, svie og smerte samt erstatning for rejsen, 
+    idet krav om kausalitet og adækvans er opfyldt. Adækvans dog på 
+    grænsen.
+    
+2.	Er Emilie berettiget til erstatning? Nej, adækvans ikke opfyldt. 
+3.	Er Hans berettiget til erstatning fra fru Olsen? Ja.  
+    hundelovens § 8. Næppe nedslag i erstatningen. 
+    
 4.	Er Hans bundet af aftalen om køb af trøjerne og kasketterne? 
-    14 dages fortrydeælsesret
-5.	Kan Hans rejse krav om erstatning mod sælger, hvis han er bundet af     
-    aftalen om køb af trøjerne og kasketterne? Ingen erstatning fra sælger af     trøjerne som følge af for sen levering, da intet økonomisk tab lidt af       Hans. 
-<br>
+    14 dages fortrydeælsesret.
+    
+5.	Kan Hans rejse krav om erstatning mod sælger, hvis han er bundet     af aftalen om køb af trøjerne og kasketterne? Ingen erstatning 
+    fra sælger af trøjerne som følge af for sen levering, da intet 
+    økonomisk tab lidt af Hans. 
 
 
 
 
 
 
-<br>
-# Ansvarsforsikringen<sup><font color="red"> Premium </font></sup>
-
-<br>
-
-Følgende betragtninger og oplysninger om det private ansvar, husejeransvaret, ansvaret for ens hund, skader på arbejdet samt skader ved udøvelse af sportsaktiviteter bygger hovedsageligt på Forsikringsankenævnets oplysninger i ankenævnets ”klageguide” samt Forsikringsankenævnets praksis, herunder på retspraksis, samt viden fra Forsikringsoplysningen.
-
-## Privatansvarsforsikring 
-<br>
-
-Privatansvarsforsikringen er normalt er en del af ens familie/indboforsikring. Forsikringen dækker den erstatning, man skal betale, hvis man som privatperson forvolder skade på andre personer eller på andres genstande. Der er også knyttet en ansvarsforsikring til en række andre forsikringer, bl.a. en bygningsforsikring. 
-
-Privatansvarsforsikringen dækker kun, hvis man juridisk set er erstatningsansvarlig for den indtrufne skade. Forsikringen dækker således normalt ikke, hvis man ønsker at betale erstatning ud fra et “rimelighedssynspunkt” eller ud fra ens moralske opfattelse.
-<br>
-Efter dansk ret er man juridisk set ansvarlig for en skade, hvis man har udvist en uforsvarlig adfærd (handling eller undladelse), hvis adfærden kan tilregnes en som forsætlig eller uagtsom, og hvis den skade, som man har forvoldt, må anses for at være en forventelig (påregnelig) følge af ens adfærd. Denne såkaldte culparegel står ikke skrevet i nogen lov, men er udviklet gennem en langvarig retspraksis.
-<br>
-Hændelige skader er man ikke ansvarlig for, se f.eks. her fra retspraksis følgende afsagte domme:
-
-
----
-
-<img src="img/soup.jpg" align="right" width="15%" height="15%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-*FED 2018.05 V.L.D. af 6. juli 2018. Sag: B-1381-17: 2-årigt barn A, der blev passet af gudmor B, kom alvorligt til skade, da A fik fingre i skål med skoldhed suppe, der væltede ned over A. A og B opholdt sig i et køkken, og B havde vendt ryggen til A i ca. 2 sek. Det var ikke oplyst, hvor på køkkenbordet skålen var placeret, og A havde herefter ikke bevist, at B havde udvist ansvarspådragende uagtsomhed. *
-
-
-*I sag 86059 fandt Forsikringsnævnet eksempelvis, at klageren havde handlet ansvarspådragende ved at lade en veninde til sin datter benytte en trampolin, hvis sikkerhedsnet ikke var monteret korrekt. Nedenfor ses desuden Forsikringsankenævnets sag 88426 om en 12-årig dreng, der skubber en voksen i ryggen, samt Forsikringsankenævnets sager 87739, 86992, 86059 og 85472:*
-
-
-
-*Sag 88426: Klager over afslag på dækning for en ansvarsskade, hvor klagers 12-årige søn var skadevolder. Efter afsluttet fodboldspil, hvor de var på vej ud for at samle bolde ind, gav sønnen faderen et hårdt skub i ryggen, så han faldt forover og beskadigede knæet. Selskabet henviste til, at sønnen ikke var ansvarlig for skaden. Nævnet fandt, at sønnen havde udvist en adfærd, som kunne tilregnes ham som uagtsom. Klagers tilskadekomst var derfor omfattet af hjemforsikringens dækning for ansvar ved personskade. Nævnet lagde vægt på, at skubbet ikke kunne anses for at være sket under et igangværende fodboldspil eller under farlig leg. Klager medhold.*
-
-<img src="img/raket.jpg" align="right" width="25%" height="25%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-<br>
-*Sag 87739: Klager over afslag på at dække en ansvarsskade forvoldt af klagers søn. Sønnen beskadigede gulvet i sit værelse på efterskolen, da han tabte et tændt heksehyl, som han ville smide ud af vinduet. Forsikringen dækkede ikke ansvar på skader på ting, som den sikrede havde i sin varetægt. Nævnet fandt derfor ikke at kunne kritisere selskabets afgørelse. Selskab medhold.*
-
-*Sag 86992: Klager over afslag på dækning for en anmeldt ansvarsskade. Klager anmeldte, at der var sket skade på hendes nabos gulv i forbindelse med, at hun havde passet naboens hus og have og ikke havde fået lukket tilstrækkeligt for vandet efter vanding af blomster. Herved var vandet løbet gennem en haveslange dryppet ned i en spand, hvor haveslangens frie ende var placeret, hvorefter vandet løb ud på gulvet. Selskabet anførte, at der var tale om en hændelig skade. Nævnet fandt, at skaden opstod ved klagers udførelse af en vennetjeneste for naboen, hvor hun ikke fik lukket forsvarligt for vandet. Nævnet fandt, at klager herved havde handlet ansvarspådragende, og lagde bl.a. vægt på, haveslangen var placeret i stuen, og at huset henstod ubeboet på tidspunktet for skadens indtræden. Det forhold, at klagers kortfattede mail af 12/8 2014 kunne give anledning til usikkerhed om, hvem der placerede spanden i stuen, kunne efter nævnets opfattelse ikke føre til andet resultat. Selskabet skulle derfor anerkende, at klager var erstatningsansvarlig. Klager medhold.*
-
-
-<img src="img/trampolin.jpg" align="right" width="25%" height="25%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-<br>
-*Sag 86059: Klager over afvisning af dækning for en knæskade, som klagers datters veninde (12 år) pådrog sig under et hop på klagers trampolin den 3/6 2013. Selskabet afviste dækning med henvisning til, at der var tale om et hændeligt uheld, og at klager ikke var ansvarlig for den skete skade. Nævnet fandt, at klager havde handlet ansvarspådragende ved at lade datterens veninde benytte en trampolin med et sikkerhedsnet, der ikke var monteret korrekt. Nævnet fandt det godtgjort, at den mangelfulde montering af sikkerhedsnettet var medvirkende årsag til, at venindens fod satte sig fast, så hun kom til skade. Selskabet skulle derfor anerkende, at klager var ansvarlig for de skader, som veninden måtte have pådraget sig. Det forhold, at skadelidte og skadelidtes mor var bekendt med sikkerhedsnettets tilstand, kunne ikke føre til andet resultat. Klager medhold.*
-
-<br>
-
-*Sag 85472: Klager over afvisning af dækning for en ansvarsskade over en familieforsikring. Klager havde etableret et stort hul i gulvet i sin ejerlejlighed med henblik på at opsætte vindeltrappe. En maler faldt ned gennem hullet og kom til skade. Selskabet afviste ansvarsdækning med henvisning til, at der var tale om et grundejeransvar, som ikke var dækket af forsikringen. Nævnets flertal fandt, klagers eventuelle ansvar var et culpaansvar uden for kontrakt, og at han havde ageret som privatperson. Det eventuelle ansvar var derfor dækningsberettigende. Betingelsernes punkt 8.1.4 vedrørende grundejeransvar kunne alene anses for et tillæg til, og ikke en indskrænkning af, den dækning, der ydedes efter hovedreglen i punkt 8.1.1 om ansvar som privatperson. Mindretallet fandt, at betingelsernes 8.1.4 udtømmende gjorde op med dækningen for grundejeransvar, og at den anmeldte skade ikke kunne henføres herunder. Mindretallet bemærkede, at klager kunne have tegnet en entrepriseforsikring. Klager medhold.*
-
----
-
-Forsikringen dækker normalt ikke, hvis man har handlet forsætligt (med vilje). Det ses eksempelvis i Forsikringsankenævnets sag 86464:
-
----
-
-<img src="img/fire.jpg" align="right" width="25%" height="25%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-<br>
-*Sag 86464: Klager over dækning for erstatningsansvar som følge af brand i solcenter. Klager og en veninde havde i et solcenter sat ild til papirstykker i kabinerne, som fik fat i en papirdispenser, der begyndte at brænde. Pigerne forlod solcentret og den rygende papirdispenser. Der var efterfølgende sket brandskader for 2,3 mio. kr. Klager blev idømt solidarisk ansvar med veninden for skaderne. Selskabet afviste at yde dækning med henvisning til at skaderne var sket med forsæt. Klager gjorde gældende, at det ikke var hende, der konkret havde sat ild til det papirstykke, der førte til ild i papirdispenseren og de efterfølgende brandskader. Nævnet fandt, at skaderne var sket med forsæt fra klager og lagde navnlig vægt på, at et solidarisk ansvar var omfattet af dækningsundtagelsen, og at klager ved sin medvirken og ved at forlade stedet med en rygende papirdispenser, der havde været ild i måtte have indset, at der herved var nærliggende risiko for yderligere skader. Selskab medhold.*
-
----
-
-Har forsikringstageren handlet forsætligt, må han eller hun selv betale erstatning til den skadelidte. Har et barn under 14 år handlet forsætligt, dækker ansvarsforsikringen dog som udgangspunkt også sådanne forsætlige skader. Det samme er tilfældet, hvis man – da man forvoldte skaden – på grund af ens sindstilstand manglede evnen til at handle fornuftsmæssigt.
-
-Man kan efter omstændighederne pålægges erstatningsansvar, hvis andre personer lider tab som følge af redningsaktioner til fordel for en selv. Privatansvarsforsikringen dækker også et sådant ansvar, i det omfang kravet ikke dækkes af lov om arbejdsskadeforsikring, og i det omfang redningsaktionen ikke sker som et led i redningsmandens erhverv.
-
-
-
-Man bør som forsikringstager være tilbageholdende med at anerkende et erstatningsansvar på egen hånd, da man risikerer, at forsikringsselskabet er uenigt og derfor ikke vil dække skaden. Man bør derfor normalt kontakte sit forsikringsselskab og bede forsikringsselskabet om at tage stilling til, om man har pådraget sig et ansvar efter dansk rets almindelige erstatningsregler, som forsikringsselskabet vil dække i henhold til policen og forsikringsbetingelserne.
-
-Bliver man sagsøgt af en person, der mener, at man er erstatningssvarlig som privatperson, kan det være hensigtsmæssigt at få en advokat til at føre ens sag. Hvis forsikringsselskabet er enigt i, at man ikke er erstatningsansvarlig, dækker forsikringen normalt også sådanne sagsomkostninger til en advokat.
-
-Mener man, at forsikringsselskabets afvisning af at dække en skade – som man har forvoldt på andres ejendom eller på andre personer – er forkert, er det er en god ide at drøfte med sagsbehandleren i forsikringsselskabet, hvad der skal til, for at man kan bevise, at man har ret. Er man stadig utilfreds, kan man kontakte forsikringsselskabets klageansvarlige, hvis man mener, at sagsbehandleren, er nået til et forkert resultat i sagen.
-
-Man skal altid have klaget til forsikringsselskabet over dets afgørelse, før man har adgang til at klage til Forsikringsankenævnet.
-
-Det er værd at bemærke, at Forsikringsankenævnet ikke kan behandle en klage, hvis man som skadelidt mener, at skadevolderens forsikringsselskab skal erstatte de skader/tab, som skadevolderen har påført en som skadelidt. Det skyldes, at ankenævnet kun kan behandle klager over forsikringer, som man selv eller en i ens husstand har købt. Og da det ikke er skadelidtes forsikring, der rettes krav imod, kan Forsikringsankenævnet ikke behandle sagen.
-
-Hvis man som skadelidt ikke kan blive enig med skadevolderen eller med vedkommendes forsikringsselskab, er skadelidte nødt til at anlægge en retssag ved domstolene mod skadevolderen. Skadelidte kan eventuelt få retshjælpsdækning til at føre en sådan retssag. Se f.eks. nævnte ankenævnssag:
-
----
-
-*FED 2013.16: Skadelidtes krav mod skadevolders ansvarsforsikring omfattede ikke policemæssig selvrisiko.*
-
----
-
-Ofte kan der være oplysninger i en sag om erstatningsansvar, som ikke giver et entydigt billede af, hvad der er sket. Hvis der er tvivl om, hvad der er sket, vil forsikringsankenævnet altid vil foretage en konkret vurdering af validiteten af de oplysninger, som klageren (forsikringstageren) og forsikringsselskabet er fremkommet med. Forsikringsankenævnet vil normalt lægge størst vægt på de oplysninger, der er fremkommet fra uvildige parter. Og ankenævnet vil ofte lægge betydelig vægt på de forklaringer, som forsikringstageren eller en anden person først har givet til forsikringsselskabet eller til en tredjemand.
-
-## Uagtsom, forsætlig og hændelig skade samt gæstebudsskade
-Privatansvarsforsikringen dækker som nævnt, hvis forsikringstageren juridisk set har pådraget sig et erstatningsansvar. For at pådrage sig et erstatningsansvar skal man bl.a. have udvist en uforsvarlig adfærd (handling eller undladelse), som kan tilregnes én som forsætlig eller uagtsom, og den skade, man har forvoldt, skal være en påregnelig følge af ens adfærd. Denne såkaldte culparegel står ikke skrevet i nogen lov, men er udviklet gennem langvarig retspraksis.
-
-### Uagtsom
-Man har handlet uagtsomt, hvis en almindelig, fornuftig person (bonus pater) ved almindelig agtpågivenhed ville have indset, at skaden kunne indtræde som følge af ens adfærd. Ens adfærd vil med andre ord blive betragtet som uagtsom, hvis den afviger fra de i samfundet almindeligt anerkendte, forsvarlige handlemønstre. Det ses eksempelvis – som allerede nævnt – i Forsikringsankenævnets sag 86059, hvor ankenævnet fandt, at klageren havde handlet ansvarspådragende ved at lade en veninde til sin datter benytte en trampolin, hvis sikkerhedsnet ikke var monteret korrekt. Ligeledes er Forsikringsankenævnets sag 88426 om en 12-årig dreng, der skubber en voksen i ryggen, samt sagerne 87739, 86992 og 85472 relevante.  
-
-### Forsætlig
-<img src="img/stupid.jpg" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-<br>
-Man har handlet forsætligt, hvis man havde vilje til at forårsage den skade, der indtrådte, hvis man havde indset, at skaden ville indtræde, eller hvis man ikke ville have handlet anderledes, selv om man havde indset, at skaden med stor sandsynlighed ville indtræde. Det ses eksempelvis i tidligere nævnte Forsikringsankenævns sag 86464, hvor nævnet fandt, at brandskaderne på et solcenter var sket med forsæt, da skadevolderen måtte have indset, at der var nærliggende risiko for skade, idet en papirdispenser røg, da skadevolderen forlod solcentret.
-
-Privatansvarsforsikringen dækker ikke, hvis man har forvoldt skaden forsætligt. Har man handlet forsætligt, bliver man selvfølgelig erstatningsansvarlig over for skadelidte, men det er ikke noget, som ansvarsforsikringen dækker. Her må skadevolder selv betale. Dette gælder dog ikke for børn under 14 år, der handler forsætligt, medmindre det klart fremgår af forsikringsbetingelserne, at børns forsætlige handlinger ikke dækkes. Det følger af forsikringsaftalelovens (Lovbekendtgørelse nr. 1237 af 9. november 2015) § 19, stk. 1:
-
-
-
-
-
-Bestemmelserne i § 18 om bortfald eller begrænsning af selskabets ansvar finder ikke anvendelse, når den sikrede var under 14 år eller på grund af sindssygdom, åndssvaghed, forbigående sindsforvirring eller lignende tilstand har manglet evnen til at handle fornuftsmæssigt.
-
-
-
-Se fra retspraksis følgende domme:
-
-
----
-
-<img src="img/bee.jpg" align="right" width="25%" height="25%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-*U 1964.786 H: To 7-årige drenge havde begået hærværk på en bigård og herved pådraget sig erstatningsansvar. Deres forældre havde tegnet familieansvarsforsikringer. Da de i de pågældende selskabers policer indeholdte vilkår ikke med tilstrækkelig klarhed udelukkede anvendelse af den særlige bestemmelse i forsikringsaftalelovens. § 19, stk. 1, jfr. § 18, tilpligtedes selskaberne at friholde drengene for erstatningsansvaret.*
-
-*U 1954 746 H: Hvor en mand fik udbetalt en ulykkeserstatning for hustruen uanset, at han havde dræbt hende og deres 6 børn. Da han var sindssyg i gerningsøjeblikket, lidende af en psykogen sindssygdom, måtte det antages, at han ved begåelsen af drabet på grund af sindssygdom havde manglet evnen til at handle fornuftsmæssigt og da drabet måtte anses for en af forsikringen omfattet begivenhed, fandtes han i medfør af forsikringsaftalelovens § 19, stk. 1, at have krav på forsikringsydelsen.*
-
-*U 1982 528 H: Hvor en mand dræbte sin hustru og hund, hvorefter han satte ild på sit hus, hvorved han indebrændte. Det var ubestridt, at han havde handlet forsætligt, jf. forsikringsaftalelovens § 18, stk. 1. Retslægerådet mente, at der ikke var sikre holdepunkter for, at mandens handling skyldtes sindssygdom eller lignende tilstand. Retten antog – på grund af det abnorme handlingsforløb – at manden havde befundet sig i en sygelig sindstilstand, hvorfor forsikringsselskabet skulle udbetale forsikringssummen.*
-
-<img src="img/fire2.jpg" align="right" width="25%" height="25%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-<br>
-*U 2006 1961 Ø: Hvor en mand satte i suicidal øjemed ild til sin ejendom. Retslægerådet skønnede at han ikke var sindssyg og heller ikke var det på gerningstidspunktet. Rådet fandt dog – med henvisning til omfattende alkoholmisbrug – at manden mest sandsynlig var omfattet af straffelovens § 69. Landsretten bemærkede, at forsikringsaftalelovens § 19, stk. 1, har et bredere anvendelsesområde end straffelovens § 16, idet forsikringsaftalelovens § 19, stk. 1, blandt andet omfatter »forbigående sindsforvirring eller lignende tilstand«. Bevisbyrden for, at den sikrede ved fremkaldelse af forsikringsbegivenheden opfylder det psykiske kriterium, ligger hos kravstilleren, jf. U 1982 528 H, nævnt ovenfor. Det er en relativ tung bevisbyrde.*
-
----
-
-Et eksempel på en forsætlig skade er Forsikringsankenævnets sag 86048, hvor nævnet fandt, at klagerens søn havde handlet forsætligt, da han – mens han stod med ryggen til og i irritation over at være blevet låst ude af nogle klassekammerater – sparkede bagud mod en dør og en siderude. Nævnet fandt, at det var overvejende sandsynligt, at ruden ville gå i stykker ved en sådan handling.
-
-### Hændelig
-Forvolder man en skade hændeligt, dækker ens ansvarsforsikring heller ikke. At det er hændeligt, betyder, at skaden indtræffer tilfældigt, og uden at det skyldes uagtsomhed eller forsømmelse fra ens side. I den situation bliver man ikke juridisk erstatningsansvarlig efter dansk ret. Derfor må skadelidte i en sådan situation selv bære tabet, med mindre skadevolder alligevel betaler, fordi skadevolder føler, at skadevolder er moralsk ansvarlig. Men dette er ansvarsforsikringen uvedkommende. Af relevante sager kan nævnes Forsikringssankenævnets sag 86248, hvor en kvinde tissede i en seng, samt forsikringsankenævnets sag 81840 om en kajak, der i en carport faldt ned på en bil:
-
----
-
-<img src="img/piss.jpg" align="right" width="15%" height="15%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-<br>
-*Sag 86248: Klager over afvisning af dækning for en skade på klagers vens seng forårsaget af klagers ufrivillige vandladning. Selskabet henviste til, at uheldet var hændeligt, og at klager ikke havde handlet uagtsomt, hvorfor selskabet ikke kunne anerkende, at hun havde handlet ansvarspådragende. Nævnet fandt, at klager ikke havde udvist fejl eller forsømmelser forud for skadens indtræden, hvorfor klager ikke kunne pålægges et ansvar for den indtrufne skade. Nævnet fandt endvidere, at klagers lejlighedsvise brug af et præparat mod ufrivillig vandladning ikke kunne ændre herpå. Selskab medhold.*
-
-<img src="img/kajak.jpg" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-<br>
-*Sag 81840: Klager over afvisning af at dækning af ansvarsskade. Klagers kajak, der var opmagasineret i hans tidligere udlejers carport, blæste under storm ned fra sin placering mellem to bjælker og forårsagede herved skade på udlejers bil. Selskabet afviste dækning med henvisning til, at skaden var hændelig. Selskab medhold.*
-
----
-
-### Gæstebudsskade
-Forvolder man skaden under almindeligt privat samvær – typisk af selskabelig karakter – dækker ansvarsforsikringen i en række situationer, hvor domstolene vil være tilbageholdende med at pålægge en et juridisk erstatningsansvar. Disse skader kaldes normalt for “gæstebudsskader”. Et eksempel er Forsikringsankenævnets sag 75029, hvor klagerens datter – mens hun var på besøg – beskadigede et trægulv med sine spidse stilethæle. Der kan også henvises til Forsikringsankenævnets sag 75365, samt sammenstød af cykler under en fælles motionsaktivitet, jf. forsikringsankenævnets sag 91226:.
-
----
-
-*Sag 91226: Klager over afvisning af dækning for skade ved sammenstød af cykler. Klager og skadelidte havde deltaget i en fælles cykeltur, hvor klager var stødt ind i baghjulet på skadelidtes cykel. Klager ønskede, at selskabet skulle erstatte skade på baghjulet med henvisning til, at han havde handlet ansvarspådragende ved at se bagud under kørslen, alternativt at selskabet dækkede skaden som gæstebudsskade. Selskabet anførte, at klagers erstatningsansvar skulle vurderes på baggrund af den milde ansvarsvurdering, der skete ved skader forvoldt idrætsudøvere imellem under udøvelse af sportsaktiviteter. Selskabet anførte yderligere, at gæstebudsdækningen ikke var relevant, da formålet med cykelturen havde været motion og ikke den personlige relation eller samværet. Nævnet fandt, at klageren ikke havde handlet ansvarspådragende, hvorfor selskabet ikke skulle dække efter den almindelige regel om erstatningsansvar. Nævnet fandt, at der måtte sondres mellem selve motionscyklingen - som ikke ville være omfattet af reglen om gæstebudsskade - og det efterfølgende sociale samvær, hvor man ifølge klageren "får en kop kaffe og en øl til en snak efterfølgende", idet denne del af samværet ville være omfattet af den særlige dækning, som forsikringen yder ved gæstebudsskader, idet dette samvær falder ind under begrebet "almindeligt privat samvær". Klageren havde derfor ikke krav på, at skaden på cyklen blev dækket efter reglen om gæstebudsskade. Selskab medhold.*
-
-
----
-
-
-
-
-
-
-
-```{r ansvarsforsikringen, echo=FALSE}
-mydf <- data.frame(
-  S1 = c("Hvordan er handlingen forvoldt?" ,
-         "Forsætligt", 
-          "Uagtsomt", 
-          "Gæstebudsskade", 
-          "Hændeligt"
-),
-  S2 = c("Er der juridisk set erstatningsansvar?" ,
-  "Ja",
-"Ja",
-"Ja",
-"Nej"
-),
-  S3 = c("Dækker ansvarsforsikringen?",
-         "Nej",
-         "Ja",
-         "Ja",
-         "Nej"
-)
-)
-names(mydf) <- NULL
-mydf %>%
-  kable("html", escape = FALSE, caption = "Er skaden dækket af ansvarsforsikringen?") %>%
-  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
-  column_spec(1, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  column_spec(3, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
-  row_spec(1,italic = T,bold = T,font_size = 12,color = "white", background = "darkgrey") %>%
-  # row_spec(1,italic = T,bold = T,font_size = 12)
-  # column_spec(0, angle = -45)%>%
-  # scroll_box(width = "500px") %>%
-  footnote(general = "Forsikringsankenævnets klageguide",general_title = "Kilde:")%>%
-footnote(number = "Hvis skadevolder er under 14 år eller er utilregnelig, kan der dog være dækning selv om handlingen er forvoldt forsætligt")
-```
-
-
-
-Er skaden dækket af en tingsforsikring tegnet af skadelidte, f.eks. en indboforsikring eller en kaskoforsikring på hus eller bil, er skadevolder som udgangspunkt ikke erstatningsansvarlig for skaden, og skadevolders ansvarsforsikring skal derfor ikke dække. Skadelidte må i stedet rette henvendelse til sit eget forsikringsselskab.
-
-Der gælder visse undtagelser fra dette princip. Eksempelvis er der alligevel erstatningsansvar – og dækning hos ens ansvarsforsikringsselskab – hvis man har forvoldt skaden ved grov uagtsomhed. Ved grov uagtsomhed forstås normalt, at den udviste adfærd indebar en indlysende fare for den skade, som faktisk skete. Der er ligeledes erstatningsansvar, hvis man har forvoldt skaden forsætligt, men i de tilfælde dækker ens ansvarsforsikring som ovenfor anført ikke.
-
-## Ansvarsforsikringens undtagelser
-Privatansvarsforsikringen indeholder en række undtagelser, hvor ansvarsforsikringen ikke dækker. De mest almindelige undtagelser er ifølge Forsikringsankenævnet følgende:
-
-Ansvar for skade, der rammer den sikrede personkreds
-Ansvarsforsikringen dækker normalt ikke, hvis man kommer til at forvolde skade på en af de personer, som familie-/indboforsikringen omfatter. Det vil typisk være tilfældet, hvis man forvolder skade på ejendele, der tilhører en selv, da man ikke kan være erstatningsansvarlig over for sig selv, ens ægtefælle/samlevende eller ens børn. Dog dækker ansvarsforsikringen normalt, hvis man forvolder personskade på dem.
-
-Ansvarsforsikringen dækker som regel kun ansvar, man pådrager sig i privatlivet
-Forvolder man skade i forbindelse med sit erhverv, skal dækning søges på en eventuel erhvervsansvarsforsikring. Hvis det erhvervsmæssige aspekt i aktiviteten er helt underordnet – f.eks. hvis man kommer til at ødelægge en stol, mens man er til et bestyrelsesmøde i andelsboligforeningen, der afholdes hos en anden andelshaver – vil ens ansvarsforsikring normalt dække.
-
-Ansvar for arbejde for andre
-Hvis man arbejder for andre og får løn for det, så dækker privatansvarsforsikringen ikke de skader, man forvolder som ansat.
-
-Hvis man ikke får løn, dækker ansvarsforsikringen i nogle tilfælde. Man ser på, om man selv har en interesse i det arbejde, som man udfører, eller om det er en vennetjeneste. Herudover ser man på omfanget og intensiteten af ens arbejdsindsats. Hvis man kortvarigt hjælper ens nabo med f.eks. at støvsuge og taber støvsugerrøret ned på et glasbord, der smadres, vil ansvarsforsikringen normalt dække. Lignende sager ses i Forsikringsankenævnet i sagerne 39930 og 60013:
-
-___
-
-*Sag 39930: Ansvar – ansvar. Klagers søn forvolder skade på sin brors linoliegulv, da han forsøger at fjerne tæpperester med ovnrens – anset for arbejde for andre.*
-
-*Sag 60013: Ansvar – vennetjeneste. Selskabet afviser dækning for ansvarsskade. Klageren ville være sød og støvsuge et værelse hos udlejer. Smadrede glasbord. Selskabet gør gældende, at klageren ikke er erstatningsansvarlig for den skete skade, der er sket ved simpel uagtsomhed under udøvelse af en tjeneste i skadelidtes interesse. Nævnet finder, at klageren, der ikke kan henføres under undtagelsesbestemmelsen om arbejde for andre, har handlet uagtsomt. Klageren er derved erstatningsansvarlig for den forvoldte skade. Klageren medhold.*
-
----
-
-### Ansvar i kontraktforhold
-Hvis man bliver erstatningsansvarlig, fordi man ikke overholder en aftale eller en kontrakt, dækker ansvarsforsikringen ikke.
-
-Ansvar for ting, der er i ens varetægt
-Ofte dækker ansvarsforsikringen ikke ansvar for skade på ting, som man har til låns, leje eller opbevaring, afbenyttelse, befordring, eller som af andre grunde befinder sig i ens varetægt. Låner man eksempelvis en iPad af en ven i længere tid, vil iPaden være i ens varetægt, og ansvarsforsikringen dækker ikke.
-
-Her skal det bemærkes, at nogle ansvarsforsikringer dækker eksempelvis i den første måned, hvor man låner eller lejer en genstand.
-
-Ens råden over genstanden skal være af en vis intensitet, for at man kan siges at have den i sin varetægt. Cykler man eksempelvis over til en ven med hans iPad, som han har glemt hjemme hos en, og taber man den på vejen, vil der typisk være forsikringsdækning. Ved kortvarig råden over en genstand med ejerens accept vil der som udgangspunkt også være dækning på ansvarsforsikringen.
-
-Forsikringsankenævnet har i sagen 85614 taget stilling til, om undervisningsmateriale udleveret af en skole – herunder en iPad – er omfattet af den private ansvarsforsikring. Nævnet fandt, at dette ikke var tilfældet, da lånet af undervisningsmaterialerne ikke udelukkende var i elevens interesse:
-
----
-
-*Sag 85614: Klager over afslag dækning for en iPad og skolebøger. Genstandene lå i klagers skoletaske, der blev stjålet. Klager anførte, at de var udlånt af gymnasiet i hendes interesse til brug for uddannelsen, hvorfor hun bar risikoen for dem. Hun henviste til både DL 5-8-1 (Danske Lov fra 1683) og en underskrevet kontrakt med skolen om lån af iPad. Selskabet henviste til, at genstandene tilhørte skolen, samt til udtalelser fra Folketingets Ombudsmand og Undervisningsministeriet, hvoraf fremgik, at DL 5-8-1 ikke fandt anvendelse ved skolers udlån af undervisningsmidler, og at der ikke gyldigt kunne indgås aftale om et mere vidtrækkende ansvar for de lånte genstande, end hvad der fulgte af den almindelige erstatningsretlige culparegel. Nævnet fandt, at klager ikke ejede genstandene og heller ikke bar risikoen for disse. Nævnet måtte lægge til grund, at kontraktens vilkår om, at klager bar tyveririsikoen for iPaden var ugyldigt, da vilkåret gik videre end dansk rets almindelige regler om erstatning. Nævnet fandt, at ansvar for skader på lånte genstande efter betingelserne var undtaget dækning, når der var gået mere end 30 dage efter overtagelsen. Selskabet var derfor ikke forpligtet til at dække tyveriet. Selskab medhold.*
-
----
-
-Skader som f.eks. tyveri, brand og lignende, der kan overgå genstande, man har lånt, lejet, eller som på anden måde er i ens varetægt, vil være omfattet af ens indboforsikring.
-
-Det samme gælder genstande, som børn kommer til at ødelægge, fordi de har en naturlig opdagetrang. Et vidtgående eksempel er U 1980.1082 Ø. Her skulle forsikringsselskabet erstatte, at to 16-årige drenge havde formået at starte en bulldozer med en skruetrækker, hvorefter bulldozeren kørte i havnen:
-
----
-
-<img src="img/bulldozer.jpg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
-*U 1980.1082 Ø: To 16-årige drenge A og B brugsstjal en bulldozer på et havneområde. Kort efter at A ved hjælp af en skruetrækker, som B rakte ham, havde startet bulldozeren, kørte den i havnen. hvorved der opstod betydelig skade på bulldozeren. B’s fader havde i et forsikringsselskab tegnet en privatforsikring. Undtaget fra selskabets ansvar var “forsætlige skader”, “skader på ting, der var i den sikredes varetægt” og “skader forvoldt under benyttelse af motordrevet køretøj”. B fandtes erstatningsansvarlig efter almindelige regler, da han ansås for forsætligt at have medvirket til, at bulldozeren begyndte at køre, og da han og A ved uagtsomt forhold havde forvoldt skaden, der måtte anses for påregnelig. Skaden ansås dækket af forsikringspolicen, da skaden ikke var forårsaget ved forsæt, da et varetægtsforhold ikke ansås for opstået ved den kortvarige benyttelse af bulldozeren, og da undtagelsesbestemmelsen vedrørende motordrevet køretøj efter sit indhold ikke klart omfattede skaden på det benyttede køretøj. Erstatningen omfattede skadelidtes “egne leverancer” og et beløb til dækning af administrationsudgifter.*
-
----
-
-Ansvar forvoldt ved brug af motorkøretøjer, ens ansvar som husejer eller som hundeejer
-Sådanne skader dækkes ikke, og man skal således købe en autoansvarsforsikring, en husejerforsikring med ansvarsdækning eller en hundeforsikring.
-
-## Quiz  
-
-<h3><a href="https://quiz.tepedu.dk/juraerstatning" target="_blank">Quiz Erstatning   <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></h3>
-</a>
-
-<br>
 
 
 
@@ -8320,18 +8200,18 @@ Svar: I det omfang misligholdelsen har påført Peter et tab kan han søge dette
 Da læringsmålene i relation til købeloven er begrænset til en generel viden om principperne, kan der ikke kræves udtømmende svar med paragrafhenvisninger mv. Besvareler der afspejler en generel forståelse for de bagved liggende hensyn og principper skal belønnes.
 <br>
 Svar slut.
-<br>
+
 ---
 Peter betalte for prinsessepakken, da han bestilte den – men da han skal betale på netbank kommer han til at overføre 10.150 kr. Det opdager han først den 3.november, hvor han undrer sig over, at der står så lidt på kontoen.
-<br>
+
 Peter Petersen kontakter TEMAFESTEN telefonisk og får den besked, at de ikke lige havde opdaget det for meget overførte beløb, men at de vil undersøge sagen og få sendt det for meget indbetalte tilbage. Efter et par dage refunderes de kr. 1.015 kr. men ikke det for meget indbetalte beløb. 
-<br>
+
 Peter ringer igen til TEMAFESTEN, og de lover igen at se på sagen. Herefter har han kontakt til TEMAFESTEN omtrent hver 3. dag – de bliver ved med at love tilbagebetaling, men det sker ikke. 
-<br>
+
 Herefter kontakter Peter en advokat for at få rådgivning om hvordan beløbet kan inddrives og hvordan forløbet i en sådan inddrivelse forventes at være.
-<br>
-Eksamensspørgsmålet:
-<br>
+
+***Eksamensspørgsmålet:***
+
 3. Hvilken rådgivning skal advokaten give ham? (10%)
 <br>
 Løsning:
@@ -15566,48 +15446,55 @@ Man skal derfor være meget omhyggelig med at svare rigtigt på spørgsmålene, 
 man skriver under på, idet man senere hen vil have meget vanskeligt ved at bevise, at man oplyste noget andet til sælgeren end det, man skrev under på. Tegner man flere forsikringer på samme tid i forsikringsselskabet, kan man risikere, at de urigtige oplysninger – som man afgav for én forsikring – får betydning for alle de forsikringer, man tegnede samtidig. Se eksempelvis Forsikringsankenævnets sagsnr.: 99.208:  
 
 
-### Retspraksis om risikooplysninger og urigtige oplysninger<sup><font color="red"> Premium </font></sup>  
+### Retspraksis om risikooplysninger og urigtige oplysninger og forsikringstyper<sup><font color="red"> Premium </font></sup>  
 Sagsnr.: 99208. Hvor klageren i forbindelse med køb af indbo-, bil- og ulykkesforsikring i selskabet havde sat kryds i "nej" som svar på spørgsmålet: "Har et selskab over for en i husstanden inden for de seneste tre år stillet krav om skærpede vilkår (f.eks. forhøjet præmie og/eller selvrisiko) efter anmeldelse af skade(r)?". Klagerens tidligere bilforsikringsselskab havde 4 måneder før sendt et brev til klageren, hvor det oplyste, at det forhøjede selvrisikoen. Nævnet fandt, at selskabet ved fremlæggelse af sine interne acceptregler kunne sandsynliggøre, at det, såfremt klageren havde afgivet korrekte oplysninger, ikke ville have tegnet andre forsikringer end den lovpligtige ansvarsforsikring for bilen. Nævnet kunne derfor ikke kritisere, at selskabet havde ophævet alle forsikringerne – bortset fra ansvarsforsikringen for bilen – med tilbagevirkende kraft til tegningstidspunktet. Klageren fik som konsekvens heraf ikke udbetalt erstatning for et indbrudstyveri.
 
-Risikooplysningerne afgives ofte i et spørgeskema (forsikringsbegæringen). I begæringen om familieforsikring spørger selskabet blandt andet om tidligere skadesforløb, og om man tidligere har fået sine forsikringer opsagt af et forsikringsselskab. Forsikringsselskabet kan også spørge, om man er registreret som dårlig betaler. I stedet for begæringer stiller en del selskaber telefonisk spørgsmålene til én og beder om, at man på en mail bekræfter, at de svar, selskabet har noteret, er korrekte. Forsikringsselskaberne går ud fra, at ens oplysninger er rigtige. Forsikringsselskaberne undersøger kun stikprøvevis, om ens oplysninger er korrekte. Oftest undersøger selskabet først, om ens oplysninger var korrekte, når
-man har anmeldt én eller flere skader til selskabet. Afgiver man oplysningerne telefonisk til forsikringsselskabet, uden at
-der foreligger et dokument med ens svar, som man efterfølgende har set og godkendt, skal selskabet bevise, at man telefonisk afgav urigtige oplysninger. Se Forsikringsankenævnets sagsnr.: 83753 og 78797:  
+Risikooplysningerne afgives ofte i et spørgeskema (forsikringsbegæringen). I begæringen om familieforsikring spørger selskabet blandt andet om tidligere skadesforløb, og om man tidligere har fået sine forsikringer opsagt af et forsikringsselskab. Forsikringsselskabet kan også spørge, om man er registreret som dårlig betaler. 
+
+I stedet for begæringer stiller en del selskaber telefonisk spørgsmålene til én og beder om, at man på en mail bekræfter, at de svar, selskabet har noteret, er korrekte. Forsikringsselskaberne går ud fra, at ens oplysninger er rigtige. Forsikringsselskaberne undersøger kun stikprøvevis, om ens oplysninger er korrekte. Oftest undersøger selskabet først, om ens oplysninger var korrekte, når man har anmeldt én eller flere skader til selskabet. 
+
+Afgiver man oplysningerne telefonisk til forsikringsselskabet, uden at der foreligger et dokument med ens svar, som man efterfølgende har set og godkendt, skal selskabet bevise, at man telefonisk afgav urigtige oplysninger. Se Forsikringsankenævnets sagsnr.: 83753 og 78797:  
 
 Sagsnr.: 83753 om en arbejdsløshedsforsikring, hvor selskabet ikke kunne bevise, at det havde spurgt klageren, om han var ansat i fleksjob. Selskabet skulle derfor udbetale arbejdsløshedsydelser til klageren, selv om forsikringsselskabet normalt ikke solgte forsikringer, hvis man var ansat i fleksjob.
+
 I sagsnr.: 78797 kunne selskabet ikke bevise, at klageren telefonisk havde afgivet urigtige oplysninger. „Her var det ikke nok, at selskabet i policen, som klageren modtog efter at have indgået aftalen med selskabet, under et punkt, der hed "Øvrige forhold ved forsikringen", blandt andet havde skrevet "Du har ikke haft skader de sidste 3 år" og "Du er ikke opsagt af – eller har fået skærpede vilkår – i andet selskab". Nævnet henviste her til forsikringsaftalelovens § 10, stk. 3, hvor det fremgår, at hvis selskabet i policen har beskrevet et faktisk forhold uden at have indhentet oplysning om det fra forsikringstageren, kan det ikke komme forsikringstageren til skade, hvis det viser sig, at oplysningen var urigtig“. Reglerne om ens og forsikringsselskabets rettigheder, hvis man har givet urigtige oplysninger, finder man i FAL §§ 4-10.  
 
 
 ## Erstatning og renter
 Udbetaler forsikringsselskabet ikke erstatning til dig inden 14 dage efter, at selskabet har modtaget de nødvendige oplysninger til at afgøre ens krav, skal selskabet betale renter af erstatningen fra denne dato. Det fremgår af FAL § 24.  
 
-Skal forsikringsselskabet erstatte skaden således, at selskabet betaler indkomne fakturaer fra f.eks. håndværkere, tandlæge eller kiropraktor, skal selskabet normalt ikke betale renter til forsikringstageren. Betaler man derimod selv eksempelvis håndværkeren, og selskabet skal erstatte ens udlæg, forrentes ens krav som udgangspunkt 14 dage efter, at selskabet
-har modtaget fakturaen og forsikringstagerens meddelelse om, at man har betalt (forudsat, at de øvrige betingelser er opfyldt).  
+Skal forsikringsselskabet erstatte skaden således, at selskabet betaler indkomne fakturaer fra f.eks. håndværkere, tandlæge eller kiropraktor, skal selskabet normalt ikke betale renter til forsikringstageren. 
+
+Betaler man derimod selv eksempelvis håndværkeren, og selskabet skal erstatte ens udlæg, forrentes ens krav som udgangspunkt 14 dage efter, at selskabet har modtaget fakturaen og forsikringstagerens meddelelse om, at man har betalt (forudsat, at de øvrige betingelser er opfyldt).  
+
 Forsikringsselskabet skal udbetale aconto-erstatning til forsikringstageren, hvis en del af erstatningen kan opgøres, og det er sikkert, at selskabet under alle omstændigheder skal udbetale dette beløb i erstatning til forsikringstageren. Selskabet kan altså ikke tilbageholde hele erstatningen, fordi der stadig er genstande, hvor erstatningen ikke kan fastsættes. Det fremgår af FAL § 24, stk. 1, og § 25  
 
 ## Under- og dobbeltforsikring
 
-Forsikringssummen på dens forsikring skal altid mindst svare til forsikringsværdien af f.eks. indboet. Dvs. hvad det vil koste at genanskaffe alt dit indbo i tilfælde af en totalskade – fx en brand. Forsikringstageren er selv ansvarlig for, at forsikringssummen er rigtig. Man er underforsikret, når forsikringssummen er mindre en værdien af ens indbo. I tilfælde af en skade betyder det, at erstatningen bliver mindre, end hvad det koster at genanskaffe det ødelagte. Ved underforsikring
-bliver erstatningen regnet ud efter denne formel:  
+Forsikringssummen på dens forsikring skal altid mindst svare til forsikringsværdien af f.eks. indboet. Dvs. hvad det vil koste at genanskaffe alt dit indbo i tilfælde af en totalskade – fx en brand. Forsikringstageren er selv ansvarlig for, at forsikringssummen er rigtig. Man er underforsikret, når forsikringssummen er mindre en værdien af ens indbo. 
+
+I tilfælde af en skade betyder det, at erstatningen bliver mindre, end hvad det koster at genanskaffe det ødelagte. Ved underforsikring bliver erstatningen regnet ud efter denne formel:  
 
 Skade x forsikringssum = Erstatning  
 forsikringsværdi  
 
-Eksempel:   
-Er forsikringsværdien af ens indbo 800.000 kr. og ens forsikringssum kun
-på 400.000 kr., vil der blive udbetalt halv erstatning for ens skade.
+*Eksempel:*   
+Er forsikringsværdien af ens indbo 800.000 kr. og ens forsikringssum kun på 400.000 kr., vil der blive udbetalt halv erstatning for ens skade.
+
 Er ens forsikringssum større end ens værdier, er man overforsikret.
-Forsikringsselskabet betaler i den situation alene erstatning for ens skade
-og ikke for det, man har betalt for meget i forsikring.  
+Forsikringsselskabet betaler i den situation alene erstatning for ens skade og ikke for det, man har betalt for meget i forsikring.  
 
 ## Forældelse af forsikringskrav
 
-For at man kan få fyldestgjort sit krav, skal man fremsætte det, inden det er forældet. Som udgangspunkt sker der forældelse efter 3 år, jf. forældelseslovens § 3, stk. 1. Det betyder, at man skal have fremsat sit krav overfor selskabet indenfor 3 år. Fristen regnes fra skadetidspunktet. Hvis skaden ikke kan konstateres med det samme, regnes 3-årsfristen fra det
-tidspunkt, hvor skaden opdages eller konstateres, dog således, at der under alle omstændigheder sker forældelse senest 30 år efter skadetidspunktet for så vidt angår erstatning og godtgørelse i anledning af personskade. For tingsskade er denne frist 10 år.  
+For at man kan få fyldestgjort sit krav, skal man fremsætte det, inden det er forældet. Som udgangspunkt sker der forældelse efter 3 år, jf. forældelseslovens § 3, stk. 1. Det betyder, at man skal have fremsat sit krav overfor selskabet indenfor 3 år. 
+
+Fristen regnes fra skadetidspunktet. Hvis skaden ikke kan konstateres med det samme, regnes 3-årsfristen fra det tidspunkt, hvor skaden opdages eller konstateres, dog således, at der under alle omstændigheder sker forældelse senest 30 år efter skadetidspunktet for så vidt angår erstatning og godtgørelse i anledning af personskade. For tingsskade er denne frist 10 år.  
+
 Når en sag indbringes for Ankenævnet for Forsikring inden for forældelsesfristen, forældes sagen ikke, mens nævnet behandler sagen. Når nævnets afgørelse foreligger, har man en tillægsfrist på 1 år til at gå videre med sagen til domstolene, hvis man stadig ikke har fået sit krav opfyldt.  
 
-Denne 1-årsfrist løber sideløbende med den almindelige 3-årsfrist, og den længste af de to frister gælder. I praksis skal man derfor være opmærksom på, at det ikke kan udelukkes, at ens krav mod forsikringsselskabet kan blive forældet, hvis man ikke
-anlægger sag mod selskabet ved domstolene inden et år fra afgørelsen i ens sag blev afsendt fra nævnet (datoen på fremsendelsesbrevet til forbrugeren). Har nævnet i afgørelsen afgjort, at ens krav mod selskabet allerede var forældet, betyder den omtalte 1 års frist naturligvis ikke, at man kan gøre en allerede indtruffet forældelse virkningsløs. Hvis man selv hæver
-klagesagen ved nævnet, inden nævnet træffer afgørelse i sagen, eller hvis nævnet af formelle grunde helt afviser at behandle sagen, gælder tillægsfristen på 1 år ikke.  
+Denne 1-årsfrist løber sideløbende med den almindelige 3-årsfrist, og den længste af de to frister gælder. I praksis skal man derfor være opmærksom på, at det ikke kan udelukkes, at ens krav mod forsikringsselskabet kan blive forældet, hvis man ikke anlægger sag mod selskabet ved domstolene inden et år fra afgørelsen i ens sag blev afsendt fra nævnet (datoen på fremsendelsesbrevet til forbrugeren). 
+
+Har nævnet i afgørelsen afgjort, at ens krav mod selskabet allerede var forældet, betyder den omtalte 1 års frist naturligvis ikke, at man kan gøre en allerede indtruffet forældelse virkningsløs. Hvis man selv hæver klagesagen ved nævnet, inden nævnet træffer afgørelse i sagen, eller hvis nævnet af formelle grunde helt afviser at behandle sagen, gælder tillægsfristen på 1 år ikke.  
 
 Reglerne kan ikke fraviges af selskabet til skade for forsikringstageren. Dog kan selskabet gyldigt aftale en anmeldelsesfrist i forbindelse med forsikringens ophør, hvis denne frist er mindst 6 mdr.  
 
@@ -15620,10 +15507,16 @@ Ankenævnet for Forsikring er et privat klagenævn oprettet i 1975 af Forbrugerr
 Klagen skal vedrøre ens forsikringer. Man kan således ikke klage over en afgørelse truffet af modpartens forsikringsselskab.  
 Klagen skal vedrøre privatlivets forsikringsforhold: Klager vedrørende erhvervslivets forsikringsforhold falder som udgangspunkt uden for Ankenævnets område.  
 
-Klagen skal angå et konkret økonomisk mellemværende: Klagen skal altså angå et spørgsmål af økonomisk betydning. Ankenævnet kan ikke behandle klager over f.eks. ansattes opførsel, et forsikringsselskabs markedsføring eller andre generelle forhold. Ankenævnet er således ikke et disciplinærnævn eller en tilsynsmyndighed.  
+Klagen skal angå et konkret økonomisk mellemværende: 
+
+Klagen skal altså angå et spørgsmål af økonomisk betydning. 
+
+Ankenævnet kan ikke behandle klager over f.eks. ansattes opførsel, et forsikringsselskabs markedsføring eller andre generelle forhold. Ankenævnet er således ikke et disciplinærnævn eller en tilsynsmyndighed.  
 
 ### Behandling af klage  
-Ankenævnet kan ikke behandle klagen, hvis behandling hører under offentlige myndigheder, f.eks. Finanstilsynet, eller andre anke- eller klagenævn. Nævnet kan heller ikke behandle klagen, hvis ens sag er afgjort ved endelig dom, gyldigt bindende voldgift eller retsforlig.  
+Ankenævnet kan ikke behandle klagen, hvis behandling hører under offentlige myndigheder, f.eks. Finanstilsynet, eller andre anke- eller klagenævn. 
+
+Nævnet kan heller ikke behandle klagen, hvis ens sag er afgjort ved endelig dom, gyldigt bindende voldgift eller retsforlig.  
 
 ### Hvornår kan man klage  
 Man kan først klage til Ankenævnet, når man har klaget til forsikringsselskabet over afgørelsen, og forsikringsselskabet har fastholdt sin afgørelse eller har undladt at besvare ens klage.  
@@ -15634,7 +15527,13 @@ Man skal betale et klagegebyr på 200 kr. Hvis man får medhold i sin klage, få
 
 ### Sagsbehandlingstid 
 
-Den typiske sagsbehandlingstid er 6-8 måneder. Sagsbehandlingstiden afhænger i høj grad af, hvor mange gange klageren og forsikringsselskabet ønsker at indsende nye oplysninger eller synspunkter til sagen. Europæiske klageorganer: Ankenævnet for Forsikring er optaget på Europa-Kommissionens liste over alternative tvistbilæggelsesorganer (ATB-instanser) og kan modtage klager via Europa-Kommissionens online-tvistbilæggelsesplatform (OTB-platform). OTB-platformen kan med fordel anvendes, hvis man ønsker at klage over et forsikringsselskab, som er etableret i et andet land end Danmark, og som dermed har leveret en grænseoverskridende tjenesteydelse til forsikringstageren. Vil man klage over et dansk forsikringsselskab, anbefaler Forsikringsankenævnet, at man benytter denne hjemmeside. Ankenævnet for Forsikring er også tilsluttet FIN-NET – et europæisk netværk af klageorganer i Europa inden for det finansielle område. Klik ind på FIN-NET for at læse nærmere.  
+Den typiske sagsbehandlingstid er 6-8 måneder. Sagsbehandlingstiden afhænger i høj grad af, hvor mange gange klageren og forsikringsselskabet ønsker at indsende nye oplysninger eller synspunkter til sagen. 
+
+Europæiske klageorganer: Ankenævnet for Forsikring er optaget på Europa-Kommissionens liste over alternative tvistbilæggelsesorganer (ATB-instanser) og kan modtage klager via Europa-Kommissionens online-tvistbilæggelsesplatform (OTB-platform). 
+
+OTB-platformen kan med fordel anvendes, hvis man ønsker at klage over et forsikringsselskab, som er etableret i et andet land end Danmark, og som dermed har leveret en grænseoverskridende tjenesteydelse til forsikringstageren. 
+
+Vil man klage over et dansk forsikringsselskab, anbefaler Forsikringsankenævnet, at man benytter denne hjemmeside. Ankenævnet for Forsikring er også tilsluttet FIN-NET – et europæisk netværk af klageorganer i Europa inden for det finansielle område. Klik ind på FIN-NET for at læse nærmere.  
 
 Kontaktoplysninger:  
 Ankenævnet for Forsikring  
@@ -15686,7 +15585,9 @@ e-mail: fp@forsikringogpension.dk
 Efter § 43 i lov om finansiel virksomhed skal forsikringsvirksomhed udøves i overensstemmelse med redelig forretningsskik og god praksis inden for forsikringsområdet. Vil forsikringstageren klage over forsikringsselskabers tilsidesættelse af god forsikringsskik, skal Finanstilsynet kontaktes.  
 
 ### Finanstilsynet  
-Finanstilsynet kan tage sager vedrørende overholdelsen af god skik og de udstedte bekendtgørelser op af egen drift, f.eks. i forbindelse med inspektionsbesøg eller temaundersøgelser. Finanstilsynet kan endvidere tage sager op efter anmodning fra Finanstilsynets bestyrelse eller Forbrugerombudsmanden. Finanstilsynet modtager tillige henvendelser direkte fra forbrugere, der imidlertid normalt henvises til de finansielle tvistløsningsorganer, hvis klagen også vedrører civilretlige spørgsmål om erstatning eller tilbagebetaling af uretmæssigt opkrævede beløb. Erhvervsdrivende henvises til domstolene. Finanstilsynet træffer en traditionel forvaltningsretlig afgørelse med mulighed for administrativ rekurs, og tilsynet har ikke en direkte søgsmålskompetence til domstolene. Såfremt en sag om god skik har vidtrækkende eller principiel betydning, skal Finanstilsynet forelægge sagen for Tilsynets bestyrelse.  
+Finanstilsynet kan tage sager vedrørende overholdelsen af god skik og de udstedte bekendtgørelser op af egen drift, f.eks. i forbindelse med inspektionsbesøg eller temaundersøgelser. Finanstilsynet kan endvidere tage sager op efter anmodning fra Finanstilsynets bestyrelse eller Forbrugerombudsmanden. 
+
+Finanstilsynet modtager tillige henvendelser direkte fra forbrugere, der imidlertid normalt henvises til de finansielle tvistløsningsorganer, hvis klagen også vedrører civilretlige spørgsmål om erstatning eller tilbagebetaling af uretmæssigt opkrævede beløb. Erhvervsdrivende henvises til domstolene. Finanstilsynet træffer en traditionel forvaltningsretlig afgørelse med mulighed for administrativ rekurs, og tilsynet har ikke en direkte søgsmålskompetence til domstolene. Såfremt en sag om god skik har vidtrækkende eller principiel betydning, skal Finanstilsynet forelægge sagen for Tilsynets bestyrelse.  
 
 Se følgende kontaktoplysninger:  
 Finanstilsynet  
@@ -15706,22 +15607,325 @@ e-mail: finanstilsynet@ftnet.dk
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/EGj0tVWtr6g" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>  
 
+## Ansvarsforsikring
+
+
+Følgende betragtninger og oplysninger om det private ansvar, husejeransvaret, ansvaret for ens hund, skader på arbejdet samt skader ved udøvelse af sportsaktiviteter bygger hovedsageligt på Forsikringsankenævnets oplysninger i ankenævnets ”klageguide” samt Forsikringsankenævnets praksis, herunder på retspraksis, samt viden fra Forsikringsoplysningen.
+
+## Privatansvarsforsikring 
+
+
+Privatansvarsforsikringen er normalt er en del af ens familie/indboforsikring. Forsikringen dækker den erstatning, man skal betale, hvis man som privatperson forvolder skade på andre personer eller på andres genstande. Der er også knyttet en ansvarsforsikring til en række andre forsikringer, bl.a. en bygningsforsikring. 
+
+Privatansvarsforsikringen dækker kun, hvis man juridisk set er erstatningsansvarlig for den indtrufne skade. Forsikringen dækker således normalt ikke, hvis man ønsker at betale erstatning ud fra et “rimelighedssynspunkt” eller ud fra ens moralske opfattelse.
+
+Efter dansk ret er man juridisk set ansvarlig for en skade, hvis man har udvist en uforsvarlig adfærd (handling eller undladelse), hvis adfærden kan tilregnes en som forsætlig eller uagtsom, og hvis den skade, som man har forvoldt, må anses for at være en forventelig (påregnelig) følge af ens adfærd. Denne såkaldte culparegel står ikke skrevet i nogen lov, men er udviklet gennem en langvarig retspraksis.
+
+Hændelige skader er man ikke ansvarlig for, se f.eks. her fra retspraksis følgende afsagte domme:
+
+
+---
+
+<img src="img/soup.jpg" align="right" width="15%" height="15%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+
+*FED 2018.05 V.L.D. af 6. juli 2018. Sag: B-1381-17: 2-årigt barn A, der blev passet af gudmor B, kom alvorligt til skade, da A fik fingre i skål med skoldhed suppe, der væltede ned over A. A og B opholdt sig i et køkken, og B havde vendt ryggen til A i ca. 2 sek. Det var ikke oplyst, hvor på køkkenbordet skålen var placeret, og A havde herefter ikke bevist, at B havde udvist ansvarspådragende uagtsomhed.*
+
+
+*I sag 86059 fandt Forsikringsnævnet eksempelvis, at klageren havde handlet ansvarspådragende ved at lade en veninde til sin datter benytte en trampolin, hvis sikkerhedsnet ikke var monteret korrekt. Nedenfor ses desuden Forsikringsankenævnets sag 88426 om en 12-årig dreng, der skubber en voksen i ryggen, samt Forsikringsankenævnets sager 87739, 86992, 86059 og 85472:*
+
+
+
+*Sag 88426: Klager over afslag på dækning for en ansvarsskade, hvor klagers 12-årige søn var skadevolder. Efter afsluttet fodboldspil, hvor de var på vej ud for at samle bolde ind, gav sønnen faderen et hårdt skub i ryggen, så han faldt forover og beskadigede knæet. Selskabet henviste til, at sønnen ikke var ansvarlig for skaden. Nævnet fandt, at sønnen havde udvist en adfærd, som kunne tilregnes ham som uagtsom. Klagers tilskadekomst var derfor omfattet af hjemforsikringens dækning for ansvar ved personskade. Nævnet lagde vægt på, at skubbet ikke kunne anses for at være sket under et igangværende fodboldspil eller under farlig leg. Klager medhold.*
+
+<img src="img/raket.jpg" align="right" width="25%" height="25%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+
+*Sag 87739: Klager over afslag på at dække en ansvarsskade forvoldt af klagers søn. Sønnen beskadigede gulvet i sit værelse på efterskolen, da han tabte et tændt heksehyl, som han ville smide ud af vinduet. Forsikringen dækkede ikke ansvar på skader på ting, som den sikrede havde i sin varetægt. Nævnet fandt derfor ikke at kunne kritisere selskabets afgørelse. Selskab medhold.*
+
+*Sag 86992: Klager over afslag på dækning for en anmeldt ansvarsskade. Klager anmeldte, at der var sket skade på hendes nabos gulv i forbindelse med, at hun havde passet naboens hus og have og ikke havde fået lukket tilstrækkeligt for vandet efter vanding af blomster. Herved var vandet løbet gennem en haveslange dryppet ned i en spand, hvor haveslangens frie ende var placeret, hvorefter vandet løb ud på gulvet. Selskabet anførte, at der var tale om en hændelig skade. Nævnet fandt, at skaden opstod ved klagers udførelse af en vennetjeneste for naboen, hvor hun ikke fik lukket forsvarligt for vandet. Nævnet fandt, at klager herved havde handlet ansvarspådragende, og lagde bl.a. vægt på, haveslangen var placeret i stuen, og at huset henstod ubeboet på tidspunktet for skadens indtræden. Det forhold, at klagers kortfattede mail af 12/8 2014 kunne give anledning til usikkerhed om, hvem der placerede spanden i stuen, kunne efter nævnets opfattelse ikke føre til andet resultat. Selskabet skulle derfor anerkende, at klager var erstatningsansvarlig. Klager medhold.*
+
+
+<img src="img/trampolin.jpg" align="right" width="25%" height="25%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+
+
+*Sag 86059: Klager over afvisning af dækning for en knæskade, som klagers datters veninde (12 år) pådrog sig under et hop på klagers trampolin den 3/6 2013. Selskabet afviste dækning med henvisning til, at der var tale om et hændeligt uheld, og at klager ikke var ansvarlig for den skete skade. Nævnet fandt, at klager havde handlet ansvarspådragende ved at lade datterens veninde benytte en trampolin med et sikkerhedsnet, der ikke var monteret korrekt. Nævnet fandt det godtgjort, at den mangelfulde montering af sikkerhedsnettet var medvirkende årsag til, at venindens fod satte sig fast, så hun kom til skade. Selskabet skulle derfor anerkende, at klager var ansvarlig for de skader, som veninden måtte have pådraget sig. Det forhold, at skadelidte og skadelidtes mor var bekendt med sikkerhedsnettets tilstand, kunne ikke føre til andet resultat. Klager medhold.*
+
+
+*Sag 85472: Klager over afvisning af dækning for en ansvarsskade over en familieforsikring. Klager havde etableret et stort hul i gulvet i sin ejerlejlighed med henblik på at opsætte vindeltrappe. En maler faldt ned gennem hullet og kom til skade. Selskabet afviste ansvarsdækning med henvisning til, at der var tale om et grundejeransvar, som ikke var dækket af forsikringen. Nævnets flertal fandt, klagers eventuelle ansvar var et culpaansvar uden for kontrakt, og at han havde ageret som privatperson. Det eventuelle ansvar var derfor dækningsberettigende. Betingelsernes punkt 8.1.4 vedrørende grundejeransvar kunne alene anses for et tillæg til, og ikke en indskrænkning af, den dækning, der ydedes efter hovedreglen i punkt 8.1.1 om ansvar som privatperson. Mindretallet fandt, at betingelsernes 8.1.4 udtømmende gjorde op med dækningen for grundejeransvar, og at den anmeldte skade ikke kunne henføres herunder. Mindretallet bemærkede, at klager kunne have tegnet en entrepriseforsikring. Klager medhold.*
+
+---
+
+Forsikringen dækker normalt ikke, hvis man har handlet forsætligt (med vilje). Det ses eksempelvis i Forsikringsankenævnets sag 86464:
+
+---
+
+<img src="img/fire.jpg" align="right" width="25%" height="25%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+*Sag 86464: Klager over dækning for erstatningsansvar som følge af brand i solcenter. Klager og en veninde havde i et solcenter sat ild til papirstykker i kabinerne, som fik fat i en papirdispenser, der begyndte at brænde. Pigerne forlod solcentret og den rygende papirdispenser. Der var efterfølgende sket brandskader for 2,3 mio. kr. Klager blev idømt solidarisk ansvar med veninden for skaderne. Selskabet afviste at yde dækning med henvisning til at skaderne var sket med forsæt. Klager gjorde gældende, at det ikke var hende, der konkret havde sat ild til det papirstykke, der førte til ild i papirdispenseren og de efterfølgende brandskader. Nævnet fandt, at skaderne var sket med forsæt fra klager og lagde navnlig vægt på, at et solidarisk ansvar var omfattet af dækningsundtagelsen, og at klager ved sin medvirken og ved at forlade stedet med en rygende papirdispenser, der havde været ild i måtte have indset, at der herved var nærliggende risiko for yderligere skader. Selskab medhold.*
+
+---
+
+Har forsikringstageren handlet forsætligt, må han eller hun selv betale erstatning til den skadelidte. Har et barn under 14 år handlet forsætligt, dækker ansvarsforsikringen dog som udgangspunkt også sådanne forsætlige skader. Det samme er tilfældet, hvis man – da man forvoldte skaden – på grund af ens sindstilstand manglede evnen til at handle fornuftsmæssigt.
+
+Man kan efter omstændighederne pålægges erstatningsansvar, hvis andre personer lider tab som følge af redningsaktioner til fordel for en selv. Privatansvarsforsikringen dækker også et sådant ansvar, i det omfang kravet ikke dækkes af lov om arbejdsskadeforsikring, og i det omfang redningsaktionen ikke sker som et led i redningsmandens erhverv.
+
+
+
+Man bør som forsikringstager være tilbageholdende med at anerkende et erstatningsansvar på egen hånd, da man risikerer, at forsikringsselskabet er uenigt og derfor ikke vil dække skaden. 
+
+Man bør derfor normalt kontakte sit forsikringsselskab og bede forsikringsselskabet om at tage stilling til, om man har pådraget sig et ansvar efter dansk rets almindelige erstatningsregler, som forsikringsselskabet vil dække i henhold til policen og forsikringsbetingelserne.
+
+Bliver man sagsøgt af en person, der mener, at man er erstatningssvarlig som privatperson, kan det være hensigtsmæssigt at få en advokat til at føre ens sag. Hvis forsikringsselskabet er enigt i, at man ikke er erstatningsansvarlig, dækker forsikringen normalt også sådanne sagsomkostninger til en advokat.
+
+Mener man, at forsikringsselskabets afvisning af at dække en skade – som man har forvoldt på andres ejendom eller på andre personer – er forkert, er det er en god ide at drøfte med sagsbehandleren i forsikringsselskabet, hvad der skal til, for at man kan bevise, at man har ret. 
+
+Er man stadig utilfreds, kan man kontakte forsikringsselskabets klageansvarlige, hvis man mener, at sagsbehandleren, er nået til et forkert resultat i sagen.
+
+Man skal altid have klaget til forsikringsselskabet over dets afgørelse, før man har adgang til at klage til Forsikringsankenævnet.
+
+Det er værd at bemærke, at Forsikringsankenævnet ikke kan behandle en klage, hvis man som skadelidt mener, at skadevolderens forsikringsselskab skal erstatte de skader/tab, som skadevolderen har påført en som skadelidt. 
+
+Det skyldes, at ankenævnet kun kan behandle klager over forsikringer, som man selv eller en i ens husstand har købt. Og da det ikke er skadelidtes forsikring, der rettes krav imod, kan Forsikringsankenævnet ikke behandle sagen.
+
+Hvis man som skadelidt ikke kan blive enig med skadevolderen eller med vedkommendes forsikringsselskab, er skadelidte nødt til at anlægge en retssag ved domstolene mod skadevolderen. Skadelidte kan eventuelt få retshjælpsdækning til at føre en sådan retssag. Se f.eks. nævnte ankenævnssag:
+
+---
+
+*FED 2013.16: Skadelidtes krav mod skadevolders ansvarsforsikring omfattede ikke policemæssig selvrisiko.*
+
+---
+
+Ofte kan der være oplysninger i en sag om erstatningsansvar, som ikke giver et entydigt billede af, hvad der er sket. Hvis der er tvivl om, hvad der er sket, vil forsikringsankenævnet altid vil foretage en konkret vurdering af validiteten af de oplysninger, som klageren (forsikringstageren) og forsikringsselskabet er fremkommet med. 
+
+Forsikringsankenævnet vil normalt lægge størst vægt på de oplysninger, der er fremkommet fra uvildige parter. Og ankenævnet vil ofte lægge betydelig vægt på de forklaringer, som forsikringstageren eller en anden person først har givet til forsikringsselskabet eller til en tredjemand.
+
+## Uagtsom, forsætlig og hændelig skade samt gæstebudsskade
+Privatansvarsforsikringen dækker som nævnt, hvis forsikringstageren juridisk set har pådraget sig et erstatningsansvar. 
+
+For at pådrage sig et erstatningsansvar skal man bl.a. have udvist en uforsvarlig adfærd (handling eller undladelse), som kan tilregnes én som forsætlig eller uagtsom, og den skade, man har forvoldt, skal være en påregnelig følge af ens adfærd. 
+
+Denne såkaldte culparegel står ikke skrevet i nogen lov, men er udviklet gennem langvarig retspraksis.
+
+### Uagtsom
+Man har handlet uagtsomt, hvis en almindelig, fornuftig person (bonus pater) ved almindelig agtpågivenhed ville have indset, at skaden kunne indtræde som følge af ens adfærd. Ens adfærd vil med andre ord blive betragtet som uagtsom, hvis den afviger fra de i samfundet almindeligt anerkendte, forsvarlige handlemønstre. 
+
+Det ses eksempelvis – som allerede nævnt – i Forsikringsankenævnets sag 86059, hvor ankenævnet fandt, at klageren havde handlet ansvarspådragende ved at lade en veninde til sin datter benytte en trampolin, hvis sikkerhedsnet ikke var monteret korrekt. 
+
+Ligeledes er Forsikringsankenævnets sag 88426 om en 12-årig dreng, der skubber en voksen i ryggen, samt sagerne 87739, 86992 og 85472 relevante.  
+
+### Forsætlig
+<img src="img/stupid.jpg" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<br>
+Man har handlet forsætligt, hvis man havde vilje til at forårsage den skade, der indtrådte, hvis man havde indset, at skaden ville indtræde, eller hvis man ikke ville have handlet anderledes, selv om man havde indset, at skaden med stor sandsynlighed ville indtræde. 
+
+Det ses eksempelvis i tidligere nævnte Forsikringsankenævns sag 86464, hvor nævnet fandt, at brandskaderne på et solcenter var sket med forsæt, da skadevolderen måtte have indset, at der var nærliggende risiko for skade, idet en papirdispenser røg, da skadevolderen forlod solcentret.
+
+Privatansvarsforsikringen dækker ikke, hvis man har forvoldt skaden forsætligt. Har man handlet forsætligt, bliver man selvfølgelig erstatningsansvarlig over for skadelidte, men det er ikke noget, som ansvarsforsikringen dækker. Her må skadevolder selv betale. 
+
+Dette gælder dog ikke for børn under 14 år, der handler forsætligt, medmindre det klart fremgår af forsikringsbetingelserne, at børns forsætlige handlinger ikke dækkes. Det følger af forsikringsaftalelovens (Lovbekendtgørelse nr. 1237 af 9. november 2015) § 19, stk. 1:
+
+
+
+
+
+Bestemmelserne i § 18 om bortfald eller begrænsning af selskabets ansvar finder ikke anvendelse, når den sikrede var under 14 år eller på grund af sindssygdom, åndssvaghed, forbigående sindsforvirring eller lignende tilstand har manglet evnen til at handle fornuftsmæssigt.
+
+
+
+Se fra retspraksis følgende domme:
+
+
+---
+
+<img src="img/bee.jpg" align="right" width="25%" height="25%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+*U 1964.786 H: To 7-årige drenge havde begået hærværk på en bigård og herved pådraget sig erstatningsansvar. Deres forældre havde tegnet familieansvarsforsikringer. Da de i de pågældende selskabers policer indeholdte vilkår ikke med tilstrækkelig klarhed udelukkede anvendelse af den særlige bestemmelse i forsikringsaftalelovens. § 19, stk. 1, jfr. § 18, tilpligtedes selskaberne at friholde drengene for erstatningsansvaret.*
+
+*U 1954 746 H: Hvor en mand fik udbetalt en ulykkeserstatning for hustruen uanset, at han havde dræbt hende og deres 6 børn. Da han var sindssyg i gerningsøjeblikket, lidende af en psykogen sindssygdom, måtte det antages, at han ved begåelsen af drabet på grund af sindssygdom havde manglet evnen til at handle fornuftsmæssigt og da drabet måtte anses for en af forsikringen omfattet begivenhed, fandtes han i medfør af forsikringsaftalelovens § 19, stk. 1, at have krav på forsikringsydelsen.*
+
+*U 1982 528 H: Hvor en mand dræbte sin hustru og hund, hvorefter han satte ild på sit hus, hvorved han indebrændte. Det var ubestridt, at han havde handlet forsætligt, jf. forsikringsaftalelovens § 18, stk. 1. Retslægerådet mente, at der ikke var sikre holdepunkter for, at mandens handling skyldtes sindssygdom eller lignende tilstand. Retten antog – på grund af det abnorme handlingsforløb – at manden havde befundet sig i en sygelig sindstilstand, hvorfor forsikringsselskabet skulle udbetale forsikringssummen.*
+
+<img src="img/fire2.jpg" align="right" width="25%" height="25%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+
+*U 2006 1961 Ø: Hvor en mand satte i suicidal øjemed ild til sin ejendom. Retslægerådet skønnede at han ikke var sindssyg og heller ikke var det på gerningstidspunktet. Rådet fandt dog – med henvisning til omfattende alkoholmisbrug – at manden mest sandsynlig var omfattet af straffelovens § 69. Landsretten bemærkede, at forsikringsaftalelovens § 19, stk. 1, har et bredere anvendelsesområde end straffelovens § 16, idet forsikringsaftalelovens § 19, stk. 1, blandt andet omfatter »forbigående sindsforvirring eller lignende tilstand«. Bevisbyrden for, at den sikrede ved fremkaldelse af forsikringsbegivenheden opfylder det psykiske kriterium, ligger hos kravstilleren, jf. U 1982 528 H, nævnt ovenfor. Det er en relativ tung bevisbyrde.*
+
+---
+
+Et eksempel på en forsætlig skade er Forsikringsankenævnets sag 86048, hvor nævnet fandt, at klagerens søn havde handlet forsætligt, da han – mens han stod med ryggen til og i irritation over at være blevet låst ude af nogle klassekammerater – sparkede bagud mod en dør og en siderude. Nævnet fandt, at det var overvejende sandsynligt, at ruden ville gå i stykker ved en sådan handling.
+
+### Hændelig
+Forvolder man en skade hændeligt, dækker ens ansvarsforsikring heller ikke. At det er hændeligt, betyder, at skaden indtræffer tilfældigt, og uden at det skyldes uagtsomhed eller forsømmelse fra ens side. I den situation bliver man ikke juridisk erstatningsansvarlig efter dansk ret. 
+
+Derfor må skadelidte i en sådan situation selv bære tabet, med mindre skadevolder alligevel betaler, fordi skadevolder føler, at skadevolder er moralsk ansvarlig. Men dette er ansvarsforsikringen uvedkommende. 
+
+Af relevante sager kan nævnes Forsikringssankenævnets sag 86248, hvor en kvinde tissede i en seng, samt forsikringsankenævnets sag 81840 om en kajak, der i en carport faldt ned på en bil:
+
+---
+
+<img src="img/piss.jpg" align="right" width="15%" height="15%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+
+*Sag 86248: Klager over afvisning af dækning for en skade på klagers vens seng forårsaget af klagers ufrivillige vandladning. Selskabet henviste til, at uheldet var hændeligt, og at klager ikke havde handlet uagtsomt, hvorfor selskabet ikke kunne anerkende, at hun havde handlet ansvarspådragende. Nævnet fandt, at klager ikke havde udvist fejl eller forsømmelser forud for skadens indtræden, hvorfor klager ikke kunne pålægges et ansvar for den indtrufne skade. Nævnet fandt endvidere, at klagers lejlighedsvise brug af et præparat mod ufrivillig vandladning ikke kunne ændre herpå. Selskab medhold.*
+
+<img src="img/kajak.jpg" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+
+*Sag 81840: Klager over afvisning af at dækning af ansvarsskade. Klagers kajak, der var opmagasineret i hans tidligere udlejers carport, blæste under storm ned fra sin placering mellem to bjælker og forårsagede herved skade på udlejers bil. Selskabet afviste dækning med henvisning til, at skaden var hændelig. Selskab medhold.*
+
+---
+
+### Gæstebudsskade
+Forvolder man skaden under almindeligt privat samvær – typisk af selskabelig karakter – dækker ansvarsforsikringen i en række situationer, hvor domstolene vil være tilbageholdende med at pålægge en et juridisk erstatningsansvar. Disse skader kaldes normalt for “gæstebudsskader”. 
+
+Et eksempel er Forsikringsankenævnets sag 75029, hvor klagerens datter – mens hun var på besøg – beskadigede et trægulv med sine spidse stilethæle. Der kan også henvises til Forsikringsankenævnets sag 75365, samt sammenstød af cykler under en fælles motionsaktivitet, jf. forsikringsankenævnets sag 91226:.
+
+---
+
+*Sag 91226: Klager over afvisning af dækning for skade ved sammenstød af cykler. Klager og skadelidte havde deltaget i en fælles cykeltur, hvor klager var stødt ind i baghjulet på skadelidtes cykel. Klager ønskede, at selskabet skulle erstatte skade på baghjulet med henvisning til, at han havde handlet ansvarspådragende ved at se bagud under kørslen, alternativt at selskabet dækkede skaden som gæstebudsskade. Selskabet anførte, at klagers erstatningsansvar skulle vurderes på baggrund af den milde ansvarsvurdering, der skete ved skader forvoldt idrætsudøvere imellem under udøvelse af sportsaktiviteter. Selskabet anførte yderligere, at gæstebudsdækningen ikke var relevant, da formålet med cykelturen havde været motion og ikke den personlige relation eller samværet. Nævnet fandt, at klageren ikke havde handlet ansvarspådragende, hvorfor selskabet ikke skulle dække efter den almindelige regel om erstatningsansvar. Nævnet fandt, at der måtte sondres mellem selve motionscyklingen - som ikke ville være omfattet af reglen om gæstebudsskade - og det efterfølgende sociale samvær, hvor man ifølge klageren "får en kop kaffe og en øl til en snak efterfølgende", idet denne del af samværet ville være omfattet af den særlige dækning, som forsikringen yder ved gæstebudsskader, idet dette samvær falder ind under begrebet "almindeligt privat samvær". Klageren havde derfor ikke krav på, at skaden på cyklen blev dækket efter reglen om gæstebudsskade. Selskab medhold.*
+
+
+---
+
+
+
+
+
+
+
+```{r ansvarsforsikringen, echo=FALSE}
+mydf <- data.frame(
+  S1 = c("Hvordan er handlingen forvoldt?" ,
+         "Forsætligt", 
+          "Uagtsomt", 
+          "Gæstebudsskade", 
+          "Hændeligt"
+),
+  S2 = c("Er der juridisk set erstatningsansvar?" ,
+  "Ja",
+"Ja",
+"Ja",
+"Nej"
+),
+  S3 = c("Dækker ansvarsforsikringen?",
+         "Nej",
+         "Ja",
+         "Ja",
+         "Nej"
+)
+)
+names(mydf) <- NULL
+mydf %>%
+  kable("html", escape = FALSE, caption = "Er skaden dækket af ansvarsforsikringen?") %>%
+  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
+  column_spec(1, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  column_spec(3, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  row_spec(1,italic = T,bold = T,font_size = 12,color = "white", background = "darkgrey") %>%
+  # row_spec(1,italic = T,bold = T,font_size = 12)
+  # column_spec(0, angle = -45)%>%
+  # scroll_box(width = "500px") %>%
+  footnote(general = "Forsikringsankenævnets klageguide",general_title = "Kilde:")%>%
+footnote(number = "Hvis skadevolder er under 14 år eller er utilregnelig, kan der dog være dækning selv om handlingen er forvoldt forsætligt")
+```
+
+
+
+Er skaden dækket af en tingsforsikring tegnet af skadelidte, f.eks. en indboforsikring eller en kaskoforsikring på hus eller bil, er skadevolder som udgangspunkt ikke erstatningsansvarlig for skaden, og skadevolders ansvarsforsikring skal derfor ikke dække. Skadelidte må i stedet rette henvendelse til sit eget forsikringsselskab.
+
+Der gælder visse undtagelser fra dette princip. Eksempelvis er der alligevel erstatningsansvar – og dækning hos ens ansvarsforsikringsselskab – hvis man har forvoldt skaden ved grov uagtsomhed. 
+
+Ved grov uagtsomhed forstås normalt, at den udviste adfærd indebar en indlysende fare for den skade, som faktisk skete. Der er ligeledes erstatningsansvar, hvis man har forvoldt skaden forsætligt, men i de tilfælde dækker ens ansvarsforsikring som ovenfor anført ikke.
+
+## Ansvarsforsikringens undtagelser
+Privatansvarsforsikringen indeholder en række undtagelser, hvor ansvarsforsikringen ikke dækker. De mest almindelige undtagelser er ifølge Forsikringsankenævnet følgende:
+
+Ansvar for skade, der rammer den sikrede personkreds
+Ansvarsforsikringen dækker normalt ikke, hvis man kommer til at forvolde skade på en af de personer, som familie-/indboforsikringen omfatter. 
+
+Det vil typisk være tilfældet, hvis man forvolder skade på ejendele, der tilhører en selv, da man ikke kan være erstatningsansvarlig over for sig selv, ens ægtefælle/samlevende eller ens børn. Dog dækker ansvarsforsikringen normalt, hvis man forvolder personskade på dem.
+
+Ansvarsforsikringen dækker som regel kun ansvar, man pådrager sig i privatlivet.
+
+Forvolder man skade i forbindelse med sit erhverv, skal dækning søges på en eventuel erhvervsansvarsforsikring. Hvis det erhvervsmæssige aspekt i aktiviteten er helt underordnet – f.eks. hvis man kommer til at ødelægge en stol, mens man er til et bestyrelsesmøde i andelsboligforeningen, der afholdes hos en anden andelshaver – vil ens ansvarsforsikring normalt dække.
+
+**Ansvar for arbejde for andre**
+
+Hvis man arbejder for andre og får løn for det, så dækker privatansvarsforsikringen ikke de skader, man forvolder som ansat.
+
+Hvis man ikke får løn, dækker ansvarsforsikringen i nogle tilfælde. Man ser på, om man selv har en interesse i det arbejde, som man udfører, eller om det er en vennetjeneste. Herudover ser man på omfanget og intensiteten af ens arbejdsindsats. 
+
+Hvis man kortvarigt hjælper ens nabo med f.eks. at støvsuge og taber støvsugerrøret ned på et glasbord, der smadres, vil ansvarsforsikringen normalt dække. Lignende sager ses i Forsikringsankenævnet i sagerne 39930 og 60013:
+
+___
+
+*Sag 39930: Ansvar – ansvar. Klagers søn forvolder skade på sin brors linoliegulv, da han forsøger at fjerne tæpperester med ovnrens – anset for arbejde for andre.*
+
+*Sag 60013: Ansvar – vennetjeneste. Selskabet afviser dækning for ansvarsskade. Klageren ville være sød og støvsuge et værelse hos udlejer. Smadrede glasbord. Selskabet gør gældende, at klageren ikke er erstatningsansvarlig for den skete skade, der er sket ved simpel uagtsomhed under udøvelse af en tjeneste i skadelidtes interesse. Nævnet finder, at klageren, der ikke kan henføres under undtagelsesbestemmelsen om arbejde for andre, har handlet uagtsomt. Klageren er derved erstatningsansvarlig for den forvoldte skade. Klageren medhold.*
+
+---
+
+### Ansvar i kontraktforhold
+Hvis man bliver erstatningsansvarlig, fordi man ikke overholder en aftale eller en kontrakt, dækker ansvarsforsikringen ikke.
+
+**Ansvar for ting, der er i ens varetægt**
+
+Ofte dækker ansvarsforsikringen ikke ansvar for skade på ting, som man har til låns, leje eller opbevaring, afbenyttelse, befordring, eller som af andre grunde befinder sig i ens varetægt. Låner man eksempelvis en iPad af en ven i længere tid, vil iPaden være i ens varetægt, og ansvarsforsikringen dækker ikke.
+
+Her skal det bemærkes, at nogle ansvarsforsikringer dækker eksempelvis i den første måned, hvor man låner eller lejer en genstand.
+
+Ens råden over genstanden skal være af en vis intensitet, for at man kan siges at have den i sin varetægt. Cykler man eksempelvis over til en ven med hans iPad, som han har glemt hjemme hos en, og taber man den på vejen, vil der typisk være forsikringsdækning. Ved kortvarig råden over en genstand med ejerens accept vil der som udgangspunkt også være dækning på ansvarsforsikringen.
+
+Forsikringsankenævnet har i sagen 85614 taget stilling til, om undervisningsmateriale udleveret af en skole – herunder en iPad – er omfattet af den private ansvarsforsikring. Nævnet fandt, at dette ikke var tilfældet, da lånet af undervisningsmaterialerne ikke udelukkende var i elevens interesse:
+
+---
+
+*Sag 85614: Klager over afslag dækning for en iPad og skolebøger. Genstandene lå i klagers skoletaske, der blev stjålet. Klager anførte, at de var udlånt af gymnasiet i hendes interesse til brug for uddannelsen, hvorfor hun bar risikoen for dem. Hun henviste til både DL 5-8-1 (Danske Lov fra 1683) og en underskrevet kontrakt med skolen om lån af iPad. Selskabet henviste til, at genstandene tilhørte skolen, samt til udtalelser fra Folketingets Ombudsmand og Undervisningsministeriet, hvoraf fremgik, at DL 5-8-1 ikke fandt anvendelse ved skolers udlån af undervisningsmidler, og at der ikke gyldigt kunne indgås aftale om et mere vidtrækkende ansvar for de lånte genstande, end hvad der fulgte af den almindelige erstatningsretlige culparegel. Nævnet fandt, at klager ikke ejede genstandene og heller ikke bar risikoen for disse. Nævnet måtte lægge til grund, at kontraktens vilkår om, at klager bar tyveririsikoen for iPaden var ugyldigt, da vilkåret gik videre end dansk rets almindelige regler om erstatning. Nævnet fandt, at ansvar for skader på lånte genstande efter betingelserne var undtaget dækning, når der var gået mere end 30 dage efter overtagelsen. Selskabet var derfor ikke forpligtet til at dække tyveriet. Selskab medhold.*
+
+---
+
+Skader som f.eks. tyveri, brand og lignende, der kan overgå genstande, man har lånt, lejet, eller som på anden måde er i ens varetægt, vil være omfattet af ens indboforsikring.
+
+Det samme gælder genstande, som børn kommer til at ødelægge, fordi de har en naturlig opdagetrang. Et vidtgående eksempel er U 1980.1082 Ø. Her skulle forsikringsselskabet erstatte, at to 16-årige drenge havde formået at starte en bulldozer med en skruetrækker, hvorefter bulldozeren kørte i havnen:
+
+---
+
+<img src="img/bulldozer.jpg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+*U 1980.1082 Ø: To 16-årige drenge A og B brugsstjal en bulldozer på et havneområde. Kort efter at A ved hjælp af en skruetrækker, som B rakte ham, havde startet bulldozeren, kørte den i havnen. hvorved der opstod betydelig skade på bulldozeren. B’s fader havde i et forsikringsselskab tegnet en privatforsikring. Undtaget fra selskabets ansvar var “forsætlige skader”, “skader på ting, der var i den sikredes varetægt” og “skader forvoldt under benyttelse af motordrevet køretøj”. B fandtes erstatningsansvarlig efter almindelige regler, da han ansås for forsætligt at have medvirket til, at bulldozeren begyndte at køre, og da han og A ved uagtsomt forhold havde forvoldt skaden, der måtte anses for påregnelig. Skaden ansås dækket af forsikringspolicen, da skaden ikke var forårsaget ved forsæt, da et varetægtsforhold ikke ansås for opstået ved den kortvarige benyttelse af bulldozeren, og da undtagelsesbestemmelsen vedrørende motordrevet køretøj efter sit indhold ikke klart omfattede skaden på det benyttede køretøj. Erstatningen omfattede skadelidtes “egne leverancer” og et beløb til dækning af administrationsudgifter.*
+
+---
+
+**Ansvar forvoldt ved brug af motorkøretøjer, ens ansvar som husejer eller som hundeejer**
+
+Sådanne skader dækkes ikke, og man skal således købe en autoansvarsforsikring, en husejerforsikring med ansvarsdækning eller en hundeforsikring.
+
+## Quiz  
+
+<h3><a href="https://quiz.tepedu.dk/juraerstatning" target="_blank">Quiz Erstatning   <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></h3>
+</a>
+
+<br>
+
+
 ## Pensionsforsikringer
 
-#### Video: Hvad indeholder min pensionsordning? 
+### Video: Hvad indeholder min pensionsordning? 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/Vcf8Ckorb5s" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
-#### Video: Pension forklaret så man faktisk fatter det
+### Video: Pension forklaret så man faktisk fatter det
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/W6i8F73jeRE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
-#### Video: Pensionsopsparing‐ Skal jeg vælge Livrente som en del af min pension? 
+### Video: Pensionsopsparing‐ Skal jeg vælge Livrente som en del af min pension? 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/vdSRTFzuhjo" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
  
-Det danske pensionssystem består af tre dele:  
+**Det danske pensionssystem består af tre dele:**  
 
 * Sociale ordninger
 
@@ -15738,7 +15942,9 @@ Her er der tale om pensionsordninger, man selv kan oprette i forsikringsselskabe
  
 
 ### Generelt for de tre dele i pensionssystemet  
-For alle tre dele gælder, at man typisk er sikret i forbindelse med dødsfald, invaliditet og ved pensionering. De sociale ordninger skal sikre en indtægt, så man ikke lider nød, når man når pensionsalderen. Arbejdsmarkedspensionerne skal sikre et rimeligt forhold mellem det, man kan få i pension, og det, man tjener, mens man er erhvervsaktiv. Og endelig giver de private ordninger mulighed for selv og på egen hånd at skaffe sig yderligere indtægt, når man bliver pensioneret.  
+For alle tre dele gælder, at man typisk er sikret i forbindelse med dødsfald, invaliditet og ved pensionering. De sociale ordninger skal sikre en indtægt, så man ikke lider nød, når man når pensionsalderen. 
+
+Arbejdsmarkedspensionerne skal sikre et rimeligt forhold mellem det, man kan få i pension, og det, man tjener, mens man er erhvervsaktiv. Og endelig giver de private ordninger mulighed for selv og på egen hånd at skaffe sig yderligere indtægt, når man bliver pensioneret.  
  
 
 ### Pension og erhvervsevnetab
@@ -15753,55 +15959,126 @@ Forsikringsdækningen findes typisk i livsforsikringer eller i pensionsordninger
 
 Har man som forsikringstager flere forsikringer, der dækker ens erhvervsevnetab, har man som udgangspunkt ret til at få udbetalt ydelser fra hver enkelt forsikring.  
 
-Har man en erhvervsevnetabsforsikring, kan man få økonomisk kompensation, hvis man på grund af sine helbredsmæssige forhold ikke længere er i stand til at varetage et arbejde på normale vilkår. Dækning for tab af erhvervsevne er betinget af, at ens erhvervsevne er nedsat med en bestemt brøkdel – typisk 1/2 eller 2/3. Nogle forsikringer giver halve ydelser, hvis ens 
-erhvervsevne er nedsat med ½, og fulde ydelser, hvis ens erhvervsevne er nedsat med 2/3.  
+Har man en erhvervsevnetabsforsikring, kan man få økonomisk kompensation, hvis man på grund af sine helbredsmæssige forhold ikke længere er i stand til at varetage et arbejde på normale vilkår. 
+
+Dækning for tab af erhvervsevne er betinget af, at ens erhvervsevne er nedsat med en bestemt brøkdel – typisk 1/2 eller 2/3. Nogle forsikringer giver halve ydelser, hvis ens erhvervsevne er nedsat med ½, og fulde ydelser, hvis ens erhvervsevne er nedsat med 2/3.  
  
-Har man et dækningsberettigende erhvervsevnetab, vil man typisk også have ret til hel eller delvis præmiefritagelse. Det betyder, at det er forsikringsselskabet, der afholder ens udgifter til præmie i den periode, hvor ens erhvervsevne er nedsat. På denne måde kan man bevare hele eller dele af de aftalte dækninger – eksempelvis retten til dødsfaldsdækning eller til pensionsydelser, når man når pensionsalderen.  
+Har man et dækningsberettigende erhvervsevnetab, vil man typisk også have ret til hel eller delvis præmiefritagelse. Det betyder, at det er forsikringsselskabet, der afholder ens udgifter til præmie i den periode, hvor ens erhvervsevne er nedsat. 
+
+På denne måde kan man bevare hele eller dele af de aftalte dækninger – eksempelvis retten til dødsfaldsdækning eller til pensionsydelser, når man når pensionsalderen.  
  
 
 Det er normalt en betingelse, at ens erhvervsevnetab opstår i forsikringstiden, det vil sige, mens man er omfattet af den pågældende forsikring eller indbetaler til en pensionsordning. Ophører man med at indbetale til en pensionsordning, vil ens erhvervsevnetabsforsikring typisk ophøre – eventuelt efter en vis overgangsperiode.  
 
-Har man eksempelvis en arbejdsgiverbetalt pensionsordning, og ophører man med at arbejde – f.eks. fordi man bliver arbejdsløs – er det vigtigt, at man undersøger, hvordan man fremover vil være dækket. Mange forsikringspensionsselskaber giver mulighed for, at man kan fortsætte med selv at indbetale til pensionen og på den måde opretholde sin forsikring mod erhvervsevnetab. Kontakt derfor forsikringsselskabet, hvis arbejdsgiver ophører med at indbetale til ens pensionsordning.  
+Har man eksempelvis en arbejdsgiverbetalt pensionsordning, og ophører man med at arbejde – f.eks. fordi man bliver arbejdsløs – er det vigtigt, at man undersøger, hvordan man fremover vil være dækket. 
+
+Mange forsikringspensionsselskaber giver mulighed for, at man kan fortsætte med selv at indbetale til pensionen og på den måde opretholde sin forsikring mod erhvervsevnetab. 
+
+Kontakt derfor forsikringsselskabet, hvis arbejdsgiver ophører med at indbetale til ens pensionsordning.  
  
 
 #### Nævnspraksis og fortolkninger af erhvervsevnetab
  
-Nogle forsikringsselskaber kræver, at ens erhvervsevne ikke må være nedsat med den fastsatte brøkdel, når man optages i ordningen. Det vil være en konkret vurdering, om ens erhvervsevne allerede på optagelsestidspunktet er nedsat i en sådan grad, at man ikke kan få dækning ved erhvervsevnetab. Se eksempelvis sag 85493 (erhvervsevnetabet var indtrådt forud for optagelsen i en ny pensionsordning), sagsnr.: 73915 (ikke grundlag for at fastslå, at erhvervsevnen var nedsat ved indtræden i ordningen), sagsnr.: 83438 (ikke bevist, at erhvervsevnen var nedsat ved tidspunktet for optagelse i pensionsordningen) og sagsnr.: 84064 (erhvervsevne var nedsat ved optagelsen i ordningen):  
+Nogle forsikringsselskaber kræver, at ens erhvervsevne ikke må være nedsat med den fastsatte brøkdel, når man optages i ordningen. Det vil være en konkret vurdering, om ens erhvervsevne allerede på optagelsestidspunktet er nedsat i en sådan grad, at man ikke kan få dækning ved erhvervsevnetab. 
+
+Se eksempelvis Forsikringsankenævnets sag 85493 (erhvervsevnetabet var indtrådt forud for optagelsen i en ny pensionsordning), 
+
+Sagsnr.: 73915 (ikke grundlag for at fastslå, at erhvervsevnen var nedsat ved indtræden i ordningen), 
+
+Sagsnr.: 83438 (ikke bevist, at erhvervsevnen var nedsat ved tidspunktet for optagelse i pensionsordningen) og 
+
+Sagsnr.: 84064 (erhvervsevne var nedsat ved optagelsen i ordningen):  
 Sagsnr.: 85493: Klager over afvisning af at anerkende et erhvervsevnetab på 2/3, og at hun ikke blev anset for omfattet af nye forsikringsbetingelser. Klager pådrog sig en diskusprolaps i 2009 og blev opereret 3 gange i 2009 og 1 gang i 2011. Hun var sygemeldt frem til den 1/6 2012, hvor hun genoptog sit arbejde. Hun blev pr. 1/10 2013 tilkendt fleksjob med 12-14 timer/uge. Pr. 1/1 2013 fusionerede hendes selskab med AP Pension. Hun anførte, at hun ved fusionen blev omfattet af AP Pensions mere lempelige betingelser, og at selskabet derfor skulle yde fuld invalidepension og præmiefritagelse. Hun gjorde gældende, at hendes erhvervsevne var nedsat med 2/3. Selskabet afviste, at klager blev omfattet af de mere lempelige betingelser pr.  1/1 2013, da hendes erhvervsevne allerede var nedsat i dækningsberettigende grad fra den 1/2 2012, og at hun derfor ikke var fuldt arbejdsdygtig på fusionstidspunktet. Selskabet anførte også, at klagers erhvervsevne alene var nedsat med mellem 1/2 og 2/3. Nævnet fandt, at klagers erhvervsevnetab var indtrådt allerede i 2012, og at klagers sag derfor skulle vurderes efter de dagældende betingelser. Nævnet fandt, at klager ikke havde dokumenteret, at hendes erhvervsevne var nedsat med mindst 2/3. Selskab medhold.  
+
 Sagsnr.: 73915: Klager over afslag på dækning og præmiefritagelse ved tab af erhvervsevne. Klager arbejdede som butiksansat men sygemeldte sig d. 13/3 2007 pga. smerter, der viste sig at stamme fra leddegigt.  Da klager tidligere havde været sygemeldt, mente selskabet, at leddegigten allerede var opstået inden tegningstidspunktet d. 1/3 2007, og afviste dækning. På baggrund af sagens oplysning fandt nævnet det betænkeligt at fastslå, at klagers generelle erhvervsevnetab var nedsat i dækningsberettigende grad på tegningstidspunktet, men havde ikke grundlag for at afgøre, hvorvidt det var tilfældet. Nævnet fandt, at selskabet skulle anerkende klagers påstand og genoptage sagsbehandlingen på dette grundlag. Klager medhold.
-Sagsnr.: 83438: Selskabet har i henhold til § 15 og 16 i nævnets vedtægter meddelt, at selskabet ikke ønsker at være bundet af kendelsen. Af nævnets årsberetning for 2013 fremgår: Der verserer retssag. Klager over afvisning af dækning for erhvervsevnetab. Klager led af hukommelsesproblemer, hovedpine og hyppig migræne. Hun led desuden af smerter i ryggen og var blevet diskusopereret 3 gange.  Hun blev ansat den 1/4 2009 på ordinære vilkår 37 timer om ugen. I december 2010 blev hun deltidssygemeldt og i juni 2011 fuldtidssygemeldt, efter at hun i februar 2011 brækkede bækkenet og fik et tilbagefald til et stort forbrug af smertestillende medicin pga.  lændesmerter.  Hun blev tilkendt førtidspension med virkning fra den 1/3 2012. Selskabet afviste dækning med henvisning til, at klagers erhvervsevne var nedsat med 2/3, da hun blev optaget i pensionsordningen den 1/4 2009. Nævnet fandt, at selskabet ikke havde bevist, at klagers erhvervsevne allerede på optagelsestidspunktet var varigt nedsat til 1/3 eller derunder, eller at klagers lidelser havde en sådan sammenhæng med det erhvervsevnetab, som hun havde ved optagelsen i pensionsordningen. Nævnet fandt, at selskabet derfor ikke havde været berettiget til at afvise dækning. Klager medhold.  
-Sagsnr.:  84064:  Klager over afvisning af dækning for erhvervsevnetab. Klager blev opsagt fra et lederjob i forbindelse med en sygemelding for stress. Hun arbejdede fra 2008 til februar 2011 i butik samt i en kontorfunktion, indtil hun blev opsagt pga. nedskæringer. Hun blev sygemeldt i maj 2011 pga. stress og pr. 1/8 2012 tilkendt offentlig førtidspension. Selskabet afviste dækning med henvisning til, at klagers generelle erhvervsevne allerede var nedsat med halvdelen den 1/5 2010, hvor hun blev optaget i pensionsordningen. Nævnet fandt, at selskabet havde godtgjort, at klagers erhvervsevne som følge af hendes psykiske lidelser var betydeligt nedsat ved optagelsen i pensionsordningen pr. 1/5 2010. Nævnet fandt, at klager senere blev sygemeldt på grund af en udvikling af de samme lidelser, som udgjorde hovedårsagen til hendes erhvervsevnetab. Nævnet kunne på den baggrund ikke kritisere selskabets afgørelse. Selskab medhold.  
-Andre forsikringsselskaber dækker ikke, hvis man på optagelsestidspunktet er i eksempelvis fleksjob. Se nævnssag sagsnr.: 85325 (klager var i fleksjob ved ansættelsen, og der var sammenhæng mellem de lidelser, der forelå ved tildeling af fleksjobbet, og som medførte, at klager blev førtidspensioneret):
+
+Sagsnr.: 83438: Selskabet har i henhold til § 15 og 16 i nævnets vedtægter meddelt, at selskabet ikke ønsker at være bundet af kendelsen. Af nævnets årsberetning for 2013 fremgår: Der verserer retssag. Klager over afvisning af dækning for erhvervsevnetab. Klager led af hukommelsesproblemer, hovedpine og hyppig migræne. Hun led desuden af smerter i ryggen og var blevet diskusopereret 3 gange.  Hun blev ansat den 1/4 2009 på ordinære vilkår 37 timer om ugen. I december 2010 blev hun deltidssygemeldt og i juni 2011 fuldtidssygemeldt, efter at hun i februar 2011 brækkede bækkenet og fik et tilbagefald til et stort forbrug af smertestillende medicin pga.  lændesmerter.  Hun blev tilkendt førtidspension med virkning fra den 1/3 2012. Selskabet afviste dækning med henvisning til, at klagers erhvervsevne var nedsat med 2/3, da hun blev optaget i pensionsordningen den 1/4 2009. Nævnet fandt, at selskabet ikke havde bevist, at klagers erhvervsevne allerede på optagelsestidspunktet var varigt nedsat til 1/3 eller derunder, eller at klagers lidelser havde en sådan sammenhæng med det erhvervsevnetab, som hun havde ved optagelsen i pensionsordningen. Nævnet fandt, at selskabet derfor ikke havde været berettiget til at afvise dækning. Klager medhold. 
+
+Sagsnr.:  84064:  Klager over afvisning af dækning for erhvervsevnetab. Klager blev opsagt fra et lederjob i forbindelse med en sygemelding for stress. Hun arbejdede fra 2008 til februar 2011 i butik samt i en kontorfunktion, indtil hun blev opsagt pga. nedskæringer. Hun blev sygemeldt i maj 2011 pga. stress og pr. 1/8 2012 tilkendt offentlig førtidspension. Selskabet afviste dækning med henvisning til, at klagers generelle erhvervsevne allerede var nedsat med halvdelen den 1/5 2010, hvor hun blev optaget i pensionsordningen. Nævnet fandt, at selskabet havde godtgjort, at klagers erhvervsevne som følge af hendes psykiske lidelser var betydeligt nedsat ved optagelsen i pensionsordningen pr. 1/5 2010. Nævnet fandt, at klager senere blev sygemeldt på grund af en udvikling af de samme lidelser, som udgjorde hovedårsagen til hendes erhvervsevnetab. Nævnet kunne på den baggrund ikke kritisere selskabets afgørelse. Selskab medhold. 
+
+Andre forsikringsselskaber dækker ikke, hvis man på optagelsestidspunktet er i eksempelvis fleksjob. 
+
+Se nævnssag sagsnr.: 85325 (klager var i fleksjob ved ansættelsen, og der var sammenhæng mellem de lidelser, der forelå ved tildeling af fleksjobbet, og som medførte, at klager blev førtidspensioneret):
+
 Sagsnr.:  85325:  Klager over afvisning af dækning ved førtidspension. Klageren anførte, at hun i 2007 blev bevilliget fleksjob på grund af nakke- og skuldersmerter, og at hun i 2013 blev tilkendt førtidspension som følge af akut opståede lændesmerter. Selskabet henviste til, at de aktuelle gener havde sammenhæng med klagerens lidelser, der bestod før tilkendelsen af fleksjob. Med henvisning til bl.a. en speciallægeerklæring fra 2006 fandt nævnet, at klagerens lidelser, der havde medført arbejdsudygtighed, allerede bestod forud for hendes optagelse i pensionsordningen den 1/6 2008. Selskab medhold.  
 
-Det vil fremgå af ens police og/eller ens forsikringsbetingelser, hvilke betingelser man skal opfylde, for at man kan modtage dækning ved tab af erhvervsevne. Disse betingelser kan være ganske vanskelige at forstå, og det er derfor vigtigt, at man læser dem grundigt igennem. Bed eventuelt forsikringsselskabet om at forklare betingelserne, og bed eventuelt om at få pjecer eller lignende, hvori selskabet mere populært forklarer, hvordan man er dækket som forsikringstager.  
+Det vil fremgå af ens police og/eller ens forsikringsbetingelser, hvilke betingelser man skal opfylde, for at man kan modtage dækning ved tab af erhvervsevne. Disse betingelser kan være ganske vanskelige at forstå, og det er derfor vigtigt, at man læser dem grundigt igennem. 
 
-Når forsikringsselskabet vurderer ens erhvervsevne, vurderer selskabet typisk, hvor mange timer man skønnes at kunne arbejde om ugen, når man tager hensyn til helbredsmæssige begrænsninger og de mulige hjælpeforanstaltninger, man kan have til sin rådighed. På den baggrund vurderer forsikringsselskabet, hvor meget man vil være i stand til at tjene ved at arbejde. Det kan fremgå af forsikringsbetingelserne, at offentlige ydelser mv. skal medregnes, når selskabet vurderer, hvad 
+Bed eventuelt forsikringsselskabet om at forklare betingelserne, og bed eventuelt om at få pjecer eller lignende, hvori selskabet mere populært forklarer, hvordan man er dækket som forsikringstager.  
+
+Når forsikringsselskabet vurderer ens erhvervsevne, vurderer selskabet typisk, hvor mange timer man skønnes at kunne arbejde om ugen, når man tager hensyn til helbredsmæssige begrænsninger og de mulige hjælpeforanstaltninger, man kan have til sin rådighed. 
+
+På den baggrund vurderer forsikringsselskabet, hvor meget man vil være i stand til at tjene ved at arbejde. Det kan fremgå af forsikringsbetingelserne, at offentlige ydelser mv. skal medregnes, når selskabet vurderer, hvad 
 man er i stand til at tjene.  
 
 Denne skønnede indtjening sammenholdes herefter med, hvad raske personer på samme alder og med samme uddannelsesmæssige baggrund typisk tjener i det område, hvor man bor (sammenlignelige personer). Skønnes det, at  man  kun   vil  kunne  tjene  mindre  end  en  tredjedel  af, hvad sammenlignelige personer typisk tjener, er ens erhvervsevnetab 2/3. Skønnes det, at man kan tjene mindre end halvdelen af, hvad sammenlignelige personer typisk tjener, er ens erhvervsevnetab 1/2.  
 
-En særlig form for erhvervsevnetabsforsikring består i, at det alene vurderes, om man er i stand til at varetage sit hidtidige (eller nært beslægtede) erhverv, og hvad man er i stand til at tjene ved at arbejde (på nedsat tid) i sådanne erhverv. Dette kaldes en vurdering af ens faginvaliditet. Man kan kun kræve at blive vurderet ud fra faginvaliditet, hvis dette kriterium klart fremgår af ens police eller af ens forsikringsbetingelser. Nogle forsikringer kan give ret til, at man i en periode – eksempelvis 3 år – vurderes ud fra faginvaliditet. Se eksempelvis ankenævnssager sagsnr.: 86821 (revisorassistent, ordning med dækning ved faginvaliditet) og sagsnr.: 78427 (tandlæge, ordning med dækning ved faginvaliditet):  
+En særlig form for erhvervsevnetabsforsikring består i, at det alene vurderes, om man er i stand til at varetage sit hidtidige (eller nært beslægtede) erhverv, og hvad man er i stand til at tjene ved at arbejde (på nedsat tid) i sådanne erhverv. Dette kaldes en vurdering af ens faginvaliditet. Man kan kun kræve at blive vurderet ud fra faginvaliditet, hvis dette kriterium klart fremgår af ens police eller af ens forsikringsbetingelser. Nogle forsikringer kan give ret til, at man i en periode – eksempelvis 3 år – vurderes ud fra faginvaliditet. 
+
+Se eksempelvis Forsikringsankenævnssager sagsnr.: 86821 (revisorassistent, ordning med dækning ved faginvaliditet) og 
+
+Sagsnr.: 78427 (tandlæge, ordning med dækning ved faginvaliditet):  
+
 Sagsnr.:  86821:  Klager over afvisning af helbredsbetingede ydelser.  Klager, født i 1975, og arbejdede op til sin sygemelding som revisorassistent. Hun var sygemeldt på grund af piskesmæld. Forsikringen indeholdt en form for faginvaliditetsdækning. Der var ikke oplysninger om, at klager havde været arbejdsprøvet. Selskabet lagde til grund, at den indtægt, der udgjorde sammenligningsgrundlaget i henhold til forsikringsbetingelserne, var 28.800 kr.  månedligt.  Klager oplyste, at hun forsøgte at arbejde som revisorassistent 2-3 timer hver anden dag, hvorefter hun oplevede forværring af symptomer. Nævnet fandt, at klager ikke inden for sit fagområde var i stand til at tjene ca. halvdelen af sin tidligere indkomst. I forhold til generel erhvervsevne fandt nævnet, at klager ikke havde bevist, at hun kunne tjene mindst 14.400 kr. om måneden med relevante skånehensyn. Klager delvis medhold.  
+
 Sagsnr.:  78427:  Klager, der havde gruppeerhvervsudygtighedsforsikring som tandlæge, klager over, at selskabet ikke længere anså hendes erhvervsevne som tandlæge nedsat med 2/3, men kun med halvdelen og derfor havde nedsat hendes ydelser. Klager anmodede første gang om udbetaling af ydelser i maj 1998, da hun som følge af slidgigt i ryggen var sygemeldt. Selskabet tilkendte klager ydelser og havde gennem årene løbende fulgt op på sagen. Selskabet havde pr. 1/1 2009 ændret udbetalingen med henvisning til, at klagers fagspecifikke erhvervsevne ikke længere ansås nedsat med mindst 2/3, men kun med halvdelen.  Nævnet havde gennemgået indholdet af det lægelige materiale og fandt ikke holdepunkter for at antage, at klagers helbredstilstand havde ændret sig til det bedre i et sådant omfang, at hun ikke længere havde mistet 2/3 af sin specifikke erhvervsevne som tandlæge. Nævnet fandt derfor, at selskabet var uberettiget til at nedsætte klagers ydelser som sket og skulle udbetale hende det manglende beløb med tillæg af renter. Klager medhold.  
 
-Det mest normale er, at forsikringsselskabet vurderer ens generelle erhvervsevne. Ved vurderingen af ens generelle erhvervsevne fastlægger selskabet, hvilke erhverv eller jobfunktioner, man – med de rette skåne- hensyn – kan varetage, og hvor mange timer man skønnes at kunne arbejde. Vurderingen sker uden at tage hensyn til ens uddannelse og ens hidtidige arbejdsfunktioner.  
+Det mest normale er, at forsikringsselskabet vurderer ens generelle erhvervsevne. 
+
+Ved vurderingen af ens generelle erhvervsevne fastlægger selskabet, hvilke erhverv eller jobfunktioner, man – med de rette skåne- hensyn – kan varetage, og hvor mange timer man skønnes at kunne arbejde. Vurderingen sker uden at tage hensyn til ens uddannelse og ens hidtidige arbejdsfunktioner.  
 
 Hvis man eksempelvis er uddannet som og har arbejdet som tømrer, men man rammes af en sygdom eller ulykke, der medfører, at man ikke længere kan udføre tømrerarbejde, er dette ikke ensbetydende med, at man ikke kan arbejde med eksempelvis undervisning, kontorarbejde, som pedel, chauffør eller lignende.  
 
-Er man – med sine helbredsmæssige begrænsninger – i stand til at varetage et andet arbejde/jobfunktioner eventuelt på nedsat tid, vurderer forsikringsselskabet, hvad man vil være i stand til at tjene med en sådan arbejdsindsats. Er man i stand til at tjene mere end 1/3 (respektive 1/2) af, hvad personer med tilsvarende alder og uddannelse tjener i det område, hvor man bor, så er ens erhvervsevne ikke nedsat med 2/3 (respektive 1/2). Når man bliver ramt af en ulykke eller bliver alvorligt syg, vil der ofte være en periode i starten af ens sygeperiode, hvor det er vanskeligt at afgøre, om man kan komme tilbage til sit hidtidige job. Det kan fremgå af forsikringsbetingelserne, at forsikringsselskabet i denne periode laver en midlertidig vurdering af ens erhvervsevne. I denne periode vil selskabet skønne, i hvor høj grad man er i stand til at passe sit hidtidige arbejde. En vurdering af den midlertidige erhvervsevne er derfor sammenlignelig med den vurdering, der foretages ved faginvaliditet.  
-Forsikringsselskabet vil normalt kun foretage en vurdering af ens midlertidige erhvervsevnetab i en begrænset periode – eksempelvis 18 måneder. Når denne periode er udløbet, eller hvis ens tilstand inden da er blevet stationær, vil selskabet overgå til at foretage en vurdering af ens generelle erhvervsevne.  
+Er man – med sine helbredsmæssige begrænsninger – i stand til at varetage et andet arbejde/jobfunktioner eventuelt på nedsat tid, vurderer forsikringsselskabet, hvad man vil være i stand til at tjene med en sådan arbejdsindsats. 
 
-Som eksempler på klagesager om midlertidig dækning er bl.a. Forsikringsankenævnets sagsnr.: 84592 (murer havde ret til midlertidige ydelser), sagsnr.: 85259 (midlertidige ydelser i en længere periode), sagsnr.: 84592, samt sagsnr.: 81873 (praksis for midlertidige udbetalinger):  
+Er man i stand til at tjene mere end 1/3 (respektive 1/2) af, hvad personer med tilsvarende alder og uddannelse tjener i det område, hvor man bor, så er ens erhvervsevne ikke nedsat med 2/3 (respektive 1/2). 
+
+Når man bliver ramt af en ulykke eller bliver alvorligt syg, vil der ofte være en periode i starten af ens sygeperiode, hvor det er vanskeligt at afgøre, om man kan komme tilbage til sit hidtidige job. 
+
+Det kan fremgå af forsikringsbetingelserne, at forsikringsselskabet i denne periode laver en midlertidig vurdering af ens erhvervsevne. 
+
+I denne periode vil selskabet skønne, i hvor høj grad man er i stand til at passe sit hidtidige arbejde. 
+
+En vurdering af den midlertidige erhvervsevne er derfor sammenlignelig med den vurdering, der foretages ved faginvaliditet.  
+Forsikringsselskabet vil normalt kun foretage en vurdering af ens midlertidige erhvervsevnetab i en begrænset periode – eksempelvis 18 måneder. 
+
+Når denne periode er udløbet, eller hvis ens tilstand inden da er blevet stationær, vil selskabet overgå til at foretage en vurdering af ens generelle erhvervsevne.  
+
+Som eksempler på klagesager om midlertidig dækning er bl.a. Forsikringsankenævnets sagsnr.: 84592 (murer havde ret til midlertidige ydelser), 
+
+Sagsnr.: 85259 (midlertidige ydelser i en længere periode), 
+
+Sagsnr.: 84592, samt sagsnr.: 81873 (praksis for midlertidige udbetalinger): 
+
 Sagsnr.: 85259: Klager over afvisning af dækning for erhvervsevnetab. Klager var den 28/4 2011 impliceret i et færdselsuheld, hvor hun pådrog sig en whiplash-læsion. Hun blev fuldtidssygemeldt i august 2011 pga. helbredsmæssige gener efter ulykken i form af smerter og problemer med støj og koncentration. Af speciallægeerklæringer fremgik, at hun havde pådraget sig et vrid af halshvirvelsøjlen, og at hun havde brug for skånehensyn i form af bl.a. nedsat arbejdstid. Hun kom i praktik fra den 26/6 2012 og var i perioden frem til februar 2013 højst i stand til at yde en ugentlig effektiv arbejdstid på 6 timer. Selskabet udbetalte midlertidige ydelser fra den 1/11 2011 til den 1/3 2012 og afviste at dække yderligere med henvisning til, at klager ikke havde godtgjort, at hendes erhvervsevne var nedsat med mindst halvdelen. Næv net fandt, at klager ikke var i stand til at varetage sit arbejde på grund af generne fra trafikuheldet, og at det var godtgjort, at hendes erhvervsevne midlertidigt var nedsat i dækningsberettigende grad, og at klager havde krav på fulde midlertidige ydelser efter den 1/3 2012 og frem til den 3/4 2013, hvor klager blev bevilget fleksjob, og den generelle erhvervsevne måtte anses for nedsat med mellem 1/2 og 2/3. Klager delvis medhold.  
 Sagsnr.: 84592: Klager over afvisning af dækning for erhvervsevnetab i perioden 26/10 2010 til 1/5 2013. Klager, der var murer og født i 1957, blev sygemeldt på grund af rygsmerter. Selskabet anerkendte, at hans generelle erhvervsevne var nedsat til 1/3 fra 2013. Nævnet fandt, at klagers erhvervsevne skulle bedømmes i hans erhverv som murer frem til den 4/5 2011, og at han således var berettiget til dækning for sit midlertidige, specifikke erhvervsevnetab fra karensperiodens udløb i 2010 indtil den 4/5 2011. For så vidt angår den efterfølgende periode frem til den 1/5 2013, fandt nævnet, at klager ikke havde bevist, at hans generelle erhvervsevne var nedsat i dækningsberettigende grad. Klager delvis medhold.  
-Sagsnr.: 81873: Klager over afvisning af dækning ved tab af erhvervsevne fra 1/4 2011. Selskabet har henvist til, at hans erhvervsevne ikke er nedsat med mindst 2/3 førend 1/2 2012. Klageren, der er født i 1955, har været syg siden 1/4 2011 grundet slidte led i fod, hofte og ryg. Nævnet udtaler, at der er praksis for at udbetale midlertidige ydelser på baggrund af forsikringstagers erhvervsevne inden for dennes specifikke erhverv, indtil der foreligger tilstrækkelige oplysninger, der kan danne grundlag for vurderingen af den generelle erhvervsevne. Nævnet finder, at klageren har krav på midlertidige ydelser og præmiefritagelse fra 1/7 2011 til den 22/5 2012, fra hvilket tidspunkt nævnet på baggrund af oplysningerne om hans arbejdsprøvning vurderer, at den generelle erhvervsevne ikke er nedsat med mindst 67 %. Nævnet finder, at der kun skal beregnes én karensperiode. Klager medhold.  
-Udbetalinger af løbende ydelser ved nedsat erhvervsevne begynder normalt først 3 måneder efter, at ens erhvervsevnetab er indtrådt. Det vil sige, at ens erhvervsevne har været nedsat med den aftalte brøkdel i alle 3 måneder. Denne periode kaldes karenstiden.  
+
+Sagsnr.: 81873: Klager over afvisning af dækning ved tab af erhvervsevne fra 1/4 2011. Selskabet har henvist til, at hans erhvervsevne ikke er nedsat med mindst 2/3 førend 1/2 2012. Klageren, der er født i 1955, har været syg siden 1/4 2011 grundet slidte led i fod, hofte og ryg. Nævnet udtaler, at der er praksis for at udbetale midlertidige ydelser på baggrund af forsikringstagers erhvervsevne inden for dennes specifikke erhverv, indtil der foreligger tilstrækkelige oplysninger, der kan danne grundlag for vurderingen af den generelle erhvervsevne. Nævnet finder, at klageren har krav på midlertidige ydelser og præmiefritagelse fra 1/7 2011 til den 22/5 2012, fra hvilket tidspunkt nævnet på baggrund af oplysningerne om hans arbejdsprøvning vurderer, at den generelle erhvervsevne ikke er nedsat med mindst 67 %. Nævnet finder, at der kun skal beregnes én karensperiode. Klager medhold. 
+
+
+Udbetalinger af løbende ydelser ved nedsat erhvervsevne begynder normalt først 3 måneder efter, at ens erhvervsevnetab er indtrådt. Det vil sige, at ens erhvervsevne har været nedsat med den aftalte brøkdel i alle 3 måneder. 
+
+Denne periode kaldes karenstiden.
+
 Bemærk, at så længe man får fuld løn fra sit hidtidige job, vil ens indtjening ikke være nedsat, og man vil derfor ikke have et erhvervsevnetab i forsikringsbetingelsernes forstand.  
-Man har kun ret til forsikringsdækning, hvis dens helbred er årsagen til, at man ikke kan arbejde og tjene, hvad andre personer – som man kan sammenlignes med – kan tjene. Ved vurderingen af ens erhvervsevne lægges der derfor ikke vægt på sociale, praktiske og andre personlige hensyn. Vurderingen af, om man opfylder forsikringsbetingelserne, vil altid bero på et konkret skøn, der baseres især på lægelige og økonomiske oplysninger samt på oplysninger om arbejdsprøvninger mv.  
-Det kan være, at man er blevet tilkendt førtidspension eller fleksjob af kommunen. Forsikringsselskabet er – medmindre det direkte fremgår af forsikringsbetingelserne – ikke bundet af kommunens vurdering af ens arbejdsevne. Det skyldes, at kriterierne for tildeling af førtidspension og fleksjob er forskellige fra den vurdering, som selskabet efter forsikringsbetingelserne foretager.  
-Det er vigtigt at være opmærksom på, at man i en klagesag mod forsikringsselskabet har bevisbyrden for, at man opfylder forsikringsbetingelserne for at få dækning for tabt erhvervsevne. Den tvivl, der kan fremgå af eksempelvis forskellige lægelige erklæringer, kan derfor i nogle tilfælde gøre det vanskeligt for forsikringstageren at bevise, at ens erhvervsevne er nedsat med 1/2 eller 2/3. Det er derfor vigtigt, at man deltager i arbejdsprøvninger, og at der bliver foretaget alle relevante lægelige undersøgelser mv.
+
+
+Man har kun ret til forsikringsdækning, hvis dens helbred er årsagen til, at man ikke kan arbejde og tjene, hvad andre personer – som man kan sammenlignes med – kan tjene. 
+
+Ved vurderingen af ens erhvervsevne lægges der derfor ikke vægt på sociale, praktiske og andre personlige hensyn. 
+
+Vurderingen af, om man opfylder forsikringsbetingelserne, vil altid bero på et konkret skøn, der baseres især på lægelige og økonomiske oplysninger samt på oplysninger om arbejdsprøvninger mv.  
+
+Det kan være, at man er blevet tilkendt førtidspension eller fleksjob af kommunen. Forsikringsselskabet er – medmindre det direkte fremgår af forsikringsbetingelserne – ikke bundet af kommunens vurdering af ens arbejdsevne. 
+
+Det skyldes, at kriterierne for tildeling af førtidspension og fleksjob er forskellige fra den vurdering, som selskabet efter forsikringsbetingelserne foretager.  
+
+Det er vigtigt at være opmærksom på, at man i en klagesag mod forsikringsselskabet har bevisbyrden for, at man opfylder forsikringsbetingelserne for at få dækning for tabt erhvervsevne. 
+
+Den tvivl, der kan fremgå af eksempelvis forskellige lægelige erklæringer, kan derfor i nogle tilfælde gøre det vanskeligt for forsikringstageren at bevise, at ens erhvervsevne er nedsat med 1/2 eller 2/3. Det er derfor vigtigt, at man deltager i arbejdsprøvninger, og at der bliver foretaget alle relevante lægelige undersøgelser mv.
+
 Forsikringsselskabet har som udgangspunkt mulighed for at foretage en fornyet vurdering af ens sag/helbred, selvom man i en årrække har modtaget dækning for erhvervsevnetab.  
+
 Har man afgivet urigtige oplysninger til forsikringsselskabet ved tegningen af forsikringen, jf. FAL § 6, er der risiko for, at selskabet på et senere tidspunkt – ofte, når man anmelder et erhvervsevnetab – ophæver forsikringen med tilbagevirkende kraft og samtidig afviser at udbetale erstatning.  
 
 #### Video: Jakob oplysning: Pension  
@@ -15810,34 +16087,73 @@ Har man afgivet urigtige oplysninger til forsikringsselskabet ved tegningen af f
 
 ###	Hvordan oplyses sagen i forsikringsselskabet, og hvilke forhold der indgår i deres vurdering
 
-Det er mange forskellige oplysninger, der indgår i forsikringsselskabets vurdering af ens erhvervsevne. Der indgår bl.a. ens egne oplysninger om ens helbred, som man og ens læger giver til selskabet. Dette er bl.a. journalmateriale fra praktiserende læge og sygehuse samt udfyldte statusattester.  
+Det er mange forskellige oplysninger, der indgår i forsikringsselskabets vurdering af ens erhvervsevne. 
+
+Der indgår bl.a. ens egne oplysninger om ens helbred, som man og ens læger giver til selskabet. 
+
+Dette er bl.a. journalmateriale fra praktiserende læge og sygehuse samt udfyldte statusattester.  
 
 For nærmere afdækning af, hvordan sagen oplyses i forsikringsselskaberne, og hvilke forhold der indgår i vurderingen, bygger følgende især på Forsikringsankenævnets oplysninger, herunder nævnets praksis.  
 
-Forsikringsselskaberne vil ofte indhente en eller flere speciallægeerklæringer, der udarbejdes på baggrund af en undersøgelse af og samtale med forsikringstageren. Speciallægeerklæringen vil typisk indeholde oplysninger om ens tidligere sygdomme, den aktuelle lidelse, der har bevirket erhvervsevnetabet, og hvilke fund speciallægen har gjort i forbindelse med undersøgelsen. Der oplyses om de behandlinger og den medicin, man har fået, og resultatet heraf. Herudover vurderes det, om der er mulighed for yderligere behandling, medicinering eller lignende, og om lidelsen indebærer nogle indskrænkninger i ens aktuelle erhverv og andre erhverv. Det vurderes også, om ens tilstand er stationær/varig, eller om der er mulighed for fremtidige forbedringer af ens helbred.  
+Forsikringsselskaberne vil ofte indhente en eller flere speciallægeerklæringer, der udarbejdes på baggrund af en undersøgelse af og samtale med forsikringstageren. 
+
+Speciallægeerklæringen vil typisk indeholde oplysninger om ens tidligere sygdomme, den aktuelle lidelse, der har bevirket erhvervsevnetabet, og hvilke fund speciallægen har gjort i forbindelse med undersøgelsen. 
+
+Der oplyses om de behandlinger og den medicin, man har fået, og resultatet heraf. Herudover vurderes det, om der er mulighed for yderligere behandling, medicinering eller lignende, og om lidelsen indebærer nogle indskrænkninger i ens aktuelle erhverv og andre erhverv. 
+
+Det vurderes også, om ens tilstand er stationær/varig, eller om der er mulighed for fremtidige forbedringer af ens helbred.  
+
 Arbejder man eksempelvis som tømrer, og man kommer til skade med sin ryg, kan en speciallæge på baggrund af en undersøgelse udtale, at man ikke længere er i stand til at udføre almindeligt tømrerarbejde, men at man godt kan varetage andre jobfunktioner, hvor der tages hensyn til ens rygskade.  
 
 Forsikringsselskaberne vil også typisk indhente oplysninger fra ens kommune. Kommunens oplysninger vil ofte bestå af ressourceprofiler, journalrapporter, lægeskøn og rapporter vedrørende arbejdsprøvningsforløb og virksomhedspraktikker.  
 
 Alle disse oplysninger indgår i vurderingen af ens erhvervsevne, og det vil være på baggrund af en samlet vurdering, at det konkluderes, om ens erhvervsevne er nedsat i en sådan grad, at man har ret til dækning.  
 
-Kommunen kan på et tidspunkt i ens sygeforløb vurdere, at man ikke længere er i stand til at varetage et arbejde på normale vilkår. Kommunen har i den forbindelse mulighed for at bevilge en fleksjob. Fleksjob kan bevilges på forskellige vilkår og med forskellige antal timer ugentligt. Bevilling af fleksjob vil typisk være baseret på ens helbredsoplysninger samt oplysninger om en eller flere arbejdsprøvninger og virksomhedspraktikker, som man har deltaget i. Formålet med arbejdsprøvningerne er at finde ud af, i hvilke funktioner man kan arbejde, og hvor meget man kan arbejde. Fleksjob kan tilkendes med ned til ganske få timer om ugen.  
+Kommunen kan på et tidspunkt i ens sygeforløb vurdere, at man ikke længere er i stand til at varetage et arbejde på normale vilkår. Kommunen har i den forbindelse mulighed for at bevilge en fleksjob. 
+
+Fleksjob kan bevilges på forskellige vilkår og med forskellige antal timer ugentligt. Bevilling af fleksjob vil typisk være baseret på ens helbredsoplysninger samt oplysninger om en eller flere arbejdsprøvninger og virksomhedspraktikker, som man har deltaget i. 
+
+Formålet med arbejdsprøvningerne er at finde ud af, i hvilke funktioner man kan arbejde, og hvor meget man kan arbejde. Fleksjob kan tilkendes med ned til ganske få timer om ugen.  
 
 
 #### Nævnspraksis om erhvervsevnetabsforsikringen (Premium)
 
-Det forhold, at man bevilges fleksjob med eksempelvis 10 timer om ugen, medfører ikke automatisk, at ens erhvervsevnetabsforsikring vil vurdere, at ens erhvervsevne er nedsat med mere end 2/3. Det skyldes, at forsikringsselskabet foretager en konkret og selvstændig vurdering af forsikringstagerens erhvervsevne. Se f.eks. klagesagerne fra Forsikringsankenævnet i sagsnr.: 86746 (8 timers fleksjob, erhvervsevne var ikke nedsat med 2/3), sagsnr.: 85017 (10 timers fleksjob, erhvervsevne nedsat med mindst 1/2), sagsnr.: 87666 (12 timers fleksjob, erhvervsevne ikke nedsat med mindst 1/2) og sagsnr.: 86639 (12 timers fleksjob, erhvervsevne var nedsat med 2/3):  
+Det forhold, at man bevilges fleksjob med eksempelvis 10 timer om ugen, medfører ikke automatisk, at ens erhvervsevnetabsforsikring vil vurdere, at ens erhvervsevne er nedsat med mere end 2/3. 
+
+Det skyldes, at forsikringsselskabet foretager en konkret og selvstændig vurdering af forsikringstagerens erhvervsevne. 
+
+Se f.eks. klagesagerne fra Forsikringsankenævnet i sagsnr.: 86746 (8 timers fleksjob, erhvervsevne var ikke nedsat med 2/3), 
+
+Sagsnr.: 85017 (10 timers fleksjob, erhvervsevne nedsat med mindst 1/2), 
+
+Sagsnr.: 87666 (12 timers fleksjob, erhvervsevne ikke nedsat med mindst 1/2) og 
+
+Sagsnr.: 86639 (12 timers fleksjob, erhvervsevne var nedsat med 2/3), 
+
 Sagsnr.: 86746: Klager over afslag på dækning ved tab af erhvervsevne. Klager, der blev født i 1965 og var kontoruddannet, var involveret i et trafikuheld, hvor hun som passager i en bil blev påkørt bagfra med ca. 40 km/t. Hun havde efterfølgende gener i form af hovedpine, koncentrationsbesvær og svimmelhed. Efter kommunale praktikforløb blev hun godkendt til fleksjob, med 12-15 timer ugentligt. Pr. 1/1 2014 blev hun ansat i fleksjob med 8 timer ugentligt på sin tidligere arbejdsplads. Med henvisning til bl.a. begrænsede objektive fund ved lægelige undersøgelser samt klagers sociale forhold afviste selskabet at yde dækning. Efter en gennemgang af sagen fandt nævnet ikke grundlag for at kritisere selskabets afgørelse. Selskab medhold.
+
 Sagsnr.: 85017: Klager over afslag på erhvervsevnetabsdækning. Klageren var den 31/12 2011 udsat for en faldulykke, hvor han pådrog sig et knusningsbrud i skinnebenet. Selskabet ydede midlertidig dækning for erhvervsevnetab i perioden mellem den 1/4 2011 og den 31/5 2012, hvorefter selskabet overgik til vurdering af klagers generelle erhvervsevne og standsede ydelserne med henvisning til, at denne ikke var nedsat i dækningsberettigende grad. Efter sin gennemgang af sagen fandt nævnet, at klagers erhvervsevne var nedsat med mindst halvdelen efter den 1/6 2012. Nævnet havde bl.a. lagt vægt på, at der var vedvarende smerter og nedsat bevægelighed i klagers fod, og at der opstod daglige hævelser i hans underben, også når han forholdt sig i ro. Nævnet lagde endvidere vægt på, at klager til trods for en række skånehensyn kun magtede 10 ugentlige arbejdstimer i sit eksterne virksomhedspraktikforløb. Klager medhold.  
-Sagsnr.: 87666: Klager over afslag på udbetaling af erhvervsevnetabsydelser efter den 1/4 2015. Klager havde smerter i højre del af overkroppen. Han fik bl.a. stillet diagnoserne dobbeltsidig tennisalbue og myofascielt syndrom. Han arbejdede 12 timer om ugen i flexjob med maskinbetjening. Nævnets flertal fandt efter en samlet vurdering, at klager ikke havde bevist, at hans generelle erhvervsevne var nedsat med mindst halvdelen efter den 1/4 2015. Flertallet lagde vægt på, at han ikke var blevet arbejdsprøvet i en funktion, hvor hans skånehensyn blev varetaget tilstrækkeligt. Mindretallet fandt, at klagers erhvervsevne var nedsat med halvdelen. Selskab medhold.  
+
+Sagsnr.: 87666: Klager over afslag på udbetaling af erhvervsevnetabsydelser efter den 1/4 2015. Klager havde smerter i højre del af overkroppen. Han fik bl.a. stillet diagnoserne dobbeltsidig tennisalbue og myofascielt syndrom. Han arbejdede 12 timer om ugen i flexjob med maskinbetjening. Nævnets flertal fandt efter en samlet vurdering, at klager ikke havde bevist, at hans generelle erhvervsevne var nedsat med mindst halvdelen efter den 1/4 2015. Flertallet lagde vægt på, at han ikke var blevet arbejdsprøvet i en funktion, hvor hans skånehensyn blev varetaget tilstrækkeligt. Mindretallet fandt, at klagers erhvervsevne var nedsat med halvdelen. Selskab medhold. 
+
 Sagsnr.: 86639: Klager over afslag på at udbetale invaliderente samt fritagelse for betaling af præmie ved tab af erhvervsevne. Klager fik endeligt konstateret Parkinsons i 2013 efter symptomer og behandling herfor siden 2011. Han blev sygemeldt i 2013 og fik i 2014 et fastholdelsesfleksjob som chauffør på 16 timer om ugen, 12 timers effektiv arbejdstid, og ansøgte selskabet om udbetaling af invaliderente samt fritagelse for betaling af præmie. Selskabet afslog anmodningen og henviste til, at klagers erhvervsevne ikke var nedsat med mindst 2/3. Selskabet lagde blandt andet vægt på, at klagers fleksjob var på 16 timer om ugen, og at han ikke var søgt arbejdsprøvet i mindre fysisk krævende stillinger. Nævnet fandt, at klagers erhvervsevne var nedsat med 2/3. Nævnet lagde blandt andet vægt på, at Parkinsonslidelsen havde forværret klagers tilstand gennem årene, og at nedtrapningen i arbejdstid blandt andet skete efter forslag fra hans læger. Derudover fandt nævnet, at det ikke kunne antages, at han kunne tjene mere i en anden stilling og lagde herved vægt på, at fleksjobbet fremstod med betydelig fleksibilitet og ikke kunne anses for at være fysisk krævende. Endelig har nævnet lagt vægt på, at klager i fleksjobbet har en effektiv arbejdstid på 12 timer ugentligt. Selskabet havde derfor ikke været berettiget til at afslå anmodningen om udbetaling af invaliderente og præmiefritagelse. Klager medhold.  
 
-Kommunen kan også vurdere, at man ikke vil være i stand til at forsørge sig selv ved arbejde, og kan på denne baggrund tildele førtidspension. Ved den kommunale vurdering af, om man skal indstilles til førtidspension, lægger kommunen vægt på ens arbejdsevne, mens forsikringsselskabet vurderer ens erhvervsevne.  
+Kommunen kan også vurdere, at man ikke vil være i stand til at forsørge sig selv ved arbejde, og kan på denne baggrund tildele førtidspension. 
 
-Det kommunale arbejdsevnebegreb er bredere end det forsikringsretlige erhvervsevnebegreb, idet kommunen inddrager flere momenter end blot ens helbred. Således vil kommunen ud over ens helbred også lægge vægt på bl.a. ens sociale forhold, interesser, arbejdsrelevante ønsker mv. Derfor kan man ikke konkludere, at man har ret til dækning for tab af erhvervsevne, fordi man er blevet tilkendt førtidspension. Se eksempelvis klagesagerne i Forsikringsankenævnet i sagsnr.: 85836 (bevilget førtidspension, men ikke ret til forsikringsdækning), sagsnr.: 84499 (bevilget førtidspension, erhvervsevne nedsat med 1/2) og sagsnr.: 85876 (bevilget førtidspension og erhvervsevne nedsat med 2/3):  
+Ved den kommunale vurdering af, om man skal indstilles til førtidspension, lægger kommunen vægt på ens arbejdsevne, mens forsikringsselskabet vurderer ens erhvervsevne.  
+
+Det kommunale arbejdsevnebegreb er bredere end det forsikringsretlige erhvervsevnebegreb, idet kommunen inddrager flere momenter end blot ens helbred. Således vil kommunen ud over ens helbred også lægge vægt på bl.a. ens sociale forhold, interesser, arbejdsrelevante ønsker mv. Derfor kan man ikke konkludere, at man har ret til dækning for tab af erhvervsevne, fordi man er blevet tilkendt førtidspension. 
+
+Se eksempelvis klagesagerne i Forsikringsankenævnet i sagsnr.: 85836 (bevilget førtidspension, men ikke ret til forsikringsdækning), 
+
+Sagsnr.: 84499 (bevilget førtidspension, erhvervsevne nedsat med 1/2) og 
+
+Sagsnr.: 85876 (bevilget førtidspension og erhvervsevne nedsat med 2/3),  
 
 Sagsnr.: 85836: Klager over, at selskabet afviste dækning ved tab af erhvervsevne. Klager, født i 1959 og ufaglært, blev sygemeldt den 9/1 2009 grundet en knæoperation og smerter i ryggen. Den 10/1 2009 blev hun afskediget pga. nedskæringer. Hun var i virksomhedspraktikker i en kantine og som pædagogmedhjælper, hvor hun arbejdede mellem 15 og 20 timer ugentligt. Ved et højere timeantal blev smerterne forværret. Hun blev tilkendt førtidspension pr. 1/7 2012. Selskabet afviste, at klagers erhvervsevne var nedsat i dækningsberettigende grad, og henviste bl.a. til de foretagne arbejdsprøvninger og de lægelige oplysninger. Nævnet fandt det ikke dokumenteret, at klagers erhvervsevne var nedsat i dækningsberettigende grad. Selskab medhold.
-Sagsnr.: 84499: Klager over afvisning af dækning for erhvervsevnetab. Klager blev sygemeldt i 2009 fra sit arbejde som dagplejemor på grund af smerter i leddene. Hun led desuden af astmatisk bronchitis. Fra 21/9 2010 til den 18/1 2011 var hun i kommunalt afklaringsforløb og praktik, og pr. 1/7 2011 fik hun tilkendt offentlig førtidspension. Selskabet anerkendte, at klagers erhvervsevne var nedsat med halvdelen. Selskabet afviste at udbetale invalidesum med henvisning til, at hendes erhvervsevne ikke var nedsat til 1/3. Nævnet fandt, at klager ikke havde bevist, at hendes generelle erhvervsevne varigt var nedsat til 1/3 eller derunder. Nævnet lagde bl.a. vægt på, at der var tale om flere relativt diffuse lidelser, at hendes funktionsniveau i indstillingen til førtidspension blev vurderet nedsat i moderat til svær grad, samt på forløbet af hendes arbejdsprøvning, hvor hun havde arbejdet 13,5 timer om ugen. Selskab medhold.  
+
+Sagsnr.: 84499: Klager over afvisning af dækning for erhvervsevnetab. Klager blev sygemeldt i 2009 fra sit arbejde som dagplejemor på grund af smerter i leddene. Hun led desuden af astmatisk bronchitis. Fra 21/9 2010 til den 18/1 2011 var hun i kommunalt afklaringsforløb og praktik, og pr. 1/7 2011 fik hun tilkendt offentlig førtidspension. Selskabet anerkendte, at klagers erhvervsevne var nedsat med halvdelen. Selskabet afviste at udbetale invalidesum med henvisning til, at hendes erhvervsevne ikke var nedsat til 1/3. Nævnet fandt, at klager ikke havde bevist, at hendes generelle erhvervsevne varigt var nedsat til 1/3 eller derunder. Nævnet lagde bl.a. vægt på, at der var tale om flere relativt diffuse lidelser, at hendes funktionsniveau i indstillingen til førtidspension blev vurderet nedsat i moderat til svær grad, samt på forløbet af hendes arbejdsprøvning, hvor hun havde arbejdet 13,5 timer om ugen. Selskab medhold.
+
 Sagsnr.: 85876: Klager over afslag på dækning ved tab af erhvervsevne. Selskabet anførte, at klagers generelle erhvervsevne ikke var nedsat med mindst 2/3 efter den 1/3 2010. Klager, der var født i 1961 og arbejdede som kommunal dagplejer, blev i maj 2008 sygemeldt grundet smerter i bevægeapparatet og blev i 2009 diagnosticeret med fibromyalgi i svær grad. Efter et længere arbejdsprøvningsforløb blev klager tilkendt førtidspension fra 1/4 2013. Nævnet fandt det efter en samlet bedømmelse sandsynliggjort, at klagers erhvervsevne var nedsat med mindst 2/3 efter den 1/4 2013. Klager medhold.  
 
 Højesteret har i en dom i Ugeskrift for Retsvæsen U 2011.2223 H taget stilling til, at det er forsikringstageren, der skal bevise, at hans (generelle) erhvervsevne er nedsat, og at det forhold, at der var tilkendt fleksjob med 2/3 tilskud, ikke i sig selv gav en formodning for, at der forelå en nedsættelse af erhvervsevnen:  
@@ -15847,7 +16163,15 @@ U 2011.2223 H: A, der var landmand, var i 2000 udsat for en arbejdsulykke, hvorv
 ###	Lidelser, der er opstået, før erhvervsevnetabsforsikringen trådte i kraft (Premium)
 Det fremgår ofte af forsikringsbetingelserne, at man ikke har ret til erhvervstabsdækning, hvis ens erhvervsevne allerede var nedsat med den relevante brøkdel, da man blev omfattet af forsikringen.  
 
-Måske har kommunen bevilget en et fleksjob, og som følge af fleksjobansættelsen bliver man optaget i en pensionsordning, hvor der er tilknyttet en forsikring ved tab af erhvervsevne. I nogle forsikringsbetingelser fremgår det, at man ikke bliver omfattet af forsikringen ved tab af erhvervsevne, hvis man på optagelsestidspunktet er i fleksjob. I andre forsikringsbetingelser fremgår det alene, at ens erhvervsevne ikke må være nedsat med den fastsatte brøkdel, når man optages i ordningen. I sidstnævnte tilfælde vil det være en konkret vurdering, om ens erhvervsevne må anses for at være tilstrækkeligt nedsat allerede ved optagelsestidspunktet. Se f.eks. Forsikringsankenævnets sagsnr.: 85493 (erhvervsevnetabet var indtrådt forud for optagelsen i en ny pensionsordning):  
+Måske har kommunen bevilget en et fleksjob, og som følge af fleksjobansættelsen bliver man optaget i en pensionsordning, hvor der er tilknyttet en forsikring ved tab af erhvervsevne. 
+
+I nogle forsikringsbetingelser fremgår det, at man ikke bliver omfattet af forsikringen ved tab af erhvervsevne, hvis man på optagelsestidspunktet er i fleksjob. 
+
+I andre forsikringsbetingelser fremgår det alene, at ens erhvervsevne ikke må være nedsat med den fastsatte brøkdel, når man optages i ordningen. 
+
+I sidstnævnte tilfælde vil det være en konkret vurdering, om ens erhvervsevne må anses for at være tilstrækkeligt nedsat allerede ved optagelsestidspunktet. 
+
+Se f.eks. Forsikringsankenævnets sagsnr.: 85493 (erhvervsevnetabet var indtrådt forud for optagelsen i en ny pensionsordning):  
 
 Sagsnr.: 85493: Klager over afvisning af at anerkende et erhvervsevnetab på 2/3, og at hun ikke blev anset for omfattet af nye forsikringsbetingelser. Klager pådrog sig en diskusprolaps i 2009 og blev opereret 3 gange i 2009 og 1 gang i 2011. Hun var sygemeldt frem til den 1/6 2012, hvor hun genoptog sit arbejde. Hun blev pr. 1/10 2013 tilkendt fleksjob med 12-14 timer/uge. Pr. 1/1 2013 fusionerede hendes selskab med AP Pension. Hun anførte, at hun ved fusionen blev omfattet af AP Pensions mere lempelige betingelser, og at selskabet derfor skulle yde fuld invalidepension og præmie fritagelse. Hun gjorde gældende, at hendes erhvervsevne var nedsat med 2/3. Selskabet afviste, at klager blev omfattet af de mere lempelige betingelser pr. 1/1 2013, da hendes erhvervsevne allerede var nedsat i dækningsberettigende grad fra den 1/2 2012, og at hun derfor ikke var fuldt arbejdsdygtig på fusionstidspunktet. Selskabet anførte også, at klagers erhvervsevne alene var nedsat med mellem 1/2 og 2/3. Nævnet fandt, at klagers erhvervsevnetab var indtrådt allerede i 2012, og at klagers sag derfor skulle vurderes efter de dagældende betingelser. Nævnet fandt, at klager ikke havde dokumenteret, at hendes erhvervsevne var nedsat med mindst 2/3. Selskab medhold.  
 
@@ -15855,21 +16179,39 @@ I nogle ordninger gælder det dog, at et dækningsforbehold – som generelt gæ
 
 
 ### Forsikringsselskabets muligheder for at standse udbetalingerne (Premium)  
-Dækningen for tab af erhvervsevne ydes løbende af forsikringsselskabet. Det betyder, at forsikringsselskabet som udgangspunkt har mulighed for at foretage en fornyet vurdering af ens sag/helbred, selvom man i en årrække har modtaget dækning for erhvervsevnetab.  
+Dækningen for tab af erhvervsevne ydes løbende af forsikringsselskabet. 
+
+Det betyder, at forsikringsselskabet som udgangspunkt har mulighed for at foretage en fornyet vurdering af ens sag/helbred, selvom man i en årrække har modtaget dækning for erhvervsevnetab.  
 
 Ved en fornyet vurdering vil forsikringsselskabet ofte indhente nye kommunale og lægelige oplysninger – herunder nye speciallægeerklæringer – således, at det er opdaterede oplysninger, der danner grundlag for vurderingen.  
 
-Om forsikringsselskabet må standse dækningen, afhænger af en konkret vurdering, hvor det på samme måde som ved den oprindelige tilkendelse af dækningen er en kombination af de foreliggende oplysninger vedrørende forsikringstagerens helbred og arbejde, der er afgørende for, om man fortsat har ret til dækning. Se eksempelvis klagesagerne i Forsikringsankenævnet i sagsnr.: 86100 (ikke ret til fortsatte ydelser efter 9 år), sagsnr.: 87050 (udbetalinger stoppet efter ca. 15 år), sagsnr.: 87506 (ikke grundlag for at standse dækning) og sagsnr.: 84071 (ikke grundlag for at standse dækning):  
-Sagsnr.: 86100: Klager over, at selskabet standsede udbetalinger og præmiefritagelse pr. 1/1 2013 efter 9 år. Klager anførte endvidere, at selskabet havde givet tilsagn om udbetalinger indtil 2034. Selskabet afviste fortsatte udbetalinger og præmiefritagelse med henvisning til, at klager ikke havde sandsynliggjort, at han ikke kunne tjene langt mere som procesteknolog/sælger, end hvad der var sædvanligt. Nævnet fandt, at selskabet ikke havde givet tilsagn om fortsatte udbetalinger og præmiefritagelse, ligesom nævnet fandt, at klagers indtægt oversteg halvdelen af, hvad fuldt arbejdsdygtige personer med tilsvarende uddannelse og alder ville være i stand til at oppebære. Selskab medhold.  
-Sagsnr.: 87050: Klager over ophør med udbetaling af invalidepension efter 1/2 2015. Klager, der blev født i 1969, havde modtaget invalidepension siden december 1999, efter han var blevet overfaldet og slået i hoved og nakke. Han led efterfølgende af nakkesmerter, hovedpine og lændesmerter. Hertil havde han perioder med psykisk belastning og symptomer på PTSD. Han havde været gennem flere afklaringsforløb, og i 2007 blev han tilkendt fleksjob. Han havde varetaget forskellige jobfunktioner med timeantal mellem 12 og 25 timer. Selskabet stoppede dækningen med henvisning til, at erhvervsevnen ikke længere var nedsat i dækningsberettigende grad, og henviste bl.a. til manglende lægelig dokumentation samt klagers sociale og familiemæssige forhold. Nævnet fandt det ikke bevist, at klagers erhvervsevne også var nedsat med mindst halvdelen efter den 1/2 2015, hvorfor selskabets afgørelse ikke kunne kritiseres. Selskab medhold.  
-Sagsnr.: 87506: Klager over, at selskabet standsede udbetalinger og præmiefritagelse pr. 1/8 2014. Klager, der var født i 1958 og uddannet socialpædagog, anmeldte, at hendes erhvervsevne var nedsat grundet depression som følge af en voldsom arbejdsrelateret hændelse i 2009. Hun havde siden hændelsen været arbejdsprøvet og blev den 28/3 2014 tilkendt et fleksjob af kommunen. Fra den 1/8 2014 var hun i et praktikforløb 9 timer ugentligt med en effektiv arbejdstid på 6 timer ugentligt. Selskabet fandt det ikke dokumenteret, at hendes erhvervsevne var nedsat til mindst halvdelen. Nævnet fandt, at klager havde bevist, at hendes generelle erhvervsevne var nedsat med halvdelen eller derover. Klager medhold.  
+Om forsikringsselskabet må standse dækningen, afhænger af en konkret vurdering, hvor det på samme måde som ved den oprindelige tilkendelse af dækningen er en kombination af de foreliggende oplysninger vedrørende forsikringstagerens helbred og arbejde, der er afgørende for, om man fortsat har ret til dækning. 
+
+Se eksempelvis klagesagerne i Forsikringsankenævnet i sagsnr.: 86100 (ikke ret til fortsatte ydelser efter 9 år), 
+
+Sagsnr.: 87050 (udbetalinger stoppet efter ca. 15 år), 
+
+Sagsnr.: 87506 (ikke grundlag for at standse dækning) og 
+
+Sagsnr.: 84071 (ikke grundlag for at standse dækning),
+
+Sagsnr.: 86100: Klager over, at selskabet standsede udbetalinger og præmiefritagelse pr. 1/1 2013 efter 9 år. Klager anførte endvidere, at selskabet havde givet tilsagn om udbetalinger indtil 2034. Selskabet afviste fortsatte udbetalinger og præmiefritagelse med henvisning til, at klager ikke havde sandsynliggjort, at han ikke kunne tjene langt mere som procesteknolog/sælger, end hvad der var sædvanligt. Nævnet fandt, at selskabet ikke havde givet tilsagn om fortsatte udbetalinger og præmiefritagelse, ligesom nævnet fandt, at klagers indtægt oversteg halvdelen af, hvad fuldt arbejdsdygtige personer med tilsvarende uddannelse og alder ville være i stand til at oppebære. Selskab medhold.
+
+Sagsnr.: 87050: Klager over ophør med udbetaling af invalidepension efter 1/2 2015. Klager, der blev født i 1969, havde modtaget invalidepension siden december 1999, efter han var blevet overfaldet og slået i hoved og nakke. Han led efterfølgende af nakkesmerter, hovedpine og lændesmerter. Hertil havde han perioder med psykisk belastning og symptomer på PTSD. Han havde været gennem flere afklaringsforløb, og i 2007 blev han tilkendt fleksjob. Han havde varetaget forskellige jobfunktioner med timeantal mellem 12 og 25 timer. Selskabet stoppede dækningen med henvisning til, at erhvervsevnen ikke længere var nedsat i dækningsberettigende grad, og henviste bl.a. til manglende lægelig dokumentation samt klagers sociale og familiemæssige forhold. Nævnet fandt det ikke bevist, at klagers erhvervsevne også var nedsat med mindst halvdelen efter den 1/2 2015, hvorfor selskabets afgørelse ikke kunne kritiseres. Selskab medhold. 
+
+Sagsnr.: 87506: Klager over, at selskabet standsede udbetalinger og præmiefritagelse pr. 1/8 2014. Klager, der var født i 1958 og uddannet socialpædagog, anmeldte, at hendes erhvervsevne var nedsat grundet depression som følge af en voldsom arbejdsrelateret hændelse i 2009. Hun havde siden hændelsen været arbejdsprøvet og blev den 28/3 2014 tilkendt et fleksjob af kommunen. Fra den 1/8 2014 var hun i et praktikforløb 9 timer ugentligt med en effektiv arbejdstid på 6 timer ugentligt. Selskabet fandt det ikke dokumenteret, at hendes erhvervsevne var nedsat til mindst halvdelen. Nævnet fandt, at klager havde bevist, at hendes generelle erhvervsevne var nedsat med halvdelen eller derover. Klager medhold.
+
 Sagsnr.: 84071: Klager over afvisning af fortsat dækning for erhvervsevnetab. Klager blev sygemeldt den 9/9 2002 på grund af smerter i arme, skuldre og nakke, og den 1/5 2004 blev hun tilkendt førtidspension. Selskabet udbetalte midlertidige ydelser fra den 9/12 2003 og meddelte den 10/6 2004, at hendes generelle erhvervsevne vurderedes at være nedsat med mindst 2/3, og at udbetalingerne ikke længere var midlertidige. Selskabet meddelte den 5/7 2012, at ydelserne nu ville standse, idet klager var aktiv som kunstner og IT-ansvarlig i en kunstforening. Nævnet fandt, at det ikke var godtgjort, at der var sket sådanne ændringer i klagers helbredstilstand, at de kunne begrunde ophør af forsikringsdækning. Nævnet fandt, at klagers generelle erhvervsevne måtte anses for at være nedsat med mindst halvdelen. Klager medhold.  
 
 ### Helbredsoplysninger
 
- 
+Nogle forsikringsselskaber kræver, at man afgiver helbredsoplysninger, når man tegner en forsikring mod erhvervsevnetab. 
 
-Nogle forsikringsselskaber kræver, at man afgiver helbredsoplysninger, når man tegner en forsikring mod erhvervsevnetab. Er forsikringen en integreret del af ens pensionsordning, kan selskabet bede om oplysningerne i forbindelse med, at man optages i pensionsordningen, eller når man senere udvider dækningerne. Disse helbredsoplysninger bruges til at vurdere, hvor stor en risiko der er for, at man senere bliver alvorligt syg. Det er vigtigt, at man læser spørgsmålene grundigt, og at man svarer korrekt og fyldestgørende på spørgsmålene fra forsikringsselskabet.  
+Er forsikringen en integreret del af ens pensionsordning, kan selskabet bede om oplysningerne i forbindelse med, at man optages i pensionsordningen, eller når man senere udvider dækningerne. 
+
+Disse helbredsoplysninger bruges til at vurdere, hvor stor en risiko der er for, at man senere bliver alvorligt syg. 
+
+Det er vigtigt, at man læser spørgsmålene grundigt, og at man svarer korrekt og fyldestgørende på spørgsmålene fra forsikringsselskabet.  
 
 Hvis man afgiver urigtige oplysninger til forsikringsselskabet ved tegningen af forsikringen, er der risiko for, at selskabet på et senere tidspunkt – ofte når man anmelder et erhvervsevnetab – ophæver forsikringen med tilbagevirkende kraft og samtidig afviser at udbetale erstatning.  
 
@@ -15893,80 +16235,146 @@ Er man i tvivl, om man har en livsforsikring, kan man tjekke det på „Pensions
 
 Forsikringsselskaberne gør i stort omfang brug af den lægelige viden, som landets læger og hospitaler kan byde på.  
 Det sker fx:  
-*	når forsikringer ikke kan oprettes uden en helbredsvurdering  
-*	hvor helbredet er afgørende for en udbetaling – enten ved tab af erhvervsevnen eller en diagnose, der giver ret til udbetaling fra en forsikring ved visse kritiske sygdomme  
-*	hvis der er anledning til at undersøge, om der er afgivet rigtige helbredsoplysninger, da forsikringen blev oprettet.  
 
-Brugen af lægernes ekspertise og viden er i vidt omfang reguleret af lovgivning og aftaler. Det er primært for at beskytte borgerne mod et helt ufiltreret samarbejde, men også for at have klare regler for, hvad lægerne kan og skal medvirke til og på hvilke betingelser.  
+*	når forsikringer ikke kan oprettes uden en helbredsvurdering 
+
+*	hvor helbredet er afgørende for en udbetaling – enten ved tab af 
+  erhvervsevnen eller en diagnose, der giver ret til udbetaling fra 
+  en forsikring ved visse kritiske sygdomme  
+  
+*	hvis der er anledning til at undersøge, om der er afgivet rigtige 
+  helbredsoplysninger, da forsikringen blev oprettet.  
+
+Brugen af lægernes ekspertise og viden er i vidt omfang reguleret af lovgivning og aftaler. 
+
+Det er primært for at beskytte borgerne mod et helt ufiltreret samarbejde, men også for at have klare regler for, hvad lægerne kan og skal medvirke til og på hvilke betingelser.  
 
 Herudover er der et væsentligt element af forbrugerbeskyttelse, så der ikke indhentes oplysninger uden den forsikredes samtykke, og at man har ret til at fortryde forsikringsaftalen i op til 14 dage – for visse forsikringer 1 måned.  
 
 ### Når man skal give oplysninger om ens helbred (Premium)
-Tegner man en privat livsforsikring, skal man besvare en række spørgsmål om sit helbred. Svarene bruger forsikringsselskabet til at vurdere den helbredsmæssige risiko. I de fleste tilfælde får oplysningerne om helbredet ingen betydning for forsikringstegningen, men har man helbredsforhold, der medfører øget risiko for kortere levetid, sygelighed eller uarbejdsdygtighed, kan det betyde, at forsikringen bliver tilbudt på skærpede vilkår - enten med en højere præmie eller med en klausul for helbredsforholdet. For visse forsikringstyper, f.eks. nogle gruppelivsforsikringer, er det ikke muligt at tilbyde forsikring på skærpede vilkår. En helbredsmæssig forøget risiko vil derfor i nogle tilfælde betyde, at man ikke kan tegne forsikringen. Forsikringsselskabet kan have brug for flere oplysninger om den forsikredes helbred fra dennes læge, og i sjældnere tilfælde fra et sygehus eller en speciallæge. Forsikringsselskabet kan indhente lægelige oplysninger, hvis man har givet tilladelse til det ved at underskrive et samtykke. I nogle tilfælde skriver man også under på, at ens helbredsoplysninger kan blive registreret i „Videncenter for Helbred & Forsikring“.  
+Tegner man en privat livsforsikring, skal man besvare en række spørgsmål om sit helbred. 
+
+Svarene bruger forsikringsselskabet til at vurdere den helbredsmæssige risiko. 
+
+I de fleste tilfælde får oplysningerne om helbredet ingen betydning for forsikringstegningen, men har man helbredsforhold, der medfører øget risiko for kortere levetid, sygelighed eller uarbejdsdygtighed, kan det betyde, at forsikringen bliver tilbudt på skærpede vilkår - enten med en højere præmie eller med en klausul for helbredsforholdet. For visse forsikringstyper, f.eks. nogle gruppelivsforsikringer, er det ikke muligt at tilbyde forsikring på skærpede vilkår. 
+
+En helbredsmæssig forøget risiko vil derfor i nogle tilfælde betyde, at man ikke kan tegne forsikringen. 
+
+Forsikringsselskabet kan have brug for flere oplysninger om den forsikredes helbred fra dennes læge, og i sjældnere tilfælde fra et sygehus eller en speciallæge. 
+
+Forsikringsselskabet kan indhente lægelige oplysninger, hvis man har givet tilladelse til det ved at underskrive et samtykke. 
+
+I nogle tilfælde skriver man også under på, at ens helbredsoplysninger kan blive registreret i „Videncenter for Helbred & Forsikring“.  
 
 Når et forsikringsselskab har behov for at få oplysninger om helbredet, sker det i form af attester (aftalt mellem Lægeforeningen, andre sundhedsfaglige organisationer og Forsikring & Pension) eller erklæringer og skemaer, som udfyldes af den forsikringssøgende.  
 
 Svar korrekt og fyldestgørende på spørgsmål om helbredet.  
-Helbredsoplysningerne bør besvares omhyggeligt. Det er ens eget ansvar, at svarene er korrekte og fyldestgørende. En bevidst undladt oplysning er det samme som en urigtig oplysning, og resultatet kan blive, at der ikke er ret til nogen udbetaling, når man selv eller ens efterladte får brug for forsikringen.  
+Helbredsoplysningerne bør besvares omhyggeligt. 
+
+Det er ens eget ansvar, at svarene er korrekte og fyldestgørende. En bevidst undladt oplysning er det samme som en urigtig oplysning, og resultatet kan blive, at der ikke er ret til nogen udbetaling, når man selv eller ens efterladte får brug for forsikringen.  
 
 ### Udbetaling af forsikringer (Premium)  
 Hvem får pengene udbetalt, hvis man dør uventet?  
 Når der sker vigtige ændringer i ens liv, fx at man får en samlever, bliver gift, skilt eller får børn, bør man tjekke, om ens pension skal tilpasses ens nye livssituation. For hvem skal have pengene fra en forsikring, hvis man pludselig dør?  
+
+
 I de fleste forsikringer er "nærmeste pårørende" automatisk indsat, som modtager af forsikringsudbetalingen ved død.  
 
-Nærmeste pårørende findes i to udgaver  
-Dette begreb har to betydninger. Og det skal man være meget opmærksom på. Også fordi man sagtens kan have pensioner eller livsforsikringer med „nærmeste pårørende“, som ikke har samme betydning. Det gælder også, hvis man har alders- og ratepensioner i et pengeinstitut.  
+**Nærmeste pårørende findes i to udgaver**
+
+Dette begreb har to betydninger. 
+
+Og det skal man være meget opmærksom på. Også fordi man sagtens kan have pensioner eller livsforsikringer med „nærmeste pårørende“, som ikke har samme betydning. 
+
+Det gælder også, hvis man har alders- og ratepensioner i et pengeinstitut.  
 
 
+**Begrebet „nærmeste pårørende“**
 
+Betydningen af begrebet „nærmeste pårørende“ blev ændret den 1. januar 2008. Hvad der gælder, afhænger af, hvornår man blev forsikret, eller hvornår man selv eller en pensionsleverandør har valgt „nærmeste pårørende“ som begunstiget. 
 
-Begrebet „nærmeste pårørende“  
-Betydningen af begrebet „nærmeste pårørende“ blev ændret den 1. januar 2008. Hvad der gælder, afhænger af, hvornår man blev forsikret, eller hvornår man selv eller en pensionsleverandør har valgt „nærmeste pårørende“ som begunstiget. Man kan se i sin forsikringsoversigt/police, hvilken definition af „nærmeste pårørende“ der gælder.  
-Man kan også se det i „PensionsInfo.dk“.  
+Man kan se i sin forsikringsoversigt/police, hvilken definition af „nærmeste pårørende“ der gælder.  
+
+Man kan også se det i „PensionsInfo.dk“.
+
 Er man kommet med 1. januar 2008 eller senere, så betyder „nærmeste pårørende“:  
 
 1.	Ægtefælle
-  + Hvis man ikke efterlader ægtefælle/registreret partner:
-2.	Samlever i ægteskabslignende forhold, hvor et af følgende gælder:
-  + Ved dødsfaldet bor I sammen og har boet sammen i to år inden dødsfaldet.
-  +	Ved dødsfaldet bor I sammen og har, har haft eller venter barn sammen.
-  + Hvis man heller ikke efterlader samlever i ægteskabslignende forhold:
+    + Hvis man ikke efterlader ægtefælle/registreret partner:
+    
+2.	Samlever i ægteskabslignende forhold, hvor et af følgende 
+    gælder:
+    
+    + Ved dødsfaldet bor I sammen og har boet sammen i to år inden 
+    dødsfaldet.
+    
+    +	Ved dødsfaldet bor I sammen og har, har haft eller venter barn     sammen.
+    
+    + Hvis man heller ikke efterlader samlever i ægteskabslignende 
+    forhold:
+    
 3.	Børn eller deres efterkommere (livsarvinger)
-  + Hvis man heller ikke efterlader børn eller deres efterkommere:
+    + Hvis man heller ikke efterlader børn eller deres efterkommere:
+    
 4.	Arvinger ifølge testamente
 
-Hvis man heller ikke har oprettet testamente:  
+**Hvis man heller ikke har oprettet testamente:**
+
 5.	Øvrige arvinger efter loven:
-  +    Forældre og deres efterkommere
+
+  + Forældre og deres efterkommere
+  
   +	Bedsteforældre og deres børn
-  +	Foretag et hurtigt tjek på Forenede Gruppeliv og se, om man skal gøre noget.
+  
+  +	Foretag et hurtigt tjek på Forenede Gruppeliv og se, om man skal   gøre noget.
 
-Er man kommet med før 1. januar 2008 og er der ikke senere aftalt „ny nærmeste pårørende“, så betyder „nærmeste pårørende“: Samme regler som fra 1. januar 2008 eller senere, dog med den undtagelse, at reglerne om samlever i ægteskabslignende forhold ikke gælder.  
+Er man kommet med før 1. januar 2008 og er der ikke senere aftalt „ny nærmeste pårørende“, så betyder „nærmeste pårørende“: 
 
-Passer "nærmeste pårørende" til ens liv?  
+Samme regler som fra 1. januar 2008 eller senere, dog med den undtagelse, at reglerne om samlever i ægteskabslignende forhold ikke gælder.  
+
+**Passer "nærmeste pårørende" til ens liv?** 
+
 Man skal overveje, om man vil have „nærmeste pårørende“ med eller uden samlever. Hvis man vil ændre, skal man give forsikringsselskab/pengeinstitut skriftlig besked herom. Og man skal huske at tjekke alle sine forsikringer og pensioner.  
 
-Det kan også være, at ingen af de to definitioner af nærmeste pårørende passer, fx fordi man ønsker at begunstige et barn i stedet for ægtefællen. En sådan ændring skal også ske skriftligt til forsikringsselskab/pengeinstitut. 
+Det kan også være, at ingen af de to definitioner af nærmeste pårørende passer, fx fordi man ønsker at begunstige et barn i stedet for ægtefællen. 
 
-Giv forsikringsselskabet besked om ens ønsker  
-Det er altså forsikringsselskabet/pengeinstituttet, der skal have skriftlig besked om ens ønske. Det dur ikke at lægge beskeden i ens skrivebordsskuffe, og det er heller ikke gældende i forhold til forsikringsudbetaling at skrive ens ønske i et testamente.  
+En sådan ændring skal også ske skriftligt til forsikringsselskab/pengeinstitut. 
+
+**Giv forsikringsselskabet besked om ens ønsker**
+
+Det er altså forsikringsselskabet/pengeinstituttet, der skal have skriftlig besked om ens ønske. 
+
+Det dur ikke at lægge beskeden i ens skrivebordsskuffe, og det er heller ikke gældende i forhold til forsikringsudbetaling at skrive ens ønske i et testamente.
+
 Normalt kan man frit bestemme, hvem der skal være begunstiget. Der er dog visse begrænsninger, hvis man har haft fradragsret for indbetalinger til forsikringen/pensionen.  
 
-Samlever arver ikke automatisk  
+**Samlever arver ikke automatisk**
+
 Man skal være opmærksom på, at en samlever ikke får andel i den øvrige formue, uanset hvor mange år man har boet sammen og uanset, hvor mange børn man har sammen. Hvis en samlever skal arve efter en, skal man oprette et testamente.  
 
 Udbetalinger fra ATP, hvis man registrer en samlever i ATP  
 Hvis man er registreret som samlever hos ATP, kan man under visse betingelser få op til 50.000 kroner før afgift på 40 pct., hvis en samlever dør.  
 
-Reglerne for ret til udbetaling har mange undtagelser.  
+**Reglerne for ret til udbetaling har mange undtagelser**
+
 Reglerne er følgende:  
 
 *	Man skal være registreret som samlevere hos ATP
-*	Man skal have boet sammen på fælles folkeregisteradresse i mindst 2 år forud for dødsfaldet
-*	Man skal kunne have indgået ægteskab med hinanden de seneste 2 år forud for dødsfaldet
-*	Den afdøde har været med i ATP Livslang Pension i mindst to år efter 1. januar 2002
-*	Den afdøde har indbetalt siden 1. januar 2002, hvad der svarer til mindst to års fulde indbetalinger til ATP livslang Pension 
-*	Har man en samlever, som man ønsker, skal have en sum penge fra ATP, hvis man dør inden en vis alder, så registrer jer nu. Flytter man fra hinanden, bortfalder samlevers ret til engangsudbetalingen.
+
+*	Man skal have boet sammen på fælles folkeregisteradresse i mindst 
+  2 år forud for dødsfaldet
+  
+*	Man skal kunne have indgået ægteskab med hinanden de seneste 2 år 
+  forud for dødsfaldet
+  
+*	Den afdøde har været med i ATP Livslang Pension i mindst to år 
+  efter 1. januar 2002
+  
+*	Den afdøde har indbetalt siden 1. januar 2002, hvad der svarer til   mindst to års fulde indbetalinger til ATP livslang Pension 
+
+*	Har man en samlever, som man ønsker, skal have en sum penge fra 
+  ATP, hvis man dør inden en vis alder, så registrer jer nu. Flytter   man fra hinanden, bortfalder samlevers ret til   
+  engangsudbetalingen.
 
 #### Video: Ole Møgdahl Vil tegne livsforsikring for sin kone
 
