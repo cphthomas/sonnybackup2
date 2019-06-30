@@ -3305,8 +3305,9 @@ Culpa, er den grundlæggende betingelse for at pålægge erstatningsansvar uden 
 
 
 
----   
-<br>
+---  
+
+
 
 <img src="img/foldbold.jpg" align="right" width="10%" height="10%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 <br>
@@ -3340,6 +3341,7 @@ Man er kun erstatningsansvarlig for skader, der kan gøres op i penge (økonomis
 <img src="img/stripper2.jpg" align="right" width="10%" height="10%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 <br>
+
 *FED 2008.1: En mandlig stripteasedanser B ansvarlig for øjenskade på deltager A i kvindelig polterabend, da B affyrede konfettirør. Ikke grundlag for at nedsætte erstatningen som følge af egen skyld eller accept af risiko.*
 
 
@@ -3634,6 +3636,7 @@ Hvis man får varige gener i sin dagligdag på grund af uheldet, kan man kræve 
 Størrelsen af ens mén angives i ménprocent. Det er et lægeligt skøn, der afgør, hvor stort ens mén bliver. Det skal være mindst 5 procent, for at man kan få godtgørelse. Er man fyldt 40 år, bliver godtgørelsen reduceret i forhold til ens alder. Godtgørelsen for varigt mén har intet med ens (evt. tidligere) erhverv at gøre. Derfor vil man måske opleve, at man sagtens kan passe et kontorjob, selv om man har fået erstatning for varigt mén, hvorimod man måske ville have svært ved at passe et job, der var fysisk hårdere.
 
 ### Erhvervsevnetabserstatning
+
 Hvis uheldet betyder, at man mister mindst 15 procent af ens evne til at erhverve indtægt ved arbejde, kan man få erstatning for tab af erhvervsevne. Erstatningens størrelse afhænger af ens løn lige før uheldet, ens alder på uheldstidspunktet og størrelsen af ens erhvervsevnetab. Erstatningen bliver udregnet efter regler fastsat i loven.
 
 Var man fyldt 30 år på tidspunktet for uheldet, bliver ens erstatning nedsat i forhold til ens alder.
@@ -3645,11 +3648,13 @@ For hjemmearbejdende og studerende bliver erstatningen fastsat ud fra et skøn o
 Erhvervsevnetabserstatningen bliver udbetalt på én gang.
 
 ### Dødsfald
+
 <img src="img/funeral.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Der gives erstatning for rimelige begravelsesudgifter. En efterladt ægtefælle eller samlever har desuden krav på et såkaldt “overgangsbeløb”. Dette beløb skal gøre den økonomiske overgang fra gift/samlevende til enlig nemmere. Beløbets størrelse er fastsat i loven. Der kan dog ikke både gives erstatning for begravelsesudgifter og betales overgangsbeløb.
 
 ### Afdøde havde forsørgerpligt
+
 Forsørgertabserstatning til ægtefælle eller samlever udgør 30 procent af den erstatning, som afdøde ville have fået udbetalt ved fuldstændigt tab af erhvervsevnen. Der er dog fastsat et minimum- og et maksimumbeløb.
 
 Efterlevende børn får en erstatning, der svarer til summen af de børnebidrag, som afdøde på skadetidspunktet kunne være pålagt at betale. Erstatningen bliver fordoblet, hvis afdøde var eneforsørger.
@@ -3661,6 +3666,7 @@ Efterlevende børn får en erstatning, der svarer til summen af de børnebidrag,
 ### Eksamensopgave og løsning - Om ejendomsmæglerens erstatningsansvar uden for kontrakt
 
 ***Ejendomsmæglerens støvler***
+
 <br>
 
 En fredag eftermiddag var Martin taget ud til en fremvisning af et hus beliggende i nabobyen Indby. Huset tilhørte Pernille. Martin havde i dagens anledning taget sine nye og meget dyre Armani® støvler på. Desværre havde han fået købt dem i en lidt for lille størrelse, men havde valgt at tage dem på alligevel selvom Egild ikke havde ment at det var en god idé, da han syntes at de ikke rigtig udstrålede det image som ”Udby Mæglerne ApS” gerne ville stå for.
