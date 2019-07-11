@@ -24,7 +24,7 @@ BEGREB <- c(
           
           )
 forklaring <- c(
-  "Grundloven beskriver bl.a. den enkelte borgers rettigheder og pligter, du kan se den her:<br><a href=\"https://www.retsinformation.dk/Forms/R0710.aspx?id=45902\" style=\"color:#3088fc\" target=\"_blank\">Grundloven</a>",
+  "Grundloven beskriver bl.a. den enkelte borgers rettigheder og pligter, du kan se den her:><a href=\"https://www.retsinformation.dk/Forms/R0710.aspx?id=45902\" style=\"color:#3088fc\" target=\"_blank\">Grundloven</a>",
   "Tinglysningsloven indeholder reglerne for den offentlige registrering af rettigheder over fast ejendom<br><a href=\"https://www.retsinformation.dk/Forms/R0710.aspx?id=142900\" style=\"color:#3088fc\" target=\"_blank\">Tinglysningsloven</a>",
   "Aftaleloven"
 #   ,
@@ -58,12 +58,13 @@ indeks <<- data.frame(BEGREB,forklaring)
 
 
 
-<br>
+
 <h3>*Vigtigt bemærk!*</h3>
 
 ***Dette materiale er kun til personligt brug. Alle rettigheder forbeholdes. Fotografering, kopiering eller anden gengivelse af dette materiale, er uden forfatterens skriftlige samtykke,  forbudt, ifølge dansk lov om ophavsret.***
 
 
+***E-bogens videoer og quizerne er ikke at betragte som en del af pensum, men er et supplement til pensum for at fremme din yderligere forståelse for Erhvervs- og Finansjuraen***
 
 
 
@@ -80,7 +81,7 @@ indeks <<- data.frame(BEGREB,forklaring)
 #cat(readLines('np.html'))
 ```
 
-
+***Kapitel 1 skal kun læses i hovedtræk*** 
 
 ## Grundloven om Danmarks forfatning
 
@@ -89,7 +90,11 @@ indeks <<- data.frame(BEGREB,forklaring)
 
 
 
-Af de mere end 1.300 love, vi har i Danmark, er der én lov, en retskilde, der er hævet over alle de andre, nemlig grundloven.  ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` er Danmarks forfatning, dvs. den lov, der beskriver de grundlæggende regler for samfundet. I Danmark fejrer man hvert år grundlovens fødselsdag 5. juni. Men hvordan blev grundloven egentlig indført?<img src="img/Grundloven.jpg" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+Af de mere end 1.300 love, vi har i Danmark, er der én lov, en retskilde, der er hævet over alle de andre, nemlig grundloven.  ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` er Danmarks forfatning, dvs. den lov, der beskriver de grundlæggende regler for samfundet. 
+
+EU-retten står over dansk ret, sådan at en dansk lov kan være ulovlig, nemlig, hvis den enten strider mod EU-retten eller mod grundloven.
+
+I Danmark fejrer man hvert år grundlovens fødselsdag 5. juni. Men hvordan blev grundloven egentlig indført?<img src="img/Grundloven.jpg" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Fra 1660 til 1848 havde Danmark enevælde og i 1700-tallet begyndte modstanden mod enevældet at ulme rundt om i Europa. 
 
@@ -218,7 +223,7 @@ I dag betyder det blot, at hun rent formelt udnævner ministrene i en regering.
 
 Derefter er det i praksis ministrene og deres ministerier, der sørger for, at lovene bliver overholdt.
 
-<br>
+
 Dronningen har ingen indflydelse på, hvem der skal være ministre. Det bestemmer statsministeren. 
 
 Hun har heller ingen indflydelse på, hvilke partier der skal danne regering. 
@@ -242,7 +247,7 @@ Folketingets grundlæggende opgaver og nogle af arbejdsformerne er beskrevet i g
 
 Andre metoder er praksisser, der har udviklet sig gennem de snart 170 år, Folketinget har eksisteret.
 
-<br>
+
 Folketinget er den lovgivende magt. 
 
 Folketinget og regeringen er de eneste, der kan fremsætte lovforslag, dvs. komme med forslag til nye love og lovændringer. 
@@ -292,16 +297,16 @@ Lovteksterne skal derfor skrives så præcist, at borgerne ikke er i tvivl om de
 
 Nye lovforslag kan fremsættes af regeringen og folketingsmedlemmerne (folketingsbeslutninger).
 
-<br>
+
 Regeringen fremsætter de fleste lovforslag, da regeringen har statsadministrationen (ministerierne og styrelser) til at hjælpe sig med udformning af lovforslag mv.
 
-<br>
+
  
 Lovforslag tager lang tid at skrive, og det kræver stor juridisk indsigt. 
 
 Derfor er det regeringen, der fremsætter de fleste lovforslag. For regeringen har mange embedsmænd i ministerierne til at hjælpe sig, mens partierne uden for regeringen, oppositionen, har færre til at hjælpe sig – de har kun medarbejdere i deres gruppesekretariater og i Folketingets Administration.
 
-<br>
+
 Ideer til nye love kommer primært fra regeringen, men kan også komme fra:
 
 
@@ -316,7 +321,7 @@ Ideer til nye love kommer primært fra regeringen, men kan også komme fra:
   
   
 Inden et lovforslag fremsættes i Folketingssalen, har det som regel været igennem en længere process i ministerierne.
-<br>
+
 
 ## Folketingets kontrol med regeringen
 
@@ -1072,35 +1077,70 @@ I visse tilfælde kan den også anvendes af enkeltpersoner, virksomheder eller o
 
 # Retskilderne
 
+***Kapitel 2 skal kun læses i hovedtræk*** 
 
-## Begrebet retskilde
+## Retskilderne
 
 
 Retskilder er de faktorer, som danner grundlaget for at opnå viden om, hvad der er gældende ret. 
-<br>
+
 
 Lovgivningen er den primære retskilde, som altid skal tages i betragtning ved fastlæggelse af retsstillingen, men retspraksis er også en vigtig retskilde, især hvis der foreligger en afgørelse fra Højesteret (se præjudikat) eller en afgørelse fra EU-Domstolen eller fra Menneskerettighedsdomstolen vedrørende Den Europæiske Menneskerettighedskonvention. 
 
-<br>
 Andre faktorer, der kan anvendes som retskilder, er fx retssædvaner, aftaler, lovforarbejder, administrativ praksis, administrative retsforskrifter, udtalelser fra Folketingets Ombudsmand samt retsvidenskabens analyser. Herudover anvendes traditionelt også forholdets natur som retskilde.
 
-<br>
-Der kan ikke opstilles en fast prioritering af retskilderne, idet de i konkrete tilfælde alle kan have betydning for, hvad der er gældende ret.
-<br>
 
-Der er stor forskel på retskildeopfattelsen inden for forskellige retssystemer, se fx case law.
-<br>
+Der kan ikke opstilles en fast prioritering af retskilderne, idet de i konkrete tilfælde alle kan have betydning for, hvad der er gældende ret.
+
+## EU-rettens retskilder
+
+De mål, der er fastsat i traktaterne, nås gennem forskellige typer retsakter. Nogle er bindende, andre er ikke. Nogle angår alle EU-lande, mens andre kun angår nogle stykker.
+
+
+### Forordninger
+
+En "forordning" er en bindende retsakt. Det skal følges i alle enkeltheder i hele EU. Da EU f.eks. ønskede at garantere fælles sikkerhedsforanstaltninger for varer importeret fra lande uden for EU, vedtog Rådet en forordning.
+
+
+### Direktiver
+
+Et "direktiv" er en retsakt, der fastsætter et mål, som EU-landene skal opnå. Det er dog op til de enkelte lande at lave deres egne love for, hvordan disse mål skal opnås. 
+
+Et eksempel er EU's direktiv om forbrugerrettigheder, som styrker forbrugernes rettigheder i EU, f.eks. ved at fjerne skjulte afgifter og omkostninger på internettet og forlænge den periode, som forbrugere kan fortryde en købsaftale i.
+
+
+### Afgørelser
+
+En "afgørelse" er bindende for dem, den er rettet til (f.eks. et EU-land eller en individuel virksomhed) og er direkte gældende. F.eks. har Kommissionen udstedt en afgørelse om EU's deltagelse i forskelige antiterrororganisationers arbejde. Afgørelsen vedrører kun sådanne organisationer.
+
+
+### Henstillinger
+
+En "henstilling" er ikke bindende. Da Kommissionen rettede en henstilling til EU-landenes myndigheder om at forbedre deres brug af videokonferencer for at hjælpe domstolstjenester med at arbejde bedre sammen på tværs af grænserne, havde den ingen retslige virkninger. 
+
+En henstilling giver institutionerne mulighed for at give deres mening til kende og foreslå en retningslinje, uden derved at pålægge dem, den er rettet til, nogen retlige forpligtelser.
+
+
+### Udtalelser
+
+En "udtalelse" er et instrument, der giver institutionerne mulighed for at fremsætte en ikkebindende erklæring, dvs. at den ikke pålægger dem, den er rettet mod, nogen forpligtelser. En udtalelse er ikke bindende. Den kan afgives af de vigtigste EU-institutioner (Kommissionen, Rådet, Parlamentet), Regionsudvalget og Det Europæiske Økonomiske og Sociale Udvalg. 
+
+Mens lovene udformes, afgiver udvalgene udtalelser fra deres særlige regionale eller økonomiske og sociale synspunkt. For eksempel afgav Regionsudvalget en udtalelse om pakken om en politik for ren luft i Europa.
+
 
 ## Case law
-<br>
 
-Case law, judge-made law, dommerskabt ret.  I common law-lande har domstolene en mere vidtgående funktion end den dømmende magt i andre retssystemer. Common law-domstolen skal ikke kun fortolke og anvende lovgiverens retsregler, statutory law, men skaber også sin egen ret, case law eller judge-made law. En domstolsafgørelse har således ikke alene betydning for parterne i en konkret tvist; afgørelsen skaber præcedens, dvs. at en lignende sag i fremtiden med stor sandsynlighed vil blive afgjort på samme måde, den såkaldte stare decisis-doktrin.
+Der er stor forskel på retskildeopfattelsen inden for forskellige retssystemer, se fx case law.
+
+Case law, judge-made law, dommerskabt ret.  I common law-lande har domstolene en mere vidtgående funktion end den dømmende magt i andre retssystemer. Common law-domstolen skal ikke kun fortolke og anvende lovgiverens retsregler, statutory law, men skaber også sin egen ret, case law eller judge-made law. 
+
+En domstolsafgørelse har således ikke alene betydning for parterne i en konkret tvist; afgørelsen skaber præcedens, dvs. at en lignende sag i fremtiden med stor sandsynlighed vil blive afgjort på samme måde, den såkaldte stare decisis-doktrin.
 <br>
 
 Betegnelsen case law er engelsk, af case 'tilfælde' og law 'lov'.
-I England er de afgørelser, der hidrører fra samme eller en højere domstol, bindende. Andre afgørelser har kun vejledende karakter. Der sondres desuden mellem den tidligere afgørelses egentlige begrundelse, ratio decidendi, og andre udtalelser i afgørelsen, obiter dicta. Et obiter dictum er kun vejledende, uanset fra hvilken domstol det måtte hidrøre.
+I England er de afgørelser, der hidrører fra samme eller en højere domstol, bindende. Andre afgørelser har kun vejledende karakter. Der sondres desuden mellem den tidligere afgørelses egentlige begrundelse, *"ratio decidendi"*, og andre udtalelser i afgørelsen, *"obiter dicta"*. Et "obiter dictum" er kun vejledende, uanset fra hvilken domstol det måtte hidrøre.
 
-<br>
+
 Selv bindende afgørelser bliver fra tid til anden tilsidesat (overruled); fx kan der bag afgørelsen ligge en forældet tankegang, og i 1966 udtalte Englands højeste domstol, House of Lords, at den ikke fremover ville betragte sig som evigt bundet af sine egne tidligere afgørelser.
 
 I USA håndhæves stare-decisis mindre strengt end i England. USA's højesteret har enkelte gange tilsidesat sine tidligere afgørelser, selv i sager om fortolkning af USA's forfatning. Fx gav United States Supreme Court i 1954 sorte elever adgang til skoler og universiteter, som tidligere havde været forbeholdt de hvide, og tilsidesatte herved sin egen ældre afgørelse, der havde anerkendt doktrinen om "separate but equal", dvs. at man i undervisningen adskilte sorte og hvide.  
@@ -1108,26 +1148,26 @@ I USA håndhæves stare-decisis mindre strengt end i England. USA's højesteret 
 
 ## Retskildepolycentri
 
-<br>
+
 Retskildepolycentri er en nyere retsvidenskabelig erkendelse af, at dannelsen af retskilder i forskellige fora i det moderne samfund kan resultere i, at en retskilde kan have forskellig virkning for forskellige retsanvendere. Teorien bryder med den hierarkiske retskildeopfattelse. Teoriens ophavsmand er den danske juraprofessor Henrik Zahle.  
 <br>
 
 ## Juridisk metode
-<br>
+
 
 Juridisk metode, fremgangsmåde ved stillingtagen til juridiske problemer.  Metoden består for det første af en beskrivelse og identifikation af de retskilder, som gyldigt kan inddrages i en juridisk argumentation; for det andet af læren om, hvordan retskilderne fortolkes. Juridisk metode består af 3 hovedelementer:
 
-<br>
+
 Et faktum (Hændelsesforløbet fx der er sket økonomisk misbrug af en kortholderens mistede Dankort)  
 +  
 Et retsfaktum (Hvilken retsregel i betalingsloven skal anvendes i forhold til tredjemandsmisbruget af Dankortet)  
 =  
 En retsfølge (Afgørelsen, hvem der kommer til at betale for misbruget af Dankortet banken eller kortholderen)  
-<br>
+
 Se f.eks. i henhold til bestemmelsen i betalingslovens § 100, stk. 4, nr. 3, hæfter betaleren for op til 8.000 kr. af misbrug, som finder sted som følge af betalerens groft uforsvarlige adfærd.
 
 Begrebet groft uforsvarlig adfærd er ikke nærmere afgrænset i betalingsloven, men traditionelt anvendes begrebet »grov uagtsomhed« som betegnelse for »tilsidesættelse af den agtpågivenhed, som selv skødesløse personer plejer at udvise.« 
-<br>
+
 Med anvendelsen af begrebet groft uforsvarlig adfærd er det således præciseret, at grov uagtsomhed i sædvanlig forstand ikke er tilstrækkeligt til at pådrage betaleren hæftelse efter bestemmelsen. Der skal altså mere til. Groft uforsvarlig adfærd må herefter forstås som sløseri, der er præget af ligegyldighed i forbindelse med opbevaring af bl.a. pinkoden. Der skal derfor meget til efter praksis i Pengeinstitutankenævnet (nu Det finansielle Ankenævn), før der statueres groft uforsvarlig adfærd.
 
 
@@ -1136,39 +1176,37 @@ Med anvendelsen af begrebet groft uforsvarlig adfærd er det således præcisere
 <img src="img/atm.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 <br>
 
+---
+
 *PIA 78/2006: »Det forhold, at misbrugeren på klagerens bopæl tilfældigt fik mulighed for at overhøre klageren oplyse sin kode til dankortet til kæresten sammenholdt med, at dankortet opbevaredes i hendes pung, der lå i hendes jakke på bopælen, kan ikke betegnes som groft uforsvarlig adfærd, heller ikke selv om klageren havde givet T adgang til sin bopæl, uanset om hun måtte have kendskab til T’s kriminelle baggrund« *
-<br>
+
+---
+
 *PIA 205/2005: »Klagerens Visa/Dankort blev opbevaret i en pung, som lå i en jakke, der var anbragt bag disken i klagerens butik og ikke var synlig for kunderne. Selvom det må bebrejdes klageren, at pinkoden til kortet var anført på en seddel, der lå i pungen sammen med kortet, findes klageren efter en samlet vurdering ikke at have udvist en groft uforsvarlig adfærd som omhandlet i lov om visse betalingsmidler § 11, stk. 3, nr. 3. Ankenævnet har herved også lagt vægt på, at det i lovens forarbejder er forudsat, at det udvidede ansvar kun ville kunne gøres gældende i et fåtal af tilfælde«.*  
-<br>
+
+---
 
 *Selvforskyldt beruselse kan blive betragtet som uforsvarlig adfærd, jf. PIA 281/2013 Spørgsmål om misbrug af kort var muliggjort ved groft uforsvarlig adfærd som følge af beruselse: »Som sagen foreligger oplyst, lægger vi til grund, at klageren ikke ved, hvad han foretog sig fra ca. kl. 00.30 til ca. kl. 02.00, da han vågnede i en bil, som han formoder var en pirattaxa. Vi finder ikke grundlag for at antage, at klagerens tilstand skyldes andre forhold end indtagelse af alkohol. Under disse omstændigheder finder vi, at misbruget af klagerens betalingskort er muliggjort, fordi han var stærkt påvirket af alkohol. Vi finder, at klageren under de beskrevne omstændigheder har udvist groft uforsvarlig adfærd. Vi stemmer derfor for at lade klageren hæfte med 8.000 kr. af det tab, der opstod som følge af den uberettigede brug af kortet, jf. lov om betalingstjenester § 62, stk. 3 nr. 3«.* 
 
-<br>
+---
+
 *Det er en konkret vurdering, om der bliver statueret groft uforsvarlig adfærd, jf. fx PIA 436/1993: Natten mellem den 12. og 13. juni 1993 blev klageren, medens han opholdt sig på en restauration, frastjålet sit dankort, som var opbevaret i klagerens tegnebog. Klageren anmeldte den 13. juni 1993 kl. 11.10 telefonisk tyveriet til kriminalpolitiet i Sønderborg efter forinden telefonisk at have spærret dankortet ved meddelelse til PBS. Det viste sig efterfølgende, at der ved anvendelse af dankortet og korrekt pinkode den 13. juni 1993 mellem kl. 9.25 og 9.28 var hævet 3 x 2.000 kr. i tre forskellige dankortautomater. Efter de foreliggende oplysninger lagde Pengeinstitutankenævnet til grund, at tyveriet af dankortet var blevet forøvet af to unge piger, som senere blev dømt for tyveri ved den 13. juni 1993 kl. 9.25-9.28 under anvendelse af dankortet at have stjålet de 3 x 2.000 kr. fra dankortautomaterne. Det fremgik af en retsbogsudskrift fra straffesagen, at de sigtede havde forklaret, at den ene af dem, A, snakkede med klageren, mens den anden sigtede, B, tog pungen op af lommen på ham. Herefter gik de ud på toilettet, hvor de tog pengene og kortet. A forklarede videre, at hun havde spurgt klageren om koden, og han havde givet hende den. Han sagde noget om, at han skulle ringe til banken for at få kortet spærret, og hun tilbød at gøre det for ham. Hun lod, som om hun telefonerede til banken, og sagde i den forbindelse til klageren, at hun skulle bruge pinkoden, hvorefter han gav hende den. Klageren indbragte sagen for Ankenævnet med påstand om, at indklagede var tilpligtet at anerkende, at klageren ikke hæftede for de 6.000 kr. Ankenævnet traf følgende afgørelse: »Efter betalingskortlovens § 21, stk. 2, hæfter kortindehaveren uden beløbsbegrænsning for tab, der opstår som følge af andres uberettigede brug af betalingskortet og den dertil hørende personlige hemmelige kode, såfremt kortudstederen godtgør, at kortindehaveren har oplyst koden til den, der har foretaget den uberettigede brug. Ankenævnet finder imidlertid ikke, at bestemmelsen er anvendelig på et tilfælde som det foreliggende. Ankenævnet finder på den anden side, at klageren udviste groft uforsvarlig adfærd ved i det foreliggende tilfælde at oplyse sin PIN-kode. Han hæfter derfor med op til 8.000 kr. for det tab, der opstod som følge af det uberettigede brug af kortet, jf. betalingskortlovens § 21, stk. 3, nr. 2, (nu § 11, stk. 3, nr. 3). Som følge af det anførte bestemmes: Den indgivne klage tages ikke til følge«.*  
-<br>
+
 
 ---
 
 Den juridiske metode indeholder væsentlige elementer af vurdering og skøn og er derfor mindre eksakt end de metoder, der anvendes inden for mange andre fagområder.
 
-<br>
+
 I juridisk Ordbog (***Bo von Eyben***, 14. udg.) defineres juridisk metode som følger:"den metode, der skal anvendes for at afgøre, hvilken regel der er gældende for et bestemt retsområde. Dette forudsætter kendskab til læren om retskilderne og evne til herudfra at finde de relevante retskilder og at anvende dem korrekt på det givne forhold..." 
-
-<br>
-
-
-<br>
-
-## Domsanalyse
-
-<br>
 
 
 
 # EU-Domstolen<sup><font color="red"> Premium </font></sup>  
-<br>
+
 
 <img src="img/eudomstolen2.png" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
+
 Domstolen træffer afgørelser i de sager, der indbringes for den. De mest almindelige typer sager er:
 
 *	Fortolkning af love (præjudicielle afgørelser) - de nationale domstole i EU-landene skal sikre, at EU-lovene anvendes korrekt, men domstolene i de forskellige lande kan fortolke reglerne forskellige. Hvis en national domstol er i tvivl om fortolkningen eller gyldigheden af en EU-retsakt, kan den spørge Domstolen til råds. Den samme mekanisme kan anvendes til at afgøre, om national ret eller praksis er forenelig med EU-retten.
@@ -1501,8 +1539,9 @@ Blandt de øvrige domme afsagt på dette område er en af de mest kendte Bosman-
 
 Domstolen udtalte, at professionel sport er en økonomisk virksomhed, hvis udøvelse ikke kan hindres af reglerne om spillertransfert eller ved en begrænsning af antallet af spillere med statsborgerskab i en andre medlemsstater. Sidstnævnte udtalelse er ved senere domme blevet udvidet til at gælde retsstillingen for professionelle sportsudøvere med oprindelse i tredjelande, der har indgået en associerings- (dommen i sagen Deutscher Handballbund fra 2003) eller partnerskabsaftale (Simutenkov-dommen 2005) med De Europæiske Fællesskaber.
 
+
 ###	Fri udveksling af tjenesteydelser
-<br>
+
 
 En dom fra 1989 vedrørende fri udveksling af tjenesteydelser angik en britisk turist, der var blevet overfaldet og alvorligt såret i den parisiske metro. 
 
@@ -1513,7 +1552,7 @@ Turisten havde følgelig ret til samme erstatning, som en fransk statsborger kun
 Efter en præjudiciel anmodning fra luxembourgske retter fastslog Domstolen, at en national lovgivning med den virkning, at en forsikringstager får afslag på godtgørelse af udgifter ved tandbehandling med den begrundelse, at denne har fundet sted i en anden medlemsstat, udgør en uberettiget hindring for den frie udveksling af tjenesteydelser (Kohll-dommen, 1998), og at et afslag på godtgørelse af udgifter til køb af briller i udlandet må bedømmes som en uberettiget hindring for de frie varebevægelser (Decker-dommen, 1998).
 
 ###	Ligebehandling og sociale rettigheder
-<br>
+
 
 En flystewardesse anlagde sag mod sin arbejdsgiver på grund af forskelsbehandling vedrørende den løn, hun oppebar i forhold til sine mandlige kolleger, der udførte samme arbejde. 
 
@@ -1562,55 +1601,51 @@ I samme dom præciserede Domstolen, at en medlemsstat - selv i det tilfælde, hv
 
 ## Introduktion til aftaleretten
 
-**Video introduktion til aftaleretten**
+---
+
+**Video: introduktion til aftaleretten**
 
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/QdPllNiV5Ck" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-<br>
 
 
-<br>
+---
+
+
 
 Hvilke problemstillinger og aftaleretlige lovregler, du som studerende særlig skal være opmærksom på vedrørende eksamensspørgsmål indenfor aftaleretten:
 
-<br>
-• Opfordring contra tilbud, aftalelovens § 9, 
-  herunder prisangivelser på nettet, i 
-  netbutikker og i fysiske butikker
-  <br>
-• Aftaleindgåelse, aftalelovens § 2-7 og § 40
-<br>
-• Ugyldighed (svig, aftalelovens § 30 fejl, 
-  aftalelovens § 32, stk. 1, udnyttelse, 
-  aftalelovens § 31)
-<br>
-• Falsk/forfalskning
-<br>
-• Urimelighed - §§ 38c, jf. 36
-<br>
-• Fuldmagtstyper (især stillingsfuldmagt, 
-  aftalelovens § 10, stk. 2), fuldmagtens omfang 
-  og konsekvenser, aftalelovens § 10, 11, 15 og 
-  25, modificeret ved erstatningsansvarslovens § 
-  23
+
+• **Opfordring contra tilbud**, aftalelovens § 9, herunder prisangivelser på nettet, netbutikker og i fysiske butikker
+  
+• **Aftaleindgåelse**, aftalelovens § 2-7 og § 40
+
+• **Ugyldighed** (svig, aftalelovens § 30 fejl, aftalelovens § 32, stk. 1, udnyttelse, aftalelovens § 31)
+
+• **Falsk/forfalskning**
+
+• **Urimelighed** - §§ 38c, jf. 36
+
+• **Fuldmagtstyper** (især stillingsfuldmagt, aftalelovens § 10, stk. 2), fuldmagtens omfang og konsekvenser, aftalelovens § 10, 11, 15 og 25, modificeret ved erstatningsansvarslovens § 23
 
 
-<br>
+
 
 <script async src="https://widget.spreaker.com/widgets.js"></script>
 
 <img src="img/deal1.jpg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-<br>
-Aftalelovens principper har betydning på hele aftaleområdet,^[Følgene bygger tildels på *Torsten Iversen og Lars Hedegaard Kristensens* karnovkommentar til aftaleloven] fx i:
-<br>
-* Forsikringsaftaleloven, kreditaftaleloven, forbrugeraftaleloven, AB 18, købeloven, E-handelsloven m.fl.
-<br>
-*	Aftaleindgåelse - aftalelovens §§ 2-9
-  + Deklaratorisk, dvs. parterne kan aftale anden fremgangsmåde ved  
-  aftaleindgåelse, end den der er beskrevet i aftaleloven.
 
-<br>
+
+Aftalelovens principper har betydning på hele aftaleområdet,^[Følgene bygger tildels på *Torsten Iversen og Lars Hedegaard Kristensens* karnovkommentar til aftaleloven] fx i:
+
+
+* Forsikringsaftaleloven, kreditaftaleloven, forbrugeraftaleloven, AB 18, købeloven, E-handelsloven m.fl.
+
+*	Aftaleindgåelse reguleres af aftalelovens §§ 2-9.
+  + Deklaratorisk, dvs. parterne kan aftale anden fremgangsmåde ved aftaleindgåelse, end den der er beskrevet i aftaleloven.
+
+
 
 
 
@@ -1634,28 +1669,31 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 
 ```
 
-<br>
+
 
 ## Aftaleindgåelse
-<br>
+
 **HR:** Aftalefrihed – vi kan frit aftale hvad vi vil
 
-*	**U1:** Begrænsninger i præceptive lovregler:        
-fx
-      +	Funktionærlovens regler om  
-      opsigelsesvarsler
-      +	Forbrugeraftalelovens regler om 
-      fortrydelsesret
+*	**U1:** Begrænsninger i præceptive lovregler:  
+
+fx:
+      +	Funktionærlovens regler om opsigelsesvarsler
+      +	Forbrugeraftalelovens regler om fortrydelsesret
       
 *	**U2:** Urimelige aftaler, aftalelovens §§ 38c, jf. 36
 
-*	**U3:** Lov og ærbarhed Danske Lov fra 1683
+*	**U3:** "En aftale bliver også ugyldig, hvis den strider mod "lov og ærbarhed", jf. allerede Christian 5.s Danske Lov fra 1683. 
+Fx er et løfte om at ville betale en anden persons fartbøde ugyldig. Men en aftale bliver ikke ugyldig, blot fordi der er overtrådt offentligretlige forskrifter. Fx er en aftale om køb af drikkevarer uden for den tilladte åbningstid bindende trods lovovertrædelsen.
+
+I nyere tid har ugyldighed med held været påberåbt af mange, der tegnede anparter i investeringsprojekter med vindmøller, containere, hoteller mv., idet anpartstegnerne var blevet vildledt om projektets bæredygtighed.^[Jf. *Erik Werlauff*, *Karsten Revsbech*: ugyldighed i Den Store Danske, Gyldendal] 
+
 
   
-<br>
+
 <a class="spreaker-player" href="https://www.spreaker.com/show/jura" data-resource="show_id=3421279" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https://d1bm3dmew779uf.cloudfront.net/cover/82d497d128ab0adc306278c68db0041d.jpg"></a>
 
-<br>
+
 
 
 ### Hvad er en aftale?
@@ -1674,26 +1712,26 @@ De mundtlige kan bare være sværere at bevise, hvis parterne bliver uenige om a
 Kontrakten er skriftlig og kan håndhæves i retssystemet. 
 
 Bevisbyrde - Den part der hævder en mundtlig aftale er indgået, har bevisbyrden (som er hovedreglen i dansk ret; en ligefrem bevisbyrde).
-<br>
+
 
 **Mundtlige aftaler ctr. skriftlige aftaler:**
-<br>
+
 
 *	Aftaler er bindende, uanset om de er mundtlige eller skriftlige. De mundtlige kan bare være sværere at bevise, hvis parterne bliver uenige om aftalens indhold. Kontrakten er skriftlig
-  <br>
+  
   
 *	**Bevisbyrde** - Den part der hævder en mundtlig aftale er indgået, har bevisbyrden herfor
-<br>
+
 
 Ensidigt løfte ctr. gensidigt løfte se figurer.  
 Udtrykkeligt løfte ctr. stiltiende løfte.
 <br>
 
-**Forskellen på en aftale og en kontrakt:**  
-<br>
+**Hvad er forskellen på en aftale og en kontrakt?:**  
+
 
 En aftale kan også være mundtlig. 
-<br>
+
 
 En kontrakt er skriftlig og kan påberåbes ved domstolene.  
 
@@ -1758,10 +1796,9 @@ edges <- data.frame(from = c(1),
 **Ejendomsmægleren tager initiativ til en formidlingsaftale om salg af et hus:**  
 
 
-*	Tilbudsgiver (ejendomsmægleren): Den der 
-  afsender/giver et tilbud til en anden.
-*	Tilbudsmodtager (boligsælgeren): Den som 
-  modtager et tilbud.   
+*	Tilbudsgiver (ejendomsmægleren): Den der afsender/giver et tilbud til en anden.
+  
+*	Tilbudsmodtager (boligsælgeren): Den som modtager et tilbud.   
 
 **En kunde tager initiativ til en forsikringsaftale:**  
 
@@ -1777,9 +1814,9 @@ edges <- data.frame(from = c(1),
 
 Dels at løftegiveren har pligt enten til at opfylde løftet efter dets indhold (såkaldt naturalopfyldelse) eller 
 
-til at erstatte løftemodtagerens økonomiske interesse i løftets opfyldelse, dvs. erstatning i form af såkaldt positiv opfyldelsesinteresse (forudsat naturligvis, at der foreligger et ansvarsgrundlag).
+til at erstatte løftemodtagerens økonomiske interesse i løftets opfyldelse, dvs. erstatning i form af såkaldt **"positiv opfyldelsesinteresse"** (forudsat naturligvis, at der foreligger et ansvarsgrundlag).
 
-*	Tilbud: Et tilbud er et løfte, som taber sin virkning, hvis det ikke accepteres i rette tid. F.eks. et løfte om at levere en vare eller tjenesteydelse til en bestemt pris og et bestemt sted på et bestemt tidspunkt.
+*	**Tilbud**: Et tilbud er et løfte, som taber sin virkning, hvis det ikke accepteres i rette tid. F.eks. et løfte om at levere en vare eller tjenesteydelse til en bestemt pris og et bestemt sted på et bestemt tidspunkt.
 
 *	**Accept:** En erklæring, som har karakter af antagende svar på tilbud. 
 
@@ -1820,28 +1857,37 @@ Det øjeblik modtageren er blevet bekendt med indholdet af tilbud eller accept, 
   
 *	Accept når frem til tilbudsgiver (kommet frem)
 
-*	Tilbudsgiver læser accepten (kommet til 
-  kundskab)
+*	Tilbudsgiver læser accepten (kommet til kundskab)
+
 
 Resultat: Der er indgået en juridisk bindende aftale
 
-**Video om aftalemodellen**
+---
+
+<img src="img/aftalemodellen.png" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+(Kilde; Retabilitet/Trojka).
+
+
+---
+
+**Video: Om aftalemodellen**
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/DvV2yhetl8M" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-<br>
 
 
 
+---
 
-**Video om aftalers indgåelse**
+**Video: Om aftalers indgåelse**
 
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/WbgTUpCLz00" width="853" height="480" frameborder="0"allowfullscreen="allowfullscreen"></iframe></div>
 <br>
 
-
+---
 
 
 ```{r faicon3, echo=FALSE, result=TRUE,fig.cap=("Aftale sælgers initiativ")}
@@ -1866,6 +1912,8 @@ edges <- data.frame(from = c(1),
 ```
 
 
+---
+
 
 ```{r faicon4, echo=FALSE, result=TRUE,fig.cap=("Aftale købers initiativ")}
 nodes <- data.frame(id = 1:2, group = c("B", "A"),label = c("Sælger \n tilbudsmodtager ","Køber \n tilbudsgiver "))
@@ -1888,6 +1936,8 @@ edges <- data.frame(from = c(1),
            color = list(color = "lightblue", highlight = "red"))
 ```
 
+---
+
 ### Tilbud eller opfordring til tilbud
 
 
@@ -1895,28 +1945,28 @@ edges <- data.frame(from = c(1),
 
 *	Tilbuddet bliver bindende for tilbudsgiver, når   tilbudsmodtager får kendskab til tilbuddets indhold.
 
-    +	Tilbud er bindende i butikker og butiksvinduer, medmindre køber 
-    burde indse, at der var tale om en fejl
+    +	Tilbud er bindende i butikker og butiksvinduer, medmindre køber burde indse, at der var tale om en fejl
     
-    +	Tilbud er bindende i web-butikker, når sælger selv har råderet over     websitet
+    +	Tilbud er bindende i web-butikker, når sælger selv har råderet over websitet
+    
 
-Undtagelser: **Opfordring til tilbud**, jf. aftalelovens § 9:
+**Undtagelser**: **Opfordring til tilbud**, jf. aftalelovens § 9:
+
 
 *	Nogle typer tilbud er ikke bindende for sælger, fx:
   
-    + Slagtilbud og ”så længe lager haves”, tilbud og priser i aviser og 
-    kataloger, på plakater, annoncer, TV- og radioreklamer, priser og 
-    tilbud på internettet, når sælger ikke selv har råderet over websitet
+    + Slagtilbud og ”så længe lager haves”, tilbud og priser i aviser og kataloger, på plakater, annoncer, TV- og radioreklamer, priser og tilbud på internettet, når sælger ikke selv har råderet over websitet.
+    
+---
 
 **Video: Tilbud contra opfordring**
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/j36H6TAo7Us" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-<br>
 
 
-<br>
- 
+---
+
 #### Afslag på tilbud
 
 
@@ -1924,12 +1974,13 @@ Undtagelser: **Opfordring til tilbud**, jf. aftalelovens § 9:
 
 *	Hvis tilbudsmodtager afslår tilbuddet, er det bortfaldet, selvom acceptfristen ikke er udløbet, jf. aftalelovens § 5. Sælger kan frit sælge til anden side.  
 
-Situation: Tilbagekaldelse af afslag. Tilbudsmodtager (potentiel køber) sender et afslag til sælger, men han fortryder sit afslag.
-<br>
+**Situation**: Tilbagekaldelse af afslag. Tilbudsmodtager (potentiel køber) sender et afslag til sælger, men han fortryder sit afslag.
+
 
 – Tilbuddet er stadig bindende for sælger, hvis købers tilbagekaldelse kommer til tilbudsgivers (sælgers) kundskab, senest samtidig med at sælger læser afslaget.
 
-<br>
+
+---
 
 **Video: Afslag**
 
@@ -1937,12 +1988,12 @@ Situation: Tilbagekaldelse af afslag. Tilbudsmodtager (potentiel køber) sender 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/Noq0xWiKryg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
-
+---
 
 #### Accept
 
 
-Acceptfrist er fastsat i tilbuddet
+**Acceptfrist er fastsat i tilbuddet:**
 
 *	Når tilbudsmodtager har læst eller hørt om tilbuddet, har han en frist til at overveje, om han vil acceptere, fx i form af en ordrebekræftelse.
 
@@ -1950,11 +2001,12 @@ Acceptfrist er fastsat i tilbuddet
 
 *	Hvis acceptfristen er angivet til 8 dage, regnes fristen fra tilbuddets datering.
 
+---
 
 ##### Accept – den legale acceptfrist
 
 
-Ingen acceptfrist i tilbud
+**Ingen acceptfrist i tilbud**:
 
 *	Den legale acceptfrist, jf. aftalelovens § 3:
 
@@ -1963,7 +2015,8 @@ Ingen acceptfrist i tilbud
 
 *	Rimelig betænkningstid” afhænger af de konkrete   omstændigheder. 
 
-Betænkningstid er:
+
+**Betænkningstid er**:
 
     +	Kort, hvis prisen på salgsproduktet svinger meget
     
@@ -1972,6 +2025,8 @@ Betænkningstid er:
     +	Længere, hvis der er tale om komplekse og større tilbud
     
 *	Mundtlige tilbud der gives uden acceptfrist, skal accepteres straks, ellers er det bortfaldet, jf. aftalelovens § 3, stk. 2.
+
+---
 
 ##### Accept - forsinket
 
@@ -1986,33 +2041,39 @@ Accepten kommer for sent frem – fristen er sprunget - Aftalelovens § 4:
 
 Lader han som ingenting, risikerer han at være bundet	og skal opfylde aftalen.
 
-**”Give meddelelse”** se aftalelovens § 40
+
+**”Give meddelelse”** se aftalelovens § 40.
+
+---
 
 **Video: Tilbagekaldelse efter aftalelovens § 40**
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/w5HtkYrMXDg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
+---
+
 **Video: For sen accept**
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/xoiUi_ShUJc" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-<br>
+
+
+---
 
 **Video: Rettidig accept**
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/dJmhJTwJzhg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
+---
 
 **Video: Om uoverensstemmende accept**
 
-
-
 <div class="video-container"><iframe src="https://www.youtube.com/embed/xGnZFVV1H74" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-<br>
 
 
+---
 
 
 ##### Tilbagekaldelse af tilbud/accept
@@ -2020,11 +2081,12 @@ Lader han som ingenting, risikerer han at være bundet	og skal opfylde aftalen.
 
 **Aftalelovens § 7**
 
-Situation: Tilbudsgiver vil annullere sit tilbud
+**Situation: Tilbudsgiver vil annullere sit tilbud**
 
 *	Tilbud kan tilbagekaldes af tilbudsgiver, hvis tilbagekaldelsen kommer frem inden eller samtidig med, at det oprindelige tilbud kommer til tilbudsmodtagers kundskab.
 
-Situation: Acceptanten vil annullere sin accept
+
+**Situation: Acceptanten vil annullere sin accept**
 
 *	Svar/accept kan tilbagekaldes af acceptanten, hvis tilbagekaldelsen kommer frem inden eller samtidig med, at accepten kommer til tilbudsgivers kundskab.
 
@@ -2038,6 +2100,14 @@ Under særlige omstændigheder kan tilbagekaldelse alligevel ske efter fristens 
 2.	Årsagen til at tilbagekaldelsen er kommet for sent frem, skyldes særlige omstændigheder.
 
 Re integra-reglen kan ikke påberåbes bare fordi man har fortrudt. Der skal således noget særligt til.
+
+*Se domspraksis vedrørende anvendelsen af aftaleleovens § 39, 2. pkt.:* 
+
+**U 1929 1084: En sælger S modtog fra køberen K et brev om annullation af en ordre, men næste morgen modtog han telegram om, at brevet var bestemt til et andet firma. Skønt S ikke havde eller burde have indset, at der forelå en fejltagelse, fandtes brevet dog ikke bindende for K, da S ikke, inden fejltagelsen oplystes, havde foretaget andet end at bestemme sig til at levere varen til en anden kunde.**
+
+**U 1969 579 Ø: En køber, der telefonisk havde bestilt en vaskemaskine, indfandt sig fejlagtigt i en anden nærliggende forretning, hvor hun mod kvittering betalte for en vaskemaskine af den pågældende type. Da hun 4 dage senere opdagede fejlen, nægtede forretningen at tilbagebetale købesummen under påberåbelse af, at der var indgået en endelig handel. Det fandtes ikke godtgjort, at forretning nr. 2, da betalingen fandt sted, indså eller burde indse, at der forelå en fejltagelse, men da køberen havde reklameret tilstrækkeligt hurtigt, og da handelens indgåelse og tilbagekaldelse ikke havde påført forretningen arbejde eller udgift, fandtes § 39, 2. pkt., at måtte anvendes.**
+
+**U 1989 561 H: En annullation af en slutseddel, der var underskrevet under medvirken af en ejendomsmægler, om morgenen dagen efter købet tillagt retsvirkning efter princippet i § 39, 2. pkt., idet slutsedlen blev underskrevet umiddelbart efter den første besigtigelse af ejendommen, uden at ejendomsmægleren, der var klar over den vanskelige situation som køberen befandt sig i pga. forestående tvangauktion over sit hus, forinden havde søgt klarlagt, om køberen havde økonomisk mulighed for at opfylde handelen**.
 
 ---
 
@@ -2061,6 +2131,7 @@ Accepten skal være i overensstemmelse med tilbuddet – spejlbillede, jf. aftal
 **NB !!** Hvis tilbudsgiver ikke vil være bundet af indholdet i den ”forkerte” accept, skal han uden ugrundet ophold give acceptanten besked. Lader han som ingenting, er tilbudsgiver bundet af aftalen og skal levere i henhold til indholdet af den uoverensstemmende accept.
 
 
+
 **”Give meddelelse”** se aftalelovens § 40
 
 
@@ -2068,9 +2139,6 @@ Accepten skal være i overensstemmelse med tilbuddet – spejlbillede, jf. aftal
 
 
 <img src="img/aftaleindgåelse på nettet.png" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
-
-
 
 
 *	Aftaleloven gælder også ved aftaler og køb på nettet
@@ -2091,7 +2159,7 @@ Accepten skal være i overensstemmelse med tilbuddet – spejlbillede, jf. aftal
 <div class="video-container"><iframe src="https://www.youtube.com/embed/l1rc2FBSjss" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
-
+---
 
 **Video: Hvad er e-mærket?**
 
@@ -2103,9 +2171,11 @@ Accepten skal være i overensstemmelse med tilbuddet – spejlbillede, jf. aftal
 ---
 
 ### Aftalers ugyldighed
-<br>
+
 
 <img src="img/deal3.jpeg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+
 
 1. Aftalen er bindende, men den kan alligevel bortfalde, hvis aftalen rammes af ugyldighed:
 
@@ -2120,9 +2190,7 @@ Ugyldighed som kan ramme aftalen kan opstå pga:
 *	**Bristende forudsætninger**
 
 
-
-
-
+---
 
 ```{r ugyldighedsgrunde, echo=FALSE, result=TRUE}
 
@@ -2148,6 +2216,7 @@ row_spec(c(1,5,8), bold = T, color = "white", background = "darkgrey")
 
 ```
 
+---
 
 ```{r ssugyldighedsgrunde, echo=FALSE, result=TRUE }
 options(knitr.table.format = "html")
@@ -2171,19 +2240,26 @@ row_spec(5:9, bold = T, color = "white", background = "darkgrey")
 # add_header_above(c( "Oversigt over stærke og svage ugyldighedsgrunde" = 2),italic = TRUE)
 
 ```
-<br>
+
+---
 
 <img src="img/deal4.jpg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
+---
+
+#### Forskellen på de stærke og svage ugyldighedsgrunde
+
+Der skelnes mellem stærke og svage ugyldighedsgrunde. De stærke kan gøres gældende også over for en kontraktpart, der var i god tro ved aftalens indgåelse. Stærke ugyldighedsgrunde er bl.a. forfalskning af indhold eller underskrift, underskriverens mindreårighed eller værgemål samt voldelig tvang. 
 
 
-<br>
-<br>
+De svage ugyldighedsgrunde kan ikke gøres gældende over for en kontraktpart i god tro, og den godtroende part kan således fastholde aftalen trods ugyldighedsgrunden. Hvis A fx giver B et løfte pga. svigagtige oplysninger fra C, binder løftet A trods svigen, såfremt B ikke burde være klar over, at der var udvist svig.
 
-#### De stærke ugyldighedsgrunde
+---
 
-De stærke ugyldighedsgrunde omfatter følgende grunde:
+##### De stærke ugyldighedsgrunde
+
+De *stærke ugyldighedsgrunde* omfatter følgende grunde:
 
 *	**Falsk**
 
@@ -2195,13 +2271,13 @@ De stærke ugyldighedsgrunde omfatter følgende grunde:
 
 *	**Umyndighed**, værgemål, fornuftsmangel  
   (Værgemålsloven)
-<br>
 
 
-#### De svage ugyldighedsgrunde
+
+##### De svage ugyldighedsgrunde
 
 
-De svage ugyldighedsgrunde omfatter følgende grunde:
+De *svage ugyldighedsgrunde* omfatter følgende grunde:
 
 *	**Simpel tvang**, aftalelovens § 29
 
@@ -2211,7 +2287,7 @@ De svage ugyldighedsgrunde omfatter følgende grunde:
 
 *	**Fejlskrift** eller anden fejltagelse, 
   aftalelovens § 32, stk. 1 
-<br>
+
 
 
 **Nærmere om de stærke ugyldighedsgrunde:**
@@ -2233,13 +2309,9 @@ Gør han ikke det, er han bundet af indholdet i den fejlagtige aftale.
 
 *	Voldelig tvang, aftalelovens § 28, stk. 1:
 
-    +	Aftalen ugyldig hvis løftet fra løftegiver er fremkaldt ved vold 
-    eller trussel om  øjeblikkelig anvendelse af vold, fx holder en  
-    pistol for panden af løftegiver.
+    +	Aftalen ugyldig hvis løftet fra løftegiver er fremkaldt ved vold eller trussel om øjeblikkelig anvendelse af vold, fx holder en pistol for panden af løftegiver.
     
-    +	Hvis det er tredjemand, som truer for at fremprovokere et løfte, og     løftegiver ikke vil være bundet af løftet/aftalen, skal han uden   
-    ugrundet ophold give løftemodtager besked om, at han er blevet truet     til at afgive løftet. Gør løftegiver ikke det, bliver han bundet af  
-    sit løfte og aftalen er bindende, jf. aftalelovens § 28, stk. 2.
+    +	Hvis det er tredjemand, som truer for at fremprovokere et løfte, og løftegiver ikke vil være bundet af løftet/aftalen, skal han uden ugrundet ophold give løftemodtager besked om, at han er blevet truet  til at afgive løftet. Gør løftegiver ikke det, bliver han bundet af sit løfte og aftalen er bindende, jf. aftalelovens § 28, stk. 2.
 
 
 
@@ -2251,14 +2323,17 @@ Personer under 18 år:
 * **HR:** Kan ikke indgå retshandler eller råde over deres formue, fx købe på kredit, sælge sine ting, pantsætte sine ting – aftale vil være ugyldig, uanset om løftemodtager var i god tro.
 
 * **U:** Værgemålslovens § 42 – der kan indgås gyldige aftaler med umyndige, hvis der er tale om:
+
     1.	Selverhvervelsesreglen (kontantreglen)
     2.	Pengereglen
 
-Ad. **Selverhvervelsesreglen:** 
+
+**Selverhvervelsesreglen:** 
 
 Personer over 15 år kan råde over deres egne penge som de selv har tjent, eller fået ved arv/gave, og hvad værgen har givet dem. !!NB – kun kontantkøb (ej kreditaftaler)
 
-Ad. **Pengereglen:** 
+
+**Pengereglen:** 
 
 En aftale med en umyndig, fx en 8-årig, er gyldig, hvis pengereglen er opfyldt:  
 
@@ -2269,7 +2344,7 @@ En aftale med en umyndig, fx en 8-årig, er gyldig, hvis pengereglen er opfyldt:
 Sælgers gode tro er afgørende. Er sælger i tvivl, skal han bede om værgens samtykke, jf. værgemålslovens § 44.
 
 
-Situation: Aftale med mindreårig indgås i god tro, men aftalen rammes af ugyldighed.
+**Situation**: Aftale med mindreårig indgås i god tro, men aftalen rammes af ugyldighed.
 
 *	Hver part skal tilbagelevere hvad de hver især har modtaget. Hvis det er muligt.
 
@@ -2282,9 +2357,9 @@ Situation: Aftale med mindreårig indgås i god tro, men aftalen rammes af ugyld
 
 **Værgemål og fornuftsmangel**
 
-*	Personer over 18 år kan komme under værgemål/umyndiggøres, fx pga. svær   demens, sindssygdom, psykisk handicap mv.
+*	Personer over 18 år kan komme under værgemål/umyndiggøres, fx pga. svær demens, sindssygdom, psykisk handicap mv.
 
-*	Ude af stand til at varetage deres økonomiske anliggender, og hvor der   er en risiko for forringelse eller økonomisk udnyttelse.
+*	Ude af stand til at varetage deres økonomiske anliggender, og hvor der er en risiko for forringelse eller økonomisk udnyttelse.
 
 *	Loven taler om *”Manglende evne til at handle fornuftsmæssigt”*
 
@@ -2309,11 +2384,11 @@ Situation: Aftale med mindreårig indgås i god tro, men aftalen rammes af ugyld
 **Aftalers ugyldighed simpel tvang**, jf. aftalelovens § 29
 <br>
 
-Anden tvang en voldelig tvang:  
-<br>
+**Anden tvang en voldelig tvang**:  
+
 
 Kompulsiv tvang/psykisk tvang, fx trusler om boykot, skandalisering og afpresning
-<br>
+
 
 *	Løfter der er motiveret af simpel tvang er ikke bindende for løftegiver, hvis løftemodtager selv har udøvet tvangen.
   
@@ -2325,18 +2400,19 @@ Kompulsiv tvang/psykisk tvang, fx trusler om boykot, skandalisering og afpresnin
 **Svig**, aftalelovens § 30
 
 Svig: Fejlinformation, urigtige oplysninger og  fortielser, der bruges eller tilbageholdes, for at få en aftale i hus.
-<br>
+
 
 <img src="img/deal5.jpeg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-<br>
 
-Situation: Sælger af en båd påstår urigtigt, at båden har været ejet af en berømthed, og på den baggrund meddeler køber, at han vil købe båden, trods den høje købesum.
+
+**Situation**: Sælger af en båd påstår urigtigt, at båden har været ejet af en berømthed, og på den baggrund meddeler køber, at han vil købe båden, trods den høje købesum.
 
 * Løftet om køb af båden kan erklæres ugyldigt, hvis modtageren af løftet var i ond tro bådesælgeren. Løftet er så ikke bindende for bådekøberen
 
 * Bådesælgeren er i ond tro, hvis: han vidste eller burde vide om et forhold og alligevel vælger imod bedrevidende, at bruge urigtige oplysninger eller fortie sandheden, for at få en 
 aftale i hus.
-<br>
+
+
 
 **Svig udøvet af tredjemand**
 
@@ -2351,7 +2427,7 @@ aftale i hus.
 * Bo Bådesælger (løftemodtager) er i god tro, idet han intet ved om Peters fejlinformation. Aftalen mellem bådekøberen og Bo Bådesælger er bindende. 
 
 
-Svig, er en form vildledelse med det formål at få nogen til at foretage en juridisk disposition, fx indgå en aftale, på et urigtigt grundlag, så personen lider et tab eller udsættes for en uventet risiko for et tab. 
+**Svig**, er en form vildledelse med det formål at få nogen til at foretage en juridisk disposition, fx indgå en aftale, på et urigtigt grundlag, så personen lider et tab eller udsættes for en uventet risiko for et tab. 
 
 Svig kan bestå i, at forhold forties, eller at der siges noget urigtigt mod bedre vidende, jf. også det offentligretlige vildledningsforbud i markedsføringslovens §§ 5-7 og det civilretlige vildledningsforbud i købelovens § 76, stk, 1 nr. 1-2.
 
@@ -2369,10 +2445,11 @@ Situation: Bent låner Anders penge og Bent kræver urimeligt høje renter (åge
 
 Når Bent i aftaleøjemed udnytter viden om Anders´ vanskeligheder, eller manglende viden/indsigt mv., er der tale om udnyttelse. Bent er i ond tro og aftalen er ugyldig.  
 
+
 **Fejlskrift/anden fejltagelse**, jf. aftalelovens § 32, stk. 1
 
 
-Fejlskrift: Fx en skrivelse får et andet indhold end tilsigtet. Løftet i skrivelsen er ikke bindende for løftegiver, hvis løftemodtager indså eller burde have indset, at der var tale om en fejl, idet løftemodtager så ville være i ond tro.
+**Fejlskrift**: Fx en skrivelse får et andet indhold end tilsigtet. Løftet i skrivelsen er ikke bindende for løftegiver, hvis løftemodtager indså eller burde have indset, at der var tale om en fejl, idet løftemodtager så ville være i ond tro.
 
 Modsætningsvis: Hvis løftemodtager ikke indså eller burde have kunnet indse, at det var en fejl, er løftemodtager i god tro og aftalen er gyldig.
 
@@ -2383,7 +2460,7 @@ Modsætningsvis: Hvis løftemodtager ikke indså eller burde have kunnet indse, 
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/-xVEbZDAZZ8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-<br>
+
 
 ---
 
@@ -2394,48 +2471,42 @@ Speak
 
 *	**God tro**
 
-      + Løftemodtager(LM) havde ikke viden om 
-      ugyldighedsgrunden.
++ Løftemodtager(LM) havde ikke viden om ugyldighedsgrunden.
       
-      + Løftemodtager(LM) vidste ikke eller burde       have vidst, at løftet fra løftegiver(LG)   
-      var mangelfuldt, fx afgivet pga. ulovlig 
-      tvang eller at løftegiver var umyndig
++ Løftemodtager(LM) vidste ikke eller burde have vidst, at løftet fra løftegiver(LG) var mangelfuldt, fx afgivet pga. ulovlig
+tvang eller at løftegiver var umyndig
+
       
 *	**Ond tro**
 
-      + Løftemodtager havde en viden om   
-      ugyldighedsgrunden. 
++ Løftemodtager havde en viden om ugyldighedsgrunden. 
       
-      + Løftemodtager indså eller burde have 
-      indset, at løftet fra løftegiver var 
-      mangelfuldt, fx afgivet pga. ulovlig tvang 
-      eller at løftegiver var umyndig
++ Løftemodtager indså eller burde have indset, at løftet fra løftegiver var mangelfuldt, fx afgivet pga. ulovlig tvang eller at løftegiver var umyndig
       
-<br>
+---
 
 **Video om god og ond tro**
 
-<br>
+
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/Ax4X9V-kdGw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-<br>
 
-* Ved stærke ugyldighedsgrunde:
 
-      +	LM er i ond tro = LG er ikke bundet af 
-      løftet (aftalen erklæres ugyldig
+---
+
+* Ved **stærke ugyldighedsgrunde**:
+
++	LM er i ond tro = LG er ikke bundet af løftet (aftalen erklæres ugyldig
       
-      +	LM er i god tro = LG er ikke bundet af 
-      løftet (aftalen erklæres ugyldig)
-
-* Ved svage ugyldighedsgrunde:
-
-      +	LM er i ond tro = LG er ikke bundet af 
-      løftet (aftalen erklæres ugyldig
++	LM er i god tro = LG er ikke bundet af løftet (aftalen erklæres ugyldig)
       
-      +	LM er i god tro = LG er bundet af løftet 
-      (aftalen fortsat bindende)
-<br>
+
+* **Ved svage ugyldighedsgrunde**:
+
++	LM er i ond tro = LG er ikke bundet af løftet (aftalen erklæres ugyldig
+      
++	LM er i god tro = LG er bundet af løftet (aftalen fortsat bindende)
+
 
 ### Urimelige aftaler
 
@@ -2454,14 +2525,16 @@ I urimelighedsvurderingen indgår:
 
 *	Senere indtrufne omstændigheder
 
-<br>
+---
 
 **Video: Forudsætningslæren**
 
-<br>
+
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/VliOntGAvUU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-<br>
+
+
+---
 
 
 
@@ -2471,6 +2544,7 @@ I urimelighedsvurderingen indgår:
 *	Et løfte kan afgives på baggrund af nogle forudsætninger, som ikke nødvendigvis er diskuteret eller udtrykt klart mellem parterne i en aftale.
 
 *	Hvis forudsætningen ikke holder, taler man om bristende, svigtende eller urigtige forudsætninger, hvilket i nogle tilfælde kan medføre at aftalen ophæves.
+
 
 Ophævelse kræver at 3 betingelser skal være opfyldt:
 
@@ -2487,11 +2561,9 @@ En ugyldig aftale – Parterne er ikke forpligtet af det løfte de har afgivet o
 
 *	Evt. erstatning til den part, der har handlet i tillid til aftalen, og ved ophævelsen lider et økonomisk tab.
 
-      + **Negativ kontraktsinteresse**:
++ **Negativ kontraktsinteresse**:
       
-      Erstatningskrav, hvor man i økonomisk 
-      henseende stilles som om aftalen slet ikke 
-      var indgået – tilbage til status quo.
+Erstatningskrav, hvor man i økonomisk henseende stilles som om aftalen slet ikke var indgået – tilbage til status quo.
       
 
 ### Standardkontrakter/vilkår
@@ -2513,13 +2585,15 @@ Fremsendelse sammen med faktura anses ikke for vedtaget
 
 *	Usædvanlige vilkår skal fremhæves i en kontrakt, hvis de skal anses for vedtaget – må ikke gemmes blandt ”de små bogstaver.” Risiko for tilsidesættelse, jf. aftalelovens §§ 38c, jf. 36.
 
-*	**Forbrugeraftaler** – Den erhvervsdrivende, som indgår aftaler med forbrugere, skal lave aftaler på en klar og forståelig måde, jf. kravet i aftalelovens § 38b, stk. 2.   
+*	**Forbrugeraftaler** – Den erhvervsdrivende, som indgår aftaler med forbrugere, skal lave aftaler på en klar og forståelig måde, jf. kravet i aftalelovens § 38b, stk. 2. 
+
+---
 
 Se fra retspraksis:
 
-*U.2019.2389 V: Andelsboligforening skulle i relation til aftale om juridisk rådgivning anses som forbruger. Aftalen om honorering var åbenbart i strid med god skik-bekendtgørelsens § 3, stk. 4, og andelsboligforeningen kunne kræve en stor del af honoraret tilbagebetalt.Der er ikke ved lov om juridisk rådgivning taget stilling til eventuelle civilretlige konsekvenser af en overtrædelse af loven, og sådanne må derfor skulle bedømmes ud fra en fortolkning og anvendelse af de almindelige aftaleretlige regler, herunder aftalelovens § 38 c, jf. § 36.*
+*U.2019.2389 V: Andelsboligforening skulle i relation til aftale om juridisk rådgivning anses som forbruger. Aftalen om honorering var åbenbart i strid med bekendtgørelsens § 3, stk. 4 til lov om juridisk rådgivning, og andelsboligforeningen kunne kræve en stor del af honoraret tilbagebetalt.Der er ikke ved lov om juridisk rådgivning taget stilling til eventuelle civilretlige konsekvenser af en overtrædelse af loven, og sådanne må derfor skulle bedømmes ud fra en fortolkning og anvendelse af de almindelige aftaleretlige regler, herunder aftalelovens § 38 c, jf. § 36.*
 
-
+---
 
 ### Aftalens omfang og fortolkning
 
@@ -2535,7 +2609,9 @@ Se fra retspraksis:
 *Gyldighedsreglen:* Aftalen fortolkes med henblik på at opnå en gyldig aftale, som vil kunne gennemføres.  
 
 **Rimelighedsreglen:** Aftalen fortolkes i overensstemmelse med hvad der er rimeligt og hensigtsmæssigt.  
-<br>
+
+
+---
 
 
 
@@ -2543,11 +2619,11 @@ Se fra retspraksis:
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/DdFmNJpY3dE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-<br>
 
 
+---
 
-<br>
+
 
 ```{r reglerogtolkning,echo=FALSE}
 options(knitr.table.format = "html")
@@ -2572,8 +2648,8 @@ kable(collapse_rows_dt, align = "l",caption = "Regler og tolkning") %>%
 ```
 
 
+---
 
-<br>
 
 
 
@@ -2584,34 +2660,34 @@ kable(collapse_rows_dt, align = "l",caption = "Regler og tolkning") %>%
 <h3><a href="https://quiz.tepedu.dk/juraaftale" target="_blank">Quiz Aftalers fortolkning og udfyldning   <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
 
 
-
+---
 
 # Fuldmagter og mellemmænd
 
 
 <script async src="https://widget.spreaker.com/widgets.js"></script>
 
-<br>
+
 <div class="video-container"><iframe src="https://www.youtube.com/embed/ugJt8-E7xJY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div> 
 
-<br>
 
-<br>
+
+
 <a class="spreaker-player" href="https://www.spreaker.com/show/kapitel-2-aftaleloven" data-resource="show_id=3543307" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https://d1bm3dmew779uf.cloudfront.net/cover/bb453683459dec52bf6b9b83a3192674.jpg"></a>
 
-<br>
+
 
 
 <img src="img/fuldmagt1.jpeg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-<br>
+
 
 * **Fuldmagt** (er reguleret af aftaleloven: Lovbekendtgørelse nr. 193 af 2. marts 2016 om aftaler og andre retshandler på formuerettens område) 
 
-  + *Fuldmagt med særlig tilværelse*
++ *Fuldmagt med særlig tilværelse*
   
-  + *Fuldmagt uden særlig tilværelse*
++ *Fuldmagt uden særlig tilværelse*
   
-* *Kommission* (Kommisionsloven Lovbekendtgørelse                 nr. 332 af 31. marts 2014) 
+* *Kommission* (Kommisionsloven Lovbekendtgørelse nr. 332 af 31. marts 2014) 
   
 * *Handelsagenter* (Lov nr. 272 af 2. maj 1990 om                handelsagenter og handelsrejsende)
 
@@ -2656,7 +2732,7 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow"))
 
 *”Den, som har givet en anden fuldmagt til at foretage en retshandel, bliver umiddelbart berettiget og forpligtet overfor tredjemand ved retshandel, som fuldmægtigen foretager i fuldmagtsgiverens navn og indenfor fuldmagtens grænser”*.
 
-<br<
+
 
 Fuldmagtsforholdet hviler normalt på en aftale mellem en fuldmagtsgiver og fuldmægtig, men kan herudover gives til kende ved en viljeserklæring til en eller flere tredjemænd eller ved en konkludent  handling, der tillader tredjemand at slutte, at fuldmagtsgiveren har udstyret fuldmægtigen med en fuldmagt (således som det er tilfældet ved stillingsfuldmagten ved et ansættelsesforhold). 
 
@@ -2686,14 +2762,14 @@ Ved **»beføjelse«** (**bemyndigelse**) den ret eller tilladelse, fuldmægtige
 * *Legitimation:* Den ydre fuldmagt er synlig og kendt for omverdenen.  
  
 
-<br>
+
 
  
 <img src="img/Bemyndigelse vs. legitimation.png" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
  
- <br>
+
  
 
 
@@ -2704,7 +2780,7 @@ Ved **»beføjelse«** (**bemyndigelse**) den ret eller tilladelse, fuldmægtige
 
 ## De 2 fuldmagtsformer
 
-<br>
+
 
 Der findes to fuldmagtsformer
 
@@ -2713,20 +2789,17 @@ Der findes to fuldmagtsformer
 
 * **Fuldmagt med særlig tilværelse:**
 
-  + Stillingsfuldmagt, jf. aftalelovens § 10, 
-    stk. 2
+  + Stillingsfuldmagt, jf. aftalelovens § 10, stk. 2
   + Specialfuldmagt, jf. aftalelovens § 13
-  + Offentlig bekendtgjort fuldmagt, jf. 
-    aftalelovens § 14, stk. 1
-  + Skriftlig fuldmagt/forevisningsfuldmagt, jf. 
-    aftalelovens § 16, stk. 1
+  + Offentlig bekendtgjort fuldmagt, jf. aftalelovens § 14, stk. 1
+  + Skriftlig fuldmagt/forevisningsfuldmagt, jf. aftalelovens § 16, stk. 1
 
 ### Fuldmagt uden særlig tilværelse
 
-<br>
+
 
 * Kaldes også **§ 18-fuldmagt**
-<br>
+
 
 ![](img/hvad_er_fuldmagt.png)
 
@@ -2743,19 +2816,23 @@ Der findes to fuldmagtsformer
 <img src="img/fuldmagt2.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
+---
+
 **Video om stillingsfuldmagten, jf. aftalelovens § 10, stk. 2**
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/Zrg3TkUcot0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
-
+---
 
 
 
 Når du (fuldmagtsgiver) giver en anden (fuldmægtig) fuldmagt til at handle på dine vegne, bliver du som hovedregel bundet af den aftale din fuldmægtig indgår med tredjemand. 
 
-Der er kun tale om en stillingsfuldmagt i § 10’s forstand, når du efter aftale med en anden (fuldmagtsgiver/arbejdsgiveren) indtager en stilling, dvs. er ansat hos den pågældende. Stillingsfuldmagten stiftes ved, at du efter aftale med fuldmagtsgiver indtager en vis stilling og faktisk indtager denne fx, at du er ansat i en bank, ejendomsmæglerkæde eller i et forsikringsselskab. 
+Der er kun tale om en stillingsfuldmagt i § 10’s forstand, når du efter aftale med en anden (fuldmagtsgiver/arbejdsgiveren) indtager en stilling, dvs. er ansat hos den pågældende. 
+
+Stillingsfuldmagten stiftes ved, at du efter aftale med fuldmagtsgiver indtager en vis stilling og faktisk indtager denne fx, at du er ansat i en bank, ejendomsmæglerkæde eller i et forsikringsselskab. 
 
 Deraf følger så, at en advokat ikke har en stillingsfuldmagt for sin klient, og en tilsynsførende arkitekt eller ingeniør ingen stillingsfuldmagt fra bygherren. 
 
@@ -2782,10 +2859,10 @@ Stillingsfuldmagtens særlige tilværelse viser sig bl.a. derved, at fuldmagtsgi
 Vil fuldmagtsgiveren indskrænke stillingsfuldmagten, må han degradere fuldmægtigen, dvs. afskedige ham fra stillingen og give ham en stilling med en mindre vidtgående stillingsfuldmagt, og dette må være kendeligt for omverdenen.
 
 
-<br>
+
 
 <img src="img/lawyer-free-stock-photos-justice-1080x721.jpg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-<br>
+
 
 Sædvanens betydning er mange gange større end aftalelovens, når det gælder stillingsfuldmagt, men det er i sagens natur mindre sikkert, hvad der er sædvanligt, end hvad der står i loven. 
 
@@ -2795,9 +2872,13 @@ Domstolene må antages i hovedsagen at anse spørgsmålet om fuldmagtens rækkev
 
 Stillingsfuldmagtens grænser afhænger i første række af, hvilken stilling der er tale om, idet sædvanerne for forskellige stillinger er forskellige. 
 
-En bankdirektør har en vidererækkende stillingsfuldmagt end en områdekundechef, og en områdekundechef en vidererækkende stillingsfuldmagt end en lokalafdelingschef. 
+En bankdirektør har en mere vidererækkende stillingsfuldmagt end en områdekundechef, og en områdekundechef en mere vidererækkende stillingsfuldmagt end en lokalafdelingschef. 
 
-Erstatning: Hvis fuldmagtsgiver lider et dokumenteret økonomisk tab, fordi fuldmægtigen har handlet groft uagtsom eller forsætligt, kan fuldmægtigen i sjældne grove tilfælde blive erstatningsansvarlig over for arbejdsgiveren/fuldmagtsgiveren.
+**Erstatning**: Hvis fuldmagtsgiver lider et dokumenteret økonomisk tab, fordi fuldmægtigen har handlet groft uagtsom eller forsætligt, kan fuldmægtigen i sjældne grove tilfælde blive erstatningsansvarlig over for arbejdsgiveren/fuldmagtsgiveren, jf. – erstatningsansvarslovens § 23, stk. 1:
+
+**Erstatning, som en arbejdsgiver har måttet udrede som følge af en arbejdstagers uforsvarlige adfærd, kan kun kræves betalt af denne i det omfang, det findes rimeligt  under hensyn til den udviste skyld, arbejdstagerens stilling og omstændighederne i øvrigt.**
+
+De vigtigste momenter i vurderingen af, om og i hvilket omfang arbejdsgiveren kan gøre regres mod arbejdstageren, er skyldgraden (normalt ikke regres ved skader, der er forvoldt ved simpel uagtsomhed; i modsætning til erstatningsansvarslovens § 19, stk. 3, indebærer forsæt eller især grov uagtsomhed dog ikke nødvendigvis fuldt ansvar for arbejdstageren, se herved U 2016 3069 V (regres ved betydelig uagtsomhed) og U 2006 356 V om regres ved en forsætligt forvoldt skade) og arbejdstagerens stilling (indtagelse af en overordnet stilling med ledelsesfunktioner vil f.eks. kunne tale for regres).
 
 
 **Ophør af fuldmagtsforholdet:**
@@ -2816,25 +2897,19 @@ Erstatning: Hvis fuldmagtsgiver lider et dokumenteret økonomisk tab, fordi fuld
 
 * Kaldes også for legitimationsfuldmagt
 
-* Fuldmagten er en særskilt erklæring, der 
-  meddeles direkte fra fuldmagtsgiver til 
-  tredjemand
+* Fuldmagten er en særskilt erklæring, der meddeles direkte fra fuldmagtsgiver til tredjemand
   
-* Tredjemand får direkte besked om fuldmagtens 
-  indhold
+* Tredjemand får direkte besked om fuldmagtens indhold
   
 * Erklæringens form er ligegyldig
 
 * Kan være både mundtlig og skriftlig
 
-* Erklæringens fremkomst kan bevises, og dets 
-  indhold om tilbagekaldelse er klart
+* Erklæringens fremkomst kan bevises, og dets indhold om tilbagekaldelse er klart
   
-* En specialfuldmagt ophører/tilbagekaldes på 
-  samme måde som den blev stiftet
+* En specialfuldmagt ophører/tilbagekaldes på samme måde som den blev stiftet
   
-* Tilbagekaldelsen får virkning når den er kommet   frem – behøver ikke komme til tredjemands 
-  kundskab.
+* Tilbagekaldelsen får virkning når den er kommet   frem – behøver ikke komme til tredjemands kundskab.
  
 ---
 
@@ -2845,24 +2920,13 @@ Bestemmelsen har følgende ordlyd:
 
 *”En fuldmagt, som af fuldmagtsgiveren er offentlig bekendtgjort i bladene eller på anden måde, tilbagekaldes ved en erklæring, som bekendtgøres på samme måde.* 
 
-*Stk. 2. Er dette ikke muligt, skal tilbagekaldelsen tilkendegives på anden ligeså virksom måde. Fuldmagtsgiveren kan forlange, at den i § 17 omtalte myndighed skal afgøre, hvad han i så henseende har at foretage.
-Stk. 3. Fuldmagten anses ikke som offentlig bekendtgjort, fordi den er tinglæst”.*
+*Stk. 2. Er dette ikke muligt, skal tilbagekaldelsen tilkendegives på anden ligeså virksom måde. Fuldmagtsgiveren kan forlange, at den i § 17 omtalte myndighed skal afgøre, hvad han i så henseende har at foretage.*
+
+*Stk. 3. Fuldmagten anses ikke som offentlig bekendtgjort, fordi den er tinglæst”.*
 
 * Offentlig bekendtgjort fuldmagt - fx kuratorfuldmagt, der får fuldmagt til at behandle et konkursbo og varetage boets interesser eller udstedelse af prokura om at kunne handle på vegne af fx et selskab eller en forening.
 
-* Fuldmagtsgiver oplyser om fuldmagten til almen- heden, fx i massemedier, avis, tidsskrifter, Statstidende, i en cirkulæreskrivelse mv.
 
-* Fuldmagten ophører/tilbagekaldes på samme måde som den blev stiftet.
-
-Aftaleloven har ikke afgjort, fra hvilket tidspunkt bekendtgørelse f.eks. i et blad virker, men over for tredjemand, der bor andetsteds, end hvor bladet udkommer, kan bekendtgørelsen formentlig først virke, når bladet er kommet frem til det sted, hvor han bor. 
-
-Fuldmagter tinglyses ikke efter tinglysningslovens § 1 om rettigheder, men indføres i Tinglysningsrettens fuldmagtsregister, jf. tinglysningslovens § 49. 
-
-En tinglyst fuldmagt kan give adgang til at foretage flere dispositioner i op til et år fra udstedelsen, jf adgangsbekendtgørelsens § 8. 
-
-En tinglyst fuldmagt tilbagekaldes efter lovreglen i aftalelovens § 16.
-
-  
 
 #### Skriftlig fuldmagt/forevisningsfuldmagt, jf. aftalelovens § 16:
 
@@ -2943,10 +3007,11 @@ Fuldmægtigen er altså i almindelighed ubetinget erstatningsansvarlig (objektiv
 
 Dette stemmer med de almindelige regler om ansvaret i vanhjemmelslignende tilfælde af misligholdelse. 
 
-Hvis fuldmægtigen er umyndig, kan et sådant ansvar ikke pålægges ham, men han kan ifalde erstatningspligt efter den almindelige culparegel, og medkontrahenten kan i så fald kræve erstatning for den negative kontraktsinteresse (det tab, han lider ved at stole på kontrakten), hvis fuldmægtigen har skuffet ham med forsæt eller uagtsomhed.
+Hvis fuldmægtigen er umyndig, kan et sådant ansvar ikke pålægges ham, men han kan ifalde erstatningspligt efter den almindelige culparegel, og medkontrahenten kan i så fald kræve erstatning for den **negative kontraktsinteresse** (det tab, han lider ved at stole på kontrakten), hvis fuldmægtigen har skuffet ham med forsæt eller uagtsomhed.
 
 Aftalelovens § 25 indebærer, at tredjemand ikke selv behøver at undersøge fuldmagtens eksistens eller at forlange udtrykkelig garanti for, at fornøden fuldmagt foreligger, idet han er berettiget til at gå ud fra, at den, der optræder som fuldmægtig, også har den fornødne fuldmagt.
-<br>
+
+---
 
 **Video: Erstatning efter aftalelovens § 25**
 
@@ -2955,7 +3020,7 @@ Aftalelovens § 25 indebærer, at tredjemand ikke selv behøver at undersøge fu
 <div class="video-container"><iframe src="https://www.youtube.com/embed/pg3C6fbVoTs" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
-
+---
 
 
 <img src="img/mj-s-71657-unsplash.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
@@ -2971,12 +3036,14 @@ Tredjemand er ikke henvist til at nøjes med en erstatning for det tab, han har 
 
 Hvis den opgivne fuldmagtgiver er kommet under konkurs, følger det af det anførte, at tredjemand kun kan kræve det beløb, som han, hvis fuldmagten havde været i orden, ville have erholdt af konkursboet.
 
+---
+
 **Video om fuldmagtens grænser**
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/08Bm3t_CR9s" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
-<br>
+---
 
 ### Eksamensopgave og løsning om fuldmagt/mellemmandsaftaler og ansættelsesret
 
@@ -3031,8 +3098,8 @@ Sanne spørger Kim om at få ferie i den uge. Kim bliver helt ude af den, da det
 3.	Har Sanne krav på at holde ferie så hun kan 
     komme til Paris? 
     
-<br>
-Vejledende løsning fyld gerne selv på:
+
+**Vejledende løsning fyld gerne selv på**:
 
 1.	Er Fix og Hjem bundet af de aftaler som Kim har indgået med Andreas? Rabatten er Fix & Hjem bundet af, da inden for stillingsfuldmagten, men udenfor bemyndigelsen, men Andreas i god tro. De 5 havebassiner er måske også indenfor stillingsfuldmagten, men udenfor bemyndigelsen, og spørgsmålet er om Andreas er i god eller ond tro. Næppe OK.
 <br>
@@ -3041,23 +3108,7 @@ Vejledende løsning fyld gerne selv på:
 <br>
 
 3.	Har Sanne krav på at holde ferie så hun kan komme til Paris? Det kommer an på, hvornår hun spørger om at få fri. Ferien ligger jo i hovedferien og det skal normalt varsles af medarbejderen med mindst 3 ugers varsel (som jeg husker det) og gør hun det, har hun krav på at komme afsted. I øvrigt dårlig stil at nægte hende at tage af sted pga. travlhed, da det jo egt. ikke er hendes problem. 
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 # Forbrugeraftaler og forbrugerbeskyttelse
 
@@ -3067,7 +3118,7 @@ Indledningsvis skal du som studerende være særlig opmærksom på følgende pro
 
 
 •	Forbrugerbeskyttelse ved erhvervelse af fast ejendom;    
-  fortrydelsesret og tilbud, tilbagekaldelse og sælgers accept, LFFE   kapitel 2 
+fortrydelsesret og tilbud, tilbagekaldelse og sælgers accept, LFFE kapitel 2 
   
 •	Forbrugeraftaleloven, §§ 3-6 
 
@@ -3076,8 +3127,7 @@ Indledningsvis skal du som studerende være særlig opmærksom på følgende pro
 •	Uanmodet henvendelse (forbrugeraftalelovens § 4 og 
   markedsføringslovens § 10)
   
-  
-
+ 
 
 ## Introduktion til forbrugeraftaleloven
 
@@ -3092,20 +3142,21 @@ Forbrugeraftale: Indgås mellem to parter, hvor den erhvervsdrivende indgår aft
 Speak 4-2
 
 Erhvervsdrivende formidlere: En erhvervsdrivende formidler, der skaber kontakt imellem private handlende, skal også overholde forbrugeraftaleloven
+
 – se sag om QXL (internet-auktionsudbyder).
 
 Speak 4-3 
 
  
 Skærpede krav ved B2C ift B2B: Virksomheder, der handler med forbrugere, skal overholde forbrugeraftaleloven.
-Bevisbyrde - aftaletype: Den erhvervsdrivende, som påstår aftalen ikke er en forbrugeraftale, har bevisbyrden, jf. FBL § 2, stk. 2.
+
+**Bevisbyrde** - aftaletype: Den erhvervsdrivende, som påstår aftalen ikke er en forbrugeraftale, har bevisbyrden, jf. FBL § 2, stk. 2.
 
 Speak 4-4:
 
 
  
-Forbrugerombudsmanden(FOB): Særligt FOB fører
-tilsyn med at FBL overholdes – se www.forbrug.dk
+Forbrugerombudsmanden(FOB): Særligt FOB fører tilsyn med at FBL overholdes – se www.forbrug.dk
  
 
 
@@ -3114,57 +3165,74 @@ tilsyn med at FBL overholdes – se www.forbrug.dk
 ## Forbud mod uanmodet henvendelse
 
 <img src="img/sale1.jpg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-<br>
-Hovedregel: Forbud mod uanmodet telefonisk eller direkte personlig henvendelse til forbrugere på deres bopæl, arbejdsplads, skoler, gymnasier, universiteter eller andre steder, hvor der ikke er almindelig adgang, fx også foreninger, hvis henvendelsen fra virksomheden har til formål at opnå en aftale med forbrugeren, jf. FBL § 4, stk. 1.
+
+
+**Hovedregel**: Forbud mod uanmodet telefonisk eller direkte personlig henvendelse til forbrugere på deres bopæl, arbejdsplads, skoler, gymnasier, universiteter eller andre steder, hvor der ikke er almindelig adgang, fx også foreninger, hvis henvendelsen fra virksomheden har til formål at opnå en aftale med forbrugeren, jf. FBL § 4, stk. 1.
  
 Speak 4-5
 
-Undtagelser: FBL § 4, Stk. 2 – telefoniske henvendelse må gerne ske hvis det handler om:
+**Undtagelser**: FBL § 4, Stk. 2 – telefoniske henvendelse må gerne ske hvis det handler om:
 
 * Bestilling af bøger,
 * Tegning af abonnement på aviser, ugeblade og tidsskrifter
 * Formidling af forsikringsaftaler og
 * Tegning af abonnement, der omfatter redningstjeneste eller sygetransport.
+
+
  
 ## Telefonsalg
  
 Ved telefoniske henvendelser omfattet af FBL § 4, Stk. 2, bestilling af bøger, abonnementer på aviser mv. skal forbrugeren ved hvert opkald have oplysning om:
  
 * Den erhvervsdrivendes identitet
+
 * Navnet på den person, som forbrugeren er i kontakt med i telefonen
+
 * Telefonsælgerens forbindelse til den erhvervsdrivende, og
+
 * Det kommercielle formål med telefonhenvendelsen.
 
  
-Virksomheden bør tjekke	Robinson-listen inden henvendelse  
+Virksomheden skal tjekke	Robinson-listen inden henvendelse ellers er det en overtrædelse af markedsføringslovens § 10, stk. 4, nr. 2 og 3.
+
 Derudover gælder markedsføringslovens § 10, stk. 6: Den erhvervsdrivende skal ved den første henvendelse til forbrugeren, oplyse om retten til at frabede sig uanmodede henvendelser fra den erhvervsdrivende i fremtiden.
+
 
 ## Salg uden for den erhvervsdrivendes faste forretningssted
 
 Henvendelse fra en erhvervsdrivende må gerne ske:
 
 * På offentlige steder, hvortil der er almindelig adgang, fx gader, veje, pladser og andre steder som fx togstationer og restauranter. Der kan dog være andre forbudsregler på de steder.
+
 * Til virksomheder og offentlige institutioner, hvis henvendelse vedrører tilbud om bestilling af varer og ydelser, der anvendes i virksomheden/institutionen.
+
 * På bopælen, hvis det ikke har med erhvervsmæssigt salg at gøre, fx henvendelser vedrørende religion, indsamlinger til velgørende formål, salg af lodsedler, spørgsmål i forbindelse med markedsundersøgelser mv.
 
  
-Aftalen er ugyldig: Aftaler indgået i strid med FBL § 4 er ugyldig, jf. FBL § 5. Forbrugeren kan godt fastholde aftalen uanset ugyldighed
-Bødestraf: Det kan være forbundet med bødestraf, for virksomheden, at handle i strid med forbrugeraftaleloven, jf. FBL § 34 - se H&M sag om opringninger på mobiltelefoner.
+**Aftalen er ugyldig**: Aftaler indgået i strid med FBL § 4 er ugyldig, jf. FBL § 5. Forbrugeren kan godt fastholde aftalen uanset ugyldighed
+
+**Bødestraf**: Det kan være forbundet med bødestraf, for virksomheden, at handle i strid med forbrugeraftaleloven, jf. FBL § 34 - se H&M sag om opringninger på mobiltelefoner.
 
 Speak 4-6
 
  
-Robinson-listen: En forbrugers tilmelding til Robinson-listen skal forhindre henvendelser fr virksomheder om produkter omfattet af FBL § 4, stk. 2. Overtrædelse straffes med bøde.
+**Robinson-listen**: En forbrugers tilmelding til Robinson-listen skal forhindre henvendelser fr virksomheder om produkter omfattet af FBL § 4, stk. 2. Overtrædelse straffes med bøde.
 
  
 ## Forbud mod negativ aftalebinding
 
 * En forbruger kan som udgangspunkt ikke blive bundet ved sin passivitet, jf. fbl § 6.
+
 * Ses særligt inden for TV/sattelitaftaler,IT/internetforbindelser, avis- og blad abonnementer
+
 * Hvis en forbruger modtager en vare fra en virksomhed, som han ikke har bestilt, og det ikke skyldes en fejl, kan forbrugeren beholde varen uden at skulle betale.
+
 * Det samme gælder for tjenesteydelser/arbejde som
 en erhvervsdrivende udfører, uden at forbrugeren har bedt om det.
-* Området er tæt forbundet med princippet om god markedsføringsskik, jf. markedsføringslovens § 3 og god erhvervsskik i denne lovs § 4. Det kan også være en vildledning af forbrugerens retsstilling, jf. markedsføringslovens § 5.
+
+* Området er tæt forbundet med princippet om god markedsføringsskik, jf. markedsføringslovens § 3 og god erhvervsskik i denne lovs § 4. 
+
+Det kan også være en vildledning af forbrugerens retsstilling, jf. markedsføringslovens § 5.
 
 Speak 4-7
 
@@ -3176,6 +3244,8 @@ Speak 4-7
 ## Aftaler indgået uden for den erhvervsdrivendes forretningssted
 
 <img src="img/homeparty.jpeg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+
 Aftalen er indgået et andet sted end der hvor den erhvervsdrivende sælger har sit forretningssted, fx
 
 * Homeparties, salgsdemonstrationer under udflugter, 
@@ -3186,6 +3256,7 @@ Den erhvervsdrivende har pligt til at give tydelig skriftlig oplysning om fortry
 Oplysning skal gives:
 
 * Ved mødet med forbrugeren.
+
 * Ved varesalg – når varen overgives eller leveres fysisk til  
   forbrugeren.
 
@@ -3260,9 +3331,9 @@ Hvis der ikke modtages nogen oplysninger om fortrydelsesretten så udskydes fort
 * Forbrugeren kan hæve aftalen hvis forsinkelsen er væsentlig for 
   forbrugerne og den erhvervsdrivende burde forudsætte dette.
 
-* Forbrugeren kan vælge at give en frist for levering, overholdes den   ikke, kan aftalen hæves.
+* Forbrugeren kan vælge at give en frist for levering, overholdes den ikke, kan aftalen hæves.
 
-* Hvis en aftale hæves skal hver part tilbagelevere hvad de hver især   har modtaget.
+* Hvis en aftale hæves skal hver part tilbagelevere hvad de hver især har modtaget.
 
 * Den erhvervsdrivende skal tilbagebetale penge til forbrugeren, 
   senest 30 dage fra den erhvervsdrivende har modtaget besked om, at   forbrugeren vil fortryde
@@ -3497,7 +3568,7 @@ Indledningsvis skal du som studerende være særlig opmærksom på følgende i f
 •	Principalansvar (arbejdsgiverens hæftelsesansvar i DL 3-19-2)
 
 •	Ansvarets sammenhæng med forsikringsdækning, 
-  erstatningsansvarslovens (forkortet; EAL) §§ 19 – 23 <br>
+  erstatningsansvarslovens (forkortet; EAL) §§ 19 – 23 
 
 ---
 
@@ -3590,9 +3661,9 @@ Se følgende domme, hvor der idømmes erstatningsansvar i forskellige situatione
 ![](img/bonuspaterfamilias.jpg)
 
 
-Har skadevolderen derimod opført sig som en såkaldt bonus pater familias (latin; 'den gode familiefader'), har han eller hun ikke gjort noget forkert og er ikke ansvarlig for skaden. 
+Er skaden forvoldt ved et **hændeligt uheld**, har vedkommende ikke gjort noget forkert og er ikke ansvarlig for skaden. 
 
-Man skal heller ikke erstatte noget. Det kaldes et hændeligt uheld. 
+Man skal heller ikke erstatte noget. 
 
 Åbner en hotelgæst eksempelvis døren til sit værelse indefra, i det øjeblik en tjener går forbi på gangen med en bakke med glas, og døren rammer bakken, så glassene falder på gulvet og knuses, er der tale om et hændeligt uheld. Uheldet kan ikke bebrejdes hotelgæsten, da han ikke havde mulighed for at undgå det. Han havde opført sig som “den gode hotelgæst” og ikke begået nogen fejl. 
 
@@ -3658,17 +3729,13 @@ Se her følgende domsafgørelser fra retspraksis:
 ---     
 
 
-### Den gode familiefader
+### Den almindelige fornufttige person
 
-Når en domstol bedømmer, om skadevolder har handlet forkert, sammenligner domstolen skadevolderens handling med, hvordan en “bonus pater familias” ville have handlet i samme situation.
-
-Bonus pater familias (latin for den gode familiefader) er en fiktiv person, som aldrig begår fejl, fordi han eller hun altid tænker sig grundigt om, før denne handler. 
-
-I nogle situationer vil denne fiktive person være “den gode forældre”, “det gode barn”, “den gode lærer”, “den gode håndværker” osv. 
+Når en domstol bedømmer, om skadevolder har handlet forkert, sammenligner domstolen skadevolderens handling med, hvordan en almindelig fornuftig person ville have handlet i samme situation.
 
 Begrebet repræsenterer en uagtsomhed en adfærd, der afviger fra de adfærdsnormer, der gælder inden for det pågældende område.
 
-Kommer en domstol til det resultat, at en skadevolder har handlet anderledes, end en bonus pater familias ville have gjort i samme situation, har skadevolderen handlet forkert og vil blive pålagt et erstatningsansvar.
+Kommer en domstol til det resultat, at en skadevolder har handlet anderledes, end hvad en alimindelig fornuftig person ville have gjort i samme situation, har skadevolderen handlet forkert og vil blive pålagt et erstatningsansvar.
 
 Det skal bevises af skadelidte (kaldet en ”ligefrem bevisbyrde”). Det er hovedreglen i dansk ret; Den der vil gøre noget gældende, har også bevisbyrden herfor.
 
@@ -3723,7 +3790,7 @@ Se her nævnte domme:
 
 ### Simpel uagtsomhed
 
-Ved simpelt uagtsomhed (culpa levis), har skadevolder handlet mere skødesløst end en bonus pater familias – den lille dagligdags uagtsomhed – er skadevolder erstatningsansvarlig. 
+Ved simpelt uagtsomhed (culpa levis), har skadevolder handlet mere skødesløst, end hvad en almindelig fornuftig personen ville have handlet i den samme situation – den lille dagligdags uagtsomhed – er skadevolder erstatningsansvarlig. 
 
 Simpel uagtsomhed er en uagtsomhed som ikke kan betegnes som grov. Culpareglen omfatter som hovedregel begge former for uagtsomhed.
 
@@ -3872,6 +3939,23 @@ De ting, som man ødelægger af sine egne ting, udløser ikke et erstatningsansv
 
 ---
 
+## Erstatningsansvaret og EAL § 19
+
+I det omfang en skade er dækket af en tingsforsikring eller en driftstabsforsikring, er der ikke erstatningsansvar, jf. EAL § 19, stk. 1
+
+Hovedreglen om, at der ikke er erstatningsansvar for en forsikringsdækket skade, gælder uanset ansvarsgrundlagets karakter. Ansvaret bortfalder både i forhold til forsikringsselskabet og i forhold til skadelidte. 
+
+Sammenholdt med undtagelserne i EAL § 19, stk. 2 og i § 21 omfatter hovedreglen imidlertid kun følgende tilfældegrupper:
+
+1) ansvar for skader i privatlivet, der er forvoldt ved simpel uagtsomhed;
+
+2) ansvar for skader i privatlivet, der hviler på strengere ansvarsregler end culpareglen bortset fra de i § 21 nævnte (f.eks. DL 3-19-2 ved private tjenesteforhold, hundelovens § 8);
+
+3) arbejdstageres personlige ansvar for skader, der er forvoldt ved simpel uagtsomhed, jf. stk. 3.
+
+Reglen gælder ikke enhver skadesforsikring, der omfattes af forsikringsaftaleloven, men kun forsikringer, hvor forsikringsydelsen bestemmes enten af tingens værdi eller af dens afkastningsinteresse i relation til en virksomheds drift. Kreditforsikringer, kautionsforsikringer og lign. falder derfor udenfor.
+
+. 
 ## Erstatningskravet og erstatningsbeløbet
 
 I Lov om erstatningsansvar kan man læse, hvad der kan kræves i erstatning af en erstatningsansvarlig skadevolders forsikringsselskab. Man kan som skadelidt kræve erstatning for følgende:
@@ -4159,7 +4243,7 @@ En uge efter kampen kommer trøjerne og kasketterne men nu vil Hans ikke længer
 
 # Køb
 
-
+***Kapitel 8 om køb skal kun læses i hovedtræk***
 
 ## Hvad er et køb? 
 
@@ -4397,7 +4481,7 @@ Købers forpligtelser består i modtage varen og at betale den aftalte købesum:
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/oqJcGNfpdY0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-<br>
+
 
 
 Leveringstidspunktet og risikoens overgang er forskellig og afhænger af, om der er tale om et:
@@ -5188,7 +5272,7 @@ Speak23
 ## Vildledning, jf. MFL §§ 5-7
 Afsender må ikke bruge vildledende og urigtige oplysninger i sin markedsføring, eller udelade vigtige informationer, hvis det er medvirkende til at forvride modtagerens økonomiske adfærd på markedet.
 
-* Pejlepunkt: Hvis modtageren (forbruger eller erhvervsdrivende) træffer en beslutning, som han måske ellers ikke ville have truffet, hvis oplysningen havde været korrekt, taler det for, at der er tale om vildledende markedsføring.
+* Pejlepunkt: Hvis modtageren (forbruger eller erhvervsdrivende) træffer en beslutning, som vedkommende måske ellers ikke ville have truffet, hvis oplysningen havde været korrekt, taler det for, at der er tale om vildledende markedsføring.
  
 
 **Vildledende oplysninger - forkerte oplysninger om fx (MFL § 5):**
@@ -5318,7 +5402,7 @@ Som efter stk. 1 er det et krav, at markedsføringen har en kommerciel effekt, s
 
 Bilag 1 til markedsføringsloven kommer med en række ikke udtømmende eksempler:
 
-* Forbrugeren bringes til at tro, at han ikke kan forlade lokalerne, før en kontrakt er indgået.
+* Forbrugeren bringes til at tro, at vedkommende ikke kan forlade lokalerne, før en kontrakt er indgået.
 
 * Der aflægges personlige besøg på forbrugerens bopæl, uden at forbrugeren har ønsket det.
 
@@ -5368,7 +5452,7 @@ Speak23
 
 * Gebyrer skal være aftalt og senere ændringer i gebyrer skal varsles.
 
-* Ved brug af ord som ”garanti”, ”tilsikre”, ”vi indestår”, skal den erhvervsdrivende give forbrugeren en væsentlig bedre retsstilling, end han ellers ville have haft uden ”garantien”, jf. MFL § 17.
+* Ved brug af ord som ”garanti”, ”tilsikre”, ”vi indestår”, skal den erhvervsdrivende give forbrugeren en væsentlig bedre retsstilling, end forbrugeren ellers ville have haft uden ”garantien”, jf. MFL § 17.
 
 * Den erhvervsdrivende skal informere forbrugeren om garantiens indhold på klar og tydelig måde, fx:
 
@@ -5563,7 +5647,7 @@ Ekstra materiale som ikke er en del af pensum om advokatefteruddannelseskursus o
 
 # Persondatabeskyttelse<sup><font color="red"> Premium </font></sup>
 
-##Hvad er databeskyttelse?
+## Hvad er databeskyttelse?
 
 
 Enhver har ret til beskyttelse af sine personoplysninger, og enhver, der behandler personoplysninger om andre i ikke-privat sammenhæng, er forpligtet til at iagttage disse rettigheder og til at beskytte personoplysningerne. 
@@ -6184,7 +6268,7 @@ Udstedelse af administrative bødeforelæg kan også tænkes anvendt i sager om 
 
  
 
-# Bekæmpelse af hvidvask og terrorfinansiering i den finansielle sektor<sup><font color="red"> Premium </font></sup>
+# Bekæmpelse af hvidvask og terrorfinansiering<sup><font color="red"> Premium </font></sup>
 
 
 ![](img/hvidvask.jpg)
@@ -9773,7 +9857,7 @@ Som studerende skal man være særlig opmærsom på følgende ved gennemgangen a
 
 ### Enkeltmandsvirksomhed
 
-* Ejes af én ejer, og han tager alle nødvendige beslutninger om virksomhedens drift alene.
+* Ejes af én ejer, og ejeren tager alle nødvendige beslutninger om virksomhedens drift alene.
 
 * Enkeltmandsvirksomheden tegnes af ejeren, men der kan udstedes prokura og fuldmagt til ansatte eller andre, der herefter kan handle og indgå aftaler på virksomhedens vegne.
 
@@ -9917,7 +10001,7 @@ For så vidt angår ledelsen påhviler pligten til løbende at udøve dette skø
 Kapitalberedskabet skal således til enhver tid være forsvarligt, dvs. stå i rimeligt forhold til selskabets aktiviteter. Ledelsen er personligt ansvarlig for dette forhold. 
 
 Pligten er for hvert enkelt relevant ledelsesorgan fastslået henholdsvis i § 115, nr. 5 (som en af bestyrelsens opgaver), i § 116, nr. 5 (som en af tilsynsrådets opgaver), og i § 118, stk. 2 (som en af direktionens opgaver).
-<br>
+
 
 **2.** Det nævnte forhold må på den anden side ikke lede til den misforståelse, at hvis den beholdne egenkapital i et anpartsselskab kommer under minimumskravet, er der indbygget et automatisk ejer- og/eller ledelsesansvar, hvis anpartsselskabets kreditorer lider tab ved dets efterfølgende økonomiske sammenbrud.
 
@@ -10930,9 +11014,11 @@ Lovgrundlag: Tinglysningsloven
 Område: Kreditsikring – pant 
 
 Læringsmål: Anvende, vurdere og formidle reglerne om kreditsikring og finansiel sikkerhedsstillelse i sammenhæng med andre juridiske emner, og i en praktisk sammenhæng med risiko- og kreditvurdering af private og erhvervskunder
-<br>
-Det følger af TL § 47c, at tinglyst virksomhedspant skal respektere senere udlæg, hvis udlægshaveren senest 3 hverdage efter udlæggets foretagelse har givet meddelelse til virksomhedspanthaver om udlægget. Da udlægget er meddelt mindre end 3 hverdage efter udlæggets foretagelse, vil udlægshaver have krav på de 70.000 kr. De resterende 230.000 kr. vil fortsat tilfalde banken. 
-<br>
+
+Det følger af TL § 47c, at tinglyst virksomhedspant skal respektere senere udlæg, hvis udlægshaveren senest 3 hverdage efter udlæggets foretagelse har givet meddelelse til virksomhedspanthaver om udlægget. 
+
+Da udlægget er meddelt mindre end 3 hverdage efter udlæggets foretagelse, vil udlægshaver have krav på de 70.000 kr. De resterende 230.000 kr. vil fortsat tilfalde banken. 
+
 Det bemærkes for en god ordens skyld, at der er fra udlæggets foretagelse til fristdagen er gået mere end 3 måneder, hvorfor udlægget ikke bortfalder efter KL § 71. 
 
 
@@ -11122,7 +11208,7 @@ Fordringspant oprettes ved tinglysning af et skadesløsbrev i personbogen jf. TL
 Den største forskel ligger i hvilke aktiver, der er omfattet af pantet, og efter hvilke bestemmelser panterettighederne er tinglyst. Virksomhedspant kan indeholde følgende i henhold til TL § 47 c, stk. 3: Simple fordringer, der stammer fra salg af varer og tjenesteydelser, lagre af råvarer, halvfabrikata og færdigvarer, køretøjer som ikke er indregistreret, driftsinventar og driftsmateriel, drivmidler og andre hjælpestoffer, besætning, goodwill, domænenavne og rettigheder i henhold til patentloven m.v., indregistrerede køretøjer, hvis pantsætter driver virksomhed med køb og salg af disse. 
 
 I fordringspant er kun kundefordringer indeholdt. Fordringspant kan ikke være tinglyst samtidig med virksomhedspant jf. TL § 47 e, stk. 2.
-<br>
+
 Sidst men ikke mindst, er der den forskel, at virksomhedspant jf. TL § 47 c, stk. 5, viger for senere udlæg, hvilket ikke er tilfældet med fordringspant, som derfor udgør en bedre sikkerhed.
 
 **Svar slut**
@@ -11211,27 +11297,41 @@ Den studerende skal honoreres for relevante overvejelser, demonstrering af kends
 
 ## Gældssanering
 
-Skifteretten kan efter en skyldners begæring afsige kendelse om gældssanering, såfremt skyldneren godtgør, at skyldneren ikke er i stand til og inden for de nærmeste år ingen udsigt har til at kunne opfylde sine gældsforpligtelser, og det må antages, at gældssanering vil føre til en varig forbedring af skyldnerens økonomiske forhold, jf. KKL § 197, stk. 1.
+Skifteretten kan efter en skyldners begæring afsige kendelse om gældssanering, såfremt skyldneren godtgør, at skyldneren ikke er i stand til og inden for de nærmeste år ingen udsigt har til at kunne opfylde sine gældsforpligtelser, og det må antages, at gældssanering vil føre til en varig forbedring af skyldnerens økonomiske forhold, jf. konkurslovens (KL) § 197, stk. 1.
+
+**Der gælder følgende betingelser for en gældssanering**:
 
 * Kun for fysiske personer, som selv skal indgive begæring
+
 * Skyldner skal have en større gæld, end det er muligt for ham at betale tilbage, jf. KL § 197
+
 * Det er en betingelse for gældssanering, at skyldneren er håbløst forgældet.
+
 * Gældssanering bliver nægtet, hvis gælden skyldes ”dårlig opførsel”´, jf. KL § 197, stk. 2
+
 * Kreditorer skal anmelde deres krav efter offentliggørelse i Statstidende, ellers bortfalder kravet
+
 * Skyldner lægger et budget, som viser hvor meget af gælden, der kan betales
 
 * Budget skal udarbejdes efter faste regler
+
 * Skyldner skal leve på et eksistensminimum i 5 år, resten af skyldners indtægt går til betaling af kreditorer
+
 * Hvis skyldner overholder betalingerne, er skyldner gældfri efter 5 år
 
 Speak 23
 
-Omstødelsesreglerne finder anvendelse i gældssanering Skifteretten kan ophæve kendelsen om gældssanering, hvis skyldner:
+*Omstødelsesreglerne finder anvendelse i gældssanering*
+
+Skifteretten kan ophæve kendelsen om gældssanering, hvis skyldner:
+
   +	Har handlet svigagtigt i forbindelse med sagens behandling
   +	Groft har tilsidesat sine pligter efter gældssaneringskendelsen
 
 * Overholder skyldner betingelserne for gældssaneringen efter bedste evne, er skyldner gældfri
+
 * Kreditorerne har ikke længere krav på skyldner efter gældssaneringsperioden
+
 * Gældssanering i forbindelse med en konkursbehandling sker på lempeligere vilkår, og perioden er på 3 år i stedet for 5 år
 
 
@@ -11267,7 +11367,7 @@ Omstødelsesreglerne finder anvendelse i gældssanering Skifteretten kan ophæve
 
 ---
 
-### Eksamenssæt i faget Erhvervs- og Finansjura på FIN om kreditforfølgning, aftaler, fuldmagt og forbrugerkøb, mv.
+### Eksamenssæt om kreditforfølgning, aftaler, fuldmagt og forbrugerkøb, mv.
 
 
 **LOTTOGEVINSTEN**
@@ -11282,6 +11382,7 @@ Søndag har Karl det meget dårligt efter fejringen, så han kommer ikke ud af s
 Karl føler også stor trang til at købe sig en passende bil – han tager derfor direkte fra ”Når mænd er bedst” til BMW forhandleren. Her forelsker han sig i en rigtig fin bil til 354.000,00 kr. Karl beslutter sig straks for købet og beder forhandleren klargøre bilen med det samme, så han kan komme ud at køre i løbet af et par dage. Han fortæller om gevinsten, og at han derfor ikke har brug for finansiering, og underskriver en købsaftale, hvorefter han skal betale hele beløbet inden 30 dage.
 
 Onsdag tænker Karl, at han nok hellere må se at få talt med banken, og med Danske Spil om at få gevinsten udbetalt – desværre kan han ikke længere finde sin lottokupon.
+
 
 **Eksamensspørgsmål:**
 
@@ -11335,6 +11436,7 @@ Der ses heller ikke at være sådanne, eller andre, elementer ved aftalens indg�
 BMW forhandleren fastholder, at købsaftalen er bindende, men bliver nervøs for, hvorvidt Karl kan betale for bilen i det lange løb, men han tænker, at han er sikret af det ejendomsforbehold, som står som standard i købsaftalen.
 Karl har ikke nogen penge at betale bilen med.
 
+
 **Eksamensspørgsmål:**
 
 4: Vil BMW forhandleren kunne søge sig fyldestgjort i bilen, på baggrund af det foretagne ejendomsforbehold? (16%)
@@ -11361,6 +11463,7 @@ Banken vil gerne hjælpe ham med et lån på 354.000,00, men med en rente på 25
 
 Karls forældre indvilger i at kautionere for lånet, men Karl har bedt banken om ikke at fortælle om ”Lottogevinsten”, og de får heller ikke anden oplysning, end at der er tale om selvskyldnerkaution for et billån på 354.000,00 kr.
 
+
 **Eksamensspørgsmål:**
 
 5: Under hvilke betingelser kan banken få udbetalt kautionsbeløbet fra Karls forældre? (16%)
@@ -11380,7 +11483,7 @@ Da der er tale om privatkaution, og da banken ikke har opfyldt sin oplysningspli
 **Svar slut.**
 
 ”Når mænd er bedst” er en personligt ejet virksomhed. Jens sidder selv med regnskaberne, og ser, at banken nægter at udbetale de 84.000 kr. for tøjkøbet med den begrundelse, at der ikke er dækning på Karls konto. 
-<br>
+
 Jens har i nogen tid haft svært ved at få omsat sine varer, og nu hvor han ikke ved, om og hvornår han får de 84.000 kr. for Karls indkøb af tøj, bliver han rigtig nervøs for, om en af leverandørerne, eller evt. banken, som har virksomhedspant til sikkerhed for en kassekredit, som på nuværende tidspunkt er trukket til 540.000,00 – 40.000,00 over det bevilgede maxbeløb, vil begære ham konkurs.
 
 I virksomheden, som drives fra lejede lokaler, er der aktiver i form af et varelaget til en samlet værdi af ca. 100.000 kr., inventar til en værdi af ca. 40.000 kr., It-udstyr for omtrent 10.000 kr. samt en varevogn. 
@@ -11388,6 +11491,7 @@ I virksomheden, som drives fra lejede lokaler, er der aktiver i form af et varel
 Specielt er Jens bekymret for, at en konkurs vil betyde, at den faste ejendom, som han ejer sammen med sin hustru, hvor han bor med sin familie og hvorfra hustruen driver sin frisørsalon, risikerer at blive solgt som følge af en konkurs.
 
 Jens ejer også en motorcykel.
+
 
 **Eksamensspørgsmål:**
 
@@ -11401,6 +11505,7 @@ Det betyder at han med få undtagelser, hæfter med alt hvad han ejer, herunder 
 
 **Svar slut**.
 
+
 **Eksamensspørgsmål:**
 
 7: Hvordan havde Jens situation i tilfælde af en konkurs været anderledes, hvis hans virksomhed var drevet som et ApS? (10 %)
@@ -11408,6 +11513,7 @@ Det betyder at han med få undtagelser, hæfter med alt hvad han ejer, herunder 
 Læringsmål: Forståelse for grundlæggende selskabsret og hæftelsesformer samt betydningen af reglerne om tegningsret.
 
 **Svar**: Så havde der været begrænset hæftelse, således at selskabets kreditorer ville være henvist til kun at søge sig fyldestgjort i selskabets aktiver: Varelager, inventar, it-udstyr og varevogn, mens Jens hus og motorcykel ikke ville blive berørt.
+
 
 **Eksamensspørgsmål:**
 
@@ -11434,28 +11540,17 @@ Værdien af vognen kan derfor i det omfang den i øvrigt er ubehæftet, tjene ti
 
 
 
-Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af kreditaftaler:
+**Som finansøkonom-studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af kreditaftaler:**
 
 
+•	**Underpantsforbud, KAL § 21**
 
+•	**Ejendomsforbehold – gyldighedsreglerne, KAL § 34**
 
-•	Underpantsforbud, KAL § 21
-
-•	Ejendomsforbehold – gyldighedsreglerne, KAL § 34
-
-•	Ejendomsforbeholdets betydning i forbindelse med anden 
-  sikkerhedsstillelse og tilbehørspant i fast ejendom, TL §§ 37 – 38 
+•	**Ejendomsforbeholdets betydning i forbindelse med anden** 
+  **sikkerhedsstillelse og tilbehørspant i fast ejendom, TL §§ 37 og 38** 
   
-•	Oprindelig trepartsforhold, KAL § 4, nr. 15, litra b, samt 
-  efterfølgende trepartsforhold, gældsbrevsloven
-
-
-
-
-
-
-
-
+•	**Oprindelig trepartsforhold, KAL § 4, nr. 15, litra b,** **samt efterfølgende trepartsforhold, gældsbrevsloven**
 
 
 ---
@@ -11471,9 +11566,9 @@ Som studerende skal du være særlig opmærksom på følgende problemstillinger 
     
 * Kreditaftaleloven (KAL) anvendes i de fleste aftaler om lån, kredit eller køb på kredit. Lovens anvendes både i forbrugerkøb, handelskøb og civilkøb.
 
-* Ordet ”kreditaftale” er defineret i KAL § 4, stk. 1, nr. 3: 
+* Ordet **”kreditaftale”** er defineret i KAL § 4, stk. 1, nr. 3: 
 
-”En aftale, hvorved en kreditgiver yder eller giver tilsagn om at yde kredit…”
+**”En aftale, hvorved en kreditgiver yder eller giver tilsagn om at yde kredit…”**
 
 * Kreditaftaleloven regulere lån og kreditkøb. En kreditaftale kan indgås via en kreditformidler.  
 
@@ -11482,7 +11577,7 @@ En kreditgiver defineres nærmere i KAL § 4, nr. 2. KAL § 1, stk. 1, indeholde
 
 Definitionen er overensstemmende med definitionerne af forbrugeraftaler/køb i aftalelovens § 38 a, stk. 2, købeloven § 4 a, stk. 1, 1. pkt., forbrugeraftalelovens § 1, stk. 2, og rentelovens § 7, stk. 1.  
 
-En »kreditgiveren« forstås som forbrugerens modpart. 
+En **»kreditgiveren«** forstås som forbrugerens modpart. 
 
 Kreditgiver er først og fremmest den (typisk juridiske person), der i forhold til forbrugeren yder kredit. 
 
@@ -11511,7 +11606,7 @@ Det er uden betydning, om der tilstræbes økonomisk gevinst med virksomheden. O
 
 Foreninger og sammenslutninger, hvis formål udelukkende er velgørenhed eller almennyttigt, politisk eller religiøst, kan i almindelighed ikke anses for erhvervsdrivende.  
 
-Forarbejderne betoner, at en arbejdsgiver, som yder kredit til en medarbejder, normalt ikke kan anses som kreditgiver i lovens forstand, medmindre arbejdsgiveren yder kreditten som led i sin erhvervsmæssige virksomhed, f.eks. et pengeinstitut.  
+Forarbejderne til kreditaftaleloven betoner, at en arbejdsgiver, som yder kredit til en medarbejder, normalt ikke kan anses som kreditgiver i lovens forstand, medmindre arbejdsgiveren yder kreditten som led i sin erhvervsmæssige virksomhed, f.eks. et pengeinstitut.  
 
 KAL gælder også for kreditaftaler, hvor kreditten ydes af en ikke-erhvervsdrivende, hvis aftalen er indgået eller formidlet for kreditgiveren af en erhvervsdrivende.  
 
@@ -11542,11 +11637,11 @@ Kreditgiveren har bevisbyrden for, at der ikke foreligger en forbrugerkreditafta
 
 * Forbrugeren har ret til at fortryde en kreditaftale, jf. KAL § 19
 
-* En forbruger har altid ret til at indfri lånet før tid og dermed spare yderligere renteudgifte
-r
+* En forbruger har altid ret til at indfri lånet før tid og dermed spare yderligere renteudgifter
+
   +	Undtaget pantebreve med pant i fast ejendom
   
-*	Urimelige vilkår kan blive tilsidesat, jf. KAL § 22
+*	Urimelige vilkår kan blive tilsidesat, jf. KAL § 22 eller aftalelovens §§ 38c, jf. 36
 
 
 ### Kreditgiverens oplysningspligt mv.
@@ -12048,11 +12143,11 @@ Ifølge KAL § 33, stk. 2, skal forbrugeren underrettes om en sådan overdragels
 Dette gælder ikke, hvis den oprindelige kreditgiver efter aftale med erhververen fortsat står for kreditten i forhold til forbrugeren. 
 
 I tilfælde af kreditorskifte (ved det efterfølgende trepartsforhold) er reglen en gentagelse af princippet i gældsbrevslovens § 27, men reglen kan – i modsætning til gældsbrevslovens § 27 – ikke fraviges ved aftale. 
-I det oprindelige trepartsforhold, hvor fordringen mod forbrugeren hidrører fra, at en tredjemand efter aftale med sælgeren eller tjenesteyderen har ydet forbrugeren et lån til finansiering af ydelsen, indebærer § 33, stk. 1, en nydannelse i forhold til gældsbrevslovens § 27, idet bestemmelsen sikrer, at forbrugeren over for en sådan tredjemand kan gøre de samme indsigelser gældende, som han kunne mod sælgeren eller tjenesteyderen.
+I det oprindelige trepartsforhold, hvor fordringen mod forbrugeren hidrører fra, at en tredjemand efter aftale med sælgeren eller tjenesteyderen har ydet forbrugeren et lån til finansiering af ydelsen, indebærer § 33, stk. 1, en nydannelse i forhold til gældsbrevslovens § 27, idet bestemmelsen sikrer, at forbrugeren over for en sådan tredjemand kan gøre de samme indsigelser gældende, som forbrugeren kunne mod sælgeren eller tjenesteyderen.
 
 Realindholdet af KAL § 33, stk. 1, er, at der sker en køberetlig identifikation mellem tredjemand og den oprindelige kreditgiver (sælgeren). I lovforarbejderne betegnes trepartsforholdet som sælgers og tredjemands solidariske hæftelse over for forbrugeren.  
 
-Bestemmelsen medfører, at forbrugeren fx i tilfælde, hvor der foreligger forsinkelse eller mangler ved det købte, kan afvise at betale til anden kreditor i samme omfang, som han kunne afvise at betale til sælgeren. Har forbrugeren hævet købet, er han ikke pligtig at betale til anden kreditor. 
+Bestemmelsen medfører, at forbrugeren fx i tilfælde, hvor der foreligger forsinkelse eller mangler ved det købte, kan afvise at betale til anden kreditor i samme omfang, som forbrugeren kunne afvise at betale til sælgeren. Har forbrugeren hævet købet, er forbrugeren ikke pligtig at betale til anden kreditor. 
 
 Efter de almindelige obligationsretlige grundsætninger får forbrugeren ikke en bedre retsstilling over for den finansierende tredjemand, end den forbrugeren havde over for sælgeren. 
 
@@ -12183,7 +12278,7 @@ Det kunne imidlertid også være nærliggende at henvise til, at domstolene ved 
 
 Kravet må efter forholdets natur afhænge af, hvilken løsøregenstand (der fx også omfatter dyr) der er tale om. 
 
-Det er kreditgiveren, der i det enkelte tilfælde må løfte bevisbyrden for, hvilken genstand han har ejendomsforbehold i. 
+Det er kreditgiveren, der i det enkelte tilfælde må løfte bevisbyrden for, hvilken genstand denne har ejendomsforbehold i. 
 
 Et ejendomsforbehold gælder kun for den konkrete genstand, der er taget ejendomsforbehold i. 
 
@@ -12243,7 +12338,7 @@ Begrundelsen for reglen er navnlig, at Kreditkøbsudvalget dels fandt køb med e
 
 Ved at tillade køb med ejendomsforbehold i henhold til kreditaftale med variabelt lånebeløb (kontoaftaler) vanskeliggøres muligheden for at påvirke efterspørgsel og forbrug ved ændringer i kravet til udbetalingens størrelse. 
 
-Bestemmelsen i KAL § 34, stk. 1, nr. 3, udelukker ikke, at en køber kan indgå en aftale om køb med ejendomsforbehold i en forretning, hvor han i forvejen har en kontoaftale; blot skal købet med ejendomsforbehold finansieres efter reglerne om kreditaftaler med fast lånebeløb. 
+Bestemmelsen i KAL § 34, stk. 1, nr. 3, udelukker ikke, at en køber kan indgå en aftale om køb med ejendomsforbehold i en forretning, hvor køberen i forvejen har en kontoaftale; blot skal købet med ejendomsforbehold finansieres efter reglerne om kreditaftaler med fast lånebeløb. 
 
 
 #### Udbetalingskrav på mindst 20 % af kontantprisen
@@ -12273,7 +12368,7 @@ Såfremt kreditor har et dokument, som opfylder kravene i KAL § 36, stk. 1, ide
 1. er underskrevet af forbrugeren og overgivet til den pågældende i genpart og 
 2. indeholder et gyldigt ejendomsforbehold, kan kreditor tage det solgte tilbage ved en umiddelbar fogedforretning.  
 
-Såfremt kreditor ikke er i besiddelse af et sådant dokument, må han på sædvanlig vis først opnå en dom over skyldneren, som i overensstemmelse med KAL § 35 skal lyde på, at kreditor har krav på tilbagetagelse af det solgte.  Er den solgte genstand omfattet af retsplejelovens § 509, stk. 1, eller § 515, stk. 2 (Trangsbeneficiet), kan tilbagetagelse dog ikke ske, jf. KAL § 36, stk. 2. 
+Såfremt kreditor ikke er i besiddelse af et sådant dokument, må kreditor på sædvanlig vis først opnå en dom over skyldneren, som i overensstemmelse med KAL § 35 skal lyde på, at kreditor har krav på tilbagetagelse af det solgte.  Er den solgte genstand omfattet af retsplejelovens § 509, stk. 1, eller § 515, stk. 2 (Trangsbeneficiet), kan tilbagetagelse dog ikke ske, jf. KAL § 36, stk. 2. 
 
 
  
@@ -12458,31 +12553,35 @@ visNetwork(nodes, edges, width = "80%") %>%
 ## Generalklausulen på kautionsforhold
 Om anvendelse af aftalelovens § 36 på kautionsforhold findes en del retspraksis (domme) på området:  
 
-<br>
+
 
 <img src="img/kaution6.png" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-I U 1993.949 V blev en kautionsaftale tilsidesat i medfør af aftalelovens § 36. En 73-årig kvinde K, der var nervesvækket og uden indsigt i økonomiske anliggender, havde over for en sparekasse S påtaget sig selvskyldnerkaution på indtil 100.000 kr. for sin stedsøn P’s ældre og fremtidige gæld til S. Ved kautionsløftets afgivelse var P’s engagement med S nødlidende på grund af overtræk på ca. 124.000 kr. og ville blive opsagt, hvis der ikke blev skaffet yderligere sikkerhed, fx ved kaution. K var ikke af S blevet informeret om P’s engagement og overtrækkene.
+*I U 1993.949 V blev en kautionsaftale tilsidesat i medfør af aftalelovens § 36. En 73-årig kvinde K, der var nervesvækket og uden indsigt i økonomiske anliggender, havde over for en sparekasse S påtaget sig selvskyldnerkaution på indtil 100.000 kr. for sin stedsøn P’s ældre og fremtidige gæld til S. Ved kautionsløftets afgivelse var P’s engagement med S nødlidende på grund af overtræk på ca. 124.000 kr. og ville blive opsagt, hvis der ikke blev skaffet yderligere sikkerhed, fx ved kaution. K var ikke af S blevet informeret om P’s engagement og overtrækkene.*
 
-<br>
+
 
 I dommen U 1994.126 V blev en kautionsforpligtelse ligeledes tilsidesat i medfør af aftalelovens § 36.   
 
-<br>
 
-I dommen U 1997.522 Ø fandtes det ikke urimeligt eller i strid med redelig handlemåde, at et pengeinstitut gjorde en låneaftale gældende, da pengeinstituttet ved et låns oprettelse ikke burde have vidst, at en 18-årig ikke inden overskuelig tid ville kunne betale de månedlige ydelser. Der blev overført godt 170.000 kr. til en bilsælger, uden at banken sikrede sig, at låntager var indforstået hermed. Selvom dette kunne anses som en fejl, fandtes det, under hensyn til at låntager havde indgået en endelig handel og modtaget bilen, ikke urimeligt eller i strid med redelig handlemåde, at pengeinstituttet gjorde aftalen gældende, jf. aftalelovens § 36.
 
-<br>
+*I dommen U 1997.522 Ø fandtes det ikke urimeligt eller i strid med redelig handlemåde, at et pengeinstitut gjorde en låneaftale gældende, da pengeinstituttet ved et låns oprettelse ikke burde have vidst, at en 18-årig ikke inden overskuelig tid ville kunne betale de månedlige ydelser. Der blev overført godt 170.000 kr. til en bilsælger, uden at banken sikrede sig, at låntager var indforstået hermed. Selvom dette kunne anses som en fejl, fandtes det, under hensyn til at låntager havde indgået en endelig handel og modtaget bilen, ikke urimeligt eller i strid med redelig handlemåde, at pengeinstituttet gjorde aftalen gældende, jf. aftalelovens § 36.*
+
+
 
 I dommen U 2010.1628 H: Kautionsaftale delvist tilsidesat efter aftalelovens § 36.
-<br>
+
  
 ## Privat kaution eller erhvervskaution
+
 * Privatkaution stilles typisk af en fysisk person overfor en person eller virksomhed
+
 * Der vil ofte være en nær relation mellem debitor og kautionist
+
 * Erhvervskaution stilles både af fysiske og juridiske personer, men typisk er debitor en virksomhed
-* I vurderingen erhvervskaution eller privat kaution indgår følgende
-parametre (Se figuren nedenfor):
+
+* I vurderingen erhvervskaution eller privat kaution indgår følgendeparametre (Se figuren nedenfor):
+
   + Ejerandel i virksomhed, der kautioneres for
   + Stilling i virksomheden
   + Indsigt i virksomhedens økonomi
@@ -12492,15 +12591,17 @@ parametre (Se figuren nedenfor):
 
 <img src="img/kaution15.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Med hensyn til erhvervskaution i et pengeinstitut følger det af FIL § 47: ”Er der inden for erhvervsforhold stillet kaution for lån ydet af et pengeinstitut, og udebliver låntager med betaling af hovedstol, afdrag eller renter, skal der senest 6 måneder efter de pågældende ydelsers forfaldsdag skriftligt gives meddelelse til enhver af kautionisterne eller til den eller dem af disse, der er bemyndiget til at modtage meddelelsen på samtlige kautionisters vegne. Undladelse heraf medfører, at pengeinstituttet taber sit krav over for kautionisterne, i det omfang disses regreskrav mod låntageren er blevet forringet ved undladelsen.
-§ 48”. 
-<br>
+Med hensyn til erhvervskaution i et pengeinstitut følger det af FIL § 47: *”Er der inden for erhvervsforhold stillet kaution for lån ydet af et pengeinstitut, og udebliver låntager med betaling af hovedstol, afdrag eller renter, skal der senest 6 måneder efter de pågældende ydelsers forfaldsdag skriftligt gives meddelelse til enhver af kautionisterne eller til den eller dem af disse, der er bemyndiget til at modtage meddelelsen på samtlige kautionisters vegne. Undladelse heraf medfører, at pengeinstituttet taber sit krav over for kautionisterne, i det omfang disses regreskrav mod låntageren er blevet forringet ved undladelsen.*
+
+
+
 Skriftlighedskravet kan opfyldes i såvel papirformat som elektronisk format.
 
-Se følgende domme:  
-U 1992 442 (der kunne ikke ses bort fra, at kautionisten ved underretning kunne have gennemført sit regreskrav helt eller delvis mod hovedskyldneren. Finansieringsselskabet var afskåret fra nu at gøre kautionsforpligtelsen gældende).   
+Se følgende domme:
 
-U 1995 77 (da låntagers formue måtte antages at være negativ allerede inden udløbet af seksmånedersfristen, fandtes kautionisternes regreskrav ikke at være forringet ved den undladte underretning, og kautionisterne skulle indfri kautionen).
+*U 1992 442 (der kunne ikke ses bort fra, at kautionisten ved underretning kunne have gennemført sit regreskrav helt eller delvis mod hovedskyldneren. Finansieringsselskabet var afskåret fra nu at gøre kautionsforpligtelsen gældende).*   
+
+*U 1995 77 (da låntagers formue måtte antages at være negativ allerede inden udløbet af seksmånedersfristen, fandtes kautionisternes regreskrav ikke at være forringet ved den undladte underretning, og kautionisterne skulle indfri kautionen).*
 
 
 
@@ -12513,80 +12614,155 @@ U 1995 77 (da låntagers formue måtte antages at være negativ allerede inden u
 
 <img src="img/kaution3.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Der er i FIL § 48 lovbestemmelser vedrørende privatkaution i et pengeinstitut. Herved forstås kaution, der ikke indgår i en erhvervsmæssig relation mellem låntager og kautionist. Er kautionen eksempelvis stillet for en virksomheds gæld af ejeren af virksomheden, vil forholdet ikke være omfattet af bestemmelsen i FIL § 48, men § FIL § 47. Kaution fra ejerens forældre vil derimod være omfattet, da der i dette tilfælde vil være tale om en kaution uden for erhvervsforhold. 
+Der er i FIL § 48 lovbestemmelser vedrørende privatkaution i et pengeinstitut. Herved forstås kaution, der ikke indgår i en erhvervsmæssig relation mellem låntager og kautionist. 
 
-I FIL § 48 er der indsat en forpligtelse til at informere kautionisten, ligesom det er præciseret, hvilke forhold der skal oplyses om, forinden der indgås en aftale om en kautionsforpligtelse. Ved tilstrækkeligt informeret forstås, at informationen skal være udformet, så en kautionist uden for erhvervsforhold har mulighed for at forstå indholdet og konsekvenserne ved at påtage sig kautionsforpligtelsen. Der vil derfor kunne være behov for at supplere en udleveret pjece med yderligere information over for kautionister, der har svært ved at forstå indholdet og konsekvenserne ved en kautionsforpligtelse.
+Er kautionen eksempelvis stillet for en virksomheds gæld af ejeren af virksomheden, vil forholdet ikke være omfattet af bestemmelsen i FIL § 48, men § FIL § 47. 
+
+Kaution fra ejerens forældre vil derimod være omfattet, da der i dette tilfælde vil være tale om en kaution uden for erhvervsforhold. 
+
+I FIL § 48 er der indsat en forpligtelse til at informere kautionisten, ligesom det er præciseret, hvilke forhold der skal oplyses om, forinden der indgås en aftale om en kautionsforpligtelse. 
+
+Ved tilstrækkeligt informeret forstås, at informationen skal være udformet, så en kautionist uden for erhvervsforhold har mulighed for at forstå indholdet og konsekvenserne ved at påtage sig kautionsforpligtelsen. 
+
+Der vil derfor kunne være behov for at supplere en udleveret pjece med yderligere information over for kautionister, der har svært ved at forstå indholdet og konsekvenserne ved en kautionsforpligtelse.
 
 [Se pjecen om privatkaution af december 2017 her.](https://finansdanmark.dk/media/19183/information-om-privat-kaution-og-tredjemandspant.pdf)
 
 
-Informationen kan som tidligere gives ved udlevering af denne pjece til kautionisten, der er udarbejdet i fællesskab mellem Finansrådet (nu Finans Danmark) og ForbrugerrådetTænk, for så vidt angår kaution for lån ydet af pengeinstitutter. Der er dog ikke krav om, at pjecen skal udleveres. Det står således långiver frit for at udarbejde andet informationsmateriale, så længe dette forklarer, hvad en kautionsforpligtelse indebærer og indeholder en afbalanceret beskrivelse af de risici, der er forbundet med at kautionere.
+Informationen kan som tidligere gives ved udlevering af denne pjece til kautionisten, der er udarbejdet i fællesskab mellem Finansrådet (nu Finans Danmark) og ForbrugerrådetTænk, for så vidt angår kaution for lån ydet af pengeinstitutter. 
+
+Der er dog ikke krav om, at pjecen skal udleveres. 
+
+Det står således långiver frit for at udarbejde andet informationsmateriale, så længe dette forklarer, hvad en kautionsforpligtelse indebærer og indeholder en afbalanceret beskrivelse af de risici, der er forbundet med at kautionere.
 
 <img src="img/kaution4.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Der er endvidere indsat regler om, at kautionsforpligtelser, som står i misforhold til kautionistens økonomi, skal kunne tilsidesættes helt eller delvist. Derudover er bestemmelsen udvidet til at omfatte tredjemandspant og realkreditlån, jf. FIL § 53 a. Med hensyn til privatkaution i et pengeinstitut følger det således af FIL § 48, stk. 1, at inden der indgås aftale om en kautionsforpligtelse uden for erhvervsforhold for lån eller kreditter ydet af et pengeinstitut, skal pengeinstituttet sikre sig, at kautionisten er tilstrækkeligt informeret om indholdet af aftalen og konsekvenserne af at påtage sig en kautionsforpligtelse. Denne information skal indeholde oplysninger om, hvad den konkrete kautionsforpligtelse indebærer, og indeholde en afbalanceret beskrivelse af de risici, der er forbundet hermed. Endvidere skal pengeinstituttet for den debitor, hvis gæld kautionsforpligtelsen skal sikre, med samtykke fra debitor udlevere: 
+Der er endvidere indsat regler om, at kautionsforpligtelser, som står i misforhold til kautionistens økonomi, skal kunne tilsidesættes helt eller delvist. 
 
-* Den seneste årsopgørelse fra SKAT, 
+Derudover er bestemmelsen udvidet til at omfatte tredjemandspant og realkreditlån, jf. FIL § 53 a.
+
+Med hensyn til privatkaution i et pengeinstitut følger det således af FIL § 48, stk. 1, at inden der indgås aftale om en kautionsforpligtelse uden for erhvervsforhold for lån eller kreditter ydet af et pengeinstitut, skal pengeinstituttet sikre sig, at kautionisten er tilstrækkeligt informeret om indholdet af aftalen og konsekvenserne af at påtage sig en kautionsforpligtelse. 
+
+Denne information skal indeholde oplysninger om, hvad den konkrete kautionsforpligtelse indebærer, og indeholde en afbalanceret beskrivelse af de risici, der er forbundet hermed. Endvidere skal pengeinstituttet for den debitor, hvis gæld kautionsforpligtelsen skal sikre, med samtykke fra debitor udlevere: 
+
+* Den seneste årsopgørelse fra SKAT,
+
 * De seneste tre lønsedler eller det seneste årsregnskab, hvis der kautioneres for en erhvervsdrivendes gæld.
 
 Samtykke til videregivelse af oplysninger skal afgives i overensstemmelse med kravene i databeskyttelseslovgivningen. 
-<br>
-Et samtykke kan efter databeskyttelsesforordningen både afgives mundtligt, skriftligt og digitalt. Det er endvidere et krav, jf. databeskyttelsesforordningens artikel 7, at den dataansvarlige kan påvise, at den registrerede har givet samtykke til behandlingen af sine personoplysninger. Hvis et pengeinstitut ikke får et samtykke fra debitor til at videregive de nævnte oplysninger, kan instituttet ikke efterleve informationsforpligtelsen efter dette stykke. Hvis instituttet alligevel indgår en kautionsaftale, beror det på en vurdering efter FIL § 48, stk. 2, om kautionsforpligtelsen kan gøres gældende.
-<br>
+
+Et samtykke kan efter databeskyttelsesforordningen både afgives mundtligt, skriftligt og digitalt. 
+
+Det er endvidere et krav, jf. databeskyttelsesforordningens artikel 7, at den dataansvarlige kan påvise, at den registrerede har givet samtykke til behandlingen af sine personoplysninger. 
+
+Hvis et pengeinstitut ikke får et samtykke fra debitor til at videregive de nævnte oplysninger, kan instituttet ikke efterleve informationsforpligtelsen efter dette stykke. 
+
+Hvis instituttet alligevel indgår en kautionsaftale, beror det på en vurdering efter FIL § 48, stk. 2, om kautionsforpligtelsen kan gøres gældende.
+
 Et pengeinstitut, som ikke har overholdt FIL § 48, stk. 1, kan kun gøre kautionsforpligtelsen gældende, såfremt kautionisten på anden vis har haft et forsvarligt grundlag for at bedømme de risici, der var forbundet med at indgå kautionsforpligtelsen, jf. FIL § 48, stk. 2. 
-<br>
-Det beror på en konkret vurdering, om kautionisten har haft et forsvarligt grundlag for at bedømme de risici, der er forbundet med at indgå kautionsforpligtelsen. Er der tvivl om, hvorvidt kautionisten har haft et forsvarligt grundlag for at bedømme de risici, der er forbundet med at indgå kautionsforpligtelsen, vil reglen føre til, at kautionsaftalen bliver tilsidesat. Udleverer et pengeinstitut f.eks. kun den 4., 3. og næstsidste lønseddel, men ikke den seneste lønseddel, vil der dog næppe ske tilsidesættelse af kautionsaftalen, medmindre de udeladte oplysninger har indeholdt oplysninger om, at debitors økonomiske situation er blevet forringet, og at kautionisten derved er blevet frataget et forsvarligt grundlag for at bedømme de risici, der er forbundet med at indgå kautionsforpligtelsen. Hvis der derimod slet ikke er udleveret nogen af de i stk. 1 anførte oplysninger, vil det som udgangspunkt være vanskeligt at føre bevis for, at kautionisten har haft et forsvarligt grundlag for at bedømme de risici, der er forbundet med kautionsforpligtelsen. I disse tilfælde må kautionsforpligtelsen derfor forventes tilsidesat.
-<br>
+
+Det beror på en konkret vurdering, om kautionisten har haft et forsvarligt grundlag for at bedømme de risici, der er forbundet med at indgå kautionsforpligtelsen. 
+
+Er der tvivl om, hvorvidt kautionisten har haft et forsvarligt grundlag for at bedømme de risici, der er forbundet med at indgå kautionsforpligtelsen, vil reglen føre til, at kautionsaftalen bliver tilsidesat. Udleverer et pengeinstitut f.eks. kun den 4., 3. og næstsidste lønseddel, men ikke den seneste lønseddel, vil der dog næppe ske tilsidesættelse af kautionsaftalen, medmindre de udeladte oplysninger har indeholdt oplysninger om, at debitors økonomiske situation er blevet forringet, og at kautionisten derved er blevet frataget et forsvarligt grundlag for at bedømme de risici, der er forbundet med at indgå kautionsforpligtelsen. 
+
+Hvis der derimod slet ikke er udleveret nogen af de i stk. 1 anførte oplysninger, vil det som udgangspunkt være vanskeligt at føre bevis for, at kautionisten har haft et forsvarligt grundlag for at bedømme de risici, der er forbundet med kautionsforpligtelsen. 
+
+I disse tilfælde må kautionsforpligtelsen derfor forventes tilsidesat.
+
 
 <img src="img/kaution5.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-<br>
-Kautionsaftaler efter FIL § 48, stk. 1 skal udfærdiges på papir eller andet varigt medium for at kunne gøres gældende, jf. FIL § 48, stk. 3. Ved varigt medium forstås i overensstemmelse med § 4, nr. 13, i kreditaftaleloven en indretning, som sætter forbrugeren i stand til at lagre oplysninger rettet til forbrugeren personligt på en måde, der muliggør senere søgning i et tidsrum, som er afpasset efter oplysningernes formål, og som giver mulighed for uændret gengivelse af de lagrede oplysninger.
-<br>
-En kautionist kan ikke hæfte for et beløb, der er større end lånets hovedstol eller kredittens maksimum ved kautionsaftalens indgåelse., jf. FIL § 48, stk. 4. Bestemmelsen medfører, at der kun kan stilles kaution for fordringer med et maksimum, og sætter således en begrænsning for anvendelsen af alskyldserklæringer.
-<br>
-Ved kautionsaftaler efter FIL § 48, stk. 1 skal pengeinstituttet årligt skriftligt meddele kautionisten størrelsen af den gældspost, som kautionen er stillet til sikkerhed for, jf. FIL § 48, stk. 5. Meddelelsen er en undtagelse til reglerne om tavshedspligt i FIL § 117.
-<br>
-Hvis låntageren udebliver med betaling af hovedstol, afdrag eller renter, skal der senest 3 måneder efter de pågældende ydelsers forfaldsdag gives meddelelse herom til kautionisten på papir eller andet varigt medium. 1. pkt. finder tilsvarende anvendelse, hvis pengeinstituttet giver låntageren henstand, uden at kautionisten har givet samtykke hertil, jf. FIL § 48, stk. 6. Underretningspligten indtræder, når låntager har været i restance gennem en sammenhængende periode ved lån med en aftalt afdragsordning og ved kassekreditter, når der igennem en sammenhængende periode på 3 måneder har været ikke bevilgede overtræk. Underretningspligten indtræder således, uanset om låntager har foretaget indbetalinger efter tidspunktet for overtrækkets henholdsvis restancens indtræden og for så vidt angår lån, skal restancen således ikke udgøre et beløb svarende til 3 måneders ydelser. 
-<br>
-I modsætning til reglen i FIL § 47 om kaution inden for erhvervsforhold er det ikke muligt at give meddelelsen til »den eller dem af disse, der er bemyndiget til at modtage meddelelsen på disse kautionisters vegne«. Hvis der er flere kautionister, skal der som udgangspunkt gives meddelelse til hver af kautionisterne. Dette udelukker dog ikke, at meddelelse kan gives til andre, hvor der er en rimelig begrundelse herfor, eksempelvis hvis en blandt flere kautionister har bopæl i udlandet. Bestemmelsen i FIL § 48, stk. 6 in fine indebærer, at der, som det antages i gældende ret, ikke kan lægges vægt på en generel forhåndstilladelse til at indrømme henstand, der er indeholdt i kautionsaftalen.
-<br>
+
+Kautionsaftaler efter FIL § 48, stk. 1 skal udfærdiges på papir eller andet varigt medium for at kunne gøres gældende, jf. FIL § 48, stk. 3. 
+
+Ved varigt medium forstås i overensstemmelse med § 4, nr. 13, i kreditaftaleloven en indretning, som sætter forbrugeren i stand til at lagre oplysninger rettet til forbrugeren personligt på en måde, der muliggør senere søgning i et tidsrum, som er afpasset efter oplysningernes formål, og som giver mulighed for uændret gengivelse af de lagrede oplysninger.
+
+En kautionist kan ikke hæfte for et beløb, der er større end lånets hovedstol eller kredittens maksimum ved kautionsaftalens indgåelse., jf. FIL § 48, stk. 4. 
+
+Bestemmelsen medfører, at der kun kan stilles kaution for fordringer med et maksimum, og sætter således en begrænsning for anvendelsen af alskyldserklæringer.
+
+Ved kautionsaftaler efter FIL § 48, stk. 1 skal pengeinstituttet årligt skriftligt meddele kautionisten størrelsen af den gældspost, som kautionen er stillet til sikkerhed for, jf. FIL § 48, stk. 5. 
+
+Meddelelsen er en undtagelse til reglerne om tavshedspligt i FIL § 117.
+
+Hvis låntageren udebliver med betaling af hovedstol, afdrag eller renter, skal der senest 3 måneder efter de pågældende ydelsers forfaldsdag gives meddelelse herom til kautionisten på papir eller andet varigt medium. 1. pkt. finder tilsvarende anvendelse, hvis pengeinstituttet giver låntageren henstand, uden at kautionisten har givet samtykke hertil, jf. FIL § 48, stk. 6. 
+
+Underretningspligten indtræder, når låntager har været i restance gennem en sammenhængende periode ved lån med en aftalt afdragsordning og ved kassekreditter, når der igennem en sammenhængende periode på 3 måneder har været ikke bevilgede overtræk. Underretningspligten indtræder således, uanset om låntager har foretaget indbetalinger efter tidspunktet for overtrækkets henholdsvis restancens indtræden og for så vidt angår lån, skal restancen således ikke udgøre et beløb svarende til 3 måneders ydelser. 
+
+I modsætning til reglen i FIL § 47 om kaution inden for erhvervsforhold er det ikke muligt at give meddelelsen til »den eller dem af disse, der er bemyndiget til at modtage meddelelsen på disse kautionisters vegne«. Hvis der er flere kautionister, skal der som udgangspunkt gives meddelelse til hver af kautionisterne. 
+
+Dette udelukker dog ikke, at meddelelse kan gives til andre, hvor der er en rimelig begrundelse herfor, eksempelvis hvis en blandt flere kautionister har bopæl i udlandet. 
+
+Bestemmelsen i FIL § 48, stk. 6 in fine indebærer, at der, som det antages i gældende ret, ikke kan lægges vægt på en generel forhåndstilladelse til at indrømme henstand, der er indeholdt i kautionsaftalen.
+
 <img src="img/kaution2.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-<br>
-Overskrides fristen i FIL § 48, stk. 6, kan kautionsforpligtelsen kun gøres gældende over for kautionisten for det beløb, som låntagerens gæld efter den sikrede fordring ville have udgjort, hvis låntageren havde betalt alle ydelser rettidigt indtil det tidspunkt, som ligger 3 måneder forud for det tidspunkt, hvor meddelelse gives, jf. FIL § 48, stk. 7. Fristen regnes fra kautionistens modtagelse af underretningen. Det er ikke et krav, at kautionisten kan påvise et tab som følge af manglende overholdelse af fristen. Hvis eksempelvis et pengeinstitut har et misligholdt lån, hvor der mangler ydelser fra en 8 måneders periode inden fremkomst af meddelelsen efter stk. 6, kan pengeinstituttet ikke kræve renter, afdrag, gebyrer o. lign., der skulle have været betalt i de 5 måneder inden perioden på 3 måneder. Kautionisten vil stadig skulle hæfte for den resterende hovedstol.
-<br>
-Overskridelse af fristen i FIL § 48, stk. 6 medfører uanset § 48, stk. 7, at pengeinstituttet taber sit krav over for kautionisten, i det omfang dennes regreskrav mod låntageren er blevet forringet, jf. FIL § 48, stk. 8. Dette medfører, at kautionsforpligtelsen kan nedsættes yderligere end efter FIL § 48, stk. 7.
 
-En kautionsforpligtelse efter FIL § 48, stk. 1 bortfalder efter 10 år eller, hvis kautionsaftalen er indgået til sikkerhed for en kredit med variabelt beløb eller for et lån uden fast forfaldstidspunkt, efter 5 år, medmindre forpligtelsen forinden er gjort gældende af pengeinstituttet. 1. pkt. finder ikke anvendelse på lån, der efter deres vilkår kan finansieres ved udstedelse af særligt dækkede obligationer (også for lån ydet af realkreditinstitutter, jf. § 53 a.), såfremt kautionisten udtrykkeligt er oplyst herom og om virkningen heraf, jf. FIL § 48, stk. 9. Det vil sige, at kautionisten skal oplyses om, at lånet er finansieret på den nævnte måde, og at dette betyder, at den tidsmæssige begrænsning af kautionsforpligtelsen ikke finder anvendelse.
-<br>
-Er kautionen stillet for flere fordringer af forskellig karakter, vil kautionsdækningen af de enkelte fordringer bortfalde på forskellige tidspunkter. Tidsbegrænsningen regnes fra kautionsaftalens indgåelse. Efter udløb af en kautionsaftale er det muligt at aftale en forlængelse af kautionen ved at iagttage de krav, der gælder i forbindelse med en kautionsaftales indgåelse, jf. § 48, stk. 1. Den fastsatte tidsbegrænsning omfatter ikke tilfælde, hvor anden lovgivning har forudsat eller foreskriver kautionsaftaler, der løber længere tid end foreskrevet i dette stykke. Bestemmelsen berører ikke reglerne om forældelse i forældelsesloven. Forældelsesreglerne finder anvendelse, når kravet efter kautionsløftet forfalder. Når en fordring er sikret ved kaution, bestemmes forældelsesfristen over for kautionisten efter de regler, der gælder for forældelse af fordringen mod hovedskyldneren jf. § 11 i forældelsesloven. 
+Overskrides fristen i FIL § 48, stk. 6, kan kautionsforpligtelsen kun gøres gældende over for kautionisten for det beløb, som låntagerens gæld efter den sikrede fordring ville have udgjort, hvis låntageren havde betalt alle ydelser rettidigt indtil det tidspunkt, som ligger 3 måneder forud for det tidspunkt, hvor meddelelse gives, jf. FIL § 48, stk. 7. 
 
-<br>
+Fristen regnes fra kautionistens modtagelse af underretningen. Det er ikke et krav, at kautionisten kan påvise et tab som følge af manglende overholdelse af fristen. 
 
-En aftale om en kautionsforpligtelse efter FIL § 48, stk. 1 kan tilsidesættes helt eller delvis, hvis den står i misforhold til kautionistens økonomi, jf. FIL § 48, stk. 10.
-<br>
-Ved vurderingen af, om en kaution står i misforhold til kautionistens økonomi, skal der foretages en vurdering af både kautionistens formue og betalingsevne. Denne vurdering skal som udgangspunkt foretages på baggrund af forholdene på tidspunktet for kautionens påtagelse. Hvis kautionisten kun har beskedne indtægter, bør der kun lægges vægt på formueforholdene. Der skal kun i særlige tilfælde tages hensyn til efterfølgende ændringer i kautionistens økonomi. 
-<br>
+Hvis eksempelvis et pengeinstitut har et misligholdt lån, hvor der mangler ydelser fra en 8 måneders periode inden fremkomst af meddelelsen efter stk. 6, kan pengeinstituttet ikke kræve renter, afdrag, gebyrer o. lign., der skulle have været betalt i de 5 måneder inden perioden på 3 måneder. Kautionisten vil stadig skulle hæfte for den resterende hovedstol.
+
+Overskridelse af fristen i FIL § 48, stk. 6 medfører uanset § 48, stk. 7, at pengeinstituttet taber sit krav over for kautionisten, i det omfang dennes regreskrav mod låntageren er blevet forringet, jf. FIL § 48, stk. 8. 
+
+Dette medfører, at kautionsforpligtelsen kan nedsættes yderligere end efter FIL § 48, stk. 7.
+
+En kautionsforpligtelse efter FIL § 48, stk. 1 bortfalder efter 10 år eller, hvis kautionsaftalen er indgået til sikkerhed for en kredit med variabelt beløb eller for et lån uden fast forfaldstidspunkt, efter 5 år, medmindre forpligtelsen forinden er gjort gældende af pengeinstituttet. 1. pkt. finder ikke anvendelse på lån, der efter deres vilkår kan finansieres ved udstedelse af særligt dækkede obligationer (også for lån ydet af realkreditinstitutter, jf. § 53 a.), såfremt kautionisten udtrykkeligt er oplyst herom og om virkningen heraf, jf. FIL § 48, stk. 9. 
+
+Det vil sige, at kautionisten skal oplyses om, at lånet er finansieret på den nævnte måde, og at dette betyder, at den tidsmæssige begrænsning af kautionsforpligtelsen ikke finder anvendelse.
+
+Er kautionen stillet for flere fordringer af forskellig karakter, vil kautionsdækningen af de enkelte fordringer bortfalde på forskellige tidspunkter. 
+
+Tidsbegrænsningen regnes fra kautionsaftalens indgåelse. Efter udløb af en kautionsaftale er det muligt at aftale en forlængelse af kautionen ved at iagttage de krav, der gælder i forbindelse med en kautionsaftales indgåelse, jf. § 48, stk. 1. 
+
+Den fastsatte tidsbegrænsning omfatter ikke tilfælde, hvor anden lovgivning har forudsat eller foreskriver kautionsaftaler, der løber længere tid end foreskrevet i dette stykke. Bestemmelsen berører ikke reglerne om forældelse i forældelsesloven. Forældelsesreglerne finder anvendelse, når kravet efter kautionsløftet forfalder. 
+
+Når en fordring er sikret ved kaution, bestemmes forældelsesfristen over for kautionisten efter de regler, der gælder for forældelse af fordringen mod hovedskyldneren jf. § 11 i forældelsesloven. 
+
+
+
+E*n aftale om en kautionsforpligtelse efter FIL § 48, stk. 1 kan tilsidesættes helt eller delvis, hvis den står i misforhold til kautionistens økonomi, jf. FIL § 48, stk. 10.*
+
+Ved vurderingen af, om en kaution står i misforhold til kautionistens økonomi, skal der foretages en vurdering af både kautionistens formue og betalingsevne. 
+
+Denne vurdering skal som udgangspunkt foretages på baggrund af forholdene på tidspunktet for kautionens påtagelse. 
+
+Hvis kautionisten kun har beskedne indtægter, bør der kun lægges vægt på formueforholdene. Der skal kun i særlige tilfælde tages hensyn til efterfølgende ændringer i kautionistens økonomi. 
+
 Fremtidige, kendte indtægtsstigninger kan indgå i vurderingen sammen med kendte mærkbare formueforøgelser inden for rimelig tid efter påtagelsen af kautionsforpligtelsen. 
 
-<br>
+
 
 Ved kautionister med større indtægter eller ved forventninger om større indtægtsstigninger, bør de fremtidige indtægter og indtægtsforventninger indgå i vurderingen af, om kautionen står i misforhold til kautionistens økonomi. I sådanne tilfælde vil der kunne lægges mindre vægt på kautionistens formue. 
 
-Ved vurderingen af, om der er et »misforhold«, skal der ses på kautionistens reelle risiko ved kautionen, dvs. hvad kautionsforpligtelsen reelt dækker over. Ved denne vurdering kan indgå værdien af eventuelle pantesikkerheder eller øvrige sikkerheder, der er stillet af hovedskyldneren til sikkerhed for den kautionssikrede fordring. 
-<br>
-Der kan endvidere efter omstændighederne lægges vægt på sikkerheder, herunder kautioner, stillet af tredjemand. Også her ses der som udgangspunkt på forholdene på tidspunktet for kautionsaftalens indgåelse. Der skal kun i særlige tilfælde tages hensyn til efterfølgende ændringer i værdien af pantsikkerheder.
+Ved vurderingen af, om der er et »misforhold«, skal der ses på kautionistens reelle risiko ved kautionen, dvs. hvad kautionsforpligtelsen reelt dækker over. 
 
-<br>
+Ved denne vurdering kan indgå værdien af eventuelle pantesikkerheder eller øvrige sikkerheder, der er stillet af hovedskyldneren til sikkerhed for den kautionssikrede fordring. 
 
-Vurderingen efter bestemmelsen sker som udgangspunkt alene på baggrund af forholdene mellem kreditor, debitor og kautionist. Der tages således kun hensyn til, at kautionisten har påtaget sig kautions-, pantsætnings- eller debitorforpligtelser over for andre kreditorer, hvis kreditor kender til sådanne forpligtelser. Generalklausulen i aftalelovens §§ 36 og 38 c vil herudover forsat kunne bringes i anvendelse i øvrigt i forhold til kautionsforpligtelser.
+Der kan endvidere efter omstændighederne lægges vægt på sikkerheder, herunder kautioner, stillet af tredjemand. 
 
-<br>
+Også her ses der som udgangspunkt på forholdene på tidspunktet for kautionsaftalens indgåelse. 
+
+Der skal kun i særlige tilfælde tages hensyn til efterfølgende ændringer i værdien af pantsikkerheder.
+
+
+
+Vurderingen efter bestemmelsen sker som udgangspunkt alene på baggrund af forholdene mellem kreditor, debitor og kautionist. 
+
+Der tages således kun hensyn til, at kautionisten har påtaget sig kautions-, pantsætnings- eller debitorforpligtelser over for andre kreditorer, hvis kreditor kender til sådanne forpligtelser. 
+
+Generalklausulen i aftalelovens §§ 36 og 38 c vil herudover forsat kunne bringes i anvendelse i øvrigt i forhold til kautionsforpligtelser.
+
+
 
 FIL § 48, stk. 1-10 finder tilsvarende anvendelse på tredjemandspant uden for erhvervsforhold, jf. FIL § 48, stk. 11.
 
-<br>
 
-Tredjemandspant stillet af en privatperson minder på flere punkter om privat kaution. Både ved kaution og tredjemandspant er der tale om, at en fordringshaver opnår sikkerhed for en fordring ved, at en tredjemand afgiver et løfte om at indestå for, at skylderens forpligtelse opfyldes. I modsætning til kaution hæfter en tredjemandspantsætter dog ikke personligt for den sikrede fordring, men derimod kun med det stillede pant, medmindre andet er aftalt.
+
+Tredjemandspant stillet af en privatperson minder på flere punkter om privat kaution. 
+
+Både ved kaution og tredjemandspant er der tale om, at en fordringshaver opnår sikkerhed for en fordring ved, at en tredjemand afgiver et løfte om at indestå for, at skylderens forpligtelse opfyldes. 
+
+I modsætning til kaution hæfter en tredjemandspantsætter dog ikke personligt for den sikrede fordring, men derimod kun med det stillede pant, medmindre andet er aftalt.
 
 
   
@@ -12596,17 +12772,23 @@ Speak23
 ## Oplysningspligt
 
 <img src="img/kaution7.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-<br>
+
 * Krav om at Finansielle virksomheder giver oplysninger til private kautionister (tilsvarende regler for tredjemandspant), jf. FIL § 48 om:
-<br>
+
 * Hvad en kautionsforpligtelse indebærer
+
 * Beskrivelse af risikoen
+
 * Låntagers økonomi
+
   + Årsopgørelser fra Skat
   + Lønsedler
   + Evt. årsregnskab
+  
 * Låntagers gæld til den finansielle virksomhed
+
 * Gennemgå pjece om kaution
+
 * Kautionen må ikke stå i misforhold til kautionisten økonomi
 
 Hvis oplysningspligten ikke er overholdt kan kautionen   eventuelt tilsidesættes efter FIL § 48, stk. 2
@@ -12615,14 +12797,21 @@ Hvis oplysningspligten ikke er overholdt kan kautionen   eventuelt tilsidesætte
 ## Kautionens indhold
 
 * Hvornår kautionen kan gøres gældende afhænger af kautionstypen:
-  + Simpel kaution – når det er dokumenteret at debitor ikke kan  
+
+  + Simpel kaution – når det er dokumenteret, at debitor ikke kan
   betale lånet
+  
   + Selvskyldnerkaution – når debitor har misligholdt lånet
+  
   + Tabskaution – efter udtømmende retsforfølgning
+  
 * Hvilket beløb kautionen kan gøres gældende for afhænger af 
   kautionstypen:
+  
   + Alskyld – for hele lånet
+  
   + Begrænset kaution – for et maksimalt beløb
+  
   + Delkaution – for en bestemt del af lånet
 
 (Se figuren nedenfor)
@@ -12671,11 +12860,11 @@ mydf %>%
 ## Pantesikkerhed eller kaution
 
 Hvis en person eller bank skal yde et lån, er det ofte en forudsætning, at låntager kan stille sikkerhed for gældens tilbagebetaling.
-<br>
+
 Helt grundlæggende findes der to former for sikkerhed. 
-<br>
+
 Pantesikkerhed betyder, at låntager eller en tredjemand stiller sikkerhed ved at give långiver pant i en genstand af værdi (f.eks. fast ejendom), der kan tvangssælges via fogedretten, hvis låntager ikke tilbagebetaler lånet som aftalt.
-<br>
+
 Kaution betyder, at låntager stiller sikkerhed for lånets tilbagebetaling ved at anvise én eller flere kautionister, der hæfter for gældens betaling sammen med låntager.
 
 Der findes forskellige former for hæftelse og kautioner, som vil blive beskrevet i det følgende.
@@ -12701,12 +12890,13 @@ Der vil være solidarisk hæftelse mellem to kautionister, hvis ikke andet er af
 Der findes to former for solidarisk hæftelse - fuldstændig solidarisk hæftelse og delvis solidarisk hæftelse.
 
 ### Fuldstændig solidarisk hæftelse
-<br>
+
 Ved fuldstændig solidarisk hæftelse hæfter kautionisterne for hele gælden i fællesskab.
 
 Långiver kan kræve hele gælden betalt af enhver af kautionisterne, men långiver kan naturligvis ikke samlet kræve mere end det samlede skyldige beløb.
 
-Delvis solidarisk hæftelse
+**Delvis solidarisk hæftelse:**
+
 Ved delvis solidarisk hæftelse hæfter flere kautionister alene for en del af den samlede gæld.
 
 Eksempelvis kan det være aftalt, at to kautionister hæfter for 50.000 kr. af en samlet gæld på 100.000 kr.
@@ -12720,7 +12910,10 @@ Dette er ikke tilfældet ved pro rata hæftelse, hvor hver enkelt kautionist hæ
 ## Simpel kaution eller selvskyldnerkaution
 
 <img src="img/kaution8.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-Selvskyldnerkaution er den strengeste form for kaution set fra kautionistens synspunkt. Selvskyldnerkaution indebærer, at kautionisten hæfter allerede fra den dag, hvor låntageren misligholder sin betalingsforpligtelse.
+
+Selvskyldnerkaution er den strengeste form for kaution set fra kautionistens synspunkt. 
+
+Selvskyldnerkaution indebærer, at kautionisten hæfter allerede fra den dag, hvor låntageren misligholder sin betalingsforpligtelse.
 
 Hvis kravet ikke er betalt, kan långiver allerede fra forfaldsdagen kræve betaling fra kautionisterne uden at dokumentere, at låntager er insolvent og derfor ikke kan betale gælden.
 
@@ -12731,6 +12924,7 @@ Simpel kaution finder anvendelse, medmindre andet er aftalt eller følger af lov
 Professionelle långivere som banker vil imidlertid normalt kræve, at en kaution stilles som selvskyldnerkaution.
 
 ## Privat kaution for lån i pengeinstitutter
+
 Hvis en privatperson kautionerer for en anden privatperson eller en erhvervsvirksomhed for et lån i et pengeinstitut gælder der nogle særlige beskyttelsesregler.
 
 Der er bl.a. nogle krav til hvilke informationer en privat kautionist skal have både før man kautionerer og under lånets løbetid. Desuden er der grænser for hvor længe en kaution stillet af en privat kautionist kan løbe, og pengeinstituttet skal sikre, at kautionsaftalen ikke står i misforhold til kautionistens økonomi.
@@ -12869,7 +13063,6 @@ visNetwork(nodes, edges, width = "80%") %>%
 ## Kautionistens krav på låntager
 
 
-  
 <img src="img/kaution9.png" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 <br> 
 * Når kautionisten har betalt kreditor det skyldige beløb, har kautionisten regresret overfor debitor
@@ -12880,34 +13073,52 @@ visNetwork(nodes, edges, width = "80%") %>%
 
 
 ## Regresret
-Låntager fritages ikke fra sin gæld, fordi én af kautionisterne indbetaler de skyldige penge til långiver. Låntager er nemlig forpligtet til at betale gælden til de kautionister, der har betalt de skyldige penge til långiver. Kautionisterne har såkaldt regres over for låntager.
 
-Det er ikke kun fra låntager en kautionist kan kræve betaling. Hvis der er flere kautionister, og de hæfter solidarisk, er det også muligt at kræve betaling fra de øvrige kautionister, der hæfter for den samme del af gælden. Hvis ikke andet er aftalt vil man gå ud fra, at to kautionister skal bære kravet 50/50.
+Låntager fritages ikke fra sin gæld, fordi én af kautionisterne indbetaler de skyldige penge til långiver. 
+
+Låntager er nemlig forpligtet til at betale gælden til de kautionister, der har betalt de skyldige penge til långiver. 
+
+Kautionisterne har såkaldt regres over for låntager.
+
+Det er ikke kun fra låntager en kautionist kan kræve betaling. 
+
+Hvis der er flere kautionister, og de hæfter solidarisk, er det også muligt at kræve betaling fra de øvrige kautionister, der hæfter for den samme del af gælden. 
+
+Hvis ikke andet er aftalt vil man gå ud fra, at to kautionister skal bære kravet 50/50.
 
 Hvis kautionist A hæfter for 50.000 kr. af en gæld på 100.000 kr. sammen med kautionist B, og kautionist A indbetaler 50.000 kr. til långiver, kan kautionist A kræve 25.000 kr. fra kautionist B.
 
 Herefter kan kautionist A og B kræve 25.000 kr. hver fra låntager (Se figuren nedenfor).
 
-Det viser sig dog ofte særdeles svært at få penge fra den misligholdende låntager, da låntagers misligholdelse ofte skyldes insolvens. På samme måde viser det sig ofte at det ikke er alle kautionister, der faktisk har mulighed for at betale. 
+Det viser sig dog ofte særdeles svært at få penge fra den misligholdende låntager, da låntagers misligholdelse ofte skyldes insolvens. 
+
+På samme måde viser det sig ofte at det ikke er alle kautionister, der faktisk har mulighed for at betale. 
 
 
   
 ## Hvad nu hvis kautionisten dør?
+
   <img src="img/kaution10.png" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Min mand har kautioneret for sin datter. Overtager jeg denne forpligtelse ved min mands død ?
-Med venlig hilsen X
+---
+
+**Eksempel**:
+
+"Min mand har kautioneret for sin datter. Overtager jeg denne forpligtelse ved min mands død ?
+Med venlig hilsen X"
+
+**Svar fra advokaten:**
 
 Hvis kautionsforpligtelsen stadig er gældende, når din mand afgår ved døden, vil kreditor anmelde kravet i dødsboet efter din mand. De gældsforpligtelser, som din mand har på dødsfaldstidspunktet, overtager du ikke, med mindre du vælger at sidde i uskiftet bo.
-
-Gældsforpligtelserne skal som udgangspunkt indfries i forbindelse med bobehandlingen. Da din mand har kautioneret over for sin datter, vil der måske være mulighed for, at din datter som en del af sin arv efter sin far udtager kautionsforpligtelsen.
+Gældsforpligtelserne skal som udgangspunkt indfries i forbindelse med bobehandlingen. 
+Da din mand har kautioneret over for sin datter, vil der måske være mulighed for, at din datter som en del af sin arv efter sin far udtager kautionsforpligtelsen.
 
 Hermed menes, at kautionsforpligtelsen indfries af den del af arven, som tilkommer datteren. Hvis boet efter din mand viser sig at være insolvent (negativ nettoformue), vil kreditor i henhold til kautionsforpligtelsen ikke kunne rette kravet mod dig som det længstlevende ægtefælle. Kreditor vil alene kunne rette kravet mod datteren.
 
 Med venlig hilsen
 Advokat Y
 
-<br>
+---
 
 ## Anvendelse af kautionsforhold i pengeinstitutterne
 
@@ -12928,17 +13139,17 @@ Desværre er der ikke prinsesseudstyr i pakken, men i stedet udstyr til en føds
 
 Hvilke muligheder har Peter for at fortryde sit køb eller gøre misligholdelsesbeføjelser gældenden imod Temafesten? (20%)
 
-**Løsning:**
+**Vejledenden løsning:**
 
 Læringsmål: Anvende og formidle juridiske regler og praksis for forbrugeraftalers indgåelse og ugyldighed i relation til forskellige finanselle aftaler. Viden om grundlæggende regler om køb med henblik på at lette forståelsen for andre juridiske områder.
 
-Svar: Der er tale om en distanceaftale med en forbruger, jf. forbrugeraftalelovens (FBL) § 3. 1), men da fristen herfor, i FBL § 19, er sprunget, er det for sent at fortryde købet. 
+**Svar:** Der er tale om en distanceaftale med en forbruger, jf. forbrugeraftalelovens (FBL) § 3. 1), men da fristen herfor, i FBL § 19, er sprunget, er det for sent at fortryde købet. 
 
 Med henvisning til almindelige køberetlige betragtninger, er varen imidlertid mangelfuld, og da sælger ikke er i stand til hverken at tilbyde udbedring eller omlevering, og da manglen ikke er uvæsentlig, må aftalen kunne hæves jf. KL (konkursloven) § 78.
 
 Da læringsmålene i relation til spørgsmålet i relation til købeloven er begrænset til en generel viden om principperne bag misligholdelsesbeføjelserne i relation til mangler, kan der ikke kræves udtømmende svar med paragrafhenvisninger. Besvareler der afspejler en generel forståelse for de bagved liggende hensyn og principper skal belønnes.
 
-Svar slut.
+**Svar slut**.
 
 ---
 
@@ -12950,7 +13161,7 @@ Han går i stedet i en hobbyforretning og køber papir, glimmer, palletter, lim 
 
 2. Kan Peter få refunderet hele eller dele af udgifterne til materialerne til prinsessefesten af TEMAFESTEN? (5%)
 
-**Løsning:**
+**Vejledende løsning:**
 
 Læringsmål Viden om grundlæggende regler om køb med henblik på at lette forståelsen for andre juridiske områder. Anvende og vurdere de grundlæggende erstatningsbetingelser ved erstatning uden for kontrakt, for derigennem at kunne vurdere reglerne for rådgivnings- og professionsansvar inden for den finansielle sektor.
 
@@ -12958,7 +13169,7 @@ Svar: I det omfang misligholdelsen har påført Peter et tab kan han søge dette
 
 Da læringsmålene i relation til købeloven er begrænset til en generel viden om principperne, kan der ikke kræves udtømmende svar med paragrafhenvisninger mv. Besvareler der afspejler en generel forståelse for de bagved liggende hensyn og principper skal belønnes.
 
-Svar slut.
+**Svar slut**.
 
 ---
 
@@ -12974,7 +13185,7 @@ Herefter kontakter Peter en advokat for at få rådgivning om hvordan beløbet k
 
 3. Hvilken rådgivning skal advokaten give ham? (10%)
 
-**Løsning:**
+**Vejledende løsning:**
 
 Læringsmål: Udviklingsbaseret viden om anvendt teori og metoder indenfor regler og praksis for individuel kreditorforfølgning og gældssanering.
 
@@ -12982,7 +13193,7 @@ Svar: Advokaten skal fortælle Peter, at der skal indledes en individuel kreditf
 
 Da læringsmålet her kun er på niveauet for viden kan der ikke forventes besvarelser med detaljeret redegørelse for de forskellige uden- og indenretlige skridt og muligheder mv. Besvareler der afspejler en generel forståelse for de bagved liggende hensyn og principper skal belønnes.
 
-Svar slut.
+**Svar slut**.
 
 
 ---
@@ -12993,13 +13204,13 @@ Peter beslutter sig for, at advokaten skal forsøge at inddrive pengene for ham.
 
 4. Hvilken stilling har Peters tilgodehavende i TEMAFESTENs konkursbo og hvad betyder det for Peters mulighed for at få sit tilgodehavende tilbage? (15%)
 
-**Løsning:**
+**Vejledende løsning:**
 
 Læringsmål: Anvende relevante regler om konkurs og rekonstruktion og vurdere deres betydning for den finansielle sektors risiko- og kreditvurdering.
 
 Svar: Peter er separatist jf. KL § 82. Kravet indgår derfor ikke i konkursmassen, og pengene skal udbetales, forud for alle andre krav. Der er således normalt gode udsigter til at få pengene tilbage. Overvejelser omkring vanskeligheder med at udtage et pengebeløb, hvis det viser sig ikke at være til stede i virksomheden bør honoreres. Det gælder også svar, som demonstrerer en generel forståelse af emnet.
 
-Svar slut.
+**Svar slut**.
 
 ---
 
@@ -13009,17 +13220,17 @@ Kurator i TEMAFESTENS konkursbo mener, at tilbagebetalingen af 1.015 kr. for mon
 
 5. Har kuratoren ret? (15%) 
 
-Løsning:
+**Vejledende løsning**:
 
 Læringsmål: Anvende relevante regler om konkurs og rekonstruktion og vurdere deres betydning for den finansielle sektors risiko- og kreditvurdering.
 
-Svar: Det bærende princip i KL kap. 8, om omstødelse er, som det udtrykkes i § 74, at "dispositioner, der på utilbørlig måde begunstiger en fordringshaver på de øvriges bekostning, eller hvorved skyldnerens ejendele unddrages fra at tjene til fordringshavernes fyldestgørelse, eller hans gæld forøges til skade for disse, kan fordres omstødt." 
+**Svar**: Det bærende princip i KL kap. 8, om omstødelse er, som det udtrykkes i § 74, at "dispositioner, der på utilbørlig måde begunstiger en fordringshaver på de øvriges bekostning, eller hvorved skyldnerens ejendele unddrages fra at tjene til fordringshavernes fyldestgørelse, eller hans gæld forøges til skade for disse, kan fordres omstødt." 
 
 Nok er Peter blevet begunstiget, men det er ikke utilbørligt og ingen af omstødelsesreglerne er relevante, hvorfor kuratoren ikke har ret.
 
 Svar, som demonstrerer en generel forståelse af emnet bør også belønnes.
 
-Svar slut.
+**Svar slut**.
 
 ---
 
@@ -13037,19 +13248,19 @@ Peter ønsker at løbe så lille en personlig økonomisk risiko som overhovedet 
 
 Spm. 6. Hvilke selskabsformer bør Peter overveje og hvad skal han vælge? (10%) 
 
-**Løsning:**
+**Vejledende løsning:**
 
 Læringsmål: Forståelse for Grundlæggende selskabsret og hæftelsesformer samt betydningen af reglerne om tegningsret.
 
 Svar: Svaret bør overveje de hæftelsesmæssige forskelle mellem person- og kapitalselskaber, og foretrække et kapitalselskab, hvor hæftelsen begrænses til det indskudte beløb, så Peter bør vælge et ApS eller er IVS.
 
-Svar slut
+**Svar slut**
 
 
 --- 
 
 Der er desværre ikke ret mange, som synes så godt om Peters festudstyr, at de vil betale en god pris for det. Derfor går der kun 6 måneder, før Peters virksomhed er løbet helt tør for penge og ikke længere kan betale de regninger, som kommer. 
-<br>
+
 SPAREBANKEN giver i første omgang Peter 5 månederes henstand med tilbagebetalingen, uden dog at give kautionisten besked. Herefter mister SPAREBANKEN tålmodigheden, og beder Peters ekskone om at indbetale de 250.000 kr. som hun har kautioneret for Peters lån.
 
 
@@ -13057,11 +13268,11 @@ SPAREBANKEN giver i første omgang Peter 5 månederes henstand med tilbagebetali
 
 7. Gør rede for den juridiske situation vedrørende ekskonens kaution (25%)
 
-**Løsning:**
+**Vejledende løsning:**
 
 Læringsmål: Forståelse for kaution i både private og erhvervsforhold.
 
-Svar: Betalingsforpligtelsen ved selvskyldnerkaution, indtræder så snart hovedmanden, Peter, misligholder sin forpligtelse.
+**Svar:** Betalingsforpligtelsen ved selvskyldnerkaution, indtræder så snart hovedmanden, Peter, misligholder sin forpligtelse.
 
 Svaret bør også være opmærksom på at skelne mellem privat- og erhvervskaution, og dermed betydningen af pengeinstituttets manglende opfyldelse af sin oplysningspligt over for en privatkautionist jf. lov om finansiel virksomhed (FIL) § 48, som kan gøre aftalen ugyldig. 
 
@@ -13071,7 +13282,7 @@ Besvarelser, der demonstrerer en generel forståelse af de hensyn, der ligger ba
 <br>
 Der fremgår ikke noget af casen, der indikerer, at kautionen ikke skulle være privat, men fornuftige argumenter i relation til erhvervskaution bør også belønnes.
 
-Svar slut.
+**Svar slut.**
 
 
 
@@ -13083,10 +13294,15 @@ Svar slut.
 * Kreditor har pant i tredjemands aktiv, som ligger til sikkerhed for lånet (Se figuren nedenfor)
 * Hvis der ikke er tale om et erhvervsforhold og kreditor er bank eller realkreditinstitut, skal kreditor opfylde samme oplysningsforpligtelse, som ved privatkaution, jf. FIL § 48, stk. 11
   + Hvad tredjemandspant indebærer
+  
   + Beskrivelse af risikoen
+  
   + Låntagers økonomi
+  
   + Låntagers gæld til den finansielle virksomhed
+  
   + Gennemgå pjece om kaution
+  
   + Kautionen må ikke stå i misforhold til kautionistens økonomi
   
 
@@ -13120,8 +13336,11 @@ visNetwork(nodes, edges, width = "80%") %>%
 ## Garantier
  
 * Garanti er en sikkerhedsstillelse for betaling på samme måde som kaution
+
   + Fx købesumsgaranti i ejendomshandel = garanti købers bank stiller som sikkerhed for købesummens betaling
+  
 * Parterne i garantistillelse er garantirekvirent, garant og beneficiant (Se figuren nedenfor).
+
 * To typer af garantier
   + Anfordringsgaranti – kommer til udbetaling på anfordring
   + Betinget garanti – kommer til udbetaling når den stillede betingelse er opfyldt
@@ -13187,25 +13406,27 @@ visNetwork(nodes, edges, width = "80%") %>%
 <img src="img/Geldsbrev.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
-<br>
+
 
 Om overdragelse af fordringer, se kapitel 14 og ophør af fordringer i kapitel 15
  
 
 ## Generelle regler for fordringer og gældsbreve
 
-<br>
+
 
 <img src="img/gb2.jpg" align="left" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-<br>
+
 
 
 ### Hvad er en fordring? 
 
 
-En fordring er et krav, som en person eller et selskab (kreditor) har mod en anden part (debitor). En fordring består typisk i et pengebeløb, men den kan også bestå i andet^[Herværende gennemgang af reglerne om fordringer, gældsbreve og pantebreve bygger bl.a. på oplysninger fra SKAT og Lars Hedegaard Kristensen: Karnovkommentaren til gældsbrevsloven].  Den kan fx bestå i, at debitor skylder en arbejdsydelse, eller i at der skal leveres en ting. Et gaveløfte betyder, at man skal give den lovede gave, som fx kan være en ting.
-<br>
+En fordring er et krav, som en person eller et selskab (kreditor) har mod en anden part (debitor). En fordring består typisk i et pengebeløb, men den kan også bestå i andet^[Herværende gennemgang af reglerne om fordringer, gældsbreve og pantebreve bygger bl.a. på oplysninger fra SKAT og Lars Hedegaard Kristensen: Karnovkommentaren til gældsbrevsloven].  
+
+Den kan fx bestå i, at debitor skylder en arbejdsydelse, eller i at der skal leveres en ting. Et gaveløfte betyder, at man skal give den lovede gave, som fx kan være en ting.
+
 *Bemærk*    
 I relation til retsplejelovens regler er en fordring et krav på betaling af en pengeydelse.  
 En lang række af fordringer er baseret på dokumenter i form af pantebreve, fakturaer og kontrakter mv., mens andre krav ikke foreligger i skriftlig form. Fælles for alle fordringer er, at de indeholder et krav om, at debitor skal betale eller give en ting/ydelse. Der er ikke i lovgivningen stillet formkrav til fordringer.
@@ -13243,7 +13464,7 @@ Gældsbrevslovens forarbejder henholder sig til den gængse juridiske forståels
 
 Det kræves endvidere, at erklæringen er dispositiv, hvilket indebærer, at der efter almindelige regler skal foreligge et løfte. For at være et gældsbrev skal erklæringen gå ud på at forpligte underskriveren. En betalingsanvisning, der alene indeholder en anmodning til tredjemand om at betale (og altså ikke går ud på at forpligte underskriveren selv) er ikke et gældsbrev. 
 
-Som hovedregel må erklæringen være forsynet med udstederens (eller hans fuldmægtigs) underskrift. Dette krav fraviges, hvor det er sædvanligt, at dokumentet ikke underskrives, f.eks. ved rente- og udbyttekuponer. I øvrigt kan underskriften være stemplet eller trykt.
+Som hovedregel må erklæringen være forsynet med udstederens (eller dennes fuldmægtigs) underskrift. Dette krav fraviges, hvor det er sædvanligt, at dokumentet ikke underskrives, f.eks. ved rente- og udbyttekuponer. I øvrigt kan underskriften være stemplet eller trykt.
 
 <img src="img/gb16.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Checks og veksler er ikke omfattet af gældsbrevsbegrebet, dels fordi disse dokumenttyper er reguleret i deres egne love (Checklov: Lovbekendtgørelse nr. 558 af 25. august 1986 og Veksellov: Lovbekendtgørelse nr. 1661 af 12. december 2018), dels grundet deres særegne karakter.
@@ -13254,46 +13475,59 @@ Checks og veksler er ikke omfattet af gældsbrevsbegrebet, dels fordi disse doku
 Erklæringen på gældsbrevet skal være i hovedsagen ubetinget. Det er uden betydning, at forfaldstiden eller det beløb, der skal betales, til dels er afhængig af en fremtidig uvis begivenhed, når det dog til sin tid kan afgøres, hvilket beløb der skal betales.
 <br>
 Da erklæringen skal være selvstændig foreligger der dog ikke et gældsbrev, hvis der i et almindeligt brev findes en udtalelse, som isoleret set indeholder et løfte om betaling af en pengesum.
-<br>
-Kravet om, at erklæringen skal være ensidig, indebærer at f.eks. en købekontrakt ikke et gældsbrev: Sælgers krav på købesummen er afhængig af ikke-misligholdelse fra hans side.
+
+Kravet om, at erklæringen skal være ensidig, indebærer at f.eks. en købekontrakt ikke et gældsbrev: Sælgers krav på købesummen er afhængig af ikke-misligholdelse fra sælgers side.
 
 <img src="img/gb17.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Ud fra tilsvarende synspunkter falder også lejekontrakter uden for begrebet.
-<br> 
-<img src="img/gb18.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-En forsikringspolice er ikke et gældsbrev, da sikredes krav er afhængig af hans opfyldelse af sine forpligtelser bl.a. præmiebetaling.
 
-<br>
+<img src="img/gb18.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+En forsikringspolice er ikke et gældsbrev, da sikredes krav er afhængig af sikredes opfyldelse af sine forpligtelser bl.a. præmiebetaling.
+
+
  
 
 Erklæringen skal gå ud på at forpligte underskriveren til at betale et bestemt pengebeløb. Det er uden betydning, om beløbet er angivet i dansk eller fremmed valuta, eller begge dele jf. GBL § 7, om det er bestemt efter guldværdi, jf. dommen i U 1933.703 H, eller om det er pristalsreguleret.
-<br>
+
 Beløbet må dog ikke være helt ubestemt, hvorfor udbyttekuponer til aktier ikke er gældsbreve.
-<br>
+
 Vurderingen af, om et dokument er simpelt eller negotiabelt, foretages uafhængigt af GBL § 1, jf.  GBL § 11.
-<br>
+
 Ifølge GBL § 1 er det udgangspunktet, at den, der udsteder et gældsbrev, ikke derved mister indsigelser fra det retsforhold, der gav anledning til gældsbrevets udstedelse.
-<br>
-Når en person i anledning af et retsforhold mellem ham og en anden udsteder et gældsbrev, er det altså hovedreglen, at han ikke påtager sig en forpligtelse, der er uafhængig af det pågældende retsforhold. Skyldneren bevarer dermed over for kreditor indsigelser om mangler, manglende levering eller ugyldighed mv. i det retsforhold, som gav anledning til gældsbrevets udstedelse. Skyldneren bevarer også den indsigelse, at han ikke har modtaget det lån, som skulle tilbagebetales med det beløb, som gældsbrevet lyder på. Alt i alt udtrykkes dette ofte på den måde, at gældsbrevet ikke er udtryk for en novation (afløsning af en gammel gæld gennem etablering af en ny) af skyldforholdet.  
-<br>
+
+Når en person i anledning af et retsforhold mellem ham og en anden udsteder et gældsbrev, er det altså hovedreglen, at personen ikke påtager sig en forpligtelse, der er uafhængig af det pågældende retsforhold. 
+
+Skyldneren bevarer dermed over for kreditor indsigelser om mangler, manglende levering eller ugyldighed mv. i det retsforhold, som gav anledning til gældsbrevets udstedelse. 
+
+Skyldneren bevarer også den indsigelse, at skyldneren ikke har modtaget det lån, som skulle tilbagebetales med det beløb, som gældsbrevet lyder på. 
+
+Alt i alt udtrykkes dette ofte på den måde, at gældsbrevet ikke er udtryk for en novation (afløsning af en gammel gæld gennem etablering af en ny) af skyldforholdet.  
+
 <img src="img/gb5.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-<br>
+
 Fra den nævnte hovedregel om, at der ikke indtræder novation (dvs. stiftelse af en ny fordring), må der ifølge ordlyden af GBL § 1 gøres undtagelse, hvis det er aftalt, at det retsforhold, der har givet anledning til gældsbrevets udstedelse, skal ophøre med at have nogen betydning og skal erstattes af retsforholdet ifølge gældsbrevet.
 <br>
 <img src="img/gb6.jpeg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-<br>
-Udstederen kan miste indsigelser over for den, til hvem gældsbrevet er overdraget, jf. navnlig GBL §§ 15-17 om negotiable gældsbreve, hvorimod han ifølge GBL § 1 ikke mister indsigelser over for den, til hvem gældsbrevet er udstedt. Det fordrer efteromstændighederne en afgørende stillingtagen til, om der er tale om en indsigelse over for en person, til hvem gældsbrevet er overdraget, eller om en indsigelse over for en person, til hvem gældsbrevet er udstedt. Spørgsmålet om der foreligger en overdragelsessituation eller en udstedelsessituation opstår navnlig, hvor der mellem en person, D, og en anden person, K1, består et retsforhold, og hvor D i anledning af retsforholdet udsteder et gældsbrev, men efter aftale med K1 ikke udsteder gældsbrevet til K1, men til en tredjemand, K2. Selvom der i så fald formelt foreligger en overdragelsessituation, kan der reelt være tale om en udstedelsessituation, således at D ikke mister eventuelle indsigelser over for K2.
-<br>
+
+Udstederen kan miste indsigelser over for den, til hvem gældsbrevet er overdraget, jf. navnlig GBL §§ 15-17 om negotiable gældsbreve, hvorimod udstederen ifølge GBL § 1 ikke mister indsigelser over for den, til hvem gældsbrevet er udstedt. 
+
+Det fordrer efteromstændighederne en afgørende stillingtagen til, om der er tale om en indsigelse over for en person, til hvem gældsbrevet er overdraget, eller om en indsigelse over for en person, til hvem gældsbrevet er udstedt. 
+
+Spørgsmålet om der foreligger en overdragelsessituation eller en udstedelsessituation opstår navnlig, hvor der mellem en person, D, og en anden person, K1, består et retsforhold, og hvor D i anledning af retsforholdet udsteder et gældsbrev, men efter aftale med K1 ikke udsteder gældsbrevet til K1, men til en tredjemand, K2. 
+
+Selvom der i så fald formelt foreligger en overdragelsessituation, kan der reelt være tale om en udstedelsessituation, således at D ikke mister eventuelle indsigelser over for K2.
+
  
 
 
 ## Flere skyldnere hæfter solidarisk
-<br>
+
 Flere skyldnere hæfter solidarisk, hvis ikke andet er aftalt, GBL § 2:
-<br>
+
 *	Kreditor kan vælge at kræve hele gælden betalt af hver enkelt solidarisk skyldner
-<br>
-*	Har en solidarisk skyldner betalt hele gælden til kreditor, har han regresret mod de øvrige skyldnere
+
+*	Har en solidarisk skyldner betalt hele gælden til kreditor, har skyldneren regresret mod de øvrige skyldnere
 
 ## Skyldnerens forpligtelser
 
@@ -13324,30 +13558,32 @@ En skyldner er forpligtet til at betale et bestemt beløb:
 <img src="img/gb7.jpeg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 <br>
 Tredjemandsbrug af kortholders betalingskort er reguleret af betalingsloven (forkortet; ”BTL”), jf. Lov nr. 652 af 6. juni 2017 om betalinger
-<br>
+
 Kortmisbrug her er, hvor kortholder ikke selv har brugt kortet
-<br>
+
+
 * **HR:** Banken hæfter for misbruget og skal dække kortholders tab, jf. BTL § 99
-  +  U1: Kortholder hæfter ubegrænset, hvis han har handlet 
-  svigagtigt eller med vilje ikke overholdt kortreglerne fx omkring 
-  sikkerhed, jf. BTL § 100, stk. 2
-  + U2: Har kort og pinkode været brugt, hæfter kortholder for 375 
-  kr., jf. BTL § 100, stk. 3
-  + U3: Kortholder kan hæfte for op til 8.000 kr., jf. BTL § 100, 
-  stk. 4, hvis kort og pinkode har været brugt og:
-    +	Kortet ikke er spærret med det samme
-    +	Kortholder selv har givet pinkoden til misbrugeren, og
-    +	Kortholder ved groft uforsvarlig (nærmest sløseri) adfærd har 
-    gjort misbruget muligt
-  + U4: Kortholder hæfter ubegrænset, jf. BTL § 100, stk. 5, hvis 
-  kort og pinkode er anvendt og:
-    +	Kortholder selv har oplyst koden til misbrugeren og
-    +	Kortholder burde have indset risikoen for misbrug
+
+ +  **U1:** Kortholder hæfter ubegrænset, hvis kortholder har handlet svigagtigt eller med vilje ikke overholdt kortreglerne fx omkring sikkerhed, jf. BTL § 100, stk. 2
  
-<br>
++ **U2:** Har kort og pinkode været brugt, hæfter kortholder for 375 kr., jf. BTL § 100, stk. 3
+
++ **U3:** Kortholder kan hæfte for op til 8.000 kr., jf. BTL § 100, stk. 4, hvis kort og pinkode har været brugt og:
+
++	Kortet ikke er spærret med det samme
++	Kortholder selv har givet pinkoden til misbrugeren, og
++	Kortholder ved groft uforsvarlig (nærmest sløseri) adfærd har gjort misbruget muligt
+    
++ **U4:** Kortholder hæfter ubegrænset, jf. BTL § 100, stk. 5, hvis kort og pinkode er anvendt og:
+  
++	Kortholder selv har oplyst koden til misbrugeren og
++	Kortholder burde have indset risikoen for misbrug
+ 
+
 Efter kortet er spærret er banken ansvarlig for al misbrug af kortholders betalingskort.
 
-<br>
+---
+
 ```{r hæftelse, echo=FALSE}
 
 mydf <- data.frame(
@@ -13407,47 +13643,57 @@ mydf %>%
   # footnote(general = "Databeskyttelsesforordningen",general_title = "Kilde:")
 ```
 
-## Eksamensspørgsmål om tredjemandsmisbrug af kortholderes betalingsmiddel
-<br>
-Klokken er 9.31 mandag d. 5. februar 2018, da Andreas Andersen ringer til privatrådgiver Lærke Jensens kontor i Sparekassen Pecunia. Han får hurtigt forklaret, at grunden til, at han har ringet er, at han har mistet sit Visa/dankort og at han gerne vil have kortet spærret. Lærke spærrer straks kortet og sammen gennemgår de de seneste hævninger på kontoen og finder hurtigt ud af, at der er fem hævninger, Andreas ikke kender til. 
-	Søndag d. 4. februar 2018 kl. 02.32 – 2.000 kr. i andet pengeinstituts hæveautomat
-	Søndag d. 4. februar 2018 kl. 02.44 – 5.000 kr. i Sparekassen Pecunias hæveautomat
-	Søndag d. 4. februar 2018 kl. 02.46 – 3.500 kr. i Sparekassen Pecunias hæveautomat
-	Søndag d. 4. februar 2018 kl. 03.01 – 732 kr. Restaurant Festaben – varekøb
-Søndag d. 4. februar 2018 kl. 05.32 – 418 kr. Restaurant Morgengry – varekøb
-Andreas forklarer, at han mandag morgen ca. kl. 8.45, da han sad i toget på vej på arbejde, fandt ud af, at hans pung var blevet væk. I hans pung var bl.a. hans Visa/Dankort og en seddel med pinkoden. Pinkoden, 4567, stod bag på en bon og var kamufleret som en del af et telefonnummer: Pia Kjellerup – 30 45 67 87. Pungen var i hans jakke som han havde glemt på et bord, da han ca. kl. 01.00 forlod semesterstartsfesten på sit studie. Banken kan dokumentere, at pin-koden er brugt ved alle hævninger. Andreas kan dokumentere, at han på hævningstidpunkteterne var sammen med en af sine kvindelige medstuderende hjemme hos hende. <br>
-Eksamensspørgsmålet:
-<br>
-1. Giv en begrundet redegørelse for, hvordan tabet skal fordeles mellem Andreas og Sparekassen Pecunia (20%).
-<br>
+---
 
-Vejledende løsning
-<br>
+## Eksamensspørgsmål om tredjemandsmisbrug af kortholderes betalingsmiddel
+
+
+Klokken er 9.31 mandag d. 5. februar 2018, da Andreas Andersen ringer til privatrådgiver Lærke Jensens kontor i Sparekassen Pecunia. Han får hurtigt forklaret, at grunden til, at han har ringet er, at han har mistet sit Visa/dankort og at han gerne vil have kortet spærret. Lærke spærrer straks kortet og sammen gennemgår de de seneste hævninger på kontoen og finder hurtigt ud af, at der er fem hævninger, Andreas ikke kender til. 
+
+Søndag d. 4. februar 2018 kl. 02.32 – 2.000 kr. i andet pengeinstituts hæveautomat
+
+Søndag d. 4. februar 2018 kl. 02.44 – 5.000 kr. i Sparekassen Pecunias hæveautomat
+
+Søndag d. 4. februar 2018 kl. 02.46 – 3.500 kr. i Sparekassen Pecunias hæveautomat
+
+Søndag d. 4. februar 2018 kl. 03.01 – 732 kr. Restaurant Festaben – varekøb
+
+Søndag d. 4. februar 2018 kl. 05.32 – 418 kr. Restaurant Morgengry – varekøb
+
+Andreas forklarer, at han mandag morgen ca. kl. 8.45, da han sad i toget på vej på arbejde, fandt ud af, at hans pung var blevet væk. I hans pung var bl.a. hans Visa/Dankort og en seddel med pinkoden. Pinkoden, 4567, stod bag på en bon og var kamufleret som en del af et telefonnummer: Pia Kjellerup – 30 45 67 87. Pungen var i hans jakke som han havde glemt på et bord, da han ca. kl. 01.00 forlod semesterstartsfesten på sit studie. Banken kan dokumentere, at pin-koden er brugt ved alle hævninger. Andreas kan dokumentere, at han på hævningstidpunkteterne var sammen med en af sine kvindelige medstuderende hjemme hos hende. 
+
+**Eksamensspørgsmålet:**
+
+1. Giv en begrundet redegørelse for, hvordan tabet skal fordeles mellem Andreas og Sparekassen Pecunia (20%).
+
+
+**Vejledende løsning**
+
 
 Lovgrundlag: Lov om betalinger 
-<br>
+
 Område: Hæftelse for betalingstjenester
-<br>
+
 Læringsmål: Anvende reglerne om fordringers ophør, herunder hæftelse for betalingstjenester (dan‐ og kreditkort).
-<br>
+
 Det følger af lov om betalinger § 100, stk. 1, at betalerens udbyder af betalingstjenester (pengeinstituttet) hæfter i forhold til betaleren (kunden) for tab som følge af andres uberettigede anvendelse af en betalingstjeneste, medmindre andet følger af stk. 2-5. Det følger herefter af stk. 3, at betaleren hæfter med op til 375 kr. i situationer, hvor den personlige sikkerhedsforanstaltning (PIN-koden) har været anvendt og af stk. 4, at der hæftes med op til 8.000 kr. enten hvis PIN-koden har været anvendt og betaleren ved groft uforsvarlig adfærd har muliggjort den uberettigede anvendelse (stk. 4, nr. 3) eller PIN-koden har været anvendt og kunden ikke har anmeldt at kortet var bortkommet snarest muligt efter at have fået kendskab til det (stk. 4, nr. 1). Her er der særligt stk. 4, nr. 3-situationen, der er relevant. 
 
 Det er ifølge praksis fra PIA Pengeinstitutankenævnet; nu Det Finansielle Ankenævn) ikke i sig selv tilstrækkeligt til at konstituere groft uforsvarlig adfærd at PIN-koden (dårligt camoufleret eller ej) har ligget i pungen sammen med kortet, men det forhold at pungen er efterladt i en jakke på et bord gør, at adfærden er groft uforsvarlig – særligt når jakken efterlades efter at Andreas forlader festen. Andreas har derfor en hæftelse på 8.000 kr. 
 
 
-<br>
+---
 
 ### Quiz om betalingskort  
 <a href="https://www.forbrug.dk/quiz/betalingskort/?rn=43716" target="_blank">Test din viden i forbrug.dk’s quiz om betalingskort</a>  
 
-<br>
+
 
 ## Forskellige typer af pengekrav og fordringer  
 
 <img src="img/gb8.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-<br>
+
 Alle pengekrav og fordringer kan deles op i 5 slags:  
-<br>
+
 *  Simple fordringer
 *  Simple gældsbreve
 *  Omsætningsgældsbreve
@@ -20804,7 +21050,7 @@ Se domspraksis om en sag vedrørende jagtansvarsforsikringen:
 <div class="video-container"><iframe src="https://www.youtube.com/embed/asAt_30Pd_o" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
-## Forsikring og pension - den specielle del<sup><font color="red"> Premium </font></sup>
+## Forsikring og pension<sup><font color="red"> Premium </font></sup>
 
 **Hvordan ansøger man om en forsikring?**
 
@@ -21610,7 +21856,7 @@ Denne såkaldte culparegel står ikke skrevet i nogen lov, men er udviklet genne
 
 ##### Uagtsom
 
-Man har handlet uagtsomt, hvis en almindelig, fornuftig person (bonus pater) ved almindelig agtpågivenhed ville have indset, at skaden kunne indtræde som følge af ens adfærd. 
+Man har handlet uagtsomt, hvis man har handlet anderledes en almindelig, fornuftig person, dvs man har handlet i strid med almindelige normer for adfærd i den pågældende situation. 
 
 Ens adfærd vil med andre ord blive betragtet som uagtsom, hvis den afviger fra de i samfundet almindeligt anerkendte, forsvarlige handlemønstre. 
 
@@ -22419,7 +22665,9 @@ Reglerne er følgende:
 
 
 
-# Lovsamling
+# Lovsamling (Retsinformation)
+
+**(Der kan også henvises til Karnovs Lovsamling)**
 
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=177079" target="_blank">Aftaleloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=2664" target="_blank">Arveloven</a></h3>
