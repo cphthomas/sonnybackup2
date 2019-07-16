@@ -16237,6 +16237,7 @@ Pant i fast ejendom kan både bruges som sikkerhed via et pantebrev til køb af 
 
 ---
 
+
 **Video: Om tinglysningslovens § 40**
 
 
@@ -16319,6 +16320,7 @@ mydf %>%
 
 ---
 
+
 ```{r pant4, echo=FALSE}
 mydf <- data.frame(
   S1 = c("I konflikt med" ,
@@ -16354,6 +16356,7 @@ mydf %>%
 # footnote(number = "Hvis skadevolder er under 14 år eller er utilregnelig, kan der dog være dækning selv om handlingen er forvoldt forsætligt")
 ```
 
+
 ---
 
 
@@ -16382,7 +16385,7 @@ Dette gælder også, selvom ejeren ikke selv har betalt for løsøret.
 
 **TL § 38 – Indlagt løsøre**
 
-...
+
 
 <img src="img/hårdehvidevare.jpg" align="right" width="40%" height="40%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
@@ -17123,6 +17126,7 @@ Udlæg i fordringer er dog sikret ved udlæggets foretagelse. Erhververen ifølg
 **Tæppehandleren fra Sorø**
 
 ---
+
 <img src="img/tæppehandler.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 ---
@@ -18402,6 +18406,7 @@ C kan fortrænge A's ret over fondsaktivet, hvis:
 ***Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af handel med fast ejendom***:
 
 ---
+
 <img src="img/Hvadderervigtigst.jpg" align="right" width="40%" height="40%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
  
 ---
@@ -19650,13 +19655,14 @@ Speak 23
 
 ### Tilstandsrapport, el-tjek og ejerskifteforsikring
  
-----
+---
 
 **Video: Tilstandsrapport og energimærke**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/EToKhmr8XFo" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
+
 <div class="video-container"><iframe src="https://www.youtube.com/embed/dsA2EXsZVsg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
@@ -23652,6 +23658,7 @@ e-mail: finanstilsynet@ftnet.dk
 Det kan anbefales, at du tilmelder dig Finanstilsynets nyhedsbreve!
 
 ---
+
 **Video: Årsmødet I Forsikring og Pension 2018**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/HHljb90aVsk" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>  
