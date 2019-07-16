@@ -1597,7 +1597,7 @@ I samme dom præciserede Domstolen, at en medlemsstat - selv i det tilfælde, hv
 # Aftaleret
 
 
-## Introduktion til aftaleretten
+***Introduktion til aftaleretten***
 
 ---
 
@@ -1615,7 +1615,7 @@ I samme dom præciserede Domstolen, at en medlemsstat - selv i det tilfælde, hv
 ***Hvilke problemstillinger og aftaleretlige lovregler, du som studerende særlig skal være opmærksom på vedrørende eksamensspørgsmål indenfor aftaleretten:***
 
 
-<img src="img/Hvadderervigtigst.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/Hvadderervigtigst.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 • **Opfordring contra tilbud**, aftalelovens § 9, herunder prisangivelser på nettet, netbutikker og i fysiske butikker
@@ -1635,6 +1635,8 @@ I samme dom præciserede Domstolen, at en medlemsstat - selv i det tilfælde, hv
 
 <script async src="https://widget.spreaker.com/widgets.js"></script>
 
+---
+
 <img src="img/deal1.jpg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 ---
@@ -1645,6 +1647,7 @@ Aftalelovens principper har betydning på hele aftaleområdet,^[Følgene bygger 
 * Forsikringsaftaleloven, kreditaftaleloven, forbrugeraftaleloven, AB 18, købeloven, E-handelsloven m.fl.
 
 *	Aftaleindgåelse reguleres af aftalelovens §§ 2-9.
+
   + Deklaratorisk, dvs. parterne kan aftale anden fremgangsmåde ved aftaleindgåelse, end den der er beskrevet i aftaleloven.
 
 
@@ -1686,7 +1689,12 @@ fx:
 *	**U2:** Urimelige aftaler, aftalelovens §§ 38c, jf. 36
 
 *	**U3:** "En aftale bliver også ugyldig, hvis den strider mod "lov og ærbarhed", jf. allerede Christian 5.s Danske Lov fra 1683. 
-Fx er et løfte om at ville betale en anden persons fartbøde ugyldig. Men en aftale bliver ikke ugyldig, blot fordi der er overtrådt offentligretlige forskrifter. Fx er en aftale om køb af drikkevarer uden for den tilladte åbningstid bindende trods lovovertrædelsen.
+
+Fx er et løfte om at ville betale en anden persons fartbøde ugyldig. 
+
+Men en aftale bliver ikke ugyldig, blot fordi der er overtrådt offentligretlige forskrifter. 
+
+Fx er en aftale om køb af drikkevarer uden for den tilladte åbningstid bindende trods lovovertrædelsen.
 
 I nyere tid har ugyldighed med held været påberåbt af mange, der tegnede anparter i investeringsprojekter med vindmøller, containere, hoteller mv., idet anpartstegnerne var blevet vildledt om projektets bæredygtighed.^[Jf. *Erik Werlauff*, *Karsten Revsbech*: ugyldighed i Den Store Danske, Gyldendal] 
 
@@ -1818,11 +1826,15 @@ Dels at løftegiveren har pligt enten til at opfylde løftet efter dets indhold 
 
 til at erstatte løftemodtagerens økonomiske interesse i løftets opfyldelse, dvs. erstatning i form af såkaldt **"positiv opfyldelsesinteresse"** (forudsat naturligvis, at der foreligger et ansvarsgrundlag).
 
-*	**Tilbud**: Et tilbud er et løfte, som taber sin virkning, hvis det ikke accepteres i rette tid. F.eks. et løfte om at levere en vare eller tjenesteydelse til en bestemt pris og et bestemt sted på et bestemt tidspunkt.
+*	**Tilbud**: Et tilbud er et løfte, som taber sin virkning, hvis det ikke accepteres i rette tid. 
+
+F.eks. et løfte om at levere en vare eller tjenesteydelse til en bestemt pris og et bestemt sted på et bestemt tidspunkt.
 
 *	**Accept:** En erklæring, som har karakter af antagende svar på tilbud. 
 
-Et **svar**, hvori man siger ja til et tilbud. Accepten er både et løfte der binder acceptanten, når modtageren har hørt/læst accepten (kundskabsøjeblikket), og det er samtidig et påbud der binder modtageren, når det er kommet frem, dvs. når et svar (tilbud eller accept) er modtaget i modtagerens brevkasse, indbakke eller lignende, men indholdet er endnu ikke læst. Kommet til kundskab: 
+Et **svar**, hvori man siger ja til et tilbud. 
+
+**Accepten** er både et løfte der binder acceptanten, når modtageren har hørt/læst accepten (kundskabsøjeblikket), og det er samtidig et påbud der binder modtageren, når det er kommet frem, dvs. når et svar (tilbud eller accept) er modtaget i modtagerens brevkasse, indbakke eller lignende, men indholdet er endnu ikke læst. Kommet til kundskab: 
 
 Det øjeblik modtageren er blevet bekendt med indholdet af tilbud eller accept, dvs. har hørt eller læst.
 
@@ -1844,18 +1856,14 @@ Det øjeblik modtageren er blevet bekendt med indholdet af tilbud eller accept, 
 
 
 
-*	Tilbudsgiver sender sit tilbud
-
-………….fremsendelsestid
+*	Tilbudsgiver sender sit tilbud ………….fremsendelsestid
 
 *	Tilbudsmodtager modtager tilbud (kommet frem)
+
 *	Tilbudsmodtager læser tilbud (kommet til 
-  kundskab) 
+  kundskab) ………….betænkningstid
   
-  ………….betænkningstid
-  
-*	Tilbudsmodtager accepterer tilbud/sender accept 
-  ………….tilbagesendelsestid
+*	Tilbudsmodtager accepterer tilbud/sender accept ………….tilbagesendelsestid
   
 *	Accept når frem til tilbudsgiver (kommet frem)
 
@@ -1864,11 +1872,15 @@ Det øjeblik modtageren er blevet bekendt med indholdet af tilbud eller accept, 
 
 Resultat: Der er indgået en juridisk bindende aftale
 
+
+
 ---
 
 <img src="img/aftalemodellen.png" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+(Kilde; Trojka).
 
-(Kilde; Retabilitet/Trojka).
+
+
 
 
 ---
@@ -1884,10 +1896,8 @@ Resultat: Der er indgået en juridisk bindende aftale
 
 **Video: Om aftalers indgåelse**
 
-
-
 <div class="video-container"><iframe src="https://www.youtube.com/embed/WbgTUpCLz00" width="853" height="480" frameborder="0"allowfullscreen="allowfullscreen"></iframe></div>
-<br>
+
 
 ---
 
@@ -2103,7 +2113,9 @@ Under særlige omstændigheder kan tilbagekaldelse alligevel ske efter fristens 
 
 Re integra-reglen kan ikke påberåbes bare fordi man har fortrudt. Der skal således noget særligt til.
 
-*Se domspraksis vedrørende anvendelsen af aftaleleovens § 39, 2. pkt.:* 
+---
+
+*Se domspraksis vedrørende anvendelsen af aftalelovens § 39, 2. pkt.:* 
 
 **U 1929 1084: En sælger S modtog fra køberen K et brev om annullation af en ordre, men næste morgen modtog han telegram om, at brevet var bestemt til et andet firma. Skønt S ikke havde eller burde have indset, at der forelå en fejltagelse, fandtes brevet dog ikke bindende for K, da S ikke, inden fejltagelsen oplystes, havde foretaget andet end at bestemme sig til at levere varen til en anden kunde.**
 
@@ -2130,11 +2142,53 @@ Accepten skal være i overensstemmelse med tilbuddet – spejlbillede, jf. aftal
 
 * **U:** § 6, stk. 2 – En uoverensstemmende accept betragtes ikke som et modbud (nyt tilbud), hvis afsenderen tror,	at accepten er i overensstemmelse med tilbuddet og tilbudsgiveren må indse at acceptanten tror at accepten er ok.  
 
-**NB !!** Hvis tilbudsgiver ikke vil være bundet af indholdet i den ”forkerte” accept, skal han uden ugrundet ophold give acceptanten besked. Lader han som ingenting, er tilbudsgiver bundet af aftalen og skal levere i henhold til indholdet af den uoverensstemmende accept.
+**NB !!** Hvis tilbudsgiver ikke vil være bundet af indholdet i den ”forkerte” accept, skal han uden ugrundet ophold give acceptanten besked. 
+
+Lader han som ingenting, er tilbudsgiver bundet af aftalen og skal levere i henhold til indholdet af den uoverensstemmende accept.
 
 
 
 **”Give meddelelse”** se aftalelovens § 40
+
+---
+
+### Eksamensopgave
+
+
+***Bord og stol A/S***
+
+
+**Tema: Aftaleindgåelse og handelskøb**
+
+
+Firmaet ”Bord og stol A/S” producerer og handler med alle former for møbler men har i de senere år specialiseret sig i møbler til hoteller. ”Bord og stol A/S”s indkøber har fundet nogle meget elegante møbler i Østen lavet i et nyt og anderledes design. Indkøberen har på vegne ”Bord og stol A/S” fået forhandlet sig frem til en god pris mod garanti om at aftage et vist minimum af varerne.
+ 
+”Bord og stol A/S” sender et tilbud ud til de kunder, der skal til at renovere deres hotel, med en acceptfrist til d. 10.04. Tilbuddet lyder på indkøb af min. 20 sæt, og leveringstidstidspunktet er sat til d. 1.05. Prisen angives til 11.995 kr. for et sæt bestående af en seng, et skab, et bord og to stole. Der kommer en del ordre ind inden d. 10.04. 
+
+”Bord og stol A/S” undrer sig dog over, at en kunde, ”Parkhotellet” ikke har afgivet bestilling, da man telefonisk havde fået indtryk af at hotellet helt sikkert ville have varerne. På grund af travlhed reagerer ”Bord og stol A/S” ikke. D. 20.04. kommer så accepten fra kunden. Af den fremgår, at ”Parkhotellet” ønsker 20 sæt. Firmaet ”Bord og stol A/S” reagerer ikke på accepten, da den er kommet for sent frem. Da der d. 01.05. ikke kommer nogen møbler kontakter ”Parkhotellet” ”Bord og stol A/S”, der meddeler, at accepten kom for sent frem. ”Parkhotellet” kan ikke forstå det og undersøger sagen. Accepten er afsendt i god tid, nemlig allerede d. 07.04. Firmaet ”Bord og stol A/S” oplyser at, ”Parkhotellet” kan få møblerne men nu til 13.600 kr. pr. sæt. Efterspørgslen har nemlig vist sig at være stor. ”Parkhotellet” fastholder sin accept og forlanger havemøblerne leveret snarest. 
+
+Bord og stol A/S modtager også en accept fra en anden kunde, nemlig Strand Hotellet. Stand Hotellet har imidlertid angivet en pris på 1.995 kr. Bord og Stol A/S reagerer heller ikke på denne accept, da de ikke ønsker at sælge møblerne til 1.995 kr. Det viser sig senere at Stand Hotellet havde lavet en fejl og ønskede møblerne til 11.995 kr. Bord og stol giver samme melding som til Parkhotellet, nemlig at prisen nu er 13.600 kr. 
+
+3 måneder efter levering af møbler til Hotel Golf reklamerer Hotel Golf over mangler ved møblerne idet flere af stoleryggene er gået løs.  
+
+Bord og stol afviser reklamationen, da der står på bagsiden af fakturaen, at der skal reklameres inden 8 dage fra leveringen.
+
+
+**Eksamenspørgsmålene og rettevejledningen**
+
+1.	Redegør for om Parkhotellet har krav på at få møblerne til 11.995 kr. 
+
+Svar: Her er Bord & Stol forpligtet, jf. AFTL § 4, stk. 2 til at levere stolene til kr. 11.995 til Parkhotellet, da Parkhotellet har accepteret rettidigt og Bord & Stol må indse dette.
+ 
+2.	Redegør for om Strand Hotellet har krav på at få møblerne til 11.995 kr. 
+
+Strandhotellet har ikke krav på møblerne, jf. AFTL § 6, stk. 2, da prisforskellen fra kr. 11.995 til kr. 1.995 ikke medfører, at Bord & Stol måtte indse, at Strandhotellet ville købe møblerne til kr. 11.995 og blot havde lavet en fejl. 
+
+3.	Redegør for hvilke rettigheder Hotel Golf har i forhold til de løse stolerygge. 
+
+Faktura-teksten på bagsiden er næppe gjort klart for Hotel Golf i forbindelse med Bord & Stols fremsendelse af tilbuddet og dermed slet ikke en del af aftalen. Hotel Golf kan dermed se bort fra kravet, og har reklameret rettidigt jf KBL § 54. 
+
+---
 
 
 ### Aftaleindgåelse på internettet
@@ -2172,7 +2226,7 @@ Accepten skal være i overensstemmelse med tilbuddet – spejlbillede, jf. aftal
 
 ---
 
-### Aftalers ugyldighed
+## Aftalers ugyldighed
 
 
 <img src="img/deal3.jpeg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
@@ -2191,59 +2245,20 @@ Ugyldighed som kan ramme aftalen kan opstå pga:
 
 *	**Bristende forudsætninger**
 
+---
+
+
+
+**Typer af mangler**
+
+<img src="img/typerafmangler.png" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+(Kilde; Trojka)
+
+
+
 
 ---
 
-```{r ugyldighedsgrunde, echo=FALSE, result=TRUE}
-
-options(knitr.table.format = "html")
-collapse_rows_dt <- data.frame(Mangeltype = c(rep("Tilblivelsesmangler", 4), rep("Indholdsmangler",3 ),rep("Habilitetsmangler",2 )),
-                 Årsag = c("Ugyldighed pga. omstændigheder ved aftalens indgåelse (tilblivelse), fx:
-","falsk, forfalskning, forvanskning, fuldmagtsoverskridelse, voldelig tvang, mekanisk tvang
-","svig, udnyttelse, simpel tvang, fejltagelse (fejlskrift),
-pro forma
-","tilblivelse i strid med almindelig hæderlighed og
-redelig handlemåde, AFTL §§ 33 og 36
-","Ugyldighed pga. mangler ved selve aftalens indhold, fx:","i strid med loven","i strid med almindelig moral, almindelig hæderlighed,
-redelig handlemåde
-","Ugyldighed pga. manglende evne eller habilitet, fx:","inhabilitet, umyndighed, værgemål, fornuftsmangel"))
-                 
-kable(collapse_rows_dt, align = "l" ,caption = "Oversigt over mangler og ugyldighedsgrunde") %>%
-  kable_styling(full_width = T,bootstrap_options = c( "hover","responsive","bordered","striped")) %>%
-  column_spec(1, bold = T) %>%
-  collapse_rows(columns = 1:2, valign = "top") %>%
-row_spec(c(1,5,8), bold = T, color = "white", background = "darkgrey")
-
-# add_header_above(c( "Oversigt over mangler og ugyldighedsgrunde" = 2),italic = TRUE)
-
-```
-
----
-
-```{r ssugyldighedsgrunde, echo=FALSE, result=TRUE }
-options(knitr.table.format = "html")
-collapse_rows_dt <- data.frame(Ugyldighedsgrunde = c(rep("Stærke ugyldighedsgrunde", 4), rep("Svage ugyldighedsgrunde",5 ) ),
-                 Årsag = c("Falsk og forfalskning.",
-                  "Forvanskning, AFTL § 32, stk. 2.",
-                  "Voldelig tvang, AFTL § 28, stk. 1.",
-                  "Umyndighed, værgemål, fornuftsmangel, værgemålsloven.",
-                  "Simpel tvang, AFTL § 29.",
-                  "Svig, AFTL § 30.",
-                  "Udnyttelse, AFTL § 31.",
-                  "Fejlskrift eller anden fejltagelse, AFTL § 32, stk. 1.",
-                  "I strid med almindelig hæderlighed, AFTL § 33."))
-                 
-kable(collapse_rows_dt, align = "l",caption = "Oversigt over stærke og svage ugyldighedsgrunde") %>%
-  kable_styling(full_width = T,bootstrap_options = c( "hover","responsive","bordered","striped")) %>%
-  column_spec(1, bold = T) %>%
-  collapse_rows(columns = 1:2, valign = "top") %>%
-row_spec(1:4, bold = T, color = "black", background = "grey") %>%
-row_spec(5:9, bold = T, color = "white", background = "darkgrey")
-# add_header_above(c( "Oversigt over stærke og svage ugyldighedsgrunde" = 2),italic = TRUE)
-
-```
-
----
 
 <img src="img/deal4.jpg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
@@ -2252,10 +2267,28 @@ row_spec(5:9, bold = T, color = "white", background = "darkgrey")
 
 #### Forskellen på de stærke og svage ugyldighedsgrunde
 
-Der skelnes mellem stærke og svage ugyldighedsgrunde. De stærke kan gøres gældende også over for en kontraktpart, der var i god tro ved aftalens indgåelse. Stærke ugyldighedsgrunde er bl.a. forfalskning af indhold eller underskrift, underskriverens mindreårighed eller værgemål samt voldelig tvang. 
 
 
-De svage ugyldighedsgrunde kan ikke gøres gældende over for en kontraktpart i god tro, og den godtroende part kan således fastholde aftalen trods ugyldighedsgrunden. Hvis A fx giver B et løfte pga. svigagtige oplysninger fra C, binder løftet A trods svigen, såfremt B ikke burde være klar over, at der var udvist svig.
+---
+
+**Ugyldighedsgrunde**
+
+<img src="img/ugyldighed.png" align="right" width="40%" height="40%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+---
+
+
+
+Der skelnes mellem stærke og svage ugyldighedsgrunde. 
+
+De stærke kan gøres gældende også over for en kontraktpart, der var i god tro ved aftalens indgåelse. 
+
+Stærke ugyldighedsgrunde er bl.a. forfalskning af indhold eller underskrift, underskriverens mindreårighed eller værgemål samt voldelig tvang. 
+
+
+De svage ugyldighedsgrunde kan ikke gøres gældende over for en kontraktpart i god tro, og den godtroende part kan således fastholde aftalen trods ugyldighedsgrunden. 
+
+Hvis A fx giver B et løfte pga. svigagtige oplysninger fra C, binder løftet A trods svigen, såfremt B ikke burde være klar over, at der var udvist svig.
 
 ---
 
@@ -2297,13 +2330,15 @@ De *svage ugyldighedsgrunde* omfatter følgende grunde:
 
 *	**Falsk:** Dokumentet er falsk, fx ved falsk underskrift på en selvskyldnerkaution. Løftet er ikke ægte.
 
-*	**Forfalskning:** Lånedokumentet er forfalsket, hvis der er ændret i dokumentet, fx et beløb – ændret fra 250.000 kr. til 550.000 kr. Løftet er ægte fra starten, men indholdet af løftet ændres. Eller der bliver forfalsket en underskrift.
+*	**Forfalskning:** Lånedokumentet er forfalsket, hvis der er ændret i dokumentet, fx et beløb – ændret fra 250.000 kr. til 550.000 kr. 
+
+Løftet er ægte fra starten, men indholdet af løftet ændres. Eller der bliver forfalsket en underskrift.
 
 *	**Forvanskning:** Aftaler eller beskeder der under fremsendelsen ændres eller forvanskes ved en fejl, hvorved aftalen får et andet indhold, aftalelovens § 32, stk. 2, fx af et bud eller i en fax.
 
-+ Hvis afsenderen ikke vil være bundet af indholdet i den fejlagtige erklæring, skal han uden ugrundet ophold efter at han har opdaget fejlen, give besked til modtageren om, at han ikke vil være bundet. 
++ Hvis afsenderen ikke vil være bundet af indholdet i den fejlagtige erklæring, skal afsenderen uden ugrundet ophold efter at vedkommende har opdaget fejlen, give besked til modtageren om, at afsenderen ikke vil være bundet. 
 
-Gør han ikke det, er han bundet af indholdet i den fejlagtige aftale.
+Gør afsenderen ikke det, er vedkommende bundet af indholdet i den fejlagtige aftale.
     
 
 **Hvad er voldelig tvang?**  
@@ -2313,7 +2348,7 @@ Gør han ikke det, er han bundet af indholdet i den fejlagtige aftale.
 
     +	Aftalen ugyldig hvis løftet fra løftegiver er fremkaldt ved vold eller trussel om øjeblikkelig anvendelse af vold, fx holder en pistol for panden af løftegiver.
     
-    +	Hvis det er tredjemand, som truer for at fremprovokere et løfte, og løftegiver ikke vil være bundet af løftet/aftalen, skal han uden ugrundet ophold give løftemodtager besked om, at han er blevet truet  til at afgive løftet. Gør løftegiver ikke det, bliver han bundet af sit løfte og aftalen er bindende, jf. aftalelovens § 28, stk. 2.
+    +	Hvis det er tredjemand, som truer for at fremprovokere et løfte, og løftegiver ikke vil være bundet af løftet/aftalen, skal løftegiver uden ugrundet ophold give løftemodtager besked om, at denne er blevet truet  til at afgive løftet. Gør løftegiver ikke det, bliver vedkommende bundet af sit løfte og aftalen er bindende, jf. aftalelovens § 28, stk. 2.
 
 
 
@@ -2332,7 +2367,11 @@ Personer under 18 år:
 
 **Selverhvervelsesreglen:** 
 
+
 Personer over 15 år kan råde over deres egne penge som de selv har tjent, eller fået ved arv/gave, og hvad værgen har givet dem. !!NB – kun kontantkøb (ej kreditaftaler)
+
+
+<img src="img/avisdreng.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 **Pengereglen:** 
@@ -2355,6 +2394,15 @@ Sælgers gode tro er afgørende. Er sælger i tvivl, skal han bede om værgens s
 *	Har den umyndige fremvist falsk ID ved aftalens indgåelse, skal den umyndige erstatte løftemodtagers tab, uden hensyn til nyttereglen.
 
 *	Derudover gælder de almindelige erstatningsretlige regler
+
+
+
+---
+
+<img src="img/myndig.jpg" align="right" width="40%" height="40%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+---
+
 
 
 **Værgemål og fornuftsmangel**
@@ -2411,8 +2459,7 @@ Svig: Fejlinformation, urigtige oplysninger og  fortielser, der bruges eller til
 
 * Løftet om køb af båden kan erklæres ugyldigt, hvis modtageren af løftet var i ond tro bådesælgeren. Løftet er så ikke bindende for bådekøberen
 
-* Bådesælgeren er i ond tro, hvis: han vidste eller burde vide om et forhold og alligevel vælger imod bedrevidende, at bruge urigtige oplysninger eller fortie sandheden, for at få en 
-aftale i hus.
+* Bådesælgeren er i ond tro, hvis: han vidste eller burde vide om et forhold og alligevel vælger imod bedrevidende, at bruge urigtige oplysninger eller fortie sandheden, for at få en aftale i hus.
 
 
 
@@ -2420,6 +2467,8 @@ aftale i hus.
 
 
 **Situation:** 
+
+<img src="img/bod.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 * Peter (tredjemand) har sin båd til salg hos Bo Bådesælger. Peter møder en interesseret køber på Bo's parkeringsplads, og fortæller at båden har været A P Møllers i 1990’erne. På den baggrund bliver båden solgt med det samme.
@@ -2443,7 +2492,9 @@ Dertil kommer, at svig som udgangspunkt er udtryk for forsæt til formueskade, h
 
 **Aftalers ugyldighed udnyttelse**, jf. aftalelovens § 31
 
-Situation: Bent låner Anders penge og Bent kræver urimeligt høje renter (åger-renter). Bent er vidende om at A er i økonomiske vanskeligheder, og ikke kan låne penge andre steder.  
+**Situation:** 
+
+Bent låner Anders penge og Bent kræver urimeligt høje renter (åger-renter). Bent er vidende om at A er i økonomiske vanskeligheder, og ikke kan låne penge andre steder.  
 
 Når Bent i aftaleøjemed udnytter viden om Anders´ vanskeligheder, eller manglende viden/indsigt mv., er der tale om udnyttelse. Bent er i ond tro og aftalen er ugyldig.  
 
@@ -2516,8 +2567,7 @@ tvang eller at løftegiver var umyndig
 
 *	Aftalelovens § 33: I **strid med almindelig hæderlighed**
 
-*	**Generalklausulen**, aftalelovens § 36: Aftalen kan tilsidesættes helt eller delvis, hvis det ville være urimeligt eller i strid med redelig handlemåde at gøre den gældende. Ved 
-forbrugeraftaler gælder yderligere aftalelovens § 38c, stk. 2!
+*	**Generalklausulen**, aftalelovens § 36: Aftalen kan tilsidesættes helt eller delvis, hvis det ville være urimeligt eller i strid med redelig handlemåde at gøre den gældende. Ved forbrugeraftaler gælder yderligere aftalelovens § 38c, stk. 2!
 
 I urimelighedsvurderingen indgår:
 
@@ -11308,6 +11358,10 @@ Den studerende skal honoreres for relevante overvejelser, demonstrering af kends
 
 ## Gældssanering
 
+
+<img src="img/gald.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+
 Skifteretten kan efter en skyldners begæring afsige kendelse om gældssanering, såfremt skyldneren godtgør, at skyldneren ikke er i stand til og inden for de nærmeste år ingen udsigt har til at kunne opfylde sine gældsforpligtelser, og det må antages, at gældssanering vil føre til en varig forbedring af skyldnerens økonomiske forhold, jf. konkurslovens (KL) § 197, stk. 1.
 
 **Der gælder følgende betingelser for en gældssanering**:
@@ -14219,12 +14273,12 @@ Sikringsakt foretages for at sikre erhververen mod overdragerens aftaleerhverver
 
 ## Overdragelse af fordringer
 
----
+
 
 ***Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af fordringers overdragelse***:
 
 
-<img src="img/Hvadderervigtigst.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/Hvadderervigtigst.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 • **Fortabelse af indsigelser og rettigheder, GBL § 27 (simple)**
@@ -14239,7 +14293,10 @@ Sikringsakt foretages for at sikre erhververen mod overdragerens aftaleerhverver
 
 ---
 
+
+
 ### Hvad er en fordring?
+
 
 <img src="img/over1.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
@@ -14293,7 +14350,7 @@ Efter RPL § 508 skal en fordring kunne identificeres, for at man kan foretage u
 
 Det betyder kun, at der er et krav om, at man kan bevise, at fordringen eksisterer, men ikke at den fx foreligger i skriftlig form mv.
 
-<img src="img/over2.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 
 Som eksempler på fordringer kan nævnes:
 
@@ -14309,11 +14366,17 @@ Som eksempler på fordringer kan nævnes:
 *  tilgodehavender bestående af gevinster
 *  erstatningskrav for såvel tingsskade som for personskade
 *  lån af penge
-*  koncerninterne skattekrav, fx et datterselskabs tilgodehavende hos    administrationsselskabet i form af ikke-betalt skatteværdi af et udnyttet underskud
+*  koncerninterne skattekrav, fx et datterselskabs tilgodehavende hos administrationsselskabet i form af ikke-betalt skatteværdi af et udnyttet underskud
 
 
 
 <img src="img/over3.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+
+
+<img src="img/over2.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+
 
 ---
 
@@ -14802,28 +14865,58 @@ edges <- data.frame(from = c(1,2,2), to = c(2,3,4),
 
 
 
-Ved overdragelse af simple gældsbreve eller simple fordringer får erhververen ikke bedre ret end overdrageren, hverken over for gældsbrevets eller fordringens skyldner eller over for en tidligere indehaver af fordringen, jf. GBL § 27. En overdragelse kan derfor ikke føre til, at skyldneren mister sine indsigelser. De indsigelser, skyldneren havde mod overdrageren, kan han også gøre gældende mod erhververen, selv om erhververen var i god tro. Det gælder også, når der er foretaget udlæg i fordringen, jf. GBL § 27.  
+Ved overdragelse af simple gældsbreve eller simple fordringer får erhververen ikke bedre ret end overdrageren, hverken over for gældsbrevets eller fordringens skyldner eller over for en tidligere indehaver af fordringen, jf. GBL § 27. 
+
+En overdragelse kan derfor ikke føre til, at skyldneren mister sine indsigelser. 
+
+De indsigelser, skyldneren havde mod overdrageren, kan han også gøre gældende mod erhververen, selv om erhververen var i god tro. 
+
+Det gælder også, når der er foretaget udlæg i fordringen, jf. GBL § 27. 
+
+---
+
+**Begrebet: Dobbeltoverdragelse**
+
+Hvis en rettighedshaver (A) disponerer mere end en gang over den samme rettighed, er der en rettighedskonflikt mellem de to erhververe (B og C)
+
+
+<img src="img/dobbeltoverdragelse.png" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+(kilde; Trojka)
+
+---
+
+
 
 ### Udlæg i en simple gældsbrev eller den simple fordring 
-Hvis det simple gældsbrev eller den simple fordring er knyttet til et dokument, bør fogeden tage dokumentet i forvaring, jf. RPL § 523, stk. 2. Dette er ikke for at iagttage en sikringsakt, men derimod af hensyn til legitimationsvirkningen hvor fratagelse af rådigheden kan få betydning, jf. RPL § 524.
-<br>
+
+Hvis det simple gældsbrev eller den simple fordring er knyttet til et dokument, bør fogeden tage dokumentet i forvaring, jf. RPL (retsplejeloven) § 523, stk. 2. 
+
+Dette er ikke for at iagttage en sikringsakt, men derimod af hensyn til legitimationsvirkningen hvor fratagelse af rådigheden kan få betydning, jf. RPL § 524.
+
 Sikringsakt ved overdragelse af simpelt gældsbrev eller simpel fordring, herunder sekundære udlæg:
-<br>
-Den, der får overdraget et simpelt gældsbrev eller en simpel fordring til eje eller pant, skal derimod foretage en sikringsakt for at være beskyttet mod overdragerens retsforfølgende kreditorer. Sikringsakten består i, at fordringsskyldneren får besked om overdragelsen fra overdrageren eller erhververen, jf. GBL § 31, stk. 1.  
+
+Den, der får overdraget et simpelt gældsbrev eller en simpel fordring til eje eller pant, skal derimod foretage en sikringsakt for at være beskyttet mod overdragerens retsforfølgende kreditorer. 
+
+Sikringsakten består i, at fordringsskyldneren får besked om overdragelsen fra overdrageren eller erhververen, jf. GBL § 31, stk. 1.  
 
 ## Omsætningsgældsbreve
 
 ### Betalingslegitimation
 
 *  Betaling til den, der har gældsbrevet i hænde (besiddelse), jf. her GBL § 13
+
 *  Skyldner kan betale ordinære afdrag til overdrager, hvis:
+
 *  Skyldner er i god tro om overdragelse til erhverver og
 *  Afdrag og evt. renter er forfaldne til betaling, jf. her GBL § 20
 *  Skyldner skal betale restgæld og ekstraordinære afdrag til ihændehaveren, jf. her GBL § 19
 *  Skyldner kan kræve gældsbrevet udleveret ved indfrielse af gælden
-*  Skyldner kan kræve at gældsbrevet får en påtegning om ekstraordinære afdrag, jf. her GBL § 21, stk. 3
+*  Skyldner kan kræve at gældsbrevet får en påtegning om ekstraordinære afdrag, jf. her GBL § 21, stk. 3.
 
-Den lidt længere forklaring om betalingslegitimation (legitimationsvirkningen) ved omsætningsgældsbreve: 
+
+
+***Den lidt længere forklaring om betalingslegitimation (legitimationsvirkningen) ved omsætningsgældsbreve:*** 
+
 Den, der på lovlig vis har fået omsætningsgældsbrevet i hænde, har ret til at gøre fordringen gældende, jf. GBL § 13.
 
 
@@ -14831,39 +14924,69 @@ Den, der på lovlig vis har fået omsætningsgældsbrevet i hænde, har ret til 
 For tinglyste digitale pantebreve er den, der er berettiget ifølge tingbogen, legitimeret til at gøre fordringen gældende, jf. TL § 27a, stk. 1.   
 
 *  Tilsvarende gælder for bilbogen (TL § 42g, stk. 3, 1. pkt., jf. TL § 27a, stk. 1), 
+
 *  andelsboligbogen (TL § 42m, stk. 2, 1. pkt, jf. TL § 27a, stk.1) og 
+
 *  personbogen (TL § 47, stk. 7, 1. pkt., jf. TL § 27a, stk. 1).  
 
-<br>
-Reglen om overdragelse af omsætningsgældsbreve og reglen om legitimationen over for skyldner bygger på GBL § 13, jf. GBL §§ 14 og 19. Når skyldneren betaler til den, der er legitimeret efter GBL § 13, frigøres skyldneren, såfremt skyldneren er i god tro, jf. GBL § 19. 
-<br>
-Betalingen har frigørende virkning, selv om ihændehaverens inkompetence skyldes, at han ikke har erhvervet ret til omsætningsgældsbrevet, eller at det var overdraget eller gjort til genstand for udlæg. Legitimationen omfatter også andre dispositioner end betaling, fx meddelelse af henstand eller ændring af betalingsvilkårene. Hvad angår tinglyste digitale pantebreve er reglerne de samme, dog med den forskel, at der ikke er krav om, at man har pantebrevet, men derimod, at man har tinglyst det, jf. TL § 27b.  
-<br>
-*  Samme bestemmelse gælder også bilbogen (TL § 42g, stk. 3, 1. 
-   pkt.), 
+
+Reglen om overdragelse af omsætningsgældsbreve og reglen om legitimationen over for skyldner bygger på GBL § 13, jf. GBL §§ 14 og 19. 
+
+Når skyldneren betaler til den, der er legitimeret efter GBL § 13, frigøres skyldneren, såfremt skyldneren er i god tro, jf. GBL § 19. 
+
+Betalingen har frigørende virkning, selv om ihændehaverens inkompetence skyldes, at han eller hun ikke har erhvervet ret til omsætningsgældsbrevet, eller at det var overdraget eller gjort til genstand for udlæg. 
+
+Legitimationen omfatter også andre dispositioner end betaling, fx meddelelse af henstand eller ændring af betalingsvilkårene. 
+
+Hvad angår tinglyste digitale pantebreve er reglerne de samme, dog med den forskel, at der ikke er krav om, at man har pantebrevet, men derimod, at man har tinglyst det, jf. TL § 27b.  
+
+*  Samme bestemmelse gælder også bilbogen (TL § 42g, stk. 3, 1. pkt.), 
+
 *  andelsboligbogen (TL § 42m, stk. 2, 1. pkt.) og 
+
 *  personbogen (TL § 47, stk. 7, 1. pkt.).  
 
-<br>
-For at udlægshaver kan blive legitimeret over for gældsbrevsdebitor, skal han derfor have gældsbrevet i hænde og for de tinglyste digitale pantebreves vedkommende have tinglyst sin ret, jf. RPL § 523, stk. 2 og TL § 27a. Reglen gælder også bilbogen, andelsboligbogen og personbogen.  
 
-<br>
-Hvis et omsætningsgældsbrev er overdraget, men skyldneren har betalt forfaldne renter eller forfaldne, tidsfæstede afdrag til overdrageren, kan han gøre dette gældende over for en senere erhverver af omsætningsgældsbrevet, jf. GBL § 16. Samme regel gælder for de tinglyste digitale pantebreve, jf. TL § 27a, stk. 2, 1. pkt. Udstederen af et gældsbrev bevarer også sine indsigelser om, at gældsbrevet er udstedt under tvang, ved forfalskning m.v., og om at gældsbrevet er ophørt ved forældelse m.v., jf. GBL § 17 og TL § 27a, stk. 2, 2. pkt. Bestemmelserne gælder også bilbogen, andelsboligbogen og personbogen.  
-<br>
+For at udlægshaver kan blive legitimeret over for gældsbrevsdebitor, skal denne derfor have gældsbrevet i hænde og for de tinglyste digitale pantebreves vedkommende have tinglyst sin ret, jf. RPL § 523, stk. 2 og TL § 27a. 
+
+Reglen gælder også bilbogen, andelsboligbogen og personbogen.  
+
+
+Hvis et omsætningsgældsbrev er overdraget, men skyldneren har betalt forfaldne renter eller forfaldne, tidsfæstede afdrag til overdrageren, kan skyldneren gøre dette gældende over for en senere erhverver af omsætningsgældsbrevet, jf. GBL § 16. 
+
+Samme regel gælder for de tinglyste digitale pantebreve, jf. TL § 27a, stk. 2, 1. pkt. 
+
+Udstederen af et gældsbrev bevarer også sine indsigelser om, at gældsbrevet er udstedt under tvang, ved forfalskning m.v., og om at gældsbrevet er ophørt ved forældelse m.v., jf. GBL § 17 og TL § 27a, stk. 2, 2. pkt. 
+
+Bestemmelserne gælder også bilbogen, andelsboligbogen og personbogen.  
+
 <img src="img/over4.png" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 Hvis et omsætningsgældsbrev er overdraget, kan skyldneren med frigørende virkning betale forfaldne renter og forfaldne, tidsfæstede afdrag til overdrageren, medmindre skyldneren vidste, at denne ikke længere havde ret til at modtage betaling eller havde grund til mistanke derom, jf. GBL § 20. En tilsvarende regel gælder for de tinglyste digitale pantebreve, jf. TL § 29, stk. 2.  
-<br>
-Legitimationsvirkningen indtræder derfor, når udlægshaver meddeler gældsbrevsdebitor, at betaling med frigørende virkning kun kan ske til udlægshaveren. Udlæg i omsætningsgældsbreve skal derfor altid meddeles over for gældsbrevsdebitor. Dette gælder også for udlæg i de tinglyste digitale pantebreve. Debitor skal anmodes om kvittering for, at han har modtaget underretningen.  
-<br>
+
+Legitimationsvirkningen indtræder derfor, når udlægshaver meddeler gældsbrevsdebitor, at betaling med frigørende virkning kun kan ske til udlægshaveren. 
+
+Udlæg i omsætningsgældsbreve skal derfor altid meddeles over for gældsbrevsdebitor. 
+
+Dette gælder også for udlæg i de tinglyste digitale pantebreve. 
+
+Debitor skal anmodes om kvittering for, at han har modtaget underretningen.  
+
 Gældsbrevsdebitor bliver ved betaling til udlægshaver frigjort under samme betingelser som ved betaling efter overdragelse af et gældsbrev, jf. RPL § 524.  
-<br>
-## Skyldners indsigelser
-<br>
-*  Svage indsigelser går tabt for skyldner, når gældsbrevet er overdraget, jf. GBL § 15 hvis: (se figur \@ref(fig:fordring11))
+
+
+### Skyldners indsigelser
+
+*  Svage indsigelser går tabt for skyldner, når gældsbrevet er overdraget, jf. GBL § 15 hvis
+
   + Overdragelsen til erhverver er sket ved gyldig aftale
+  
   +	Erhverver er i god tro om indsigelsen
+  
   +	Den gode tro er tilstede på det tidspunkt gældsbrevet bliver overdraget fysisk
+  
 * Skyldner bevarer stærke indsigelser også overfor en erhverver i god tro, jf. GBL § 17
+
 
 ```{r fordring11,echo=FALSE, result=TRUE, fig.cap=("Skyldners indsigelser")}
 nodes <- data.frame(id = 1:4, 
@@ -14892,11 +15015,14 @@ edges <- data.frame(from = c(1,2,2,1,1), to = c(2,3,4,3,4),
  
 ### Konflikt mellem senere erhververe
 
-*  Kædeoverdragelse, jf. GBL § 14 (se figur \@ref(fig:fordring12))
+*  Kædeoverdragelse, jf. GBL § 14 
+
 En aftaleerhverver (ikke retsforfølgende kreditor) kan fortrænge en tidligere indsigelse, hvis aftaleerhverver:
+
   +	Er i god tro om indsigelsen
   +	Har fået gældsbrevet udleveret
   +	Har en berettiget forventning om at overdragelsen er gyldig
+  
 
 ```{r fordring12,echo=FALSE, result=TRUE, fig.cap=("Skyldners indsigelser")}
 nodes <- data.frame(id = 1:4, 
@@ -14923,10 +15049,15 @@ edges <- data.frame(from = c(1,2,3), to = c(2,3,4),
 ```
 
 En aftaleerhververs ret til et omsætningsgældsbrev kan således ikke anfægtes af andre, hvis aftaleerhververen har fået gældsbrevet i hænde og er i god tro om overdragerens ret, jf. her GBL § 14.
-Sikringsakten over for aftaleerhververe er derfor rådighedsberøvelse, hvad angår disse gældsbreve. Det vil sige, at man ved udlæg i disse omsætningsgældsbreve efter RPL § 523, stk. 2, altid skal tage gældsbrevet i forvaring.
-<br>
-Et udlæg i fordringer, herunder omsætningsgældsbreve, er beskyttet over for andre retsforfølgende kreditorer straks fra dets foretagelse. Udlægshaver skal derfor ikke foretage nogen særlig sikringsakt i forhold til andre kreditorer, jf. RPL § 526, stk. 1 og 2.
-<br>
+
+Sikringsakten over for aftaleerhververe er derfor rådighedsberøvelse, hvad angår disse gældsbreve. 
+
+Det vil sige, at man ved udlæg i disse omsætningsgældsbreve efter RPL § 523, stk. 2, altid skal tage gældsbrevet i forvaring.
+
+Et udlæg i fordringer, herunder omsætningsgældsbreve, er beskyttet over for andre retsforfølgende kreditorer straks fra dets foretagelse. 
+
+Udlægshaver skal derfor ikke foretage nogen særlig sikringsakt i forhold til andre kreditorer, jf. RPL § 526, stk. 1 og 2.
+
  
 
 
@@ -14938,7 +15069,7 @@ Et udlæg i fordringer, herunder omsætningsgældsbreve, er beskyttet over for a
 
 <img src="img/over5.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-<br>
+
 * **HR:** Først i tid bedst i ret.  
   + U1: En aftaleerhverver kan vinde over en andens ret ved at 
     foretage sikringsakten først i god tro.  
@@ -15316,8 +15447,9 @@ En aftaleerhverver (ikke kreditor) kan fortrænge en tidligere indsigelse hvis:
 
 •	**Sikringsakt** 
 •	**Fordringers ophør:** 
+
   o **Forældelse**  
-  o **Modregning – almindelige betingelser + GBL § 27 og 28** 
+  o **Modregning – almindelige betingelser + GBL § 27 og 28**
   o **Betaling med frigørende virkning, GBL § 29 og 30** 
 
 ---
@@ -15328,7 +15460,9 @@ En aftaleerhverver (ikke kreditor) kan fortrænge en tidligere indsigelse hvis:
 <img src="img/modregning.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
-**Modregning** er en måde at opfylde/afslutte krav på. Modregning bringer krav til ophør i det omfang, kravene dækker hinanden. Det gøres ved, at den ene parts krav fratrækkes den anden parts krav.
+**Modregning** er en måde at opfylde/afslutte krav på. Modregning bringer krav til ophør i det omfang, kravene dækker hinanden. 
+
+Det gøres ved, at den ene parts krav fratrækkes den anden parts krav.
 
 Modregning har karakter af betaling. Modregning er en forenkling af betalingssystemet.
 
@@ -15336,12 +15470,16 @@ Ved modregning opgiver den ene part sit krav hos den anden part. Men samtidig br
 
 Modregning gør ikke, at parterne slipper for at overholde reglerne i lovgivningen. Lovgivningen om bogføring og anden lovgivning (beregning af moms osv.) skal naturligvis overholdes.
 
-Modregning har også karakter af privat tvangsfuldbyrdelse. Modregning kan nemlig ske, hvis den ene part ønsker det. Der behøver ikke at foreligge en aftale mellem parterne eller et samtykke fra modparten. Modregningen indebærer altså, at fordringen bliver opfyldt, selv om en part ikke kan eller vil betale.
+Modregning har også karakter af privat tvangsfuldbyrdelse. Modregning kan nemlig ske, hvis den ene part ønsker det. 
+
+Der behøver ikke at foreligge en aftale mellem parterne eller et samtykke fra modparten. 
+
+Modregningen indebærer altså, at fordringen bliver opfyldt, selv om en part ikke kan eller vil betale.
 
 Modregning sker ved, at den ene part afgiver en erklæring (modregningserklæring) om modregning til den anden.
-I modregning gælder en særlig sprogbrug. Skemaet viser betydningen af sprogbrugen:
 
----
+I modregning gælder en særlig sprogbrug: 
+
 
 **Begreber**
 
@@ -15353,18 +15491,18 @@ I modregning gælder en særlig sprogbrug. Skemaet viser betydningen af sprogbru
 
 **Hovedfordringen**: Modregnerens skyld til den anden part
 
----
-
 **Konneksitet** betyder, at der er tale om krav, som har fælles oprindelse.
 
 Ved tvungen ikke-konneks modregning kan modregning ske, uden at der foreligger en aftale om modregning mellem parterne.
 
 Tvungen ikke-konneks modregning iværksættes ved, at modregneren afgiver en modregningserklæring. 
 
-Modregningserklæringen har karakter af påbud til hovedmanden. Han kan derfor ikke afvise erklæringen, og den har virkning, så snart den er kommet frem til ham.
+Modregningserklæringen har karakter af påbud til hovedmanden. 
+Han kan derfor ikke afvise erklæringen, og den har virkning, så snart den er kommet frem til ham.
 
 Fordringer vedbliver således med at bestå med deres fulde beløb, indtil modregning er erklæret, og ophører først, når erklæringen er nået frem til hovedmanden.
 
+---
 
 ## Betingelser for tvungen ikke-konneks modregning
 
@@ -15372,43 +15510,65 @@ For at tvungen ikke-konneks modregning må finde sted, er der en række betingel
 
 Disse betingelser skal alle være opfyldte på det tidspunkt, hvor den tvungne ikke-konnekse modregning iværksættes.
 
- 
 
-Betingelserne for modregning er følgende:
+**Betingelserne for modregning er følgende**:
 
 * Kravene er udjævnelige
 * Kravene er afviklingsmodne
 * Kravene er gensidige
 * Modkravet er retskraftigt
 
-Ad. Kravene til udjævnelighed
-Betingelsen om udjævnelighed betyder, at kravene kan benyttes til korrekt opfyldelse af hinanden. Betingelsen om udjævnelighed er opfyldt, når både hovedfordringen og modfordringen er pengefordringer.
+**Ad. Kravene til udjævnelighed**
 
-Kravene behøver ikke at være lige store, for at tvungen modregning må gennemføres. Blot kravene er delelige, må der modregnes over for en hovedfordring, der er større end modfordringen, og modregnes med en modfordring, der er større end hovedfordringen.
+Betingelsen om udjævnelighed betyder, at kravene kan benyttes til korrekt opfyldelse af hinanden. 
 
-Ad. Kravene er afviklingsmodne
-At kravene er afviklingsmodne betyder, at modfordringens forfaldstidspunkt er kommet, mens hovedfordringens frigørelsestidspunkt skal være kommet. Forfaldstidspunktet er det tidspunkt, hvor kreditor kan kræve, at debitor betaler, hvad han skylder. Frigørelsestidspunktet er det tidspunkt, hvor debitor har ret til at frigøre sig ved at betale, hvad han skylder.
+Betingelsen om udjævnelighed er opfyldt, når både hovedfordringen og modfordringen er pengefordringer.
+
+Kravene behøver ikke at være lige store, for at tvungen modregning må gennemføres. 
+
+Blot kravene er delelige, må der modregnes over for en hovedfordring, der er større end modfordringen, og modregnes med en modfordring, der er større end hovedfordringen.
+
+**Ad. Kravene er afviklingsmodne**
+
+At kravene er afviklingsmodne betyder, at modfordringens forfaldstidspunkt er kommet, mens hovedfordringens frigørelsestidspunkt skal være kommet. 
+
+Forfaldstidspunktet er det tidspunkt, hvor kreditor kan kræve, at debitor betaler, hvad han skylder. 
+
+Frigørelsestidspunktet er det tidspunkt, hvor debitor har ret til at frigøre sig ved at betale, hvad han skylder.
 
 Denne betingelse er begrundet i, at en kreditor kan kræve betaling, når forfaldstidspunktet er kommet, mens en debitor kan frigøre sig fra sin gæld, når frigørelsestidspunktet er kommet.
 
-Med "forfaldstidspunkt" menes sidste rettidige betalingsdag, da betaling som udgangspunkt ikke må kræves før da.
+Med **"forfaldstidspunkt"** menes sidste rettidige betalingsdag, da betaling som udgangspunkt ikke må kræves før da.
 
-Ad. Kravene er gensidige
+**Ad. Kravene er gensidige**
+
 Modregning må kun ske, hvor to personer (fysiske og/eller juridiske personer) har krav på hinanden, således at debitor efter den ene fordring er kreditor efter den anden fordring.
 
-Ad. Modkravet er retskraftigt
-At modkravet skal være retskraftigt betyder, at modfordringen ikke må være bortfaldet, fx ved forældelse eller præklusion.
+**Ad. Modkravet er retskraftigt**
+
+At modkravet skal være retskraftigt betyder, at modfordringen ikke må være bortfaldet, fx ved *forældelse* eller *præklusion* (En ret kan ophøre ved præklusion, hvis retten ikke gøres gældende rettidigt f.eks. en kreditors krav, når der indrykkes et proklama i et dødsbo).
+
 Hvis modfordringen er bortfaldet, er modregning udelukket.
+
 
 ## Ophør ved forældelse
 
-Hvorfor forældelsesregler? (afsnit 15.2.1.)
-Retsvirkningerne af forældelse (afsnit 15.2.2.)
-Om forældelsesfrister i forældelsesloven (afsnit 15.2.3.)
-Forældelsesfrister - pengelån, indlån, kaution (afsnit 15.2.4.)
-Afbrydelse af forældelse (afsnit 15.2.5.)
 
-## Hvorfor forældelsesregler? 
+**Der bliver behandlet følgende vigtige emner vedrørende forældelse**:
+
+
+* Hvorfor forældelsesregler? (afsnit 17.3.1.)
+
+* Retsvirkningerne af forældelse (afsnit 17.3.2.)
+
+* Om forældelsesfrister i forældelsesloven (afsnit 17.3.3.)
+
+* Forældelsesfrister - pengelån, indlån, kaution (afsnit 17.3.4.)
+
+* Afbrydelse af forældelse (afsnit 17.3.5.)
+
+
+### Hvorfor forældelsesregler? 
 
 Forældelsesreglerne er nødvendige regler, der primært er til for at udelukke gamle krav, som det kan være svært at føre bevis for eksistensen af, eller krav, som de involverede parter havde indrettet sig på ikke længere eksisterede.
 
@@ -15434,7 +15594,8 @@ Skyldner skal ikke betale, hvis kravet er forældet
    + Misligholdelsestidspunkt, hvis en kontrakt bliver misligholdt
    + Skadestidspunkt, hvis kravet opstår som følge af erstatningsansvar for en skade
 
-## Retsvirkningerne af forældelse 
+### Retsvirkningerne af forældelse
+
 Når forældelsen faktisk indtræder, ophører forpligtelsen helt med at eksistere – uanset om de involverede parter har kendskab til fordringen eller ej, eller om de med vilje ikke har betalt. 
 
 Det er heller ikke nødvendigt at meddele modparten, at kravet er forældet. Man kan forholde sig passiv.
@@ -15443,9 +15604,11 @@ Renter mv. af en forældet fordring bliver forældede samtidig med selve fordrin
 
 Det er i mange situationer muligt at aftale, at forældelsen ikke skal indtræde. Dog kan forældelsesfristerne i forældelsesloven ikke på forhånd fraviges til skade for en forbruger.
 
-## Om forældelsesfrister i forældelsesloven 
+### Om forældelsesfrister i forældelsesloven 
 
-Forældelseslovens opbygning er lavet sådan, at der er en almindelig forældelsesfrist på 3 år. Det fremgår af forældelseslovens § 3, stk. 1.
+Forældelseslovens opbygning er lavet sådan, at der er en almindelig forældelsesfrist på 3 år. 
+
+Det fremgår af forældelseslovens § 3, stk. 1.
 
 Denne regel er dog suppleret med en lang række andre frister og udsættelsesmuligheder, der gælder for særlige situationer og særlige retsforhold.
 
@@ -15511,13 +15674,16 @@ Når en fordring er sikret ved kaution, forældes kautionen ligesom den fordring
    + Pengelån
  
 
-## Afbrydelse af forældelse 
+### Afbrydelse af forældelse 
 
-I forældelseslovens kapitel 5 findes der nogle regler om, hvordan forældelsen kan afbrydes. Det vil sige, at fristen kan komme til at løbe længere end det umiddelbare udgangspunkt.
+I forældelseslovens kapitel 5 findes der nogle regler om, hvordan forældelsen kan afbrydes. 
+
+Det vil sige, at fristen kan komme til at løbe længere end det umiddelbare udgangspunkt.
 
 Der skal sondres mellem egentlig afbrydelse og foreløbig afbrydelse.
 
 Egentlig afbrydelse af en forældelsesfrist kan ske ved anerkendelse af gælden, eller ved at fordringshaverne foranstalter tvangsinddrivelse. 
+
 Konsekvensen af afbrydelsen er, at fristen ikke løber længere.
 
 * Når fristen afbrydes, starter den forfra
@@ -15531,112 +15697,94 @@ Konsekvensen af afbrydelsen er, at fristen ikke løber længere.
 * Klage til et godkendt tvistløsningsorgan (klage- og ankenævn) ankenævn)
 
 
-Suspenderet frist 
+**Suspenderet frist:** 
+
 * Betyder at fristen løber først fra et senere tidspunkt
+
 * Hvis kreditor ikke kendte til kravet (fx fordi kreditor ikke er klar over, at der er en skade)
+
 * Hvis kreditor ikke kendte til skyldner (fx fordi kreditor ikke ved, hvem der har ansvar for skaden)
+
 * Fristen kan ikke suspenderes ud over de lange frister på 10 eller 30 år (miljø- og personskader)
 
-<h3>Forældelse af erstatningskrav</h3>
+...
+
+**Video: Forældelse af erstatningskrav**
+
+
 <div class="video-container"><iframe src="https://www.youtube.com/embed/3zskyjImReg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
+---
 
+**Video om forældelsesfrister ved gæld**
 
-<h3>Forældelsesfrister ved gæld</h3>
 <div class="video-container"><iframe src="https://www.youtube.com/embed/krDpzh9ugJ0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
+---
 
-<h3>Gode råd om gæld og om forældelse</h3>
+** Video: Gode råd om gæld og om forældelse**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/1W-4uy3N-3Q" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
+
+**Video om at få styr på sin gæld. Omkostninger og forældelse**
+
 <div class="video-container"><iframe src="https://www.youtube.com/embed/hWILK4x7P_s" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
-
+---
 
 
 
 ## Deponering
 
-Aftalt deponering eller efter deponeringsloven (Lovbekendtgørelse nr. 339 2. april 2014 om skyldneres ret til at frigøre sig ved deponering). 
+Aftalt deponering eller efter deponeringsloven (Lovbekendtgørelse nr. 339 2. april 2014 om skyldneres ret til at frigøre sig ved deponering).
+
+
+
+<img src="img/deponeringafpenge.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 
 Loven vedrører en debitors mulighed for med frigørende virkning at deponere sin ydelse i form af penge eller værdipapirer med den virkning, at debitor stilles, som om han havde opfyldt sin forpligtelse.
 
-* Deponering betyder, at debitor betaler til en konto i en bank med    frigørende virkning
+* Deponering betyder, at debitor betaler til en konto i en bank med frigørende virkning
 
-* Deponering kan ske, når:
 
-   + Debitor ikke kan betale på grund af kreditors forhold, fx hvis       kreditor er væk
+* **Deponering kan ske, når**:
+
+   + Debitor ikke kan betale på grund af kreditors forhold, fx hvis kreditor er væk
    
-   + Kreditor ikke vil opfylde debitors betingelser, fx udlevere en       kvittering
+   + Kreditor ikke vil opfylde debitors betingelser, fx udlevere en kvittering
    
    + Det er uvist, hvem der er rette kreditor
    
-* Deponering kan ikke ske i andre tilfælde - heller ikke fx hvis  
-  debitor er utilfreds med huslejens størrelse
+* Deponering kan ikke ske i andre tilfælde - heller ikke fx hvis debitor er utilfreds med huslejens størrelse
 
 
+<img src="img/deponering.png" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+(kilde; Trojka)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Pant i fast ejendom og løsøre
-
-
-
-***Som finansstuderende skal du være særlig opmærksom på følgende forhold ved gennemlæsning af pensum om pant i fast ejendom og løsøre***:
 
 ---
+
+
+# Pant i fast ejendom, løsøre og virksomhedspant
+
+
+![](img/tinglysning7.jpg)
+
+---
+
+***Som studerende skal du være særlig opmærksom på følgende forhold ved gennemlæsning af pensum om pant i fast ejendom, løsøre og virksomhedspant***:
+
+
 
 <img src="img/Hvadderervigtigst.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
----
 
 
-***Virksomhedspant/fordringspant***
-
-
-* **Virksomhedspant TL § 47c - § 47f**
-
-* **Hvad der er omfattet af virksomhedspantet også ift. til pantets omfang i fast ejendom og fordringspantet**
-
-* **Virksomhedspant ved skadesløsbrev/ejerpantebrev (indhold, omfang, udskillelse ifølge regelmæssig drift, prioritetskonflikter, forholdet til anden pantsætning og individualforfølgning/udlæg)**
-
-* **Fordringspant TL § 47d** 
-
----
-
-***Underpant i løsøre***
-
-
-* **Underpant i løsøre (inkl. motorkøretøjer m.m.)**
-
-* **Stiftelse**
-
-* **Sikringsakt**
-
-* **Prioriteter** 
-
-
-
-***Underpant i fast ejendom***
+***Underpant i fast ejendom:***
 
 
 * **Stiftelse, TL § 1**
@@ -15649,29 +15797,40 @@ Loven vedrører en debitors mulighed for med frigørende virkning at deponere si
   
 * **Overordnet om oprykning, § 40** 
 
-* **Tilbehørspant, TL §§ 37-38**  
- 
----
+* **Tilbehørspant, TL §§ 37-38** 
 
-![](img/tinglysning7.jpg)
+* **Prioritetskonflikt, TL § 1 (prioritetskonflikt) og TL § 5 (god tros begrebet)** 
 
----
+* **Ejerpantebreve, TL § 1a**  
 
-***Som studerende skal du ligeledes være særlig opmærksom på følgende problemstillinger ved din gennemgangen af tinglysning***:
+* **Forståelse for forskellen mellem en aftaleerhverver, arvinger og  retsforfølgende kreditorer**
 
----
+* **Gyldighedsvirkningen, TL § 27 (kædekonflikt) + evt. erstatningsadgang, TL § 30 og 31**
 
-<img src="img/Hvadderervigtigst.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
----
 
-**Prioritetskonflikt, TL § 1 (prioritetskonflikt) og TL § 5 (god tros begrebet)** 
+***Underpant i løsøre:***
 
-**Ejerpantebreve, TL § 1a**  
 
-**Forståelse for forskellen mellem en aftaleerhverver, arvinger og  retsforfølgende kreditorer**
+* **Underpant i løsøre (inkl. motorkøretøjer m.m.)**
 
-**Gyldighedsvirkningen, TL § 27 (kædekonflikt) + evt. erstatningsadgang, TL § 30 og 31**
+* **Stiftelse**
+
+* **Sikringsakt**
+
+* **Prioriteter** 
+
+
+
+***Virksomhedspant/fordringspant:***
+
+* **Virksomhedspant TL § 47c - § 47f**
+
+* **Hvad der er omfattet af virksomhedspantet også ift. til pantets omfang i fast ejendom og fordringspantet**
+
+* **Virksomhedspant ved skadesløsbrev/ejerpantebrev (indhold, omfang, udskillelse ifølge regelmæssig drift, prioritetskonflikter, forholdet til anden pantsætning og individualforfølgning/udlæg)**
+
+* **Fordringspant TL § 47d** 
 
 ---
 
@@ -15684,7 +15843,7 @@ Loven vedrører en debitors mulighed for med frigørende virkning at deponere si
 
 * Ejer kan give pant i aktivet til panthaver. Så bliver ejer pantsætter, og panthaver bliver også rettighedshaver
 
-* Pant reguleres i vidt omfang af reglerne i tinglysningsloven, jf.  Lovbekendtgørelse nr. 1075 af 29. september 2014 om tinglysning
+* Pant reguleres i vidt omfang af reglerne i tinglysningsloven, jf. Lovbekendtgørelse nr. 1075 af 29. september 2014 om tinglysning
 
  
 ## Pant som sikkerhed
@@ -15744,14 +15903,12 @@ scroll_box(width = "100%")
 ---
 
 
-
-
 Pantsætter (ejer) skal passe på det pantsatte aktiv. 
 
 Pantsætter:
 
    + Skal sørge for almindelig vedligeholdelse
-   + Må ikke forringe pantets værdi ud over sædvanlig slid og ælde, fx
+   + Må ikke forringe pantets værdi ud over sædvanlig slid og ælde, fx:
    
 * Værdiforringende ændringer
 
@@ -16216,6 +16373,11 @@ mydf %>%
 
 Dette gælder også, selvom ejeren ikke selv har betalt for løsøret.
 
+---
+
+<img src="img/tilvasktlaren.png" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+(Kilde; Trojka)
+
 ---  
 
 **TL § 38 – Indlagt løsøre**
@@ -16330,9 +16492,9 @@ Er driftsmateriel og driftsmidler omfattet af ejendomspantet.
 
 Altså - med undtagelse af biler, jf. stk. 3 - alle genstande, der varigt benyttes i driften som grundlag for denne (produktionsmidler), derimod (bortset fra landejendomme) ikke råvarer, halvfabrikata og færdige produkter:
 
-Se hertil U 1987 586 V (køkkener, der midlertidigt var opstillet i en køkkenfabrikants detailforretninger for at fremme salget, og som var monteret på nogenlunde samme måde som i et privat hjem, men blev udskiftet ved modelskifte mv., var ikke omfattet af en panthavers panteret efter TL § 37 og TL § 47 b, stk. 2, idet køkkenerne i princippet måtte sidestilles med enhver anden form for demonstrations/udstillingsvare, der traditionelt henregnes til en virksomheds varelager), 
+Se hertil **dommen U 1987 586 V** (køkkener, der midlertidigt var opstillet i en køkkenfabrikants detailforretninger for at fremme salget, og som var monteret på nogenlunde samme måde som i et privat hjem, men blev udskiftet ved modelskifte mv., var ikke omfattet af en panthavers panteret efter TL § 37 og TL § 47 b, stk. 2, idet køkkenerne i princippet måtte sidestilles med enhver anden form for demonstrations/udstillingsvare, der traditionelt henregnes til en virksomheds varelager), 
 
-U 1973 925 H (et vaskeri drev også virksomhed med udlejning af arbejdstøj, duge og sengelinned mv. Antaget, at disse genstande nærmest måtte sidestilles med et varelager og ikke kunne anses som driftsinventar eller driftsmateriel omfattet af TL § 37).
+**Dommen U 1973 925 H** (et vaskeri drev også virksomhed med udlejning af arbejdstøj, duge og sengelinned mv. Antaget, at disse genstande nærmest måtte sidestilles med et varelager og ikke kunne anses som driftsinventar eller driftsmateriel omfattet af TL § 37).
 
 * Bestemmelsen kan fraviges ved aftale (deklaratorisk), hvis:
 
@@ -16345,39 +16507,39 @@ Hvis ejendommen er en landejendom omfatter pantet også:
 
 * **Besætningen**. Dyr er i ældre retspraksis efter omstændighederne blevet opfattet som driftsmateriel, således at de ansås for omfattet af tilbehørspantet, selv om der ikke var tale om en landejendom:
 
-Dommen U 1981 863 V (heste i stutteri) og dommen U 1969 961 V (høns i hønseri). 
+**Dommen U 1981 863 V** (heste i stutteri) og dommen U 1969 961 V (høns i hønseri). 
 
-Men se nu dommen U 1987 807 H (en ørredbestand på et dambrug kunne ikke anses for driftsmateriel) og 
+Men se nu **dommen U 1987 807 H** (en ørredbestand på et dambrug kunne ikke anses for driftsmateriel) og 
 
-dommen U 1995 362 H (en minkfarms besætning af mink ikke anset som driftsinventar eller driftsmateriel). 
+**Dommen U 1995 362 H** (en minkfarms besætning af mink ikke anset som driftsinventar eller driftsmateriel). 
 
 Under besætning falder alle dyr, der indgår i en normal landbrugsdrift, herunder avlsdyr samt afkom:
 
-Dommen U 1935 561, således også høns, smågrise og får, 
+**Dommen U 1935 561**, således også høns, smågrise og får, 
 
-Dommen VLT 1957 159 (ekstraordinært stort fårehold, uanset at besætningen ikke kunne ernæres af gårdens produkter), men ikke kaniner, pelsdyr, duer, bier og lignende. 
+**Dommen VLT 1957 159** (ekstraordinært stort fårehold, uanset at besætningen ikke kunne ernæres af gårdens produkter), men ikke kaniner, pelsdyr, duer, bier og lignende. 
 
-Det må dog kræves, at dyrene har væsentlig betydning for ejendommen, hvorfor man snarere vil medtage høns ved husmandsbrug, dommen U 1937 154, end ved større landejendomme, jf. dommen U 1935 373.
+Det må dog kræves, at dyrene har væsentlig betydning for ejendommen, hvorfor man snarere vil medtage høns ved husmandsbrug, **dommen U 1937 154, end ved større landejendomme, jf. dommen U 1935 373**.
  
-* Gødning, afgrøder og andre frembringelser. En landbrugsejendoms mælkekvote er ikke omfattet af TL § 37, og det samme gælder et krav på godtgørelse for ophør med mælkeleverance, jf. dommen U 1992 815 V. 
+* Gødning, afgrøder og andre frembringelser. En landbrugsejendoms mælkekvote er ikke omfattet af TL § 37, og det samme gælder et krav på godtgørelse for ophør med mælkeleverance, jf. **dommen U 1992 815 V**. 
 
-Såvel den på roden værende som den indhøstede avl og afgrøde, dommen U 1964 746 V. 
+Såvel den på roden værende som den indhøstede avl og afgrøde, **dommen U 1964 746 V**. 
 
-Panthaverne i den faste ejendom må dog respektere høstpant stiftet i henhold til lov om høstpant. Om kartoffelleveringsrettigheder se dommen U 1998 209/2 V og dommen U 2000 967 V.
+Panthaverne i den faste ejendom må dog respektere høstpant stiftet i henhold til lov om høstpant. Om kartoffelleveringsrettigheder se **dommen U 1998 209/2 V og dommen U 2000 967 V**.
 
 * En landejendom er oftest en traditionel gård med jordbrug og besætning. 
 
-Der må være tale om en egentlig jordbrugsvirksomhed, dommen U 1995 362 H (minkfarm ikke omfattet), 
+Der må være tale om en egentlig jordbrugsvirksomhed, **dommen U 1995 362 H** (minkfarm ikke omfattet), 
 
-Dommen U 1987 807 H (dambrug ikke omfattet), 
+**Dommen U 1987 807 H** (dambrug ikke omfattet), 
 
-Dommen U 1981 863 V (en ejendom, der var noteret som landbrugsejendom, men som gennem lang tid udelukkende havde været drevet som stutteri og var indrettet specielt hertil, var ikke omfattet), 
+**Dommen U 1981 863 V** (en ejendom, der var noteret som landbrugsejendom, men som gennem lang tid udelukkende havde været drevet som stutteri og var indrettet specielt hertil, var ikke omfattet), 
 
-Dommen U 1969 961 V (hønseri ikke anset for landejendom), 
+**Dommen U 1969 961 V** (hønseri ikke anset for landejendom), 
 
-Dommen U 1933 762 (ligeledes), 
+**Dommen U 1933 762** (ligeledes), 
 
-Dommen VLT 1935 58 (pant i smedje med tilhørende areal af 1 td land antoges ikke at omfatte 1 hest, 1 ko og nogle smågrise, selv om stald var indrettet i husets ene ende). 
+**Dommen VLT 1935 58** (pant i smedje med tilhørende areal af 1 td land antoges ikke at omfatte 1 hest, 1 ko og nogle smågrise, selv om stald var indrettet i husets ene ende). 
 
 Det er uden betydning, om ejendommens jorder er beliggende i en landkommune eller ikke. 
 
@@ -16387,9 +16549,11 @@ Muligvis kan antallet af dyr på en ejendom være så stort, at der ikke er tale
 
 Det er derimod ikke nødvendigt, at opdræt af en besætning udelukkende baseres på ejendommens egen avl af foder.
 
-**Uden for panteretten falder personlige brugsgenstande**, jf. dommen U 1975 323 Ø. (udsmykningsgenstande, herunder en antik våbensamling, i restaurationsvirksomhed ikke anset for omfattet af TL § 37, hvorimod et farvefjernsyn efter sin placering og anvendelse måtte betragtes som driftsinventar i forretningen). 
+**Uden for panteretten falder personlige brugsgenstande**
 
-Personbiler er i almindelighed ikke omfattet, selv om de er anskaffet forud for 1993-06-01 og derfor ikke er undtaget efter TL § 37, stk. 3, jf. dommene U 1979 411/1 V, U 1978 823 V og U 1973 354 V.
+jf. **dommen U 1975 323 Ø**. (udsmykningsgenstande, herunder en antik våbensamling, i restaurationsvirksomhed ikke anset for omfattet af TL § 37, hvorimod et farvefjernsyn efter sin placering og anvendelse måtte betragtes som driftsinventar i forretningen). 
+
+Personbiler er i almindelighed ikke omfattet, selv om de er anskaffet forud for 1993-06-01 og derfor ikke er undtaget efter TL § 37, stk. 3, jf. **dommene U 1979 411/1 V, U 1978 823 V og U 1973 354 V**.
 
 Er der tvivl om, hvorvidt genstande er omfattet af TL § 37 (eller TL § 38), kan de fremhæves udtrykkeligt i pantebrevet. Løsøregenstande, som ikke er omfattet af TL § 37, kan pantsættes særskilt efter TL § 47 (individualiserbart løsøre) eller efter TL § 47 c, virksomhedspant.
 
@@ -19850,6 +20014,10 @@ Finanstilsynet kan tage sager vedrørende overholdelsen af god skik og de udsted
 
 Finanstilsynet kan endvidere tage sager op efter anmodning fra Forbrugerombudsmanden. 
 
+
+<img src="img/FO.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+
 Finanstilsynet modtager tillige henvendelser direkte fra forbrugere, der imidlertid normalt henvises til bl.a. de private godkendte finansielle ankenævn (tvistløsningsorganger), såsom Det Finansielle Ankenævn og Forsikringsankenævnet, hvis klagen også vedrører civilretlige spørgsmål om erstatning eller tilbagebetaling af uretmæssigt opkrævede beløb. Erhvervsdrivende henvises til domstolene, da de ikke har selvstændig klageadgang til de private godkendte forbrugerklagesystem.^[Det skaber en retssikkerhedsmæssig processuel ubalance i klagesystemet mellem forbrugere og erhvervsdrivende, jf. nærmere *Sonny Kristoffersens* Ph.D. afhandling: Det offentligretlige forbrugerklagesystem i et retssikkerhedsmæssigt perspektiv, 2019, Samfundslitteratur.]   
 
 Finanstilsynet træffer en traditionel forvaltningsretlig afgørelse med mulighed for administrativ rekurs, og Finanstilsynet har ikke en direkte søgsmålskompetence til domstolene. 
@@ -22322,28 +22490,52 @@ Her en oversigt over længstlevendes ægtefælles arveret:
 ## Uskiftet bo for den længstlevendes ægtefælle
 Vælger ægtefællen at sidde i uskiftet bo, får ægtefællen rådighed over alle aktiver og overtager afdødes gældsforpligtelser, jf. AL §§ 24 og 25. Kan kun sidde i uskiftet bo med delingsformue – særejet skal skiftes, jf. AL § 17. Man kan ikke sidde i uskiftet bo, hvis man ikke har været gift. Særbørn skal give samtykke til uskiftet bo, jf. AL § 18. Hvis længstlevende misbruger det uskiftede bos midler, kan børnene kræve skifte, jf. AL § 29.  
 
-### Video: Fordeling af arv: Ægtepar med stedbørn
+---
+
+**Video: Fordeling af arv: Ægtepar med stedbørn**
 
 https://www.youtube.com/watch?v=MQ6i9G5NxUc
 <div class="video-container"><iframe src="https://www.youtube.com/embed/lXw-hdped28" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
-Længstlevende ægtefælle kan således forbruge det uskiftede bos midler og give gaver mv., men kan af hensyn til førstafdøde ægtefælles arvinger ikke råde frit. Spørgsmål om misbrug kan indbringes for skifteretten af førstafdødes arvinger, jf. AL §§ 29-32. Længstlevende ægtefælle har rådighed uden at være egentlig ejer. Den pågældende kan således f.eks. stille sikkerhed, sælge aktiver hørende til det uskiftede bo og give gaver, men skal på den anden side tage hensyn til førstafdøde ægtefælles livsarvinger, idet længstlevende også råder over livsarvingernes potentielle arv efter førstafdødes ægtefælle.  
+---
+
+Længstlevende ægtefælle kan således forbruge det uskiftede bos midler og give gaver mv., men kan af hensyn til førstafdøde ægtefælles arvinger ikke råde frit. 
+
+Spørgsmål om misbrug kan indbringes for skifteretten af førstafdødes arvinger, jf. AL §§ 29-32. 
+
+Længstlevende ægtefælle har rådighed uden at være egentlig ejer. 
+
+Den pågældende kan således f.eks. stille sikkerhed, sælge aktiver hørende til det uskiftede bo og give gaver, men skal på den anden side tage hensyn til førstafdøde ægtefælles livsarvinger, idet længstlevende også råder over livsarvingernes potentielle arv efter førstafdødes ægtefælle.  
 
 Når længstlevende dør, skal arven fordeles til begge ægtefællers livsarvinger, men der regnes ikke arv til ægtefællen, jf. AL § 28.  
 
+
 ## Arveladers testationskompetence
+
 Testamenter giver arvelader mulighed for at få indflydelse på, hvem der skal arve, og hvad de skal arve.  
 
-Oversigt over arveladers testationskompetence:  
-Hovedreglen er, at arvelader kan ved testamente råde over hele sin formue.  
+**Oversigt over arveladers testationskompetence**: 
+
+Hovedreglen er, at arvelader kan ved testamente råde over hele sin formue. 
+
 Undtagelsen er, hvis arvelader er gift og/eller har børn, er testationskompetencen begrænset af tvangsarven, jf. AL § 50  
 Tvangsarven er som udgangspunkt ¼ af arveladers formue.  
 
-OBS: Suppleringsarv er også tvangsarv. Der er tale om en tvangsarveret, der ikke kan fratages ved testamente. Retten til forlods udtagelse indebærer, at udtagelsen ikke belaster den længstlevende ægtefælles boslodskrav ved opgørelsen af fællesboet, og heller ikke kravet i henhold til retten til suppleringsarv. En længstlevende ægtefælles påberåbelse af AL § 11, stk. 1 vil kunne medføre, at et dødsbo kan sluttes uden skiftebehandling. Reglen vil derfor også i praksis blive påberåbt af en længstlevende ægtefælle, der som enearving ville kunne overtage hele boet efter AL § 9, stk. 2.  
+**OBS: Suppleringsarv er også tvangsarv**. 
+
+Der er tale om en tvangsarveret, der ikke kan fratages ved testamente. Retten til forlods udtagelse indebærer, at udtagelsen ikke belaster den længstlevende ægtefælles boslodskrav ved opgørelsen af fællesboet, og heller ikke kravet i henhold til retten til suppleringsarv. 
+
+En længstlevende ægtefælles påberåbelse af AL § 11, stk. 1 vil kunne medføre, at et dødsbo kan sluttes uden skiftebehandling. 
+
+Reglen vil derfor også i praksis blive påberåbt af en længstlevende ægtefælle, der som enearving ville kunne overtage hele boet efter AL § 9, stk. 2. 
+
+---
  
-### Video:Hvordan opretter du et testamente?
+**Video:Hvordan opretter du et testamente?**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/TcZb7VCClcQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
 
 ## Kravet til et gyldigt testamente  
 
@@ -22394,28 +22586,19 @@ OBS: Suppleringsarv er også tvangsarv. Der er tale om en tvangsarveret, der ikk
 
 
 Hvis et testamente skal ændres eller tilbagekaldes, skal ændringen overholde formkravene til testamenter, jf. AL § 67.  
-Et uigenkaldeligt testamente indskrænker testators testationskompetence – arvelader har ikke mulighed for at ændre testamentet. Hvis forudsætningerne for at oprette et uigenkaldeligt testamente brister eller var urigtige, kan testamentet være ugyldigt, jf. AL § 77.  
+Et uigenkaldeligt testamente indskrænker testators testationskompetence – arvelader har ikke mulighed for at ændre testamentet. Hvis forudsætningerne for at oprette et uigenkaldeligt testamente brister eller var urigtige, kan testamentet være ugyldigt, jf. AL § 77. 
+
+---
   
-### Video:Arv mellem sammenlevende
+**Video: Arv mellem sammenlevende**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/WVec5BYeu34" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
+---
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-# Forsikring og pension  
+# Forsikring, pension og ankenævn  
 
 ---
 
@@ -22719,7 +22902,7 @@ Den resterende del af policen er forsikringsbetingelserne – som oftest fortryk
 Sagt med andre ord: De nøjagtige regler, som er gældende mellem forsikringstageren og forsikringsselskabet.  
 
 
-### Fortrydelsesret, ved tegning af forsikring 
+#### Fortrydelsesret, ved tegning af forsikring 
 
 Når man køber en ny forsikring, kan man fortryde købet af forsikringen. Det gælder også, selv om forsikringstiden er startet. *"Forsikringstid“* er det tidsrum, forsikringen er aftalt for.
 
@@ -22759,7 +22942,7 @@ Man køber en ulykkesforsikring, der skal gælde fra den 1. februar. Da man modt
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/gsK8tssPiZ0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
-### Indtrædelse af forsikringsselskabets ansvar
+#### Indtrædelse af forsikringsselskabets ansvar
 
 Er forsikringsaftale sluttet, uden at det er bestemt, når ansvaret skal begynde, anses forsikringsselskabets ansvar at indtræde allerede på det tidspunkt, da selskabet eller forsikringstageren afsender meddelelse om, at den anden parts tilbud antages.
 
@@ -22769,7 +22952,7 @@ Se fra sager fra praksis:
 
 *FED 1999.1405: Forsikringsselskab pålagt at dække en brandskade uanset generelle acceptregler, idet det blev anset for godtgjort, at en indsendt forsikringsbegæring ville være blevet antaget, hvis selskabet havde været uden kendskab til en indtruffet skade*.  
 
-### Præmien (betalingen) for forsikringen
+#### Præmien (betalingen) for forsikringen
 
 Præmiens størrelse og hvornår den skal betales af forsikringstageren fastlægges i overensstemmelse med den enkelte forsikringsaftale, hvor det f.eks. kan bestemmes, at præmien forfalder til betaling hvert år den 1. januar, således at forsikringsselskabet kan kræve præmien betalt pr. denne dato. 
 
@@ -22793,7 +22976,7 @@ Der stilles samtidig krav om, at det i påmindelsen om manglende betaling udtryk
 
 Hvis forsikringsselskabet ikke overholder disse betingelser i forsikringsaftalen, indtræder retsvirkningerne af manglende præmiebetaling ikke.    
 
-### Opsigelse af forsikringen
+#### Opsigelse af forsikringen
 
 Der er flere måder, man kan opsige sine private forsikringer på. 
 
@@ -22812,7 +22995,7 @@ Har man været udsat for en skade, har både forsikringstageren og forsikringsse
 
 Denne skriftlige opsigelse kan først laves efter, at man har lavet en skriftlig skadeanmeldelse til selskabet, og skal være lavet senest 1 måned efter, at man har modtaget erstatning eller afslag fra sit forsikringsselskab.  
 
-### Begrebet "forsikringstid“
+#### Begrebet "forsikringstid“
 
 Forsikringstiden er den periode, i hvilken forsikringsselskabet er ansvarlig for betaling af dine eller andres skader, enten fordi årsagen til skaden er indtrådt i forsikringstiden, fordi virkningen af skaden har vist sig i forsikringstiden, eller fordi kravet er rejst i forsikringstiden. 
 
@@ -22822,11 +23005,11 @@ Eksempel fra retspraksis:
 
 *FED 2008.290: Uagtet en forsikringsbegæring vedrørende ansvarsforsikring af en bil angav ikrafttræden som 19. maj, blev aftalen anset for at være trådt i kraft den 18. maj, idet assurandøren under et møde den 18. gav forsikringstager et forsikringsbevis, hvoraf ikke fremgik, at forsikringen første trådte i kraft dagen efter. Datoen var indført af assurandøren uden drøftelse med forsikringstager. Selskabet dømtes til at dække det erstatningsansvar, som forsikringstager pådrog sig ved et færdselsuheld, som han var involveret i samme aften.*  
 
-### Forsikringstagerens pligter over for forsikringsselskabet
+#### Forsikringstagerens pligter over for forsikringsselskabet
 
 Man har i visse situationer pligt til at tegne forsikring, enten i henhold til lov, obligatoriske vedtægter eller i henhold til en aftale. F.eks. er der pligt til at tegne ansvarsforsikring for motordrevne køretøjer, og besidderen/ ejeren af en hund er pligtig til at tegne ansvarsforsikring for hunden.  
 
-### Fareforøgelse
+#### Fareforøgelse
 
 Forsikringens vilkår og præmie er bestemt ud fra de risikooplysninger, der er givet ved forsikringens tegning. 
 
@@ -22856,19 +23039,19 @@ Se retspraksis:
 
 En hyppigste fareforøgelse forekommer i forhold til ulykkesforsikringer, hvor sikrede skifter erhverv, jf. Forsikringsankenævnet sagsnr.: 73227, 71829, 71784, 70448, 68172, 68550 og 67175.  
 
-### Forsikringsselskabets pligter
+#### Forsikringsselskabets pligter
 
 Forsikringsselskabets pligt eller modydelse kaldes forsikringsydelsen. 
 
 Dvs. erstatningen skal udbetales af selskabet, når der er indtrådt en erstatningsberettiget forsikringsbegivenhed – eller sagt på en anden måde, når der er sket en skade, som er dækket af forsikringen.  
 
-### Anmeldelse af forsikringsbegivenheden
+#### Anmeldelse af forsikringsbegivenheden
 
 Af forsikringsbetingelserne fremgår, at man skal anmelde enhver skade så hurtigt som muligt til forsikringsselskabet. 
 
 På den måde kan forsikringsselskabet danne sig et overblik over skadens omfang og sørge for at indhente supplerende oplysninger om skaden, hvis det er nødvendigt. Det kan også være, at skadede genstande bør „sikres“, så det senere er utvivlsomt,hvad skaden omfatter.  
 
-### Urigtige risikooplysninger
+#### Urigtige risikooplysninger
 
 Ved forsikringsaftalens indgåelse skal man afgive risikooplysninger, således at forsikringsselskabet kan vurdere risikoen og fastsætte præmie og vilkår. 
 
@@ -22891,14 +23074,14 @@ Se retspraksis:
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/FfIcQgcMKn4" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
-### Risikoforøgelse skal anmeldes til forsikringsselskabet
+#### Risikoforøgelse skal anmeldes til forsikringsselskabet
 
 Præmien for en forsikring beregnes ud fra risikoforholdene på tidspunktet for forsikringens tegning. 
 
 Ifølge policen/forsikringsbetingelserne skal det anmeldes til selskabet, såfremt der sker ændringer i fx en bygnings benyttelse.  
 Manglende anmeldelse af ændringer kan derfor resultere i, at der enten – hvis en risikoforøgelse bortfalder – betales for meget i præmie, eller at forsikringen – hvis risikoen forøges – yder utilstrækkelig dækning.   
 
-### Overholdelse af sikkerhedsforskrifter
+#### Overholdelse af sikkerhedsforskrifter
 
 Hvis forsikringsselskabet i forsikringstiden har betinget sig, at forsikringstageren skal iagttage visse forholdsregler, der skal forebygge risikoen for skade eller formindske en eventuel skades omfang, foreligger der en *sikkerhedsforskrift*. 
 
@@ -22910,7 +23093,7 @@ Som følge heraf vil det være en væsentlig forudsætning for forsikringsselska
 
 En sikkerhedsforskrift skal være præcist bekrevet i policen, og såfremt forsikringsselskabet kan bevise, at forsikringstageren forsætligt eller uagtsomt har overtrådt en sikkerhedsforskrift, der medfører skade eller forøger skadens omfang, er forsikringsselskabet fri for ansvar, medmindre forsikringstageren kan bevise, at det forhold, der er udvist, har været uden betydning for forsikringsbegivenhedens indtræden og skadens størrelse.  
 
-### Betalingsproceduren omkring forsikringspræmien
+#### Betalingsproceduren omkring forsikringspræmien
 
 I forsikringsvilkårene vil det være aftalt, at forsikringsselskabet skal sende et påkrav (typisk fremsendelse af et girokort) til den betalingsadresse, man har opgivet til selskabet. 
 
@@ -22928,7 +23111,7 @@ I praksis vil en forsikringstager således have i alt 8 uger (3 uger + 2 uger + 
 
 Er der tale om en nytegnet forsikring, kan det være aftalt, at forsikringsaftalen ophører uden opsigelse, hvis betaling ikke er sket inden en kortere frist (typisk 1 uge).  
 
-### Generelle forhold mellem forsikringstageren og forsikringsselskabet
+#### Generelle forhold mellem forsikringstageren og forsikringsselskabet
 
 Udbetaler forsikringsselskabet ikke erstatning til forsikringstageren inden 14 dage efter, at selskabet har modtaget de nødvendige oplysninger til at afgøre forsikringstagerens krav, skal selskabet betale renter af erstatningen fra denne dato. Det fremgår af FAL § 24.   
 
@@ -22951,7 +23134,7 @@ Forsikringsselskabet skal udbetale aconto-erstatning til forsikringstageren, hvi
 
 Forsikringsselskabet kan altså ikke tilbageholde hele erstatningen, fordi der stadig er genstande, hvor erstatningen ikke kan fastsættes. Det fremgår nærmere af FAL § 24, stk. 1, og § 25.  
 
-### Sikkerhedsforholdsregler/sikkerhedsforskrifter
+#### Sikkerhedsforholdsregler/sikkerhedsforskrifter
 
 Police og forsikringsbetingelser kan indeholde krav om, at forsikringstageren skal modvirke/forebygge, at der sker skade på hans eller hendes ting. 
 
@@ -23012,7 +23195,7 @@ Har forsikringsselskabet formuleret dækningsbetingelsen helt objektivt, er der 
 Står dette tydeligt i forsikringstagerens forsikringsbetingelser, får forsikringstageren kun erstatning efter reglerne om indbrudstyveri, hvis forsikringstageren kan bevise, at der er tegn på voldeligt opbrud af ens bolig, og det er uden betydning, om forsikringstageren har udvist nogen forsømmelse eller ej.  
 
 
-### Risikooplysninger og urigtige oplysninger
+#### Risikooplysninger og urigtige oplysninger
 
 Når man tegner en forsikring, skal man som tidligere nævnt normalt give forsikringsselskabet en række oplysninger, så selskabet kan vurdere, hvor stor en risiko det løber ved at forsikre én. 
 
@@ -23057,7 +23240,7 @@ Se Forsikringsankenævnets sagsnr.: 83753 og 78797:
 *I sagsnr.: 78797 kunne selskabet ikke bevise, at klageren telefonisk havde afgivet urigtige oplysninger. „Her var det ikke nok, at selskabet i policen, som klageren modtog efter at have indgået aftalen med selskabet, under et punkt, der hed "Øvrige forhold ved forsikringen", blandt andet havde skrevet "Du har ikke haft skader de sidste 3 år" og "Du er ikke opsagt af – eller har fået skærpede vilkår – i andet selskab". Nævnet henviste her til forsikringsaftalelovens § 10, stk. 3, hvor det fremgår, at hvis selskabet i policen har beskrevet et faktisk forhold uden at have indhentet oplysning om det fra forsikringstageren, kan det ikke komme forsikringstageren til skade, hvis det viser sig, at oplysningen var urigtig“. Reglerne om ens og forsikringsselskabets rettigheder, hvis man har givet urigtige oplysninger, finder man i FAL §§ 4-10.*  
 
 
-### Erstatning og renter
+#### Erstatning og renter
 
 Udbetaler forsikringsselskabet ikke erstatning til dig inden 14 dage efter, at selskabet har modtaget de nødvendige oplysninger til at afgøre ens krav, skal selskabet betale renter af erstatningen fra denne dato. Det fremgår af FAL § 24.  
 
@@ -23070,11 +23253,19 @@ Forsikringsselskabet skal udbetale aconto-erstatning til forsikringstageren, hvi
 Selskabet kan altså ikke tilbageholde hele erstatningen, fordi der stadig er genstande, hvor erstatningen ikke kan fastsættes. Det fremgår af FAL § 24, stk. 1, og § 25  
 
 
-### Under- og dobbeltforsikring
+#### Under- og dobbeltforsikring
 
-Forsikringssummen på dens forsikring skal altid mindst svare til forsikringsværdien af f.eks. indboet. Dvs. hvad det vil koste at genanskaffe alt dit indbo i tilfælde af en totalskade – fx en brand. Forsikringstageren er selv ansvarlig for, at forsikringssummen er rigtig. Man er underforsikret, når forsikringssummen er mindre en værdien af ens indbo. 
+Forsikringssummen på dens forsikring skal altid mindst svare til forsikringsværdien af f.eks. indboet. 
 
-I tilfælde af en skade betyder det, at erstatningen bliver mindre, end hvad det koster at genanskaffe det ødelagte. Ved underforsikring bliver erstatningen regnet ud efter denne formel:  
+Dvs. hvad det vil koste at genanskaffe alt dit indbo i tilfælde af en totalskade – fx en brand. 
+
+Forsikringstageren er selv ansvarlig for, at forsikringssummen er rigtig. 
+
+Man er underforsikret, når forsikringssummen er mindre en værdien af ens indbo. 
+
+I tilfælde af en skade betyder det, at erstatningen bliver mindre, end hvad det koster at genanskaffe det ødelagte. 
+
+Ved underforsikring bliver erstatningen regnet ud efter denne formel:  
 
 Skade x forsikringssum = Erstatning  
 forsikringsværdi  
@@ -23083,17 +23274,22 @@ forsikringsværdi
 Er forsikringsværdien af ens indbo 800.000 kr. og ens forsikringssum kun på 400.000 kr., vil der blive udbetalt halv erstatning for ens skade.
 
 Er ens forsikringssum større end ens værdier, er man overforsikret.
+
 Forsikringsselskabet betaler i den situation alene erstatning for ens skade og ikke for det, man har betalt for meget i forsikring.  
 
-### Forældelse af forsikringskrav
+#### Forældelse af forsikringskrav
 
 For at man kan få fyldestgjort sit krav, skal man fremsætte det, inden det er forældet. Som udgangspunkt sker der forældelse efter 3 år, jf. forældelseslovens § 3, stk. 1. 
 
 Det betyder, at man skal have fremsat sit krav overfor selskabet indenfor 3 år. 
 
-Fristen regnes fra skadetidspunktet. Hvis skaden ikke kan konstateres med det samme, regnes 3-årsfristen fra det tidspunkt, hvor skaden opdages eller konstateres, dog således, at der under alle omstændigheder sker forældelse senest 30 år efter skadetidspunktet for så vidt angår erstatning og godtgørelse i anledning af personskade. For tingsskade er denne frist 10 år.  
+Fristen regnes fra skadetidspunktet. 
 
-Når en sag indbringes for Ankenævnet for Forsikring inden for forældelsesfristen, forældes sagen ikke, mens nævnet behandler sagen. Når nævnets afgørelse foreligger, har man en tillægsfrist på 1 år til at gå videre med sagen til domstolene, hvis man stadig ikke har fået sit krav opfyldt.  
+Hvis skaden ikke kan konstateres med det samme, regnes 3-årsfristen fra det tidspunkt, hvor skaden opdages eller konstateres, dog således, at der under alle omstændigheder sker forældelse senest 30 år efter skadetidspunktet for så vidt angår erstatning og godtgørelse i anledning af personskade. For tingsskade er denne frist 10 år.  
+
+Når en sag indbringes for Ankenævnet for Forsikring inden for forældelsesfristen, forældes sagen ikke, mens nævnet behandler sagen. 
+
+Når nævnets afgørelse foreligger, har man en tillægsfrist på 1 år til at gå videre med sagen til domstolene, hvis man stadig ikke har fået sit krav opfyldt.  
 
 Denne 1-årsfrist løber sideløbende med den almindelige 3-årsfrist, og den længste af de to frister gælder. 
 
@@ -23103,44 +23299,77 @@ Har nævnet i afgørelsen afgjort, at ens krav mod selskabet allerede var foræl
 
 Hvis man selv hæver klagesagen ved nævnet, inden nævnet træffer afgørelse i sagen, eller hvis nævnet af formelle grunde helt afviser at behandle sagen, gælder tillægsfristen på 1 år ikke.  
 
-Reglerne kan ikke fraviges af selskabet til skade for forsikringstageren. Dog kan selskabet gyldigt aftale en anmeldelsesfrist i forbindelse med forsikringens ophør, hvis denne frist er mindst 6 mdr.  
+Reglerne kan ikke fraviges af selskabet til skade for forsikringstageren. 
+
+Dog kan selskabet gyldigt aftale en anmeldelsesfrist i forbindelse med forsikringens ophør, hvis denne frist er mindst 6 mdr.  
 
 
-### Klage over forsikringsselskabets afgørelse
+#### Klage over forsikringsselskabets afgørelse
 
 Ankenævnet for Forsikring er et privat klagenævn oprettet i 1975 af Forbrugerrådet Tænk og brancheforeningen Forsikring & Pension. Ankenævnet er godkendt af Erhvervsministeren og derfor "autoriseret" til at behandle forsikringsklager udenretligt.  
 
-#### Kriterier for at klage  
+**Kriterier for at klage**  
 
 Klagen skal vedrøre ens forsikringer. Man kan således ikke klage over en afgørelse truffet af modpartens forsikringsselskab.  
 
-Klagen skal vedrøre privatlivets forsikringsforhold: Klager vedrørende erhvervslivets forsikringsforhold falder som udgangspunkt uden for Ankenævnets område.  
+Klagen skal vedrøre privatlivets forsikringsforhold: 
+
+Klager vedrørende erhvervslivets forsikringsforhold falder som udgangspunkt uden for Ankenævnets område.  
 
 Klagen skal angå et konkret økonomisk mellemværende: 
 
 Klagen skal altså angå et spørgsmål af økonomisk betydning. 
 
-Ankenævnet kan ikke behandle klager over f.eks. ansattes opførsel, et forsikringsselskabs markedsføring eller andre generelle forhold. Ankenævnet er således ikke et disciplinærnævn eller en tilsynsmyndighed.  
+Ankenævnet kan ikke behandle klager over f.eks. ansattes opførsel, et forsikringsselskabs markedsføring eller andre generelle forhold. Ankenævnet er således ikke et disciplinærnævn eller en tilsynsmyndighed. 
 
 
-#### Behandling af klage 
+**Afvisning af klage**
+
+Af ankenævnets vedtægter fremgår følgende:
+
+"Afvisning af klagesager
+
+§ 4. Nævnet skal afvise klager, der hører under, er under behandling ved eller har været behandlet af et andet privat tvistløsningsorgan, et lovbestemt alternativt tvistløsningsorgan, eller et udenlandsk tvistløsningsorgan, som er anmeldt til Europa-Kommissionen, Konkurrence- og Forbrugerstyrelsen eller en domstol. Er klagen ikke indgivet på en dertil af sekretariatet udarbejdet eller godkendt formular, jf. § 7, eller er klagegebyret, jf. § 23, stk. 1, ikke betalt, afviser sekretariatet at behandle sagen.
+
+Stk. 2. Nævnet kan afvise at behandle en klage over en erhvervsdrivende, der er etableret i såvel Danmark som i et eller flere andre lande, hvis sagen har en større tilknytning til et andet land.
+
+Stk. 3. Nævnet kan afvise at behandle en klage, hvis
+
+1) forbrugeren ikke forudgående over for den erhvervsdrivende har klaget over den erhvervsdrivendes afgørelse eller sagsbehandling,
+
+2) klagen ikke angår et konkret økonomisk mellemværende mellem parterne eller i øvrigt er useriøs eller unødig,
+
+3) klagen på grund af den principielle juridiske karakter, manglende oversættelse af det af parterne indsendte materiale, usikkerheden om bedømmelsen af de fremkomne faktiske oplysninger eller af andre grunde ikke skønnes egnet til behandling ved nævnet, eller
+
+4) behandlingen af klagen i alvorlig grad vil hindre nævnet i at fungere effektivt.
+
+Stk. 4. Er det åbenbart, at klagen ikke kan behandles af nævnet, skal nævnet afvise klagen senest 3 uger efter modtagelsen. I andre tilfælde skal nævnet afvise sagen hurtigst muligt.
+
+Stk. 5. En afvisning skal begrundes, og forbrugeren skal oplyses om muligheden for at indbringe sagen for domstolene og for at få retshjælp og for at søge fri proces. Forbrugeren skal derudover, når det er relevant, oplyses om, at der kan ske forældelse af kravet.
+
+§ 5. Er det åbenbart, at sagen falder uden for nævnets kompetence, kan sekretariatet afvise klagen. En sådan afgørelse skal kunne indbringes for nævnet på forbrugerens anmodning. Nævnets formand kan på nævnets vegne afgøre en sådan anmodning fra forbrugeren.
+
+Stk. 2. Nævnets formand kan på nævnets vegne afvise sager, som ikke skønnes egnede til behandling ved nævnet i medfør af § 4, stk. 3, jf. forbrugerklagelovens § 16, stk. 2".
+
+
+**Behandling af klage** 
 
 Ankenævnet kan ikke behandle klagen, hvis behandling hører under offentlige myndigheder, f.eks. Finanstilsynet, eller andre anke- eller klagenævn. 
 
 Nævnet kan heller ikke behandle klagen, hvis ens sag er afgjort ved endelig dom, gyldigt bindende voldgift eller retsforlig.  
 
 
-#### Hvornår kan man klage  
+**Hvornår kan man klage**  
 
 Man kan først klage til Ankenævnet, når man har klaget til forsikringsselskabet over afgørelsen, og forsikringsselskabet har fastholdt sin afgørelse eller har undladt at besvare ens klage.  
 
 
-### Klagegebyr
+**Klagegebyr**
 
 Man skal betale et klagegebyr på 200 kr. Hvis man får medhold i sin klage, får man gebyret retur. Det samme gælder, hvis Forsikringsankenævnet ikke kan afgøre ens sag.  
 
 
-### Sagsbehandlingstid 
+**Sagsbehandlingstid** 
 
 Den typiske sagsbehandlingstid er 6-8 måneder. Sagsbehandlingstiden afhænger i høj grad af, hvor mange gange klageren og forsikringsselskabet ønsker at indsende nye oplysninger eller synspunkter til sagen. 
 
@@ -23162,6 +23391,193 @@ www.ankeforsikring.dk
 Hvis klagen falder uden for Ankenævnet for Forsikrings område – det vil navnlig vedrøre klager over modpartens forsikringsselskab og erhvervsforsikring – kan forbrugeren kontakte Forsikringsoplysningen,
 Konkurrence- og Forbrugerstyrelsen/Forbrugerklagenævnet eller i den sidste ende starte en sag op ved domstolene. 
 
+
+
+#### Andre finansielle tvistløsningsorganer
+
+##### Det finansielle ankenævn
+
+**1. Hvad er Det finansielle ankenævn?**
+
+Det finansielle ankenævn er i medfør af lov om forbrugerklager godkendt til at behandle klager over pengeinstitutter, realkreditinstitutter og investeringsfonde.
+
+Ankenævnet er pr. 1. februar 2019 sammensat af Pengeinstitutankenævnet (1988), Realkreditankenævnet (1992) og Ankenævnet for investeringsfonde (2002).
+
+**2. Hvem kan klage?**
+
+Ankenævnet behandler klager vedrørende private kundeforhold. Ankenævnet kan behandle klager fra erhvervsdrivende, der ikke adskiller sig væsentligt fra klager vedrørende private kundeforhold. Ankenævnet behandler ikke klager indgivet af selskaber.
+
+**3. Hvem kan man klage over?**
+
+Ankenævnet behandler klager over danske og færøske pengeinstitutter, realkreditinstitutter og investeringsfonde og deres herværende datterselskaber f.eks. finansieringsselskaber. 
+
+Se en ikke-udtømmende liste over pengeinstitutejede finansieringsselskaber ved brug af følgende link:
+
+https://fanke.dk/det-finansielle-ankenaevn/oversigt-over-finansieringsselskaber-ejet-af-pengeinstitutter/
+
+Man kan klage over et finansieringsselskab, der ikke er ejet af et pengeinstitut, til Ankenævnet for Finansieringsselskaber, www.finansanke.dk. 
+
+Ankenævnet behandler ikke klager over finansielle institutters datterselskaber, der er et forsikringsselskab.
+
+Hvis man ønsker at klage over et forsikringsselskab, kan man
+klage til Ankenævnet for Forsikring, www.ankeforsikring.dk.
+
+Ankenævnet kan imidlertid behandle ens klage, hvis den vedrører et instituts rådgivning om forsikringer.
+
+Ankenævnet behandler desuden klager over danske filialer af udenlandske pengeinstitutter, realkreditinstitutter og investeringsfonde.
+
+Klager over grønlandske pengeinstitutter falder uden for Ankenævnets kompetence. 
+
+**4. Hvad kan man klage over?**
+
+Ens klage kan angå samtlige omstændigheder mellem penge- og realkreditinstituttet samt investeringsfonden og kunden.
+
+Ankenævnet behandler dog ikke klager over eksempelvis ansattes opførsel, et instituts markedsføring eller andre generelle forhold.
+
+Ens klage kan også vedrøre omstændigheder, der er opstået, inden et egentligt kundeforhold blev etableret.
+
+Ankenævnet kan afvise ens klage, hvis den ikke vedrører et konkret økonomisk mellemværende.
+
+Hvis man ønsker at klage over et instituts tilsidesættelse af reglerne om god skik for finansielle virksomheder (bekendtgørelse nr. 1094 af 14. september 2015) skal man klage til Finanstilsynet, Århusgade 110, 2100 København Ø. Se følgende link:
+
+https://www.finanstilsynet.dk/
+
+
+
+Ankenævnet afviser klager, der allerede er afgjort af en domstol. Se øvrige afvisningsgrunde, hvorefter Ankenævnet kan eller skal afvise klager, der følger af Ankenævnets vedtægter §§ 3-6:
+
+"§ 3
+
+Stk. 1. Ankenævnet kan ikke behandle sager, som er afgjort ved endelig dom, gyldig bindende voldgift eller retsforlig eller sager, der kan forventes afgjort i forbindelse med en straffesag.
+
+Stk. 2. En voldgiftskendelse er kun bindende, såfremt klageren forinden voldgiftssagen er blevet orienteret om muligheden for ankenævnsbehandling.
+
+Stk. 3. Så længe en klagesag verserer for Ankenævnet, kan sagens parter ikke anlægge sag ved domstolene eller voldgiftsret om de spørgsmål, som klagen omfatter.
+
+§ 4
+
+Sager, hvis behandling i henhold til lovgivningen er henlagt til offentlige myndigheder eller andre tvistløsningsorganer, falder uden for Ankenævnets kompetence.
+
+**Afvisning af klagesager**
+
+§ 5
+
+Stk. 1. Ankenævnet skal afvise at behandle en klage, hvis klagen hører under, er under behandling ved, eller har været behandlet af
+
+a) et andet privat tvistløsningsorgan, som er anmeldt til Europa-Kommissionen,
+
+b) et lovbestemt alternativt tvistløsningsorgan, som er anmeldt til Europa-Kommissionen,
+
+c) et udenlandsk tvistløsningsorgan, som er anmeldt til Europa-Kommissionen,
+
+d) Nævnenes Hus eller
+
+e) en domstol.
+
+Stk. 2. Ankenævnet kan afvise at behandle en klage over en finansiel virksomhed, der er etableret i såvel Danmark som i et eller flere andre lande, hvis sagen har en større tilknytning til et andet land end Danmark.
+
+Stk. 3. Ankenævnet kan afvise at behandle en klage, hvis
+
+klageren ikke forudgående har klaget til den person eller afdeling, der i den finansielle virksomhed er ansvarlig for behandlingen af klagesager, eller hvis den finansielle virksomheds klagebehandling ikke er afsluttet. Ankenævnet kan indlede behandling af en klagesag, såfremt den finansielle virksomhed har afvist klagen, eller der ikke forinden 5 uger fra modtagelsen af en klage er opnået forlig mellem klageren og den finansielle virksomhed,
+
+1. klagen ikke vedrører et konkret økonomisk mellemværende,
+
+2. klagen er useriøs eller unødig,
+
+3. klagen på grund af dens principielle juridiske karakter, usikkerheden om bedømmelsen af de fremkomne faktiske oplysninger eller af andre særlige grunde ikke skønnes egnet til behandling i Ankenævnet, eller
+
+4. behandlingen af klagen i alvorlig grad vil hindre Ankenævnet i at fungere effektivt.
+ 
+Stk. 4. Er det åbenbart, at en klage ikke kan behandles af Ankenævnet, afviser Ankenævnet klagen senest 3 uger efter modtagelsen. I andre tilfælde skal Ankenævnet afvise sagen hurtigst muligt.
+
+Stk. 5. En afvisning skal begrundes, og klageren skal oplyses om muligheden for at indbringe sagen for domstolene og for at få retshjælp og for at søge fri proces. Klageren skal derudover, når det er relevant, oplyses om, at der kan ske forældelse af kravet, hvis sagen ikke indbringes for domstolene senest et år efter afvisningen.
+
+§ 6
+
+Stk. 1. Er det åbenbart, at sagen falder uden for Ankenævnets kompetence, kan sekretariatet afvise klagen. Afvisningen skal begrundes over for klageren, der samtidig gøres opmærksom på, at afgørelsen vil kunne indbringes for Ankenævnet, hvilket sker ved sekretariatets foranstaltning, såfremt klageren fremsætter ønske herom.
+
+Stk. 2. De stiftende organisationer kan bemyndige Ankenævnets formand til på Ankenævnets vegne at afvise sager, som ikke skønnes egnede til behandling ved Ankenævnet i medfør af § 5, stk. 3".
+
+
+
+**5. Hvordan indgiver man en klage?**
+
+Før man klager til Det finansielle ankenævn, skal man have klaget til instituttet og fået afslag, et utilfredsstillende svar eller ikke modtaget svar inden fem uger, efter instituttet har modtaget din klage. 
+
+I alle institutter er der en klageansvarlig. Ens finansielle institut kan oplyse, hvem der er klageansvarlig.
+
+Når man er klar til at indgive sin klage, udfylder man et klageskema via denne hjemmeside. 
+
+Man skal betale et klagegebyr på 200 kr. Ankenævnet sender gebyret tilbage, hvis man enten får helt eller delvis medhold i sin klage, hvis man tilbagekalder sin klage, eller hvis Ankenævnet ikke kan behandle ens klage.
+
+Ankenævnet har tilrettelagt sagsbehandlingen således, at det ikke er nødvendigt at benytte en advokat eller en juridisk rådgiver. 
+
+Sekretariatet er dermed de facto underlagt officialmaksimen og skal dermed oplyse sagen.
+
+Men man kan altid vælge at søge uafhængig rådgivning eller lade sig repræsentere eller bistå af tredjemand. 
+
+Hvis man vælger at lade en advokat føre ens sag, skal man være opmærksom på, at ingen af parterne i klagesagen betaler omkostninger til den anden part i forbindelse ankenævnsbehandlingen.
+
+Man kan starte klagesagen ved anvendelse af dette link:
+
+https://fanke.dk/det-finansielle-ankenaevn/indgivelseafklage/
+
+Hvis man ikke har mulighed for at indgive sin klage via ankenævnets hjemmeside, kan man kontakte Sekretariatet for Det finansielle ankenævn på telefon 3543 6333. Telefontid mandag – fredag kl. 9.30-12.30. 
+
+**6. Hvordan arbejder Ankenævnet?**
+
+Når forberedelsen af sagen er afsluttet, behandler Ankenævnet ens klage på et ankenævnsmøde.
+
+Man skal indgive sine indlæg skriftligt og uploade dem til Ankenævnets klageportal, som man får adgang til umiddelbart efter opstart af ens klagesag.
+
+Klagen og sagens dokumenter kan indsendes på dansk eller på engelsk. 
+
+Sagsbehandlingen foregår på dansk, ligesom afgørelserne udfærdiges på dansk.
+
+Den gennemsnitlige sagsbehandlingstid afhænger af den tid, der medgår til sagens forberedelse. 
+
+Når sagen er fuldt oplyst, forventes Ankenævnet at træffe afgørelse inden for 90 dage. 
+
+Den gennemsnitlige sagsbehandlingstid er for tiden 6 måneder, fra klagen er indgivet. 
+
+Parterne er ikke bundet af Ankenævnets afgørelse. Instituttet skal dog, når en afgørelse går instituttet imod, inden 30 dage efter afgørelsen er forkyndt, meddele Ankenævnet, hvis instituttet ikke vil opfylde afgørelsen. 
+
+Hvis instituttet ikke foretager sig noget, kan man, efter udløb af de 30 dage fra forkyndelsen er sket, få afgørelsen tvangsfuldbyrdet over for instituttet.
+
+Ønsker den finansielle virksomhed ikke at opfylde afgørelsen, får man meddelelse herom fra Ankenævnet, og man vil samtidig blive orienteret om, hvilke muligheder der er for at gå videre med sagen ved domstolene, herunder om mulighederne for at få Nævnenes Hus, Toldboden 2, 8800 Viborg til at indbringe sagen for domstolene på vegne af én, og om mulighederne for at tvangsfuldbyrde afgørelsen.
+
+Den finansielle virksomhed skal således følge Ankenævnets afgørelse, medmindre den finansielle virksomhed inden 30 kalenderdage meddeler Ankenævnet, at den ikke ønsker at være bundet af afgørelsen eller ønsker sagen genoptaget. 
+
+Hvis den finansielle virksomhed ikke opfylder afgørelsen, kan fogedretten hjælpe én. 
+
+Man kan læse mere om muligheden for såkaldt tvangsfuldbyrdelse/udlæg gennem fogedretten på www.domstol.dk. 
+
+Hvis man anmoder fogedretten om tvangsfuldbyrdelse, skal man vedlægge Ankenævnets afgørelse og en erklæring fra Ankenævnet om, at den finansielle virksomhed ikke rettidigt har meddelt, at den ikke ønsker at være bundet af afgørelsen. 
+
+Nævnenes Hus kan i visse tilfælde efter ansøgning dække udgifter i forbindelse med en tvangsfuldbyrdelse.
+
+Man skal være opmærksom på, at sagen kan blive forældet, hvis man anmoder fogedretten om at foretage udlæg senere end ét år efter Ankenævnets afgørelse.
+
+Hvis man ikke får medhold i sagen vil man, når det er relevant, blive vejledt om mulighederne for at få sagen genoptaget eller gå videre med sagen ved domstolene. 
+
+Man skal som klager være opmærksom på, at sagen kan blive forældet, hvis man anlægger en eventuel retssag senere end ét år efter Ankenævnets afgørelse.
+
+På ankenævnets hjemmeside finder man samtlige afgørelser, som Ankenævnet har truffet.
+
+**7. Hvordan er ankenævnet sammensat?**
+
+Ankenævnets formandskab er sammensat af en højesteretsdommer (formand) og to næstformænd, henholdsvis en højesteretsdommer og en landsdommer.
+
+Ankenævnets medlemmer er i øvrigt udpeget af henholdsvis Finans Danmark, Realkreditrådet, Investering Danmark og Forbrugerrådet Tænk. Oversigt over Ankenævnets medlemmer kan ses her ved dette link:
+
+https://fanke.dk/omankenaevnet/oversigt-over-naevnsmedlemmer/
+
+Ankenævnets medlemmer udpeges for en 3-årig periode og kan genudpeges.  
+
+Ved behandling af en klage deltager formanden eller en af næstformændene, to medlemmer fra de finansielle virksomheder 
+og to medlemmer fra forbrugersiden. (paritetsprincippet; lige mange repræsentanter fra forbruger- og erhvervssiden ved en afgørelse)
+
+---
 
 #### Forsikringsoplysningen  
 
@@ -23188,19 +23604,25 @@ e-mail: fp@forsikringogpension.dk
 
 ***Ekstramateriale***
 
+---
+
 **Video: Sådan sikrer du din hushandel**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/GCogSgE3ZmU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
+---
 
 **Video: Forsikringsguiden - Husforsikring:** 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/Q1DLpo0fPUo" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
+---
+
 **Video: Dagsgebyr for manglende ansvarsforsikring:**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/9kHkH-8HxZI" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
+---
 
 Efter § 43 i lov om finansiel virksomhed skal forsikringsvirksomhed udøves i overensstemmelse med redelig forretningsskik og god praksis inden for forsikringsområdet. 
 
@@ -23227,16 +23649,20 @@ www.finanstilsynet.dk
 
 e-mail: finanstilsynet@ftnet.dk 
 
-Det kan anbefales til tilmelde sig Finanstilsynets nyhedsbreve!
+Det kan anbefales, at du tilmelder dig Finanstilsynets nyhedsbreve!
 
+---
 **Video: Årsmødet I Forsikring og Pension 2018**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/HHljb90aVsk" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>  
 
- 
+---
+
 **Video: Mandrilaftalen – Forsikringer**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/EGj0tVWtr6g" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div> 
+
+---
 
 Der følger nu nogle udvalgte forsikringstyper:
 
@@ -23276,9 +23702,11 @@ Hændelige skader er man ikke ansvarlig for, se f.eks. her fra retspraksis følg
 <img src="img/raket.jpg" align="right" width="25%" height="25%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
+
 *Sag 87739: Klager over afslag på at dække en ansvarsskade forvoldt af klagers søn. Sønnen beskadigede gulvet i sit værelse på efterskolen, da han tabte et tændt heksehyl, som han ville smide ud af vinduet. Forsikringen dækkede ikke ansvar på skader på ting, som den sikrede havde i sin varetægt. Nævnet fandt derfor ikke at kunne kritisere selskabets afgørelse. Selskab medhold.*
 
 *Sag 86992: Klager over afslag på dækning for en anmeldt ansvarsskade. Klager anmeldte, at der var sket skade på hendes nabos gulv i forbindelse med, at hun havde passet naboens hus og have og ikke havde fået lukket tilstrækkeligt for vandet efter vanding af blomster. Herved var vandet løbet gennem en haveslange dryppet ned i en spand, hvor haveslangens frie ende var placeret, hvorefter vandet løb ud på gulvet. Selskabet anførte, at der var tale om en hændelig skade. Nævnet fandt, at skaden opstod ved klagers udførelse af en vennetjeneste for naboen, hvor hun ikke fik lukket forsvarligt for vandet. Nævnet fandt, at klager herved havde handlet ansvarspådragende, og lagde bl.a. vægt på, haveslangen var placeret i stuen, og at huset henstod ubeboet på tidspunktet for skadens indtræden. Det forhold, at klagers kortfattede mail af 12/8 2014 kunne give anledning til usikkerhed om, hvem der placerede spanden i stuen, kunne efter nævnets opfattelse ikke føre til andet resultat. Selskabet skulle derfor anerkende, at klager var erstatningsansvarlig. Klager medhold.*
+
 
 
 <img src="img/trampolin.jpg" align="right" width="25%" height="25%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
@@ -23340,7 +23768,9 @@ Forsikringsankenævnet vil normalt lægge størst vægt på de oplysninger, der 
 
 Og ankenævnet vil ofte lægge betydelig vægt på de forklaringer, som forsikringstageren eller en anden person først har givet til forsikringsselskabet eller til en tredjemand.
 
+
 ##### Uagtsom, forsætlig og hændelig skade samt gæstebudsskade
+
 Privatansvarsforsikringen dækker som nævnt, hvis forsikringstageren juridisk set har pådraget sig et erstatningsansvar. 
 
 For at pådrage sig et erstatningsansvar skal man bl.a. have udvist en uforsvarlig adfærd (handling eller undladelse), som kan tilregnes én som forsætlig eller uagtsom, og den skade, man har forvoldt, skal være en påregnelig følge af ens adfærd. 
