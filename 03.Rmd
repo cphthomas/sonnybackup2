@@ -59,7 +59,7 @@ Aftalelovens principper har betydning på hele aftaleområdet,^[Følgene bygger 
 
 
 
-```{r aftalelov,echo=FALSE, result=TRUE,fig.cap=("Oversigt over aftalelove")}
+```{r aftalelov2,echo=FALSE, result=TRUE,fig.cap=("Oversigt over aftalelove")}
 
 
 nodes <- data.frame(id = 1:7, 
@@ -154,7 +154,7 @@ En kontrakt er skriftlig og kan påberåbes ved domstolene.
 
 
 
-```{r gensidigtloefte, echo=FALSE, result=TRUE,fig.cap=("Gensidigt løfte")}
+```{r gensidigtloefte2, echo=FALSE, result=TRUE,fig.cap=("Gensidigt løfte")}
 
 
 nodes <- data.frame(id = 1:2, group = c("B", "A"),label = c(" Sælger "," Køber "))
