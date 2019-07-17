@@ -47,7 +47,7 @@ indeks <<- data.frame(BEGREB,forklaring)
 ***Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af sikkerhedsstillelse for gæld:***
 
  
-<img src="img/Hvadderervigtigst.jpg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 **Kautionsformer især sondringen mellem simpel og selvskyldnerkaution**
@@ -1790,7 +1790,7 @@ Sikringsakt foretages for at sikre erhververen mod overdragerens aftaleerhverver
 ***Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af fordringers overdragelse***:
 
 
-<img src="img/Hvadderervigtigst.jpg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 • **Fortabelse af indsigelser og rettigheder, GBL § 27 (simple)**
@@ -2952,7 +2952,7 @@ En aftaleerhverver (ikke kreditor) kan fortrænge en tidligere indsigelse hvis:
 
 ***Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af fordringer og deres ophør:***
 
-<img src="img/Hvadderervigtigst.jpg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 •	**Sondring mellem almindelige fordringer, simple gældsbreve og omsætningsgældsbreve – analog anvendelse af reglerne for simple gældsbreve jf. GBL § 26 på alm. fordringer (ved afprøvningen bør der være fokus på simple fordringer/gældsbreve og tinglyste negotiable dokumenter)**
@@ -3295,7 +3295,7 @@ Loven vedrører en debitors mulighed for med frigørende virkning at deponere si
 
 
 
-<img src="img/Hvadderervigtigst.jpg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 
@@ -5921,7 +5921,7 @@ C kan fortrænge A's ret over fondsaktivet, hvis:
 ***Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af handel med fast ejendom***:
 
 
-<img src="img/Hvadderervigtigst.jpg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/><br>
+<img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/><br>
  
 <br>
 <br>
@@ -8890,7 +8890,7 @@ Det beror på en konkret vurdering hos domstolene eller ved de finansielle anken
 ***Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af familieretten:***
 
 
-<img src="img/Hvadderervigtigst.jpg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 **Relateres til rådgivning af privatkunder**  
@@ -10124,7 +10124,7 @@ Et uigenkaldeligt testamente indskrænker testators testationskompetence – arv
 ***Som studerende skal du være særlig være opmærksom på følgende ved gennemgangen af forsikring:***
 
 
-<img src="img/Hvadderervigtigst.jpg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 •	**Urigtige oplysninger ved aftalens indgåelse, FAL § 4-6**

@@ -1612,10 +1612,7 @@ I samme dom præciserede Domstolen, at en medlemsstat - selv i det tilfælde, hv
 
 
 
-***Hvilke problemstillinger og aftaleretlige lovregler, du som studerende særlig skal være opmærksom på vedrørende eksamensspørgsmål indenfor aftaleretten:***
-
-
-<img src="img/Hvadderervigtigst.jpg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+***Hvilke problemstillinger og aftaleretlige lovregler, du som studerende særlig skal være opmærksom på vedrørende eksamensspørgsmål indenfor aftaleretten:***<img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 • **Opfordring contra tilbud**, aftalelovens § 9, herunder prisangivelser på nettet, netbutikker og i fysiske butikker
@@ -1633,9 +1630,11 @@ I samme dom præciserede Domstolen, at en medlemsstat - selv i det tilfælde, hv
 
 ---
 
+<br>
+
 <script async src="https://widget.spreaker.com/widgets.js"></script>
 
----
+
 
 <br>
 
@@ -2721,6 +2720,7 @@ kable(collapse_rows_dt, align = "l",caption = "Regler og tolkning") %>%
 
 <script async src="https://widget.spreaker.com/widgets.js"></script>
 
+<br>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/ugJt8-E7xJY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div> 
 
@@ -3171,7 +3171,7 @@ Sanne spørger Kim om at få ferie i den uge. Kim bliver helt ude af den, da det
 ***Indledningsvis skal du som studerende være særlig opmærksom på følgende problemstillinger ved gennemgangen af "forbrugeraftaler og forbrugerbeskyttelse":***
 
 
-<img src="img/Hvadderervigtigst.jpg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 •	**Forbrugerbeskyttelse ved erhvervelse af fast ejendom; fortrydelsesret og tilbud, tilbagekaldelse og sælgers accept, LFFE kapitel 2** 
@@ -3616,7 +3616,7 @@ Har du styr på, om du må eje kopivarer i Danmark? Eller om du må tage dem med
 
 ***Indledningsvis skal du som studerende være særlig opmærksom på følgende i forbindelse med gennemgangen af erstatningsretten:***
 
-<img src="img/Hvadderervigtigst.jpg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 •	**Grundlæggende erstatningsbetingelser; ansvarsgrundlag, årsagsforbindelse, påregnelighed, økonomisk tab og værnet interesse**
@@ -9900,7 +9900,7 @@ Viser det sig, at selskabet ikke kan betale, kan kravet så rettes mod selskabsd
 
 ***Som studerende skal man være særlig opmærsom på følgende ved gennemgangen af virksomhedsformer:***
 
-<img src="img/Hvadderervigtigst.jpg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 ***Overordnet om virksomhedsformer, kapitalkrav og hæftelse (enkeltmandsvirksomhed, ApS, I/S, A/S), SEL § 4 og 5***
@@ -10140,7 +10140,7 @@ Hverken *garantikapital* eller *ansvarlig lånekapital/indskudskapital* skal anm
 **Justesens juristerier**
 
 
-<img src="img/Iværksætter.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/Ivrkstter.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 
@@ -10495,7 +10495,7 @@ Partrederi:
 ***Du skal som studerende være særlig opmærksom på følgende problemstillinger ved gennemgangen af insolvensretten, herunder kreditorforfølgning:*** 
 
 
-<img src="img/Hvadderervigtigst.jpg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 •	**Forskellen på individual- og universalforfølgning = vigtigt – herunder forskellen på tvangsauktion og konkurs**
@@ -11616,7 +11616,7 @@ Værdien af vognen kan derfor i det omfang den i øvrigt er ubehæftet, tjene ti
 
 ***Som finansøkonom-studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af kreditaftaler:***
 
-<img src="img/Hvadderervigtigst.jpg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 •	**Underpantsforbud, KAL § 21**
