@@ -1,686 +1,449 @@
-# Erstatningsreglerne og den forsikringsmæssige afdækning
 
----
-
-***Indledningsvis skal du som studerende være særlig opmærksom på følgende i forbindelse med gennemgangen af erstatningsretten:***
-
-<img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+# Fuldmagter og mellemmænd
 
 
-•	**Grundlæggende erstatningsbetingelser; ansvarsgrundlag, årsagsforbindelse, påregnelighed, økonomisk tab og værnet interesse**
+<script async src="https://widget.spreaker.com/widgets.js"></script>
+
+<br>
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/ugJt8-E7xJY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div> 
+
+
+
+
+<a class="spreaker-player" href="https://www.spreaker.com/show/kapitel-2-aftaleloven" data-resource="show_id=3543307" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https://d1bm3dmew779uf.cloudfront.net/cover/bb453683459dec52bf6b9b83a3192674.jpg"></a>
+
+
+
+
+<img src="img/fuldmagt1.jpeg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+
+* **Fuldmagt** (er reguleret af aftaleloven: Lovbekendtgørelse nr. 193 af 2. marts 2016 om aftaler og andre retshandler på formuerettens område) 
+
++ *Fuldmagt med særlig tilværelse*
+  
++ *Fuldmagt uden særlig tilværelse*
+  
+* *Kommission* (Kommisionsloven Lovbekendtgørelse nr. 332 af 31. marts 2014) 
+  
+* *Handelsagenter* (Lov nr. 272 af 2. maj 1990 om                handelsagenter og handelsrejsende)
+
+
+
+
+## Fuldmagtsforhold og aftaleindgåelse 
+
+
+<script async src="https://widget.spreaker.com/widgets.js"></script>
+
+
+```{r network4, echo=FALSE, result=TRUE,fig.cap=("Fuldmagtsforhold og aftaleindgåelse ")}
+
+nodes <- data.frame(id = 1:3, 
+                    shape = c("box"), 
+                    label = c(" Fuldmagtsgiver "," Fuldmægtig "," Trediemand "),
+                    font.size = c(35,35,35))
+edges <- data.frame(from = c(1,2,3),
+                    to = c(2,3,1),
+                    label = c("Fuldmagt", "Aftale indgås",""),
+                    # arrows = c("middle"),
+                    length = c(300,300,200)
+                    )
+
+visNetwork(nodes, edges, width = "80%",avoidOverlap=2) %>% 
+  visNodes(color = list(background = "white", 
+                        border = "white",
+                        highlight = "yellow"),
+           shadow = list(enabled = TRUE, size = 30))  %>%
+  # visHierarchicalLayout()
+  visLayout(randomSeed = 24) %>% # to have always the same network
+visEdges(color = list(color = "lightgrey", highlight = "yellow"))
+```
+
+
+
+
+*Fuldmagt:* Aftaleloven afsnit II, jf. aftalelovens §§ 10-27 ^[Følgende bygger tildels på *Torsten Iversens og Lars Hedegaard Kristensen* karnovkommentar til aftaleloven om fuldmagtsforhold]
+
+**HR:** Fuldmagtsgiver bliver bundet af de aftaler, som fuldmægtigen indgår på fuldmagtsgivers vegne, jf. aftalelovens § 10, stk. 1:  
+
+*”Den, som har givet en anden fuldmagt til at foretage en retshandel, bliver umiddelbart berettiget og forpligtet overfor tredjemand ved retshandel, som fuldmægtigen foretager i fuldmagtsgiverens navn og indenfor fuldmagtens grænser”*.
+
+
+
+Fuldmagtsforholdet hviler normalt på en aftale mellem en fuldmagtsgiver og fuldmægtig, men kan herudover gives til kende ved en viljeserklæring til en eller flere tredjemænd eller ved en konkludent  handling, der tillader tredjemand at slutte, at fuldmagtsgiveren har udstyret fuldmægtigen med en fuldmagt (således som det er tilfældet ved stillingsfuldmagten ved et ansættelsesforhold). 
+
+Aftalelovens bestemmelser indeholder ikke nogen udtømmende opregning af de måder, hvorpå en fuldmagt kan skabes. 
+
+Anden optræden eller adfærd fra hovedmandens side end en viljeserklæring kan skabe fuldmagt, f.eks. overgivelse af dokumenter eller ved passivitet.
+
+Speak23
+
+En fuldmagt skabt ved passivitet kaldes ofte **adfærdsfuldmagt**. 
+
+Adfærdsfuldmagt foreligger også, når hovedmanden i et tidsrum har tolereret, at en person har foretaget retshandler for ham, og hovedmanden har opfyldt de indgåede aftaler, idet tredjemand her er bibragt den opfattelse, at denne person faktisk har en fuldmagt.
+
+En aftale kan i nogle tilfælde rammes af ugyldighed, hvis der er handlet i strid med en fuldmagt.
+
+### Sondringen mellem bemyndigelse og legitimation
+
+
+Aftaleloven sondrer mellem på den ene side **»legitimation«** og på den anden side **»beføjelse«**. 
+
+Ved *»fuldmagt«* forstås således den magt eller kompetence (**legitimation**), fuldmægtigen har til inden for visse grænser at foretage retshandler med bindende virkning for fuldmagtsgiveren. 
+
+Ved **»beføjelse«** (**bemyndigelse**) den ret eller tilladelse, fuldmægtigen iht. det mellem ham og fuldmagtsgiveren bestående retsforhold har til at optræde på dennes vegne:
+
+* *Bemyndigelse/beføjelse:* Er således den interne instruks mellem fuldmagtsgiver og fuldmægtig. Indholdet af denne instruks er som udgangspunkt ikke kendt for omverdenen.
+
+* *Legitimation:* Den ydre fuldmagt er synlig og kendt for omverdenen.  
+ 
+
+
+
+ 
+<img src="img/Bemyndigelse vs. legitimation.png" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+## De 2 fuldmagtsformer
+
+
+
+Der findes to fuldmagtsformer
+
+1. Fuldmagt med særlig ttilværelse
+2. Fuldmagt med uden særlig tilværelse
+
+* **Fuldmagt med særlig tilværelse:**
+
+  + Stillingsfuldmagt, jf. aftalelovens § 10, stk. 2
+  + Specialfuldmagt, jf. aftalelovens § 13
+  + Offentlig bekendtgjort fuldmagt, jf. aftalelovens § 14, stk. 1
+  + Skriftlig fuldmagt/forevisningsfuldmagt, jf. aftalelovens § 16, stk. 1
+
+### Fuldmagt uden særlig tilværelse
+
+
+
+* Kaldes også **§ 18-fuldmagt**
+
+
+![](img/hvad_er_fuldmagt.png)
 
   
-•	**Principalansvar (arbejdsgiverens hæftelsesansvar i DL 3-19-2)**
 
-•	**Ansvarets sammenhæng med forsikringsdækning, erstatningsansvarslovens (forkortet; EAL) §§ 19 – 23** 
+### Fuldmagt med særlig tilværelse
 
----
+#### Stillingsfuldmagt, jf. aftalelovens § 10, stk. 2:
 
-**Video: Introduktion til erstatningsretten**
+> *”Indtager nogen ifølge aftale med en anden en stilling, som efter lov eller sædvane medfører beføjelse for ham til indenfor visse grænser at handle på den andens vegne, anses han befuldmægtiget til at foretage retshandler, som falder indenfor disse grænser”.* 
 
 
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/aUJNx9bEge4" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
-
----
-
-## Erstatningsansvar uden en lovgivning
-
-Et ansvarsforsikringsselskab beskæfter sig indgående med erstatningsreglerne for at vurdere, om skadevolderen (fx. forsikringstageren) har pådraget sig et erstatningsansvar over for en skadelidt. 
-
-Ofte findes der ingen lovgivning, som kan fortælle, hvornår man som privatperson er ansvarlig for en skade. 
-
-I stedet er der ud af mange års domspraksis udledt en erstatningsregel, der kaldes *“den almindelige erstatningsregel”*. 
-
-Denne regel fastslår, at man er ansvarlig for den økonomiske skade, som man har forvoldt ved uagtsomhed eller med vilje. 
-
-Reglen hedder også culpa- eller skyldreglen ("culpa" betyder "skyld" på latin eller brøde, uagtsomhed, forseelse, synd). 
-
-Culpa, er den grundlæggende betingelse for at pålægge erstatningsansvar uden for kontraktforhold. 
-
-En skadevolder har udvist culpa, optrådt culpøst, overtrådt culpareglen, hvis han eller hun har handlet enten forsætligt, dvs. med vilje og viden om handlingens elementer, eller uagtsomt. 
-
-Se følgende domme om erstatningsansvaret:  
-
-
-
-
-
----  
-
-
-
-<img src="img/foldbold.jpg" align="right" width="10%" height="10%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
-
-*FED 2012.2: Landsretten fandt, at en tilskuer, der ved strafbar handling løb ind på fodboldbane og afbrød landskamp, var erstatningsansvarlig for DBU’s tab ved, at næste landskamp blev flyttet til en mindre  bane samt ved betaling af bøde til UEFA (1.869.269 kr. plus renter). Der forelå ikke egen skyld eller anledning til at reducere ansvaret efter EAL (erstatningsansvarsloven) § 24.*
-
-
-
-<img src="img/carbroken.png" align="right" width="15%" height="15%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
-*FED 2006.78: Ansvarspådragende efter culpareglen, at en person, der kørte i en lånt bil, ikke sikrede sig, at der var olie og vand på bilen, uagtet temperaturlampen  lyste og uagtet, at han kort forinden med få dages mellemrum havde været nødsaget til at påfylde olie og vand. (Utrykt)*
-
-
-<img src="img/cig.jpg" align="left" width="12%" height="12%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
-*U 2015.572 H (U: Ugeskrift for Retsvæsen): Tobaksselskaber ikke ansvarlige for varigt mén som følge af mangeårigt forbrug af cigaretter.*
-
----     
-
-Man er kun erstatningsansvarlig for skader, der kan gøres op i penge (økonomisk tab, som den skadelidte skal kunne bevise). 
-
-Ved tingsskader vil det være værdien af eller reparation af det ødelagte. 
-
-Ved personskader bliver det økonomiske tab beregnet efter reglerne i Lov om erstatningsansvar (EAL). 
-
-Det er f.eks. erstatning for varige mén, tabt arbejdsfortjeneste eller tab af forsørger. 
-
-Se følgende domme, hvor der idømmes erstatningsansvar i forskellige situationer:  
-
----     
-
-*FED 2012.3: A, der sad uden for golfbanens cafeteria, blev ramt i hovedet af golfbold, da B – som deltager i en polterabend – under golfspil kom til at slå bolden for langt. B, der kun én gang tidligere havde prøvet at spille golf og ikke havde modtaget undervisning heri, fandtes erstatningsansvarlig.*
-
-
-
-*FED 2009.114: En kvinde, som faldt i søvn som fører af en bil, påkørte og dræbte en modkørende bilist. Hun blev idømt en fængselsstraf på 10 måneder, men hendes kørsel kunne ikke karakteriseres som særlig hensynsløs, hvorfor afdødes ægtefælle ikke havde krav på godtgørelse i medfør af EAL § 26 a.*  
-
-
-<img src="img/stripper2.jpg" align="right" width="10%" height="10%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
-
-
-*FED 2008.1: En mandlig stripteasedanser B ansvarlig for øjenskade på deltager A i kvindelig polterabend, da B affyrede konfettirør. Ikke grundlag for at nedsætte erstatningen som følge af egen skyld eller accept af risiko.*
-
-
-
----     
-
-### Hændeligt uheld
-
-
-![](img/bonuspaterfamilias.jpg)
-
-
-Er skaden forvoldt ved et **hændeligt uheld**, har vedkommende ikke gjort noget forkert og er ikke ansvarlig for skaden. 
-
-Man skal heller ikke erstatte noget. 
-
-Åbner en hotelgæst eksempelvis døren til sit værelse indefra, i det øjeblik en tjener går forbi på gangen med en bakke med glas, og døren rammer bakken, så glassene falder på gulvet og knuses, er der tale om et hændeligt uheld. Uheldet kan ikke bebrejdes hotelgæsten, da han ikke havde mulighed for at undgå det. Han havde opført sig som “den gode hotelgæst” og ikke begået nogen fejl. 
-
-Se afgørelserne fra retspraksis og Forsikringsankenævnet om spørgsmålet om hændelige skader:
-
----     
-
-*U.1961.167 H: At en 11-årig dreng kom til at ramme en anden dreng med en kæp i øjet, blev anset for et hændeligt uheld og derfor ikke noget erstatningsansvar.*
-
-
-
-*FED 1998.584: Ejeren af sommerhus til udlejning havde ikke pådraget sig erstatningspligt ved, at en lejers barn kom til skade, da et sofabord, der var en del af sommerhusets møblement, væltede.*
-
-
-
-*Ankenævnskendelse i sag nr. 35.936 – 30.12.94: Klagers “griben ud efter” sit 15 måneder gamle barn, der var ved at falde, hvorved cigaretglød ødelagde en sofa, ikke anset som uagtsom adfærd, derfor ikke nogen erstatningspligt for sofaen.*
-
-
-
-*Ankenævnskendelse i sag nr. 39.737 – 22.01.1996: Gæstebudsskade at tabe kaffebakke under forsøg på at undgå at træde på et barn. Ikke erstatningsansvar, men dækket som gæstebudsskade over personens ansvarsforsikring.*
-
-
-
-*Ankenævnskendelse i sag nr. 51.809 – 29. maj 2000: 8-årigt barn faldt over egne ben og væltede vase. Ikke erstatningsansvar, men dækket som gæstebudsskade.*
-
-
-
-*FED 2003.1091: Hønseejer var ikke ansvarlig for cyklists tilskadekomst, da cykel på landevej ramte fritgående høne.*
-
-
-
-*U 2013.84 V: Motionscyklist, der sammen med andre cyklister kørte i en gruppe, og som efter at være kommet ud i rabatten prøvede at komme op på vejen igen, hvorved han væltede, og der skete sammenstød med bagfrakommende cyklister, havde ikke handlet ansvarspådragende.*
-
-
-
-*H.K. af 24. juni 2002. Sag: 206/2002: Museum var ikke ansvarligt for tilskadekomst, da gæst under privat besøg gled i hundeekskrementer og faldt.*
-
-
----          
-
-
-### Handlet forkert eller undladt at handle
-
-Har skadevolder handlet forkert – dvs. er ansvarlig – er det vigtigt at finde ud af, om skaden er forvoldt ved en simpel uagtsomhed, grov uagtsomhed eller med forsæt (med vilje). 
-
-Denne vurdering af handlingen eller undladelsen har bl.a. betydning for, om skadevolderens ansvarsforsikring skal betale for skaden hos skadelidte. 
-
-Se her følgende domsafgørelser fra retspraksis:  
-
----          
-
-*FED 2016.122: Diskotek erstatningsansvarlig for personskade opstået ved, at diskotekets dørmand gik ud over det nødvendige og forsvarlige ved at skubbe eller kaste skadelidte ud af diskotekets dør.*
-
-
-*Ø.L.D. af 12. maj 2005. Sag: 20. afd., a.s. nr. B-2581-04: Værtinde ifaldt erstatningsansvar, fordi hun bar et sofabord ned ad en trappe iført højhælede sko og uden at fjerne noget nips, der indskrænkede trappearealet, hvilket forårsagede, at hun tabte bordet, som ramte en gæst i hovedet. (Utrykt)*
-
-
-![](img/stairs.jpg)
-
-
-
-
----     
-
-
-### Den almindelige fornufttige person
-
-Når en domstol bedømmer, om skadevolder har handlet forkert, sammenligner domstolen skadevolderens handling med, hvordan en almindelig fornuftig person ville have handlet i samme situation.
-
-Begrebet repræsenterer en uagtsomhed en adfærd, der afviger fra de adfærdsnormer, der gælder inden for det pågældende område.
-
-Kommer en domstol til det resultat, at en skadevolder har handlet anderledes, end hvad en alimindelig fornuftig person ville have gjort i samme situation, har skadevolderen handlet forkert og vil blive pålagt et erstatningsansvar.
-
-Det skal bevises af skadelidte (kaldet en ”ligefrem bevisbyrde”). Det er hovedreglen i dansk ret; Den der vil gøre noget gældende, har også bevisbyrden herfor.
-
-For at kunne få erstatning fra en skadevolder skal skadelidte ifølge retspraksis (domstolene) bevise følgende over for retten: 
-
-
-*	Der er sket en skade og lidt et tab. 
-
-*	Det er skadevolders skyld – skadevolder har handlet uagtsomt eller   med forsæt.  
-
-*	Der er årsagssammenhæng (kausalitet) mellem den skete skade og det   lidte tab, dvs. at tabet er en direkte følge af skaden.  
-
-*	Der er påregnelighed (adækvans) mellem skaden og tabet, dvs., at    skadevolder burde kunne forudse, at skaden ville ske.  
-
-Kan skadelidte ikke bevise det, er det ikke muligt at få erstatning fra en skadevolder eller dennes ansvarsforsikring, se følgende dom:
-
----     
-
-*FED 2007.111: Forsikringstager havde ikke dokumenteret, at der var årsagsforbindelse mellem nogle anførte lidelser og et færdselsuheld.*
-
-
----     
-
-
-### Ansvar for ikke at gøre noget
-
-Det er ikke kun handlinger, man kan blive erstatningsansvarlig for. 
-
-I visse tilfælde kan man også blive erstatningsansvarlig for sine undladelser. Det sker oftest i situationer, hvor der er pligt til at handle. 
-
-Eksempler er husejeren, der ikke gruser et isglat fortov, eller forældre, der ikke holder øje med deres børn.
-
-
-### Ansvar for psykiske personskader
-
-Udover at der kan tilkendes erstatningsansvar ved tingsskader samt fysiske personskader, så kan der være erstatningspligt for psykiske personskader. 
-
-Se her nævnte domme:  
-
----
-
-<img src="img/meeting.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
-...
-
-*U.2012.524 H: A blev sygemeldt efter et begivenhedsforløb på en personaleweekend og rejste krav om godtgørelse for svie og smerte mod kommunen K som arbejdsgiver. Begivenhedsforløbet vedrørte en følelsesladet drøftelse i plenum af A’s sygdomsfravær, som ifølge A endte med, at hun i overværelse af sine kollegaer reelt blev fyret. K bestred ikke, at A var blevet påført en psykisk skade som følge af begivenhedsforløbet, og parterne var enige om opgørelsen af godtgørelseskravet. Højesteret udtalte bl.a., at udtrykket “personskade” i erstatningsansvarslovens § 1 må forstås i overensstemmelse med dansk rets almindelige erstatningsregler, og den psykiske skade, som A var blevet påført, var omfattet af bestemmelsen. Højesteret fandt endvidere, at personaleweekenden i forhold til A blev afviklet på en uforsvarlig måde, og at dette var ansvarspådragende for K som arbejdsgiver. Den uforsvarlige afvikling af personaleweekenden medførte en betydelig forøgelse af risikoen for en psykisk skade hos en medarbejder, som ledelsen må have forstået befandt sig i en psykisk anspændt situation, og Højesteret fandt, at A’s psykiske skade var en påregnelig følge. A var direkte skadelidt som følge af den ansvarspådragende adfærd, og der var ikke grundlag for at anse den psykiske skade for at falde uden for, hvad der var omfattet af kommunens erstatningspligt. K skulle herefter betale 50.000 kr. til A for svie og smerte. Landsretten havde frifundet K.*
-<br>
-
-*U 2010.1609 H: Psykisk personskade anset for omfattet af ulykkesbegrebet i ulykkesforsikring*
-
----
-
-### Simpel uagtsomhed
-
-Ved simpelt uagtsomhed (culpa levis), har skadevolder handlet mere skødesløst, end hvad en almindelig fornuftig personen ville have handlet i den samme situation – den lille dagligdags uagtsomhed – er skadevolder erstatningsansvarlig. 
-
-Simpel uagtsomhed er en uagtsomhed som ikke kan betegnes som grov. Culpareglen omfatter som hovedregel begge former for uagtsomhed.
-
-
-Forsikringsankenævnet og domstolene foretager et konkret skøn, om skadevolder har handlet simpelt uagtsomt. Hvis eksempelvis en fodgænger træder ud på vejbanen uden at se sig for og rammer en forbikørende cyklist, der vælter, kan uheldet bebrejdes fodgængeren, der har været mere skødesløs end “den gode fodgænger”. Derfor er fodgængeren erstatningsansvarlig for cyklistens økonomiske tab. 
-
-Se følgende sager fra retspraksis og Forsikringsankenævnet, om spørgsmålet, om der er simpel uagtsomhed hos skadevolder:
-
----
-
-*U 1915.242 H: (Uagtsom Brandstiftelse). En Tiltalt færdedes en Nat i et straatækket Udhus, hvor der henlaa Fourage og Halm, med en to Tommer lang; Lysestump, som han under sit Ophold i Udhuset tændte. Under sit Ophold i Udhuset røg han derhos Cigaret. Umiddelbart efter at Tiltalte havde forladt Udhuset, viste det sig, at der var Ild i dette, der nedbrændte. Antaget, at Tiltalte havde foraarsaget Ilden, og at der forelaa Tilsidesættelse af almindelig Forsigtighed.*
-
-*Ankenævnskendelse i sag nr. 03.256 – 03.09.79: Da forsikringstageren, som under pasning af skadelidtes blomster havde forvoldt skade på dennes gulvtæppe, ikke fandtes at have udvist et så uforsvarligt forhold, at han ville kunne gøres ansvarlig for skaden, var selskabet berettiget til at afslå at erstatte denne. (Utrykt)*
-
-*Ankenævnskendelse i sag nr. 03.308 – 03.09.79: Da forsikringstageren, som under arbejde i sin svigerfars lejlighed forvoldte skade på el-hovedkablet, ikke fandtes at have udvist et så uforsvarligt forhold, at han ville kunne gøres ansvarlig for skaden, var selskabet berettiget til at afslå at erstatte denne (utrykt).*
-
----
-
-### Grov uagtsomhed
-Grov uagtsomhed (latin; culpa lata) er en betydelig form for uagtsomhed. Nyere retspraksis lægger vægt på, om skadevolderens adfærd indebar en ”indlysende fare”, for den indtrådte skade. 
-
-Skadevolderens bevidsthed om faren kan indgå i vurderingen af, om uagtsomheden er grov. 
-
-Går en fodgænger over for rødt og vælter en cyklist, er fodgængeren nu mere uforsigtig end selv en skødesløs fodgænger. Det kan betegnes som grov uagtsomhed, og fodgængeren er erstatningsansvarlig. Det er en skønsmæssig vurdering, om domstolene og Ankenævnet for Forsikring anser en person for at have handlet groft uagtsomt.
-
-Se her nævnte domme og ankenævnsafgørelser:
-
----
-
-
-*U 1998.1693 H: Opbevaring af nøglen til sikringsboksen i et auktionshus på et kontor i samme bygning var grov uagtsomhed.*
-
-*U 1999.1706 H: Død ved fald på ca. 6 meter fra et tag ikke omfattet af ulykkesforsikring, da faldet var fremkaldt ved forsikredes forsæt eller grove uagtsomhed.*
-
-*U.1993.955 V: Da kortvarig efterladelse af kuffert ved bagagebånd i lufthavn ikke var groft uagtsom, var tyveri af kufferten dækket af tyveriforsikringen.*
-
-<img src="img/fireplace.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
-*FED 2013.9: Den 16-årige A ville ved ungdomsfest hjælpe værtinden med at tænde op i en udendørs pejs. I den forbindelse hældte han væske fra en dunk, som også værtinden havde benyttet i sit forsøg på at tænde op i pejsen, direkte ind i pejsen. Herved slog ilden tilbage og antændte A’s tøj samt dunken, som han i panik kastede fra sig. Den brændende dunk ramte en trækonstruktion og huset nedbrændte. Det viste sig, at væsken var benzin. Landsretten fandt, at A havde handlet groft uagtsomt, hvorfor hans ansvar ikke bortfaldt i medfør af erstatningsanvarslovens (EAL) § 19.*
-
-*FED 2010.93: Forsikringsselskab fik ikke medhold i, at en 13-årig dreng udviste grov uagtsomhed da han startede en bygningsbrand ved at tænde en lighter samtidig med, at en kammerat to meter derfra hældte benzin på en knallert. Tillagt betydning bl.a., at benzindampe har en forholdsvis svag lugt og løber langs gulvet, og at der er store individuelle forskelle på menneskers lugtesans.*
-
-*FED 2001.2121: Passager, som blev dræbt under bilkørsel med beruset fører, fandtes at have handlet groft uagtsomt, hvorfor hans livsarvinger ikke var berettiget til dødsfaldsdækning fra ulykkesforsikring.*
-
-*FED 2001.2255: Bilist, som kørte ud foran tog i jernbaneoverskæring uden at være opmærksom på lys- og lydsignaler, havde handlet groft uagtsomt. DSB var derfor berettiget til at reducere personskadeerstatningen med 1/3.*
-
-*FED 1998.224: 16-årig rulleskøjteløber havde udvist grov uagtsomhed ved at køre ud på kørebanen foran bil. Under henvisning til alder, til at handlingen var udført i kådhed samt til områdets karakter, fandtes der dog ikke grundlag for at nedsætte personskadeerstatningen.*
-
-
-
-<img src="img/container.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
-*FED 2018.01 Ø.L.D. af 11. januar 2018. Sag: 20. afd. nr. B-583-17: Den 14-årige A satte ild til papir i en affaldscontainer i en skolegård og forlod herefter stedet med den 13-årige B, der forholdt sig passivt til A's aktiviteter. Skolen brændte, og forsikringsselskabet F afholdt skadeudgifter på over 10 mio. kr. F gjorde regres med krav på 3 mio. kr. over for A og B. A fandtes at have handlet groft uagtsomt, men erstatningen blev reduceret til 1 mio. kr. efter EAL § 24a. B havde ikke handlet groft uagtsomt og blev derfor frifundet. [Processbevilingsnævnet har givet tilladelse til anke til Højesteret].*
-
-*Ankenævnskendelse i sag nr. 20.217 – 26.08.87J: Kørsel på motorcykel med 1 hånd ikke grov uagtsomhed i familie-/indboforsikring, og selskabet skulle dække beskadiget tøj efter færdselsskade. (utrykt).*
-
-*Ankenævnskendelse i sag nr. 48.636 – 12. april 1999: Hasarderet kørsel under flugt fra politiet anset for grov uagtsomhed.*
-
-*Ankenævnskendelse i sag nr. 63.558 – 14. februar 2005: Groft uagtsomt at efterlade ulåst bil med nøgler i tændingslås i flere timer på privat vej, men forholdsvis tæt på befærdet vej. (Utrykt)*
-
----
-
-### Forsæt (med vilje)
-
-Forsæt, er en handling der er foretaget med vilje, er ikke i dansk ret en betingelse for at ifalde erstatningsansvar. 
-
-At skadevolderen har udvist uagtsomhed, dvs. tilsidesat den agtpågivenhed, som kræves på det pågældende område, er som hovedregel tilstrækkeligt til at pålægge erstatningsansvar, 
-
-Kaster en person en sten efter en cyklist for at ramme denne, og det lykkes, er skaden på cyklisten lavet med vilje – med forsæt. 
-
-Skadevolderen er selvfølgelig også her erstatningsansvarlig. 
-
-Hovedreglen er i dansk ret, at kun forsætlige forhold er strafbare, dog en vigtig undtagelse uagtsom drab. 
-
-Ved forsætlige handlinger afviser skadevolders ansvarsforsikring at udbetale erstatning, se her nævnte sager om vurderingen om skadevolder har handlet med forsæt – med vilje:
+<img src="img/fuldmagt2.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 ---
 
-*Forsikringsankenævnskendelse i sag nr. 15.569 – 26.04.85: Skade på skolelokaler, forårsaget af 15-årig dreng ved udtømning af to pulverslukkere, anset forsætligt forvoldt, og derfor ikke dækket af ansvarsforsikringen. (utrykt)*
+**Video om stillingsfuldmagten, jf. aftalelovens § 10, stk. 2**
 
----
 
-<img src="img/truckcar.jpg" align="right" width="15%" height="15%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
-Ved simpel og grov uagtsomhed er det hovedreglen, at en ansvarsforsikring dækker (se dog afsnittet nedenfor om generelt bortfald af ansvar). Forsætlige skader dækker forsikringen ikke, med mindre skadevolder er under 14 år:
+<div class="video-container"><iframe src="https://www.youtube.com/embed/Zrg3TkUcot0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
 ---
 
-*H.D. 19 december 2016 i sag 235/2015 (1. afdeling): Skadelidte, der var sindssyg, forsøgte at begå selvmord ved at køre ind i en modkørende lastbil. Retten til erstatning for personskade bortfaldt som følge af forsætlig medvirken.*
 
----
 
-### Objektivt ansvar
+Når du (fuldmagtsgiver) giver en anden (fuldmægtig) fuldmagt til at handle på dine vegne, bliver du som hovedregel bundet af den aftale din fuldmægtig indgår med tredjemand. 
 
-I dansk ret kan der også gælde et såkaldt “objektivt ansvar”, hvorefter skadevolderen pålægges erstatningsansvar, selv om der ikke er handlet uagtsomt (uden skyld). 
+Der er kun tale om en stillingsfuldmagt i § 10’s forstand, når du efter aftale med en anden (fuldmagtsgiver/arbejdsgiveren) indtager en stilling, dvs. er ansat hos den pågældende. 
 
-Med andre ord er der situationer, hvor man kan blive ansvarlig, selv om skaden sker ved et hændeligt uheld. 
+Stillingsfuldmagten stiftes ved, at du efter aftale med fuldmagtsgiver indtager en vis stilling og faktisk indtager denne fx, at du er ansat i en bank, ejendomsmæglerkæde eller i et forsikringsselskab. 
 
-Objektivt ansvar er bl.a. lovfæstet i produktansvarsloven, jernbaneloven, luftfartsloven, lov om drift af nukleare anlæg, søloven, hundeloven, færdselsloven og lov om formidling af fast ejendom, se følgende dom over en ejendomsmægler:  
+Deraf følger så, at en advokat ikke har en stillingsfuldmagt for sin klient, og en tilsynsførende arkitekt eller ingeniør ingen stillingsfuldmagt fra bygherren. 
 
+Tredjemand fx kunden kan påberåbe sig stillingsfuldmagten, selv om han ikke kender til ansættelsen af fuldmægtigen hos fuldmagtsgiveren.
 
----
+* En ansat, har således via sin stilling, fuldmagt til at handle på vegne af fuldmagtsgiver (arbejdsgiver).
 
-*FED 1997.92: I medfør af (dagældende) lov om omsætning af fast ejendom § 24 (nu § 47) måtte en ejendomsmægler på objektivt grundlag godtgøre en forbruger (sælger) forskellen mellem det beregnede provenu og et korrekt beregnet provenu, selv om forskellen skyldtes en forkert oplysning om kursen på et lån fra et realkreditinstitut, som havde oplysningen fra Københavns Fondsbørs officielle kursliste.*
+* Fuldmægtigen (den ansatte) har udadtil fuldmagt til at handle inden for stillingens grænser, dvs. den ansatte kan indgå de aftaler med tredjemand, som er sædvanlige for stillingen, fx en ejendomsmægler kan indgå en formidlingsaftale med en sælger af et hus.
 
----
+* En kunderådgiver i en bank kan i sagens natur indgå aftaler om lån fra banken, men hun kan ikke indgå aftaler med et reklamebureau om ny markedsføringskampagne af bankens lån, medmindre hun har fået en udvidet bemyndigelse/særlig tilladelse fra fuldmagtsgiver fx hendes områdechef.
 
-Men det objektive ansvar kan også være ulovhjemlet (ikke fastsat i loven). Domstolene har i visse tilfælde pålagt skadevoldere objektivt ansvar uden lovhjemmel, når skaden er indtrådt som følge af materialesvigt, f.eks. skader, der er forvoldt af brud på fjernvarmerør, el og gasledninger mv. 
+Situation: Fuldmægtigen indgår en aftale med tredjemand, der overskrider bemyndigelsen (den interne instruks fra fuldmagtsgiver).
 
-Se følgende domme: 
+* Fuldmagtsgiver er bundet af de aftaler fuldmægtigen indgår med tredjemand i strid med den interne instruks, hvis tredjemand var i god tro, jf. aftalelovens § 11, stk. 1.
 
+**God tro:** Hvis det vurderes at tredjemand ikke indså eller burde have indset, at fuldmægtigen indgik en aftale der lå uden for sine beføjelser (den interne instruks).
 
----
+Situation: Fuldmægtigen indgår en aftale med tredjemand, der ligger uden for legitimationen (stillingsfuldmagtens sædvanlige grænser).
 
-*FED 2014.77: Bygherre og entreprenører var erstatningsansvarlig for udgravnings- og funderingsarbejde, der gjorde mur på nabogrund ustabil med efterfølgende sammenstyrtning til følge. Ved sammenstyrtningen skete der skader på tilgrænsende ejendom, hvorved denne bygnings ejer blandt andet led et huslejetab. Murens ejer havde inden sammenstyrtningen accepteret, at muren kunne fjernes, hvorfor murens værdi ikke skulle erstattes.*
+* Fuldmagtsgiver er ikke bundet af de aftaler fuldmægtigen indgår med tredjemand, hvis de ligger uden for stillingens grænser, uanset tredjemands gode tro, fx at bankrådgiveren til en bankkunde giver tilsagn om et privat forbrugslån uden at lånet er bliver forrentet og uden stiftelsesomkostninger.
 
-*FED 2004.507: Kommune og underentreprenør solidarisk ansvarlige for skade på nedgravede kabler, som under udboring til stikledninger blev ødelagt. Ligedeling af ansvaret i det indbyrdes forhold.*
+Stillingsfuldmagtens særlige tilværelse viser sig bl.a. derved, at fuldmagtsgiver bliver bundet over for en tredjemand i god tro, selv om fuldmagtsgiver ved konkret tilkendegivelse til fuldmægtigen har indskrænket dennes bemyndigelse, idet fuldmægtigen desuagtet stadig besidder den fuldmagt, der ifølge lov eller sædvane er forbundet med den stilling, fuldmægtigen besidder. 
 
----
+Vil fuldmagtsgiveren indskrænke stillingsfuldmagten, må han degradere fuldmægtigen, dvs. afskedige ham fra stillingen og give ham en stilling med en mindre vidtgående stillingsfuldmagt, og dette må være kendeligt for omverdenen.
 
-### Generelt bortfald af ansvar
 
-Selv om skadevolder har handlet forkert – været uagtsom – er der nogle situationer, hvor skadevolder alligevel ikke er erstatningsansvarlig.
 
-Er den skade, der er sket, i forvejen dækket af en tingsforsikring eller en driftstabsforsikring, er skadevolder ikke erstatningsansvarlig. 
 
-Det gælder dog kun, hvis skaden ikke er forvoldt med vilje eller ved grov uagtsomhed. 
+<img src="img/lawyer-free-stock-photos-justice-1080x721.jpg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Det fremgår af Lov om erstatningsansvar (Lovbekendtgørelse nr. 1070 af 24. august 2018). Smadrer en dreng eksempelvis naboens glasrude, der er forsikret, ved en simpel uagtsomhed, er drengen ikke erstatningsansvarlig. Vinduet bliver betalt af glasforsikringen.
 
-Lov om erstatningsansvar fastslår også, at hvis staten, en kommune eller en anden offentlig institution er selvforsikrende, skal de erstatningsmæssigt betragtes på samme måde, som hvis de havde tegnet forsikring. 
+Sædvanens betydning er mange gange større end aftalelovens, når det gælder stillingsfuldmagt, men det er i sagens natur mindre sikkert, hvad der er sædvanligt, end hvad der står i loven. 
 
-Det betyder, at der ikke er forskel på, om drengen ved en simpel uagtsomhed, smadrer naboens glasforsikrede rude eller en rude i kommunens skole, hvor kommunen er selvforsikret. 
+Efter almindelige bevisbyrderegler må den, der hævder, at der foreligger en fuldmagt, formentlig skulle godtgøre dennes rækkevidde, men da fuldmagtsgiver normalt er den, der sidder inde med oplysninger om stillingsbeskrivelsen, branchen, virksomheden og dens organisation og praksis, må fuldmagtsgiver være undergivet en betydelig forpligtelse til at bidrage til sagens oplysning. 
 
-I ingen af tilfældene er drengen erstatningsansvarlig. For kommunens vedkommende betyder det, at den selv må betale ruden.
+Domstolene må antages i hovedsagen at anse spørgsmålet om fuldmagtens rækkevidde som et retsspørgsmål, som det tilkommer domstolene at afgøre, jf maksimen *jura novit curia* (retten kender retsreglerne og ved, hvordan de anvendes, og gør det *ex officio*; af egen drift), og ikke som et spørgsmål om faktum, som det påhviler den ene part at føre bevis for.
 
-**Man kan ikke blive erstatningsansvarlig over for sig selv**. 
+Stillingsfuldmagtens grænser afhænger i første række af, hvilken stilling der er tale om, idet sædvanerne for forskellige stillinger er forskellige. 
 
-De ting, som man ødelægger af sine egne ting, udløser ikke et erstatningsansvar, som der kan dækkes på ens ansvarsforsikring. Se f.eks. her nævnte dom:
+En bankdirektør har en mere vidererækkende stillingsfuldmagt end en områdekundechef, og en områdekundechef en mere vidererækkende stillingsfuldmagt end en lokalafdelingschef. 
 
----
+**Erstatning**: Hvis fuldmagtsgiver lider et dokumenteret økonomisk tab, fordi fuldmægtigen har handlet groft uagtsom eller forsætligt, kan fuldmægtigen i sjældne grove tilfælde blive erstatningsansvarlig over for arbejdsgiveren/fuldmagtsgiveren, jf. – erstatningsansvarslovens § 23, stk. 1:
 
-*FED 2003.836: Som følge af identitet mellem forsikringstageren og ejeren af et sommerhus, var der ikke dækning på en erhvervsansvarsforsikring for skade forvoldt af forsikringstagerens ansatte under udførelse af entreprise på sommerhuset.*
+**Erstatning, som en arbejdsgiver har måttet udrede som følge af en arbejdstagers uforsvarlige adfærd, kan kun kræves betalt af denne i det omfang, det findes rimeligt  under hensyn til den udviste skyld, arbejdstagerens stilling og omstændighederne i øvrigt.**
 
----
+De vigtigste momenter i vurderingen af, om og i hvilket omfang arbejdsgiveren kan gøre regres mod arbejdstageren, er skyldgraden (normalt ikke regres ved skader, der er forvoldt ved simpel uagtsomhed; i modsætning til erstatningsansvarslovens § 19, stk. 3, indebærer forsæt eller især grov uagtsomhed dog ikke nødvendigvis fuldt ansvar for arbejdstageren, se herved U 2016 3069 V (regres ved betydelig uagtsomhed) og U 2006 356 V om regres ved en forsætligt forvoldt skade) og arbejdstagerens stilling (indtagelse af en overordnet stilling med ledelsesfunktioner vil f.eks. kunne tale for regres).
 
-## Erstatningsansvaret og EAL § 19
 
-I det omfang en skade er dækket af en tingsforsikring eller en driftstabsforsikring, er der ikke erstatningsansvar, jf. EAL § 19, stk. 1
+**Ophør af fuldmagtsforholdet:**
 
-Hovedreglen om, at der ikke er erstatningsansvar for en forsikringsdækket skade, gælder uanset ansvarsgrundlagets karakter. Ansvaret bortfalder både i forhold til forsikringsselskabet og i forhold til skadelidte. 
+* En stillingsfuldmagt ophører og tilbagekaldes ved at fuldmægtigen fjernes fra stillingen, fx opsiges eller bortvises.
 
-Sammenholdt med undtagelserne i EAL § 19, stk. 2 og i § 21 omfatter hovedreglen imidlertid kun følgende tilfældegrupper:
+* Arbejdsgiveren bliver bundet af de aftaler  den opsagte indgår med tredjemand i opsigelsesperioden.
 
-1) ansvar for skader i privatlivet, der er forvoldt ved simpel uagtsomhed;
+* I en opsigelsesperiode bør fuldmagtsgiver tage stilling til om fuldmægtigen stadig skal have  fuldmagt til at indgå de samme aftaler udadtil, eller der skal laves en ændring frem til fratrædelsestidspunktet.
 
-2) ansvar for skader i privatlivet, der hviler på strengere ansvarsregler end culpareglen bortset fra de i § 21 nævnte (f.eks. DL 3-19-2 ved private tjenesteforhold, hundelovens § 8);
+---    
 
-3) arbejdstageres personlige ansvar for skader, der er forvoldt ved simpel uagtsomhed, jf. stk. 3.
+#### Specialfuldmagt, jf. aftalelovens § 13:  
 
-Reglen gælder ikke enhver skadesforsikring, der omfattes af forsikringsaftaleloven, men kun forsikringer, hvor forsikringsydelsen bestemmes enten af tingens værdi eller af dens afkastningsinteresse i relation til en virksomheds drift. Kreditforsikringer, kautionsforsikringer og lign. falder derfor udenfor.
+”En fuldmagt, som er bragt til tredjemands kundskab ved en til ham særskilt rettet erklæring fra fuldmagtsgiveren, er tilbagekaldt, når særskilt erklæring om, at fuldmagten ikke længere skal gælde, er kommet frem til tredjemand”
 
-. 
-## Erstatningskravet og erstatningsbeløbet
+* Kaldes også for legitimationsfuldmagt
 
-I Lov om erstatningsansvar kan man læse, hvad der kan kræves i erstatning af en erstatningsansvarlig skadevolders forsikringsselskab. Man kan som skadelidt kræve erstatning for følgende:
+* Fuldmagten er en særskilt erklæring, der meddeles direkte fra fuldmagtsgiver til tredjemand
+  
+* Tredjemand får direkte besked om fuldmagtens indhold
+  
+* Erklæringens form er ligegyldig
 
-*	Udgifter til behandling
-*	Tabt arbejdsfortjeneste
-*	Svie og smerte
-*	Varigt mén
-*	Tab af erhvervsevne
-*	Dødsfald
-*	Skader på ejendele
-*	Advokatomkostninger.
+* Kan være både mundtlig og skriftlig
 
-### Anmeldelse af erstatningskrav
-
-Skadelidte skal henvende sig til den, der er skyld i skaden. Har skadevolder en ansvarsforsikring, kan vedkommende anmelde skaden til sit eget forsikringsselskab. 
-
-Har skadevolderen ingen forsikring, må skadevolderen selv betale. Skadelidte må eventuelt rejse sit krav om erstatning gennem en retssag.
-
-### Sådan bliver man erstatningsansvarlig i relation til ansvarsforsikringen
-
-Flere forsikringer indeholder automatisk en ansvarsforsikring, der dækker, hvis en af de forsikrede bliver erstatningsansvarlig for en skade. 
-
-For mange er det svært at vurdere, hvornår de er ansvarlige for en skade, og hvornår ansvarsforsikringen dækker. Derfor vil reglerne for, hvornår der er ansvar, kort blive gennemgået nedenfor.
-
-Har man forvoldt en skade, er det naturligt, at man føler skyld og mener, at skadelidte skal have erstatning, enten fra en selv eller fra det forsikringsselskab, hvor man er ansvarsforsikret.
-
-At føle skyld for en skade er ikke det samme som, at man juridisk er ansvarlig, og at skadelidte dermed har ret til erstatning. 
-
-I nogle tilfælde vil det fremgå af lovgivningen, om man er erstatningsansvarlig, mens det i tilfælde, hvor der ikke er lovgivet, vil være retspraksis (domstolene), der afgør, om man er erstatningsansvarlig.
-
-### Udgifter til behandling
-
-<img src="img/doctor.jpeg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
-Man kan få erstattet de udgifter til behandling, som ikke bliver betalt fra anden side (f.eks. den offentlige sygesikring eller sin egen ulykkesforsikring). 
-
-Det kan være udgifter til medicin, fysioterapi, kiropraktorbehandling, hjælpemidler og hjemmehjælp, som lægen har ordineret, eller rimelige udgifter til transport til og fra et behandlingssted.
-
-Fremtidige helbredelsesudgifter bliver erstattet med et kapitalbeløb, der udbetales på én gang og udregnes efter regler, der er fastsat i loven.
-
-*	Erstatning for tabt arbejdsfortjeneste
-*	Erstatning for erhvervsevnetab, hvis denne udbetales som en løbende ydelse
-*	Renter, uanset om beløbet, de vedrører, er skattepligtigt eller ej. Erstatningen er skattefri, men der skal betales skat af eventuelle renter.
-
-### Tabt arbejdsfortjeneste
-
-Har man tab af indtægt som følge af uheldet, kan man kræve hele tabet erstattet. 
-
-Man får erstatning fra det tidspunkt, hvor uheldet skete, og indtil man kan begynde at arbejde igen. 
-
-Medfører skaden, at man vil få et varigt erhvervsevnetab, får man erstatning frem til det tidspunkt, hvor det er muligt midlertidigt eller endeligt at skønne over ens fremtidige erhvervsevne, se følgende dom.
-
-
----
-
-*U 2009.485 H: Erstatning for fremtidig tabt arbejdsfortjeneste efter ulykke, der forsinkede studerendes uddannelsesforløb.*
-
----
-
-### Svie og smerte
-
-Godtgørelse for svie og smerte ydes som kompensation for det ubehag og de smerter, som et uheld medfører. 
-
-Godtgørelsen kan kræves for perioden fra tidspunktet for uheldet, og normalt så længe man er sygemeldt. Godtgørelsen bliver givet efter en fast takst.
-
-### Godtgørelse for varigt mén
-
-Hvis man får varige gener i sin dagligdag på grund af uheldet, kan man kræve godtgørelse for varigt mén.
-
-Størrelsen af ens mén angives i ménprocent. 
-
-Det er et lægeligt skøn, der afgør, hvor stort ens mén bliver. 
-
-Det skal være mindst 5 procent, for at man kan få godtgørelse. 
-
-Er man fyldt 40 år, bliver godtgørelsen reduceret i forhold til ens alder. Godtgørelsen for varigt mén har intet med ens (evt. tidligere) erhverv at gøre. 
-
-Derfor vil man måske opleve, at man sagtens kan passe et kontorjob, selv om man har fået erstatning for varigt mén, hvorimod man måske ville have svært ved at passe et job, der var fysisk hårdere.
-
-### Erhvervsevnetabserstatning
-
-Hvis uheldet betyder, at man mister mindst 15 procent af ens evne til at erhverve indtægt ved arbejde, kan man få erstatning for tab af erhvervsevne. 
-
-Erstatningens størrelse afhænger af ens løn lige før uheldet, ens alder på uheldstidspunktet og størrelsen af ens erhvervsevnetab. 
-
-Erstatningen bliver udregnet efter regler fastsat i loven.
-
-Var man fyldt 30 år på tidspunktet for uheldet, bliver ens erstatning nedsat i forhold til ens alder.
-
-Man kan også kræve erstatning, selv om man ikke har nogen egentlig indtægt. 
-
-For børn, der normalt ingen indtægt har, bliver erstatningen fastsat ved, at ménprocenten bliver ganget med en “normalårsløn”, der er fastsat i loven. Dette resultat bliver herefter ganget med 10. 
-
-For hjemmearbejdende og studerende bliver erstatningen fastsat ud fra et skøn over den økonomiske værdi af deres arbejdskraft på det tidspunkt, hvor de kom til skade.
-
-Erhvervsevnetabserstatningen bliver udbetalt på én gang.
-
-### Dødsfald
-
-<img src="img/funeral.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
-Der gives erstatning for rimelige begravelsesudgifter. 
-
-En efterladt ægtefælle eller samlever har desuden krav på et såkaldt “overgangsbeløb”. 
-
-Dette beløb skal gøre den økonomiske overgang fra gift/samlevende til enlig nemmere. 
-
-Beløbets størrelse er fastsat i loven. Der kan dog ikke både gives erstatning for begravelsesudgifter og betales overgangsbeløb.
-
-### Afdøde havde forsørgerpligt
-
-Forsørgertabserstatning til ægtefælle eller samlever udgør 30 procent af den erstatning, som afdøde ville have fået udbetalt ved fuldstændigt tab af erhvervsevnen. 
-
-Der er dog fastsat et minimum- og et maksimumbeløb.
-
-Efterlevende børn får en erstatning, der svarer til summen af de børnebidrag, som afdøde på skadetidspunktet kunne være pålagt at betale. 
-
-Erstatningen bliver fordoblet, hvis afdøde var eneforsørger.
-
-<br>
-
-## Eksamensspørgsmål indenfor erstatningsretten mv.
-
-### Eksamensopgave og løsning - Om ejendomsmæglerens erstatningsansvar uden for kontrakt
-
-***Ejendomsmæglerens støvler***
-
-
-
-En fredag eftermiddag var Martin taget ud til en fremvisning af et hus beliggende i nabobyen Indby. Huset tilhørte Pernille. Martin havde i dagens anledning taget sine nye og meget dyre Armani® støvler på. Desværre havde han fået købt dem i en lidt for lille størrelse, men havde valgt at tage dem på alligevel selvom Egild ikke havde ment at det var en god idé, da han syntes at de ikke rigtig udstrålede det image som ”Udby Mæglerne ApS” gerne ville stå for.
-
-Da Martin kommer ind i huset vil han tage støvlerne af, men finder ud af at de sidder rigtig godt fast. Han kæmper noget med støvlerne, men til sidst får han dem revet af. Desværre rammer han med sin voldsomme bevægelse det spejl der hænger i gange. Spejlet falder ned og smadrer mod gulvet. 
-
-Ude i køkkenet står Pernille og er ved at lave kaffe. Hun bliver så forskrækket at hun taber den meget varme kaffe ned over sin hun ”Guffe”. ”Guffe”, der var en præmiehund med en værdi på 10.000 kr, måtte efterfølgende aflives.
-
-***Eksamensspørgsmålet:***
-
-1.	Er nogen, og i givet fald hvem, erstatningspligtig over for Pernille for tabet af ”Guffe” og det smadrede spejl? (25 %)
-
-***Vejledende løsning***
-
-Lovgrundlag: Lov om erstatningsansvar
-
-Område: Erstatningsansvar, Principalansvar
-
-Læringsmål: Du skal som studerende anvende og kunne vurdere de grundlæggende erstatningsbetingelser ved erstatning udenfor kontrakt, for derigennem at kunne vurdere reglerne for rådgivnings- og professionsansvar indenfor den finansielle sektor (God skik bekendtgørelsen og lov om formidling af fast ejendom § 24) samt reglerne om principalansvar, jf. DL (Danske Lov fra 1683) 3-19-2.
-
-
-
-
-
-<img src="img/Danske lov.jpg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
-
-
-***Spørgsmålet kan løses med forskellige systematikker***. 
-
-Besvarelsen bør dog gøre opmærksom på at erstatning i alle tilfælde kræver at de 4 grundbetingelser er opfyldt.
-
-Der kan først ses på om Pernille har lidt et økonomisk tab. Dette må antages for både spejlet og ”Guffe”. 
-
-Der er ligeledes kausalitet i forbindelse med begge skader. 
-
-Det kan dog formodentlig ikke antages at der er adækvans i relation til skaden på ”Guffe”. 
-
-Det er næppe påregneligt for Lars at hans kamp med at tage støvlerne af vil lede til en begivenhedsrække, der slutter med at Pernille hælder varm kaffe ned over sin hund. 
-
-Pernille kan derfor nok ikke få erstatning for tabet af ”Guffe”.
-
----
-
-### Eksamensopgave og løsning - Om erstatning og kaution
-
-***Murermester Madsen***
-
-Madsen, der er murer, står sammen med sin ansat, murerlærling Anton oppe på et stillads. De er ved at lave reparationer på Knudsens hus’ ydermurer.
+* Erklæringens fremkomst kan bevises, og dets indhold om tilbagekaldelse er klart
+  
+* En specialfuldmagt ophører/tilbagekaldes på samme måde som den blev stiftet
+  
+* Tilbagekaldelsen får virkning når den er kommet   frem – behøver ikke komme til tredjemands kundskab.
  
-Madsen benytter opgaven til at undervise Anton i, hvordan arbejdet bør udføres fagligt korrekt, og han forklarer også i detaljer, om sikkerhed på en farlig arbejdsplads, som en byggeplads jo er. Anton er en lærenem elev, og han udfører snart arbejdet til punkt og prikke. 
+---
 
-Men på et tidspunkt smider Anton en murske hen mod spanden med mørtel, men han rammer uheldigvis ved siden af. Skeen falder ud over stilladsets kant og rammer Knudsen, der netop passerer forbi med sin trillebør nedenfor. Knudsen rammes på næsen, der brækker, og pga. slaget og chokket falder Knudsen bagover, og i faldet forvrider han sin skulder. Hans dyre solbriller er også ødelagt. 
+#### Offentlig bekendtgjort fuldmagt, jf. aftalelovens § 14:
 
-Knudsens hustru står samtidig inde i køkkenet. Hustruen ser ikke murskeen ramme Knudsen, men hun ser ud af vinduet lige da han falder bagover. Hun tror, at han er faldet om af et hjerteslag og styrter ud til telefonen i entreen for at ringe 112. I sit hastværk glider hun i et tæppe på entrégulvet og falder. Desværre er hun faldet så uheldigt, at hun slår sin ryg så slemt, at hun senere viser sig at miste sin førlighed delvist.
 
-I det Madsen går hen for at hjælpe hustruen, bliver han bidt af Knudsens hund, der tror, han vil gøre hustruen noget. Bidet er ikke alvorligt, men det ødelægger dog Madsens jakke. 
+Bestemmelsen har følgende ordlyd:
 
-Madsen ønsker at udvide sin forretning men det kræver en del kapital. Banken vil gerne låne ham pengene men de kræver sikkerhed i form af to kautionister. Madsen spurgte sin far der efterhånden var en ældre herre og som havde en betydelig formue. Faren afviste, da han havde en forestilling om at sønnen ingen økonomisk sans havde. Madsen skrev derfor under i sin fars navn.
+*”En fuldmagt, som af fuldmagtsgiveren er offentlig bekendtgjort i bladene eller på anden måde, tilbagekaldes ved en erklæring, som bekendtgøres på samme måde.* 
 
-Derefter spurgte han sin ansatte murelæring, der netop havde arvet, om han ville kautionere. Madsen lod ham – mellem linjerne – forstå, at hvis han afviste, ville det få ”uheldige konsekvenser” for Antons fremtidige ansættelse. Anton følte sig presset og skrev under.   
+*Stk. 2. Er dette ikke muligt, skal tilbagekaldelsen tilkendegives på anden ligeså virksom måde. Fuldmagtsgiveren kan forlange, at den i § 17 omtalte myndighed skal afgøre, hvad han i så henseende har at foretage.*
 
-***Eksamensspørgsmålene***
+*Stk. 3. Fuldmagten anses ikke som offentlig bekendtgjort, fordi den er tinglæst”.*
 
-1.	Kan Hr. Knudsen kræve erstatning og i givet fald for hvad og af 
-    hvem? 
+* Offentlig bekendtgjort fuldmagt - fx kuratorfuldmagt, der får fuldmagt til at behandle et konkursbo og varetage boets interesser eller udstedelse af prokura om at kunne handle på vegne af fx et selskab eller en forening.
+
+
+
+#### Skriftlig fuldmagt/forevisningsfuldmagt, jf. aftalelovens § 16:
+
+*”En skriftlig fuldmagt, som er overgivet fuldmægtigen, og som må anses bestemt til at være i hans besiddelse og at forevises for tredjemand, tilbagekaldes derved, at den på fuldmagtsgiverens forlangende tilbagegives ham eller tilintetgøres*.
+
+*Stk. 2. Fuldmægtigen er pligtig til på forlangende at give fuldmagten tilbage til fuldmagtsgiveren”*.
+
+
+* En skriftlig fuldmagt, der er beregnet til forevisning for andre – fx ”hent min pakke- fuldmagt”, generalfuldmagt.
+
+* Ophører når fuldmagten tilbagegives til fuldmagtsgiver eller fuldmagten tilintetgøres.
+ 
+
+ 
+## Fuldmagt uden særlig tilværelse, jf. aftalelovens § 18
+
+* Denne type fuldmagt er kendetegnet ved, at den ikke er kendt eller synlig for omverdenen.
+
+* Kaldes også for en aftalelovens § 18-fuldmagt:
+
+*”En fuldmagt, der alene hviler på fuldmagtsgiverens erklæring til fuldmægtigen, er tilbagekaldt, når erklæringen om, at fuldmagten ikke længere skal gælde, er kommet frem til fuldmægtigen”*.
+
+* Fuldmagten/instruksen gives ofte mundtligt, men kan også gives skriftligt.
+
+* Der sondres ikke mellem bemyndigelse og legitimation, da fuldmagtens omfang og bemyndigelsen er sammenfaldende.
+ 
+
+* Aftaler i strid med fuldmagten: Fuldmagtsgiver er ikke bundet af aftaler som fuldmægtigen indgår i strid med en § 18-fuldmagt, uanset om tredjemand var i god tro, jf. aftalelovens § 11, stk. 2.
+
+* Tilbagekaldelse af fuldmagten kan ske på samme måde som den er givet.
+
+* En tilbagekaldelse får virkning når den er kommet frem – behøver ikke at komme til kundskab.
+
+---
+
+**Video: Aftalelovens § 19 tilbagekaldelse af fuldmagt**
+
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/JKyH0smEY9I" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+---
+
+### Aftalelovens § 25 – erstatning til tredjemand:
+
+
+Bestemmelsen har følgende ordlyd:
+
+*“Den, der optræder som fuldmægtig for en anden, indestår for, at han har fornøden fuldmagt.  Oplyser han ikke, at han havde sådan eller at hans retshandel er godkendt af den opgivne fuldmagtsgiver eller af andre grunde er bindende for denne, skal han erstatte den skade, tredjemand lider ved, at retshandelen ikke kan gøres gældende mod den opgivne fuldmagtsgiver*.
+
+*Stk. 2. Denne bestemmelse kommer ikke til anvendelse, når tredjemand vidste eller burde vide, at den, som foretog retshandelen, ikke havde fornøden fuldmagt. Ej heller kommer den til anvendelse, når den, som foretog retshandelen, handlede i henhold til en fuldmagt, der var ugyldig eller uvirksom af grunde, som han var uvidende om, og som tredjemand ikke kunne påregne, at han vidste besked om"*
+
+* Den der udadtil optræder som fuldmægtig for en anden, indestår for, at han rent faktisk har fornøden fuldmagt til at handle og indgå aftaler på vegne af fuldmagtsgiver.
+
+* Fuldmægtigen er ved aftalens indgåelse garant for at:
+
+* Fuldmagten eksisterer,
+
+* Fuldmagten ikke er tilbagekaldt og
+
+* Fuldmagten ikke er overskredet
+
+Aftalelovens § 25 – erstatning til tredjemand (fortsat):
+
+**HR:** Hvis fuldmægtigen ikke havde den fornødne fuldmagt til at handle, og aftalen derfor falder til jorden, kan tredjemand forlange erstatning hos fuldmægtigen, hvis han lider et økonomisk tab.
+
+* **U1:** Erstatning kan ikke komme på tale, hvis tredjemand vidste eller burde vide, at fuldmægtigen ikke havde den fornødne fuldmagt.
+
+* **U2:** Erstatning kan ikke komme på tale, hvis fuldmægtigen indgår aftaler, og ikke ved at fuldmagten i mellemtiden er blevet tilbagekaldt.
+
+Fuldmægtigen indestår for, at han har den fornødne fuldmagt til at foretage den retshandel, han foretager (f.eks. afgivelse af tilbud eller accept af et banklån). 
+
+Fuldmægtigen indestår efter alm regler ikke for, at fuldmagtsgiveren opfylder kontrakten, medmindre medkontrahenten har føje til at tro, at fuldmægtigen garanterer herfor. 
+
+Fuldmægtigen kan blive ansvarlig over for medkontrahenten, hvis han undlader at give medkontrahenten meddelelser, fortier fuldmagtsgiverens insolvens for ham eller i øvrigt anvender svig.
+
+Fuldmægtigen er altså i almindelighed ubetinget erstatningsansvarlig (objektivt ansvarlig), hvis det viser sig, at fuldmagten ikke var i orden. 
+
+Dette stemmer med de almindelige regler om ansvaret i vanhjemmelslignende tilfælde af misligholdelse. 
+
+Hvis fuldmægtigen er umyndig, kan et sådant ansvar ikke pålægges ham, men han kan ifalde erstatningspligt efter den almindelige culparegel, og medkontrahenten kan i så fald kræve erstatning for den **negative kontraktsinteresse** (det tab, han lider ved at stole på kontrakten), hvis fuldmægtigen har skuffet ham med forsæt eller uagtsomhed.
+
+Aftalelovens § 25 indebærer, at tredjemand ikke selv behøver at undersøge fuldmagtens eksistens eller at forlange udtrykkelig garanti for, at fornøden fuldmagt foreligger, idet han er berettiget til at gå ud fra, at den, der optræder som fuldmægtig, også har den fornødne fuldmagt.
+
+---
+
+**Video: Erstatning efter aftalelovens § 25**
+
+
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/pg3C6fbVoTs" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+---
+
+
+<img src="img/mj-s-71657-unsplash.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<br>
+
+---
+
+Fuldmægtigen skal erstatte tredjemand den positive opfyldelsesinteresse, dvs. tredjemand skal stilles som om aftalen var blevet indgået og ikke alene den negative kontraktsinteresse, dvs. stilles som om aftalen ikke var blevet indgået. 
+
+Tredjemand kan altså kræve erstatning for det fulde tab, han lider ved, at løftet ikke kan gøres gældende imod den opgivne fuldmagtsgiver, inkl. fortjeneste. 
+
+Tredjemand er ikke henvist til at nøjes med en erstatning for det tab, han har lidt ved at handle i tillid til fuldmagtens eksistens, han har krav på at blive stillet økonomisk, som om fuldmagten eksisterede. 
+
+Hvis den opgivne fuldmagtgiver er kommet under konkurs, følger det af det anførte, at tredjemand kun kan kræve det beløb, som han, hvis fuldmagten havde været i orden, ville have erholdt af konkursboet.
+
+---
+
+**Video om fuldmagtens grænser**
+
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/08Bm3t_CR9s" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
+
+### Eksamensopgave og løsning om fuldmagt/mellemmandsaftaler og ansættelsesret
+
+
+***Eksamensopgave - Fix og Hjem***  
+
+
+
+Kim er ansat i firmaet Fix og Hjem i Odense. Han blev ansat som salgsassistent den 1. januar 2013. 
+Han er meget dygtig og meget omhyggelig med sit arbejde og bliver efterhånden meget vellidt af kunderne - både de lokale håndværkere og de private kunder. 
+
+Den 1. januar 2014 bliver Kim forfremmet til butikschef for afdelingen i Odense.
+
+En af hans gamle klassekammerater Andreas er flyttet til Odense, hvor han har købt et helt nyt hus og skal til at etablere haven. 
+
+Andreas kommer til Fix og Hjem og møder Kim. De får snakket om gamle dage, og Andreas afgiver en ordre på fliser til en stor terrasse, materialer til et flot plankeværk og et sæt havemøbler i træ til 8 personer.
+
+Andreas mener, at Kim må give en god rabat på sådan en stor ordre. Andreas får forhandlet sig frem til 25 % i rabat. 
+
+Kim er egentlig ikke så glad bagefter, for han har en aftale med hovedkontoret om, at der max. må gives 10 % i rabat.
+
+Andreas har lige startet sit eget firma, Swim der sælger havebassiner. Andreas præsenterer Kim for produkterne, og han får solgt 5 stk. havebassiner til Fix og Hjem til en samlet pris på 15.000 kr. 
+
+Kim må ellers slet ikke købe varer ind, da det skal foregå centralt.
+
+Karina blev ansat den 1. april 2012 som salgsassistent. 
+
+Hun er nu i maj 2014 begyndt at sygemelde sig om mandagen og passer ikke sit job, som hun plejer. Kim kalder Karina ind til en samtale. 
+
+Han forklarer hende, at det ikke kan fortsætte, og hun lover at tage sig sammen, men hun har haft nogle problemer med sin mave. 
+
+Hun mener, det skyldes den travlhed, der er i firmaet. 
+
+Kim lægger mærke til, at Karina forbedrer sig i de næste par måneder. 
+
+Men i august 2014 er den gal igen. Karina har endnu mere fravær og er blevet endnu dårligere til sit arbejde. Kim vil gerne af med hende nu.
+
+Sanne blev ansat som ansvarlig for afdelingens lager den 1. marts 2011. 
+
+Hun er rigtig god til sit job og har ikke fravær og går ikke altid til tiden. Hendes beføjelser drejer sig om at styre lageret – altså hvor varerne skal være og sikre, at der gives besked til indkøbsafdelingen, hvis en vare er ved at være udsolgt.
+ 
+Sanne bor sammen med Torben. Hendes svigerforældre har inviteret hende og Torben 1 uge til Paris i den sidste uge af juni. Det er hun meget glad for, da det altid har været en af hendes drømme at komme til Paris. 
+
+Sanne spørger Kim om at få ferie i den uge. Kim bliver helt ude af den, da det er den uge, de kører et stort tema om haven, og de har en masse gode tilbud. Af erfaring ved Kim, at der er meget travlt.
+
+**Eksamensspørgsmålene:**
+
+1.	Er Fix og Hjem bundet af de aftaler som Kim 
+    har indgået med Andreas?
+2.	Hvilke muligheder har Fix og Hjem for at 
+    opsige Karina?
+3.	Har Sanne krav på at holde ferie så hun kan 
+    komme til Paris? 
     
-2.	Kan Hr. Knudsens hustru kræve erstatning og i givet fald for 
-    hvad og af hvem?
-    
-3.	Kan Madsen kræve erstatning og i givet fald for hvad og af hvem?
 
-4.	Hvis banken ønsker penge af kautionisterne, hvordan er de to 
-    kautionister så stillet? 
-    
-***Vejledende løsning:***    
+**Vejledende løsning fyld gerne selv på**:
 
-1.	Kan Hr. Knudsen kræve erstatning og i givet fald for hvad og af 
-    hvem? Ja, betingelserne opfyldt. I henhold til DL 3-19-2 skal 
-    arbejdsgiver betale, idet skaden skete som et led i arbejdet. 
-    
-2.	Kan Hr. Knudsens hustru kræve erstatning og i givet fald for 
-    hvad og af hvem? Nej, ikke adækvat. 
-    
-3.	Kan Madsen kræve erstatning og i givet fald for hvad og af hvem?     Ja, svie og smerte, evt. personskade og tingsskade hos Knudsen, 
-    jf. hundelovens § 8.
-    
-4.	Hvis banken ønsker penge af kautionisterne, hvordan er de to 
-    kautionister så stillet? De går begge fri. Faren pga. 
-    dokumentfalsk fra Madsens side og Madsen pga.kompulsiv, jf. 
-    aftaleloven (stærk ugyldighedsindsigelse). 
+1.	Er Fix og Hjem bundet af de aftaler som Kim har indgået med Andreas? Rabatten er Fix & Hjem bundet af, da inden for stillingsfuldmagten, men udenfor bemyndigelsen, men Andreas i god tro. De 5 havebassiner er måske også indenfor stillingsfuldmagten, men udenfor bemyndigelsen, og spørgsmålet er om Andreas er i god eller ond tro. Næppe OK.
+<br>
 
+2.	Hvilke muligheder har Fix og Hjem for at opsige Karina? Sygdom er jo lovligt forfald, men er de utilfredse med hende, bør hun have skriftlig advarsel, og hvis forholdene ikke forbedres, kan hun afskediges senere. Hvis hun afskediges nu, er hun formentligt berettiget til funktionærlovens § 2b-godtgørelse + 3 mdrs. opsigelsesvarsel. 
+<br>
 
-### Eksamensopgave og løsning - Erstatning uden for kontrakt og forbrugeraftaler
-
-***Randers Boldklub***
-
-Hans bor i Randers og har 2 teenagedrenge. De spiller fodbold, og de kommer sammen med deres far til samtlige af Randers fodboldkampe. 
-
-Randers har kæmpet sig op i rækkerne og spiller rigtig godt, og de er godt med i slutspillet i SAS-ligaen. Hans vil gerne støtte dem, så han køber fantrøjer og kasketter til sig selv og drengene over Internettet. De skal have trøjerne og kasketterne på til næste kamp.
-
-Hans skriver på bestillingen, at han skal bruge det inden 14 dage men varerne når ikke at komme inden kampen.
-
-Hans og drengene drager af sted til kampen mod Nordsjælland. Der er en god stemning på stadion. Randers spiller godt, men kommer bagud, da der bliver afsagt en tvivlsom kendelse. 
-
-I bar frustration over den tvivlsomme kendelse og ikke at have fået trøjerne og kasketterne løber han ind på banen og slår ud efter dommeren, Albert. Albert når at undvige, men falder uheldigt lige ind i målstolpen, og han slår sit hoved ret kraftigt. Han får en dyb flænge i panden og mister bevidstheden i 10 minutter. Albert bliver kørt på hospitalet, og han får konstateret en hjernerystelse, der medfører, at han sygemeldes i 1 måned. 
-
-Albert skulle have været på skiferie dagen efter kampen, men på grund af hjernerystelsen bliver han nødt til at aflyse sin ferie. Han har ikke tegnet nogen rejseforsikring, så han må betale for rejsen selv om han ikke kommer af sted.
-
-Alberts søster, Emilie, der overværede det hele, gik i chok. Hun besvimede, faldt og pådrog sig en brækket arm.
-
-Hans og drengene skynder sig hjem. De løber ned af vejen. Henne ved hjørne står fru Olsen med sin hund Rufus. Rufus er en ret stor hund. Da Hans og drengene kommer løbende, bliver Rufus bange og går til angreb på Hans. Rufus bider Hans i benet og har dermed ødelagt hans bukser, og der er et stort åbent sår, som skal sys på skadestuen. 
-
-En uge efter kampen kommer trøjerne og kasketterne men nu vil Hans ikke længere have dem.
-
-***Eksamensspørgsmålene:***
-
-1.	Kan Albert få erstatning og hvilke krav kan han i givet fald 
-    rejse?
-    
-2.	Er Emilie berettiget til erstatning?
-
-3.	Er Hans berettiget til erstatning fra fru Olsen? 
-
-4.	Er Hans bundet af aftalen om køb af trøjerne og kasketterne?
-
-5.  Kan Hans rejse krav om erstatning mod sælger, hvis han er bundet     af aftalen om køb af trøjerne og kasketterne?
-
-
-***Vejledende løsning:***
-
-1.	Kan Albert få erstatning og hvilke krav kan han i givet fald 
-    rejse? Ja. I henhold til EAL kan han rejse personskade, tabt 
-    arbejdsfortjeneste, svie og smerte samt erstatning for rejsen, 
-    idet krav om kausalitet og adækvans er opfyldt. Adækvans dog på 
-    grænsen.
-    
-2.	Er Emilie berettiget til erstatning? Nej, adækvans ikke opfyldt.
-
-3.	Er Hans berettiget til erstatning fra fru Olsen? Ja.  
-    hundelovens § 8. Næppe nedslag i erstatningen. 
-    
-4.	Er Hans bundet af aftalen om køb af trøjerne og kasketterne? 
-    14 dages fortrydeælsesret.
-    
-5.	Kan Hans rejse krav om erstatning mod sælger, hvis han er bundet     af aftalen om køb af trøjerne og kasketterne? Ingen erstatning 
-    fra sælger af trøjerne som følge af for sen levering, da intet 
-    økonomisk tab lidt af Hans. 
-
-
-
-
-
-
-
-
-
+3.	Har Sanne krav på at holde ferie så hun kan komme til Paris? Det kommer an på, hvornår hun spørger om at få fri. Ferien ligger jo i hovedferien og det skal normalt varsles af medarbejderen med mindst 3 ugers varsel (som jeg husker det) og gør hun det, har hun krav på at komme afsted. I øvrigt dårlig stil at nægte hende at tage af sted pga. travlhed, da det jo egt. ikke er hendes problem. 
+---

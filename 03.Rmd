@@ -1,1120 +1,396 @@
-# Aftaleret
 
 
-***Introduktion til aftaleretten***
-
----
-
-**Video: introduktion til aftaleretten**
+# <font color="red">EU-Domstolen<sup> Premium </font></sup>  
 
 
+<img src="img/eudomstolen2.png" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/QdPllNiV5Ck" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+Domstolen træffer afgørelser i de sager, der indbringes for den. De mest almindelige typer sager er:
 
+*	Fortolkning af love (præjudicielle afgørelser) - de nationale domstole i EU-landene skal sikre, at EU-lovene anvendes korrekt, men domstolene i de forskellige lande kan fortolke reglerne forskellige. Hvis en national domstol er i tvivl om fortolkningen eller gyldigheden af en EU-retsakt, kan den spørge Domstolen til råds. Den samme mekanisme kan anvendes til at afgøre, om national ret eller praksis er forenelig med EU-retten.
 
----
+*	Håndhævelse af loven (overtrædelsesprocedurer) - denne form for sag føres mod et medlemsland, hvis det ikke overholder EU-reglerne. Den kan indledes af Europa-Kommissionen eller et andet EU-land. Hvis landet findes skyldigt, skal det straks bringe bruddet til ophør, hvis ikke det vil risikere, at der anlægges endnu en sag, som kan medføre bødestraf.
 
+*	Ophævelse af EU-retsakt (annullationssøgsmål) – hvis en EU-retsakt menes at være i strid med EU-traktaterne eller grundlæggende rettigheder, kan Domstolen blive bedt om at ophæve den - af et medlemsland, Rådet, Europa-Kommissionen eller (i visse tilfælde) Europa-Parlamentet.
 
+Privatpersoner kan også bede Domstolen om at ophæve en EU-retsakt, som berører dem direkte.
+*	Sikring af, at EU træffer foranstaltninger (passivitetssøgsmål) – Parlamentet, Rådet og Kommissionen skal træffe visse afgørelser i bestemte situationer. Undlader de dette, kan EU's institutioner eller (i visse tilfælde) enkeltpersoner eller virksomheder klage til Domstolen.
 
-***Hvilke problemstillinger og aftaleretlige lovregler, du som studerende særlig skal være opmærksom på vedrørende eksamensspørgsmål indenfor aftaleretten:***<img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
-
-• **Opfordring contra tilbud**, aftalelovens § 9, herunder prisangivelser på nettet, netbutikker og i fysiske butikker
-  
-• **Aftaleindgåelse**, aftalelovens § 2-7 og § 40
-
-• **Ugyldighed** (svig, aftalelovens § 30 fejl, aftalelovens § 32, stk. 1, udnyttelse, aftalelovens § 31)
-
-• **Falsk/forfalskning**
-
-• **Urimelighed** - §§ 38c, jf. 36
-
-• **Fuldmagtstyper** (især stillingsfuldmagt, aftalelovens § 10, stk. 2), fuldmagtens omfang og konsekvenser, aftalelovens § 10, 11, 15 og 25, modificeret ved erstatningsansvarslovens § 23
+*	Sanktionering af EU-institutionerne (erstatningssøgsmål) – enhver person eller virksomhed, hvis interesser er blevet skadet som følge af EU's eller dets personales handlinger eller mangel på handlinger, kan bringe sagen for Domstolen.  
 
 
----
+## <font color="red">Sammensætning<sup> Premium </font></sup>
+ <br>
+ 
+<img src="img/eudomstolen3.png" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+EU-Domstolen er inddelt i 2 organer:
 
+*	EU-Domstolen – som tager sig af anmodninger om præjudicielle afgørelser fra nationale domstole, visse annullationssøgsmål og appelsager. 
+
+*	Retten – som træffer afgørelse i annullationssøgsmål indbragt af enkeltpersoner, virksomheder og i visse tilfælde medlemslande. Det vil i praksis sige, at Retten primært beskæftiger sig med konkurrenceret, statsstøtte, handel, landbrug og varemærker.  
+
+Hver dommer og generaladvokat udnævnes i fællesskab af medlemslandene for en periode på 6 år, som kan fornyes. I hver domstol vælger dommerne en formand for en periode på 3 år, som kan forlænges.  
+
+## <font color="red">Hvordan fungerer EU-Domstolen?<sup> Premium </font></sup>
+I Domstolen tildeles hver sag én dommer (refererende dommer) og én generaladvokat. Sagerne behandles i to faser:  
+
+*	Den skriftlige fase  
+  +	Parterne afgiver skriftlige erklæringer til Domstolen – og nationale myndigheder, EU-institutionerne og i visse tilfælde enkeltpersoner kan også fremsætte bemærkninger.  
+  +	Alt dette sammenfattes af den refererende dommer og drøftes på Domstolens almindelige møde, som beslutter:  
+    +	Hvor mange dommere, der skal behandle sagen: 3, 5 eller 15 dommere (hele Domstolen) afhængig af sagens betydning og kompleksitet. De fleste sager behandles af 5 dommere, og det sker meget sjældent, at en sag høres af hele Domstolen.  
+    +	Om det er nødvendigt med en høring (den mundtlige fase), og om der er behov for en officiel udtalelse fra generaladvokaten.  
+*	Den mundtlige fase – en offentlig høring.  
+  +	Parternes advokater forelægger deres sag for dommerne og generaladvokaten, som kan stille spørgsmål til dem.  
+  +	Hvis Domstolen har besluttet, at der er behov for en udtalelse fra generaladvokaten, afgives denne nogle uger efter høringen.  
+  +	Dommerne voterer så og kommer med deres afgørelse.  
+*	Rettens procedure er lignende, bortset fra at de fleste sager høres af 3 dommere, og at der ikke er nogen generaladvokat.  
+
+## <font color="red">EU-Domstolen og dig<sup> Premium </font></sup>
 <br>
 
-<script async src="https://widget.spreaker.com/widgets.js"></script>
+Hvis du – som privatperson eller virksomhed – har lidt skade som følge af handlinger eller mangel på handlinger fra EU's institutioners eller ansattes side, kan du indbringe en sag for Domstolen på to måder:  
+
+*	Indirekte gennem nationale domstole (som kan beslutte at henvise sagen til EU-Domstolen)  
+*	Direkte for Retten – hvis en afgørelse truffet af en EU-institution har berørt dig direkte og individuelt.  
+Hvis du mener, at myndighederne i et medlemsland har overtrådt EU-reglerne, skal du følge den officielle klageprocedure. (link) 
+
+**Video: EU-domstolen**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/M3LPCK1eWBs" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
+Med ikrafttrædelsen af Lissabontraktaten den 1. december 2009 har Den Europæiske Union fået status som juridisk person og har overtaget de beføjelser, som tidligere var tildelt Det Europæiske Fællesskab. Fællesskabsretten er således blevet til unionsretten, som også omfatter alle de bestemmelser, der tidligere er blevet vedtaget i medfør af traktaten om Den Europæiske Union som affattet forud for Lissabontraktaten. I den præsentation, som følger, vil udtrykket fællesskabsretten ikke desto mindre blive anvendt, når der henvises til Domstolens praksis før ikrafttrædelsen af Lissabontraktaten.
 
+Ved siden af Den Europæiske Union fortsætter Det Europæiske Atomenergifællesskab (Euratom) med at eksistere. Eftersom Domstolens beføjelser vedrørende Euratom i princippet er de samme som dem, der udøves inden for rammerne af Den Europæiske Union, og for at gøre præsentationen mere læsevenlig, vil enhver henvisning til unionsretten ligeledes omfatte Euratomretten.
+
+ 
+## <font color="red">Sammensætning<sup> Premium </font></sup>
+<br>
+	 
+<img src="img/eudomstolen4.png" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+Domstolen består af 28 dommere og 11 generaladvokater. Dommerne og generaladvokaterne udnævnes for en periode af 6 år af medlemsstaternes regeringer efter fælles overenskomst efter høring af et udvalg, som har til opgave at udtale sig om, hvorvidt de indstillede kandidater er egnede til at varetage de omhandlede opgaver. De kan genudnævnes. Til dommere og generaladvokater ved Domstolen 
+udnævnes personer, hvis uafhængighed er uomtvistelig. De skal i deres hjemland opfylde betingelserne for at indtage de højeste dommerembeder eller have faglige kvalifikationer, som er almindeligt anerkendt.
+
+Domstolens dommere vælger af deres midte Domstolens præsident og vicepræsident for et tidsrum af tre år. Begge kan genvælges. Præsidenten forestår Domstolens arbejde og administration og leder retsmøderne og Domstolens voteringer i sager, der er henvist til behandling i et af de største dommerkollegier.
+
+Vicepræsidenten bistår præsidenten i udførelsen af dennes opgaver og træder i præsidentens sted, hvis denne har forfald.
+
+Generaladvokaterne bistår Domstolen og er den behjælpelig ved udførelsen af dens opgaver. De har til opgave, fuldstændig upartisk og uafhængigt, offentligt at fremsætte forslag til afgørelse af de sager, som de forelægges.
+Justitssekretæren er institutionens generalsekretær og leder dens tjenestegrene under tilsyn af Domstolens præsident.
+
+Domstolen kan sættes af samtlige medlemmer (plenum), i Den Store Afdeling (15 dommere) eller i afdelinger med 3 eller 5 dommere.
+
+Domstolen sættes af samtlige medlemmer i særlige tilfælde, der er opregnet i statutten for Domstolen (bl.a. når den skal afskedige Den Europæiske Ombudsmand eller et medlem af Europa-Kommissionen, som har tilsidesat sine forpligtelser), og når Domstolen finder, at en sag er af særlig vigtighed.
+Den sættes i Den Store Afdeling, når en medlemsstat eller en institution, som er part i sagen, anmoder herom samt i særligt omfattende eller betydelige sager.
+
+De øvrige sager behandles i afdelinger med 5 eller 3 dommere. Formændene for afdelinger med 5 dommere vælges for en periode af 3 år, og formændene for afdelinger med 3 dommere for en periode af 1 år.
+
+Beføjelser
+For at kunne varetage sit hverv er Domstolen tillagt vide retlige beføjelser, som den udøver ved de præjudicielle forelæggelser og i de forskellige typer af søgsmål.
+
+## <font color="red">De forskellige sagstyper<sup> Premium </font></sup>
 <br>
 
-<img src="img/deal1.jpg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
-
-
-Aftalelovens principper har betydning på hele aftaleområdet,^[Følgene bygger tildels på *Torsten Iversen og Lars Hedegaard Kristensens* karnovkommentar til aftaleloven] fx i:
-
-
-* Forsikringsaftaleloven, kreditaftaleloven, forbrugeraftaleloven, AB 18, købeloven, E-handelsloven m.fl.
-
-*	Aftaleindgåelse reguleres af aftalelovens §§ 2-9.
-
-  + Deklaratorisk, dvs. parterne kan aftale anden fremgangsmåde ved aftaleindgåelse, end den der er beskrevet i aftaleloven.
-
-
-
-
-
-```{r aftalelov2,echo=FALSE, result=TRUE,fig.cap=("Oversigt over aftalelove")}
-
-
-nodes <- data.frame(id = 1:7, 
-                    shape = c("box"), 
-                    label = c(" Aftalelov "," Forsikringsaftalelov "," Kreditaftalelov "," Forbrugeraftalelov "," AB92 "," Købelov "," E-handelslov "),
-                    font.size = c(50,25,25,25,25,25,25))
-edges <- data.frame(from = c(1,1,1,1,1,1), to = c(2,3,4,5,6,7),arrows = c("to"),length = rep(20,6))
-
-visNetwork(nodes, edges,  width = "80%") %>% 
-  visNodes(color = list(background = "white", 
-                        border = "white",
-                        highlight = "yellow"),
-           shadow = list(enabled = TRUE, size = 30))  %>%
-  visHierarchicalLayout(direction = "LR",levelSeparation = 400) %>%
-visEdges(color = list(color = "lightgrey", highlight = "yellow") )
-  # visLayout(randomSeed = 24) # to have always the same network
-
-```
-
-
-
-## Aftaleindgåelse
-
-**HR:** Aftalefrihed – vi kan frit aftale hvad vi vil
-
-*	**U1:** Begrænsninger i præceptive lovregler:  
-
-fx:
-      +	Funktionærlovens regler om opsigelsesvarsler
-      +	Forbrugeraftalelovens regler om fortrydelsesret
-      
-*	**U2:** Urimelige aftaler, aftalelovens §§ 38c, jf. 36
-
-*	**U3:** "En aftale bliver også ugyldig, hvis den strider mod "lov og ærbarhed", jf. allerede Christian 5.s Danske Lov fra 1683. 
-
-Fx er et løfte om at ville betale en anden persons fartbøde ugyldig. 
-
-Men en aftale bliver ikke ugyldig, blot fordi der er overtrådt offentligretlige forskrifter. 
-
-Fx er en aftale om køb af drikkevarer uden for den tilladte åbningstid bindende trods lovovertrædelsen.
-
-I nyere tid har ugyldighed med held været påberåbt af mange, der tegnede anparter i investeringsprojekter med vindmøller, containere, hoteller mv., idet anpartstegnerne var blevet vildledt om projektets bæredygtighed.^[Jf. *Erik Werlauff*, *Karsten Revsbech*: ugyldighed i Den Store Danske, Gyldendal] 
-
-
-  
-
-<a class="spreaker-player" href="https://www.spreaker.com/show/jura" data-resource="show_id=3421279" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https://d1bm3dmew779uf.cloudfront.net/cover/82d497d128ab0adc306278c68db0041d.jpg"></a>
-
-
-
-
-### Hvad er en aftale?
-
-
-Ordet **”aftale”**: En aftale - jf. aftalelovens titel - består af viljeserklæringer, som to eller flere personer afgiver indbyrdes, og hvoraf mindst én erklæring er et løfte, som har karakter tilbud. 
-
-Aftalebegrebet bruges oftest om et tilbud, som er accepteret af modparten, f.eks. en pagt, traktat, kontrakt, charter, overenskomst, vedtægt, vedtagelse, konvention og studehandel. 
-
-Aftaler er bindende, uanset om de er mundtlige eller skriftlige, jf. aftalelovens § 1. 
-
-Mundtlige aftaler er således lige så bindende som skriftlige, jf. Danske Lov, DL 5–1–2 og forudsætningsvis aftalelovens § 3, stk. 2, som fastslår, at tilbud, der fremsættes mundtligt skal accepteres straks. 
-
-De mundtlige kan bare være sværere at bevise, hvis parterne bliver uenige om aftalens indhold. 
-
-Kontrakten er skriftlig og kan håndhæves i retssystemet. 
-
-Bevisbyrde - Den part der hævder en mundtlig aftale er indgået, har bevisbyrden (som er hovedreglen i dansk ret; en ligefrem bevisbyrde).
-
-
-**Mundtlige aftaler ctr. skriftlige aftaler:**
-
-
-*	Aftaler er bindende, uanset om de er mundtlige eller skriftlige. De mundtlige kan bare være sværere at bevise, hvis parterne bliver uenige om aftalens indhold. Kontrakten er skriftlig
-  
-  
-*	**Bevisbyrde** - Den part der hævder en mundtlig aftale er indgået, har bevisbyrden herfor
-
-
-Ensidigt løfte ctr. gensidigt løfte se figurer.  
-Udtrykkeligt løfte ctr. stiltiende løfte.
+###	 <font color="red">Præjudicielle forelæggelser<sup> Premium </font></sup>
 <br>
 
-**Hvad er forskellen på en aftale og en kontrakt?:**  
+Domstolen samarbejder med samtlige retsinstanser i medlemsstaterne, som er de ordinære retter, på unionsrettens område. For at sikre en effektiv og ensartet anvendelse af unionsretten og for at undgå forskelle i fortolkningen heraf kan - og i visse tilfælde skal - de nationale retter forelægge Domstolen præjudicielle spørgsmål vedrørende fortolkningen af unionsretten, f.eks. med henblik på, at den nationale ret kan efterprøve de nationale bestemmelsers overensstemmelse med unionsretten. 
 
+Den præjudicielle forelæggelse kan også vedrøre spørgsmål om en unionsretsakts lovlighed.
+Domstolen besvarer ikke sådanne spørgsmål ved blot at afgive en udtalelse, men i en dom eller en begrundet kendelse. Den forelæggende ret er bundet af Domstolens fortolkning. Domstolens dom binder på samme måde de øvrige nationale domstole, som måtte skulle træffe afgørelse vedrørende et identisk spørgsmål.
 
-En aftale kan også være mundtlig. 
+Det er ligeledes gennem præjudicielle forelæggelser, at enhver europæisk borger kan få afklaring på spørgsmål om de bestemmelser i unionsretten, der vedrører ham. Selv om et præjudicielt spørgsmål kun kan forelægges af en national domstol, har parterne i den sag, der verserer for den nationale domstol, medlemsstaterne og EU-institutionerne adgang til at deltage i proceduren for Domstolen. En række af unionsrettens hovedprincipper er blevet defineret på baggrund af præjudicielle spørgsmål, der også er blevet forelagt af nationale domstole, som træffer afgørelse i første instans.
 
-
-En kontrakt er skriftlig og kan påberåbes ved domstolene.  
-
-
-
-
-
-```{r gensidigtloefte2, echo=FALSE, result=TRUE,fig.cap=("Gensidigt løfte")}
-
-
-nodes <- data.frame(id = 1:2, group = c("B", "A"),label = c(" Sælger "," Køber "))
-edges <- data.frame(from = c(1), 
-                    to = c(2),
-                    arrows = c("to","from"),
-                    length = c(800,500),
-                    label=c("Varer/Ydelser","Penge/modydelse"),
-                    smooth = TRUE
-                    )
-
- visNetwork(nodes, edges, width = "80%") %>%
- visGroups(groupname = "A", shape = "icon", 
-           icon = list(code = "f007", size = 150)) %>%
- visGroups(groupname = "B", shape = "icon", 
-           icon = list(code = "f007", size = 150, color = "red",highlight = "yellow")) %>%
- addFontAwesome() %>%
- 
- visEdges(shadow = TRUE,
-           arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
-           color = list(color = "lightblue", highlight = "red"))
-```
-
-
-
-```{r faicon2, echo=FALSE, result=TRUE,fig.cap=("Ensidigt løfte")}
-
-nodes <- data.frame(id = 1:2, group = c("B", "A"),label = c(" Testator "," Arving "))
-edges <- data.frame(from = c(1), 
-                    to = c(2),
-                    arrows = c("to"),
-                    length = c(300),
-                    label=c(" ARV "),
-                    smooth = TRUE
-                    )
- visNetwork(nodes, edges,  width = "80%") %>%
- visGroups(groupname = "A", shape = "icon", 
-           icon = list(code = "f007", size = 150, color = "red")) %>%
- visGroups(groupname = "B", shape = "icon", 
-           icon = list(code = "f007", size = 150, color = "black")) %>%
- addFontAwesome() %>%
- 
- visEdges(shadow = TRUE,
-           arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
-           color = list(color = "lightblue", highlight = "red"))
-```
-
-
-
-
-***Eksemplar på juridiske aftaler mellem parter*** 
-
-
-**Ejendomsmægleren tager initiativ til en formidlingsaftale om salg af et hus:**  
-
-
-*	Tilbudsgiver (ejendomsmægleren): Den der afsender/giver et tilbud til en anden.
-  
-*	Tilbudsmodtager (boligsælgeren): Den som modtager et tilbud.   
-
-**En kunde tager initiativ til en forsikringsaftale:**  
-
-
-<img src="img/deal2.jpeg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+###	 <font color="red">Traktatbrudssøgsmål<sup> Premium </font></sup>
 <br>
 
-*	**Tilbudsgiver** (kunden): En interesseret kunde sender en begæring til et forsikringsselskab med ønske om en forsikring.
+Domstolen har herigennem adgang til at kontrollere, om medlemsstaterne overholder de forpligtelser, der påhviler dem i medfør af unionsretten. Forud for sagens anlæg ved Domstolen har Kommissionen gennemført en procedure, hvorunder vedkommende medlemsstat har fået lejlighed til at svare på de klagepunkter, som er rejst imod den. Hvis denne procedure ikke fører til, at medlemsstaten bringer traktatbruddet til ophør, kan der anlægges en traktatbrudssag ved Domstolen.
 
-*	**Tilbudsmodtager** (sælger): Sælger modtager en ordre eller ønske om køb fra interesseret køber.
+En sådan sag kan anlægges enten af Kommissionen - hvilket i praksis er det hyppigst forekommende - eller af en anden medlemsstat. Hvis Domstolen fastslår, at der foreligger et traktatbrud, skal medlemsstaten straks bringe det til ophør. Hvis Domstolen, efter at Kommissionen på ny har indbragt sagen for den, fastslår, at den pågældende medlemsstat ikke har efterkommet dens dom, kan Domstolen pålægge medlemsstaten at betale et fast beløb eller en tvangsbøde. Hvis Kommissionen ikke er blevet underrettet om foranstaltninger til gennemførelse af et direktiv, kan Domstolen imidlertid efter anmodning herom fra Kommissionen pålægge medlemsstaten en økonomisk sanktion allerede fra tidspunktet for afsigelsen af den første traktatbrudsdom.
 
-*	Et **løfte:** En ensidig erklæring fra en person om at ville påtage sig en pligt. Løftet skaber en forventning hos modtager. Løftet har følgende retsvirkninger: 
-
-Dels at løftegiveren har pligt enten til at opfylde løftet efter dets indhold (såkaldt naturalopfyldelse) eller 
-
-til at erstatte løftemodtagerens økonomiske interesse i løftets opfyldelse, dvs. erstatning i form af såkaldt **"positiv opfyldelsesinteresse"** (forudsat naturligvis, at der foreligger et ansvarsgrundlag).
-
-*	**Tilbud**: Et tilbud er et løfte, som taber sin virkning, hvis det ikke accepteres i rette tid. 
-
-F.eks. et løfte om at levere en vare eller tjenesteydelse til en bestemt pris og et bestemt sted på et bestemt tidspunkt.
-
-*	**Accept:** En erklæring, som har karakter af antagende svar på tilbud. 
-
-Et **svar**, hvori man siger ja til et tilbud. 
-
-**Accepten** er både et løfte der binder acceptanten, når modtageren har hørt/læst accepten (kundskabsøjeblikket), og det er samtidig et påbud der binder modtageren, når det er kommet frem, dvs. når et svar (tilbud eller accept) er modtaget i modtagerens brevkasse, indbakke eller lignende, men indholdet er endnu ikke læst. Kommet til kundskab: 
-
-Det øjeblik modtageren er blevet bekendt med indholdet af tilbud eller accept, dvs. har hørt eller læst.
-
-*	**Kommet frem:** Når et svar (tilbud eller accept) er modtaget i modtagerens brevkasse, indbakke eller lignende, men indholdet er endnu ikke læst.
-
-*	**Kommet til kundskab:** Det øjeblik modtageren er blevet bekendt med indholdet af tilbud eller accept, dvs. har hørt eller læst.
-
-*	**Opfordring til at gøre tilbud**: er en ikke-bindende henvendelse til andre om at give tilbud.
-
-*	**Påbud** er en erklæring: som går ud på at lægge bånd på adressaten.
-
-*	**Reklamation**: er en indsigelse i anledning af et retsforhold.
-
-*	**Pligtmæssig reklamation:** er en reklamation, som afgives af hensyn til adressaten og forsendes på adressatens risiko, jf. aftalelovens § 40 (og tilsvarende købelovens § 61). Aftaleloven bruger herom udtrykket »give meddelelse«.
-
-
-## Aftalemodellen
-
-
-
-
-*	Tilbudsgiver sender sit tilbud ………….fremsendelsestid
-
-*	Tilbudsmodtager modtager tilbud (kommet frem)
-
-*	Tilbudsmodtager læser tilbud (kommet til 
-  kundskab) ………….betænkningstid
-  
-*	Tilbudsmodtager accepterer tilbud/sender accept ………….tilbagesendelsestid
-  
-*	Accept når frem til tilbudsgiver (kommet frem)
-
-*	Tilbudsgiver læser accepten (kommet til kundskab)
-
-
-Resultat: Der er indgået en juridisk bindende aftale
-
-
-
----
-
-<img src="img/aftalemodellen.png" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-(Kilde; Trojka).
-
-
-
-
-
----
-
-**Video: Om aftalemodellen**
-
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/DvV2yhetl8M" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
-
-
----
-
-**Video: Om aftalers indgåelse**
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/WbgTUpCLz00" width="853" height="480" frameborder="0"allowfullscreen="allowfullscreen"></iframe></div>
-
-
----
-
-
-```{r faicon3, echo=FALSE, result=TRUE,fig.cap=("Aftale sælgers initiativ")}
-nodes <- data.frame(id = 1:2, group = c("B", "A"),label = c("Sælger \n tilbudsgiver ","Køber \n tilbudsmodtager "))
-edges <- data.frame(from = c(1), 
-                    to = c(2),
-                    arrows = c("to","from"),
-                    length = c(800,500),
-                    label=c("1. Sælger sender tilbud til køber","2. Køber sender accept/ordre"),
-                    smooth = TRUE
-                    )
- visNetwork(nodes, edges,width = "80%") %>%
- visGroups(groupname = "A", shape = "icon", 
-           icon = list(code = "f007", size = 150)) %>%
- visGroups(groupname = "B", shape = "icon", 
-           icon = list(code = "f007", size = 150, color = "red",highlight = "yellow")) %>%
- addFontAwesome() %>%
- 
- visEdges(shadow = TRUE,
-           arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
-           color = list(color = "lightblue", highlight = "red"))
-```
-
-
----
-
-
-```{r faicon4, echo=FALSE, result=TRUE,fig.cap=("Aftale købers initiativ")}
-nodes <- data.frame(id = 1:2, group = c("B", "A"),label = c("Sælger \n tilbudsmodtager ","Køber \n tilbudsgiver "))
-edges <- data.frame(from = c(1), 
-                    to = c(2),
-                    arrows = c("to","from"),
-                    length = c(800,500),
-                    label=c("2. Sælger sender accept/ordrebekræftelse","1. Køber sender købstilbud/ordre"),
-                    smooth = TRUE
-                    )
- visNetwork(nodes, edges,width = "80%") %>%
- visGroups(groupname = "A", shape = "icon", 
-           icon = list(code = "f007", size = 150)) %>%
- visGroups(groupname = "B", shape = "icon", 
-           icon = list(code = "f007", size = 150, color = "red",highlight = "yellow")) %>%
- addFontAwesome() %>%
- 
- visEdges(shadow = TRUE,
-           arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
-           color = list(color = "lightblue", highlight = "red"))
-```
-
----
-
-### Tilbud eller opfordring til tilbud
-
-
-**HR:** Tilbud er bindende for afgiveren, jf. aftalelovens § 1:
-
-*	Tilbuddet bliver bindende for tilbudsgiver, når   tilbudsmodtager får kendskab til tilbuddets indhold.
-
-    +	Tilbud er bindende i butikker og butiksvinduer, medmindre køber burde indse, at der var tale om en fejl
-    
-    +	Tilbud er bindende i web-butikker, når sælger selv har råderet over websitet
-    
-
-**Undtagelser**: **Opfordring til tilbud**, jf. aftalelovens § 9:
-
-
-*	Nogle typer tilbud er ikke bindende for sælger, fx:
-  
-    + Slagtilbud og ”så længe lager haves”, tilbud og priser i aviser og kataloger, på plakater, annoncer, TV- og radioreklamer, priser og tilbud på internettet, når sælger ikke selv har råderet over websitet.
-    
----
-
-**Video: Tilbud contra opfordring**
-
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/j36H6TAo7Us" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
-
----
-
-#### Afslag på tilbud
-
-
-*	Hvis tilbudsmodtager forholder sig passiv, bortfalder tilbuddet når acceptfristen er udløbet, og sælger kan frit sælge til anden side.
-
-*	Hvis tilbudsmodtager afslår tilbuddet, er det bortfaldet, selvom acceptfristen ikke er udløbet, jf. aftalelovens § 5. Sælger kan frit sælge til anden side.  
-
-**Situation**: Tilbagekaldelse af afslag. Tilbudsmodtager (potentiel køber) sender et afslag til sælger, men han fortryder sit afslag.
-
-
-– Tilbuddet er stadig bindende for sælger, hvis købers tilbagekaldelse kommer til tilbudsgivers (sælgers) kundskab, senest samtidig med at sælger læser afslaget.
-
-
----
-
-**Video: Afslag**
-
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/Noq0xWiKryg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
-
----
-
-#### Accept
-
-
-**Acceptfrist er fastsat i tilbuddet:**
-
-*	Når tilbudsmodtager har læst eller hørt om tilbuddet, har han en frist til at overveje, om han vil acceptere, fx i form af en ordrebekræftelse.
-
-*	Accepten er rettidig, hvis den er kommet frem til tilbudsgiver inden acceptfristens udløb, jf. aftalelovens § 2.
-
-*	Hvis acceptfristen er angivet til 8 dage, regnes fristen fra tilbuddets datering.
-
----
-
-##### Accept – den legale acceptfrist
-
-
-**Ingen acceptfrist i tilbud**:
-
-*	Den legale acceptfrist, jf. aftalelovens § 3:
-
-  Fremsendelsestid + rimelig betænkningstid + 
-  tilbagesendelsestid
-
-*	Rimelig betænkningstid” afhænger af de konkrete   omstændigheder. 
-
-
-**Betænkningstid er**:
-
-    +	Kort, hvis prisen på salgsproduktet svinger meget
-    
-    +	Kort, hvis der er tale om letfordærvelige varer
-    
-    +	Længere, hvis der er tale om komplekse og større tilbud
-    
-*	Mundtlige tilbud der gives uden acceptfrist, skal accepteres straks, ellers er det bortfaldet, jf. aftalelovens § 3, stk. 2.
-
----
-
-##### Accept - forsinket
-
-
-Accepten kommer for sent frem – fristen er sprunget - Aftalelovens § 4:
-
-* **HR:** § 4, stk. 1: Forsinket accept betragtes som et nyt tilbud, som den oprindelige tilbudsgiver skal acceptere, før der er indgået en bindende aftale.
-
-* **U:** § 4, stk. 2: Accepten er OK, hvis tilbudsgiver må indse at acceptanten tror at accepten er rettidig, fx hvis accept er sendt inden fristens udløb, men bliver forsinket hos postvæsen - tjek datostempel.
-
-* **NB !!** Hvis tilbudsgiver ikke vil være bundet af en forsinket accept, skal han uden ugrundet ophold give acceptanten meddelelse om forsinkelsen. 
-
-Lader han som ingenting, risikerer han at være bundet	og skal opfylde aftalen.
-
-
-**”Give meddelelse”** se aftalelovens § 40.
-
----
-
-**Video: Tilbagekaldelse efter aftalelovens § 40**
-
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/w5HtkYrMXDg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
----
-
-**Video: For sen accept**
-
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/xoiUi_ShUJc" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
-
----
-
-**Video: Rettidig accept**
-
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/dJmhJTwJzhg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
----
-
-**Video: Om uoverensstemmende accept**
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/xGnZFVV1H74" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
-
----
-
-
-##### Tilbagekaldelse af tilbud/accept
-
-
-**Aftalelovens § 7**
-
-**Situation: Tilbudsgiver vil annullere sit tilbud**
-
-*	Tilbud kan tilbagekaldes af tilbudsgiver, hvis tilbagekaldelsen kommer frem inden eller samtidig med, at det oprindelige tilbud kommer til tilbudsmodtagers kundskab.
-
-
-**Situation: Acceptanten vil annullere sin accept**
-
-*	Svar/accept kan tilbagekaldes af acceptanten, hvis tilbagekaldelsen kommer frem inden eller samtidig med, at accepten kommer til tilbudsgivers kundskab.
-
-
-**U:** Se den såkaldte **"Re integra-reglen"** - aftalelovens § 39, 2. pkt.: 
-
-Under særlige omstændigheder kan tilbagekaldelse alligevel ske efter fristens udløb, hvis to betingelser er opfyldt:  
-
-1. Tilbuddet eller accepten må ikke have virket bestemmende på modtagerens handlemåde, fx har tilbudsgiver sat produktion af ordren i gang på baggrund af accepten?
-
-2.	Årsagen til at tilbagekaldelsen er kommet for sent frem, skyldes særlige omstændigheder.
-
-Re integra-reglen kan ikke påberåbes bare fordi man har fortrudt. Der skal således noget særligt til.
-
----
-
-*Se domspraksis vedrørende anvendelsen af aftalelovens § 39, 2. pkt.:* 
-
-**U 1929 1084: En sælger S modtog fra køberen K et brev om annullation af en ordre, men næste morgen modtog han telegram om, at brevet var bestemt til et andet firma. Skønt S ikke havde eller burde have indset, at der forelå en fejltagelse, fandtes brevet dog ikke bindende for K, da S ikke, inden fejltagelsen oplystes, havde foretaget andet end at bestemme sig til at levere varen til en anden kunde.**
-
-**U 1969 579 Ø: En køber, der telefonisk havde bestilt en vaskemaskine, indfandt sig fejlagtigt i en anden nærliggende forretning, hvor hun mod kvittering betalte for en vaskemaskine af den pågældende type. Da hun 4 dage senere opdagede fejlen, nægtede forretningen at tilbagebetale købesummen under påberåbelse af, at der var indgået en endelig handel. Det fandtes ikke godtgjort, at forretning nr. 2, da betalingen fandt sted, indså eller burde indse, at der forelå en fejltagelse, men da køberen havde reklameret tilstrækkeligt hurtigt, og da handelens indgåelse og tilbagekaldelse ikke havde påført forretningen arbejde eller udgift, fandtes § 39, 2. pkt., at måtte anvendes.**
-
-**U 1989 561 H: En annullation af en slutseddel, der var underskrevet under medvirken af en ejendomsmægler, om morgenen dagen efter købet tillagt retsvirkning efter princippet i § 39, 2. pkt., idet slutsedlen blev underskrevet umiddelbart efter den første besigtigelse af ejendommen, uden at ejendomsmægleren, der var klar over den vanskelige situation som køberen befandt sig i pga. forestående tvangauktion over sit hus, forinden havde søgt klarlagt, om køberen havde økonomisk mulighed for at opfylde handelen**.
-
----
-
-**Video: Om tilbagekaldelse**
-
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/Pf2unCK7tME" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+### <font color="red">Annullationssøgsmål<sup> Premium </font></sup>
 <br>
 
----
+I en sådan sag nedlægger sagsøgeren påstand om annullation af en retsakt, der er udstedt af Unionens institutioner, organer, kontorer eller agenturer (bl.a. forordninger, direktiver og beslutninger). 
 
-##### Uoverensstemmende accept
+Domstolen er forbeholdt kompetencen i sager, der anlægges af en medlemsstat mod Europa-Parlamentet og/eller Rådet (med undtagelse af Rådets retsakter, der vedrører statsstøtte, antidumping og gennemførelsesbeføjelser), eller sager, der anlægges af en EU-institution mod en anden institution. 
 
+Retten er kompetent til at træffe afgørelse, i første instans, i alle andre sager af denne art, herunder navnlig i sager, der er anlagt af private.
 
-Accepten skal være i overensstemmelse med tilbuddet – spejlbillede, jf. aftalelovens § 6:
+###	<font color="red">Passivitetssøgsmål<sup> Premium </font></sup>
+<br>
+Domstolen og Retten har herigennem adgang til at kontrollere, om det er lovligt, at en fællesskabsinstitution forholder sig passivt i en given situation. 
 
-* **HR:** § 6, stk. 1: En uoverensstemmende accept er et afslag, og vil blive betragtet som et modbud (nyt tilbud), men fra acceptantens side.
+En sådan sag kan imidlertid først anlægges, efter at institutionen er blevet opfordret til at handle. 
 
-* **U:** § 6, stk. 2 – En uoverensstemmende accept betragtes ikke som et modbud (nyt tilbud), hvis afsenderen tror,	at accepten er i overensstemmelse med tilbuddet og tilbudsgiveren må indse at acceptanten tror at accepten er ok.  
+Når det er fastslået, at undladelsen var ulovlig, har den pågældende institution pligt til at træffe egnede foranstaltninger til at bringe passiviteten til ophør. 
 
-**NB !!** Hvis tilbudsgiver ikke vil være bundet af indholdet i den ”forkerte” accept, skal han uden ugrundet ophold give acceptanten besked. 
+Beføjelsen til at påkende passivitetssøgsmål er opdelt mellem Domstolen og Retten efter de samme kriterier, som gælder ved annullationssøgsmål.
 
-Lader han som ingenting, er tilbudsgiver bundet af aftalen og skal levere i henhold til indholdet af den uoverensstemmende accept.
-
-
-
-**”Give meddelelse”** se aftalelovens § 40
-
----
-
-### Eksamensopgave
-
-
-***Bord og stol A/S***
-
-
-**Tema: Aftaleindgåelse og handelskøb**
-
-
-Firmaet ”Bord og stol A/S” producerer og handler med alle former for møbler men har i de senere år specialiseret sig i møbler til hoteller. ”Bord og stol A/S”s indkøber har fundet nogle meget elegante møbler i Østen lavet i et nyt og anderledes design. Indkøberen har på vegne ”Bord og stol A/S” fået forhandlet sig frem til en god pris mod garanti om at aftage et vist minimum af varerne.
- 
-”Bord og stol A/S” sender et tilbud ud til de kunder, der skal til at renovere deres hotel, med en acceptfrist til d. 10.04. Tilbuddet lyder på indkøb af min. 20 sæt, og leveringstidstidspunktet er sat til d. 1.05. Prisen angives til 11.995 kr. for et sæt bestående af en seng, et skab, et bord og to stole. Der kommer en del ordre ind inden d. 10.04. 
-
-”Bord og stol A/S” undrer sig dog over, at en kunde, ”Parkhotellet” ikke har afgivet bestilling, da man telefonisk havde fået indtryk af at hotellet helt sikkert ville have varerne. På grund af travlhed reagerer ”Bord og stol A/S” ikke. D. 20.04. kommer så accepten fra kunden. Af den fremgår, at ”Parkhotellet” ønsker 20 sæt. Firmaet ”Bord og stol A/S” reagerer ikke på accepten, da den er kommet for sent frem. Da der d. 01.05. ikke kommer nogen møbler kontakter ”Parkhotellet” ”Bord og stol A/S”, der meddeler, at accepten kom for sent frem. ”Parkhotellet” kan ikke forstå det og undersøger sagen. Accepten er afsendt i god tid, nemlig allerede d. 07.04. Firmaet ”Bord og stol A/S” oplyser at, ”Parkhotellet” kan få møblerne men nu til 13.600 kr. pr. sæt. Efterspørgslen har nemlig vist sig at være stor. ”Parkhotellet” fastholder sin accept og forlanger havemøblerne leveret snarest. 
-
-Bord og stol A/S modtager også en accept fra en anden kunde, nemlig Strand Hotellet. Stand Hotellet har imidlertid angivet en pris på 1.995 kr. Bord og Stol A/S reagerer heller ikke på denne accept, da de ikke ønsker at sælge møblerne til 1.995 kr. Det viser sig senere at Stand Hotellet havde lavet en fejl og ønskede møblerne til 11.995 kr. Bord og stol giver samme melding som til Parkhotellet, nemlig at prisen nu er 13.600 kr. 
-
-3 måneder efter levering af møbler til Hotel Golf reklamerer Hotel Golf over mangler ved møblerne idet flere af stoleryggene er gået løs.  
-
-Bord og stol afviser reklamationen, da der står på bagsiden af fakturaen, at der skal reklameres inden 8 dage fra leveringen.
-
-
-**Eksamenspørgsmålene og rettevejledningen**
-
-1.	Redegør for om Parkhotellet har krav på at få møblerne til 11.995 kr. 
-
-Svar: Her er Bord & Stol forpligtet, jf. AFTL § 4, stk. 2 til at levere stolene til kr. 11.995 til Parkhotellet, da Parkhotellet har accepteret rettidigt og Bord & Stol må indse dette.
- 
-2.	Redegør for om Strand Hotellet har krav på at få møblerne til 11.995 kr. 
-
-Strandhotellet har ikke krav på møblerne, jf. AFTL § 6, stk. 2, da prisforskellen fra kr. 11.995 til kr. 1.995 ikke medfører, at Bord & Stol måtte indse, at Strandhotellet ville købe møblerne til kr. 11.995 og blot havde lavet en fejl. 
-
-3.	Redegør for hvilke rettigheder Hotel Golf har i forhold til de løse stolerygge. 
-
-Faktura-teksten på bagsiden er næppe gjort klart for Hotel Golf i forbindelse med Bord & Stols fremsendelse af tilbuddet og dermed slet ikke en del af aftalen. Hotel Golf kan dermed se bort fra kravet, og har reklameret rettidigt jf KBL § 54. 
-
----
-
-
-### Aftaleindgåelse på internettet
-
-
-<img src="img/aftaleindgåelse på nettet.png" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
-
-*	Aftaleloven gælder også ved aftaler og køb på nettet
-
-*	Afsender bærer selv risiko for at e-mailen kommer frem til modtager
-
-*	”kommet frem”- når mailen ligger i indbakken
-
-*	”kommet til kundskab”- når mailen åbnes og læses
-
-*	Aftalelovens § 40 om at ”give meddelelse” omfatter også e-mails
-
----
-
-**Video om køb på nettet**
-
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/l1rc2FBSjss" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
-
----
-
-**Video: Hvad er e-mærket?**
-
-
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/SGvg5W3JRzQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
-
----
-
-## Aftalers ugyldighed
-
-
-<img src="img/deal3.jpeg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
-
-
-1. Aftalen er bindende, men den kan alligevel bortfalde, hvis aftalen rammes af ugyldighed:
-
-Ugyldighed som kan ramme aftalen kan opstå pga:
-
-*	**Tilblivelsesmangler** – omstændigheder ved aftalens indgåelse, fx svig, forfalskning, voldelig tvang, udnyttelse mv. (sondres mellem svage og stærke ugyldighedsgrunde)
-
-*	**Habilitetsmangler** – en af parterne mangler habilitet eller evne til at indgå aftaler, fx pga. umyndighed, sindssygdom, demens.
-
-*	**Indholdsmangler** – indholdet er i strid med loven, moral, almindelig hæderlighed mv.
-
-*	**Bristende forudsætninger**
-
----
-
-
-
-**Typer af mangler**
-
-<img src="img/typerafmangler.png" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-(Kilde; Trojka)
-
-
-
-
----
-
-
-<img src="img/deal4.jpg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
-
----
-
-#### Forskellen på de stærke og svage ugyldighedsgrunde
-
-
-
----
-
-**Ugyldighedsgrunde**
-
-<img src="img/ugyldighed.png" align="right" width="40%" height="40%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
----
-
-
-
-Der skelnes mellem stærke og svage ugyldighedsgrunde. 
-
-De stærke kan gøres gældende også over for en kontraktpart, der var i god tro ved aftalens indgåelse. 
-
-Stærke ugyldighedsgrunde er bl.a. forfalskning af indhold eller underskrift, underskriverens mindreårighed eller værgemål samt voldelig tvang. 
-
-
-De svage ugyldighedsgrunde kan ikke gøres gældende over for en kontraktpart i god tro, og den godtroende part kan således fastholde aftalen trods ugyldighedsgrunden. 
-
-Hvis A fx giver B et løfte pga. svigagtige oplysninger fra C, binder løftet A trods svigen, såfremt B ikke burde være klar over, at der var udvist svig.
-
----
-
-##### De stærke ugyldighedsgrunde
-
-De *stærke ugyldighedsgrunde* omfatter følgende grunde:
-
-*	**Falsk**
-
-*	**Forfalskning**
-
-*	**Forvanskning**, aftalelovens § 32, stk. 2.
-
-*	**Voldelig tvang**, aftalelovens § 28, stk. 1
-
-*	**Umyndighed**, værgemål, fornuftsmangel  
-  (Værgemålsloven)
-
-
-
-##### De svage ugyldighedsgrunde
-
-
-De *svage ugyldighedsgrunde* omfatter følgende grunde:
-
-*	**Simpel tvang**, aftalelovens § 29
-
-*	**Svig**, aftalelovens § 30
-
-*	**Udnyttelse**, aftalelovens § 31
-
-*	**Fejlskrift** eller anden fejltagelse, 
-  aftalelovens § 32, stk. 1 
-
-
-
-**Nærmere om de stærke ugyldighedsgrunde:**
-
-
-*	**Falsk:** Dokumentet er falsk, fx ved falsk underskrift på en selvskyldnerkaution. Løftet er ikke ægte.
-
-*	**Forfalskning:** Lånedokumentet er forfalsket, hvis der er ændret i dokumentet, fx et beløb – ændret fra 250.000 kr. til 550.000 kr. 
-
-Løftet er ægte fra starten, men indholdet af løftet ændres. Eller der bliver forfalsket en underskrift.
-
-*	**Forvanskning:** Aftaler eller beskeder der under fremsendelsen ændres eller forvanskes ved en fejl, hvorved aftalen får et andet indhold, aftalelovens § 32, stk. 2, fx af et bud eller i en fax.
-
-+ Hvis afsenderen ikke vil være bundet af indholdet i den fejlagtige erklæring, skal afsenderen uden ugrundet ophold efter at vedkommende har opdaget fejlen, give besked til modtageren om, at afsenderen ikke vil være bundet. 
-
-Gør afsenderen ikke det, er vedkommende bundet af indholdet i den fejlagtige aftale.
-    
-
-**Hvad er voldelig tvang?**  
-
-
-*	Voldelig tvang, aftalelovens § 28, stk. 1:
-
-    +	Aftalen ugyldig hvis løftet fra løftegiver er fremkaldt ved vold eller trussel om øjeblikkelig anvendelse af vold, fx holder en pistol for panden af løftegiver.
-    
-    +	Hvis det er tredjemand, som truer for at fremprovokere et løfte, og løftegiver ikke vil være bundet af løftet/aftalen, skal løftegiver uden ugrundet ophold give løftemodtager besked om, at denne er blevet truet  til at afgive løftet. Gør løftegiver ikke det, bliver vedkommende bundet af sit løfte og aftalen er bindende, jf. aftalelovens § 28, stk. 2.
-
-
-
-**Umyndighed**
-
-
-Personer under 18 år:
-
-* **HR:** Kan ikke indgå retshandler eller råde over deres formue, fx købe på kredit, sælge sine ting, pantsætte sine ting – aftale vil være ugyldig, uanset om løftemodtager var i god tro.
-
-* **U:** Værgemålslovens § 42 – der kan indgås gyldige aftaler med umyndige, hvis der er tale om:
-
-    1.	Selverhvervelsesreglen (kontantreglen)
-    2.	Pengereglen
-
-
-**Selverhvervelsesreglen:** 
-
-
-Personer over 15 år kan råde over deres egne penge som de selv har tjent, eller fået ved arv/gave, og hvad værgen har givet dem. !!NB – kun kontantkøb (ej kreditaftaler)
-
-
-<img src="img/avisdreng.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
-
-**Pengereglen:** 
-
-En aftale med en umyndig, fx en 8-årig, er gyldig, hvis pengereglen er opfyldt:  
-
-*	Pengene modtages kontant til fuld betaling, dvs. ej kreditkøb
-
-*	Der er sammenhæng mellem varens art, den umyndiges alder og beløbets størrelse.  
-
-Sælgers gode tro er afgørende. Er sælger i tvivl, skal han bede om værgens samtykke, jf. værgemålslovens § 44.
-
-
-**Situation**: Aftale med mindreårig indgås i god tro, men aftalen rammes af ugyldighed.
-
-*	Hver part skal tilbagelevere hvad de hver især har modtaget. Hvis det er muligt.
-
-*	Kan den umyndige ikke tilbagelevere, og der er tale om en genstand, som har været den umyndige til nytte, fx cykel eller computer, kan den umyndige risikere at skulle betale erstatning til løftemodtager efter nyttereglen, jf. værgemålslovens § 45.
-
-*	Har den umyndige fremvist falsk ID ved aftalens indgåelse, skal den umyndige erstatte løftemodtagers tab, uden hensyn til nyttereglen.
-
-*	Derudover gælder de almindelige erstatningsretlige regler
-
-
-
----
-
-<img src="img/myndig.jpg" align="right" width="40%" height="40%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
----
-
-
-
-**Værgemål og fornuftsmangel**
-
-*	Personer over 18 år kan komme under værgemål/umyndiggøres, fx pga. svær demens, sindssygdom, psykisk handicap mv.
-
-*	Ude af stand til at varetage deres økonomiske anliggender, og hvor der er en risiko for forringelse eller økonomisk udnyttelse.
-
-*	Loven taler om *”Manglende evne til at handle fornuftsmæssigt”*
-
-*	Der beskikkes en værge, som får ansvaret for økonomien.
-
-*	Aftaler indgået med voksne under værgemål er ugyldige, jf.   
-  værgemålslovens § 46, uanset om løftemodtager var i god tro.
-
-
-
-**Nærmere de svage ugyldighedsgrunde:** 
-
-*	**Simpel tvang**, aftalelovens § 29
-
-*	**Svig**, aftalelovens § 30
-
-*	**Udnyttelse**, aftalelovens § 31
-
-*	**Fejlskrift/anden fejltagelse**, aftalelovens § 32, stk. 1
-
-
-**Aftalers ugyldighed simpel tvang**, jf. aftalelovens § 29
+###	<font color="red">Appelsager<sup> Premium </font></sup>
 <br>
 
-**Anden tvang en voldelig tvang**:  
+Endelig kan domme og kendelser afsagt af Retten appelleres til Domstolen for så vidt angår retsspørgsmål. 
 
+Såfremt appellen admitteres, og Domstolen giver appellanten medhold i realiteten, ophæver den Rettens afgørelse. 
 
-Kompulsiv tvang/psykisk tvang, fx trusler om boykot, skandalisering og afpresning
+Hvis sagen er moden til påkendelse, kan Domstolen selv træffe afgørelse i sagen. 
 
+Finder Domstolen ikke, at sagen er moden til påkendelse, hjemviser den sagen til Retten. 
 
-*	Løfter der er motiveret af simpel tvang er ikke bindende for løftegiver, hvis løftemodtager selv har udøvet tvangen.
-  
-*	Hvis løftet er motiveret simpel tvang udøvet af tredjemand, er  løftegiver ikke bundet af sit løfte, hvis løftemodtager indså eller burde have indset at løftet blev afgivet som følge af simpel tvang.
-  
-*	Hvis løftemodtager derimod var i god tro, dvs. ikke indså eller burde have indset at løftet blev afgivet som følge af tredjemands simple tvang, er løftegiver bundet af sit løfte.
+I tilfælde af hjemvisning er Retten bundet af de afgørelser, som er truffet af Domstolen under appelsagen.
 
+## <font color="red">Sagsbehandling<sup> Premium </font></sup>
+<br>
 
-**Svig**, aftalelovens § 30
+Uanset hvilken sagstype der er tale om, omfatter den en skriftlig fase og i givet fald en mundtlig fase, der er offentlig. 
 
-Svig: Fejlinformation, urigtige oplysninger og  fortielser, der bruges eller tilbageholdes, for at få en aftale i hus.
+Der er imidlertid forskel på sagsbehandlingen for så vidt angår præjudicielle forelæggelser og i de øvrige sager(direkte søgsmål og appelsager).
 
+### <font color="red">Sagens anlæg og den skriftlige forhandling<sup> Premium </font></sup>
 
-<img src="img/deal5.jpeg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+##	<font color="red">Præjudicielle forelæggelser<sup> Premium </font></sup>
+Den nationale domstol forelægger Domstolen spørgsmål om fortolkningen eller gyldigheden af en bestemmelse i unionsretten, hvilket sædvanligvis sker i form af en retsafgørelse, alt efter de nationale retsplejeregler. 
 
+Når anmodningen af Domstolens oversættelsestjeneste er oversat til alle unionssprogene, forkynder justitssekretæren den for parterne i hovedsagen samt for medlemsstaterne og EU-institutionerne. Justitssekretæren lader en meddelelse, der indeholder de pågældende parters navne samt spørgsmålene, offentliggøre i Den Europæiske Unions Tidende. 
 
-**Situation**: Sælger af en båd påstår urigtigt, at båden har været ejet af en berømthed, og på den baggrund meddeler køber, at han vil købe båden, trods den høje købesum.
+Parterne, medlemsstaterne og institutionerne har herefter en frist på to måneder til at indgive skriftlige indlæg til Domstolen.
 
-* Løftet om køb af båden kan erklæres ugyldigt, hvis modtageren af løftet var i ond tro bådesælgeren. Løftet er så ikke bindende for bådekøberen
+Den nationale domstol forelægger Domstolen spørgsmål om fortolkningen eller gyldigheden af en bestemmelse i unionsretten, hvilket sædvanligvis sker i form af en retsafgørelse, alt efter de nationale retsplejeregler. Når anmodningen af Domstolens oversættelsestjeneste er oversat til alle unionssprogene, forkynder justitssekretæren den for parterne i hovedsagen samt for medlemsstaterne og EU-institutionerne. 
 
-* Bådesælgeren er i ond tro, hvis: han vidste eller burde vide om et forhold og alligevel vælger imod bedrevidende, at bruge urigtige oplysninger eller fortie sandheden, for at få en aftale i hus.
+Justitssekretæren lader en meddelelse, der indeholder de pågældende parters navne samt spørgsmålene, offentliggøre i Den Europæiske Unions Tidende. 
 
+Parterne, medlemsstaterne og institutionerne har herefter en frist på to måneder til at indgive skriftlige indlæg til Domstolen.
 
+##	<font color="red">Direkte søgsmål og appelsager<sup> Premium </font></sup>
+Sagen anlægges ved Domstolen ved indlevering af en stævning til justitskontoret. 
 
-**Svig udøvet af tredjemand**
+Justitssekretæren lader en meddelelse om sagsanlægget offentliggøre i Den Europæiske Unions Tidende, hvori sagsøgerens søgsmålsgrunde og argumenter kort angives. Stævningen forkyndes for de øvrige parter, der har en frist på to måneder til at indgive svarskrift eller replik. 
 
+I givet fald har sagsøgeren ret til at indgive replik og sagsøgte duplik. Den frist, der er fastsat for fremlæggelse af disse dokumenter skal overholdes.
 
-**Situation:** 
+I begge sagstyper udpeges der af henholdsvis præsidenten og førstegeneraladvokaten en refererende dommer og en generaladvokat, der følger sagen under hele forløbet.
 
-<img src="img/bod.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+## <font color="red">Sagens oplysning<sup> Premium </font></sup>
+<br>
 
+Når den skriftlige forhandling er afsluttet, opfordres parterne til inden for en frist på tre uger at tilkendegive, om og hvorfor de ønsker, at der afholdes en mundtlig forhandling. 
 
-* Peter (tredjemand) har sin båd til salg hos Bo Bådesælger. Peter møder en interesseret køber på Bo's parkeringsplads, og fortæller at båden har været A P Møllers i 1990’erne. På den baggrund bliver båden solgt med det samme.
+Domstolen beslutter på grundlag af den refererende dommers indstilling, og efter at have hørt generaladvokaten, om der skal ske bevisoptagelse, til hvilket dommerkollegium sagen skal henvises, og om der er grund til at afholde en mundtlig forhandling, for hvilken præsidenten i givet fald fastsætter en dato for.
 
+### <font color="red">Offentligt retsmøde og generaladvokatens forslag til afgørelse<sup> Premium </font></sup>
+<br>
 
+Besluttes det at afholde en mundtlig forhandling, procederes sagen i et offentligt retsmøde, hvori dommerkollegiet og generaladvokaten deltager. Dommerne og generaladvokaten kan stille parterne de spørgsmål, som de finder hensigtsmæssige. 
 
-* Bo Bådesælger (løftemodtager) er i god tro, idet han intet ved om Peters fejlinformation. Aftalen mellem bådekøberen og Bo Bådesælger er bindende. 
+Nogle uger senere fremsætter generaladvokaten i et nyt offentligt retsmøde sit forslag til afgørelse for Domstolen. 
 
+Generaladvokaten behandler navnlig sagens retlige aspekter i enkeltheder og foreslår i al uafhængighed Domstolen, hvorledes problemet efter hans eller hendes opfattelse skal løses. 
 
-**Svig**, er en form vildledelse med det formål at få nogen til at foretage en juridisk disposition, fx indgå en aftale, på et urigtigt grundlag, så personen lider et tab eller udsættes for en uventet risiko for et tab. 
+Hermed er den mundtlige del af sagsbehandlingen afsluttet. 
 
-Svig kan bestå i, at forhold forties, eller at der siges noget urigtigt mod bedre vidende, jf. også det offentligretlige vildledningsforbud i markedsføringslovens §§ 5-7 og det civilretlige vildledningsforbud i købelovens § 76, stk, 1 nr. 1-2.
+Hvis det vurderes, at sagen ikke rejser nye retsspørgsmål, kan Domstolen efter at have hørt generaladvokaten bestemme, at sagen skal påkendes uden forslag til afgørelse.
 
+## <font color="red">Dommene<sup> Premium </font></sup>
+<br>
 
-Da svigagtig optræden er skadelig for det økonomiske samliv, knytter retssystemet alvorlige sanktioner hertil. 
+<img src="img/eudomstolen4.jpg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<br>
 
-Et løfte, der er fremkaldt ved svig, kan erklæres ugyldigt i medfør af aftaleloven § 30. 
+Dommerne voterer på grundlag af et domsudkast, som den refererende dommer har udarbejdet. 
 
-Dertil kommer, at svig som udgangspunkt er udtryk for forsæt til formueskade, hvorved den svigagtige adfærd resulterer i en erstatningspligt.
+Enhver af dommerne i det pågældende dommerkollegium kan foreslå ændringer. 
 
+Domstolens afgørelser træffes med stemmeflerhed, og en eventuel dissens anføres ikke. 
 
-**Aftalers ugyldighed udnyttelse**, jf. aftalelovens § 31
+Dommene underskrives kun af de dommere, der har deltaget i den mundtlige votering, hvorunder dommen er blevet vedtaget, med forbehold af reglen om, at den dommer i dommerkollegiet, der har den laveste anciennitet, ikke underskriver dommen, såfremt dette dommerkollegium består af et lige antal dommere. 
 
-**Situation:** 
+Dommene afsiges i offentligt retsmøde. 
 
-Bent låner Anders penge og Bent kræver urimeligt høje renter (åger-renter). Bent er vidende om at A er i økonomiske vanskeligheder, og ikke kan låne penge andre steder.  
+På Domstolens websted CURIA offentliggøres dommene og generaladvokaternes forslag til afgørelse på afsigelsesdagen, henholdsvis fremsættelsesdagen. 
 
-Når Bent i aftaleøjemed udnytter viden om Anders´ vanskeligheder, eller manglende viden/indsigt mv., er der tale om udnyttelse. Bent er i ond tro og aftalen er ugyldig.  
+I de fleste tilfælde offentliggøres de efterfølgende i Samling af Afgørelser.
 
+## <font color="red">Særlige rettergangsformer<sup> Premium </font></sup>
+<br>
 
-**Fejlskrift/anden fejltagelse**, jf. aftalelovens § 32, stk. 1
+###	<font color="red">Den forenklede procedure<sup> Premium </font></sup>
+<br>
 
+Såfremt et præjudicielt spørgsmål er identisk med et spørgsmål, Domstolen allerede har afgjort, såfremt besvarelsen af et sådant spørgsmål ikke giver anledning til nogen rimelig tvivl, eller såfremt besvarelsen af spørgsmålet klart kan udledes af retspraksis, kan Domstolen efter at have hørt generaladvokaten træffe afgørelse ved begrundet kendelse, i givet fald under henvisning til den tidligere afsagte dom eller den relevante retspraksis.
 
-**Fejlskrift**: Fx en skrivelse får et andet indhold end tilsigtet. Løftet i skrivelsen er ikke bindende for løftegiver, hvis løftemodtager indså eller burde have indset, at der var tale om en fejl, idet løftemodtager så ville være i ond tro.
+###	<font color="red">Den fremskyndede procedure<sup> Premium </font></sup>
+<br>
 
-Modsætningsvis: Hvis løftemodtager ikke indså eller burde have kunnet indse, at det var en fejl, er løftemodtager i god tro og aftalen er gyldig.
+Den fremskyndede procedure giver Domstolen mulighed for at træffe hurtig afgørelse i uopsættelige sager ved i videst muligt omfang at behandle sagerne hurtigt og tillægge dem absolut prioritet. 
 
+Efter begæring fra en af parterne kan Domstolens præsident efter forslag fra den refererende dommer og efter at have hørt generaladvokaten og de øvrige parter beslutte at anvende den fremskyndede procedure, når sagens særlige uopsættelighed kræver det. 
 
----
+De præjudicielle forelæggelser kan ligeledes underkastes en fremskyndet procedure. I så fald fremsættes begæring herom af den forelæggende ret, som i begæringen skal angive de faktiske omstændigheder, som bevirker, at afgørelsen af det præjudicielle spørgsmål er uopsættelig.
 
-**Video om fejlskrift**
+###	<font color="red">Den præjudicielle hasteprocedure (PPU)<sup> Premium </font></sup>
 
+Denne procedure gør det muligt for Domstolen inden for en væsentligt afkortet frist at behandle de mest følsomme spørgsmål vedrørende området for frihed, sikkerhed og retfærdighed (politisamarbejde og retligt samarbejde i civile sager og i kriminalsager samt visum, asyl, indvandring og andre politikker i forbindelse med den fri bevægelighed for personer). 
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/-xVEbZDAZZ8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+PPU-sagerne behandles i en afdeling med fem dommere, som er særligt udpeget, og den skriftlige fase gennemføres i praksis elektronisk, og er i væsentligt omfang begrænset, både hvad angår varigheden og antallet af aktører, som har ret til at indgive skriftlige indlæg. 
 
+De fleste aktører deltager under den mundtlige fase, der er obligatorisk.
 
----
+###	<font color="red">Begæring om foreløbige forholdsregler<sup> Premium </font></sup>
+<br>
 
-Speak
+Der kan ligeledes indgives begæring om udsættelse af gennemførelsen af en retsakt, der er udstedt af en institution, eller om enhver anden foreløbig forholdsregel, som er nødvendig for at forhindre, at en part lider et alvorligt og uopretteligt tab.
 
+### <font color="red">Sagsomkostninger<sup> Premium </font></sup>
+<br>
 
-### God og ond tro
+Sagsbehandlingen ved Domstolen er fritaget omkostninger. Til gengæld dækkes omkostningerne til en advokat, der har beskikkelse i en medlemsstat, ved hvilken parterne kan lade sig repræsentere, ikke af Domstolen. 
 
-*	**God tro**
+Hvis en part er ude af stand til helt eller delvis at betale de omkostninger, der er forbundet med sagen, kan han dog uden at være repræsenteret ved en advokat, ansøge om retshjælp. Ansøgningen skal vedlægges alle de nødvendige oplysninger, som godtgør behovet for retshjælp.
 
-+ Løftemodtager(LM) havde ikke viden om ugyldighedsgrunden.
-      
-+ Løftemodtager(LM) vidste ikke eller burde have vidst, at løftet fra løftegiver(LG) var mangelfuldt, fx afgivet pga. ulovlig
-tvang eller at løftegiver var umyndig
+### <font color="red">Sprogordning<sup> Premium </font></sup>
+<br>
 
-      
-*	**Ond tro**
+I direkte søgsmål bliver det sprog, som stævningen er affattet på (hvilket kan være ethvert af Den Europæiske Unions 24 officielle sprog) i princippet sagens processprog, dvs. det sprog, som sagen behandles på. 
 
-+ Løftemodtager havde en viden om ugyldighedsgrunden. 
-      
-+ Løftemodtager indså eller burde have indset, at løftet fra løftegiver var mangelfuldt, fx afgivet pga. ulovlig tvang eller at løftegiver var umyndig
-      
----
+I appelsager anvendes samme processprog som i den appellerede dom eller kendelse fra Retten. 
 
-**Video om god og ond tro**
+For så vidt angår præjudicielle forelæggelser, er processproget det, som den nationale ret har henvendt sig til Domstolen på. Under den mundtlige forhandling i retsmøder er der efter behov simultantolkning til forskellige af Den Europæiske Unions officielle sprog. 
 
+Dommerne voterer uden brug af tolke på et fælles sprog, der normalt vil være fransk.
 
+## <font color="red">Oversigt over rettergangsmåden<sup> Premium </font></sup>
+<br>
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/Ax4X9V-kdGw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
-
----
-
-* Ved **stærke ugyldighedsgrunde**:
-
-+	LM er i ond tro = LG er ikke bundet af løftet (aftalen erklæres ugyldig
-      
-+	LM er i god tro = LG er ikke bundet af løftet (aftalen erklæres ugyldig)
-      
-
-* **Ved svage ugyldighedsgrunde**:
-
-+	LM er i ond tro = LG er ikke bundet af løftet (aftalen erklæres ugyldig
-      
-+	LM er i god tro = LG er bundet af løftet (aftalen fortsat bindende)
-
-
-### Urimelige aftaler
-
-**Indholdsmangler** - Hvis aftalen har fået et urimeligt indhold, kan den tilsidesættes helt eller delvist
-
-*	Aftalelovens § 33: I **strid med almindelig hæderlighed**
-
-*	**Generalklausulen**, aftalelovens § 36: Aftalen kan tilsidesættes helt eller delvis, hvis det ville være urimeligt eller i strid med redelig handlemåde at gøre den gældende. Ved forbrugeraftaler gælder yderligere aftalelovens § 38c, stk. 2!
-
-I urimelighedsvurderingen indgår:
-
-*	Forholdene ved aftalens indgåelse
-
-*	Aftalens indhold og
-
-*	Senere indtrufne omstændigheder
-
----
-
-**Video: Forudsætningslæren**
-
-
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/VliOntGAvUU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
-
----
-
-
-
-### Bristende forudsætninger
-
-
-*	Et løfte kan afgives på baggrund af nogle forudsætninger, som ikke nødvendigvis er diskuteret eller udtrykt klart mellem parterne i en aftale.
-
-*	Hvis forudsætningen ikke holder, taler man om bristende, svigtende eller urigtige forudsætninger, hvilket i nogle tilfælde kan medføre at aftalen ophæves.
-
-
-Ophævelse kræver at 3 betingelser skal være opfyldt:
-
-1.	Forudsætningen skal have været væsentlig for løftegiver
-
-2.	Forudsætningen skal være kendt for løftemodtager
-
-3.	Forudsætningen skal være relevant og rimelig efter forholdene og i forhold til løftemodtagers risiko og byrde, hvis forudsætningen svigter.
-
-
-En ugyldig aftale – Parterne er ikke forpligtet af det løfte de har afgivet og aftalen ophæves.
-
-*	Tilbagelevere allerede udvekslede ydelser (penge/varer)
-
-*	Evt. erstatning til den part, der har handlet i tillid til aftalen, og ved ophævelsen lider et økonomisk tab.
-
-+ **Negativ kontraktsinteresse**:
-      
-Erstatningskrav, hvor man i økonomisk henseende stilles som om aftalen slet ikke var indgået – tilbage til status quo.
-      
-
-### Standardkontrakter/vilkår
-
-Standardvilkår ses eksempelvis i fortrykt lejekontrakt, salgsaftale for biler, lånedokumenter, forsikringsaftaler.
-
-* **HR:** Standardvilkår trykt på eller vedlagt kontrakten, anses for vedtaget ved kundens underskrift.
-
-Betingelse: Standardvilkårene skal være påtrykt eller vedhæftet kontrakten. 
-
-Vilkår der eftersendes efter underskrift gælder ikke, da vilkårene så ikke er gensidigt vedtaget.
-        
-* **U:** Et standardvilkår kan tilsidesættes, hvis det vurderes som urimeligt for kunden (aftalelovens § 36 og § 38 a-d)
+![Fakultative led i rettergangsmåden er anført i kantet parentes.\n
+Fed skrift angiver, at der er tale om et offentligt dokument. ](img/juraskema.png)
  
 
-*	**Salgs- og leveringsbetingelser** skal præsenteres for kunden inden eller i forbindelse med aftalens indgåelse. 
-
-Fremsendelse sammen med faktura anses ikke for vedtaget
-
-*	Usædvanlige vilkår skal fremhæves i en kontrakt, hvis de skal anses for vedtaget – må ikke gemmes blandt ”de små bogstaver.” Risiko for tilsidesættelse, jf. aftalelovens §§ 38c, jf. 36.
-
-*	**Forbrugeraftaler** – Den erhvervsdrivende, som indgår aftaler med forbrugere, skal lave aftaler på en klar og forståelig måde, jf. kravet i aftalelovens § 38b, stk. 2. 
-
----
-
-Se fra retspraksis:
-
-*U.2019.2389 V: Andelsboligforening skulle i relation til aftale om juridisk rådgivning anses som forbruger. Aftalen om honorering var åbenbart i strid med bekendtgørelsens § 3, stk. 4 til lov om juridisk rådgivning, og andelsboligforeningen kunne kræve en stor del af honoraret tilbagebetalt.Der er ikke ved lov om juridisk rådgivning taget stilling til eventuelle civilretlige konsekvenser af en overtrædelse af loven, og sådanne må derfor skulle bedømmes ud fra en fortolkning og anvendelse af de almindelige aftaleretlige regler, herunder aftalelovens § 38 c, jf. § 36.*
-
----
-
-### Aftalens omfang og fortolkning
 
 
-**Fortolkningsprincipper:** Ved tvivl om indholdet af en aftale.  
+### <font color="red">Domstolen i Den Europæiske Unions retsorden<sup> Premium </font></sup>
+<br>
 
-**Koncipistreglen:** Aftalen fortolkes til skade for ham, som har udarbejdet aftalen.
+Med henblik på at opbygge Europa som fællesskab indgik en række stater (i dag i alt 28) indbyrdes en række traktater om oprettelse af De Europæiske Fællesskaber og herefter Den Europæiske Union, udstyret med institutioner, som vedtager retsregler på bestemte områder.
 
-*Minimumsreglen:** Aftalen fortolkes til fordel for løftegiver. 
+Den Europæiske Unions Domstol udgør Unionens og Det Europæiske Atomenergifællesskabs dømmende myndighed. Den består af Domstolen og Retten, hvis opgave i det væsentlige består i at prøve lovligheden af Fællesskabets retsakter og at sikre en ensartet fortolkning og anvendelse af EU-retten.  
 
-**Prioritetsreglen:** Aftalen fortolkes til fordel for det specielle vilkår frem for det generelle.  
+Hele vejen gennem sin praksis har Domstolen knæsat pligten for forvaltninger og domstole på nationalt plan til fuldt ud at gennemføre EU-retten på deres kompetenceområder og at beskytte de rettigheder, som EU-retten tildeler borgerne (direkte anvendelse af EU-retten), hvorved en herimod stridende regel i national ret bliver uvirksom, hvad enten den er yngre eller ældre end EU-normen (EU-rettens forrang for national ret).
 
-*Gyldighedsreglen:* Aftalen fortolkes med henblik på at opnå en gyldig aftale, som vil kunne gennemføres.  
+Domstolen har ligeledes anerkendt princippet om medlemsstaternes ansvar for tilsidesættelse af unionsretten, som udgør dels et element, der på afgørende måde beskytter de rettigheder, som er tillagt private ved unionsrettens bestemmelser, dels en faktor, der bidrager til en mere omhyggelig gennemførelse af disse bestemmelser i medlemsstaterne. 
 
-**Rimelighedsreglen:** Aftalen fortolkes i overensstemmelse med hvad der er rimeligt og hensigtsmæssigt.  
+De retskrænkelser, som disse gør sig skyldige i, vil således kunne medføre erstatningspligt, der i visse tilfælde kan få alvorlige konsekvenser for deres offentlige finanser. 
 
+Desuden vil enhver manglende overholdelse fra en medlemsstats side af unionsretten kunne indbringes for Domstolen, og denne vil, i tilfælde af manglende opfyldelse af en dom, som fastslår et sådant retsbrud, kunne pålægge staten en tvangsbøde og/eller betaling af et fast beløb. 
 
----
+Hvis Kommissionen ikke er blevet underrettet om foranstaltningerne til gennemførelse af et direktiv, kan Domstolen imidlertid efter anmodning herom fra Kommissionen pålægge medlemsstaten en økonomisk sanktion allerede fra tidspunktet for afsigelsen af den første traktatbrudsdom.
 
+Domstolen arbejder tæt sammen med de nationale retter, som er unionsrettens ordinære domstole. Enhver national ret, der skal afgøre en tvist med berøring til unionsretten, kan, og skal undertiden, forelægge Domstolen præjudicielle spørgsmål. Domstolen får således lejlighed til at fremlægge sin fortolkning af en unionsretlig regel eller til at kontrollere dens lovlighed.
+Udviklingen i Domstolens praksis illustrerer dens bidrag til skabelsen af et retsområde, der angår borgerne, idet den beskytter de rettigheder, som EU-lovgivningen tildeler dem på forskellige områder af deres dagligdag.
 
+## <font color="red">Grundsætninger fastslået i retspraksis<sup> Premium </font></sup>
+<br>
 
-**Video: Om fortolkning af aftaler**
+Ved en serie domme (begyndende med dommen i sagen Van Gend & Loos i 1963) indførte Domstolen i sin retspraksis princippet om fællesskabsrettens direkte virkning i medlemsstaterne, som nu gør det muligt for Europas borgere direkte at påberåbe sig bestemmelserne i unionsretten for deres nationale retter.
 
+I forbindelse med indførsel fra Tyskland til Nederlandene skulle transportvirksomheden Van Gend & Loos betale told, som firmaet fandt stridende mod EØF-traktatens regel om forbud til medlemsstaterne mod at forhøje tolden i deres gensidige handelssamkvem. 
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/DdFmNJpY3dE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+Sagen rejste spørgsmålet om konflikten mellem en national lovgivning og EØF-traktatens regler. 
 
-
----
-
-
-
-```{r reglerogtolkning,echo=FALSE}
-options(knitr.table.format = "html")
-collapse_rows_dt <- data.frame(Regel = c("Koncipistreglen", "Minimumsreglen","Prioritetsreglen", "Gyldighedsreglen","Rimelighedsreglen"),
-                 Tolkning = c("Dette fortolkningsprincip kaldes også for uklarhedsreglen og betyder, at den part som har konciperet (skrevet) kontrakten må bære risikoen for tvetydighed. Er der en uklarhed i kontrakten, tolkes aftalen til skade eller ugunst for koncipisten og dermed mindst tyngende for den anden part, som ikke har haft indflydelse på aftalens formulering. Uklarhedsreglen er særlig relevant ved fortolkning af standardaftaler, der er udarbejdet af en stærk part.",
-                              "Hvis der er tvivl om, hvad løftegiveren har forpligtet sig til i aftalen, vælges den forståelse af aftalen, som er
-mest gunstig for løftegiveren. Hvis der fx er tvivl, om der er aftalt simpel kaution eller selvskyldnerkaution, vælges simpel kaution, der er mest gunstig for forbrugeren. Særligt hvad angår forbrugeraftaler, har minimumsreglen fundet en plads i AFTL § 38b. Bestemmelsen beskytter forbrugeren i de tilfælde, hvor et tyngende aftalevilkår ikke har været til forhandling med en erhvervsdrivende aftalepart. En sådan aftale skal tolkes på den måde, som er mest gunstig for forbrugeren.
-",
-                              "Ved fortolkning efter prioritetsreglen går et specielt vilkår forud for et generelt vilkår. Man kan også kalde det en fortolkning efter et lex specialis-princip, hvor en speciel og udspecificeret bestemmelse vejer tungere end en generel formuleret bestemmelse",
-                              "Hvis man står overfor et valg, om aftalen er gyldig og kan gennemføres, eller ugyldig og må bortfalde, er gyldighedsreglen et fortolkningsprincip, hvor aftalen tolkes med henblik på at opnå en gyldig aftale, som vil kunne gennemføres.",
-                              "Efter rimelighedsreglen fortolker man ud fra hensigtsmæssigheds- og rimelighedsbetragtninger. Ved tvivl om forståelsen af en aftale, tolkes aftalen i overensstemmelse med, hvad der er rimeligt."))
-                 
-kable(collapse_rows_dt, align = "l",caption = "Regler og tolkning") %>%
-  kable_styling(full_width = T,bootstrap_options = c( "hover","responsive","bordered","striped")) %>%
-  column_spec(1, bold = T) %>%
-  collapse_rows(columns = 1:2, valign = "top") %>%
-  column_spec(2,  bold = T, color = "white", background = "darkgrey")
-  # row_spec(1, bold = T, color = "white", background = "red") %>%
-# row_spec(5:9, bold = T, color = "Black", background = "yellow") %>%
-# add_header_above(c( "Koncipistreglen" = 2),italic = TRUE)
-
-```
+En nederlandsk ret forelagde sagen for Domstolen, og den afgjorde spørgsmålet ved at hævde doktrinen om direkte virkning, således at transportvirksomheden fik en direkte sikkerhed for sine rettigheder i henhold til fællesskabsretten for den nationale ret.
 
 
----
+I 1964 blev det i Costa-dommen fastslået, at fællesskabsretten har forrang for intern lovgivning. 
+
+I denne sag havde en italiensk ret spurgt Domstolen, om en italiensk lov om nationalisering i sektoren for fremstilling og distribution af elektricitet var forenelig med en række regler i EØF-traktaten. 
+
+Domstolen indførte doktrinen om fællesskabsrettens forrang, som den begrundede med den særlige karakter af Fællesskabets retsorden, der må anvendes ensartet i samtlige medlemsstater.
+
+I 1991 udviklede Domstolen i dommen i sagen Francovich m.fl. et andet grundbegreb, nemlig grundbegrebet om medlemsstatens ansvar over for private for den skade, de måtte lide på grund af, at staten har tilsidesat fællesskabsretten. 
+
+Siden 1991 står der altså et erstatningssøgsmål til rådighed for de europæiske borgere, som de kan rejse mod den stat, der overtræder en EF-regel.
+
+To italienske borgere, som havde løntilgodehavender hos deres konkursramte arbejdsgivere, havde indledt sag, hvorunder de påberåbte sig den italienske stats passivitet, idet den ikke havde gennemført EF-reglerne om beskyttelse af arbejdstagere i tilfælde af deres arbejdsgivers insolvens. 
+
+Efter at en italiensk ret havde forelagt sagen for Domstolen, udtalte denne, at det pågældende direktiv tog sigte på at tillægge private rettigheder, som de var blevet afskåret fra at udnytte som følge af, at staten havde udvist passivitet, da den ikke havde gennemført direktivet, og hermed gjorde Domstolen vejen fri for et erstatningssøgsmål mod staten selv.
+
+### <font color="red">Domstolens rolle i unionsborgerens liv<sup> Premium </font></sup>
+<br>
+
+Blandt de tusinder af domme, Domstolen har afsagt, har størstedelen, navnlig de, der er afsagt under den præjudicielle procedure, helt åbenbart betydelige virkninger for de europæiske borgeres dagligliv. 
+
+Heraf skal nævnes nogle stykker som eksempel på de væsentligste af fællesskabsrettens områder.  
+
+###	<font color="red">Frie varebevægelser<sup> Premium </font></sup>
+<br>
+
+Efter dommen i sagen Cassis de Dijon, der blev afsagt i 1979 vedrørende grundsætningen om frie varebevægelser, kan de erhvervsdrivende til deres land indføre enhver vare med oprindelse i et andet unionsland - på den betingelse, at varen dér er blevet fremstillet lovligt og bragt i omsætning, og at ingen tvingende grund, f.eks. forbundet med beskyttelsen af sundhed og miljø, er til hinder for varens indførsel til forbrugslandet.
+
+###	<font color="red">Fri bevægelighed for personer<sup> Premium </font></sup>
+<br>
+
+Adskillige domme er blevet afsagt på området for fri bevægelighed for personer.
+
+I Kraus-dommen (1993) fastslog Domstolen, at retstillingen for en EF-borger, der er indehaver af et bevis for afsluttet universitetseksamen, som er erhvervet i en anden medlemsstat, og som letter adgangen til en profession eller udøvelsen af en økonomisk virksomhed, er reguleret af fællesskabsretten, endog hvad angår den pågældende borgers forhold til sin hjemstat. Det gælder således, at selv om en medlemsstat kan betinge anvendelsen af eksamensbeviset på sit område af en administrativ godkendelse, må godkendelsesproceduren alene have det formål at klarlægge, om beviset er blevet lovligt udstedt.
+
+Blandt de øvrige domme afsagt på dette område er en af de mest kendte Bosman-dommen (1995), hvori Domstolen efter anmodning fra en belgisk ret tog stilling til spørgsmålet, om fodboldforbunds regler kunne anses for forenelige med arbejdskraftens frie bevægelighed. 
+
+Domstolen udtalte, at professionel sport er en økonomisk virksomhed, hvis udøvelse ikke kan hindres af reglerne om spillertransfert eller ved en begrænsning af antallet af spillere med statsborgerskab i en andre medlemsstater. Sidstnævnte udtalelse er ved senere domme blevet udvidet til at gælde retsstillingen for professionelle sportsudøvere med oprindelse i tredjelande, der har indgået en associerings- (dommen i sagen Deutscher Handballbund fra 2003) eller partnerskabsaftale (Simutenkov-dommen 2005) med De Europæiske Fællesskaber.
 
 
+###	<font color="red">Fri udveksling af tjenesteydelser<sup> Premium </font></sup>
 
 
-## Quiz  
+En dom fra 1989 vedrørende fri udveksling af tjenesteydelser angik en britisk turist, der var blevet overfaldet og alvorligt såret i den parisiske metro. 
 
-<h3><a href="https://quiz.tepedu.dk/juraaftale2" target="_blank">Quiz Aftaleindgåelse   <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
+Efter en forelæggelse fra en fransk ret fastslog Domstolen, at den pågældende i sin egenskab af turist havde adgang til tjenesteydelser uden for sit land og principielt var omfattet af det grundlæggende forbud mod forskelsbehandling på grundlag af nationalitet, der er knæsat i fællesskabsretten. 
 
-<h3><a href="https://quiz.tepedu.dk/juraaftale" target="_blank">Quiz Aftalers fortolkning og udfyldning   <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
+Turisten havde følgelig ret til samme erstatning, som en fransk statsborger kunne gøre krav på (Cowan-dommen).
+
+Efter en præjudiciel anmodning fra luxembourgske retter fastslog Domstolen, at en national lovgivning med den virkning, at en forsikringstager får afslag på godtgørelse af udgifter ved tandbehandling med den begrundelse, at denne har fundet sted i en anden medlemsstat, udgør en uberettiget hindring for den frie udveksling af tjenesteydelser (Kohll-dommen, 1998), og at et afslag på godtgørelse af udgifter til køb af briller i udlandet må bedømmes som en uberettiget hindring for de frie varebevægelser (Decker-dommen, 1998).
+
+###	<font color="red">Ligebehandling og sociale rettigheder<sup> Premium </font></sup>
 
 
----
+En flystewardesse anlagde sag mod sin arbejdsgiver på grund af forskelsbehandling vedrørende den løn, hun oppebar i forhold til sine mandlige kolleger, der udførte samme arbejde. 
+
+En belgisk ret forelagde sagen for Domstolen, som i 1976 fastslog, at traktatreglen med påbuddet om principiel ligebehandling med hensyn til løn til kvindelige og mandlige arbejdstagere for samme arbejde havde direkte virkning (Defrenne-dommen).
+
+Ved en fortolkning af EF-reglerne vedrørende ligebehandling af mænd og kvinder har Domstolen bidraget til at beskyttelsen af kvinderne mod afskedigelse i forbindelse med barsel. En kvinde, der ikke længere kunne arbejde som følge af besværligheder forbundet med graviditet, blev afskediget. 
+
+I 1998 kendte Domstolen afskedigelsen stridende mod fællesskabsretten. Afskedigelse af en kvinde under graviditet som følge af fravær, forårsaget af en sygdom på grund af selve graviditeten, er en forbudt forskelsbehandling på grundlag af køn (Brown-dommen).
+
+Med henblik på at sikre arbejdstagernes sikkerhed og sundhed er det nødvendigt, at disse har adgang til betalt årlig ferie. 
+
+I 1999 rejste den britiske fagforening BECTU tvivl om britiske regler, som fratog arbejdstagere med arbejdskontrakter af kort varighed denne ret med den begrundelse, at reglerne ikke var i overensstemmelse med et EF-direktiv vedrørende fastlæggelse af arbejdstiden. 
+
+Domstolen nåede til det resultat (BECTU-dommen, 2001), at retten til betalt årlig ferie er en social ret, som direkte er tillagt samtlige arbejdstagere i fællesskabsretten, og at ingen arbejdstager kan afskæres herfra.
+
+###	<font color="red">Grundlæggende rettigheder<sup> Premium </font></sup>
+<br>
+
+Med en udtalelse om, at overholdelsen af grundlæggende rettigheder er en integrerende del af de almindelige retsgrundsætninger, som Domstolen skal søge overholdt, har Domstolen bidraget væsentligt til højere standarder i relation til beskyttelsen af de nævnte rettigheder. 
+
+Herved tager Domstolen hensyn til de for medlemsstaternes fælles forfatningstraditioner og folkeretlige aftaler om beskyttelse af menneskerettighederne, navnlig den europæiske konvention til beskyttelse af menneskerettigheder, som medlemsstaterne har samarbejdet om eller tiltrådt. Efter ikrafttrædelsen af Lissabontraktaten vil Domstolen kunne anvende og fortolke Den Europæiske Unions charter om grundlæggende rettigheder af 7. december 2000, som i medfør af Lissabontraktaten tillægges samme retsværdi som traktaterne. 
+
+Efter talrige terroristattentater mod politiembedsmænd indførte man i Nordirland bevæbning af politistyrkerne. 
+
+Af hensyn til den offentlige sikkerhed tillod man imidlertid ikke bevæbning (på grundlag af en attest udstedt af vedkommende minister, som ikke kunne anfægtes ved domstolene) af kvinder ansat i politiet. 
+
+Som følge heraf var der ikke længere mulighed for fuldtidsansættelse af kvinder i det nordirske politi. 
+
+Efter en præjudiciel forelæggelse fra en ret i Det Forenede Kongerige afgjorde Domstolen, at udelukkelsen af enhver domstolsprøvelse af en attest fra en national myndighed er i strid med princippet om en effektiv domstolsbeskyttelse, der tilkommer enhver, som finder sig ramt af kønsdiskriminering (Johnston-dommen, 1986).
+
+### <font color="red">Unionsborgerskab<sup> Premium </font></sup>
+<br>
+
+Vedrørende unionsborgerskabet, som ifølge traktaten om Den Europæiske Unions virkemåde tilkommer enhver statsborger i medlemsstaterne, har Domstolen bekræftet, at dette indebærer retten til ophold på en anden medlemsstats område. 
+
+Således har en mindreårig statsborger i en medlemsstat, som er sygeforsikret og har tilstrækkelige midler til sit underhold, også ret til ophold. 
+
+Domstolen fremhævede, at fællesskabsretten ikke kræver af den mindreårige, at han selv har de nødvendige midler, og at afslaget på samtidig at meddele den mindreåriges moder, med statsborgerskab i tredjeland, ret til ophold, vil bevirke, at barnets opholdsret bliver uden enhver effektiv virkning (dommen i sagen Zhu og Chen, 2004).  
+
+I samme dom præciserede Domstolen, at en medlemsstat - selv i det tilfælde, hvor erhvervelse af statsborgerskab i en medlemsstat har til formål at opnå en opholdsret i henhold til fællesskabsretten for en statsborger i en medlemsstat - ikke kan indskrænke virkningerne af tildeling af statsborgerskab i en anden medlemsstat.  
+
+

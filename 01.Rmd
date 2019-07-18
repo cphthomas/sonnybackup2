@@ -59,7 +59,7 @@ indeks <<- data.frame(BEGREB,forklaring)
 
 
 
-<h3>***Vigtigt bemærk!***</h3>
+<h3>***Vigtigt bemærk***</h3>
 
 ***Dette materiale er kun til personligt brug. Alle rettigheder forbeholdes. Fotografering, kopiering eller anden gengivelse af dette materiale, er uden forfatterens skriftlige samtykke,  forbudt, ifølge dansk lov om ophavsret.***
 
@@ -1070,6 +1070,5 @@ Den Europæiske Unions Domstol (EU-Domstolen) fortolker EU's lovgivning for at s
 
 
 I visse tilfælde kan den også anvendes af enkeltpersoner, virksomheder eller organisationer til at gribe ind over for en EU-institution, hvis de mener, den på den ene eller anden måde har tilsidesat deres rettigheder.
-
 
 

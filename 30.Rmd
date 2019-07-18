@@ -1,0 +1,36 @@
+
+# Indeks
+
+
+
+
+<!-- ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` -->
+
+<!-- ``r tippy(indeks[2,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[2,2],"</h4>"))`` -->
+
+<!-- ``r tippy(indeks[4,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[4,2],"</h4>"))``   -->
+
+
+```{r begrebsoversigt, echo=FALSE}
+
+mydf <- indeks[order(BEGREB,forklaring),]
+row.names(mydf) <- NULL
+names(mydf) <- c("BEGREB","HVAD BETYDER DET?")
+
+
+mydf %>%
+  kable("html", escape = FALSE, caption = "Begrebsoversigt") %>%
+  kable_styling(full_width = T,font_size = 12,bootstrap_options = c("responsive","bordered","striped")) %>%
+  column_spec(1, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  # column_spec(3, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  # column_spec(4, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  # row_spec(1,italic = T,bold = T,font_size = 12,color = "white", background = "darkgrey") %>%
+  row_spec(0,italic = T,bold = T,font_size = 14,color = "white", background = "darkgrey")
+  # row_spec(1,italic = T,bold = T,font_size = 12)
+  # column_spec(0, angle = -45)%>%
+  # scroll_box(width = "500px") %>%
+  # footnote(general = "Databeskyttelsesforordningen",general_title = "Kilde:")
+```
+
+
