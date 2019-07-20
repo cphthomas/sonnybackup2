@@ -33,13 +33,23 @@
   
 •	**Universalforfølgning:**
 
-  * Hæftelse: Hæftelsestyper i enkeltmandsvirksomhed samt forskellige   selskabsformer. Emnet har relevans for opgørelse af aktivsiden i et   konkursbo samt kreditors evt. tab af restfordringen.  
+  * Hæftelse: Hæftelsestyper i enkeltmandsvirksomhed samt forskellige selskabsformer. Emnet har relevans for opgørelse af aktivsiden i et   konkursbo samt kreditors evt. tab af restfordringen.  
   
-  * Overordnet om rekonstruktion - anmodning, betingelser og 
-  retsvirkning 
+  * Overordnet om rekonstruktion - anmodning, betingelser og retsvirkning 
   
-  * Konkursret – anmodning, betingelser, KL § 17-21, fristdag, KL § 
-  1, nærtstående, KL § 2, konkursordenen, KL kapitel 10, separatister   og underpanthavere, KL § 8286, omstødelse, KL kapitel 8 
+  * Konkursret – anmodning, 
+  
+  * betingelser, KL § 17-21, 
+  
+  * fristdag, KL § 1 
+
+  * nærtstående, KL § 2, 
+
+  * konkursordenen, KL kapitel 10, 
+  
+  * separatister  og underpanthavere, KL §§ 82 og 86, 
+  
+  * omstødelse, KL kapitel 8 
 
 				
 
@@ -90,7 +100,7 @@ Ordet **”insolvent”**
 
 Der må ved afgørelsen om skyldnerens insolvens og dermed en konkursbehandling tages der hensyn til en række momenter i praksis:
 
-* En rigtigt opgjort status er et vægtigt indicium om skyldnerens betalingsevne, jf. dommen U 2001 2592 Ø (skyldner, der siden 2000-02-10 ved (delvis) betaling havde afværget 15 konkursbegæringer, var insolvent, da han ikke kunne betale 50.798 kr. ifølge en udeblivelsesdom, og da han havde yderligere gældsposter), hør nærmere omtale om dommen. 
+* En rigtigt opgjort status er et vægtigt indicium om skyldnerens betalingsevne, jf. dommen U 2001 2592 Ø (skyldner, der siden 2000-02-10 ved (delvis) betaling havde afværget 15 konkursbegæringer, var insolvent, da han ikke kunne betale 50.798 kr. ifølge en udeblivelsesdom, og da han havde yderligere gældsposter). 
 
 * Det må kræves, at der består en fordring mod skyldneren, men ikke at den er forfalden. Fordringen må endvidere tilkomme den, der indleverer konkursbegæringen til skifteretten.
 
@@ -121,7 +131,7 @@ Insolvens antages i almindelighed at foreligge efter KKL § 18, hvis:
 
 * der ved udlæg inden for de sidste tre måneder før skifterettens modtagelse af konkursbegæringen ikke har kunnet opnås dækning hos skyldneren. 
  
-Speak 23
+
  
 
 
@@ -146,7 +156,7 @@ Lovens formål søges også opnået ved regler om, at inkassovirksomhed skal ud�
 
 ---
 
-Speak 23
+
 
 * Inkassolovens kap. 1 fastlægger anvendelsesområdet for loven.
 
@@ -194,6 +204,16 @@ Speak 23
 
 ---
 
+**Video: Inkasso i hundesalonen**
+
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/4p97-bt-mYk" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
+
+
+
+
 ## Tvangsinddrivelse
 
 ![](img/insolvent5.jpg)
@@ -221,10 +241,15 @@ Ordet **”tvangsinddrivelse”:**
 Tvangsinddrivelse kræver et fundament, jf. RPL § 478 fx:
 
 * Dom eller retsforlig
+
 * Frivillige forlig, hvis der står, det kan tvangsfuldbyrdes
+
 * Gældsbreve, hvis der står, det kan tvangsfuldbyrdes
+
 * Pantebreve
+
 * Afgørelser fra Forbrugerklagenævnet og de private godkendte tvistløsningsorganger efter 30 dage
+
 * Krav fra offentlige myndigheder fx Skat
 
 ---
@@ -247,12 +272,17 @@ Tvangsinddrivelse kræver et fundament, jf. RPL § 478 fx:
 Hvis kreditor ikke har et fundament, skal kreditor:
 
 * Have en dom for kravet eller
-* Udfylde et betalingspåkrav, jf. RPL kap. 44a 
+
+* Udfylde et betalingspåkrav, jf. RPL kap. 44a
+
 * Betalingspåkravet udfyldes af kreditor og indgives til Fogedretten
+
 * Betalingspåkravet kan kun anvendes hvis:
+
   +	Kreditor har et pengekrav på højst 100.000 kr.
   +	Kravet er ubetinget og ubestridt af skyldner
   +	Skyldner har fået et ”inkassobrev”
+  
 * Kan med Fogedrettens påtegning på betalingspåkravet anvendes som fundament
  
 
@@ -282,7 +312,9 @@ Hvis kreditor ikke har et fundament, skal kreditor:
 *Trangsbeneficiet, jf. RPL § 509:*
 
 * Kreditor kan ikke få udlæg i aktiver omfattet af trangsbeneficiet
+
 * Omfatter aktiver, der hører til et beskedent hjem, fx seng, bord, stol, sofa
+
 * Almindelig hvidevarer hører til et beskedent hjem, fx køleskab, fryser, almindeligt tv og almindelig computer
 
 
@@ -291,27 +323,41 @@ Smykker, malerier, smart TV eller fjernsyn med surround sound og subwoofer og an
 Spørgsmål er i et hvilket omfan,g der kan foretages udlæg i følgende genstande og værdier: 
 
 * Boliginventar (Opretholdelse af et beskedent hjem)
+
 * Bil
+
 * Kontanter (rede penge)
+
 * Indestående på konti
+
 * Depositum (lejebolig)
+
 * Kæledyr
+
 * Gaver
+
 * Værdier med affektionsværdi
+
 * Personskadeerstatning (Udbetalinger ved kritisk/ livstruende sygdom)
+
 * Feriepenge
 
-Speak 23 
+
 
 ## Tvangsauktion
 
 Kreditor kan begære **tvangsauktion:**
 
 * Kun aktiver, som kreditor i forvejen har udlæg i
+
 * Begæring indgives til Fogedretten sammen med fogedgebyr
+
 * Auktionen skal annonceres, fast ejendom bekendtgøres i Statstidende
+
 * Auktionen holdes i Fogedretten, og aktivet bliver solgt til den, der byder højest
+
 * Provenuet fra auktionen går til at betale gælden hos kreditor efter omkostningerne ved auktionen er betalt
+
 * Panterettigheder i aktivet bliver slettet efter tvangsauktionen er holdt
  
 
@@ -348,10 +394,15 @@ Kreditor kan begære **tvangsauktion:**
  
 
 * Separatistkrav bliver fyldestgjort før konkursmassen gøres op
+
 * Kurator skal sælge og opgøre alle konkursboets aktiver
+
 * Konkursboet skal overveje, om det vil indtræde i gensidigt bebyrdende aftaler
+
 * Konkursboet vurderer, om der kan være omstødelige dispositioner
+
 * Kurator opgør alle kreditorernes krav og placerer dem i konkursordenen
+
 * Når konkursboets aktiver og passiver er gjort op bliver kreditorerne fyldestgjort efter konkursordenen
 
  
@@ -361,8 +412,10 @@ Boets aktiver (konkursmassen) omfatter:
 
 **HR:**	Alt hvad skyldner ejer ved konkursdekrets afsigelse og under konkursen tilfalder ham, jf. KL § 32
 
-**U1:**	Aktiver, som kreditor ikke kan få udlæg i, KL § 36  
-**U2:**	Skyldners arbejdsindtægter under konkursen   
+**U1:**	Aktiver, som kreditor ikke kan få udlæg i, KL § 36 
+
+**U2:**	Skyldners arbejdsindtægter under konkursen 
+
 **U3:**	Separatistkrav (fx aktiver solgt med ejendomsforbehold) Boets passiver omfatter:  
 
 * Alle kreditorer kan anmelde deres krav, uanset om kravet er forfaldent, jf. KL § 38
@@ -910,7 +963,7 @@ Skifteretten kan efter en skyldners begæring afsige kendelse om gældssanering,
 
 * Hvis skyldner overholder betalingerne, er skyldner gældfri efter 5 år
 
-Speak 23
+
 
 *Omstødelsesreglerne finder anvendelse i gældssanering*
 

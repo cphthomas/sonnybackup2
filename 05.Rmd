@@ -4,17 +4,17 @@
 
 <script async src="https://widget.spreaker.com/widgets.js"></script>
 
-<br>
+---
+
+**Video: Aftaler via fuldmagt**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/ugJt8-E7xJY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div> 
 
+---
 
+![](img/fuldmagt2.jpg)
 
-
-<a class="spreaker-player" href="https://www.spreaker.com/show/kapitel-2-aftaleloven" data-resource="show_id=3543307" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https://d1bm3dmew779uf.cloudfront.net/cover/bb453683459dec52bf6b9b83a3192674.jpg"></a>
-
-
-
+---
 
 <img src="img/fuldmagt1.jpeg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
@@ -27,10 +27,10 @@
   
 * *Kommission* (Kommisionsloven Lovbekendtgørelse nr. 332 af 31. marts 2014) 
   
-* *Handelsagenter* (Lov nr. 272 af 2. maj 1990 om                handelsagenter og handelsrejsende)
+* *Handelsagenter* (Lov nr. 272 af 2. maj 1990 om handelsagenter og handelsrejsende)
 
 
-
+---
 
 ## Fuldmagtsforhold og aftaleindgåelse 
 
@@ -70,15 +70,22 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow"))
 
 *”Den, som har givet en anden fuldmagt til at foretage en retshandel, bliver umiddelbart berettiget og forpligtet overfor tredjemand ved retshandel, som fuldmægtigen foretager i fuldmagtsgiverens navn og indenfor fuldmagtens grænser”*.
 
+---
+
+Fuldmagtsforholdet hviler normalt på en aftale mellem en fuldmagtsgiver og fuldmægtig, men kan herudover gives til kende ved en viljeserklæring til en eller flere tredjemænd eller ved en konkludent handling, der tillader tredjemand at slutte, at fuldmagtsgiveren har udstyret fuldmægtigen med en fuldmagt (således som det er tilfældet ved stillingsfuldmagten ved et ansættelsesforhold). 
+
+---
+
+![](img/fuldmagt1.jpg)
 
 
-Fuldmagtsforholdet hviler normalt på en aftale mellem en fuldmagtsgiver og fuldmægtig, men kan herudover gives til kende ved en viljeserklæring til en eller flere tredjemænd eller ved en konkludent  handling, der tillader tredjemand at slutte, at fuldmagtsgiveren har udstyret fuldmægtigen med en fuldmagt (således som det er tilfældet ved stillingsfuldmagten ved et ansættelsesforhold). 
+---
 
 Aftalelovens bestemmelser indeholder ikke nogen udtømmende opregning af de måder, hvorpå en fuldmagt kan skabes. 
 
 Anden optræden eller adfærd fra hovedmandens side end en viljeserklæring kan skabe fuldmagt, f.eks. overgivelse af dokumenter eller ved passivitet.
 
-Speak23
+
 
 En fuldmagt skabt ved passivitet kaldes ofte **adfærdsfuldmagt**. 
 
@@ -106,15 +113,18 @@ Ved **»beføjelse«** (**bemyndigelse**) den ret eller tilladelse, fuldmægtige
 <img src="img/Bemyndigelse vs. legitimation.png" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
- 
 
- 
-
+<br><br><br>
 
 
 
 
 
+
+<br><br><br>   
+
+
+<br>
 
 ## De 2 fuldmagtsformer
 
@@ -151,7 +161,7 @@ Der findes to fuldmagtsformer
 
 
 
-<img src="img/fuldmagt2.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 
 
 ---
@@ -216,7 +226,7 @@ En bankdirektør har en mere vidererækkende stillingsfuldmagt end en områdekun
 
 **Erstatning, som en arbejdsgiver har måttet udrede som følge af en arbejdstagers uforsvarlige adfærd, kan kun kræves betalt af denne i det omfang, det findes rimeligt  under hensyn til den udviste skyld, arbejdstagerens stilling og omstændighederne i øvrigt.**
 
-De vigtigste momenter i vurderingen af, om og i hvilket omfang arbejdsgiveren kan gøre regres mod arbejdstageren, er skyldgraden (normalt ikke regres ved skader, der er forvoldt ved simpel uagtsomhed; i modsætning til erstatningsansvarslovens § 19, stk. 3, indebærer forsæt eller især grov uagtsomhed dog ikke nødvendigvis fuldt ansvar for arbejdstageren, se herved U 2016 3069 V (regres ved betydelig uagtsomhed) og U 2006 356 V om regres ved en forsætligt forvoldt skade) og arbejdstagerens stilling (indtagelse af en overordnet stilling med ledelsesfunktioner vil f.eks. kunne tale for regres).
+De vigtigste momenter i vurderingen af, om og i hvilket omfang arbejdsgiveren kan gøre regres mod arbejdstageren, er skyldgraden (normalt ikke regres ved skader, der er forvoldt ved simpel uagtsomhed; i modsætning til erstatningsansvarslovens § 19, stk. 3, indebærer forsæt eller især grov uagtsomhed dog ikke nødvendigvis fuldt ansvar for arbejdstageren, **se herved U 2016 3069 V (regres ved betydelig uagtsomhed) og U 2006 356 V om regres ved en forsætligt forvoldt skade) og arbejdstagerens stilling (indtagelse af en overordnet stilling med ledelsesfunktioner vil f.eks. kunne tale for regres)**.
 
 
 **Ophør af fuldmagtsforholdet:**
@@ -317,6 +327,8 @@ Bestemmelsen har følgende ordlyd:
 
 *Stk. 2. Denne bestemmelse kommer ikke til anvendelse, når tredjemand vidste eller burde vide, at den, som foretog retshandelen, ikke havde fornøden fuldmagt. Ej heller kommer den til anvendelse, når den, som foretog retshandelen, handlede i henhold til en fuldmagt, der var ugyldig eller uvirksom af grunde, som han var uvidende om, og som tredjemand ikke kunne påregne, at han vidste besked om"*
 
+---
+
 * Den der udadtil optræder som fuldmægtig for en anden, indestår for, at han rent faktisk har fornøden fuldmagt til at handle og indgå aftaler på vegne af fuldmagtsgiver.
 
 * Fuldmægtigen er ved aftalens indgåelse garant for at:
@@ -327,6 +339,8 @@ Bestemmelsen har følgende ordlyd:
 
 * Fuldmagten ikke er overskredet
 
+---
+
 Aftalelovens § 25 – erstatning til tredjemand (fortsat):
 
 **HR:** Hvis fuldmægtigen ikke havde den fornødne fuldmagt til at handle, og aftalen derfor falder til jorden, kan tredjemand forlange erstatning hos fuldmægtigen, hvis han lider et økonomisk tab.
@@ -334,6 +348,8 @@ Aftalelovens § 25 – erstatning til tredjemand (fortsat):
 * **U1:** Erstatning kan ikke komme på tale, hvis tredjemand vidste eller burde vide, at fuldmægtigen ikke havde den fornødne fuldmagt.
 
 * **U2:** Erstatning kan ikke komme på tale, hvis fuldmægtigen indgår aftaler, og ikke ved at fuldmagten i mellemtiden er blevet tilbagekaldt.
+
+---
 
 Fuldmægtigen indestår for, at han har den fornødne fuldmagt til at foretage den retshandel, han foretager (f.eks. afgivelse af tilbud eller accept af et banklån). 
 
@@ -391,6 +407,7 @@ Hvis den opgivne fuldmagtgiver er kommet under konkurs, følger det af det anfø
 
 
 Kim er ansat i firmaet Fix og Hjem i Odense. Han blev ansat som salgsassistent den 1. januar 2013. 
+
 Han er meget dygtig og meget omhyggelig med sit arbejde og bliver efterhånden meget vellidt af kunderne - både de lokale håndværkere og de private kunder. 
 
 Den 1. januar 2014 bliver Kim forfremmet til butikschef for afdelingen i Odense.
@@ -445,5 +462,13 @@ Sanne spørger Kim om at få ferie i den uge. Kim bliver helt ude af den, da det
 2.	Hvilke muligheder har Fix og Hjem for at opsige Karina? Sygdom er jo lovligt forfald, men er de utilfredse med hende, bør hun have skriftlig advarsel, og hvis forholdene ikke forbedres, kan hun afskediges senere. Hvis hun afskediges nu, er hun formentligt berettiget til funktionærlovens § 2b-godtgørelse + 3 mdrs. opsigelsesvarsel. 
 <br>
 
-3.	Har Sanne krav på at holde ferie så hun kan komme til Paris? Det kommer an på, hvornår hun spørger om at få fri. Ferien ligger jo i hovedferien og det skal normalt varsles af medarbejderen med mindst 3 ugers varsel (som jeg husker det) og gør hun det, har hun krav på at komme afsted. I øvrigt dårlig stil at nægte hende at tage af sted pga. travlhed, da det jo egt. ikke er hendes problem. 
+3.	Har Sanne krav på at holde ferie så hun kan komme til Paris? Det kommer an på, hvornår hun spørger om at få fri. Ferien ligger jo i hovedferien og det skal normalt varsles af medarbejderen med mindst 3 ugers varsel (som jeg husker det) og gør hun det, har hun krav på at komme afsted. I øvrigt dårlig stil at nægte hende at tage af sted pga. travlhed, da det jo egt. ikke er hendes problem.
+
+---
+
+**Video: Sådan laver du selv en Fuldmagt**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/oeIre44pjQU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
 ---

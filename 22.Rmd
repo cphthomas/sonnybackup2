@@ -1,12 +1,16 @@
 
-# God skik for den finansielle virksomhed og erstatningsansvaret  
+# <font color="red">God skik for den finansielle virksomhed og erstatningsansvaret<sup> Premium </font></sup>
 
-## God skik for finansielle virksomheder
+  
 
-## Lov om finansiel virksomhed § 43
+## <font color="red">God skik for finansielle virksomheder<sup> Premium </font></sup>
 
 
-Efter lovbestemmelsen i § 43 i lov om finansiel virksomhed^[Lovbekendtgørelse nr. 1140 af 26. september 2017 om finansiel virksomhed.] (FIL), så skal finansiel virksomhed drives i overensstemmelse med redelig forretningsskik og god praksis inden for virksomhedsområdet^[Følgende afsnit om god skik for finansielle virksomheder bygger på Sonny Kristoffersen: Introduktion til forsikringsreglerne, 2019, Hans Reitzels Forslag.].  
+
+**Lov om finansiel virksomhed § 43**
+
+
+Efter lovbestemmelsen i § 43 i lov om finansiel virksomhed^[Lovbekendtgørelse nr. 1140 af 26. september 2017 om finansiel virksomhed.] (FIL), så skal finansiel virksomhed drives i overensstemmelse med redelig forretningsskik og god praksis inden for virksomhedsområdet^[Følgende afsnit om god skik for finansielle virksomheder bygger på *Sonny Kristoffersen*: Introduktion til forsikringsreglerne, 2019, Hans Reitzels Forslag.].  
 
 Finanstilsynet kan tage sager vedrørende overholdelsen af god skik og de udstedte bekendtgørelser for god skik for finansielle virksomheder op af egen drift. 
 
@@ -30,7 +34,9 @@ Forbrugerombudsmanden kan således håndhæve markedsføringslovens strafbelagte
 
 Markedsføringslovens bestemmelser i § 3 om god markedsføringsskik, i § 4 om god erhvervsskik, § 9 om former for handelspraksis og § 14 om oplysningsforpligtelser vedrørende priser mv. er ikke gældende for finansielle virksomheder, i det omfang, der af erhvervsministeren er udstedt særlige regler herom.  
 
-God skik-reglerne er såkaldte offentligretlige regler. En overtrædelse af reglerne om god skik indebærer således ikke uden videre, at den konkrete aftale mellem finansiel virksomhed og kunden er ugyldig eller uvirksom. 
+God skik-reglerne er såkaldte offentligretlige regler. 
+
+En overtrædelse af reglerne om god skik indebærer således ikke uden videre, at den konkrete aftale mellem finansiel virksomhed og kunden er ugyldig eller uvirksom. 
 
 Manglende overholdelse vil dog kunne have en afsmittende virkning på visse civilretlige forhold. 
 
@@ -47,6 +53,12 @@ Efter godskik-bekendtgørelsens §§ 3-4 skal en finansiel virksomhed handle red
 En finansiel virksomhed, som et forsikringsselskab, må ikke anvende vildledende eller urigtige angivelser eller udelade væsentlige informationer, hvis dette er egnet til mærkbart at forvride kundernes økonomiske adfærd på markedet.   
 
 Markedsføring, som i sit indhold, sin form eller den anvendte fremgangsmåde er vildledende, aggressiv eller udsætter kunderne for en utilbørlig påvirkning, og som er egnet til mærkbart at forvride deres økonomiske adfærd, er ikke tilladt. 
+
+---
+
+![](img/ICC.jpg)
+
+---
 
 Rigtigheden af angivelser om faktiske forhold skal kunne dokumenteres. De former for adfærd, der er opregnet i godskik-bekendtgørelsens bilag 1, anses under alle omstændigheder for at være urimelige i private kundeforhold, og er ikke tilladt:  
 
@@ -205,10 +217,13 @@ I godskik-bekendtgørelsens kapitel 5 er fastsat nærmere særlige regler for pe
 Efter godskik-bekendtgørelsens § 15 kan et pengeinstitut ikke uden en individuel og saglig begrundelse nægte at oprette en basal indlånskonto til en privatkunde. 
 
 Begrundelsen skal på anmodning gives i papirformat eller på andet varigt medium.
+
 En basal indlånskonto skal som minimum omfatte følgende funktioner:  
 
 *	Mulighed for at indsætte og hæve kontanter.
+
 *	Mulighed for at gennemføre betalingstransaktioner med et debetkort med saldokontrol.
+
 *	Mulighed for indgående kredittransaktioner.
 
 Hvis indsættelse og hævning af kontanter, gennemføres ved personlig henvendelse i pengeinstituttets forretningslokale kan instituttet begrænse antallet af ekspeditioner til én om ugen.  
@@ -220,6 +235,7 @@ Gebyret reguleres én gang årligt pr. 10. januar efter udviklingen i Danmarks S
 Et pengeinstitut må ikke knytte et progressivt fordelsprogram til besiddelse af aktier i pengeinstituttet, indskud af garantkapital eller indskud af andelskapital, jf. godskik-bekendtgørelsens § 16.  
 
 Såfremt besiddelse af aktier, indskud af garantkapital eller indskud af andelskapital gøres til et krav for at opnå kundefordele, må pengeinstituttet maksimalt stille krav om en aktiebesiddelse med en kursværdi på 30.000 kr. eller et indskud af garantkapital på 30.000 kr. på tidspunktet for kundens indtræden i fordelsprogrammet.  
+
 
 #### Finanstilsynets fortolkning af begrebet god skik i forhold til pengeinstitutter
 
@@ -280,7 +296,7 @@ Investeringsforvaltningsselskabet skal endvidere give oplysninger om den seneste
 
 *Afgørelse af 27. november 2006: Et fondsmæglerselskab handlede i strid med redelig forretningsskik og god praksis, da selskabet udsendte markedsføringsmateriale om salg af svenske præmieobligationer, som efter en samlet vurdering måtte betegnes som uigennemskueligt og egnet til at bibringe forbrugere en fejlagtig opfattelse af, at de er særligt udvalgt til at vinde en milliongevinst.*  
 
-*Afgørelse af 7. januar 2005: Markedsføringen af en hedgeforening var i strid med reglerne om god skik, idet oplysning i salgsbrochuren om, at investorerne når som helst kunne gå ind og ud af foreningen, var urigtig og vildledende.  
+*Afgørelse af 7. januar 2005: Markedsføringen af en hedgeforening var i strid med reglerne om god skik, idet oplysning i salgsbrochuren om, at investorerne når som helst kunne gå ind og ud af foreningen, var urigtig og vildledende.*  
 
 *Afgørelse af 1. april 2004: Ikke i strid med reglerne om god skik, at et fondsmæglerselskab lader kunderne indgå en aftale om, at tvister skal afgøres ved voldgift, såfremt kunden får oplysninger om, at en eventuel klage kan indbringes for Klagenævnet for Fondsmæglerselskaber.*  
 
@@ -406,6 +422,7 @@ Efter forsikringsbekendtgørelsens § 15, skal et forsikringsselskab i god tid i
 6) Hvilken form for aflønning dets ansatte modtager i forbindelse med forsikringsaftalen.
 
 Uanset om der ydes rådgivning, og uanset om forsikringsproduktet er en del af en pakke, jf. forsikringsbekendtgørelsens § 23, skal forsikringsdistributøren inden aftalens indgåelse give kunden de relevante oplysninger om forsikringsproduktet i en form, som er forståelig og tilpasset forsikringsproduktets kompleksitet og den enkelte kundetype, så kunden kan træffe en informeret beslutning, jf. forsikringsbekendtgørelsens § 16, stk. 1.  
+---
 
 Efter forsikringsbekendtgørelsens § 16, stk. 2, skal dokumentet med oplysninger om forsikringsproduktet opfylde følgende:  
 
@@ -443,6 +460,8 @@ Dokumentet med oplysninger om forsikringsproduktet skal indeholde følgende oply
 
 9) Betingelserne for opsigelse af aftalen.
 
+---
+
 #### Regler om indgåelse og fornyelse af forsikringsaftaler
 
 Kapitel 7 i forsikringsbekendtgørelsen indeholder regler om indgåelse og fornyelse af forsikringsaftaler:  
@@ -455,7 +474,9 @@ Er der i forbindelse med aftalens indgåelse ydet rådgivning, skal væsentlige 
 
 Vilkår, der indgår i aftalen, kan fremgå ved en henvisning til separate dokumenter, herunder forsikringsdistributørens almindelige forretningsbetingelser.  
 
-Efter forsikringsbekendtgørelsens § 19, skal et forsikringsselskab senest 30 dage inden forsikringsperiodens udløb varsle enhver væsentlig ændring af forsikringsaftalen, der er til ugunst for forbrugeren. Varslet skal meddeles på papir eller på andet varigt medium.  
+Efter forsikringsbekendtgørelsens § 19, skal et forsikringsselskab senest 30 dage inden forsikringsperiodens udløb varsle enhver væsentlig ændring af forsikringsaftalen, der er til ugunst for forbrugeren. 
+
+Varslet skal meddeles på papir eller på andet varigt medium.  
 
 Varslet skal indeholde oplysning om de væsentligste karakteristika ved ændringen samt angive, hvordan forbrugeren kan opsige forsikringen.  
 
@@ -498,6 +519,7 @@ I pensionsordninger omfattet af pensionsbeskatningslovens afsnit I skal den uafh
 Den uafhængige forsikringsformidler skal samtidig oplyse forsikringsdistributøren om længden af den periode, hvori kunden og den uafhængige forsikringsformidler har aftalt, at honoraret skal indregnes i forsikringspræmien. 
 
 Perioden må ikke overstige tre år. Forsikringsdistributøren skal indregne dette honorar i forsikringspræmien og betale honoraret til den uafhængige forsikringsformidler, jf. forsikringsbekendtgørelsens § 27.   
+
 
 #### Forsikringsformidlerens aftalevilkår for samarbejdet med kunden
 
@@ -620,9 +642,12 @@ Hvis en forsikringsformidler eller et forsikringsselskab har underrettet kunden 
 
 
 #### Finanstilsynets fortolkning af begrebet god skik i forhold til forsikringsselskaber
+
 Når Finanstilsynet træffer en afgørelse om, at en finansiel virksomhed har overtrådt reglerne om god skik på virksomhedsområdet, vil Finanstilsynet pålægge finansiel virksomhed at berigtige forholdet. 
 
 Dette indebærer, at finansiel virksomhed tilkendegiver over for Finanstilsynet snarest muligt at ændre den kritisable handlemåde, og at finansiel virksomhed indretter fremtidig praksis i overensstemmelse med Finanstilsynets afgørelse, jf. Lov om finansiel virksomhed § 348, stk. 2. Undladelse heraf er sanktioneret med bøde, jf. Lov om finansiel virksomhed § 373, stk. 3. 
+
+---
 
 **Fra Finanstilsynets praksis om forsikrings- og pensionsselskaber kan nævnes følgende afgørelser:** 
 
@@ -652,7 +677,7 @@ Dette indebærer, at finansiel virksomhed tilkendegiver over for Finanstilsynet 
 
 *Se afgørelse af Pensionskunder skal altid have korrekt og saglig information Pensionskunder, der ønsker at skifte selskab, må ikke udsættes for vildledende information fra det selskab, de ønsker at forlade. Det understreger Finanstilsynet på baggrund af en konkret sag.*  
 
-
+---
 
 ### God skik ved boligkredit
 
@@ -664,62 +689,104 @@ Den finansielle virksomhed er omfattet af boligkreditbekendtgørelsens regler, h
 
 Boligkreditbekendtgørelsen gælder ved markedsføring og alle indgåelser af boligkreditaftaler.  
 
-Boligkreditbekendtgørelsen regulerer detaljeret hvilke oplysninger, forbrugeren skal have i forbindelse med markedsføring og indgåelse af en boligkreditaftale. Det er fx fordele og ulemper i forhold til kundens situation, årlige omkostninger i procent, opsigelses- og indfrielsesvilkår, omkostninger ved omlægning og førtidig indfrielse, evt. forskelle i renter, bidrag eller andet vederlag mv. Desuden regulerer boligkreditbekendtgørelsen, hvilken rådgivning der skal ydes i forbindelse med indgåelse af aftalen.  
+Boligkreditbekendtgørelsen regulerer detaljeret hvilke oplysninger, forbrugeren skal have i forbindelse med markedsføring og indgåelse af en boligkreditaftale. 
 
-Boligkreditbekendtgørelsen definerer endvidere standardforudsætninger, som skal anvendes som repræsentativt eksempel. Ligeledes skal kunden kunne godkendes til at optage et 30-årigt lån med fast rente uden afdragsfrihed, før et lån med variabel rente og/eller afdragsfrihed kan tilbydes.  
+Det er fx fordele og ulemper i forhold til kundens situation, årlige omkostninger i procent, opsigelses- og indfrielsesvilkår, omkostninger ved omlægning og førtidig indfrielse, evt. forskelle i renter, bidrag eller andet vederlag mv. 
+
+Desuden regulerer boligkreditbekendtgørelsen, hvilken rådgivning der skal ydes i forbindelse med indgåelse af aftalen.  
+
+Boligkreditbekendtgørelsen definerer endvidere standardforudsætninger, som skal anvendes som repræsentativt eksempel. 
+
+Ligeledes skal kunden kunne godkendes til at optage et 30-årigt lån med fast rente uden afdragsfrihed, før et lån med variabel rente og/eller afdragsfrihed kan tilbydes.  
 
 I bilag 1, 2 og 3 til boligkreditbekendtgørelsen kan man finde tjeklister for hhv.  
 
 1.	Former for adfærd, som under alle omstændigheder anses for urimelige i private kundeforhold,
+
 2.	Dokumentation for rådgivning om en boligkreditaftale
+
 3.	Standardforudsætninger  
 
+
 #### Rådgivningspligt ved boligkredit
+
 Efter boligkreditbekendtgørelsens § 17, skal en boligkreditgiver eller boligkreditformidler inden indgåelse af en boligkreditaftale udtrykkeligt meddele låntageren, hvorvidt der ydes eller kan ydes rådgivning til låntageren.
+
 En boligkreditgiver eller boligkreditformidler skal inden ydelsen af rådgivning eller i givet fald inden indgåelsen af en aftale om ydelse af rådgivning på varigt medium give låntageren følgende oplysninger:  
+
 1.	hvorvidt rådgivningen udelukkende ydes på grundlag af eget produktudvalg i overensstemmelse med boligkreditbekendtgørelsens § 17, stk. 4, nr. 2, eller på grundlag af andre produkter på markedet i overensstemmelse med boligkreditbekendtgørelsens § 17, stk. 5, så låntageren kan forstå grundlaget for anbefalingen, og
+
 2.	størrelsen på det gebyr, låntageren eventuelt skal betale for rådgivningen eller, hvis beløbet ikke kan fastlægges på meddelelsestidspunktet, den anvendte metode til beregningen heraf.  
 
-Oplysningerne kan gives til låntageren i form af yderligere oplysninger forud for aftaleindgåelsen.  
+Oplysningerne kan gives til låntageren i form af yderligere oplysninger forud for aftaleindgåelsen. 
+
+---
 
 En boligkreditgiver eller boligkreditformidler, der yder rådgivning, skal:  
 
-1.	Indhente de nødvendige oplysninger om låntagerens personlige og finansielle situation samt låntagerens præferencer og målsætninger for således at kunne anbefale egnede boligkreditaftaler. Sådanne overvejelser baseres på oplysninger, der er aktuelle på det pågældende tidspunkt, og tager højde for rimelige antagelser med hensyn til risici for låntagerens situation i den foreslåede boligkreditaftales løbetid.  
+1.	Indhente de nødvendige oplysninger om låntagerens personlige og finansielle situation samt låntagerens præferencer og målsætninger for således at kunne anbefale egnede boligkreditaftaler. 
+
+Sådanne overvejelser baseres på oplysninger, der er aktuelle på det pågældende tidspunkt, og tager højde for rimelige antagelser med hensyn til risici for låntagerens situation i den foreslåede boligkreditaftales løbetid. 
+
 2.	Tage et tilstrækkeligt stort antal boligkreditaftaler i deres produktudvalg i betragtning og anbefale den eller de bedst egnede kreditaftaler blandt deres produktudvalg i forhold til låntagernes behov, finansielle situation og personlige forhold.  
 
-En ikke-bunden boligkreditformidler skal tage et tilstrækkeligt stort antal boligkreditaftaler på markedet i betragtning og anbefale den eller de egnede boligkreditaftaler på markedet i forhold til låntagernes behov, finansielle situation og personlige forhold.  
+En ikke-bunden boligkreditformidler skal tage et tilstrækkeligt stort antal boligkreditaftaler på markedet i betragtning og anbefale den eller de egnede boligkreditaftaler på markedet i forhold til låntagernes behov, finansielle situation og personlige forhold. 
+
+---
 
 En boligkreditgiver eller boligkreditformidler skal handle i låntagerens interesse ved at: 
 
-1.	holde sig underrettet om låntagerens behov og forhold,  
+1.	holde sig underrettet om låntagerens behov og forhold,
+
 2.	anbefale egnede boligkreditaftaler i overensstemmelse med boligkreditbekendtgørelsens § 17, stk. 4-5, og  
+
 3.	forsyne låntageren med en kopi af den fremsatte anbefaling på papir eller andet varigt medium.  
 
-#### Vejledningspligt ved boligkredit  
+---
+
+#### Vejledningspligt ved boligkredit 
+
 Den finansielle virksomhed har en vejledningspligt efter boligkreditbekendtgørelsens § 16 overfor en kunde, som vil optage et boliglån. Efter boligkreditbekendtgørelsens § 16 skal en boligkreditgiver eller boligkreditformidler skal give låntageren vejledning om den foreslåede boligkreditaftale samt om eventuelle accessoriske tjenesteydelser, sådan at låntageren kan vurdere, om det foreslåede produkt passer til dennes behov og finansielle situation.  
 
-En boligkreditgiver eller boligkreditformidler skal, hvis låntageren kan få råderet over udstedte realkreditobligationer og selv forestå salget heraf, oplyse låntageren herom, og vejlede om risici forbundet hermed.  
+En boligkreditgiver eller boligkreditformidler skal, hvis låntageren kan få råderet over udstedte realkreditobligationer og selv forestå salget heraf, oplyse låntageren herom, og vejlede om risici forbundet hermed. 
+
+---
 
 Vejledningen i stk. 1 skal blandt andet indeholde:  
 
 1.	oplysningerne som følger af kreditaftalelovens § 7 a for så vidt angår boligkreditgivere og kreditaftalelovens § 7 a og denne bekendtgørelses § 12 for så vidt angår boligkreditformidlere,
+
 2.	de væsentlige karakteristika ved det foreslåede produkt,
+
 3.	de specifikke konsekvenser, som det foreslåede produkt kan have for låntageren, herunder betydningen af låntagerens betalingsmisligholdelse, og
+
 4.	oplysning om hvorvidt hver komponent kan afvikles separat og konsekvenserne herved for låntageren, hvis accessoriske tjenesteydelser indgår i en pakke med kreditaftalen.  
 
+---
 
 Vejledningen består således i at bringe et boliglånsprodukt i forslag, som passer på kundens behov og finansielle situation. Der må ikke give en personlig anbefaling.  
 
 
-Der er et krav om skriftlighed i boligkreditbekendtgørelsens § 10, hvorefter væsentlige aftaler bekræftes skriftligt: ”En boligkreditgiver eller boligkreditformidler skal indgå eller bekræfte alle væsentlige aftaler med låntagere i papirformat eller på andet varigt medium. En aftale skal indeholde en beskrivelse af parternes væsentlige rettigheder og pligter samt af de finansielle ydelser, der er omfattet af aftalen”  
+Der er et krav om skriftlighed i boligkreditbekendtgørelsens § 10, hvorefter væsentlige aftaler bekræftes skriftligt: 
 
-Krav om vurdering af kundens kreditværdighed, se boligkreditbekendtgørelsens §§ 18 og 19: En boligkreditgiver skal før indgåelse af en boligkreditaftale foretage en grundig vurdering af låntagerens kreditværdighed, og heri inddrage de relevante oplysninger for at fastslå sandsynligheden for, at låntageren har vilje og evne til at opfylde sine forpligtelser i henhold til boligkreditaftalen. En boligkreditgiver må alene indgå en boligkreditaftale med en låntager, hvis resultatet af kreditværdighedsvurderingen sandsynliggør at låntageren kan overholde boligkreditaftalen.  
+”En boligkreditgiver eller boligkreditformidler skal indgå eller bekræfte alle væsentlige aftaler med låntagere i papirformat eller på andet varigt medium. En aftale skal indeholde en beskrivelse af parternes væsentlige rettigheder og pligter samt af de finansielle ydelser, der er omfattet af aftalen”  
 
-Vurderingen af kreditværdighed foretages på grundlag af oplysninger om låntagerens indtægter og udgifter og andre finansielle og økonomiske forhold, der er nødvendige, tilstrækkelige og forholdsmæssigt afpassede. Oplysninger skal indhentes fra relevante kilder, herunder fra låntageren. Boligkreditgiveren gør låntageren opmærksom på, at retsvirkningen af utilstrækkelige oplysninger, som indebærer, at kreditværdighedsvurderingen ikke kan foretages, er, at boligkreditten ikke kan bevilges. Kreditværdighedsvurderingen må ikke basere sig alene på værdien af en fast ejendom.  
+Krav om vurdering af kundens kreditværdighed, se boligkreditbekendtgørelsens §§ 18 og 19: 
+
+En boligkreditgiver skal før indgåelse af en boligkreditaftale foretage en grundig vurdering af låntagerens kreditværdighed, og heri inddrage de relevante oplysninger for at fastslå sandsynligheden for, at låntageren har vilje og evne til at opfylde sine forpligtelser i henhold til boligkreditaftalen. 
+
+En boligkreditgiver må alene indgå en boligkreditaftale med en låntager, hvis resultatet af kreditværdighedsvurderingen sandsynliggør at låntageren kan overholde boligkreditaftalen.  
+
+Vurderingen af kreditværdighed foretages på grundlag af oplysninger om låntagerens indtægter og udgifter og andre finansielle og økonomiske forhold, der er nødvendige, tilstrækkelige og forholdsmæssigt afpassede. 
+
+Oplysninger skal indhentes fra relevante kilder, herunder fra låntageren. Boligkreditgiveren gør låntageren opmærksom på, at retsvirkningen af utilstrækkelige oplysninger, som indebærer, at kreditværdighedsvurderingen ikke kan foretages, er, at boligkreditten ikke kan bevilges.
+
+Kreditværdighedsvurderingen må ikke basere sig alene på værdien af en fast ejendom.  
 
 En boligkreditgiver skal forud for indgåelse af boligkreditaftalen underrette låntageren, hvis der i forbindelse med kreditværdighedsvurderingen vil blive foretaget søgning i en database, jf. boligkreditbekendtgørelsens § 22, stk. 1, 2. pkt.  
 
-Krav til budget/rådighedsbeløb og til passende udbetaling ved boligkøb, se boligkreditbekendtgørelsens § 20, stk. 1: § 20
+Krav til budget/rådighedsbeløb og til passende udbetaling ved boligkøb, se boligkreditbekendtgørelsens § 20, stk. 1: § 20.
+
 En boligkreditgiver må som udgangspunkt kun tilbyde boligkreditaftaler med pant i fast ejendom med variabel rente til låntagere, der har en økonomi, som efter boligkreditgiverens vurdering medfører, at låntageren kan godkendes til at optage et 30-årigt lån med fast rente uden afdragsfrihed. 1. pkt. finder tilsvarende anvendelse på lån med afdragsfrihed.  
 
 #### Afgørelse fra Finanstilsynet om boligkredit  
@@ -747,7 +814,9 @@ Se Finanstilsynets afgørelse om påtale for manglende overholde af regler om ko
 
 
 
-## Investorbeskyttelse ved handel med værdipapirer 
+## <font color="red">Investorbeskyttelse ved handel med værdipapirer<sup> Premium </font></sup>
+
+
 
  
 
@@ -758,13 +827,20 @@ En kort bagrund for reglerne om investorbeskyttelse ved værdipapirhandel:
 
 
 *	Uheldige rådgivningssager
+
 *	MIFID (2), som er nye EU-regler, som skaber:
+
 *	Højere investorbeskyttelse, mere gennemsigtighed og fælles spilleregler på tværs af grænserne
+
 *	Nye bekendtgørelsesregler for investeringsrådgivning
+
 *	Større krav til hvordan der rådgives om investeringer
 
 
-MiFID (the Markets in Financial Instruments Directive) er et EU-direktiv, som regulerer handel med værdipapirer på tværs af landegrænserne. EU-direktivet har bl.a. til formål at øge gennemsigtigheden for de forskellige investeringsprodukter, sikre en højere beskyttelse af investorer samt standardisere reglerne for god rådgivning. Reglerne er implementeret i hele EU.  
+**MiFID (the Markets in Financial Instruments Directive)** er et EU-direktiv, som regulerer handel med værdipapirer på tværs af landegrænserne. EU-direktivet har bl.a. til formål at øge gennemsigtigheden for de forskellige investeringsprodukter, sikre en højere beskyttelse af investorer samt standardisere reglerne for god rådgivning. 
+
+Reglerne er implementeret i hele EU. 
+
 ”Bekendtgørelse om investorbeskyttelse ved værdipapirhandel” (”investorbekendtgørelsen”) gennemfører EU-direktivet i Danmark.  
  
 
@@ -773,7 +849,9 @@ MiFID (the Markets in Financial Instruments Directive) er et EU-direktiv, som re
 En kort oversigt over god skik og informationskrav til værdipapirhandleren:  
 
 * Værdipapirhandleren skal handle ærligt, redeligt og professionelt og i sine kunders bedste interesse. Det følger af generalklausulen i investorbekendtgørelsens § 3.
+
 * Al kommunikation med kunderne skal være tydelig, ikke- vildledende og forståelig. Informationen skal kunne forstås af en almindelig forbruger.
+
 * Information om investeringsprodukter/investeringsstrategi, skal have særlig fokus på risici og ikke kun fokusere på mulighed for gevinst.
 
 
@@ -871,37 +949,46 @@ scroll_box(width = "100%")
 
 
 ### Oplysningspligten for værdipapirhandleren
+
 En værdipapirhandler skal give kunden relevante oplysninger om værdipapirhandleren og dennes tjenesteydelser. 
+
 Når en værdipapirhandler yder investeringsrådgivning, skal værdipapirhandleren i god tid inden rådgivningen oplyse kunden om følgende efter investorbekendtgørelsens § 6:   
 
-”En værdipapirhandler skal give kunden relevante oplysninger om værdipapirhandleren og dennes tjenesteydelser.  
+**”En værdipapirhandler skal give kunden relevante oplysninger om værdipapirhandleren og dennes tjenesteydelser.**  
 
-Stk. 2. Når en værdipapirhandler yder investeringsrådgivning, skal værdipapirhandleren i god tid inden rådgivningen oplyse kunden om følgende:  
+**Stk. 2. Når en værdipapirhandler yder investeringsrådgivning, skal værdipapirhandleren i god tid inden rådgivningen oplyse kunden om følgende:**  
 
-Om rådgivningen ydes på et uafhængigt grundlag eller ej, jf. § 2, nr. 4, i bekendtgørelse om tredjepartsbetalinger m.v.
-Om rådgivningen er baseret på en generel eller på en mere begrænset analyse af forskellige typer finansielle instrumenter, herunder om udvalget er begrænset til finansielle instrumenter, der udstedes eller leveres af juridiske enheder, der har nære forbindelser til værdipapirhandleren eller andre juridiske eller økonomiske forbindelser, der kan svække det uafhængige grundlag for rådgivningen.  
+**Om rådgivningen ydes på et uafhængigt grundlag eller ej, jf. § 2, nr. 4, i bekendtgørelse om tredjepartsbetalinger m.v.**
 
-Om værdipapirhandleren periodisk vil vurdere egnetheden af de finansielle instrumenter, som kunden er blevet anbefalet.
-Stk. 3. En værdipapirhandler skal i god tid inden en aftale indgås oplyse kunden om de finansielle instrumenter og de investeringsstrategier, som værdipapirhandleren tilbyder, herunder:  
+**Om rådgivningen er baseret på en generel eller på en mere begrænset analyse af forskellige typer finansielle instrumenter, herunder om udvalget er begrænset til finansielle instrumenter, der udstedes eller leveres af juridiske enheder, der har nære forbindelser til værdipapirhandleren eller andre juridiske eller økonomiske forbindelser, der kan svække det uafhængige grundlag for rådgivningen.**  
 
-1.	give relevant vejledning og advarsler om de risici, der er forbundet med investering i de pågældende finansielle instrumenter og særlige investeringsstrategier, og  
-2.	oplyse om det finansielle instrument er målrettet detailkunder eller professionelle kunder, jf. § 4 i bekendtgørelse om produktgodkendelsesprocedurer.  
+**Om værdipapirhandleren periodisk vil vurdere egnetheden af de finansielle instrumenter, som kunden er blevet anbefalet.**
 
-Stk. 4. Oplysningerne i stk. 1-3 skal gives på en forståelig måde, der sætter kunder i stand til at forstå tjenesteydelsens og den specifikke type finansielle instruments art og risici. Oplysningerne kan gives på en standardiseret måde”.  
+**Stk. 3. En værdipapirhandler skal i god tid inden en aftale indgås oplyse kunden om de finansielle instrumenter og de investeringsstrategier, som værdipapirhandleren tilbyder, herunder:**  
 
+**1.	give relevant vejledning og advarsler om de risici, der er forbundet med investering i de pågældende finansielle instrumenter og særlige investeringsstrategier, og**  
+
+**2.	oplyse om det finansielle instrument er målrettet detailkunder eller professionelle kunder, jf. § 4 i bekendtgørelse om produktgodkendelsesprocedurer.**  
+
+**Stk. 4. Oplysningerne i stk. 1-3 skal gives på en forståelig måde, der sætter kunder i stand til at forstå tjenesteydelsens og den specifikke type finansielle instruments art og risici. Oplysningerne kan gives på en standardiseret måde”.**  
+
+---
 
 Se følgende afgørelse som har været forelagt Det Finansielle Råd. Finanstilsynets beslutning af 23. oktober 2013:
+
 Finanstilsynet har efter forelæggelse for Det Finansielle Råd politianmeldt Danske Andelskassers Bank for i mindst 12 tilfælde at have lånefinansieret kunders køb af bankens aktier.  
+
 Det er forbudt for et pengeinstitut at yde lån til køb af aktier i pengeinstituttet.  
+
 Finanstilsynet har i forbindelse med en undersøgelse i banken – blandt andet på baggrund af henvendelser fra kunder og omtale i presse – fundet en række sammenfald mellem kunders køb af aktier og ydelse af lån.
+
 I minimum 12 tilfælde er det Finanstilsynets vurdering, at banken har lånefinansieret kunders køb af DAB-aktier. Banken har overfor Finanstilsynet tilkendegivet, at man enten er enig i tilsynets vurdering, eller at man ikke kan afvise, at der er tale om overtrædelser af lånefinanisieringsforbuddet.  
+
 Danske Andelskassers Bank foretog i juni 2011 en aktieemission som led i en fusion mellem Sammenslutningen af Danske Andelskasser, Omdannelsesselskabet DAB A/S /SDA Bank A/S og Danske Andelskassers Bank og gennemførte i den forbindelse en omfattende markedsføringskampagne af aktien overfor primært eksisterende kunder og andelshavere.  
 
+---
+
 ### ”Kend din kunde-princippet”
-
-
-
- 
 
 
 
@@ -912,7 +999,9 @@ Danske Andelskassers Bank foretog i juni 2011 en aktieemission som led i en fusi
 Investeringskunder skal efter investorbekendtgørelsens § 4 samt dennes bilag opdeles i følgende 3 kategorier:
 
 *	Godkendte modparter (andre finansielle virksomheder fx pensionsinstitut)
+
 *	Professionelle kunder (større virksomheder)
+
 *	Detailkunder (resten – dvs. de fleste kunder – både virksomheder og privatpersoner)
 
  
@@ -921,14 +1010,15 @@ Investeringskunder skal efter investorbekendtgørelsens § 4 samt dennes bilag o
 
 Det følger af investorbekendtgørelsens § 10, at når en værdipapirhandler yder investeringsrådgivning eller porteføljepleje, skal værdipapirhandleren indhente de nødvendige oplysninger om en kundes:  
 
-Kendskab til og erfaring på det investeringsområde, som er relevant for det specifikke type produkt eller tjenesteydelse,
-finansielle situation, herunder kundens evne til at bære tab, og investeringsformål, herunder kundens risikovillighed.  
+Kendskab til og erfaring på det investeringsområde, som er relevant for det specifikke type produkt eller tjenesteydelse, finansielle situation, herunder kundens evne til at bære tab, og investeringsformål, herunder kundens risikovillighed.  
 
 Når en værdipapirhandler yder investeringsrådgivning og porteføljepleje skal værdipapirhandleren, med udgangspunkt i de i § 10, stk. 1 nævnte oplysninger, anbefale kunden den tjenesteydelse og de finansielle instrumenter, der egner sig for kunden og som er i overensstemmelse med vedkommendes risikovillighed og evne til at bære et tab.  
 
 Når en værdipapirhandler yder investeringsrådgivning, som munder ud i en anbefaling om krydssalg, skal værdipapirhandleren sikre, at den samlede pakke af tjenesteydelser eller produkter er egnet for kunden.  
 
-Det følger af investorbekendtgørelsens § 11, at når en værdipapirhandler udøver investeringsrådgivning til en detailkunde, skal værdipapirhandleren, inden transaktionen foretages, udarbejde en erklæring om egnethed, hvoraf det fremgår, hvilken type investeringsrådgivning der er ydet, og hvordan denne rådgivning stemmer overens med kundens præferencer, mål og andre karakteristika. Erklæringen skal gives på et varigt medium.  
+Det følger af investorbekendtgørelsens § 11, at når en værdipapirhandler udøver investeringsrådgivning til en detailkunde, skal værdipapirhandleren, inden transaktionen foretages, udarbejde en erklæring om egnethed, hvoraf det fremgår, hvilken type investeringsrådgivning der er ydet, og hvordan denne rådgivning stemmer overens med kundens præferencer, mål og andre karakteristika. 
+
+Erklæringen skal gives på et varigt medium.  
 
 Når en aftale om at købe eller sælge et finansielt instrument indgås ved hjælp af fjernkommunikation, som forhindrer en forudgående afgivelse af en erklæring om egnethed, kan værdipapirhandleren afgive den skriftlige erklæring om egnethed på et varigt medium umiddelbart efter, at kunden er bundet af en aftale, forudsat at følgende betingelser er opfyldt:  
 
@@ -937,7 +1027,9 @@ Investeringsselskabet har givet kunden mulighed for at udskyde transaktionen for
 
 **Hensigtsmæssighedstest:**    
 
-Når en værdipapirhandler udfører eller formidler ordrer for en detailkunde uden at yde investeringsrådgivning eller porteføljepleje, skal værdipapirhandleren udbede sig oplysninger fra kunden om dennes kendskab til og erfaring på det investeringsområde, som er relevant for den type produkt eller tjenesteydelse, der udbydes eller efterspørges, jf. investorbekendtgørelsens. § 12.  På baggrund af oplysningerne skal værdipapirhandleren vurdere, om det påtænkte produkt eller den påtænkte tjenesteydelse er hensigtsmæssig for kunden, jf. dog investorbekendtgørelsens § 13.  
+Når en værdipapirhandler udfører eller formidler ordrer for en detailkunde uden at yde investeringsrådgivning eller porteføljepleje, skal værdipapirhandleren udbede sig oplysninger fra kunden om dennes kendskab til og erfaring på det investeringsområde, som er relevant for den type produkt eller tjenesteydelse, der udbydes eller efterspørges, jf. investorbekendtgørelsens. § 12.  
+
+På baggrund af oplysningerne skal værdipapirhandleren vurdere, om det påtænkte produkt eller den påtænkte tjenesteydelse er hensigtsmæssig for kunden, jf. dog investorbekendtgørelsens § 13.  
 
 Ved krydssalg, jf. investorbekendtgørelsens § 7, skal værdipapirhandleren vurdere den samlede hensigtsmæssighed for kunden af de tjenesteydelser eller produkter, der indgår i pakken.  
 
@@ -946,6 +1038,7 @@ Finder værdipapirhandleren på grundlag af de oplysninger, som er modtaget i me
 Hvis kunden giver utilstrækkelige oplysninger om sit kendskab og sine erfaringer, jf. investorbekendtgørelsens § 12, stk. 1, skal kunden gøres udtrykkeligt opmærksom på, at værdipapirhandleren på grund af den mangelfulde information ikke kan afgøre, om produktet eller tjenesteydelsen er hensigtsmæssig for vedkommende.  
 
 Informationen i investorbekendtgørelsens § 12 kan gives på en standardiseret måde.  
+
 
 **Udelukkende ordreudførelse (»execution only«)**    
 
@@ -957,7 +1050,9 @@ Aktier, der er optaget til handel på et reguleret marked eller i en multilatera
 
 **Tjenesteydelsen skal ydes på kundens initiativ:**
 
-Kunden er underrettet om, at værdipapirhandleren ikke har pligt til at vurdere det leverede eller tilbudte instruments eller den ydede eller tilbudte tjenesteydelses hensigtsmæssighed, og at kunden derfor ikke nyder godt af beskyttelsen efter reglerne i § 12. Denne information kan gives på en standardiseret måde.  
+Kunden er underrettet om, at værdipapirhandleren ikke har pligt til at vurdere det leverede eller tilbudte instruments eller den ydede eller tilbudte tjenesteydelses hensigtsmæssighed, og at kunden derfor ikke nyder godt af beskyttelsen efter reglerne i § 12. 
+
+Denne information kan gives på en standardiseret måde.  
 
 Værdipapirhandleren opfylder forpligtelserne i § 72, stk. 2, nr. 2, i lov om finansiel virksomhed, samt bekendtgørelser udstedt i medfør af § 72, stk. 5, i lov om finansiel virksomhed.  
  
@@ -965,47 +1060,62 @@ Værdipapirhandleren opfylder forpligtelserne i § 72, stk. 2, nr. 2, i lov om f
  
 
 
-
-
-  
-
-
-
 ### Typer af investeringsservice
 
-* **Investeringsrådgivning**  
+* **Investeringsrådgivning** 
+
   +	Anbefaling rettet til en kunde personligt om transaktioner i specifikke finansielle instrumenter og baseret på kundens individuelle forhold
   +	*Medfører pligt til at udarbejde investeringsprofil og udføre en egnethedstest*
+  
 *	Porteføljepleje
+
   +	Fuldmagt til at foretage investeringer på kundens vegne
   +	Medfører pligt til at udarbejde investeringsprofil og udføre en egnethedstest
 *	Udførelse/formidling af ordrer for detailkunder
   +	Værdipapirhandel uden personlig investeringsrådgivning
   +	*Medfører pligt til at udarbejde investeringsprofil og udføre en hensigtsmæssighedstest*
+  
 *	Execution only transaktioner for detailkunder
-  +	En undtagelse til ”udførelse og formidling af ordre”. Kan kun anvendes hvis følgende er opfyldt: a) Ikke komplekse værdipapirer b) Kunden tager selv initiativ til at investere c) Kunden oplyses om, at hensigtsmæssighedstest ikke udføres d) Værdipapirhandler opfylder interessekonfliktregler.
+
+  +	En undtagelse til ”udførelse og formidling af ordre”. Kan kun anvendes hvis følgende er opfyldt: 
+  
+  a) Ikke komplekse værdipapirer 
+  b) Kunden tager selv initiativ til at investere 
+  c) Kunden oplyses om, at hensigtsmæssighedstest ikke udføres 
+  d) Værdipapirhandler opfylder interessekonfliktregler.
+  
   +	*Der skal ikke fastlægges en investeringsprofil eller udføres test*
   
 ### Værdipapirhandleres udførelse af ordrer
-Der opstilles krav til gennemførelse af værdipapirhandlerne. Det kaldes for ”Best Execution” (bedste udførelse af ordrer)
-Der er krav om, at en værdipapirhandler skal etablere og anvende effektive forretningsgange og systemer til at overholde sin best executionforpligtelse, herunder opstille og anvende en ordreudførelsespolitik. Ordreudførelsespolitikken skal indeholde oplysninger om vægtning af faktorer, handelssteder mv. En værdipapirhandler skal indhente sine kunders forudgående samtykke til ordreudførelsespolitikken.  
+
+Der opstilles krav til gennemførelse af værdipapirhandlerne. Det kaldes for ”Best Execution” (bedste udførelse af ordrer).
+
+Der er krav om, at en værdipapirhandler skal etablere og anvende effektive forretningsgange og systemer til at overholde sin best executionforpligtelse, herunder opstille og anvende en ordreudførelsespolitik.
+
+Ordreudførelsespolitikken skal indeholde oplysninger om vægtning af faktorer, handelssteder mv. 
+
+En værdipapirhandler skal indhente sine kunders forudgående samtykke til ordreudførelsespolitikken.  
 
 Hvad indebærer nærmere best execution-forpligtelsen?  
 
 *	Værdipapirhandler skal træffe alle rimelige foranstaltninger for at opnå det efter omstændighederne bedst mulige resultat i overensstemmelse med ordreudførelsespolitikken
+
 *	Værdipapirhandler skal blandt andet ved valg af handelssted inddrage følgende faktorer:
+
   +	Pris
   +	Omkostninger
   +	Hurtighed
   +	Gennemførelses- og afregningssandsynlighed
+  
 *	Værdipapirhandler skal lægge vægt på følgende kriterier:
+
   +	Kundens karakteristika, herunder detail- eller professionel kunde
   +	Kundeordrens karakteristika
   +	De finansielle instrumenters karakteristika
   +	Handelsstedernes karakteristika
 
 
-
+---
 
 ### Afgørelser fra Finanstilsynet vedrørende investorbekendtgørelsen
 
@@ -1015,7 +1125,10 @@ Hvad indebærer nærmere best execution-forpligtelsen?
 Formuepleje A/S Fondsmæglerselskab har fået en påtale af Finanstilsynet for en bestemt form for markedsføring, som Finanstilsynet finder vildledende.  
 Finanstilsynet modtog i april 2009 en klage over Formuepleje A/S Fondsmæglerselskabs markedsføring af aktier i investeringsselskab, herunder Formuepleje A/S Fondsmæglerselskabs annonce med ordlyden:  
 "Få 8 % udbytte på investering i danske obligationer".  
-Finanstilsynet finder efter en samlet vurdering, at Formuepleje A/S Fondsmæglerselskabs markedsføring af investeringsproduktet har været i strid med § 8 i bekendtgørelse nr. 809 af 29. juni 2007 om investorbeskyttelse ved værdipapirhandel. Finanstilsynet vurderer, at markedsføringsmaterialet ikke giver investorerne et afbalanceret indtryk af potentielle afkast og tab. Finanstilsynet lægger i vurderingen vægt på, at Formuepleje A/S Fondsmæglerselskab ikke kan garantere et årligt udbytte på 8 %. Dette bør derfor oplyses i umiddelbar forlængelse heraf i annoncer og salgsbrochure. Ligeledes burde det i salgsmaterialet have været fremhævet, at der er tale om en gearet investering, hvor investorerne kan risikere, at miste hele det beløb de investerer”.  
+
+Finanstilsynet finder efter en samlet vurdering, at Formuepleje A/S Fondsmæglerselskabs markedsføring af investeringsproduktet har været i strid med § 8 i bekendtgørelse nr. 809 af 29. juni 2007 om investorbeskyttelse ved værdipapirhandel. Finanstilsynet vurderer, at markedsføringsmaterialet ikke giver investorerne et afbalanceret indtryk af potentielle afkast og tab. Finanstilsynet lægger i vurderingen vægt på, at Formuepleje A/S Fondsmæglerselskab ikke kan garantere et årligt udbytte på 8 %. Dette bør derfor oplyses i umiddelbar forlængelse heraf i annoncer og salgsbrochure. Ligeledes burde det i salgsmaterialet have været fremhævet, at der er tale om en gearet investering, hvor investorerne kan risikere, at miste hele det beløb de investerer”. 
+
+
 
 **Finanstilsynets afgørelse af 26. september 2008: Bekendtgørelse om investorbeskyttelse ved værdipapirhandel (dagældende) § 8 - Østjydsk Bank A/S får påtale for vildledende markedsføring:**  
 
@@ -1051,7 +1164,7 @@ Det følger af § 7, stk. 2 i investorbeskyttelsesbekendtgørelsen, at en bank k
 Finanstilsynet vurderede, at Saxo Bank A/S sumariske oplysninger om henvisningshonoraret også skal opfatte en angivelse af størrelsen på præmieringen, så kunderne kan få et rimeligt indtryk af niveauet for præmieringen og, der med i hvilken grad denne virker incitamentsskabende for banken og /eller Blue Screen Media”.  
 
 
-
+---
 
 
 ### Bekendtgørelse om risikomærkning af investeringsprodukter
@@ -1243,7 +1356,9 @@ Med tre års mellemrum skal den ansatte bestå en ny prøve, der dokumenterer, a
 
 
 
-## Erstatningsansvaret for fejlagtig rådgivning
+## <font color="red">Erstatningsansvaret for fejlagtig rådgivning<sup> Premium </font></sup>
+
+
 
 En professionel rådgiver kan pådrage sig et professionsansvar – inden for alle finansielle brancher. 
 
@@ -1284,14 +1399,19 @@ Der er ingen erstatning for skuffede forventninger i den finansielle branche fx:
 
 Men hvis fx bankrådgiveren har garanteret et bestemt rådighedsbeløb, vil bankkunden have lidt et økonomisk tab  
 
+...
+
 Ejendomsmægler kan være ansvarlig for skuffede forventninger, således at der kan rejses et godtgørelseskrav over for ejendomsmægleren, uagtet der ikke er lidt noget økonomisk tab, jf. Lov nr. 526 28. maj 2014 om formidling af fast ejendom m.v se § 47:  
 
 *”Er der til skade for forbrugeren foretaget en forkert beregning af provenu ved salg, jf. § 38, stk. 3, og er forbrugeren i god tro, har forbrugeren krav på godtgørelse af forskellen mellem den forkerte og den korrekte beregning. Er der til skade for forbrugeren foretaget en forkert beregning af ejerudgift ved køb, jf. § 39, stk. 1, og er forbrugeren i god tro, har forbrugeren krav på en rimelig godtgørelse af forskellen mellem den forkerte og den korrekte beregning. Har forbrugeren i god tro handlet i tillid til rigtigheden af en værdiansættelse, og afviger denne væsentligt fra en korrekt værdiansættelse, har forbrugeren krav på en rimelig godtgørelse af forskellen.”*  
 
 *FED1996.1322: Ejendomsmægler ikke ansvarlig for sælgers skuffede forventninger til salgsbudget, i hvilket mægleren havde lagt en forkert indfrielseskurs på et pantebrev til grund. Ejendomsmægleren blev frakendt salæret.*
 
+---
 
-## Professionsansvaret
+## <font color="red">Professionsansvaret<sup> Premium </font></sup>
+
+
 
 Professionsansvar, ansvar for skader, der er forvoldt af personer med særlig faglig uddannelse, fx håndværkere, advokater, ejendomsmæglere, revisorer, ingeniører og læger. 
 
@@ -1327,7 +1447,7 @@ Det vil næppe i sig selv kunne medføre erstatningsansvar, hvis overtrædelsen 
 
 Det beror på en konkret vurdering hos domstolene eller ved de finansielle ankenævn, om en overtrædelse af reglerne i god skik bekendtgørelserne medfører erstatningsansvar.  
 
-
+---
 
 
 

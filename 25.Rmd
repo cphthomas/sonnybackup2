@@ -1,7 +1,7 @@
 
 # Forsikring, pension og ankenævn  
 
----
+
 
 ***Som studerende skal du være særlig være opmærksom på følgende ved gennemgangen af forsikring:***
 
@@ -9,10 +9,18 @@
 <img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
+
+
 •	**Urigtige oplysninger ved aftalens indgåelse, FAL § 4-6**
 
 •	**Forsætlig eller uagtsom fremkaldelse af forsikringsbegivenheden, FAL § 18-20** 
-•	**Underforsikring, FAL § 40**
+
+•	**Underforsikring, FAL § 40**  
+
+
+
+<br>
+
 
 ---
 
@@ -25,6 +33,7 @@
 *	Pensionsbeskatningsloven (PBL)  
 *	Pensionsopsparingsloven (POL)  
 
+
 ---
 
 *Video: Forstå forsikring på 3 minutter*
@@ -33,19 +42,21 @@
 
 ---
 
-*Video: Birgitte sælger forsikringer*
+**Video: Birgitte sælger forsikringer**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/C5MKa1y1r8I" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-*Video: Bliv skadesbehandler I forsikringsselskab*
+**Video: Bliv skadesbehandler I forsikringsselskab**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/j-qLQu7qECw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
 ## Indgåelse af en forsikringsaftale
+
+
 
 
 Forsikringsaftalen omfatter enhver aftale, som indgås mellem på den ene side en forsikringsgiver (forsikringsselskabet) og på den anden side for sikringstageren.  
@@ -60,23 +71,29 @@ En forsikringsaftale er normalt en standardkontrakt og vil blive fortolket imod 
 
 Om indgåelse af en forsikringsaftale gælder aftalelovens almindelige regler.
 
+---
+
 Se nævnspraksis i Forsikringsankenævnet:
 
 *Sagsnr.: 83897. Klager over afvisning af dækning for feriekompensation. Klager anmeldte, at hun var blevet syg under en ferierejse i Guadeloupe, der var et oversøisk fransk departement. Selskabet henviste til, at Guadeloupe ikke var omfattet af forsikringens geografiske dækningsområde, EU/EØS. Selskabet henviste til policen og påpegede bl.a., at forsikringen alene dækkede i de lande, der var omtalt i forsikringens definition af EU/EØS. Nævnet fandt, at policen og forsikringsbetingelserne var udformet på en sådan måde, at forsikringstageren ikke kunne få et klart og entydigt svar på, hvilke geografiske områder, der var dækket. Nævnet bemærkede, at opstod der tvivl om forståelsen af en aftale, og havde det pågældende aftalevilkår ikke været genstand for individuel forhandling, fortolkedes vilkåret på den måde, som var mest gunstig for forbrugeren, jf. aftalelovens § 38 b. Da Guadeloupe var en del af Frankrig, var selskabet ikke berettiget til at afvise at yde forsikringsdækning. Klager medhold.*  
 
 *U 1990.426 Ø: En bils bagagerum bag bagsædet var dækket af et vandret siddende gardin, som løftedes, når bagklappen åbnedes. Der skete tyveri fra bagagerummet. Bilens døre havde været låst. Ifølge vilkårene dækkede forsikring, hvis det stjålne lå i »låst bagagerum og ikke var synligt udefra«. Antaget, at vilkårenes ordlyd ikke med tilstrækkelig klarhed angav, at der – som påstået af forsikringsselskabet – skulle være adskillelse mellem bilens kabine og bagagerummet på en sådan måde, at adgang til bagagerummet fra kabinen alene var mulig ved voldelig opbrydning. Forsikringsvilkårene var derfor opfyldt. Ifølge lov om forsikringsvirksomhed kan forsikring kun drives i selskabsform, og kun selskaber, som har opnået koncession, dvs. tilladelse, fra Finanstilsynet til at drive forsikringsvirksomhed, kan indgå forsikringsaftaler. Forsikringsaftaler er endvidere – med få undtagelser, eksempelvis arbejdsskadeforsikring – omfattet af forsikringsaftaleloven, der indeholder en række ufravigelige bestemmelser, der har til formål at beskytte forsikringstagerne mod urimelige aftalevilkår.*  
  
+---
 
 Ved en forbrugerforsikring forstås en forsikringsaftale, hvor forsikringstageren (forbrugeren) ved aftalens indgåelse hovedsagelig handler uden for sit erhverv.  
 
- 
+---
 
-*Video: Unge og Forsikringer | Gode råd om forsikringer*
+**Video: Unge og Forsikringer | Gode råd om forsikringer**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/sixGZPICtew" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
  
- 
+---
+
 ### Bevisbyrderegler
+
+
 
 Forsikringsselskabet har bevisbyrden for, at en forsikringsaftale ikke er en forbrugerforsikring. Dette er svarende til, hvad der gælder efter bl.a. aftaleloven, købeloven og forbrugeraftaleloven.  
 
@@ -111,25 +128,37 @@ Ved livsforsikring dog kaldet den »den begunstigede«.
 
 Det vil – medmindre andet er aftalt – være forsikringstageren, der får forsikringen udbetalt. 
 
-Ofte er forsikringstager og forsikrede samme person.  
+Ofte er forsikringstager og forsikrede samme person. 
+
 
 ### Har man pligt til at tegne forsikring?
+
 Der er en lovbestemt pligt til at tegne forsikringer inden for en række retsområder. 
 
 Der er forsikringspligt indenfor bl.a. arbejdsskadeloven, færdselsloven, hundeloven og jagtloven.
 
+---
+
 Se domspraksis om en sag vedrørende jagtansvarsforsikringen:
 
-*Forsikrings- og Erstatningsretlig Domsamling; (herefter FED), jf. FED 2012.14: Jagt blev afbrudt og deltagerne kørte et andet sted hen for at spise frokost. Efter frokost ville jægerne A og B justere A's riffel, men ved et uheld blev A dræbt, da B utilsigtet affyrede riflen. Den lovpligtige jagtansvarsforsikring, F1, afviste at dække skaden med henvisning til, at denne forsikring kun dækker under „jagt eller i umiddelbar forbindelse med jagtens påbegyndelse eller afslutning“. B's almindelige ansvarsforsikring, F2, dækkede skaden, men gjorde regres over for F1 og gjorde bl.a. gældende, at vådeskudsulykken skete i en for jagten naturlig tilknyttet situation, hvor der blev håndteret jagtvåben. Landsretten fandt ikke, at ulykken var sket under jagt, eller at den havde haft en sådan tæt tidsmæssig og stedlig tilknytning til jagt, at ulykken kunne anses som sket i umiddelbart forbindelse med jagtens påbegyndelse eller afslutning. F1 blev derfor frifundet.*  
+*Forsikrings- og Erstatningsretlig Domsamling; (herefter FED), jf. FED 2012.14: Jagt blev afbrudt og deltagerne kørte et andet sted hen for at spise frokost. Efter frokost ville jægerne A og B justere A's riffel, men ved et uheld blev A dræbt, da B utilsigtet affyrede riflen. Den lovpligtige jagtansvarsforsikring, F1, afviste at dække skaden med henvisning til, at denne forsikring kun dækker under „jagt eller i umiddelbar forbindelse med jagtens påbegyndelse eller afslutning“. B's almindelige ansvarsforsikring, F2, dækkede skaden, men gjorde regres over for F1 og gjorde bl.a. gældende, at vådeskudsulykken skete i en for jagten naturlig tilknyttet situation, hvor der blev håndteret jagtvåben. Landsretten fandt ikke, at ulykken var sket under jagt, eller at den havde haft en sådan tæt tidsmæssig og stedlig tilknytning til jagt, at ulykken kunne anses som sket i umiddelbart forbindelse med jagtens påbegyndelse eller afslutning. F1 blev derfor frifundet.* 
+
+---
 
 *Video: Kan alle få almindelige forsikringer?*
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/asAt_30Pd_o" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
+---
 
-## Forsikring og pension<sup><font color="red"> Premium </font></sup>
+
+## <font color="red">Forsikring og pension<sup> Premium </font></sup>
+
+
+
 
 **Hvordan ansøger man om en forsikring?**
+
 
 Det sker via et skema kaldet en „forsikringsbegæring“, hvor man giver forsikringsselskabet de oplysninger, som danner grundlag for forsikringens art, størrelse, risiko og antagelsesvilkår. 
 
@@ -161,7 +190,10 @@ Begrundelsen i FAL § 3 b skal indeholde en henvisning til de relevante retsregl
 
 Begrundelsen skal efter anmodning være skriftlig.  
 
-### Rettigheder og forpligtelser i forsikringsretten
+
+### <font color="red">Rettigheder og forpligtelser i forsikringsretten<sup> Premium </font></sup>
+
+
 
 Hvis man graver længere ind i forsikringsretten kommer det tydeligt frem, hvilke rettigheder og forpligelser forsikringstageren og hhv. Forsikringsselskabet har efter forsikringsaftaleloven (FAL):
 
@@ -288,7 +320,9 @@ Det følger af FAL § 7, at forsikringstagerens undladelse af at give oplysning 
 
 *Se Højesteretsdom H.D. af 17. maj 2002. Sag: I 220/2001: Nyfødt barn var omfattet af forældrenes ulykkesforsikring. Forsikringsselskabet skulle imidlertid ikke dække sygdom i form af blindhed, idet forældrene under de konkrete omstændigheder burde have underrettet selskabet om sygdommen, før forsikringen blev antaget, jf. FAL  § 7.*  
 
-### Police og forsikringsbetingelserne
+### <font color="red">Police og forsikringsbetingelserne<sup> Premium </font></sup>
+
+
 
 Forsikringstageren police er et forsikringsdokument, der indeholder de generelle og specielle vilkår for en indgået forsikringsaftale. 
 
@@ -1068,7 +1102,10 @@ Det kan anbefales, at du tilmelder dig Finanstilsynets nyhedsbreve!
 
 Der følger nu nogle udvalgte forsikringstyper:
 
-### Ansvarsforsikring
+### <font color="red">Ansvarsforsikring<sup> Premium </font></sup>
+
+
+
 
 Følgende betragtninger og oplysninger om det private ansvar, husejeransvaret, ansvaret for ens hund, skader på arbejdet samt skader ved udøvelse af sportsaktiviteter bygger hovedsageligt på Forsikringsankenævnets oplysninger i ankenævnets ”klageguide” samt Forsikringsankenævnets praksis, herunder på retspraksis, samt viden fra Forsikringsoplysningen.
 
@@ -1400,21 +1437,29 @@ Sådanne skader dækkes ikke, og man skal således købe en autoansvarsforsikrin
 </a>
 
 
-### Pensionsforsikringer
+### <font color="red">Pensionsforsikringer<sup> Premium </font></sup>
 
+
+---
 
 **Video: Hvad indeholder min pensionsordning?** 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/Vcf8Ckorb5s" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
 
 **Video: Pension forklaret så man faktisk fatter det**
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/W6i8F73jeRE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
+---
+
 **Video: Pensionsopsparing‐ Skal jeg vælge Livrente som en del af min pension?** 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/vdSRTFzuhjo" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
  
 #### Det danske pensionssystem består af tre dele  
 
@@ -1485,6 +1530,8 @@ Nogle forsikringsselskaber kræver, at ens erhvervsevne ikke må være nedsat me
 
 Det vil være en konkret vurdering, om ens erhvervsevne allerede på optagelsestidspunktet er nedsat i en sådan grad, at man ikke kan få dækning ved erhvervsevnetab. 
 
+---
+
 Se eksempelvis Forsikringsankenævnets sag 85493 (erhvervsevnetabet var indtrådt forud for optagelsen i en ny pensionsordning), 
 
 *Sagsnr.: 73915 (ikke grundlag for at fastslå, at erhvervsevnen var nedsat ved indtræden i ordningen),* 
@@ -1519,7 +1566,9 @@ På den baggrund vurderer forsikringsselskabet, hvor meget man vil være i stand
 
 Det kan fremgå af forsikringsbetingelserne, at offentlige ydelser mv. skal medregnes, når selskabet vurderer, hvad man er i stand til at tjene.  
 
-Denne skønnede indtjening sammenholdes herefter med, hvad raske personer på samme alder og med samme uddannelsesmæssige baggrund typisk tjener i det område, hvor man bor (sammenlignelige personer). Skønnes det, at  man  kun   vil  kunne  tjene  mindre  end  en  tredjedel  af, hvad sammenlignelige personer typisk tjener, er ens erhvervsevnetab 2/3. Skønnes det, at man kan tjene mindre end halvdelen af, hvad sammenlignelige personer typisk tjener, er ens erhvervsevnetab 1/2.  
+Denne skønnede indtjening sammenholdes herefter med, hvad raske personer på samme alder og med samme uddannelsesmæssige baggrund typisk tjener i det område, hvor man bor (sammenlignelige personer). 
+
+Skønnes det, at  man  kun   vil  kunne  tjene  mindre  end  en  tredjedel  af, hvad sammenlignelige personer typisk tjener, er ens erhvervsevnetab 2/3. Skønnes det, at man kan tjene mindre end halvdelen af, hvad sammenlignelige personer typisk tjener, er ens erhvervsevnetab 1/2.  
 
 En særlig form for erhvervsevnetabsforsikring består i, at det alene vurderes, om man er i stand til at varetage sit hidtidige (eller nært beslægtede) erhverv, og hvad man er i stand til at tjene ved at arbejde (på nedsat tid) i sådanne erhverv. 
 
@@ -1529,9 +1578,9 @@ Dette kaldes en vurdering af ens faginvaliditet. Man kan kun kræve at blive vur
 
 Nogle forsikringer kan give ret til, at man i en periode – eksempelvis 3 år – vurderes ud fra *faginvaliditet*. 
 
-Se eksempelvis Forsikringsankenævnssager sagsnr.: 86821 (revisorassistent, ordning med dækning ved faginvaliditet) og 
+*Se eksempelvis Forsikringsankenævnssager sagsnr.: 86821 (revisorassistent, ordning med dækning ved faginvaliditet)* og 
 
-Sagsnr.: 78427 (tandlæge, ordning med dækning ved faginvaliditet):  
+*Sagsnr.: 78427 (tandlæge, ordning med dækning ved faginvaliditet)*:  
 
 *Sagsnr.:  86821:  Klager over afvisning af helbredsbetingede ydelser.  Klager, født i 1975, og arbejdede op til sin sygemelding som revisorassistent. Hun var sygemeldt på grund af piskesmæld. Forsikringen indeholdt en form for faginvaliditetsdækning. Der var ikke oplysninger om, at klager havde været arbejdsprøvet. Selskabet lagde til grund, at den indtægt, der udgjorde sammenligningsgrundlaget i henhold til forsikringsbetingelserne, var 28.800 kr.  månedligt.  Klager oplyste, at hun forsøgte at arbejde som revisorassistent 2-3 timer hver anden dag, hvorefter hun oplevede forværring af symptomer. Nævnet fandt, at klager ikke inden for sit fagområde var i stand til at tjene ca. halvdelen af sin tidligere indkomst. I forhold til generel erhvervsevne fandt nævnet, at klager ikke havde bevist, at hun kunne tjene mindst 14.400 kr. om måneden med relevante skånehensyn. Klager delvis medhold.*  
 
@@ -1650,13 +1699,15 @@ Det forhold, at man bevilges fleksjob med eksempelvis 10 timer om ugen, medføre
 
 Det skyldes, at forsikringsselskabet foretager en konkret og selvstændig vurdering af forsikringstagerens erhvervsevne. 
 
-Se f.eks. klagesagerne fra Forsikringsankenævnet i sagsnr.: 86746 (8 timers fleksjob, erhvervsevne var ikke nedsat med 2/3), 
+---
 
-Sagsnr.: 85017 (10 timers fleksjob, erhvervsevne nedsat med mindst 1/2), 
+*Se f.eks. klagesagerne fra Forsikringsankenævnet i sagsnr.: 86746 (8 timers fleksjob, erhvervsevne var ikke nedsat med 2/3)*, 
 
-Sagsnr.: 87666 (12 timers fleksjob, erhvervsevne ikke nedsat med mindst 1/2) og 
+*Sagsnr.: 85017 (10 timers fleksjob, erhvervsevne nedsat med mindst 1/2)*, 
 
-Sagsnr.: 86639 (12 timers fleksjob, erhvervsevne var nedsat med 2/3), 
+*Sagsnr.: 87666 (12 timers fleksjob, erhvervsevne ikke nedsat med mindst 1/2)* og 
+
+*Sagsnr.: 86639 (12 timers fleksjob, erhvervsevne var nedsat med 2/3)*, 
 
 *Sagsnr.: 86746: Klager over afslag på dækning ved tab af erhvervsevne. Klager, der blev født i 1965 og var kontoruddannet, var involveret i et trafikuheld, hvor hun som passager i en bil blev påkørt bagfra med ca. 40 km/t. Hun havde efterfølgende gener i form af hovedpine, koncentrationsbesvær og svimmelhed. Efter kommunale praktikforløb blev hun godkendt til fleksjob, med 12-15 timer ugentligt. Pr. 1/1 2014 blev hun ansat i fleksjob med 8 timer ugentligt på sin tidligere arbejdsplads. Med henvisning til bl.a. begrænsede objektive fund ved lægelige undersøgelser samt klagers sociale forhold afviste selskabet at yde dækning. Efter en gennemgang af sagen fandt nævnet ikke grundlag for at kritisere selskabets afgørelse. Selskab medhold.*
 
@@ -1678,11 +1729,13 @@ Således vil kommunen ud over ens helbred også lægge vægt på bl.a. ens socia
 
 Derfor kan man ikke konkludere, at man har ret til dækning for tab af erhvervsevne, fordi man er blevet tilkendt førtidspension. 
 
-Se eksempelvis klagesagerne i Forsikringsankenævnet i sagsnr.: 85836 (bevilget førtidspension, men ikke ret til forsikringsdækning), 
+---
 
-Sagsnr.: 84499 (bevilget førtidspension, erhvervsevne nedsat med 1/2) og 
+*Se eksempelvis klagesagerne i Forsikringsankenævnet i sagsnr.: 85836 (bevilget førtidspension, men ikke ret til forsikringsdækning)*, 
 
-Sagsnr.: 85876 (bevilget førtidspension og erhvervsevne nedsat med 2/3),  
+*Sagsnr.: 84499 (bevilget førtidspension, erhvervsevne nedsat med 1/2)* og 
+
+*Sagsnr.: 85876 (bevilget førtidspension og erhvervsevne nedsat med 2/3)*,  
 
 *Sagsnr.: 85836: Klager over, at selskabet afviste dækning ved tab af erhvervsevne. Klager, født i 1959 og ufaglært, blev sygemeldt den 9/1 2009 grundet en knæoperation og smerter i ryggen. Den 10/1 2009 blev hun afskediget pga. nedskæringer. Hun var i virksomhedspraktikker i en kantine og som pædagogmedhjælper, hvor hun arbejdede mellem 15 og 20 timer ugentligt. Ved et højere timeantal blev smerterne forværret. Hun blev tilkendt førtidspension pr. 1/7 2012. Selskabet afviste, at klagers erhvervsevne var nedsat i dækningsberettigende grad, og henviste bl.a. til de foretagne arbejdsprøvninger og de lægelige oplysninger. Nævnet fandt det ikke dokumenteret, at klagers erhvervsevne var nedsat i dækningsberettigende grad. Selskab medhold.*
 
@@ -1690,7 +1743,7 @@ Sagsnr.: 85876 (bevilget førtidspension og erhvervsevne nedsat med 2/3),
 
 *Sagsnr.: 85876: Klager over afslag på dækning ved tab af erhvervsevne. Selskabet anførte, at klagers generelle erhvervsevne ikke var nedsat med mindst 2/3 efter den 1/3 2010. Klager, der var født i 1961 og arbejdede som kommunal dagplejer, blev i maj 2008 sygemeldt grundet smerter i bevægeapparatet og blev i 2009 diagnosticeret med fibromyalgi i svær grad. Efter et længere arbejdsprøvningsforløb blev klager tilkendt førtidspension fra 1/4 2013. Nævnet fandt det efter en samlet bedømmelse sandsynliggjort, at klagers erhvervsevne var nedsat med mindst 2/3 efter den 1/4 2013. Klager medhold.*  
 
-Højesteret har i en dom i Ugeskrift for Retsvæsen U 2011.2223 H taget stilling til, at det er forsikringstageren, der skal bevise, at hans (generelle) erhvervsevne er nedsat, og at det forhold, at der var tilkendt fleksjob med 2/3 tilskud, ikke i sig selv gav en formodning for, at der forelå en nedsættelse af erhvervsevnen: 
+*Højesteret har i en dom i Ugeskrift for Retsvæsen U 2011.2223 H taget stilling til, at det er forsikringstageren, der skal bevise, at hans (generelle) erhvervsevne er nedsat, og at det forhold, at der var tilkendt fleksjob med 2/3 tilskud, ikke i sig selv gav en formodning for, at der forelå en nedsættelse af erhvervsevnen*: 
 
 *U 2011.2223 H: A, der var landmand, var i 2000 udsat for en arbejdsulykke, hvorved han pådrog sig en skulderlidelse, og pådrog sig i 2002 sygdom ved udslæt. Han fik herudover en række symptomer i form af bl.a. smerter, træthed, hjertebanken mv., der ikke kunne påvises ved objektive fund. Fra 2004 var A i fleksjobbeskæftigelse med 2/3 løntilskud. A havde ifølge forsikringspolicen med Alm. Brand Liv og Pension ret til invaliderente, hvis han på grund af sygdom eller ulykke mistede 2/3 af sin erhvervsevne, og nedsættelse af erhvervsevnen forelå ifølge policen, »når den forsikrede ikke længere skønnes at være i stand til . . . at tjene mere end 1/3 af, hvad der i samme egn er sædvanligt for fuldt arbejdsdygtige personer med lignende uddannelse og alder«. Højesteret udtalte, at A havde bevisbyrden for, at hans generelle erhvervsevne var nedsat til 1/3 eller mindre som følge af ulykke eller sygdom, og bevillingen af fleksjob med 2/3 løntilskud skabte ikke i sig selv en formodning for en sådan nedsættelse af erhvervsevnen. Højesteret fandt, at A ikke havde godtgjort en nedsættelse af erhvervsevnen, der opfyldte betingelserne. Højesteret lagde vægt på, at Retslægerådet havde udtalt, at det ikke var muligt at angive mere præcist, i hvilket omfang A's funktionsniveau var nedsat, at skulderlidelsen begrænse de hans arbejdskapacitet som landmand med højst 30 %, og at han kunne arbejde på fuld tid, hvis han fik et lettere fysisk arbejde. Landsretten var nået til samme resultat.*  
 
@@ -1708,7 +1761,9 @@ I andre forsikringsbetingelser fremgår det alene, at ens erhvervsevne ikke må 
 
 I sidstnævnte tilfælde vil det være en konkret vurdering, om ens erhvervsevne må anses for at være tilstrækkeligt nedsat allerede ved optagelsestidspunktet. 
 
-Se f.eks. Forsikringsankenævnets sagsnr.: 85493 (erhvervsevnetabet var indtrådt forud for optagelsen i en ny pensionsordning):  
+---
+
+*Se f.eks. Forsikringsankenævnets sagsnr.: 85493 (erhvervsevnetabet var indtrådt forud for optagelsen i en ny pensionsordning)*:  
 
 *Sagsnr.: 85493: Klager over afvisning af at anerkende et erhvervsevnetab på 2/3, og at hun ikke blev anset for omfattet af nye forsikringsbetingelser. Klager pådrog sig en diskusprolaps i 2009 og blev opereret 3 gange i 2009 og 1 gang i 2011. Hun var sygemeldt frem til den 1/6 2012, hvor hun genoptog sit arbejde. Hun blev pr. 1/10 2013 tilkendt fleksjob med 12-14 timer/uge. Pr. 1/1 2013 fusionerede hendes selskab med AP Pension. Hun anførte, at hun ved fusionen blev omfattet af AP Pensions mere lempelige betingelser, og at selskabet derfor skulle yde fuld invalidepension og præmie fritagelse. Hun gjorde gældende, at hendes erhvervsevne var nedsat med 2/3. Selskabet afviste, at klager blev omfattet af de mere lempelige betingelser pr. 1/1 2013, da hendes erhvervsevne allerede var nedsat i dækningsberettigende grad fra den 1/2 2012, og at hun derfor ikke var fuldt arbejdsdygtig på fusionstidspunktet. Selskabet anførte også, at klagers erhvervsevne alene var nedsat med mellem 1/2 og 2/3. Nævnet fandt, at klagers erhvervsevnetab var indtrådt allerede i 2012, og at klagers sag derfor skulle vurderes efter de dagældende betingelser. Nævnet fandt, at klager ikke havde dokumenteret, at hendes erhvervsevne var nedsat med mindst 2/3. Selskab medhold.*
 
@@ -1729,13 +1784,13 @@ Om forsikringsselskabet må standse dækningen, afhænger af en konkret vurderin
 
 ---
 
-Se eksempelvis klagesagerne i Forsikringsankenævnet i sagsnr.: 86100 (ikke ret til fortsatte ydelser efter 9 år), 
+*Se eksempelvis klagesagerne i Forsikringsankenævnet i sagsnr.: 86100 (ikke ret til fortsatte ydelser efter 9 år)*, 
 
-Sagsnr.: 87050 (udbetalinger stoppet efter ca. 15 år), 
+*Sagsnr.: 87050 (udbetalinger stoppet efter ca. 15 år)*, 
 
-Sagsnr.: 87506 (ikke grundlag for at standse dækning) og 
+*Sagsnr.: 87506 (ikke grundlag for at standse dækning)* og 
 
-Sagsnr.: 84071 (ikke grundlag for at standse dækning),
+*Sagsnr.: 84071 (ikke grundlag for at standse dækning)*,
 
 *Sagsnr.: 86100: Klager over, at selskabet standsede udbetalinger og præmiefritagelse pr. 1/1 2013 efter 9 år. Klager anførte endvidere, at selskabet havde givet tilsagn om udbetalinger indtil 2034. Selskabet afviste fortsatte udbetalinger og præmiefritagelse med henvisning til, at klager ikke havde sandsynliggjort, at han ikke kunne tjene langt mere som procesteknolog/sælger, end hvad der var sædvanligt. Nævnet fandt, at selskabet ikke havde givet tilsagn om fortsatte udbetalinger og præmiefritagelse, ligesom nævnet fandt, at klagers indtægt oversteg halvdelen af, hvad fuldt arbejdsdygtige personer med tilsvarende uddannelse og alder ville være i stand til at oppebære. Selskab medhold.*
 
@@ -1766,9 +1821,13 @@ Hvis man afgiver urigtige oplysninger til forsikringsselskabet ved tegningen af 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/F6Yourieo0Q" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
-**Video: Pensionsopsparing ‐ Aldersopsparing er afløseren for kapitalpension
+---
+
+**Video: Pensionsopsparing ‐ Aldersopsparing er afløseren for kapitalpension**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/XlRPMMEtnOI" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
 
 **Video: Pensionsopsparing‐Hvad får du med en ratepension?** 
 
@@ -1777,7 +1836,11 @@ Hvis man afgiver urigtige oplysninger til forsikringsselskabet ved tegningen af 
 
 ---
 
-### Livsforsikringer
+
+
+### <font color="red">Livsforsikringer<sup> Premium </font></sup>
+
+
 
 Man kan tegne en livsforsikring, hvis man ønsker at sikre sine efterladte økonomisk. 
 

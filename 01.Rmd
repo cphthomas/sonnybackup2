@@ -66,7 +66,13 @@ indeks <<- data.frame(BEGREB,forklaring)
 
 ***E-bogens videoer og quizer er ikke at betragte som en del af pensum, men er et supplement til pensum for at fremme din yderligere forståelse for Erhvervs- og Finansjuraen***
 
+**Om konstaterede fejl og mangler, samt spørgsmål til e-bogens indhold kan henvendelse ske på følgende e-mail:**
 
+**sk@bkhlaw.dk**
+
+**De bedste hilsener**
+
+**Advokat Sonny Kristoffersen, Ph.D.**
 
 <!-- `r icon::fa("medal")`  -->
 
@@ -188,6 +194,7 @@ visNetwork(nodes, edges, width = "80%") %>%
 ``` 
 
 
+**Tremagtsdelingen:**
 
  
 *	Lovgivende magt: Folketinget
@@ -196,10 +203,20 @@ visNetwork(nodes, edges, width = "80%") %>%
 
 *	Udøvende magt: Regering/ministerier, forvaltningen, politiet m.fl.
 
+**Begrundelsen:**
+
 *	Gensidig kontrol
 
 *	Magtbalance  
 
+---
+
+**Video: Magtens tredeling | Hvorfor er magten delt i tre?**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/hp_DPXtkfa8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+---
 
 Bestemmelsen handler om magtens tredeling i den lovgivende, den udøvende og den dømmende magt. 
 
@@ -319,6 +336,16 @@ Ideer til nye love kommer primært fra regeringen, men kan også komme fra:
   
   
 Inden et lovforslag fremsættes i Folketingssalen, har det som regel været igennem en længere process i ministerierne.
+
+---
+
+**Video: Lovgivningsprocessen i praksis**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/xQ89AVrmL-I" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+
+---
 
 
 ## Folketingets kontrol med regeringen
@@ -1055,8 +1082,29 @@ Sammensætningen af Domstolsstyrelsens bestyrelse er fastsat i lov om Domstolsst
 
 **Video: historien om de danske domstole og retssystemet**
 
- <br>
 <div class="video-container"><iframe src="https://www.youtube.com/embed/uvpuD60uLdI" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
+
+**Video: Retsmægling - Da naboen fældede mit blommetræ**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/Kr4GwHuykj8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
+
+**Video: Retsmægling for virksomheder**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/JE83bKdqcpg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+
+---
+
+**Video: Når du skal i retten**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/z_GMbA99aKs" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
 
 ---
 

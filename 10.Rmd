@@ -1,8 +1,12 @@
 
 
-# Persondatabeskyttelse<sup><font color="red"> Premium </font></sup>
+# <font color="red">Databeskyttelse<sup> Premium </font></sup>
 
-## Hvad er databeskyttelse?
+
+
+
+
+## <font color="red">Hvad er databeskyttelse?<sup> Premium </font></sup>
 
 
 Enhver har ret til beskyttelse af sine personoplysninger, og enhver, der behandler personoplysninger om andre i ikke-privat sammenhæng, er forpligtet til at iagttage disse rettigheder og til at beskytte personoplysningerne. 
@@ -46,7 +50,9 @@ Gør den dataansvarlige ikke det - eller er du ikke tilfreds med den dataansvarl
 
 ---
 
-## Databeskyttelse ved behandling af personoplysninger
+## <font color="red">Databeskyttelse ved behandling af personoplysninger<sup> Premium </font></sup>
+
+
 
 ![](img/gdpr1.jpg)
 
@@ -87,7 +93,9 @@ Omvendt får den, der behandles oplysninger om (den registrerede) en række rett
  
 
 
-## Hvad er ”behandling” i persondataretten?
+## <font color="red">Hvad er ”behandling” i persondataretten?<sup> Premium </font></sup>
+
+
 
 
 
@@ -137,7 +145,9 @@ Behandlingsbegrebet skal forstås meget bredt og dækker over enhver form for h�
 * Videregivelse
  
 
-## Opdelingen af personoplysningerne
+## <font color="red">Opdelingen af personoplysningerne<sup> Premium </font></sup>
+
+
 
 *Databeskyttelsesforordningen opdeler personoplysninger i tre typer:*  
 
@@ -213,7 +223,9 @@ En anden måde at se de forskellige kategorier af personoplysninger på. Jo høj
 
 
 
-## Hvornår kan der ske behandling af ikke-følsomme oplysninger?
+## <font color="red">Hvornår kan der ske behandling af ikke-følsomme oplysninger?<sup> Premium </font></sup>
+
+
 
 Almindelige personoplysninger omfatter alle oplysninger, der ikke er klassificeret som særlige kategorier af oplysninger (følsomme personoplysninger). 
 
@@ -239,7 +251,9 @@ En virksomhed må kun behandle almindelige ikke- følsomme personoplysninger, hv
 
 ---
 
-## Hvornår kan der ske behandling af følsomme oplysninger?
+## <font color="red">Hvornår kan der ske behandling af følsomme oplysninger?<sup> Premium </font></sup>
+
+
  
 
 Særlige kategorier af personoplysninger (følsomme personoplysninger) følger af databeskyttelsesforordningens artikel 9, stk. 1. 
@@ -348,7 +362,9 @@ mydf %>%
 ---
 
 
-## Virksomhederne skal overholde god databehandlingsskik
+## <font color="red">Virksomhederne skal overholde god databehandlingsskik<sup> Premium </font></sup>
+
+
 
 **God databehandlingsskik** er en retlig standard, som udfyldes af Datatilsynet. 
 
@@ -364,13 +380,17 @@ God databehandlingsskik supplerer således navnlig databeskyttelseslovens regler
 * Ukorrekte oplysninger bør slettes eller rettes - også når der ikke længere er behov for dem i forhold til det definerede formål.
 
 
-## Virksomhederne har en oplysningspligt når de behandler personoplysninger
+## <font color="red">Virksomhederne har en oplysningspligt når de behandler personoplysninger<sup> Premium </font></sup>
+
+
 
 * Den registrerede skal kende virksomhedens identitet og skal vide, hvordan han eller hun kommer i kontakt med virksomheden.
 * Den registrerede oplyses om formålet med at behandle persondata og grundlaget (fx samtykke).
 
 
-## Nærmere om kravet til samtykke for, at der kan behandles personoplysninger
+## <font color="red">Nærmere om kravet til samtykke for, at der kan behandles personoplysninger<sup> Premium </font></sup>
+
+
 
 ---
 
@@ -423,7 +443,7 @@ Eksempel - En privat sportsforening beder sine medlemmer om samtykke til at tage
 
 Medlemmerne anses for at have et reelt og frit valg, så længe et nægtet samtykke ikke medfører negative konsekvenser (f.eks. ekskludering af foreningen).^[Jf. Datatilsynets og Justitsministeriets pjece om vejledning om Samtykke, november 2017, s. 4.] 
 
-Speak 23
+
 
 
 ![](img/datatilsynet.jpg)
@@ -457,7 +477,9 @@ Datatilsynet og Justitsministeriet har udarbejdet følgende nedenstående tjekli
 
 --- 
 
-## Hvad er den registreredes rettigheder?
+## <font color="red">Hvad er den registreredes rettigheder?<sup> Premium </font></sup>
+
+
  
 Når der behandles oplysninger om en person, kaldes personen *"den registrerede"*. 
 
@@ -488,7 +510,7 @@ Dette omfatter registreredes ret til indsigt i deres helbredsoplysninger, f.eks.
 ### Ret til berigtigelse 
 Den registrerede har ret til at få urigtige/forkerte personoplysninger om sig rettet. 
 
-Speak 23
+
 
 ### Ret til sletning eller "retten til at blive glemt"
 
@@ -502,7 +524,7 @@ Bestemmelsen gælder for enhver, men i præambelbetragtning nr. 65 fremhæves, a
 
 Det fremgår desuden, at den registrerede bør kunne udøve denne rettighed, uanset om vedkommende ikke længere er barn. 
 
-Speak 23
+
 
 ### Ret til begrænsning af behandling
   
@@ -516,7 +538,7 @@ c) Den dataansvarlige har ikke længere brug for personoplysningerne til en beha
 
 d) Den registrerede har gjort indsigelse mod din behandling. Den dataansvarlige skal begrænse behandlingen af oplysningerne i den periode, hvor det kontrolleres, om den dataansvarlige legitime interesser går forud for den registreredes legitime interesser.
 
-Speak23
+
 
 ### Ret til dataportabilitet 
 
@@ -533,25 +555,26 @@ Formålet med denne nye rettighed er at øge den registreredes kontrol over egne
 Retten til dataportabilitet finder ikke anvendelse på behandling, der er nødvendig for at udføre en opgave i samfundets interesse, eller som henhører under offentlig myndighedsudøvelse, som den dataansvarlige har fået pålagt, jf. databeskyttelsesforordningens artikel 20, stk. 3, 2. pkt.
 
 
-Speak 23
+
 
 ### Ret til indsigelse 
 
 Den registrerede har ret til at gøre indsigelse mod en ellers lovlig behandling af sine personoplysninger. 
 
 
-Speak 23
 
 ### Ret til ikke at være genstand for en automatisk afgørelse
 
 Den registrerede har ret til ikke at være genstand for en automatisk afgørelse udelukkende baseret på automatisk behandling, herunder profilering, jf. nærmere databeskyttelsesforordningens artikel 22, stk. 1.
-Speak 23
+
  
 Det er Datatilsynet, som påser at virksomhederne overholder reglerne i databeskyttelsesforordningen og databeskyttelsesloven. 
 
 Derudover udsteder Datatilsynet retningslinjer og anbefalinger for behandling og beskyttelse af persondata.
 
-## Bøder for overtrædelse
+## <font color="red">Bøder for overtrædelse<sup> Premium </font></sup>
+
+
 
 
 Hvis databeskyttelsesforordningens regler overtrædes, kan virksomheden blive straffet af domstolene med meget store bøder.

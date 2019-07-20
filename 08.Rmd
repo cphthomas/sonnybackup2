@@ -5,6 +5,8 @@
 
 ## Hvad er et køb? 
 
+Se nærmere her
+
 
 ![](img/buing.jpg)
 
@@ -42,7 +44,7 @@ Se *U 1984.525 H – Den ufrugtbare orne: En leveret orne viste sig ufrugtbar, o
 
 
  
-Speak23
+
 
 Undtagelse: Købeloven kan ikke fraviges i forbrugerkøb, medmindre fravigelsen er til forbrugerens fordel. Dvs. forbrugeren bliver stillet bedre end, hvad der følger af købelovens ufravigelige forbrugerkøbsregler
  
@@ -97,12 +99,12 @@ Undtagelse: Købeloven kan ikke fraviges i forbrugerkøb, medmindre fravigelsen 
 
 Et link til min artikel i U 2011.256.B ”Afgrænsning af det civilretlige forbrugerbegreb”
  
-Speak23
+
 
 * Både fysiske og juridiske personer kan i dansk ret anses som forbrugere i lovens forstand.
 
  
-Speak23
+
 ![](img/buy.jpg)
 
 
@@ -162,7 +164,7 @@ Der findes forskellige former for køb under handelskøbet:
 * Ved et genuskøb, købes en vis mængde af en angiven art eller type genstande.
 * Sælger har valgfrihed med hensyn til, hvilke varer i det pågældende parti, han vil levere til køber for at opfylde aftalen.
  
-Speak23
+
 
 <img src="img/mona.png" align="right" width="15%" height="15%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 
@@ -179,7 +181,7 @@ Speak23
 * Sælger har ikke valgfrihed med hensyn til, hvilken vare han vil levere til køber for at opfylde aftalen.
 
 
-Speak23
+
  
 <img src="img/bride.png" align="right" width="15%" height="15%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 
@@ -208,7 +210,7 @@ Modtages betaling ikke samtidig med levering, overgår købet fra kontantkøb ti
  
 
 
-Speak23
+
  
 
 #### Sælgers og købers forpligtelser under handelskøbet
@@ -259,7 +261,7 @@ Hvis intet er aftalt om levering, er det som hovedregel et afhentningskøb. Køb
 * Betingelse: Varerne skal være individualiseret/udskilte fra andre varer, som står hos sælger.
 
 
-Speak23:
+
  
 
 
@@ -269,7 +271,7 @@ Speak23:
 
 * Levering sker og risikoen overgår fra sælger til køber, når køber har varen i sin besiddelse, jf. KBL § 11.
 
-Speak23
+
 
 Det fremgår af bestemmelsen, at levering er sket, når genstanden er kommet i køberens »besiddelse«,
 
@@ -278,7 +280,7 @@ Det fremgår af bestemmelsen, at levering er sket, når genstanden er kommet i k
 * Levering sker og risikoen overgår fra sælger til køber, når varen overgives til første fremmede fragtfører. Ved søtransport sker levering når varen er bragt inden for skibssiden.
 
  
-Speak23
+
  
 
 ![](img/risk.png)
@@ -343,12 +345,12 @@ Sælger kan som udgangspunkt misligholde en aftale på tre måder:
 
 * Kræve erstatning, jf. KBL § 23 (species) og § 24 (genus – et strengt ansvar) – eventuelt dækningskøb, jf. KBL § 25
 
-Speak23
+
 
 * *Sælgeren har bevisbyrden* for, at der foreligger ansvarsfritagende omstændigheder
 
   
-Speak23
+
 
  
 * Hvis køber vil fastholde købet, har køberen reklamationspligt, jf. KBL § 26.
@@ -393,7 +395,7 @@ Situation: Én leverance bliver forsinket
 
 * Om retlige mangler, herunder vanhjemmel, og rådighedsmangler, dvs. de tilfælde, hvor køberen ikke får den rådighed over salgsgenstanden, som er aftalt, eller som køberen måtte forudsætte, se KBL § 59.
 
-Speak23
+
 
 <img src="img/mangel.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
@@ -648,7 +650,7 @@ Se grundprincipperne i KBL §§ 75a og 76.
 
   
 
-Speak23
+
  
 
 #### Købers misligholdelsesbeføjelser ved mangler

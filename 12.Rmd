@@ -23,7 +23,7 @@
 
 
 
-### Hæftelse - begreber
+## Hæftelse - begreber
 
 * Juridisk person
 * Fysisk person
@@ -38,8 +38,11 @@
 
 
 * En juridisk person er en retlig enhed, der opstår af en sammenslutning af personer, fx et selskab, en andelsboligforening, fonde, kommunen, staten, en organisation, et konkursbo eller dødsbo.
+
 * En juridisk person har retsevne, dv.s har evnen til at være part i et retsforhold og agere i retssager.
+
 * En juridisk person er adskilt fra enkeltpersoner.
+
 * Hæfter for gæld med sine aktiver, fx aktiverne i et
 aktieselskab.
 
@@ -69,6 +72,7 @@ Skyldneren risikerer således kun at miste en del af sin formue, da hæftelsen v
 ### Pro-rata hæftelse
 
 * Hver enkelt skyldner hæfter kun for en på forhånd fastsat andel af gældsforpligtelsen.
+
 * Man kan kalde det forholdsmæssig hæftelse, hvor hver enkelt skyldner kun er forpligtet til at indfri egen andel af gælden og ikke kan forpligtes til at betale de andres.
  
 
@@ -197,7 +201,7 @@ En virksomhed, hvor alle deltagerne hæfter personligt, uden begrænsning og sol
  
 
 
-## ApS og A/S (kapitalselskaber)
+### ApS og A/S (kapitalselskaber)
 
 
 Efter selskabsloven, § 1, stk. 1, jf. Lovbekendtgørelse nr. 1089 af 14. september 2015 om aktie- og anpartsselskaber, finder loven anvendelse alle aktieselskaber og anpartsselskaber (kapitalselskaber). 
@@ -329,7 +333,7 @@ Hverken *garantikapital* eller *ansvarlig lånekapital/indskudskapital* skal anm
 **Justesens juristerier**
 
 
-<img src="img/Ivrkstter.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/ivarksatter.png" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 
@@ -502,9 +506,9 @@ Der skal ved bedømmelsen af besvarelsen lægges vægt på den studerendes anven
 ---
 
 
-### Koncern, jf. selskabslovens § 6:
+### Koncern
 
-* Et moderselskab er karakteriseret ved at selskabet ejer en stor del af aktierne eller anparterne i et andet selskab, som kaldes et datterselskab.
+* Et moderselskab er karakteriseret ved at selskabet ejer en stor del af aktierne eller anparterne i et andet selskab, som kaldes et datterselskab, jf. selskabslovens § 6.
 
 * Hvert selskab inden for koncernen er en  juridisk person, som har sit ”eget liv”.
   
@@ -514,7 +518,7 @@ Der skal ved bedømmelsen af besvarelsen lægges vægt på den studerendes anven
 
 ![](img/google.png)
   
-## Aktieselskaber A/S 
+### Aktieselskaber A/S 
 
 
 
@@ -543,10 +547,10 @@ Retstilstanden kan for det i praksis mest interessante områdes vedkommende – 
 
 Den første danske højesteretsdom om gennembrudshæftelse er *U 1997 1642 H. Dommen vedrører gennembrudshæftelse i forhold til et »søsterselskab«*:
 
-Speak23
 
 
-## Anpartsselskab ApS
+
+### Anpartsselskab ApS
 
 ![](img/as.jpg)
 
@@ -595,7 +599,7 @@ Ejerandelen af selskabet bestemmes af, hvor stor en del af anpartsselskabets kap
 
 * Hvis dette ikke overholdes, kan det føre til krav om supplerende oplysninger eller forbehold i årsregnskabet.
 
-## Kommanditselskab K/S
+### Kommanditselskab K/S
 
 **Ejerne og hæftelse:**
 
@@ -630,7 +634,7 @@ Mindst én komplementar og mindst én kommanditist
 
 
  
-## Partrederi og partselskab
+### Partrederi og partselskab
 
 Partrederi:
 
@@ -643,7 +647,7 @@ Partrederi:
 * Partselskabsdeltageren hæfter pro-rata med hele sin formue, men kun for sin egen del af selskabets gæld.
 
  
-## Andelsselskab A.M.B.A
+### Andelsselskab A.M.B.A
 
 ![](img/andelsselskab.jpg) 
  
