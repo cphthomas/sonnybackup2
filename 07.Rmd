@@ -52,7 +52,7 @@ Se følgende domme om erstatningsansvaret:
 
 
 
-<img src="img/foldbold.jpg" align="right" width="10%" height="10%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+![](img/Foldbold.jpg)
 
 
 *FED 2012.2: Landsretten fandt, at en tilskuer, der ved strafbar handling løb ind på fodboldbane og afbrød landskamp, var erstatningsansvarlig for DBU’s tab ved, at næste landskamp blev flyttet til en mindre  bane samt ved betaling af bøde til UEFA (1.869.269 kr. plus renter). Der forelå ikke egen skyld eller anledning til at reducere ansvaret efter EAL (erstatningsansvarsloven) § 24.*
@@ -80,11 +80,15 @@ Det er f.eks. erstatning for varige mén, tabt arbejdsfortjeneste eller tab af f
 
 Se følgende domme, hvor der idømmes erstatningsansvar i forskellige situationer:  
 
----     
+---  
+
+<img src="img/golf.jpg" align="right" width="10%" height="10%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 *FED 2012.3: A, der sad uden for golfbanens cafeteria, blev ramt i hovedet af golfbold, da B – som deltager i en polterabend – under golfspil kom til at slå bolden for langt. B, der kun én gang tidligere havde prøvet at spille golf og ikke havde modtaget undervisning heri, fandtes erstatningsansvarlig.*
 
 
+
+<img src="img/sovn.jpg" align="right" width="10%" height="10%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 *FED 2009.114: En kvinde, som faldt i søvn som fører af en bil, påkørte og dræbte en modkørende bilist. Hun blev idømt en fængselsstraf på 10 måneder, men hendes kørsel kunne ikke karakteriseres som særlig hensynsløs, hvorfor afdødes ægtefælle ikke havde krav på godtgørelse i medfør af EAL § 26 a.*  
 
@@ -159,7 +163,12 @@ Se her følgende domsafgørelser fra retspraksis:
 
 ---          
 
+<img src="img/dormand.jpg" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 *FED 2016.122: Diskotek erstatningsansvarlig for personskade opstået ved, at diskotekets dørmand gik ud over det nødvendige og forsvarlige ved at skubbe eller kaste skadelidte ud af diskotekets dør.*
+
+
+
 
 
 *Ø.L.D. af 12. maj 2005. Sag: 20. afd., a.s. nr. B-2581-04: Værtinde ifaldt erstatningsansvar, fordi hun bar et sofabord ned ad en trappe iført højhælede sko og uden at fjerne noget nips, der indskrænkede trappearealet, hvilket forårsagede, at hun tabte bordet, som ramte en gæst i hovedet. (Utrykt)*
@@ -212,14 +221,18 @@ I visse tilfælde kan man også blive erstatningsansvarlig for sine undladelser.
 
 Eksempler er husejeren, der ikke gruser et isglat fortov, eller forældre, der ikke holder øje med deres børn.
 
+---
 
 ### Ansvar for psykiske personskader
 
 Udover at der kan tilkendes erstatningsansvar ved tingsskader samt fysiske personskader, så kan der være erstatningspligt for psykiske personskader. 
 
-Se her nævnte domme:  
 
 ---
+
+Se her nævnte domme:  
+
+
 
 <img src="img/meeting.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
@@ -236,14 +249,22 @@ Se her nævnte domme:
 
 Ved simpelt uagtsomhed (culpa levis), har skadevolder handlet mere skødesløst, end hvad en almindelig fornuftig personen ville have handlet i den samme situation – den lille dagligdags uagtsomhed – er skadevolder erstatningsansvarlig. 
 
-Simpel uagtsomhed er en uagtsomhed som ikke kan betegnes som grov. Culpareglen omfatter som hovedregel begge former for uagtsomhed.
+Simpel uagtsomhed er en uagtsomhed som ikke kan betegnes som grov. 
+
+Culpareglen omfatter som hovedregel begge former for uagtsomhed.
 
 
-Forsikringsankenævnet og domstolene foretager et konkret skøn, om skadevolder har handlet simpelt uagtsomt. Hvis eksempelvis en fodgænger træder ud på vejbanen uden at se sig for og rammer en forbikørende cyklist, der vælter, kan uheldet bebrejdes fodgængeren, der har været mere skødesløs end “den gode fodgænger”. Derfor er fodgængeren erstatningsansvarlig for cyklistens økonomiske tab. 
+Forsikringsankenævnet og domstolene foretager et konkret skøn, om skadevolder har handlet simpelt uagtsomt. 
+
+Hvis eksempelvis en fodgænger træder ud på vejbanen uden at se sig for og rammer en forbikørende cyklist, der vælter, kan uheldet bebrejdes fodgængeren, der har været mere skødesløs end “den gode fodgænger”. 
+
+Derfor er fodgængeren erstatningsansvarlig for cyklistens økonomiske tab. 
+
+---
 
 Se følgende sager fra retspraksis og Forsikringsankenævnet, om spørgsmålet, om der er simpel uagtsomhed hos skadevolder:
 
----
+
 
 *U 1915.242 H: (Uagtsom Brandstiftelse). En Tiltalt færdedes en Nat i et straatækket Udhus, hvor der henlaa Fourage og Halm, med en to Tommer lang; Lysestump, som han under sit Ophold i Udhuset tændte. Under sit Ophold i Udhuset røg han derhos Cigaret. Umiddelbart efter at Tiltalte havde forladt Udhuset, viste det sig, at der var Ild i dette, der nedbrændte. Antaget, at Tiltalte havde foraarsaget Ilden, og at der forelaa Tilsidesættelse af almindelig Forsigtighed.*
 
@@ -254,11 +275,20 @@ Se følgende sager fra retspraksis og Forsikringsankenævnet, om spørgsmålet, 
 ---
 
 ### Grov uagtsomhed
-Grov uagtsomhed (latin; culpa lata) er en betydelig form for uagtsomhed. Nyere retspraksis lægger vægt på, om skadevolderens adfærd indebar en ”indlysende fare”, for den indtrådte skade. 
+
+Grov uagtsomhed (latin; culpa lata) er en betydelig form for uagtsomhed. 
+
+Nyere retspraksis lægger vægt på, om skadevolderens adfærd indebar en ”indlysende fare”, for den indtrådte skade. 
 
 Skadevolderens bevidsthed om faren kan indgå i vurderingen af, om uagtsomheden er grov. 
 
-Går en fodgænger over for rødt og vælter en cyklist, er fodgængeren nu mere uforsigtig end selv en skødesløs fodgænger. Det kan betegnes som grov uagtsomhed, og fodgængeren er erstatningsansvarlig. Det er en skønsmæssig vurdering, om domstolene og Ankenævnet for Forsikring anser en person for at have handlet groft uagtsomt.
+Går en fodgænger over for rødt og vælter en cyklist, er fodgængeren nu mere uforsigtig end selv en skødesløs fodgænger. 
+
+Det kan betegnes som grov uagtsomhed, og fodgængeren er erstatningsansvarlig. 
+
+Det er en skønsmæssig vurdering, om domstolene og Ankenævnet for Forsikring anser en person for at have handlet groft uagtsomt.
+
+---
 
 Se her nævnte domme og ankenævnsafgørelser:
 
@@ -269,17 +299,28 @@ Se her nævnte domme og ankenævnsafgørelser:
 
 *U 1999.1706 H: Død ved fald på ca. 6 meter fra et tag ikke omfattet af ulykkesforsikring, da faldet var fremkaldt ved forsikredes forsæt eller grove uagtsomhed.*
 
+<img src="img/baggage.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 *U.1993.955 V: Da kortvarig efterladelse af kuffert ved bagagebånd i lufthavn ikke var groft uagtsom, var tyveri af kufferten dækket af tyveriforsikringen.*
 
 <img src="img/fireplace.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 *FED 2013.9: Den 16-årige A ville ved ungdomsfest hjælpe værtinden med at tænde op i en udendørs pejs. I den forbindelse hældte han væske fra en dunk, som også værtinden havde benyttet i sit forsøg på at tænde op i pejsen, direkte ind i pejsen. Herved slog ilden tilbage og antændte A’s tøj samt dunken, som han i panik kastede fra sig. Den brændende dunk ramte en trækonstruktion og huset nedbrændte. Det viste sig, at væsken var benzin. Landsretten fandt, at A havde handlet groft uagtsomt, hvorfor hans ansvar ikke bortfaldt i medfør af erstatningsanvarslovens (EAL) § 19.*
 
+
+<img src="img/brand.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 *FED 2010.93: Forsikringsselskab fik ikke medhold i, at en 13-årig dreng udviste grov uagtsomhed da han startede en bygningsbrand ved at tænde en lighter samtidig med, at en kammerat to meter derfra hældte benzin på en knallert. Tillagt betydning bl.a., at benzindampe har en forholdsvis svag lugt og løber langs gulvet, og at der er store individuelle forskelle på menneskers lugtesans.*
 
 *FED 2001.2121: Passager, som blev dræbt under bilkørsel med beruset fører, fandtes at have handlet groft uagtsomt, hvorfor hans livsarvinger ikke var berettiget til dødsfaldsdækning fra ulykkesforsikring.*
 
+
+<img src="img/bilramt.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 *FED 2001.2255: Bilist, som kørte ud foran tog i jernbaneoverskæring uden at være opmærksom på lys- og lydsignaler, havde handlet groft uagtsomt. DSB var derfor berettiget til at reducere personskadeerstatningen med 1/3.*
+
+
+<img src="img/rulle.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 *FED 1998.224: 16-årig rulleskøjteløber havde udvist grov uagtsomhed ved at køre ud på kørebanen foran bil. Under henvisning til alder, til at handlingen var udført i kådhed samt til områdets karakter, fandtes der dog ikke grundlag for at nedsætte personskadeerstatningen.*
 
@@ -320,10 +361,12 @@ Ved forsætlige handlinger afviser skadevolders ansvarsforsikring at udbetale er
 
 <img src="img/truckcar.jpg" align="right" width="15%" height="15%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Ved simpel og grov uagtsomhed er det hovedreglen, at en ansvarsforsikring dækker (se dog afsnittet nedenfor om generelt bortfald af ansvar). Forsætlige skader dækker forsikringen ikke, med mindre skadevolder er under 14 år:
-
+Ved simpel og grov uagtsomhed er det hovedreglen, at en ansvarsforsikring dækker (se dog afsnittet nedenfor om generelt bortfald af ansvar). 
 
 ---
+
+Forsætlige skader dækker forsikringen ikke, med mindre skadevolder er under 14 år:
+
 
 *H.D. 19 december 2016 i sag 235/2015 (1. afdeling): Skadelidte, der var sindssyg, forsøgte at begå selvmord ved at køre ind i en modkørende lastbil. Retten til erstatning for personskade bortfaldt som følge af forsætlig medvirken.*
 
@@ -340,16 +383,25 @@ Objektivt ansvar er bl.a. lovfæstet i produktansvarsloven, jernbaneloven, luftf
 
 ---
 
+![](img/ejendomsmagler.jpg)
+
 *FED 1997.92: I medfør af (dagældende) lov om omsætning af fast ejendom § 24 (nu § 47) måtte en ejendomsmægler på objektivt grundlag godtgøre en forbruger (sælger) forskellen mellem det beregnede provenu og et korrekt beregnet provenu, selv om forskellen skyldtes en forkert oplysning om kursen på et lån fra et realkreditinstitut, som havde oplysningen fra Københavns Fondsbørs officielle kursliste.*
 
 ---
 
-Men det objektive ansvar kan også være ulovhjemlet (ikke fastsat i loven). Domstolene har i visse tilfælde pålagt skadevoldere objektivt ansvar uden lovhjemmel, når skaden er indtrådt som følge af materialesvigt, f.eks. skader, der er forvoldt af brud på fjernvarmerør, el og gasledninger mv. 
+Men det objektive ansvar kan også være ulovhjemlet (ikke fastsat i loven). 
+
+Domstolene har i visse tilfælde pålagt skadevoldere objektivt ansvar uden lovhjemmel, når skaden er indtrådt som følge af materialesvigt, f.eks. skader, der er forvoldt af brud på fjernvarmerør, el og gasledninger mv. 
+
+
+---
 
 Se følgende domme: 
 
 
----
+
+
+![](img/byggeplads.jpg)
 
 *FED 2014.77: Bygherre og entreprenører var erstatningsansvarlig for udgravnings- og funderingsarbejde, der gjorde mur på nabogrund ustabil med efterfølgende sammenstyrtning til følge. Ved sammenstyrtningen skete der skader på tilgrænsende ejendom, hvorved denne bygnings ejer blandt andet led et huslejetab. Murens ejer havde inden sammenstyrtningen accepteret, at muren kunne fjernes, hvorfor murens værdi ikke skulle erstattes.*
 
@@ -365,7 +417,12 @@ Er den skade, der er sket, i forvejen dækket af en tingsforsikring eller en dri
 
 Det gælder dog kun, hvis skaden ikke er forvoldt med vilje eller ved grov uagtsomhed. 
 
-Det fremgår af Lov om erstatningsansvar (Lovbekendtgørelse nr. 1070 af 24. august 2018). Smadrer en dreng eksempelvis naboens glasrude, der er forsikret, ved en simpel uagtsomhed, er drengen ikke erstatningsansvarlig. Vinduet bliver betalt af glasforsikringen.
+Det fremgår af Lov om erstatningsansvar (Lovbekendtgørelse nr. 1070 af 24. august 2018). 
+
+
+![](img/rude.jpg)
+
+Smadrer en dreng eksempelvis naboens glasrude, der er forsikret, ved en simpel uagtsomhed, er drengen ikke erstatningsansvarlig. Vinduet bliver betalt af glasforsikringen.
 
 Lov om erstatningsansvar fastslår også, at hvis staten, en kommune eller en anden offentlig institution er selvforsikrende, skal de erstatningsmæssigt betragtes på samme måde, som hvis de havde tegnet forsikring. 
 
@@ -387,49 +444,71 @@ De ting, som man ødelægger af sine egne ting, udløser ikke et erstatningsansv
 
 I det omfang en skade er dækket af en tingsforsikring eller en driftstabsforsikring, er der ikke erstatningsansvar, jf. EAL § 19, stk. 1
 
-Hovedreglen om, at der ikke er erstatningsansvar for en forsikringsdækket skade, gælder uanset ansvarsgrundlagets karakter. Ansvaret bortfalder både i forhold til forsikringsselskabet og i forhold til skadelidte. 
+Hovedreglen om, at der ikke er erstatningsansvar for en forsikringsdækket skade, gælder uanset ansvarsgrundlagets karakter. 
+
+Ansvaret bortfalder både i forhold til forsikringsselskabet og i forhold til skadelidte. 
 
 Sammenholdt med undtagelserne i EAL § 19, stk. 2 og i § 21 omfatter hovedreglen imidlertid kun følgende tilfældegrupper:
 
-1) ansvar for skader i privatlivet, der er forvoldt ved simpel uagtsomhed;
+**1) ansvar for skader i privatlivet, der er forvoldt ved simpel uagtsomhed**;
 
-2) ansvar for skader i privatlivet, der hviler på strengere ansvarsregler end culpareglen bortset fra de i § 21 nævnte (f.eks. DL 3-19-2 ved private tjenesteforhold, hundelovens § 8);
+**2) ansvar for skader i privatlivet, der hviler på strengere ansvarsregler end culpareglen bortset fra de i § 21 nævnte (f.eks. DL 3-19-2 ved private tjenesteforhold, hundelovens § 8)**;
 
-3) arbejdstageres personlige ansvar for skader, der er forvoldt ved simpel uagtsomhed, jf. stk. 3.
+**3) arbejdstageres personlige ansvar for skader, der er forvoldt ved simpel uagtsomhed, jf. stk. 3**.
 
 Reglen gælder ikke enhver skadesforsikring, der omfattes af forsikringsaftaleloven, men kun forsikringer, hvor forsikringsydelsen bestemmes enten af tingens værdi eller af dens afkastningsinteresse i relation til en virksomheds drift. Kreditforsikringer, kautionsforsikringer og lign. falder derfor udenfor.
 
-. 
+---
+
 ## Erstatningskravet og erstatningsbeløbet
 
 I Lov om erstatningsansvar kan man læse, hvad der kan kræves i erstatning af en erstatningsansvarlig skadevolders forsikringsselskab. Man kan som skadelidt kræve erstatning for følgende:
 
-*	Udgifter til behandling
-*	Tabt arbejdsfortjeneste
-*	Svie og smerte
-*	Varigt mén
-*	Tab af erhvervsevne
-*	Dødsfald
-*	Skader på ejendele
-*	Advokatomkostninger.
+*	**Udgifter til behandling**
+
+*	**Tabt arbejdsfortjeneste**
+
+*	**Svie og smerte**
+
+*	**Varigt mén**
+
+*	**Tab af erhvervsevne**
+
+*	**Dødsfald**
+
+*	**Skader på ejendele**
+
+*	**Advokatomkostninger**.
+
+---
 
 ### Anmeldelse af erstatningskrav
 
-Skadelidte skal henvende sig til den, der er skyld i skaden. Har skadevolder en ansvarsforsikring, kan vedkommende anmelde skaden til sit eget forsikringsselskab. 
+Skadelidte skal henvende sig til den, der er skyld i skaden. 
 
-Har skadevolderen ingen forsikring, må skadevolderen selv betale. Skadelidte må eventuelt rejse sit krav om erstatning gennem en retssag.
+Har skadevolder en ansvarsforsikring, kan vedkommende anmelde skaden til sit eget forsikringsselskab. 
+
+Har skadevolderen ingen forsikring, må skadevolderen selv betale. 
+
+Skadelidte må eventuelt rejse sit krav om erstatning gennem en retssag.
+
+---
 
 ### Sådan bliver man erstatningsansvarlig i relation til ansvarsforsikringen
 
 Flere forsikringer indeholder automatisk en ansvarsforsikring, der dækker, hvis en af de forsikrede bliver erstatningsansvarlig for en skade. 
 
-For mange er det svært at vurdere, hvornår de er ansvarlige for en skade, og hvornår ansvarsforsikringen dækker. Derfor vil reglerne for, hvornår der er ansvar, kort blive gennemgået nedenfor.
+For mange er det svært at vurdere, hvornår de er ansvarlige for en skade, og hvornår ansvarsforsikringen dækker. 
+
+Derfor vil reglerne for, hvornår der er ansvar, kort blive gennemgået nedenfor.
 
 Har man forvoldt en skade, er det naturligt, at man føler skyld og mener, at skadelidte skal have erstatning, enten fra en selv eller fra det forsikringsselskab, hvor man er ansvarsforsikret.
 
 At føle skyld for en skade er ikke det samme som, at man juridisk er ansvarlig, og at skadelidte dermed har ret til erstatning. 
 
 I nogle tilfælde vil det fremgå af lovgivningen, om man er erstatningsansvarlig, mens det i tilfælde, hvor der ikke er lovgivet, vil være retspraksis (domstolene), der afgør, om man er erstatningsansvarlig.
+
+---
 
 ### Udgifter til behandling
 
@@ -441,11 +520,17 @@ Det kan være udgifter til medicin, fysioterapi, kiropraktorbehandling, hjælpem
 
 Fremtidige helbredelsesudgifter bliver erstattet med et kapitalbeløb, der udbetales på én gang og udregnes efter regler, der er fastsat i loven.
 
-*	Erstatning for tabt arbejdsfortjeneste
-*	Erstatning for erhvervsevnetab, hvis denne udbetales som en løbende ydelse
-*	Renter, uanset om beløbet, de vedrører, er skattepligtigt eller ej. Erstatningen er skattefri, men der skal betales skat af eventuelle renter.
+*	**Erstatning for tabt arbejdsfortjeneste**
+
+*	**Erstatning for erhvervsevnetab, hvis denne udbetales som en løbende ydelse**
+
+*	**Renter, uanset om beløbet, de vedrører, er skattepligtigt eller ej. Erstatningen er skattefri, men der skal betales skat af eventuelle renter.**
+
+---
 
 ### Tabt arbejdsfortjeneste
+
+![](img/arbejde.png)
 
 Har man tab af indtægt som følge af uheldet, kan man kræve hele tabet erstattet. 
 
@@ -462,11 +547,17 @@ Medfører skaden, at man vil få et varigt erhvervsevnetab, får man erstatning 
 
 ### Svie og smerte
 
+![](img/svie.jpg)
+
 Godtgørelse for svie og smerte ydes som kompensation for det ubehag og de smerter, som et uheld medfører. 
 
 Godtgørelsen kan kræves for perioden fra tidspunktet for uheldet, og normalt så længe man er sygemeldt. Godtgørelsen bliver givet efter en fast takst.
 
+---
+
 ### Godtgørelse for varigt mén
+
+![](img/varigt.jpg)
 
 Hvis man får varige gener i sin dagligdag på grund af uheldet, kan man kræve godtgørelse for varigt mén.
 
@@ -480,7 +571,11 @@ Er man fyldt 40 år, bliver godtgørelsen reduceret i forhold til ens alder. God
 
 Derfor vil man måske opleve, at man sagtens kan passe et kontorjob, selv om man har fået erstatning for varigt mén, hvorimod man måske ville have svært ved at passe et job, der var fysisk hårdere.
 
+---
+
 ### Erhvervsevnetabserstatning
+
+![](img/erhvervs.jpg)
 
 Hvis uheldet betyder, at man mister mindst 15 procent af ens evne til at erhverve indtægt ved arbejde, kan man få erstatning for tab af erhvervsevne. 
 
@@ -497,6 +592,8 @@ For børn, der normalt ingen indtægt har, bliver erstatningen fastsat ved, at m
 For hjemmearbejdende og studerende bliver erstatningen fastsat ud fra et skøn over den økonomiske værdi af deres arbejdskraft på det tidspunkt, hvor de kom til skade.
 
 Erhvervsevnetabserstatningen bliver udbetalt på én gang.
+
+---
 
 ### Dødsfald
 
@@ -520,15 +617,16 @@ Efterlevende børn får en erstatning, der svarer til summen af de børnebidrag,
 
 Erstatningen bliver fordoblet, hvis afdøde var eneforsørger.
 
-<br>
 
-## Eksamensspørgsmål indenfor erstatningsretten mv.
+
+### Eksamensspørgsmål indenfor erstatningsretten mv.
 
 ### Eksamensopgave og løsning - Om ejendomsmæglerens erstatningsansvar uden for kontrakt
 
 ***Ejendomsmæglerens støvler***
 
-
+![](img/martin.jpg)
+(fiktiv)
 
 En fredag eftermiddag var Martin taget ud til en fremvisning af et hus beliggende i nabobyen Indby. Huset tilhørte Pernille. Martin havde i dagens anledning taget sine nye og meget dyre Armani® støvler på. Desværre havde han fået købt dem i en lidt for lille størrelse, men havde valgt at tage dem på alligevel selvom Egild ikke havde ment at det var en god idé, da han syntes at de ikke rigtig udstrålede det image som ”Udby Mæglerne ApS” gerne ville stå for.
 
@@ -575,6 +673,9 @@ Pernille kan derfor nok ikke få erstatning for tabet af ”Guffe”.
 ### Eksamensopgave og løsning - Om erstatning og kaution
 
 ***Murermester Madsen***
+
+![](img/murermester.jpg)
+(fiktiv)
 
 Madsen, der er murer, står sammen med sin ansat, murerlærling Anton oppe på et stillads. De er ved at lave reparationer på Knudsens hus’ ydermurer.
  
@@ -654,7 +755,7 @@ En uge efter kampen kommer trøjerne og kasketterne men nu vil Hans ikke længer
 
 4.	Er Hans bundet af aftalen om køb af trøjerne og kasketterne?
 
-5.  Kan Hans rejse krav om erstatning mod sælger, hvis han er bundet     af aftalen om køb af trøjerne og kasketterne?
+5.  Kan Hans rejse krav om erstatning mod sælger, hvis han er bundet af aftalen om køb af trøjerne og kasketterne?
 
 
 ***Vejledende løsning:***
@@ -673,9 +774,7 @@ En uge efter kampen kommer trøjerne og kasketterne men nu vil Hans ikke længer
 4.	Er Hans bundet af aftalen om køb af trøjerne og kasketterne? 
     14 dages fortrydeælsesret.
     
-5.	Kan Hans rejse krav om erstatning mod sælger, hvis han er bundet     af aftalen om køb af trøjerne og kasketterne? Ingen erstatning 
-    fra sælger af trøjerne som følge af for sen levering, da intet 
-    økonomisk tab lidt af Hans. 
+5.	Kan Hans rejse krav om erstatning mod sælger, hvis han er bundet af aftalen om køb af trøjerne og kasketterne? Ingen erstatning fra sælger af trøjerne som følge af for sen levering, da intet økonomisk tab lidt af Hans. 
 
 
 

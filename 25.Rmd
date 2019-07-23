@@ -19,7 +19,7 @@
 
 
 
-<br>
+
 
 
 ---
@@ -130,6 +130,7 @@ Det vil – medmindre andet er aftalt – være forsikringstageren, der får for
 
 Ofte er forsikringstager og forsikrede samme person. 
 
+---
 
 ### Har man pligt til at tegne forsikring?
 
@@ -174,6 +175,8 @@ Dette indebærer bl.a., at forsikringsselskaber og pensionskasser ikke må betin
 
 Ved prædiktive genetiske test forstås undersøgelser af en persons arvemasse, som belyser en sygdomsrisiko og gør det muligt at drage slutninger med hensyn til den pågældendes fremtidige helbredstilstand, som ikke direkte og på kortere sigt afspejler en udvikling i en allerede opstået sygdom. 
 
+![](img/dna.jpg)
+
 Eksempler på sådanne test er DNA-analyser, RNA-analyser, vævstype- og blodtypeundersøgelser.  
 
 Forsikringsselskaberne og pensionskasserne må heller ikke spørge om, hvorvidt den pågældende tidligere har fået foretaget en prædiktiv undersøgelse.  
@@ -190,10 +193,11 @@ Begrundelsen i FAL § 3 b skal indeholde en henvisning til de relevante retsregl
 
 Begrundelsen skal efter anmodning være skriftlig.  
 
+---
 
 ### <font color="red">Rettigheder og forpligtelser i forsikringsretten<sup> Premium </font></sup>
 
-
+![](img/forsikringsaftalelov.jpg)
 
 Hvis man graver længere ind i forsikringsretten kommer det tydeligt frem, hvilke rettigheder og forpligelser forsikringstageren og hhv. Forsikringsselskabet har efter forsikringsaftaleloven (FAL):
 
@@ -234,16 +238,18 @@ En generel henvisning alene til »de afgivne helbredsoplysninger« vil normalt i
 
 Selskabets afvisning af at tegne en forsikring eller opsigelse af en allerede indgået forsikringsaftale vil i nogle tilfælde skyldes en samlet vurdering af det pågældende kundeforhold. 
 
-I disse tilfælde behøver begrundelsen ikke at angive samtlige de forhold, som selskabet har lagt vægt på, men skal blot angive de væsentligste elementer, som ligger til grund for
-selskabets beslutning.
+I disse tilfælde behøver begrundelsen ikke at angive samtlige de forhold, som selskabet har lagt vægt på, men skal blot angive de væsentligste elementer, som ligger til grund for selskabets beslutning.
 
 Begrundelsen skal efter anmodning gives skriftligt, jf. FAL § 3b, stk. 2, 2. pkt., hvilket også vil kunne ske f.eks. via e-mail.
 
 Ved afslag på at tegne en forsikring, som er begrundet i alvorlig sygdom eller lignende, anmoder forsikringsselskabet i dag i visse tilfælde f.eks. den forsikringssøgendes egen læge om over for den pågældende at redegøre nærmere for indholdet af de lægeerklæringer mv., som selskabet har modtaget. 
 
+![](img/lage.png)
+
 Selskabet vil kunne henvise den forsikringssøgende til i første omgang at få gennemgået de lægelige oplysninger hos sin egen læge, men således at selskabet efterfølgende må give en skriftlig begrundelse, hvis den forsikringssøgende ønsker det. 
 
-Det forudsættes, at forsikringsselskabet i fornødent omfang orienterer den forsikringssøgende/forsikringstageren om muligheden for at få en begrundelse, herunder at denne vil kunne fås skriftligt. 
+Det forudsættes, at forsikringsselskabet i fornødent omfang orienterer den forsikringssøgende/forsikringstageren om muligheden for at få en begrundelse, herunder at denne vil kunne fås skriftligt.
+
 Dette vil navnlig være relevant, hvis den pågældende giver udtryk for utilfredshed med selskabets beslutning, men af en eller anden grund ikke udtrykkeligt beder om en (skriftlig) begrundelse.
 
 Reglen indeholder ikke et krav om, at selskabet på statistisk eller andet videnskabeligt grundlag skal kunne dokumentere sin risikovurdering, eller i øvrigt skal redegøre nærmere for indholdet af sin almindelige forretningspolitik eller for den risikovurdering, der ligger til grund for selskabets beslutning. 
@@ -256,7 +262,9 @@ En nærmere begrundelse for selskabets beslutning giver endvidere den forsikring
 
 Reglen indebærer, at den forsikringssøgende/forsikringstageren skal gøres bekendt med grundlaget og baggrunden for forsikringsselskabets beslutning, men giver ikke den pågældende mulighed for i den konkrete situation at anfægte selskabets risikovurdering, forretningspolitik mv. 
 
-Der er på denne baggrund ikke knyttet særlige aftaleretlige retsvirkninger til selskabets tilsidesættelse af begrundelsespligten. Det betyder imidlertid ikke, at overtrædelse af begrundelsespligten er usanktioneret. 
+Der er på denne baggrund ikke knyttet særlige aftaleretlige retsvirkninger til selskabets tilsidesættelse af begrundelsespligten. 
+
+Det betyder imidlertid ikke, at overtrædelse af begrundelsespligten er usanktioneret. 
 
 Et selskabs tilsidesættelse af begrundelsespligten må således anses for at være i strid med redelig forretningsskik og god praksis, jf. lov om finansiel virksomhed § 43.  
 
@@ -264,6 +272,7 @@ Dette indebærer bl.a., at Finanstilsynet kan påbyde selskabet at ændre adfær
 
 Finanstilsynet vil dog i almindelighed ikke behandle konkrete tvister mellem et forsikringsselskab og forsikringstageren, men alene gribe ind over for en generel adfærd hos selskabet.  
 
+---
 
 #### Urigtige oplysninger ved forsikringsaftalens indgåelse
 
@@ -281,7 +290,7 @@ Se retspraksis:
 
 *U 2012.1031 Ø: Ikke uagtsomt ved tegning af forsikring ikke at oplyse om ikke belastende skade og om overholdt afdragsordning i tidligere selskab.*  
 
-Svig i forsikringsretlig forstand forudsætter, at forsikringstageren bevidst har afgivet urigtige oplysninger for at opnå forsikringen eller opnå denne på mere fordelagtige vilkår. 
+Svig i forsikringsretlig forstand forudsætter, at forsikringstageren **bevidst har afgivet urigtige oplysninger** for at opnå forsikringen eller opnå denne på mere fordelagtige vilkår. 
 
 Den udviste svig skal være relevant, dvs. at den skal være af betydning for forsikringsselskabet. 
 
@@ -291,12 +300,17 @@ Det synes uafklaret, i hvilket omfang selskabet kan påberåbe sig svig, som kun
 
 Forsikringsselskabet har bevisbyrden for, at forsikringstageren har udvist svig, og at den udviste svig er af betydning for forsikringsselskabet. 
 
-Svigsbegrebet er ikke helt det samme som i den almindelige aftaleret. Forsikringstageren kan være i en situation, hvor det er menneskeligt forståeligt og juridisk acceptabelt, at han giver urigtige oplysninger. 
+Svigsbegrebet er ikke helt det samme som i den almindelige aftaleret. Forsikringstageren kan være i en situation, hvor det er menneskeligt forståeligt og juridisk acceptabelt, at han giver urigtige oplysninger.
+
+---
 
 Se følgende Højesteretsdom fra retspraksis: 
 
+![](img/frikops.jpg)
+
 *U 1952.278 H: Ved tegning af en livsforsikring havde A i forsikringsbegæringen fortiet, at han led af følgerne af en skudlæsion i kæben, hidrørende fra krigstjeneste i „Frikorps Danmark“. Ca. ½ år senere blev han, der ved dette tidspunkt brugte chloral mod smerter fra læsionen, fundet død i sengen med en tom chloralflaske på natbordet. Det fandtes ikke godtgjort, at han udover nævnte fortielse, der ikke kunne antages sket i svigtagtig hensigt, havde givet urigtige oplysninger, og det fandtes ikke antageliggjort, at forsikringsselskabet ikke ville have overtaget forsikringen eller kun overtaget den på særlige vilkår, hvis der havde været givet rigtig oplysning. Selskabets påstand om frifindelse i henhold til FAL 1. §§ 4 og 6 for at udbetale forsikringssummen kunne herefter ikke tages til følge.*
 
+---
 
 Har forsikringstageren i andre tilfælde forsætligt eller uagtsomt afgivet urigtige risikooplysninger, kan forsikringsselskabet helt eller delvist blive fri for ansvar efter FAL § 6. 
 
@@ -305,6 +319,8 @@ Må det antages, at forsikringstageren ved forsikringens tegning hverken vidste 
 Situationen er den, at forsikringstageren ikke har handlet uagtsomt ved afgivelse af oplysningen til forsikringsselskabet.
 
 Det følger af FAL § 7, at forsikringstagerens undladelse af at give oplysning har ingen indflydelse på selskabets ansvar, medmindre han burde være klar over, at den ikke oplyste omstændighed var af betydning for selskabet, og hans forhold kan tilregnes ham som grov uagtsomhed. I så fald anses han, som om han havde givet urigtig oplysning, jf. FAL § 6
+
+---
 
 **Domme om fortolkningen af FAL §§ 4-7**  
 
@@ -318,13 +334,17 @@ Det følger af FAL § 7, at forsikringstagerens undladelse af at give oplysning 
 
 *I FED 2000.1608 Ø havde forsikringstageren ikke oplyst om en erklæring fra Teknologisk Institut i forbindelse med tegning af en bygningsforsikring. Det fandtes imidlertid ikke godtgjort, at selskabet ville have taget forbehold, hvis selskabet ved tegningen havde haft kendskab til erklæringen, navnlig fordi forsikringen blev tegnet som en puljeforsikring omfattende 225 ejendomme. Forsikringstagerens undladelse af at give oplysning ved forsikringstegningen har ingen indflydelse på forsikringsselskabets ansvar, medmindre forsikringstageren burde være klar over, at den ikke oplyste omstændighed var af betydning for forsikringsselskabet, og forsikringstagerens forhold kan tilregnes forsikringstageren som grov uagtsomhed. I så fald anses forsikringstageren, som om forsikringstageren havde givet urigtig oplysning, Det antages ikke i praksis, at forsikringstageren har en egentlig oplysningspligt medmindre det må antages, at oplysningen vedrører forhold som forsikringstageren må vide, at det har en betydning for forsikringsselskabets risikobedømmelse. Han eller hun vil i almindelighed kunne indskrænke sig til redeligt at besvare de stillede spørgsmål i forsikringsbegæringen.*
 
-*Se Højesteretsdom H.D. af 17. maj 2002. Sag: I 220/2001: Nyfødt barn var omfattet af forældrenes ulykkesforsikring. Forsikringsselskabet skulle imidlertid ikke dække sygdom i form af blindhed, idet forældrene under de konkrete omstændigheder burde have underrettet selskabet om sygdommen, før forsikringen blev antaget, jf. FAL  § 7.*  
+*Se Højesteretsdom H.D. af 17. maj 2002. Sag: I 220/2001: Nyfødt barn var omfattet af forældrenes ulykkesforsikring. Forsikringsselskabet skulle imidlertid ikke dække sygdom i form af blindhed, idet forældrene under de konkrete omstændigheder burde have underrettet selskabet om sygdommen, før forsikringen blev antaget, jf. FAL  § 7.* 
+
+---
 
 ### <font color="red">Police og forsikringsbetingelserne<sup> Premium </font></sup>
 
 
 
 Forsikringstageren police er et forsikringsdokument, der indeholder de generelle og specielle vilkår for en indgået forsikringsaftale. 
+
+![](img/police.jpg)
 
 En police er således en af forsikringsselskabet udstedt bekræftelse på, at der er indgået en forsikringsaftale.  
 
@@ -345,8 +365,10 @@ Ved forsikringsaftaler, der er indgået ved fjernsalg (dvs. aftaler, der bliver 
 
 * den dag, hvor forsikringstageren og forsikringsselskabet indgår  
   aftalen eller
+  
 * den dag, hvor forsikringstageren har modtaget de oplysninger, som  
-  forsikringsselskabet, efter reglerne om oplysningspligt (jf. FAL §§   34 d-34f), har pligt til at give forsikringstageren på papir eller 
+  forsikringsselskabet, efter reglerne om oplysningspligt (jf. FAL §§ 34   
+  d-34f), har pligt til at give forsikringstageren på papir eller 
   andet varigt medium.  
 
 For livsforsikring og individuel pensionsordning er fristen dog 30 dage. 
@@ -357,35 +379,61 @@ For livsforsikring og individuel pensionsordning er fristen dog 30 dage.
 
 Fortryder man aftalen, har forsikringsselskabet ikke krav på præmie. Fortryder man aftalen, og har anmeldt en skade til forsikringen, er der ingen dækning for skaden. 
 
-Det gælder også, hvis det er en lovpligtig ansvarsforsikring, man fortryder – for eksempel en bil- eller hundeansvarsforsikring.  
+Det gælder også, hvis det er en lovpligtig ansvarsforsikring, man fortryder – for eksempel en bil- eller hundeansvarsforsikring.
+
+---
 
 **Video: Bilforsikring**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/6JfjVjptXGs" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
+---
+
+**Video**
+
 <div class="video-container"><iframe src="https://www.youtube.com/embed/H9PzSmkhC48" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
 
 Retten til at fortryde gælder ikke ved ændring af en forsikring, man har i forvejen. 
 
-Det gælder heller ikke for rejse- eller bagageforsikringer eller lignende forsikringer, der har en begrænset løbetid på højest en måned.  
+Det gælder heller ikke for rejse- eller bagageforsikringer eller lignende forsikringer, der har en begrænset løbetid på højest en måned. 
+
+---
 
 *Eksempel:*
 
-Man køber en ulykkesforsikring, der skal gælde fra den 1. februar. Da man modtager policen forsikringsbetingelserne den 4. februar, ønsker man alligevel ikke forsikringen. Man har nu en frist til og med den 18. februar til at fortælle forsikringsselskabet, at man ikke ønsker forsikringen. Det betyder, at oplysningen fra én skal ligge hos forsikringsselskabet den 18. februar. Det er for sent, at forsikringsselskabet først modtager henvendelse den 19. februar eller senere. Sker det, kan aftalen ikke fortrydes.  
+Man køber en ulykkesforsikring, der skal gælde fra den 1. februar. 
+
+Da man modtager policen forsikringsbetingelserne den 4. februar, ønsker man alligevel ikke forsikringen. 
+
+Man har nu en frist til og med den 18. februar til at fortælle forsikringsselskabet, at man ikke ønsker forsikringen. 
+
+Det betyder, at oplysningen fra én skal ligge hos forsikringsselskabet den 18. februar. 
+
+Det er for sent, at forsikringsselskabet først modtager henvendelse den 19. februar eller senere. Sker det, kan aftalen ikke fortrydes. 
+
+---
 
 **Video: Hvordan dækker en ulykkesforsikring**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/gsK8tssPiZ0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
+---
+
 #### Indtrædelse af forsikringsselskabets ansvar
 
 Er forsikringsaftale sluttet, uden at det er bestemt, når ansvaret skal begynde, anses forsikringsselskabets ansvar at indtræde allerede på det tidspunkt, da selskabet eller forsikringstageren afsender meddelelse om, at den anden parts tilbud antages.
+
+---
 
 Se fra sager fra praksis:
 
 *FED 2000.2067: Telefonisk bestilt forsikring trådte i kraft ved fremsendelse af girokort, selv om skaden skete inden dette var betalt.*
 
 *FED 1999.1405: Forsikringsselskab pålagt at dække en brandskade uanset generelle acceptregler, idet det blev anset for godtgjort, at en indsendt forsikringsbegæring ville være blevet antaget, hvis selskabet havde været uden kendskab til en indtruffet skade*.  
+
+---
 
 #### Præmien (betalingen) for forsikringen
 
@@ -397,11 +445,15 @@ Betales præmien ikke rettidigt, kan forsikringsselskabet opsige forsikringsafta
 
 Forsikringsselskabet kan påberåbe sig manglende betaling af præmien, uanset om den manglende betaling beror på undskyldelige forhold hos forsikringstageren. 
 
-Forsikringsselskabet kan opsige forsikringen ved for sen betaling af præmien. Forsikringstagerens manglende præmiebetaling kan i sig selv, dvs. uden at opsigelse er nødvendig, medføre, at forsikringsselskabets ansvar og dermed forsikringsdækningen ophører.  
+Forsikringsselskabet kan opsige forsikringen ved for sen betaling af præmien. Forsikringstagerens manglende præmiebetaling kan i sig selv, dvs. uden at opsigelse er nødvendig, medføre, at forsikringsselskabets ansvar og dermed forsikringsdækningen ophører. 
+
+---
 
 En typisk forbrugerforsikring som Familiens Basisforsikring indeholder f.eks. følgende vilkår:   
 
-*"Påkrav om betaling sendes til den opgivne betalingsadresse. Ændres betalingsadressen, skal selskabet straks underrettes. Betales præmien ikke, sender selskabet en påmindelse om betaling af præmien. Påmindelsen fremsendes tidligst 14 dage efter forfaldsdagen. Denne påmindelse indeholder oplysning om, at forsikringens dækning ophører, hvis præmien ikke er blevet betalt senest 14 dage efter afsendelsen af påmindelsen. Hvis selskabet har udsendt en sådan påmindelse, er det berettiget til at opkræve et ekspeditionsgebyr«.*  
+*"Påkrav om betaling sendes til den opgivne betalingsadresse. Ændres betalingsadressen, skal selskabet straks underrettes. Betales præmien ikke, sender selskabet en påmindelse om betaling af præmien. Påmindelsen fremsendes tidligst 14 dage efter forfaldsdagen. Denne påmindelse indeholder oplysning om, at forsikringens dækning ophører, hvis præmien ikke er blevet betalt senest 14 dage efter afsendelsen af påmindelsen. Hvis selskabet har udsendt en sådan påmindelse, er det berettiget til at opkræve et ekspeditionsgebyr«.*
+
+---
 
 Forsikring & Pension (brancheorganisationen bag forsikring- og pensionsselskaber) har endvidere udtalt, at det må anses for usædvanligt og i strid med god forsikringsskik, hvis forsikringsbetingelserne ikke indeholder bestemmelser om, at der ved manglende præmiebetaling sendes forsikringstageren en påmindelse med indrømmelse af yderligere betalingsfrist.
 
@@ -409,7 +461,9 @@ De ovenfor citerede forsikringsbetingelser indebærer, at forsikringstageren to 
 
 Der stilles samtidig krav om, at det i påmindelsen om manglende betaling udtrykkeligt er anført, at forsikringsdækningen ophører, hvis præmien ikke betales. 
 
-Hvis forsikringsselskabet ikke overholder disse betingelser i forsikringsaftalen, indtræder retsvirkningerne af manglende præmiebetaling ikke.    
+Hvis forsikringsselskabet ikke overholder disse betingelser i forsikringsaftalen, indtræder retsvirkningerne af manglende præmiebetaling ikke. 
+
+---
 
 #### Opsigelse af forsikringen
 
@@ -417,12 +471,18 @@ Der er flere måder, man kan opsige sine private forsikringer på.
 
 Man kan benytte sig af det korte opsigelsesvarsel, som betyder, at man kan opsige forsikringen med 30 dages varsel til den 1. i en måned. 
 
-Bruger man den korte opsigelse, koster det normalt et gebyr. Har man haft forsikringen i mere end 1 år, vil gebyret være omkring 50 kroner. 
+Bruger man den korte opsigelse, koster det normalt et gebyr. 
 
-Har man derimod haft forsikringen i mindre end 1 år, kan gebyret være væsentlig højere, f.eks. 500 kroner. Grunden til, at der er et gebyr,
+Har man haft forsikringen i mere end 1 år, vil gebyret være omkring 50 kroner. 
+
+Har man derimod haft forsikringen i mindre end 1 år, kan gebyret være væsentlig højere, f.eks. 500 kroner. 
+
+Grunden til, at der er et gebyr,
 er, at forsikringsselskaberne har haft udgifter, da de oprettede forsikringen. 
 
-Det er altid gratis at opsige sin forsikring til det normale udløb ved hovedforfald. Man skal bare huske at kontakte sit forsikringsselskab mindst 1 måned før hovedforfaldet. 
+Det er altid gratis at opsige sin forsikring til det normale udløb ved hovedforfald. 
+
+Man skal bare huske at kontakte sit forsikringsselskab mindst 1 måned før hovedforfaldet. 
 
 Opsigelsen skal være skriftlig.  
 
@@ -430,19 +490,31 @@ Har man været udsat for en skade, har både forsikringstageren og forsikringsse
 
 Denne skriftlige opsigelse kan først laves efter, at man har lavet en skriftlig skadeanmeldelse til selskabet, og skal være lavet senest 1 måned efter, at man har modtaget erstatning eller afslag fra sit forsikringsselskab.  
 
+---
+
 #### Begrebet "forsikringstid“
 
 Forsikringstiden er den periode, i hvilken forsikringsselskabet er ansvarlig for betaling af dine eller andres skader, enten fordi årsagen til skaden er indtrådt i forsikringstiden, fordi virkningen af skaden har vist sig i forsikringstiden, eller fordi kravet er rejst i forsikringstiden. 
 
-Det afhænger af, hvilket princip der finder anvendelse. Det vil fremgå af de almindelige forsikringsbetingelser (det med det småtrykte), som er blevet udleveret i forbindelse med tegningen af forsikringen.  
+Det afhænger af, hvilket princip der finder anvendelse. 
+
+Det vil fremgå af de almindelige forsikringsbetingelser (det med det småtrykte), som er blevet udleveret i forbindelse med tegningen af forsikringen. 
+
+---
 
 Eksempel fra retspraksis:
 
 *FED 2008.290: Uagtet en forsikringsbegæring vedrørende ansvarsforsikring af en bil angav ikrafttræden som 19. maj, blev aftalen anset for at være trådt i kraft den 18. maj, idet assurandøren under et møde den 18. gav forsikringstager et forsikringsbevis, hvoraf ikke fremgik, at forsikringen første trådte i kraft dagen efter. Datoen var indført af assurandøren uden drøftelse med forsikringstager. Selskabet dømtes til at dække det erstatningsansvar, som forsikringstager pådrog sig ved et færdselsuheld, som han var involveret i samme aften.*  
 
+---
+
 #### Forsikringstagerens pligter over for forsikringsselskabet
 
-Man har i visse situationer pligt til at tegne forsikring, enten i henhold til lov, obligatoriske vedtægter eller i henhold til en aftale. F.eks. er der pligt til at tegne ansvarsforsikring for motordrevne køretøjer, og besidderen/ ejeren af en hund er pligtig til at tegne ansvarsforsikring for hunden.  
+Man har i visse situationer pligt til at tegne forsikring, enten i henhold til lov, obligatoriske vedtægter eller i henhold til en aftale. 
+
+F.eks. er der pligt til at tegne ansvarsforsikring for motordrevne køretøjer, og besidderen/ ejeren af en hund er pligtig til at tegne ansvarsforsikring for hunden.  
+
+---
 
 #### Fareforøgelse
 
@@ -454,31 +526,33 @@ Det vil derfor i forsikringsaftalen være anført, at den forsikrede skal anmeld
 
 Det kan være ændring af tagbeklædning for et forsikret hus, flytning til et dyrere risikoområde vedrørende bilforsikring eller ændring af erhvervsmæssig beskæftigelse på en ulykkesforsikring. 
 
-Det er derfor en god idé at se i policen under "fareforøgelse"
-eller "risikoændring" for at sætte sig ind i, hvilke ændringer selskabet skal orienteres om.  
+Det er derfor en god idé at se i policen under "fareforøgelse" eller "risikoændring" for at sætte sig ind i, hvilke ændringer selskabet skal orienteres om.  
 
 Ligesom ved risikooplysninger ved tegningen er der i forsikringsaftaleloven fastsat regler for, hvordan erstatningen skal gøres op, i tilfælde af at der er sket fareforøgelse. 
 
 Reglerne svarer til dem, der gælder ved forsikringens tegning. 
 
-Dvs. hvis selskabet trods ændringen ville have beholdt forsikringen – men til en højere præmie – beregnes erstatningen ud fra forholdet
-mellem den præmie, selskabet har fået, og den præmie, der skulle have været betalt.  
+Dvs. hvis selskabet trods ændringen ville have beholdt forsikringen – men til en højere præmie – beregnes erstatningen ud fra forholdet mellem den præmie, selskabet har fået, og den præmie, der skulle have været betalt.  
 
 Hvis forsikringsselskabet ikke ville have fortsat forsikringen, hvis det havde kendt til risikoændringen (fareforøgelsen), skal forsikringsselskabet ikke betale erstatning. (Reglerne findes i FAL § 45 (skadesforsikring) og FAL § 121. (ulykkesforsikring)).  
 
-Fareomstændigheden skal være tydeligt angivet i policen.
+**Fareomstændigheden skal være tydeligt angivet i policen**.
 
 Se retspraksis:
 
 *U 1996 294 H: En bestemmelse i en hesteforsikring om, at der skulle gives meddelelse om, hvis der skete ændringer i de forsikrede dyrs forhold, opstaldning og anvendelse, opfyldte ikke kravet for så vidt angik en knælidelse, som den forsikrede hest pådrog sig.* 
 
-En hyppigste fareforøgelse forekommer i forhold til ulykkesforsikringer, hvor sikrede skifter erhverv, jf. Forsikringsankenævnet sagsnr.: 73227, 71829, 71784, 70448, 68172, 68550 og 67175.  
+En hyppigste fareforøgelse forekommer i forhold til ulykkesforsikringer, hvor sikrede skifter erhverv, jf. **Forsikringsankenævnet sagsnr.: 73227, 71829, 71784, 70448, 68172, 68550 og 67175**. 
+
+---
 
 #### Forsikringsselskabets pligter
 
 Forsikringsselskabets pligt eller modydelse kaldes forsikringsydelsen. 
 
-Dvs. erstatningen skal udbetales af selskabet, når der er indtrådt en erstatningsberettiget forsikringsbegivenhed – eller sagt på en anden måde, når der er sket en skade, som er dækket af forsikringen.  
+Dvs. erstatningen skal udbetales af selskabet, når der er indtrådt en erstatningsberettiget forsikringsbegivenhed – eller sagt på en anden måde, når der er sket en skade, som er dækket af forsikringen.
+
+---
 
 #### Anmeldelse af forsikringsbegivenheden
 
@@ -486,35 +560,49 @@ Af forsikringsbetingelserne fremgår, at man skal anmelde enhver skade så hurti
 
 På den måde kan forsikringsselskabet danne sig et overblik over skadens omfang og sørge for at indhente supplerende oplysninger om skaden, hvis det er nødvendigt. Det kan også være, at skadede genstande bør „sikres“, så det senere er utvivlsomt,hvad skaden omfatter.  
 
+---
+
 #### Urigtige risikooplysninger
 
 Ved forsikringsaftalens indgåelse skal man afgive risikooplysninger, således at forsikringsselskabet kan vurdere risikoen og fastsætte præmie og vilkår. 
 
-Det er derfor vigtigt, at risikooplysningerne er korrekte. Hvis oplysningerne ikke er rigtige, kan det føre til nedsat erstatning eller slet ingen erstatning, hvis forsikringsselskabet annullerer forsikringen helt.  
+Det er derfor vigtigt, at risikooplysningerne er korrekte. 
+
+Hvis oplysningerne ikke er rigtige, kan det føre til nedsat erstatning eller slet ingen erstatning, hvis forsikringsselskabet annullerer forsikringen helt.  
 
 Risikooplysningerne afgives sædvanligvis i et spørgeskema (begæringen). 
 
-I en begæring om familieforsikring spørges der bl.a. om tidligere skadesforløb, og om man tidligere er sagt op af et andet forsikringsselskab. Forsikringsselskaberne går ud fra, at oplysninger, der afgives, er rigtige, men undersøger det stikprøvevis i skadesituationen. 
+I en begæring om familieforsikring spørges der bl.a. om tidligere skadesforløb, og om man tidligere er sagt op af et andet forsikringsselskab. 
+
+Forsikringsselskaberne går ud fra, at oplysninger, der afgives, er rigtige, men undersøger det stikprøvevis i skadesituationen. 
 
 Hvis der er afgivet urigtige oplysninger ved tegningen, medfører det som regel, at forsikringen annulleres med tilbagevirkende kraft, hvis selskabet kan godtgøre, at det ifølge sin acceptpolitik ikke ville have tegnet forsikringen, hvis det havde kendt til de rigtige oplysninger. 
 
 Konsekvensen er, at der heller ikke bliver udbetalt erstatning. Se nærmere i FAL § 6 samt nedenfor.
 
+---
+
 Se retspraksis:
 
 *FED 2015.120: A havde ikke oplyst F om de rigtige brugerforhold af hendes bil, hvilket var groft uagtsomt i henhold til FAL §§ 6 og 7. F kunne derfor rette et forholdsmæssigt krav mod A*.  
 
+---
 
 **Video: Hvordan dækker familieforsikringen**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/FfIcQgcMKn4" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
 
 #### Risikoforøgelse skal anmeldes til forsikringsselskabet
 
 Præmien for en forsikring beregnes ud fra risikoforholdene på tidspunktet for forsikringens tegning. 
 
 Ifølge policen/forsikringsbetingelserne skal det anmeldes til selskabet, såfremt der sker ændringer i fx en bygnings benyttelse.  
-Manglende anmeldelse af ændringer kan derfor resultere i, at der enten – hvis en risikoforøgelse bortfalder – betales for meget i præmie, eller at forsikringen – hvis risikoen forøges – yder utilstrækkelig dækning.   
+
+Manglende anmeldelse af ændringer kan derfor resultere i, at der enten – hvis en risikoforøgelse bortfalder – betales for meget i præmie, eller at forsikringen – hvis risikoen forøges – yder utilstrækkelig dækning. 
+
+---
 
 #### Overholdelse af sikkerhedsforskrifter
 
@@ -526,7 +614,9 @@ Forsikringsselskabet vil normalt afslå at tegne forsikringen, hvis man nægter 
 
 Som følge heraf vil det være en væsentlig forudsætning for forsikringsselskabet, at sikkerhedsforskrifterne overholdes. 
 
-En sikkerhedsforskrift skal være præcist bekrevet i policen, og såfremt forsikringsselskabet kan bevise, at forsikringstageren forsætligt eller uagtsomt har overtrådt en sikkerhedsforskrift, der medfører skade eller forøger skadens omfang, er forsikringsselskabet fri for ansvar, medmindre forsikringstageren kan bevise, at det forhold, der er udvist, har været uden betydning for forsikringsbegivenhedens indtræden og skadens størrelse.  
+En sikkerhedsforskrift skal være præcist bekrevet i policen, og såfremt forsikringsselskabet kan bevise, at forsikringstageren forsætligt eller uagtsomt har overtrådt en sikkerhedsforskrift, der medfører skade eller forøger skadens omfang, er forsikringsselskabet fri for ansvar, medmindre forsikringstageren kan bevise, at det forhold, der er udvist, har været uden betydning for forsikringsbegivenhedens indtræden og skadens størrelse. 
+
+---
 
 #### Betalingsproceduren omkring forsikringspræmien
 
@@ -540,15 +630,21 @@ Påkravet (girokortet) sendes som regel ud i slutningen af måneden forud for fo
 
 I påkravet vil det være anført, at præmien skal betales senest 21 dage efter forsikringsselskabets påkrav herom.  
 
-Hvis betaling ikke er sket rettidigt, kan forsikringsselskabet, når der er gået yderligere 14 dage, opsige aftalen. Dog får man i den forbindelse en frist på endnu 21 dage til at betale i henhold til påkravet. 
+Hvis betaling ikke er sket rettidigt, kan forsikringsselskabet, når der er gået yderligere 14 dage, opsige aftalen. 
+
+Dog får man i den forbindelse en frist på endnu 21 dage til at betale i henhold til påkravet. 
 
 I praksis vil en forsikringstager således have i alt 8 uger (3 uger + 2 uger + 3 uger) til at få præmiebetalingen bragt i orden, uden at det får dækningsmæssige konsekvenser.  
 
 Er der tale om en nytegnet forsikring, kan det være aftalt, at forsikringsaftalen ophører uden opsigelse, hvis betaling ikke er sket inden en kortere frist (typisk 1 uge).  
 
+---
+
 #### Generelle forhold mellem forsikringstageren og forsikringsselskabet
 
-Udbetaler forsikringsselskabet ikke erstatning til forsikringstageren inden 14 dage efter, at selskabet har modtaget de nødvendige oplysninger til at afgøre forsikringstagerens krav, skal selskabet betale renter af erstatningen fra denne dato. Det fremgår af FAL § 24.   
+Udbetaler forsikringsselskabet ikke erstatning til forsikringstageren inden 14 dage efter, at selskabet har modtaget de nødvendige oplysninger til at afgøre forsikringstagerens krav, skal selskabet betale renter af erstatningen fra denne dato. Det fremgår af FAL § 24.  
+
+---
 
 **Se eksempler fra retspraksis:**   
 
@@ -560,14 +656,17 @@ Udbetaler forsikringsselskabet ikke erstatning til forsikringstageren inden 14 d
   
 *FED 2000.70: Nedbrændt stald omfattet af bygningsbrandforsikring. Reparationsudgifterne måtte antages at overstige 50% af nyværdien, hvorfor sikrede havde været berettiget til at nedrive stalden og kræve genopførelseserstatning, som dog blev reduceret med 50% pga. slid og ælde. Erstatningen skulle forrentes fra 14 dage efter skadedatoen, da forsikringsselskabet, der fejlagtigt havde afvist skaden, selv kunne have tilvejebragt de fornødne oplysninger.*
 
+---
 
 Skal forsikringsselskabet erstatte skaden således, at selskabet betaler indkomne fakturaer fra f.eks. håndværkere, tandlæge eller kiropraktor, skal selskabet normalt ikke betale renter til forsikringstageren. 
 
 Betaler forsikringstageren derimod selv eksempelvis håndværkeren, og forsikringsselskabet skal erstatte forsikringstagerens udlæg, forrentes forsikringstagerens krav som udgangspunkt 14 dage efter, at forsikringsselskabet har modtaget fakturaen og forsikringstagerens meddelelse om, at forsikringstageren har betalt (forudsat, at de øvrige betingelser er opfyldt).  
 
-Forsikringsselskabet skal udbetale aconto-erstatning til forsikringstageren, hvis en del af erstatningen kan opgøres, og det er sikkert, at selskabet under alle omstændigheder skal udbetale dette beløb i erstatning til forsikringstageren.  
+Forsikringsselskabet skal udbetale **aconto-erstatning** til forsikringstageren, hvis en del af erstatningen kan opgøres, og det er sikkert, at selskabet under alle omstændigheder skal udbetale dette beløb i erstatning til forsikringstageren.  
 
-Forsikringsselskabet kan altså ikke tilbageholde hele erstatningen, fordi der stadig er genstande, hvor erstatningen ikke kan fastsættes. Det fremgår nærmere af FAL § 24, stk. 1, og § 25.  
+Forsikringsselskabet kan altså ikke tilbageholde hele erstatningen, fordi der stadig er genstande, hvor erstatningen ikke kan fastsættes. Det fremgår nærmere af FAL § 24, stk. 1, og § 25.
+
+---
 
 #### Sikkerhedsforholdsregler/sikkerhedsforskrifter
 
@@ -587,10 +686,14 @@ Reglerne findes i FAL § 51. Det er forsikringsselskabets bevisbyrde, hvis selsk
 
 * Krav i motorkøretøjsforsikringen om, at føreren skal have gyldigt  
   kørekort.  
+  
+---
 
 **Video: Jørgen har styr på det**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/Oi1NnFx8NB4" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
 
 **Se praksis fra Forsikringsankenævnet og retspraksis omkring FAL § 51**  
 
@@ -602,6 +705,7 @@ Reglerne findes i FAL § 51. Det er forsikringsselskabets bevisbyrde, hvis selsk
 
 *Se U 2004 993 H: Forsikringsselskab kunne ikke nægte udbetaling af brandforsikringssum under henvisning til, at forsikringstageren havde tilsidesat sikkerhedsforholdsregler ved halmfyring. Under fyring med halmfyr på en landbrugsejendom opstod der brand, hvorved der opstod skade på ejendommen for ca. 3,7 mio. kr. Forsikringsselskabet F, der havde brandforsikret ejendommen, nægtede at udbetale erstatning til gårdejeren G under henvisning til, at det af forsikringspolicen fremgik, at det var en betingelse, at halmfyringsanlæggets indretning og drift var i overensstemmelse med reglerne i Brandteknisk vejledning, og at disse regler på flere punkter ikke var blevet overholdt. Der havde således været gennemtæringer af lågen til fyret, og der var under branden blevet konstateret halmspild i kedelrummet. Landsretten lagde til grund, at fyrets låge ikke havde været i overensstemmelse med forskrifterne i Brandteknisk vejledning, og at halmspildet ligeledes indebar en overtrædelse heraf, og frifandt F for G's krav om udbetaling af forsikringssummen. Højesteret fandt det betænkeligt at anse det for godtgjort, at G's manglende vedligeholdelse af lågen havde været af en sådan karakter, at den kunne tilregnes ham som en forsømmelse, og fandt det tillige betænkeligt at anse det for godtgjort, at der umiddelbart før branden havde været halmspild i kedelrummet i et sådant omfang, at G havde gjort sig skyldig i forsømmelse med hensyn til overholdelse af sikkerhedsforholdsreglen herom. Højesteret dømte derfor F til at udbetale sædvanlig bygningsbrandskadeerstatning til G.*
 
+---
 
 *Forsikringsselskabets bevisbyrde*
 
@@ -617,18 +721,27 @@ Forsikringsselskabet skal derfor ikke betale erstatning efter reglerne om indbru
 
 *Se sagsnr.: 91904. Klager over, at selskabet havde behandlet et anmeldt indbrudstyveri som simpelt tyveri og afvist at dække stjålne smykker. Tyven var kommet ind ad vindue på 1. sal, mens der ikke var nogen hjemme. Ifølge forsikringsbetingelserne var det et krav, at vinduer var lukkede og tilhaspede, når boligen var forladt. Nævnet fandt, at selskabet havde bevist, at vinduet ikke havde været lukket og tilhaspet, og at et vindue anbragt i udluftningsposition ikke opfyldte kravet til „lukket og tilhaspet“. Da den manglende overholdelse af sikkerhedsforskriften måtte tilregnes klageren som uagtsom, og da der var årsagssammenhæng mellem tyveriet og forskriftens tilsidesættelse, kunne nævnet ikke kritisere selskabets afgørelse. Selskab medhold.*  
 
+---
+
 Der vil ikke være tale om en forsømmelse, hvis man på vej ud ad døren får et epilepsianfald og besvimer, og en tyv i samme øjeblik begår tyveri i ens bolig: 
 
 *Sagsnr.: 41133. Klager får et epilepsianfald, lige efter hun har låst sin dør op for at gå ud. Hun må lægge sig og falder i søvn, hvorefter hendes taske indeholdende bl.a. guldur og kontanter bliver stjålet fra den uaflåste bolig. Den manglende overholdelse af sikkerhedsforskriften fandtes ikke at kunne tilregnes klageren som uagtsom*. 
+
+---
 
 Overser tyven, at døren er ulåst, og smadrer tyven et vindue og kravler ind gennem vinduet, er der ikke årsagssammenhæng mellem, at forsikringstageren glemte at låse døren, og tyveriet. Forsikringsselskabet skal derfor udbetale erstatning:  
 
 *Sagsnr.: 84958. Klager over erstatningsopgørelse. Klager anmeldte et indbrudstyveri fra sit hus. Selskabet udbetalte 11.228 kr. i erstatning, men afviste dækning for smykker og kontanter med henvisning til, at huset ikke var forsvarligt aflåst på tyveritidspunktet. Selskabet anførte desuden, at klager havde handlet groft uagtsomt, idet hun ikke havde omkodet husets låse efter et tasketyveri 5 måneder forinden, hvor identifikationspapirer og en husnøgle blev stjålet. Nævnet fandt, at klager havde tilsidesat sikkerhedsforskriften om forsvarlig aflåsning mht. en uaflåst kælderdør, men at selskabet ikke havde bevist, at der var årsagssammenhæng mellem tilsidesættelsen og det skete tyveri. Nævnet fandt det ikke bevist, at klager i øvrigt havde tilsidesat sikkerhedsforskriften om forsvarlig aflåsning. Selskabet var derfor ikke berettiget til at betragte tyveriet som et simpelt tyveri. Nævnet fandt, at selskabet ikke havde bevist, at klager ved grov uagtsomhed havde tilsidesat sin tabsbegrænsningspligt ved ikke at få omkodet sine låse efter tasketyveriet. Klager fik dermed medhold.*  
 
-Har forsikringsselskabet formuleret dækningsbetingelsen helt objektivt, er der ikke tale om en sikkerhedsforholdsregel. Eksempelvis kan selskabet i en familie-/indboforsikring skrive, at der ved indbrudstyveri skal være "tegn på voldeligt opbrud". 
+---
+
+Har forsikringsselskabet formuleret dækningsbetingelsen helt objektivt, er der ikke tale om en sikkerhedsforholdsregel. 
+
+Eksempelvis kan selskabet i en familie-/indboforsikring skrive, at der ved indbrudstyveri skal være "tegn på voldeligt opbrud". 
 
 Står dette tydeligt i forsikringstagerens forsikringsbetingelser, får forsikringstageren kun erstatning efter reglerne om indbrudstyveri, hvis forsikringstageren kan bevise, at der er tegn på voldeligt opbrud af ens bolig, og det er uden betydning, om forsikringstageren har udvist nogen forsømmelse eller ej.  
 
+---
 
 #### Risikooplysninger og urigtige oplysninger
 
@@ -646,13 +759,19 @@ Forsikringsselskabet kan kun ophæve forsikringen med tilbagevirkende kraft og h
 
 Man skal derfor være meget omhyggelig med at svare rigtigt på spørgsmålene, når man indgår en forsikringsaftale. 
 
-Og kontrollér nøje, hvilke oplysninger – f.eks. om antal skader mv. – der fremgår af det forsikringstilbud, man får fra forsikringsselskabet. Husk, at det, man mundtligt oplyser til en sælger (assurandør), også skal fremgå af de papirer, man skriver under på, idet man senere hen vil have meget vanskeligt ved at bevise, at man oplyste noget andet til sælgeren end det, man skrev under på. 
+Og kontrollér nøje, hvilke oplysninger – f.eks. om antal skader mv. – der fremgår af det forsikringstilbud, man får fra forsikringsselskabet. 
 
-Tegner man flere forsikringer på samme tid i forsikringsselskabet, kan man risikere, at de urigtige oplysninger – som man afgav for én forsikring – får betydning for alle de forsikringer, man tegnede samtidig. 
+Husk, at det, man mundtligt oplyser til en sælger (assurandør), også skal fremgå af de papirer, man skriver under på, idet man senere hen vil have meget vanskeligt ved at bevise, at man oplyste noget andet til sælgeren end det, man skrev under på. 
+
+Tegner man flere forsikringer på samme tid i forsikringsselskabet, kan man risikere, at de urigtige oplysninger – som man afgav for én forsikring – får betydning for alle de forsikringer, man tegnede samtidig.
+
+---
 
 Se eksempelvis Forsikringsankenævnets sagsnr.: 99.208:  
 
 *Sagsnr.: 99208. Hvor klageren i forbindelse med køb af indbo-, bil- og ulykkesforsikring i selskabet havde sat kryds i "nej" som svar på spørgsmålet: "Har et selskab over for en i husstanden inden for de seneste tre år stillet krav om skærpede vilkår (f.eks. forhøjet præmie og/eller selvrisiko) efter anmeldelse af skade(r)?". Klagerens tidligere bilforsikringsselskab havde 4 måneder før sendt et brev til klageren, hvor det oplyste, at det forhøjede selvrisikoen. Nævnet fandt, at selskabet ved fremlæggelse af sine interne acceptregler kunne sandsynliggøre, at det, såfremt klageren havde afgivet korrekte oplysninger, ikke ville have tegnet andre forsikringer end den lovpligtige ansvarsforsikring for bilen. Nævnet kunne derfor ikke kritisere, at selskabet havde ophævet alle forsikringerne – bortset fra ansvarsforsikringen for bilen – med tilbagevirkende kraft til tegningstidspunktet. Klageren fik som konsekvens heraf ikke udbetalt erstatning for et indbrudstyveri.*
+
+---
 
 Risikooplysningerne afgives ofte i et spørgeskema (forsikringsbegæringen). 
 
@@ -662,11 +781,15 @@ Forsikringsselskabet kan også spørge, om man er registreret som dårlig betale
 
 I stedet for begæringer stiller en del selskaber telefonisk spørgsmålene til én og beder om, at man på en mail bekræfter, at de svar, selskabet har noteret, er korrekte. 
 
-Forsikringsselskaberne går ud fra, at ens oplysninger er rigtige. Forsikringsselskaberne undersøger kun stikprøvevis, om ens oplysninger er korrekte. 
+Forsikringsselskaberne går ud fra, at ens oplysninger er rigtige.
+
+Forsikringsselskaberne undersøger kun stikprøvevis, om ens oplysninger er korrekte. 
 
 Oftest undersøger selskabet først, om ens oplysninger var korrekte, når man har anmeldt én eller flere skader til selskabet. 
 
-Afgiver man oplysningerne telefonisk til forsikringsselskabet, uden at der foreligger et dokument med ens svar, som man efterfølgende har set og godkendt, skal selskabet bevise, at man telefonisk afgav urigtige oplysninger. 
+Afgiver man oplysningerne telefonisk til forsikringsselskabet, uden at der foreligger et dokument med ens svar, som man efterfølgende har set og godkendt, skal selskabet bevise, at man telefonisk afgav urigtige oplysninger.
+
+---
 
 Se Forsikringsankenævnets sagsnr.: 83753 og 78797:  
 
@@ -674,10 +797,11 @@ Se Forsikringsankenævnets sagsnr.: 83753 og 78797:
 
 *I sagsnr.: 78797 kunne selskabet ikke bevise, at klageren telefonisk havde afgivet urigtige oplysninger. „Her var det ikke nok, at selskabet i policen, som klageren modtog efter at have indgået aftalen med selskabet, under et punkt, der hed "Øvrige forhold ved forsikringen", blandt andet havde skrevet "Du har ikke haft skader de sidste 3 år" og "Du er ikke opsagt af – eller har fået skærpede vilkår – i andet selskab". Nævnet henviste her til forsikringsaftalelovens § 10, stk. 3, hvor det fremgår, at hvis selskabet i policen har beskrevet et faktisk forhold uden at have indhentet oplysning om det fra forsikringstageren, kan det ikke komme forsikringstageren til skade, hvis det viser sig, at oplysningen var urigtig“. Reglerne om ens og forsikringsselskabets rettigheder, hvis man har givet urigtige oplysninger, finder man i FAL §§ 4-10.*  
 
+---
 
 #### Erstatning og renter
 
-Udbetaler forsikringsselskabet ikke erstatning til dig inden 14 dage efter, at selskabet har modtaget de nødvendige oplysninger til at afgøre ens krav, skal selskabet betale renter af erstatningen fra denne dato. Det fremgår af FAL § 24.  
+Udbetaler forsikringsselskabet ikke erstatning til forsikringstageren inden 14 dage efter, at selskabet har modtaget de nødvendige oplysninger til at afgøre ens krav, skal selskabet betale renter af erstatningen fra denne dato. Det fremgår af FAL § 24.  
 
 Skal forsikringsselskabet erstatte skaden således, at selskabet betaler indkomne fakturaer fra f.eks. håndværkere, tandlæge eller kiropraktor, skal selskabet normalt ikke betale renter til forsikringstageren. 
 
@@ -687,6 +811,7 @@ Forsikringsselskabet skal udbetale aconto-erstatning til forsikringstageren, hvi
 
 Selskabet kan altså ikke tilbageholde hele erstatningen, fordi der stadig er genstande, hvor erstatningen ikke kan fastsættes. Det fremgår af FAL § 24, stk. 1, og § 25  
 
+---
 
 #### Under- og dobbeltforsikring
 
@@ -705,6 +830,8 @@ Ved underforsikring bliver erstatningen regnet ud efter denne formel:
 Skade x forsikringssum = Erstatning  
 forsikringsværdi  
 
+---
+
 *Eksempel:*   
 Er forsikringsværdien af ens indbo 800.000 kr. og ens forsikringssum kun på 400.000 kr., vil der blive udbetalt halv erstatning for ens skade.
 
@@ -712,15 +839,21 @@ Er ens forsikringssum større end ens værdier, er man overforsikret.
 
 Forsikringsselskabet betaler i den situation alene erstatning for ens skade og ikke for det, man har betalt for meget i forsikring.  
 
+---
+
 #### Forældelse af forsikringskrav
 
-For at man kan få fyldestgjort sit krav, skal man fremsætte det, inden det er forældet. Som udgangspunkt sker der forældelse efter 3 år, jf. forældelseslovens § 3, stk. 1. 
+For at man kan få fyldestgjort sit krav, skal man fremsætte det, inden det er forældet. 
+
+Som udgangspunkt sker der forældelse efter 3 år, jf. forældelseslovens § 3, stk. 1. 
 
 Det betyder, at man skal have fremsat sit krav overfor selskabet indenfor 3 år. 
 
 Fristen regnes fra skadetidspunktet. 
 
-Hvis skaden ikke kan konstateres med det samme, regnes 3-årsfristen fra det tidspunkt, hvor skaden opdages eller konstateres, dog således, at der under alle omstændigheder sker forældelse senest 30 år efter skadetidspunktet for så vidt angår erstatning og godtgørelse i anledning af personskade. For tingsskade er denne frist 10 år.  
+Hvis skaden ikke kan konstateres med det samme, regnes 3-årsfristen fra det tidspunkt, hvor skaden opdages eller konstateres, dog således, at der under alle omstændigheder sker forældelse senest 30 år efter skadetidspunktet for så vidt angår erstatning og godtgørelse i anledning af personskade. 
+
+For tingsskade er denne frist 10 år.  
 
 Når en sag indbringes for Ankenævnet for Forsikring inden for forældelsesfristen, forældes sagen ikke, mens nævnet behandler sagen. 
 
@@ -738,10 +871,13 @@ Reglerne kan ikke fraviges af selskabet til skade for forsikringstageren.
 
 Dog kan selskabet gyldigt aftale en anmeldelsesfrist i forbindelse med forsikringens ophør, hvis denne frist er mindst 6 mdr.  
 
+---
 
 #### Klage over forsikringsselskabets afgørelse
 
-Ankenævnet for Forsikring er et privat klagenævn oprettet i 1975 af Forbrugerrådet Tænk og brancheforeningen Forsikring & Pension. Ankenævnet er godkendt af Erhvervsministeren og derfor "autoriseret" til at behandle forsikringsklager udenretligt.  
+**Ankenævnet for Forsikring** er et privat klagenævn oprettet i 1975 af Forbrugerrådet Tænk og brancheforeningen Forsikring & Pension. 
+
+Ankenævnet er godkendt af Erhvervsministeren og derfor "autoriseret" til at behandle forsikringsklager udenretligt.  
 
 **Kriterier for at klage**  
 
@@ -786,6 +922,7 @@ Stk. 5. En afvisning skal begrundes, og forbrugeren skal oplyses om muligheden f
 
 Stk. 2. Nævnets formand kan på nævnets vegne afvise sager, som ikke skønnes egnede til behandling ved nævnet i medfør af § 4, stk. 3, jf. forbrugerklagelovens § 16, stk. 2".
 
+---
 
 **Behandling af klage** 
 
@@ -793,20 +930,25 @@ Ankenævnet kan ikke behandle klagen, hvis behandling hører under offentlige my
 
 Nævnet kan heller ikke behandle klagen, hvis ens sag er afgjort ved endelig dom, gyldigt bindende voldgift eller retsforlig.  
 
+---
 
 **Hvornår kan man klage**  
 
 Man kan først klage til Ankenævnet, når man har klaget til forsikringsselskabet over afgørelsen, og forsikringsselskabet har fastholdt sin afgørelse eller har undladt at besvare ens klage.  
 
+---
 
 **Klagegebyr**
 
 Man skal betale et klagegebyr på 200 kr. Hvis man får medhold i sin klage, får man gebyret retur. Det samme gælder, hvis Forsikringsankenævnet ikke kan afgøre ens sag.  
 
+---
 
 **Sagsbehandlingstid** 
 
 Den typiske sagsbehandlingstid er 6-8 måneder. Sagsbehandlingstiden afhænger i høj grad af, hvor mange gange klageren og forsikringsselskabet ønsker at indsende nye oplysninger eller synspunkter til sagen. 
+
+---
 
 Europæiske klageorganer: Ankenævnet for Forsikring er optaget på Europa-Kommissionens liste over alternative tvistbilæggelsesorganer (ATB-instanser) og kan modtage klager via Europa-Kommissionens online-tvistbilæggelsesplatform (OTB-platform). 
 
@@ -826,7 +968,7 @@ www.ankeforsikring.dk
 Hvis klagen falder uden for Ankenævnet for Forsikrings område – det vil navnlig vedrøre klager over modpartens forsikringsselskab og erhvervsforsikring – kan forbrugeren kontakte Forsikringsoplysningen,
 Konkurrence- og Forbrugerstyrelsen/Forbrugerklagenævnet eller i den sidste ende starte en sag op ved domstolene. 
 
-
+---
 
 #### Andre finansielle tvistløsningsorganer
 
@@ -863,6 +1005,8 @@ Ankenævnet behandler desuden klager over danske filialer af udenlandske pengein
 
 Klager over grønlandske pengeinstitutter falder uden for Ankenævnets kompetence. 
 
+---
+
 **4. Hvad kan man klage over?**
 
 Ens klage kan angå samtlige omstændigheder mellem penge- og realkreditinstituttet samt investeringsfonden og kunden.
@@ -892,6 +1036,8 @@ Stk. 3. Så længe en klagesag verserer for Ankenævnet, kan sagens parter ikke 
 § 4
 
 Sager, hvis behandling i henhold til lovgivningen er henlagt til offentlige myndigheder eller andre tvistløsningsorganer, falder uden for Ankenævnets kompetence.
+
+---
 
 **Afvisning af klagesager**
 
@@ -934,6 +1080,7 @@ Stk. 1. Er det åbenbart, at sagen falder uden for Ankenævnets kompetence, kan 
 Stk. 2. De stiftende organisationer kan bemyndige Ankenævnets formand til på Ankenævnets vegne at afvise sager, som ikke skønnes egnede til behandling ved Ankenævnet i medfør af § 5, stk. 3".
 
 
+---
 
 **5. Hvordan indgiver man en klage?**
 
@@ -957,7 +1104,9 @@ Man kan starte klagesagen ved anvendelse af dette link:
 
 https://fanke.dk/det-finansielle-ankenaevn/indgivelseafklage/
 
-Hvis man ikke har mulighed for at indgive sin klage via ankenævnets hjemmeside, kan man kontakte Sekretariatet for Det finansielle ankenævn på telefon 3543 6333. Telefontid mandag – fredag kl. 9.30-12.30. 
+Hvis man ikke har mulighed for at indgive sin klage via ankenævnets hjemmeside, kan man kontakte Sekretariatet for Det finansielle ankenævn på telefon 3543 6333. Telefontid mandag – fredag kl. 9.30-12.30.
+
+---
 
 **6. Hvordan arbejder Ankenævnet?**
 
@@ -998,6 +1147,8 @@ Hvis man ikke får medhold i sagen vil man, når det er relevant, blive vejledt 
 Man skal som klager være opmærksom på, at sagen kan blive forældet, hvis man anlægger en eventuel retssag senere end ét år efter Ankenævnets afgørelse.
 
 På ankenævnets hjemmeside finder man samtlige afgørelser, som Ankenævnet har truffet.
+
+---
 
 **7. Hvordan er ankenævnet sammensat?**
 
@@ -1075,7 +1226,8 @@ Erhvervsdrivende henvises til domstolene. Finanstilsynet træffer en traditionel
 
 Såfremt en sag om god skik har vidtrækkende eller principiel betydning, skal Finanstilsynet forelægge sagen for Tilsynets bestyrelse.  
 
-Se følgende kontaktoplysninger:  
+Se følgende kontaktoplysninger: 
+
 Finanstilsynet  
 Århusgade 110,  
 2100 København Ø  
@@ -1100,11 +1252,10 @@ Det kan anbefales, at du tilmelder dig Finanstilsynets nyhedsbreve!
 
 ---
 
-Der følger nu nogle udvalgte forsikringstyper:
+**Der følger nu en gennemgang af nogle udvalgte forsikringstyper:**
+
 
 ### <font color="red">Ansvarsforsikring<sup> Premium </font></sup>
-
-
 
 
 Følgende betragtninger og oplysninger om det private ansvar, husejeransvaret, ansvaret for ens hund, skader på arbejdet samt skader ved udøvelse af sportsaktiviteter bygger hovedsageligt på Forsikringsankenævnets oplysninger i ankenævnets ”klageguide” samt Forsikringsankenævnets praksis, herunder på retspraksis, samt viden fra Forsikringsoplysningen.
@@ -1122,7 +1273,9 @@ Privatansvarsforsikringen dækker kun, hvis man juridisk set er erstatningsansva
 
 Forsikringen dækker således normalt ikke, hvis man ønsker at betale erstatning ud fra et “rimelighedssynspunkt” eller ud fra ens moralske opfattelse.
 
-Efter dansk ret er man juridisk set ansvarlig for en skade, hvis man har udvist en uforsvarlig adfærd (handling eller undladelse), hvis adfærden kan tilregnes en som forsætlig eller uagtsom, og hvis den skade, som man har forvoldt, må anses for at være en forventelig (påregnelig) følge af ens adfærd. Denne såkaldte culparegel står ikke skrevet i nogen lov, men er udviklet gennem en langvarig retspraksis.
+Efter dansk ret er man juridisk set ansvarlig for en skade, hvis man har udvist en uforsvarlig adfærd (handling eller undladelse), hvis adfærden kan tilregnes en som forsætlig eller uagtsom, og hvis den skade, som man har forvoldt, må anses for at være en forventelig (påregnelig) følge af ens adfærd. 
+
+Denne såkaldte culparegel står ikke skrevet i nogen lov, men er udviklet gennem en langvarig retspraksis.
 
 Hændelige skader er man ikke ansvarlig for, se f.eks. her fra retspraksis følgende afsagte domme:
 
@@ -1169,7 +1322,9 @@ Forsikringen dækker normalt ikke, hvis man har handlet forsætligt (med vilje).
 
 ---
 
-Har forsikringstageren handlet forsætligt, må han eller hun selv betale erstatning til den skadelidte. Har et barn under 14 år handlet forsætligt, dækker ansvarsforsikringen dog som udgangspunkt også sådanne forsætlige skader. 
+Har forsikringstageren handlet forsætligt, må han eller hun selv betale erstatning til den skadelidte. 
+
+Har et barn under 14 år handlet forsætligt, dækker ansvarsforsikringen dog som udgangspunkt også sådanne forsætlige skader. 
 
 Det samme er tilfældet, hvis man – da man forvoldte skaden – på grund af ens sindstilstand manglede evnen til at handle fornuftsmæssigt.
 
@@ -1193,7 +1348,9 @@ Man skal altid have klaget til forsikringsselskabet over dets afgørelse, før m
 
 Det er værd at bemærke, at Forsikringsankenævnet ikke kan behandle en klage, hvis man som skadelidt mener, at skadevolderens forsikringsselskab skal erstatte de skader/tab, som skadevolderen har påført en som skadelidt. 
 
-Det skyldes, at ankenævnet kun kan behandle klager over forsikringer, som man selv eller en i ens husstand har købt. Og da det ikke er skadelidtes forsikring, der rettes krav imod, kan Forsikringsankenævnet ikke behandle sagen.
+Det skyldes, at ankenævnet kun kan behandle klager over forsikringer, som man selv eller en i ens husstand har købt. 
+
+Og da det ikke er skadelidtes forsikring, der rettes krav imod, kan Forsikringsankenævnet ikke behandle sagen.
 
 Hvis man som skadelidt ikke kan blive enig med skadevolderen eller med vedkommendes forsikringsselskab, er skadelidte nødt til at anlægge en retssag ved domstolene mod skadevolderen. 
 
@@ -1207,6 +1364,7 @@ Forsikringsankenævnet vil normalt lægge størst vægt på de oplysninger, der 
 
 Og ankenævnet vil ofte lægge betydelig vægt på de forklaringer, som forsikringstageren eller en anden person først har givet til forsikringsselskabet eller til en tredjemand.
 
+---
 
 ##### Uagtsom, forsætlig og hændelig skade samt gæstebudsskade
 
@@ -1215,6 +1373,8 @@ Privatansvarsforsikringen dækker som nævnt, hvis forsikringstageren juridisk s
 For at pådrage sig et erstatningsansvar skal man bl.a. have udvist en uforsvarlig adfærd (handling eller undladelse), som kan tilregnes én som forsætlig eller uagtsom, og den skade, man har forvoldt, skal være en påregnelig følge af ens adfærd. 
 
 Denne såkaldte culparegel står ikke skrevet i nogen lov, men er udviklet gennem langvarig retspraksis.
+
+---
 
 ##### Uagtsom
 
@@ -1242,9 +1402,11 @@ Har man handlet forsætligt, bliver man selvfølgelig erstatningsansvarlig over 
 
 Dette gælder dog ikke for børn under 14 år, der handler forsætligt, medmindre det klart fremgår af forsikringsbetingelserne, at børns forsætlige handlinger ikke dækkes. 
 
+---
+
 Det følger af forsikringsaftalelovens (Lovbekendtgørelse nr. 1237 af 9. november 2015) § 19, stk. 1:
 
-Bestemmelserne i FAL§ 18 om bortfald eller begrænsning af selskabets ansvar finder ikke anvendelse, når den sikrede var under 14 år eller på grund af sindssygdom, åndssvaghed, forbigående sindsforvirring eller lignende tilstand har manglet evnen til at handle fornuftsmæssigt.
+**Bestemmelserne i FAL§ 18 om bortfald eller begrænsning af selskabets ansvar finder ikke anvendelse, når den sikrede var under 14 år eller på grund af sindssygdom, åndssvaghed, forbigående sindsforvirring eller lignende tilstand har manglet evnen til at handle fornuftsmæssigt**.
 
 
 ---
@@ -1350,36 +1512,56 @@ footnote(number = "Hvis skadevolder er under 14 år eller er utilregnelig, kan d
 
 
 
-Er skaden dækket af en tingsforsikring tegnet af skadelidte, f.eks. en indboforsikring eller en kaskoforsikring på hus eller bil, er skadevolder som udgangspunkt ikke erstatningsansvarlig for skaden, og skadevolders ansvarsforsikring skal derfor ikke dække. Skadelidte må i stedet rette henvendelse til sit eget forsikringsselskab.
+Er skaden dækket af en tingsforsikring tegnet af skadelidte, f.eks. en indboforsikring eller en kaskoforsikring på hus eller bil, er skadevolder som udgangspunkt ikke erstatningsansvarlig for skaden, og skadevolders ansvarsforsikring skal derfor ikke dække. 
 
-Der gælder visse undtagelser fra dette princip. Eksempelvis er der alligevel erstatningsansvar – og dækning hos ens ansvarsforsikringsselskab – hvis man har forvoldt skaden ved grov uagtsomhed. 
+Skadelidte må i stedet rette henvendelse til sit eget forsikringsselskab.
+
+Der gælder visse undtagelser fra dette princip. 
+
+Eksempelvis er der alligevel erstatningsansvar – og dækning hos ens ansvarsforsikringsselskab – hvis man har forvoldt skaden ved grov uagtsomhed. 
 
 Ved grov uagtsomhed forstås normalt, at den udviste adfærd indebar en indlysende fare for den skade, som faktisk skete. 
 
 Der er ligeledes erstatningsansvar, hvis man har forvoldt skaden forsætligt, men i de tilfælde dækker ens ansvarsforsikring som ovenfor anført ikke.
 
+---
+
 ##### Ansvarsforsikringens undtagelser
 
-Privatansvarsforsikringen indeholder en række undtagelser, hvor ansvarsforsikringen ikke dækker. De mest almindelige undtagelser er ifølge Forsikringsankenævnet følgende:
+Privatansvarsforsikringen indeholder en række undtagelser, hvor ansvarsforsikringen ikke dækker. 
 
-Ansvar for skade, der rammer den sikrede personkreds
-Ansvarsforsikringen dækker normalt ikke, hvis man kommer til at forvolde skade på en af de personer, som familie-/indboforsikringen omfatter. 
+De mest almindelige undtagelser er ifølge Forsikringsankenævnet følgende:
 
-Det vil typisk være tilfældet, hvis man forvolder skade på ejendele, der tilhører en selv, da man ikke kan være erstatningsansvarlig over for sig selv, ens ægtefælle/samlevende eller ens børn. Dog dækker ansvarsforsikringen normalt, hvis man forvolder personskade på dem.
+* Ansvar for skade, der rammer den sikrede personkreds
+
+* Ansvarsforsikringen dækker normalt ikke, hvis man kommer til at forvolde skade på en af de personer, som familie-/indboforsikringen omfatter. 
+
+Det vil typisk være tilfældet, hvis man forvolder skade på ejendele, der tilhører en selv, da man ikke kan være erstatningsansvarlig over for sig selv, ens ægtefælle/samlevende eller ens børn. 
+
+Dog dækker ansvarsforsikringen normalt, hvis man forvolder personskade på dem.
 
 Ansvarsforsikringen dækker som regel kun ansvar, man pådrager sig i privatlivet.
 
-Forvolder man skade i forbindelse med sit erhverv, skal dækning søges på en eventuel erhvervsansvarsforsikring. Hvis det erhvervsmæssige aspekt i aktiviteten er helt underordnet – f.eks. hvis man kommer til at ødelægge en stol, mens man er til et bestyrelsesmøde i andelsboligforeningen, der afholdes hos en anden andelshaver – vil ens ansvarsforsikring normalt dække.
+Forvolder man skade i forbindelse med sit erhverv, skal dækning søges på en eventuel erhvervsansvarsforsikring. 
+
+Hvis det erhvervsmæssige aspekt i aktiviteten er helt underordnet – f.eks. hvis man kommer til at ødelægge en stol, mens man er til et bestyrelsesmøde i andelsboligforeningen, der afholdes hos en anden andelshaver – vil ens ansvarsforsikring normalt dække.
 
 **Ansvar for arbejde for andre**
 
 Hvis man arbejder for andre og får løn for det, så dækker privatansvarsforsikringen ikke de skader, man forvolder som ansat.
 
-Hvis man ikke får løn, dækker ansvarsforsikringen i nogle tilfælde. Man ser på, om man selv har en interesse i det arbejde, som man udfører, eller om det er en vennetjeneste. Herudover ser man på omfanget og intensiteten af ens arbejdsindsats. 
+Hvis man ikke får løn, dækker ansvarsforsikringen i nogle tilfælde. 
 
-Hvis man kortvarigt hjælper ens nabo med f.eks. at støvsuge og taber støvsugerrøret ned på et glasbord, der smadres, vil ansvarsforsikringen normalt dække. Lignende sager ses i Forsikringsankenævnet i sagerne 39930 og 60013:
+Man ser på, om man selv har en interesse i det arbejde, som man udfører, eller om det er en vennetjeneste. 
 
-___
+Herudover ser man på omfanget og intensiteten af ens arbejdsindsats. 
+
+Hvis man kortvarigt hjælper ens nabo med f.eks. at støvsuge og taber støvsugerrøret ned på et glasbord, der smadres, vil ansvarsforsikringen normalt dække. 
+
+---
+Lignende sager ses i Forsikringsankenævnet i sagerne 39930 og 60013:
+
+
 
 *Sag 39930: Ansvar – ansvar. Klagers søn forvolder skade på sin brors linoliegulv, da han forsøger at fjerne tæpperester med ovnrens – anset for arbejde for andre.*
 
@@ -1393,7 +1575,9 @@ Hvis man bliver erstatningsansvarlig, fordi man ikke overholder en aftale eller 
 
 **Ansvar for ting, der er i ens varetægt**
 
-Ofte dækker ansvarsforsikringen ikke ansvar for skade på ting, som man har til låns, leje eller opbevaring, afbenyttelse, befordring, eller som af andre grunde befinder sig i ens varetægt. Låner man eksempelvis en iPad af en ven i længere tid, vil iPaden være i ens varetægt, og ansvarsforsikringen dækker ikke.
+Ofte dækker ansvarsforsikringen ikke ansvar for skade på ting, som man har til låns, leje eller opbevaring, afbenyttelse, befordring, eller som af andre grunde befinder sig i ens varetægt. 
+
+Låner man eksempelvis en iPad af en ven i længere tid, vil iPaden være i ens varetægt, og ansvarsforsikringen dækker ikke.
 
 Her skal det bemærkes, at nogle ansvarsforsikringer dækker eksempelvis i den første måned, hvor man låner eller lejer en genstand.
 
@@ -1403,7 +1587,9 @@ Cykler man eksempelvis over til en ven med hans iPad, som han har glemt hjemme h
 
 Ved kortvarig råden over en genstand med ejerens accept vil der som udgangspunkt også være dækning på ansvarsforsikringen.
 
-Forsikringsankenævnet har i sagen 85614 taget stilling til, om undervisningsmateriale udleveret af en skole – herunder en iPad – er omfattet af den private ansvarsforsikring. Nævnet fandt, at dette ikke var tilfældet, da lånet af undervisningsmaterialerne ikke udelukkende var i elevens interesse:
+Forsikringsankenævnet har i sagen 85614 taget stilling til, om undervisningsmateriale udleveret af en skole – herunder en iPad – er omfattet af den private ansvarsforsikring. 
+
+Nævnet fandt, at dette ikke var tilfældet, da lånet af undervisningsmaterialerne ikke udelukkende var i elevens interesse:
 
 ---
 
@@ -1523,6 +1709,7 @@ Mange forsikringspensionsselskaber giver mulighed for, at man kan fortsætte med
 
 Kontakt derfor forsikringsselskabet, hvis arbejdsgiver ophører med at indbetale til ens pensionsordning.  
  
+---
 
 ##### Nævnspraksis og fortolkninger af erhvervsevnetab
  
@@ -1568,7 +1755,9 @@ Det kan fremgå af forsikringsbetingelserne, at offentlige ydelser mv. skal medr
 
 Denne skønnede indtjening sammenholdes herefter med, hvad raske personer på samme alder og med samme uddannelsesmæssige baggrund typisk tjener i det område, hvor man bor (sammenlignelige personer). 
 
-Skønnes det, at  man  kun   vil  kunne  tjene  mindre  end  en  tredjedel  af, hvad sammenlignelige personer typisk tjener, er ens erhvervsevnetab 2/3. Skønnes det, at man kan tjene mindre end halvdelen af, hvad sammenlignelige personer typisk tjener, er ens erhvervsevnetab 1/2.  
+Skønnes det, at  man  kun   vil  kunne  tjene  mindre  end  en  tredjedel  af, hvad sammenlignelige personer typisk tjener, er ens erhvervsevnetab 2/3. 
+
+Skønnes det, at man kan tjene mindre end halvdelen af, hvad sammenlignelige personer typisk tjener, er ens erhvervsevnetab 1/2.  
 
 En særlig form for erhvervsevnetabsforsikring består i, at det alene vurderes, om man er i stand til at varetage sit hidtidige (eller nært beslægtede) erhverv, og hvad man er i stand til at tjene ved at arbejde (på nedsat tid) i sådanne erhverv. 
 
@@ -1605,6 +1794,8 @@ Det kan fremgå af forsikringsbetingelserne, at forsikringsselskabet i denne per
 I denne periode vil selskabet skønne, i hvor høj grad man er i stand til at passe sit hidtidige arbejde. 
 
 En vurdering af den midlertidige erhvervsevne er derfor sammenlignelig med den vurdering, der foretages ved faginvaliditet.  
+
+
 Forsikringsselskabet vil normalt kun foretage en vurdering af ens midlertidige erhvervsevnetab i en begrænset periode – eksempelvis 18 måneder. 
 
 Når denne periode er udløbet, eller hvis ens tilstand inden da er blevet stationær, vil selskabet overgå til at foretage en vurdering af ens generelle erhvervsevne. 
@@ -1894,13 +2085,17 @@ Helbredsoplysningerne bør besvares omhyggeligt.
 
 Det er ens eget ansvar, at svarene er korrekte og fyldestgørende. En bevidst undladt oplysning er det samme som en urigtig oplysning, og resultatet kan blive, at der ikke er ret til nogen udbetaling, når man selv eller ens efterladte får brug for forsikringen.  
 
+---
+
 #### Udbetaling af forsikringer   
 Hvem får pengene udbetalt, hvis man dør uventet?  
 Når der sker vigtige ændringer i ens liv, fx at man får en samlever, bliver gift, skilt eller får børn, bør man tjekke, om ens pension skal tilpasses ens nye livssituation. 
 
 For hvem skal have pengene fra en forsikring, hvis man pludselig dør?  
 
-I de fleste forsikringer er "nærmeste pårørende" automatisk indsat, som modtager af forsikringsudbetalingen ved død.  
+I de fleste forsikringer er "nærmeste pårørende" automatisk indsat, som modtager af forsikringsudbetalingen ved død. 
+
+---
 
 **Nærmeste pårørende findes i to udgaver**
 
@@ -1985,7 +2180,8 @@ Man skal være opmærksom på, at en samlever ikke får andel i den øvrige form
 
 Hvis en samlever skal arve efter en, skal man oprette et testamente.  
 
-Udbetalinger fra ATP, hvis man registrer en samlever i ATP  
+Udbetalinger fra ATP, hvis man registrer en samlever i ATP.
+
 Hvis man er registreret som samlever hos ATP, kan man under visse betingelser få op til 50.000 kroner før afgift på 40 pct., hvis en samlever dør.  
 
 

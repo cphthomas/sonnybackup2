@@ -139,13 +139,20 @@ Bestemmelsen omfatter således ikke private.
 
 Ikke kun erhvervsdrivendes salg af genstande, men også f.eks. deres levering af tjenesteydelser og salg af fast ejendom er omfattet af forbuddet mod at modtage kontantbetalinger på eller over beløbsgrænsen.
 
+---
+
 Se Højesteretsdom i U.2019.2445 H om overtrædelse af kontantforbuddet:
 
 **"Hvidvasklovens kontantforbud overtrådt i forbindelse med kontantsalg af brugte biler. T ApS solgte i perioden fra januar 2015 til marts 2016 mere end 500 brugte biler til udenlandske opkøbere mod kontant betaling. I langt de fleste tilfælde var prisen for den enkelte bil under 50.000 kr., men i 19 tilfælde var der sket salg af en enkelt bil til en enkelt kunde, som havde betalt mere end 50.000 kr. kontant for bilen. I ni yderligere tilfælde var der sket kontantsalg af en bil til en pris af mere end 50.000 kr., men i disse tilfælde havde T også solgt andre biler for mindre end 50.000 kr. til samme kunde. I de resterende tilfælde havde T ApS foretaget kontantsalg af flere biler til samme kunde den samme dag, hvor prisen for den enkelte bil var mindre end 50.000 kr., men hvor summen af de kontante beløb havde været større end 50.000 kr. T ApS blev i landsretten idømt en bøde på 190.000 kr. for de 19 tilfælde af salg af en enkelt bil for en kontant betaling af mere end 50.000 kr., men i øvrigt frifundet. Højesteret skulle alene tage stilling til de forhold, hvori T ApS var blevet frifundet. Højesteret fandt, at der også ved salget af de ni biler til en pris af mere end 50.000 kr., men som var solgt sammen med andre biler, var sket en overtrædelse af kontantforbuddet i hvidvaskloven, og idømte T ApS en bøde på 90.000 kr. for disse forhold, jf. hvidvasklovens § 78, stk. 4, jf. stk. 1, jf. § 5. På baggrund af landsrettens bevisbedømmelse, som Højesteret ikke kunne efterprøve, jf. retsplejelovens § 933, stk. 2, jf. § 912, stk. 1, nr. 4, modsætningsvis, lagde Højesteret til grund, at T ApS ikke i videre udstrækning end ved salget af de 28 biler havde modtaget kontant betaling af 50.000 kr. eller derover på én gang eller havde modtaget flere kontantbetalinger på under 50.000 kr., som var eller så ud til at være indbyrdes forbundet på en måde, som indebar overtrædelse af hvidvasklovens kontantforbud. Højesteret stadfæstede herefter landsrettens dom med den ændring, at bødestraffen til T ApS blev forhøjet med 90.000 kr. til 280.000 kr."**
 
+---
+
 Kontantforbuddet vil således kun ramme betaling af f.eks. leje af hus eller husrum, leje af bil eller levering af vand, varme og gas eller elektricitet, hvis betalingen for en enkelt periode udgør 50.000 kr. eller derover. 
 
 Hvis der derimod er tale om ratevis betaling, eksempelvis i forbindelse med køb af en løsøregenstand eller en fast ejendom eller i forbindelse med betaling for en entrepriseydelse eller en rejse, vil de enkelte rater være indbyrdes forbundne, og kontantforbuddet vil dermed ramme tilfælde, hvor den samlede betaling udgør 50.000 kr. eller derover.
+
+
+---
 
 
 ### Falskmøntneri
@@ -162,6 +169,7 @@ Forordninger gælder umiddelbart i hver medlemsstat. Gengivelsen af forordningen
 
 Overtrædelse af pligten til at tage falske penge ud af omløb anses for omfattet af straffelovens §§ 166-170 om forbrydelser vedrørende penge.
 
+---
 
 ## <font color="red">Kriminalitetsforebyggelse i de finansielle virksomheder<sup> Premium </font></sup>
 
@@ -241,6 +249,8 @@ Der skal også ske underretning ved mistanke om overtrædelse af særlovgivninge
 Underretningspligten er dog begrænset til overtrædelser, der kan straffes med fængsel i over ét år.
 
 Tilsynet med de personer og virksomheder, der er omfattet af hvidvaskloven, er delt mellem Finanstilsynet, Erhvervsstyrelsen og Advokatrådet.
+
+---
 
 ## <font color="red">Hvem er omfattet af hvidvaskloven<sup> Premium </font></sup>
 
@@ -638,6 +648,7 @@ Finanstilsynet fører tilsyn med de finansielle virksomheder og kontrollerer, at
 
 
 
+---
 
 ## <font color="red">Krav om gennemførelse af kundskabsprocedurer (KYC)<sup> Premium </font></sup>
 
@@ -671,6 +682,8 @@ At der efter loven skal gennemføres kundekendskabsprocedurer på passende tidsp
 
 Kravet kan ikke fraviges, heller ikke for kunder med begrænset risiko for hvidvask og terrorfinansiering, men f.eks. hvis forretningsforbindelsen er af begrænset varighed, kan en risikovurdering føre til, at det ikke er nødvendigt at gennemføre fornyede kundekendskabsprocedurer. 
 
+---
+
 ### Kravet skal gennemføres på et risikobaseret grundlag 
 
 Intervallet kan dermed fastsættes ud fra en risikovurdering, og der kan differentieres mellem kunder med begrænset og øget risiko, jf. hvidvasklovens § 11, stk. 4. 
@@ -701,6 +714,8 @@ Dette gælder også ved transaktioner under 15.000 euro, henholdsvis 1.000 euro,
 Efter hvidvasklovens § 7, stk. 1 fremgår følgende risikovurdering der skal foretages af virksomhderne og personer:
 
 *”Virksomheder og personer omfattet af denne lov skal identificere og vurdere risikoen for, at virksomheden eller personen kan blive misbrugt til hvidvask eller finansiering af terrorisme. Risikovurderingen skal foretages med udgangspunkt i virksomhedens eller personens forretningsmodel og omfatte vurderingen af risikofaktorer, der er forbundet med kunder, produkter, tjenesteydelser og transaktioner samt leveringskanaler og lande eller geografiske områder, hvor forretningsaktiviteterne udøves. Risikovurderingen skal dokumenteres og løbende opdateres.”*
+
+---
 
 ### Baggrund og begrundelse for en risikovurdering
  
@@ -845,6 +860,7 @@ Når virksomheden vurderer sine risikofaktorer, kan virksomheden bl.a. søge hj�
 
 Virksomheden kan vurdere sine risikofaktorer som uddybet i det følgende. Uanset om en risikofaktor som udgangspunkt er høj eller lav, skal virksomheden foretage sine egne vurderinger og overvåge kunderne i overensstemmelse med hvidvasklovens regler.
 
+---
 
 #### Kundetyper
 
@@ -883,6 +899,7 @@ Ved en analyse af kundetyper kan virksomheden i øvrigt lægge vægt på:
 
 Ovenstående undersøgelsespunkter er en inspiration til risikovurderingen og er ikke udtryk for hverken en obligatorisk eller udtømmende liste. Virksomheden er ansvarlig for at fastlægge de nødvendige undersøgelsespunkter.
 
+---
 
 #### Produkter, tjenesteydelser og transaktioner
 
@@ -931,20 +948,27 @@ Det vil eksempelvis også være komplekst i de tilfælde, hvor det skræddersyes
 
 For denne produkttype vil det derfor bl.a. vil være relevant at sikre et kendskab til midlernes oprindelse og til kundens formål med de ønskede transaktioner og investeringer mv. 
 
-- **enkeltstående pengeoverførsler eller pengeoverførsler**, hvor der ikke etableres et reelt kundeforhold og dermed ikke opnås et godt kundekendskab eller kundeovervågning. Misbrug af produktet kan bl.a. sløres ved at foretage flere små overførsler, som enkeltvist ikke ser mistænkelige ud. Erfaringsmæssigt er denne produkttype benyttet til finansiering af terrorisme. 
+- **enkeltstående pengeoverførsler eller pengeoverførsler**, hvor der ikke etableres et reelt kundeforhold og dermed ikke opnås et godt kundekendskab eller kundeovervågning. 
+
+Misbrug af produktet kan bl.a. sløres ved at foretage flere små overførsler, som enkeltvist ikke ser mistænkelige ud. Erfaringsmæssigt er denne produkttype benyttet til finansiering af terrorisme. 
 
 - **valutaveksling**, fordi det er et produkt, hvor der oftest ikke indgås en fast forretningsforbindelse, og der er derfor ikke sikret et godt kendskab til kundens formål og til midlernes oprindelse. 
 
-Derudover er der tale om transaktioner, hvor der ofte indgår kontanter. Valutaveksling anvendes erfaringsmæssigt til terrorfinansiering ved at veksle danske kroner til euro eller amerikanske dollars, som sendes fysisk til brug for terrorfinansiering. 
+Derudover er der tale om transaktioner, hvor der ofte indgår kontanter. 
+
+Valutaveksling anvendes erfaringsmæssigt til terrorfinansiering ved at veksle danske kroner til euro eller amerikanske dollars, som sendes fysisk til brug for terrorfinansiering. 
 
 - **produkter og tjenesteydelser, der anvender nye teknologier**, og hvor der endnu ikke er erfaring med disse, og derfor heller ikke et tilstrækkeligt kendskab til de potentielle risici. 
 
 For yderligere eksempler henvises til bilag 3 til hvidvaskloven, ligesom de nationale og supranationale risikovurderinger indeholder angivelser af, hvordan hvidvask og terrorfinansiering kan ske og hvor risiciene er store.
 
+---
 
 #### Leveringskanaler
 
-Virksomhedens transaktions- og leveringskanaler har også afgørende betydning for virksomhedens risikovurdering. I identifikationen af virksomhedens leveringskanaler kan virksomheden overordnet klarlægge:
+Virksomhedens transaktions- og leveringskanaler har også afgørende betydning for virksomhedens risikovurdering. 
+
+I identifikationen af virksomhedens leveringskanaler kan virksomheden overordnet klarlægge:
 
 - hvordan forretningsforbindelsen med kunderne bliver indgået og 
 - hvordan virksomheden leverer produktet eller tjenesteydelsen til kunderne. 
@@ -969,13 +993,18 @@ Leveringskanaler, der isoleret set kan indikere begrænset risiko, kan eksempelv
 
 For yderligere eksempler se bilag 2 til hvidvaskloven.
 
+---
+
 #### Lande og geografiske områder
 
 Virksomheden skal vurdere de risici, som kan være forbundet med lande eller geografiske områder, hvortil virksomheden har en tilknytning. 
 
 Hvor virksomheden har positiv viden om et kundesegment eller kunders reelle ejere i relation til lande og geografiske forhold, kan virksomheden eksempelvis inddrage: 
 
-- I hvilket land som kundetyperne og/eller de reelle ejere er baseret - I hvilket land som kundetyperne og/eller de reelle ejere har deres forretninger 
+- I hvilket land som kundetyperne og/eller de reelle ejere er baseret 
+
+- I hvilket land som kundetyperne og/eller de reelle ejere har deres forretninger 
+
 - I hvilke lande kundetyperne har relevante personlige eller forretningsmæssige forbindelser. 
 
 Virksomheden skal ikke i den overordnede risikovurdering vurdere konkrete kunder, men virksomheden skal inddrage sin viden om sine kundetyper og kunders reelle ejere. 
@@ -987,14 +1016,21 @@ Det er således ikke nødvendigt, at virksomheden undersøger enkelte kunder ell
 I forbindelse med kendskab til virksomhedens kundetyper og analysen af, hvilke lande kundetyperne er baseret i eller har deres personlige eller forretningsmæssige forbindelser i, kan virksomheden vurdere de geografiske forhold, eksempelvis: 
 
 - om landet har tilstrækkelige regler, der forebygger og bekæmper hvidvask og finansiering af terrorisme 
+
 - om landet har en effektiv tilsynsmyndighed på området 
-- om kunder har relationer til et land eller geografisk område, hvor der genereres penge med store hvidvaskrisici eller med mange prædikatforbrydelser på området 
+
+- om kunder har relationer til et land eller geografisk
+område, hvor der genereres penge med store hvidvaskrisici eller med mange prædikatforbrydelser på området 
+
 - om der i relation til kunder sendes penge til lande, hvor det vides at være terroraktiviteter 
+
 - om virksomheden har udenlandsk politisk eksponerede personer som kunder, og hvorledes disses geografisk tilknytning kan vurderes at være tegn på en øget risiko for hvidvask og finansiering af terrorisme 
+
 - om virksomheden har kunder, der fremgår af EU's sanktionslister. 
 
 Når virksomheden skal vurdere landets regler og tilsynsmyndigheders effektivitet, kan virksomheden bl.a. anvende FATF’s rapporter, sorte og grå lister, rapporter udarbejdet af bl.a. FSRB og OECD, Transparency Internationals korruptionsliste m.fl.
 
+---
 
 #### Sektorspecifikke eksempler fra den finansielle sektor
 
@@ -1004,6 +1040,7 @@ Eksemplerne er ikke udtømmende, og de er ikke bindende. Derudover er eksemplern
 
 Disse er relevante, fordi også en begrænset risiko er grundlag for, at virksomheden skal foretage konkrete risikovurderinger.
 
+---
 
 ##### Fondsmæglervirksomheder 
 
@@ -1023,6 +1060,7 @@ F.eks. kan en fondsmægler udbyde skønsmæssig porteføljepleje, hvor transakti
 
 Dette produkt vil som udgangspunkt vurderes til at være begrænset risiko, men hvis produktet udbydes til PEP’er eller andre højt profillerede kunder eller udenlandske kunder, vil selve kundetypen kunne medføre en højere risiko, hvorfor der vil være behov for kundekendskabsprocedurer, der sikrer et godt og ajourført kendskab til kunderne og til midlernes oprindelse.
 
+---
 
 ##### Finansiel leasing
  
@@ -1039,6 +1077,8 @@ Hvis hensigten med at lease en bil er at transportere den til en konfliktzone, v
 En indikator for denne kundetype kan f.eks. være personer, der går efter en bestemt type bil til brug i konfliktområder, som beskrevet ovenfor, og/eller ikke tidligere har ejet en bil. 
 
 En faktor, der kan indikere en begrænset risiko ved leasing af produkter/tjenesteydelser, er, hvis der er tale om et produkt med lav værdi. 
+
+---
 
 ##### Liv- og pensionsvirksomheder
 
@@ -1064,19 +1104,29 @@ Heri ligger der således en risiko for, at pensionstageren søger at udnytte ind
 
 Dette sammenholdt med en mulig kortere løbetid gør, at ordningen kan være mere attraktiv til forsøg på hvidvask end øvrige pensionsprodukter. 
 
+---
+
 ##### Livsforsikring
 
-For virksomheder, der udbyder livsforsikringer, kan nedenstående eksempel illustrere en konkret vurdering: Lav præmie på en livsforsikring, som anført i hvidvasklovens bilag 2, kan anskues ud fra virksomhedens profil, produktet og den konkrete kunde. 
+For virksomheder, der udbyder livsforsikringer, kan nedenstående eksempel illustrere en konkret vurdering: 
+
+Lav præmie på en livsforsikring, som anført i hvidvasklovens bilag 2, kan anskues ud fra virksomhedens profil, produktet og den konkrete kunde. 
 
 Det vil derfor være forskelligt, hvad der en lav præmie i det ene selskab henholdsvis det andet. 
 
-Gruppelivsordninger for private er kendetegnet ved større ordninger med lav præmie, til gengæld stilles der ofte krav til helbred ved indtegning. Risikoen forbundet med gruppelivsforsikringer er desuden begrænset som følge af, at der skal indtræde en forsikringsbegivenhed, før der kan ske udbetaling. 
+Gruppelivsordninger for private er kendetegnet ved større ordninger med lav præmie, til gengæld stilles der ofte krav til helbred ved indtegning. 
+
+Risikoen forbundet med gruppelivsforsikringer er desuden begrænset som følge af, at der skal indtræde en forsikringsbegivenhed, før der kan ske udbetaling. 
 
 Det samme gør sig gældende for arbejdsmarkedspensionsordninger/firmapensionsordninger.
 
+---
+
 ### Opdatering af risikovurderingen
 
-Virksomhedens risikovurdering skal løbende holdes opdateret. Det betyder, at den skal afspejle virksomhedens aktuelle risikoprofil. Virksomheden vurderer, hvor ofte den skal revideres. 
+Virksomhedens risikovurdering skal løbende holdes opdateret. Det betyder, at den skal afspejle virksomhedens aktuelle risikoprofil. 
+
+Virksomheden vurderer, hvor ofte den skal revideres. 
 
 Det beror dog på en konkret risikovurdering i forhold til forretningsmodellen. 
 
@@ -1111,6 +1161,7 @@ Virksomheden skal være opmærksom på, at hvis der sker ændringer i virksomhed
 *Henvisning til hvidvaskloven: § 7, stk. 1, 1-2. pkt.* 
 *Henvisning til 4. hvidvaskdirektiv: Art. 8, stk. 1.*
 
+---
 
 ## <font color="red">Politikker, procedurer og kontroller hvidvasklovens § 8<sup> Premium </font></sup>
 
@@ -1170,6 +1221,8 @@ I sådanne tilfælde skal virksomheden dog have fokus på, at de opgaver, som ve
 
 Det skal derfor som minimum altid sikres, at medarbejdere ikke er involveret i udførelsen af opgaver, som de kontrollerer som led i deres compliance-opgaver.
 
+---
+
 ### Politikker 
 
 *Virksomhedens politikker* på hvidvaskområdet skal indeholde *identifikation, vurdering og afgrænsning af virksomhedens risikofaktorer* som konklusion på virksomhedens risikovurdering, samt de overordnede strategiske mål til forebyggelse af hvidvask og finansiering af terrorisme for virksomhedens identificerede risici.
@@ -1207,6 +1260,8 @@ Virksomhedens politikker skal bl.a. omfatte en stillingtagen til:
 
 Virksomhedens politikker kan skrives i et eller flere dokumenter.
 
+---
+
 ### Procedurer
 
 *Procedurer* på hvidvaskområdet består af en beskrivelse af de aktiviteter, som virksomheden udfører med henblik på at sikre, at lovgivningen bliver overholdt, samt at virksomhedens politikker og retningslinjer efterleves. 
@@ -1230,6 +1285,8 @@ Et eksempel på dette i forhold til *noteringspligten* kan være en beskrivelse 
 
 Det er et krav, at dokumentationen af procedurerne (f.eks. forretningsgange) er lettilgængelige og overskuelig for de ansatte, jf. de regler, der gælder herfor i ledelsesbekendtgørelserne og tilsvarende regler.
 
+---
+
 ##### Risikostyring 
 
 Virksomhedens risikostyring på hvidvaskområdet skal tage udgangspunkt i virksomhedens forretningsmodel og de risici, som virksomheden har fundet frem til i sin risikovurdering. 
@@ -1241,6 +1298,8 @@ Virksomheden skal sikre sig, at dens organisering er opbygget, så den sikrer kl
 Derudover skal virksomheden have procedurer for, hvordan den håndterer konstaterede overtrædelser af virksomhedens politikker og procedurer. 
 
 I risikostyring ligger der også, at virksomheden skal følge risikoudviklingen inden for hvidvask og terrorfinansiering og tage højde for, hvordan denne påvirker virksomhedens risikovurdering, og dermed også politikker, procedurer og kontroller.
+
+---
 
 ##### Screening af medarbejdere 
 
@@ -1303,6 +1362,8 @@ Dette kan dog ske gennem uddannelse efter ansættelsen.
 Virksomheden skal dybest set sikre sig, at de ansatte har de nødvendige evner, viden og ekspertise til at udføre deres funktion i virksomheden effektivt. 
 
 Sikring mod, at en ansat kan misbruge sin stilling, skal yderligere indarbejdes i virksomhedernes procedurer og interne kontroller og tages højde for ved udarbejdelse af disse og ved uddannelse.
+
+---
 
 ##### Intern kontrol 
 
@@ -1372,6 +1433,7 @@ Kravene i § 9 gælder ikke for koncerner, hvor kun datterselskaber er omfattet 
 Virksomheder i koncerner skal have tilstrækkelige: 
 
 - Skriftlige politikker for databeskyttelse 
+
 - Skriftlige politikker og procedurer for udveksling af oplysninger inden for koncernen, der udveksles med det formål at bekæmpe hvidvask og terrorfinansiering 
 
 Kravene er et supplement til databeskyttelseslovens regler om behandlingssikkerhed. 
@@ -1379,6 +1441,8 @@ Kravene er et supplement til databeskyttelseslovens regler om behandlingssikkerh
 Med reglerne er der adgang til, at virksomheder i en koncern kan udveksle oplysninger, hvis de overholder koncernens procedurer herom, som skal overholde kravene i hvidvaskloven. 
 
 Procedurer for udveksling af oplysninger i en koncern skal udarbejdes i overensstemmelse med databeskyttelsesretten. 
+
+---
 
 ### Koncernfælles risikovurdering, politikker og procedurer 
 
@@ -1410,6 +1474,8 @@ Endvidere skal moderselskabet sikre, at der med faste intervaller føres kontrol
 **Henvisning til 4. hvidvaskdirektiv: Art. 45, stk. 1**.
 
 
+---
+
 ## <font color="red">Ansvarlige personer og funktioner<sup> Premium </font></sup>
 
  
@@ -1425,6 +1491,7 @@ I det følgende kapitel er de forskellige ansvarlige personer og funktioner besk
 
 <img src="img/Billede om ansatte funktioner.png" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
+---
 
 ### Hvidvaskansvarlig - den § 7,2-udpegede person 
 
@@ -1466,6 +1533,8 @@ De konkrete rammer for personens involvering skal fastlægges af virksomheden.
 
 Det er vigtigt, at personen, for at kunne varetage ansvaret, har adgang til virksomhedens kundedatabaser og øvrige relevante oplysninger, herunder bestyrelses- og revisionsprotokoller.
 
+---
+
 ### Den hvidvaskansvarliges ansvarsområder
 
 Den hvidvaskansvarlige skal: 
@@ -1490,6 +1559,8 @@ Den hvidvaskansvarlige skal følge de procedurer, som virksomheden har tilrettel
 
 Det er virksomhedens complianceansvarlige, i virksomheder, der er pålagt at have en compliancefunktion, der skal undersøge og føre uafhængig kontrol med, at den hvidvaskansvarliges procedurer og forretningsgange er effektive.
 
+---
+
 ### Uddelegering
 
 Den hvidvaskansvarlige har mulighed for at uddelegere de opgaver, der følger af bestemmelsen, til en eller flere medarbejdere med tilstrækkeligt kendskab til virksomhedens risikoprofil i forhold til hvidvask og finansiering af terrorisme. 
@@ -1511,6 +1582,8 @@ Fordi ansvaret altid ligger hos den hvidvaskansvarlige, vil der ved uddelegering
 **Henvisning til hvidvaskloven: § 7, stk. 2, § 8, stk. 2, § 18, stk. 3 og § 19, stk. 1, nr. 3**
 
 **Henvisning til 4. hvidvaskdirektiv: Art. 3, nr. 12 og art. 8, stk. 5, art. 19, stk. 1, litra c og art. 20, stk. 1, litra b, (i).**
+
+---
 
 ### Complianceansvarlig § 8, stk. 3
 
@@ -1581,6 +1654,7 @@ Hvis en dansk virksomhed har filialer i udlandet, skal de være opmærksomme på
 **Henvisning til hvidvaskloven: § 8, stk. 5**
 **Henvisning til 4. hvidvaskdirektiv: Art. 46, stk. 4.**
 
+---
 
 ### Intern revision § 8, stk. 4 
 
@@ -1599,6 +1673,8 @@ Kravet gælder følgende virksomheder, hvis de har en intern revision:
 - Sparevirksomheder 
 - Udbydere af betalingstjenester og udstedere af elektroniske penge 
 - Forsikringsmæglere, når de formidler livsforsikringer eller andre investeringsrelaterede forsikringer
+
+---
 
 ### Intern audit 
 
@@ -1624,6 +1700,8 @@ En intern auditfunktion i en virksomhed vil derfor også skulle forholde sig til
 **Om kravene til intern audit henvises til:**
 
 **Bekendtgørelse nr. 1723 af 16. december 2015 om ledelse og styring af forsikringsselskaber m.v.**
+
+---
 
 ## <font color="red">Uddannelse<sup> Premium </font></sup>
 
@@ -1674,12 +1752,9 @@ Ved opdatering af virksomhedens procedurer skal der ske efteruddannelse af ansat
 
 **Bekendtgørelse nr. 1424 af 29. november 2016 om grundkursus for medlemmer af bestyrelsen i pengeinstitutter, realkreditinstitutter og forsikringsselskaber**
 
+---
 
 ## <font color="red">Finanstilsynets praksis vedrørende hvidvasklovens regler om kundekendskabsprocedurer<sup> Premium </font></sup>
-
-
-
-### Indledning
 
 Finanstilsynets praksis vedrørende reglerne om kundekendskabsprocedurer på hvidvaskområdet henvender sig til virksomheder og personer, der er omfattet af hvidvaskloven.  
 
@@ -1769,10 +1844,10 @@ I mange tilfælde etableres et klientforhold i løbet af det første møde med k
 
 I tilfælde hvor der fremsendes materiale til advokaten vil advokaten typisk skriftligt besvare henvendelsen og oplyse, at han vil repræsentere klienten.
 
+---
 
-### Hvornår skal virksomhden gennemføre kundekendskabsprocedurer
+### Hvornår skal virksomheden gennemføre kundekendskabsprocedurer
 
-**Hvornår skal en virksomhed gennemføre kundekendskabsprocedurer?**
 
 Hvidvasklovens § 10 beskriver, hvornår en virksomhed skal gennemføre kundekendskabsprocedurer:
 
@@ -1784,6 +1859,8 @@ Hvidvasklovens § 10 beskriver, hvornår en virksomhed skal gennemføre kundeken
 - Ved tvivl om tidligere indhentede oplysninger om kunden 
 
 I de følgende afsnit vil de forskellige oplistede situationer blive nærmere beskrevet.  
+
+---
 
 #### Etablering af en forretningsforbindelse 
 
@@ -1799,6 +1876,8 @@ Der er altid tale om etablering af en forretningsforbindelse, hvis en kunde får
 
 Der må ikke oprettes anonyme konti eller konti under falske navne, og derfor er det et krav, at der altid gennemføres kundekendskabsprocedurer ved etablering af en forretningsforbindelse.
 
+---
+
 #### En kundes relevante omstændigheder ændrer sig 
 
 Hvis der er tale om en etableret forretningsforbindelse, og kundens relevante omstændigheder ændrer sig, skal kundeskabsprocedurerne gennemføres igen. 
@@ -1806,6 +1885,8 @@ Hvis der er tale om en etableret forretningsforbindelse, og kundens relevante om
 Virksomheden skal reagere, hvis den bliver opmærksom på ændringer i kundeforholdet f.eks. en større udvidelse af kundeengagementet og/eller til ændringer i kundens virksomhed. 
 
 Virksomheden skal i disse situationer ud fra en risikovurdering tage stilling til, om der skal indhentes nye oplysninger om kunden, herunder eksempelvis indhentelse af identitetsoplysninger på ny og kontrol af disse. 
+
+---
 
 #### Kundekendskabsprocedurer ved passende tidspunkter 
 
@@ -1836,6 +1917,7 @@ Hvis der er tale om et kundeforhold med en juridisk person, kan det for eksempel
 **Henvisning til hvidvaskloven: § 10, stk. 1, nr. 1.** 
 **Henvisning til 4. hvidvaskdirektiv: Artikel 11, litra a.**
 
+---
 
 #### Enkeltstående transaktioner 
 
@@ -1928,8 +2010,9 @@ Hvis der er mistanke om hvidvask eller finansiering af terrorisme, skal der alti
 **Henvisning til hvidvaskloven: § 13**. 
 **Henvisning til 4. hvidvaskdirektiv: Artikel 2, stk. 3.**
 
+---
 
-####Udbud af spil, hvor indsatsen eller udbetalingen er over et vist beløb 
+#### Udbud af spil, hvor indsatsen eller udbetalingen er over et vist beløb 
 
 Virksomheder, som udbyder spil, enten selv eller igennem en forhandler, skal gennemføre kundekendskabsprocedurer, når der gøres en indsats, udbetales en gevinst eller begge dele på mindst 2.000 euro. 
 
@@ -1944,6 +2027,7 @@ Virksomheden skal uanset være opmærksom på, om der etableres en fast forretni
 **Henvisning til hvidvaskloven: § 10, stk. 1, nr. 3.** 
 **Henvisning til 4. hvidvaskdirektiv: Artikel 11, litra d"***. 
 
+---
 
 #### Mistanke om hvidvask eller finansiering af terrorisme 
 
@@ -1959,6 +2043,8 @@ Virksomheden skal i disse tilfælde foretage en underretning med de oplysninger,
 
 **Henvisning til hvidvaskloven: § 10, stk. 1, nr. 4. 4**. 
 **hvidvaskdirektiv: Artikel 11, stk. 1, litra e.**
+
+---
 
 #### Tidligere indhentede oplysninger om kunden 
 
@@ -1996,6 +2082,8 @@ Se afsnittet "om risikovurdering - kundekendskabsprocedurer".
 **Henvisning til hvidvaskloven: § 10, stk. 1, nr. 5. 4**. 
 **hvidvaskdirektiv: Artikel 11, stk. 1, litra f**.
 
+---
+
 ### Indholdet af kundekendskabsprocedurer 
 
 Hvidvasklovens § 11 fastsætter de almindelige krav til kundekendskabsprocedurer. 
@@ -2008,6 +2096,8 @@ Der ligger i kravene i § 11, at virksomheden skal
 
 1) Indhente identitetsoplysninger på kunden 
 2) Kontrollere de indhentede identitetsoplysninger ved en pålidelig og uafhængig kilde
+
+---
 
 #### Indhentning af identitetsoplysninger
 
@@ -2081,6 +2171,8 @@ Hvis kunden ikke har et cvr-nr. eller lignende, er det et krav, at virksomheden 
 **Henvisning til hvidvaskloven: § 11, stk. 1 og 4**. 
 **4. hvidvaskdirektiv: Artikel 13**. 
 
+---
+
 #### Kontrol af identitetsoplysninger 
 
 De identitetsoplysninger, som virksomheden har indhentet på en kunde, skal kontrolleres ved dokumenter, data eller oplysninger, der er indhentet fra en pålidelig og uafhængig kilde. 
@@ -2108,6 +2200,8 @@ Hvis virksomheden vurderer, at der er øget risiko ved forretningsforbindelsen, 
 Virksomheden kan kræve yderligere dokumenter fra kunden, foretage opslag i eksterne kilder eller kræve, at første betaling sker fra en bankkonto i kundens navn m.v. 
 
 Virksomheden skal således vurdere, hvilke procedurer den vil benytte for at sikre, at der ikke er tvivl om, at kunden er den, som kunden udgiver sig for at være. Se afsnittet "om skærpede kundekendskabsprocedurer".
+
+---
 
 #### Eksempler på kontrol ved en pålidelig og uafhængig kilde
 
@@ -2154,6 +2248,8 @@ Virksomheden kan eksempelvis vurdere den enkelte forening på baggrund af en ræ
 
 Når kunden er en juridisk person, skal virksomheden være opmærksom på, kravet om kontrol af de reelle ejeres identitet, se afsnit 2.3.2.3. om reelle ejere. 
 
+---
+
 ##### Praktiske eksempler:
 
 Uanset nedenstående eksempler er det altid en konkret vurdering i det enkelte kundeforhold, hvilke oplysninger der skal indhentes fra kunden, og hvornår disse er tilstrækkeligt kontrolleret ved uafhængige og pålidelige kilde(r). 
@@ -2192,6 +2288,8 @@ I disse tilfælde kan virksomheden f.eks. benytte kundens opholdstilladelse som 
 
 I tvivlstilfælde om f.eks. gyldigheden af opholdstilladelsen for arbejdstagere fra ikke EU-lande kan virksomheden rette henvendelse til Styrelsen for International Rekruttering og Integration (SIRI), der kunne bekræfte denne.
 
+---
+
 #### Distancekunder 
 
 Der er bedre mulighed for, at virksomheden kan sikre sig, at kunden er den person, som kunden udgiver sig for at være, når virksomheden møder kunden fysisk. 
@@ -2206,6 +2304,7 @@ Virksomheden skal således altid ud fra en risikovurdering vurdere, hvilke kontr
 
 Et eksempel på et mitigerende tiltag kan eksempelvis være, at virksomheden sender et fysisk brev med en unik kode til kundens folkeregisteradresse, som kunden efterfølgende skal oplyse virksomheden om f.eks. telefonisk eller ved at kunden logger på virksomhedens hjemmeside, se afsnit nedenfor om brug af NemID for yderligere eksempler på mitigerende tiltag.
 
+---
 
 #### Brug af NemID 
 
@@ -2236,6 +2335,7 @@ Virksomhedens kundekendskabsprocedurer og herunder kontrollen af identitetsoplys
 **Henvisning til hvidvaskloven: § 11, stk. 1, nr. 2 og stk. 4**. 
 **Henvisning til 4. hvidvaskdirektiv: Artikel 13, stk. 1, litra a**. 
 
+---
 
 #### Reelle ejere 
 
@@ -2260,6 +2360,8 @@ Virksomheden skal:
 - indhente identitetsoplysninger om den eller de reelle ejere 
 - gennemføre rimelige foranstaltninger for at kontrollere den eller de reelle ejeres identitet og 
 - hvis kunden er en juridisk person, skal virksomheden klarlægge den juridiske persons ejer- og kontrolstruktur. 
+
+---
 
 ##### Definition af reelle ejer 
 
@@ -2299,6 +2401,8 @@ Kravet om indhentning og kontrol af reelle ejere gælder ikke for selskaber, hvi
 
 I situationer, hvor kundens ejerandele handles på et sådan et marked, skal virksomheden således ikke identificere og kontrollere reelle ejere af kunden. 
 
+---
+
 ##### Indhentelse af identitetsoplysninger 
 
 Der skal altid indhentes oplysninger om den eller de reelle ejeres identitet (bortset fra ejere af børsnoterede selskaber). 
@@ -2311,6 +2415,7 @@ Virksomheden skal indhente oplysninger, som fastlægger den eller de reelle ejer
 
 Det beror på en konkret vurdering, hvordan og hvilke oplysninger, som virksomheden indhenter om kundens reelle ejere, men vurdering kan aldrig føre til, at der ikke indhentes nogle identitetsoplysninger.
 
+---
 
 ##### Kontrol af reelle ejeres identitetsoplysninger 
 
@@ -2335,6 +2440,8 @@ Det vil som udgangspunkt være i tilfælde, hvor både kunden og produktet er be
 Hvis virksomheden vurderer, at der er en øget risiko ved kundeforholdet, vil det ikke være tilstrækkeligt alene at kontrollere identitetsoplysningerne ved at få dem udleveret af kunden. 
 
 Her kan der være behov for, at den eller de reelle ejeres identitet kontrolleres ved en eller flere uafhængige kilder, f.eks. ved kopi af et offentligt udstedt identifikationsdokument, se afsnittet "om eksempler på kontrol ved en pålidelig og uafhængig kilde". 
+
+---
 
 ##### Klarlæggelse af ejer- og kontrolstruktur
 
@@ -2462,6 +2569,8 @@ Ved identifikation af, hvem der er reel ejer i andre typer juridiske personer mv
 **Henvisning til 4. hvidvaskdirektiv: Artikel 13, stk. 1, litra b**. 
 **Henvisning til Erhvervsstyrelsens vejledning: Reelle ejere, vejledningen handler om reelle ejere, herunder hvem, hvad og hvor der skal registreres**. 
 
+---
+
 #### Forretningsforbindelsens formål og tilsigtede beskaffenhed 
 
 Virksomheden skal vurdere forretningsforbindelsens formål og tilsigtede beskaffenhed. 
@@ -2507,6 +2616,8 @@ Hvis virksomheden vurderer, at det er relevant at indhente oplysninger om den ti
 
 **Henvisning til hvidvaskloven: § 11, stk. 1, nr. 4**. 
 **Henvisning til 4. hvidvaskdirektiv: Artikel 13, stk. 1, nr. c.** 
+
+---
 
 #### Løbende overvågning af forretningsforbindelsen 
 
@@ -2565,6 +2676,8 @@ Det kan f.eks. være aktuelt i forbindelse med et pengeinstituts overvågning af
 **Henvisning til 4. hvidvaskdirektiv: Artikel 13, stk. 1, litra d**.
 
 
+---
+
 #### Løbende ajourføring af oplysninger om kunden 
 
 Oplysninger, dokumenter og data, der er indhentet om en kunde, skal løbende ajourføres med henblik på, at virksomheden kan vurdere, om forretningsforbindelsens risiko er ændret. 
@@ -2580,6 +2693,7 @@ Se afsnittene "om en kundes relevante omstændigheder ændrer sig" og "om kundek
 **Henvisning til hvidvaskloven: § 11, stk. 1, nr. 5**. 
 **Henvisning til 4. hvidvaskdirektiv: Artikel 13, stk. 1, litra d**.
 
+---
 
 ### Når en person handler på vegne af en kunde
 
@@ -2621,6 +2735,7 @@ Kravet til, at virksomheden sikrer, at den fysiske eller juridiske person, der h
 **Henvisning til hvidvaskloven: § 11, stk. 2**. 
 **Henvisning til 4. hvidvaskdirektiv: Artikel 13, stk. 1**. 
 
+---
 
 ### Begunstigede ved livs- og pensionsforsikringer 
 
@@ -2655,6 +2770,7 @@ Det betyder, at kontrollen af identitetsoplysninger kan vente med at blive genne
 **Henvisning til hvidvaskloven: § 12, stk.1 og 2**. 
 **Henvisning til 4. hvidvaskdirektiv: Artikel 13, stk. 5.** 
 
+---
 
 ### Korrespondentforbindelser 
 
@@ -2664,6 +2780,7 @@ Virksomheden skal ved etablering af en korrespondentforbindelse, hvor respondent
 
 En korrespondentforbindelse, der indgås med en respondent i EU/EØS kan derfor f.eks. konkret vurderes at være høj risiko, og i sådan tilfælde skal virksomheden gennemfører skærpede kundekendskabsprocedurer. 
 
+---
 
 #### Grænseoverskridende korrespondentforbindelse 
 
@@ -2695,6 +2812,7 @@ Virksomheden skal have klare procedurer for dette, herunder for hvordan det sikr
 - Den udenlandske bank beder bank X om at overføre penge fra den udenlandske banks konto i bank X til XX-bank 
 - Det er bank X, der leverer en pengeinstitutydelse til den udenlandske bank, hvorfor bank X er korrespondent og skal foretage skærpede kundekendskabsprocedurer over for den udenlandske bank”
 
+---
 
 #### Korrespondentens forpligtelser: 
 
@@ -2749,6 +2867,7 @@ Der er faktorer, der modsat ovenstående, kan bidrage til at begrænse risikoen,
 
 Virksomheder, der indgår korrespondentforbindelser, kan bl.a. søge vejledning i konkrete risikovurderinger og risikofaktorer i EBA’s retningslinjer for risikofaktorer.
 
+---
 
 #### Gennemstrømningskonti: 
 
@@ -2768,6 +2887,7 @@ Dette kan f.eks. ske i overensstemmelse med vilkår, der er fastsat i en kontrak
 
 Disse krav betyder, at korrespondenter i Danmark er ansvarlige for respondentforbindelsers kundeforbindelser på samme måde, som hvis disse kunder havde haft direkte kundeforbindelse med korrespondenten i Danmark. 
 
+---
 
 #### Virksomheden må ikke have en korrespondentforbindelse med et tomt selskab 
 
@@ -2790,6 +2910,7 @@ Virksomheden må derfor f.eks. ikke oprette en korrespondentforbindelse før, vi
 **Henvisning til: European Banking Authority**, 
 **Retningslinjer for risikofaktorer, JC 2017 37, 04.01.2018**
 
+---
 
 ### Risikovurdering – kundekendskabsprocedurer
 
@@ -2861,6 +2982,7 @@ Dette er relevant for, at virksomheden kan vurdere, om der i forhold til den enk
 **Henvisning til hvidvaskloven: § 11, stk. 3**. 
 **Henvisning til 4. hvidvaskdirektiv: Artikel 13, stk. 2**.
 
+---
 
 ### Skærpede kundekendskabsprocedurer
 
@@ -2933,6 +3055,7 @@ Hvis virksomheden i ovenstående eller andre tilfælde vurderer, at kunden har h
 **Henvisning til hvidvaskloven: § 17**. 
 **Henvisning til 4. hvidvaskdirektiv: Artikel 18**
 
+---
 
 ### Lempede kundekendskabsprocedurer 
 
@@ -2989,6 +3112,7 @@ Grænsen i nr. 2 forhøjes til 500 euro for betalingsinstrumenter, som udelukken
 **Henvisning til 4. hvidvaskdirektiv: Artikel 15 og 16**. 
 **Henvisning til: Bekendtgørelse nr. 1359 om lempede krav til kundekendskabsproceduren efter lov om forebyggende foranstaltninger mod hvidvask og finansiering af terrorisme (hvidvaskloven)**.
 
+---
 
 ### Tidspunkt for gennemførelse af kundekendskabsprocedurer 
 
@@ -3017,7 +3141,7 @@ Virksomheden har mulighed for ved begrænset risiko, at gennemføre dele af kund
 Virksomhedens kundekendskabsprocedurer skal altid gennemføres på baggrund af en risikovurdering. 
 
 
-#### Kontrol af identitetsoplysninger under etablering af forretningsforbindelsen 
+### Kontrol af identitetsoplysninger under etablering af forretningsforbindelsen 
 
 Kravet til, at virksomheden altid foretager identifikation og kontrol af en kunde, inden forretningsforbindelsen etableres eller inden en enkeltstående transaktion gennemføres, kan undtagelsesvist fraviges. 
 
@@ -3048,7 +3172,9 @@ Denne betingelse skal ses i sammenhæng med den risikovurdering, som virksomhede
 
 Det er en ufravigelig betingelse, at forretningsforbindelsen er begrænset risiko, for at en eventuel etablering af en forretningsforbindelse kan påbegyndes uden identitetsoplysningerne er kontrolleret. 
 
-#### Transaktioner med værdipapirer for en kunde 
+---
+
+### Transaktioner med værdipapirer for en kunde 
 
 Der er en særlig undtagelse til kravet om, at identitetsoplysninger indhentes og kontrolleres, inden en forretningsforbindelse etableres, når det vedrører oprettelse af konto, depot eller lignende, der tillader transaktioner i værdipapirer for en kunde. 
 
@@ -3098,7 +3224,7 @@ Se afsnittet nedenfor "om virksomheders pligt til at afbryde eller afvikle et ku
 ---
 
 
-#### Virksomhedens pligt til at afbryde eller afvikle et kundeforhold 
+### Virksomhedens pligt til at afbryde eller afvikle et kundeforhold 
 
 Virksomheden har kun hjemmel på hvidvaskområdet til at afbryde eller afvikle en forretningsforbindelse, hvis virksomheden har udtømt alle muligheder for at gennemføre kundekendskabsprocedurer, og virksomheden på denne baggrund kan konkludere, at det ikke er muligt at gennemføre kundekendskabsprocedurerne i forhold til den konkrete forretningsforbindelse. 
 
@@ -3159,6 +3285,7 @@ Virksomheden skal dog være opmærksom på eventuelle oplysningsforpligtelser i 
 
 
 
+---
 
 ### Beskyttelse af medarbejderen
 
@@ -3178,7 +3305,7 @@ Udgangspunktet efter retsplejeloven er, at der er vidnepligt.
 
 Imidlertid fremgår det af »Aktuel Orientering«, at den medarbejder, der har fået mistanke, kun indkaldes som vidne i en straffesag mod kunden, såfremt den overordnede medarbejder i den finansielle virksomhed ikke kan besvare spørgsmålene i sagen.
 
-
+---
 
 ### Hvad er Hvidvasksekretariatet?
 
@@ -3200,7 +3327,7 @@ Sekretariatet modtager også underretninger fra offentlige myndigheder.
 
 
 
-
+---
 
 ## <font color="red">Hvidvaskreglernes konkrete anvendelse på f.eks. ejendomsmæglervirksomheden<sup> Premium </font></sup>
 
@@ -3278,6 +3405,7 @@ For mindre ejendomsmæglervirksomheder med et begrænset antal sælgere, vil det
 
 Som tidligere nævnt så beror det dog på en risikovurdering.
 
+---
 
 ## <font color="red">”Kundeforholdet” hos ejendomsmægleren forholdet til hvidvaskningsloven<sup> Premium </font></sup>
 
@@ -3326,6 +3454,7 @@ Det betyder, at alle juridiske personer fremover vil have en eller flere reelle 
 Dette gælder dog fortsat ikke børsnoterede virksomheder.
 
 
+---
 
 ## <font color="red">Risikovurdering af ejendomsmæglerens kunder<sup> Premium </font></sup>
 
@@ -3353,6 +3482,7 @@ Normalt vil man som ejendomsmægler have brug for at kende adressen på sælgere
 
 Det kræver selvfølgelig, at der også fremskaffes legitimation for adressen, men det vil tit og ofte alligevel ske i forbindelse med at fremskaffe legitimation for navn og cpr. nr.– fx hvis kunden forviser sygesikringsbevis, virksomheden foretager opslag i cpr. registeret/ cvr. registret, årsopgørelser m.v. hvor adresse også fremgår.
 
+---
 
 ## <font color="red">Beskyttelse af persondata<sup> Premium </font></sup>
 
@@ -3396,6 +3526,8 @@ Det kan i øvrigt nævnes, at Datatilsynet kræver anmeldelse af den **whistlebl
  
 Endeligt kan nævnes, at kravet om uddannelse af medarbejdere udvides til også at omfatte krav om uddannelse i relevante bestemmelser om databeskyttelse.
 
+---
+
 ## <font color="red">Screening af medarbejderne og whistleblowerordning<sup> Premium </font></sup>
 
 
@@ -3412,6 +3544,7 @@ Den nye hvidvasklov har ifølge lovbemærkningerne også til formål at tydeligg
 
 Skatteunddragelse er imidlertid ikke nævnt som sådan i lovteksten, men det der formentlig tænkes på er, at der i definitionen på hvidvask, nu ikke alene er nævnt “økonomisk udbytte” fra en forbrydelse men også “midler”
 
+---
 
 ## <font color="red">Ejendomsmægleren og ejendomsmæglervirksomheden skal etablere en "whistleblowerordning"<sup> Premium </font></sup>
 
@@ -3515,5 +3648,7 @@ https://www.finanstilsynet.dk/~/media/Tilsyn/hvidvask/Vejledning-til-hvidvasklov
 * EU lovsamling med direktiver og forordninger 
 * Forordning nr. 2015/847 om oplysninger der skal medsendes ved pengeoverførsler 
 * Rådets forordning af 18. december 2008 om ændring af forordning (EF) nr. 1338/2001 om fastlæggelse af de foranstaltninger, der er nødvendige for at beskytte euroen mod falskmøntner
-* Kommissionens Forordning (EU) nr. 1031/2010 af 12. november 2010 om det tidsmæssige og administrative forløb af auktioner over kvoter for drivhusgasemissioner og andre aspekter i forbindelse med sådanne auktioner i medfør af Europa-Parlamentets og Rådets direktiv 2003/87/EF om en ordning for handel med kvoter for drivhusgasemissioner i Fællesskabet
+* Kommissionens Forordning (EU) nr. 1031/2010 af 12. november 2010 om det tidsmæssige og administrative forløb af auktioner over kvoter for drivhusgasemissioner og andre aspekter i forbindelse med sådanne auktioner i medfør af Europa-Parlamentets og Rådets direktiv 2003/87/EF om en ordning for handel med kvoter for drivhusgasemissioner i Fællesskabet.
+
+---
 

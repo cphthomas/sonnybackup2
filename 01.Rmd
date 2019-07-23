@@ -44,18 +44,17 @@ indeks <<- data.frame(BEGREB,forklaring)
 ```
 
 
-#   Indledning {-}
 
 
-`r source('/cloud/project/script2.R')`
-
-
+---
 
 
 
+# Indledning og retsstaten  
 
-
-
+```{r, echo=FALSE, results='asis'}
+#cat(readLines('np.html'))
+```
 
 
 
@@ -66,32 +65,46 @@ indeks <<- data.frame(BEGREB,forklaring)
 
 ***E-bogens videoer og quizer er ikke at betragte som en del af pensum, men er et supplement til pensum for at fremme din yderligere forståelse for Erhvervs- og Finansjuraen***
 
-**Om konstaterede fejl og mangler, samt spørgsmål til e-bogens indhold kan henvendelse ske på følgende e-mail:**
+***Der er mulighed for selv at tilføje sine egne noter i e-bogen.***
 
-**sk@bkhlaw.dk**
+***Om konstaterede fejl og mangler, samt spørgsmål til e-bogens indhold kan henvendelse ske på følgende e-mail:***
 
-**De bedste hilsener**
+***sk@bkhlaw.dk***
 
-**Advokat Sonny Kristoffersen, Ph.D.**
+***De bedste hilsener***
+
+***Advokat Sonny Kristoffersen, Ph.D.***
 
 <!-- `r icon::fa("medal")`  -->
 
+---
+
+***Anmeldelser***
+
+---
+
+**E-bogen Erhvervs- og finansjura for finansøkonomer rummer rigtig mange gode ting, bl.a. de quizzer der er ved de fleste mener, det gør det muligt at lave et hurtigt brush up.** 
+ 
+**Derudover er den nem at navigere i, da menuen i siden gør det nemt at komme til og fra de forskellige emner. Den er skrevet i et sprog som er nemt at forstå, og der er gode eksempler.** 
+
+**Egentlig har jeg ikke så meget negativt at sige, den eneste ulempe er at det ikke er muligt at overstrege men sådan er det jo generelt for E-bøger.**
+
+***Emma***
+
+---
+
+**Jeg synes, at e-bog Erhvervs- og finansjura for finansøkonomer er sat rigtig godt op. Simpel at slå op, og nem og finde information i.**
+ 
+***Nick***
+
+---
 
 
+***Kapitel 1 om retsstaten skal kun læses i hovedtræk*** 
 
-
-
-# Retsstaten 
-
-```{r, echo=FALSE, results='asis'}
-#cat(readLines('np.html'))
-```
-
-***Kapitel 1 skal kun læses i hovedtræk*** 
+---
 
 ## Grundloven om Danmarks forfatning
-
-
 
 
 Af de mere end 1.300 love, vi har i Danmark, er der én lov, en retskilde, der er hævet over alle de andre, nemlig grundloven.  ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` er Danmarks forfatning, dvs. den lov, der beskriver de grundlæggende regler for samfundet. 

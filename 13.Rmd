@@ -23,35 +23,50 @@
 
 ---
 
-•	**Individualforfølgning:** 
+•	**Individualforfølgning:**
 
-  * Udlægsgrundlag (eksekutionsgrundlag) – herunder betalingspåkrav, 
-  retsplejelovens kapitel 44a og § 478
+Med individualforfølgning menes:
+
+Når én kreditor forsøger at fremkalde betaling af sit tilgodehavende hos en skyldner f.eks. ved tvangsfuldbyrdelse via Fogedretten. Modsat universalforfølgning som f.eks. konkurs.
+
+De juridiske udfordringer for en individualforfølgning er:
+
+Udlægsgrundlag (eksekutionsgrundlag) – herunder betalingspåkrav, 
+retsplejelovens kapitel 44a og § 478
   
-  * Udlæggets genstand (trangsbeneficiet m.m.), retsplejelovens § 
-  507-515
+Udlæggets genstand (trangsbeneficiet m.m.), retsplejelovens § 
+507-515
   
 •	**Universalforfølgning:**
 
-  * Hæftelse: Hæftelsestyper i enkeltmandsvirksomhed samt forskellige selskabsformer. Emnet har relevans for opgørelse af aktivsiden i et   konkursbo samt kreditors evt. tab af restfordringen.  
-  
-  * Overordnet om rekonstruktion - anmodning, betingelser og retsvirkning 
-  
-  * Konkursret – anmodning, 
-  
-  * betingelser, KL § 17-21, 
-  
-  * fristdag, KL § 1 
+Når kreditorerne går sammen for at inddrive deres krav (insolvensbehandling). Universalforfølgning afskærer individualforfølgning. 
+Eksempler på universalforfølgning er konkurs, tvangsakkord og gældssanering. Ligelighedsprincippet er centralt. 
 
-  * nærtstående, KL § 2, 
+Der er desuden mulighed for omstødelse iht. konkursloven. Modsat: individualforfølgning.
 
-  * konkursordenen, KL kapitel 10, 
-  
-  * separatister  og underpanthavere, KL §§ 82 og 86, 
-  
-  * omstødelse, KL kapitel 8 
+De juridiske udfordringer ved universalforfølgning:
 
-				
+Hæftelse: Hæftelsestyper i enkeltmandsvirksomhed samt forskellige selskabsformer. 
+
+Emnet har relevans for opgørelse af aktivsiden i et   konkursbo samt kreditors evt. tab af restfordringen.  
+  
+Overordnet om rekonstruktion - anmodning, betingelser og retsvirkning 
+  
+Konkursret – anmodning, 
+  
+betingelser, KL § 17-21, 
+  
+fristdag, KL § 1 
+
+nærtstående, KL § 2, 
+
+konkursordenen, KL kapitel 10, 
+  
+separatister  og underpanthavere, KL §§ 82 og 86, 
+  
+omstødelse, KL kapitel 8 
+
+---				
 
 ## Regler og definitioner
 
@@ -100,23 +115,29 @@ Ordet **”insolvent”**
 
 Der må ved afgørelsen om skyldnerens insolvens og dermed en konkursbehandling tages der hensyn til en række momenter i praksis:
 
-* En rigtigt opgjort status er et vægtigt indicium om skyldnerens betalingsevne, jf. dommen U 2001 2592 Ø (skyldner, der siden 2000-02-10 ved (delvis) betaling havde afværget 15 konkursbegæringer, var insolvent, da han ikke kunne betale 50.798 kr. ifølge en udeblivelsesdom, og da han havde yderligere gældsposter). 
+En rigtigt opgjort status er et vægtigt indicium om skyldnerens betalingsevne, jf. dommen U 2001 2592 Ø (skyldner, der siden 2000-02-10 ved (delvis) betaling havde afværget 15 konkursbegæringer, var insolvent, da han ikke kunne betale 50.798 kr. ifølge en udeblivelsesdom, og da han havde yderligere gældsposter). 
 
-* Det må kræves, at der består en fordring mod skyldneren, men ikke at den er forfalden. Fordringen må endvidere tilkomme den, der indleverer konkursbegæringen til skifteretten.
+Det må kræves, at der består en fordring mod skyldneren, men ikke at den er forfalden. Fordringen må endvidere tilkomme den, der indleverer konkursbegæringen til skifteretten.
 
-* At fordringen er genstand for en ikke afsluttet retssag, udelukker ikke i sig selv, at den kan tjene som grundlag for konkurs, se f.eks. dommen U 1973 673 H.
+At fordringen er genstand for en ikke afsluttet retssag, udelukker ikke i sig selv, at den kan tjene som grundlag for konkurs, se f.eks. dommen U 1973 673 H.
 
-* Kreditor skal have en retlig interesse i konkursbehandlingen. Denne vil normalt bestå i, at der er udsigt til dividende. Det forhold, at kreditor aktuelt ikke kan forvente dividende i boet, udelukker ikke konkurs. Den retlige interesse kan bestå i, at konkursbehandlingen kan tænkes at tilvejebringe yderligere aktiver.
+Kreditor skal have en retlig interesse i konkursbehandlingen. 
 
-* Enhver fysisk person kan uanset (u)myndighed være »skyldner« i den anførte betydning i KKL § 17.
+Denne vil normalt bestå i, at der er udsigt til dividende. 
 
-* En juridisk person kan som »skyldner« erklæres konkurs, hvis enten ingen deltager i sammenslutningen hæfter personligt for sammenslutningens gæld, eller hvis samtlige personligt hæftende er under konkurs.
+Det forhold, at kreditor aktuelt ikke kan forvente dividende i boet, udelukker ikke konkurs. 
 
-* Pengeinstitutter kan erklæres konkurs, men beskikkelse af kurator sker efter forhandling med Finanstilsynet, se lov om finansiel virksomhed § 246, stk. 3. 
+Den retlige interesse kan bestå i, at konkursbehandlingen kan tænkes at tilvejebringe yderligere aktiver.
 
-* Om forsikringsselskabers konkurs, se lov om finansiel virksomhed §§ 264-265, hvorefter bl.a. beskikkelse af kurator sker efter forhandling med Finanstilsynet.
+Enhver fysisk person kan uanset (u)myndighed være »skyldner« i den anførte betydning i KL (konkursloven) § 17.
 
-* Ansvarlige interessentskabers boer behandles som konkursboer, når samtlige interessenter er under konkurs.
+En juridisk person kan som »skyldner« erklæres konkurs, hvis enten ingen deltager i sammenslutningen hæfter personligt for sammenslutningens gæld, eller hvis samtlige personligt hæftende er under konkurs.
+
+Pengeinstitutter kan erklæres konkurs, men beskikkelse af kurator sker efter forhandling med Finanstilsynet, se lov om finansiel virksomhed § 246, stk. 3. 
+
+Om forsikringsselskabers konkurs, se lov om finansiel virksomhed §§ 264-265, hvorefter bl.a. beskikkelse af kurator sker efter forhandling med Finanstilsynet.
+
+Ansvarlige interessentskabers boer behandles som konkursboer, når samtlige interessenter er under konkurs.
 
 ![](img/insolvent3.jpg)
 
@@ -133,7 +154,7 @@ Insolvens antages i almindelighed at foreligge efter KKL § 18, hvis:
  
 
  
-
+---
 
 ## Inkasso
 
@@ -158,22 +179,25 @@ Lovens formål søges også opnået ved regler om, at inkassovirksomhed skal ud�
 
 
 
-* Inkassolovens kap. 1 fastlægger anvendelsesområdet for loven.
+Inkassolovens kap. 1 fastlægger anvendelsesområdet for loven.
 
-* I kap. 2 fastsættes autorisationsordningen for inkassofirmaer og visse andre virksomheder. 
+Kap. 2 fastsættes autorisationsordningen for inkassofirmaer og visse andre virksomheder. 
 
-* Endvidere indeholder kap. 2 regler om sikkerhedsstillelse. 
+Endvidere indeholder kap. 2 regler om sikkerhedsstillelse. 
 
-* I kap. 3 fastsættes regler om godkendelse af personale, som retter personlige henvendelser til skyldnere. 
+Kap. 3 fastsættes regler om godkendelse af personale, som retter personlige henvendelser til skyldnere. 
 
-* Kap. 4 indeholder regler om, hvorledes inkassovirksomhed skal udøves. 
+Kap. 4 indeholder regler om, hvorledes inkassovirksomhed skal udøves. 
 
-* Kap. 5 indeholder kompetence- og bemyndigelsesbestemmelser. 
+Kap. 5 indeholder kompetence- og bemyndigelsesbestemmelser. 
 
-* I kap. 6 fastsættes regler om tilbagekaldelse og bortfald af autorisation mv. 
-* Kap. 7 indeholder regler om tilsyn. 
+Kap. 6 fastsættes regler om tilbagekaldelse og bortfald af autorisation mv.
 
-* Kap. 8 indeholder straffe- og ikrafttrædelsesbestemmelser.
+Kap. 7 indeholder regler om tilsyn. 
+
+Kap. 8 indeholder straffe- og ikrafttrædelsesbestemmelser.
+
+---
 
 ### Inkassoprocessen
 
@@ -194,6 +218,13 @@ Lovens formål søges også opnået ved regler om, at inkassovirksomhed skal ud�
 * Formålet med inkasso er at få betalt gælden eller opnå en afdragsordning, som kaldes et frivilligt forlig
 
 * Betaler skyldner stadig ikke, må kreditor overveje at fortsætte med tvangsinddrivelse
+
+---
+
+**Video: God inkassoskik**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/z8QQeRFvPGQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
 
 ---
 
@@ -307,6 +338,14 @@ Hvis kreditor ikke har et fundament, skal kreditor:
 * **U7:** Båndlagte gaver, RPL § 514
 
 * **U8:** Trangsbeneficiet, RPL § 509
+
+---
+
+**Video: Udlæg og trangsbeneficiet**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/kxa-lYBFCDk" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
  
 
 *Trangsbeneficiet, jf. RPL § 509:*
@@ -391,19 +430,22 @@ Kreditor kan begære **tvangsauktion:**
 
 ### Konkursbehandling
 
- 
+![](img/konkurs.jpg) 
 
-* Separatistkrav bliver fyldestgjort før konkursmassen gøres op
 
-* Kurator skal sælge og opgøre alle konkursboets aktiver
+**Under konkursbehandlingen sker der følgende:**
 
-* Konkursboet skal overveje, om det vil indtræde i gensidigt bebyrdende aftaler
+Separatistkrav bliver fyldestgjort før konkursmassen gøres op
 
-* Konkursboet vurderer, om der kan være omstødelige dispositioner
+Kurator skal sælge og opgøre alle konkursboets aktiver
 
-* Kurator opgør alle kreditorernes krav og placerer dem i konkursordenen
+Konkursboet skal overveje, om det vil indtræde i gensidigt bebyrdende aftaler
 
-* Når konkursboets aktiver og passiver er gjort op bliver kreditorerne fyldestgjort efter konkursordenen
+Konkursboet vurderer, om der kan være omstødelige dispositioner
+
+Kurator opgør alle kreditorernes krav og placerer dem i konkursordenen
+
+Når konkursboets aktiver og passiver er gjort op bliver kreditorerne fyldestgjort efter konkursordenen
 
  
 ### Konkursmassen
