@@ -1,5 +1,7 @@
 # Kautionsforhold
 
+![](img/kau9.jpg)
+
 ---
 
 ***Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af sikkerhedsstillelse for gæld:***
@@ -29,17 +31,27 @@
 
 Ordet kaution kommer af latin cautio 'forsigtighed, sikkerhed', af cavere 'passe på, sikre'.
 
-* Kaution er en sikkerhedsstillelse for et gældsforhold
+Kaution er en sikkerhedsstillelse for et gældsforhold
 
-* Der er tre parter i kautionsforhold (Se figuren nedenfor):
+Der er tre parter i kautionsforhold (Se figuren nedenfor):
 
   +	Låntager = hovedskyldner
   +	Långiver = kreditor
   +	Kautionist
   
-* Kautionsaftalen indgås mellem kautionisten og kreditor
+![](img/kau1.png)
+(KIlde; Trojka)
 
-* Kautionisten har typisk en relation til låntager i forvejen:
+---
+
+![](img/kau.png)
+(KIlde; Trojka)
+
+---
+
+Kautionsaftalen indgås mellem kautionisten og kreditor
+
+Kautionisten har typisk en relation til låntager i forvejen:
 
   +	Forældre &lrarr;	børn
   +	Virksomhedsejer	&lrarr; virksomhed
@@ -79,25 +91,30 @@ visNetwork(nodes, edges, width = "80%") %>%
 
 ---
 
-  <img src="img/kautionsaftale.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+## Stiftelse af kaution
 
-(Kilde: Trojka)
+![](img/kau10.jpg)
 
 ---
 
-## Stiftelse af kaution
+Kautionsaftale indgås mellem kreditor og med en eller flere kautionister.
 
-* Kautionsaftale indgås mellem kreditor og kautionist
+![](img/kau4.png)
+(Kilde; Trojka)
 
-* Aftalelovens regler gælder også for kautionsaftaler, fx:
+---
+
+Aftalelovens regler gælder også for kautionsaftaler, fx:
 
   +	Stærke og svage ugyldighedsgrunde
   +	Forudsætningslæren
-  +	Generalklausulen i aftalelovens §§ 38c, jf. 36
+  +	Generalklausulen om tilsidesættelse af urimelige aftaler i aftalelovens §§ 38c, jf. 36
   
-* Kaution er også reguleret i Lov om finansiel virksomhed, se Lovbekendtgørelse nr. 1140 af 26. september 2017 om finansiel virksomhed (FIL), jf. §§ 47 (erhvervskaution) og 48 (privat kaution), hvis kaution gives overfor en finansiel virksomhed
+Kaution er også reguleret i Lov om finansiel virksomhed, se Lovbekendtgørelse nr. 1140 af 26. september 2017 om finansiel virksomhed (FIL), jf. §§ 47 (erhvervskaution) og 48 (privat kaution), hvis kaution gives overfor en finansiel virksomhed
 
-* Vigtigt at skelne mellem erhvervskaution og privat kaution
+Vigtigt at skelne mellem erhvervskaution og privat kaution.
+
+---
 
 ## Generalklausulen på kautionsforhold
 
@@ -107,35 +124,48 @@ Om anvendelse af aftalelovens § 36 på kautionsforhold findes en del retspraksi
 
 <img src="img/kaution6.png" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-*I U 1993.949 V blev en kautionsaftale tilsidesat i medfør af aftalelovens § 36. En 73-årig kvinde K, der var nervesvækket og uden indsigt i økonomiske anliggender, havde over for en sparekasse S påtaget sig selvskyldnerkaution på indtil 100.000 kr. for sin stedsøn P’s ældre og fremtidige gæld til S. Ved kautionsløftets afgivelse var P’s engagement med S nødlidende på grund af overtræk på ca. 124.000 kr. og ville blive opsagt, hvis der ikke blev skaffet yderligere sikkerhed, fx ved kaution. K var ikke af S blevet informeret om P’s engagement og overtrækkene.*
+---
 
+I dommen **U 1993.949 V** blev en kautionsaftale tilsidesat i medfør af aftalelovens § 36. En 73-årig kvinde K, der var nervesvækket og uden indsigt i økonomiske anliggender, havde over for en sparekasse S påtaget sig selvskyldnerkaution på indtil 100.000 kr. for sin stedsøn P’s ældre og fremtidige gæld til S. Ved kautionsløftets afgivelse var P’s engagement med S nødlidende på grund af overtræk på ca. 124.000 kr. og ville blive opsagt, hvis der ikke blev skaffet yderligere sikkerhed, fx ved kaution. K var ikke af S blevet informeret om P’s engagement og overtrækkene.
 
-
-I dommen U 1994.126 V blev en kautionsforpligtelse ligeledes tilsidesat i medfør af aftalelovens § 36.   
 
 ---
 
-*I dommen U 1997.522 Ø fandtes det ikke urimeligt eller i strid med redelig handlemåde, at et pengeinstitut gjorde en låneaftale gældende, da pengeinstituttet ved et låns oprettelse ikke burde have vidst, at en 18-årig ikke inden overskuelig tid ville kunne betale de månedlige ydelser. Der blev overført godt 170.000 kr. til en bilsælger, uden at banken sikrede sig, at låntager var indforstået hermed. Selvom dette kunne anses som en fejl, fandtes det, under hensyn til at låntager havde indgået en endelig handel og modtaget bilen, ikke urimeligt eller i strid med redelig handlemåde, at pengeinstituttet gjorde aftalen gældende, jf. aftalelovens § 36.*
+![](img/kau11.jpg)
 
+I dommen **U 1994.126 V** blev en kautionsforpligtelse ligeledes tilsidesat i medfør af aftalelovens § 36:   
 
-**I dommen U 2010.1628 H: Kautionsaftale delvist tilsidesat efter aftalelovens § 36**.
+---
+
+I dommen **U 1997.522 Ø** fandtes det ikke urimeligt eller i strid med redelig handlemåde, at et pengeinstitut gjorde en låneaftale gældende, da pengeinstituttet ved et låns oprettelse ikke burde have vidst, at en 18-årig ikke inden overskuelig tid ville kunne betale de månedlige ydelser. Der blev overført godt 170.000 kr. til en bilsælger, uden at banken sikrede sig, at låntager var indforstået hermed. Selvom dette kunne anses som en fejl, fandtes det, under hensyn til at låntager havde indgået en endelig handel og modtaget bilen, ikke urimeligt eller i strid med redelig handlemåde, at pengeinstituttet gjorde aftalen gældende, jf. aftalelovens § 36.
+
+---
+
+I dommen **U 2010.1628 H**: Kautionsaftale delvist tilsidesat efter aftalelovens § 36**.
 
 ---
 
 ## Privat kaution eller erhvervskaution
 
-* Privatkaution stilles typisk af en fysisk person overfor en person eller virksomhed
+Privatkaution stilles typisk af en fysisk person overfor en person eller virksomhed.
 
-* Der vil ofte være en nær relation mellem debitor og kautionist
+Der vil ofte være en nær relation mellem debitor og kautionist.
 
-* Erhvervskaution stilles både af fysiske og juridiske personer, men typisk er debitor en virksomhed
+Erhvervskaution stilles både af fysiske og juridiske personer, men typisk er debitor en virksomhed.
 
-* I vurderingen erhvervskaution eller privat kaution indgår følgendeparametre (Se figuren nedenfor):
+I vurderingen erhvervskaution eller privat kaution indgår følgendeparametre (Se figuren nedenfor):
 
   + Ejerandel i virksomhed, der kautioneres for
   + Stilling i virksomheden
   + Indsigt i virksomhedens økonomi
   + Bestemmende indflydelse i virksomheden samlet set
+
+---  
+
+![](img/kau2.png)
+(Kilde; Trojka)
+
+---
 
 ### Erhvervskaution i et pengeinstitut
 
@@ -145,17 +175,18 @@ Med hensyn til erhvervskaution i et pengeinstitut følger det af FIL § 47:
 
 *”Er der inden for erhvervsforhold stillet kaution for lån ydet af et pengeinstitut, og udebliver låntager med betaling af hovedstol, afdrag eller renter, skal der senest 6 måneder efter de pågældende ydelsers forfaldsdag skriftligt gives meddelelse til enhver af kautionisterne eller til den eller dem af disse, der er bemyndiget til at modtage meddelelsen på samtlige kautionisters vegne. Undladelse heraf medfører, at pengeinstituttet taber sit krav over for kautionisterne, i det omfang disses regreskrav mod låntageren er blevet forringet ved undladelsen.*
 
-
+---
 
 Skriftlighedskravet kan opfyldes i såvel papirformat som elektronisk format.
+
 
 ---
 
 Se følgende domme:
 
-*U 1992 442 (der kunne ikke ses bort fra, at kautionisten ved underretning kunne have gennemført sit regreskrav helt eller delvis mod hovedskyldneren. Finansieringsselskabet var afskåret fra nu at gøre kautionsforpligtelsen gældende).*   
+**U 1992 442** (der kunne ikke ses bort fra, at kautionisten ved underretning kunne have gennemført sit regreskrav helt eller delvis mod hovedskyldneren. Finansieringsselskabet var afskåret fra nu at gøre kautionsforpligtelsen gældende).   
 
-*U 1995 77 (da låntagers formue måtte antages at være negativ allerede inden udløbet af seksmånedersfristen, fandtes kautionisternes regreskrav ikke at være forringet ved den undladte underretning, og kautionisterne skulle indfri kautionen).*
+**U 1995 77** (da låntagers formue måtte antages at være negativ allerede inden udløbet af seksmånedersfristen, fandtes kautionisternes regreskrav ikke at være forringet ved den undladte underretning, og kautionisterne skulle indfri kautionen).
 
 ---
 
@@ -164,7 +195,9 @@ Se følgende domme:
 <img src="img/kaution3.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
-Der er i FIL § 48 lovbestemmelser vedrørende privatkaution i et pengeinstitut. Herved forstås kaution, der ikke indgår i en erhvervsmæssig relation mellem låntager og kautionist. 
+Der er i FIL § 48 lovbestemmelser vedrørende privatkaution i et pengeinstitut. 
+
+Herved forstås kaution, der ikke indgår i en erhvervsmæssig relation mellem låntager og kautionist. 
 
 Er kautionen eksempelvis stillet for en virksomheds gæld af ejeren af virksomheden, vil forholdet ikke være omfattet af bestemmelsen i FIL § 48, men § FIL § 47. 
 
@@ -176,10 +209,15 @@ Ved tilstrækkeligt informeret forstås, at informationen skal være udformet, s
 
 Der vil derfor kunne være behov for at supplere en udleveret pjece med yderligere information over for kautionister, der har svært ved at forstå indholdet og konsekvenserne ved en kautionsforpligtelse.
 
+![](img/kau12.jpg)
+
+---
+
 [Se pjecen om privatkaution af december 2017 her.](https://finansdanmark.dk/media/19183/information-om-privat-kaution-og-tredjemandspant.pdf)
 
+---
 
-Informationen kan som tidligere gives ved udlevering af denne pjece til kautionisten, der er udarbejdet i fællesskab mellem Finansrådet (nu Finans Danmark) og ForbrugerrådetTænk, for så vidt angår kaution for lån ydet af pengeinstitutter. 
+Informationen kan som tidligere gives ved udlevering af denne pjece til kautionisten, der er udarbejdet i fællesskab mellem Finansrådet (nu FinansDanmark) og ForbrugerrådetTænk, for så vidt angår kaution for lån ydet af pengeinstitutter. 
 
 Der er dog ikke krav om, at pjecen skal udleveres. 
 
@@ -195,10 +233,15 @@ Med hensyn til privatkaution i et pengeinstitut følger det således af FIL § 4
 
 Denne information skal indeholde oplysninger om, hvad den konkrete kautionsforpligtelse indebærer, og indeholde en afbalanceret beskrivelse af de risici, der er forbundet hermed. Endvidere skal pengeinstituttet for den debitor, hvis gæld kautionsforpligtelsen skal sikre, med samtykke fra debitor udlevere: 
 
+---
+
+![](img/ors.jpg)
 
 ***Den seneste årsopgørelse fra SKAT,**
 
 *^^De seneste tre lønsedler eller det seneste årsregnskab, hvis der kautioneres for en erhvervsdrivendes gæld.**
+
+---
 
 Samtykke til videregivelse af oplysninger skal afgives i overensstemmelse med kravene i databeskyttelseslovgivningen. 
 
@@ -214,12 +257,15 @@ Et pengeinstitut, som ikke har overholdt FIL § 48, stk. 1, kan kun gøre kautio
 
 Det beror på en konkret vurdering, om kautionisten har haft et forsvarligt grundlag for at bedømme de risici, der er forbundet med at indgå kautionsforpligtelsen. 
 
-Er der tvivl om, hvorvidt kautionisten har haft et forsvarligt grundlag for at bedømme de risici, der er forbundet med at indgå kautionsforpligtelsen, vil reglen føre til, at kautionsaftalen bliver tilsidesat. Udleverer et pengeinstitut f.eks. kun den 4., 3. og næstsidste lønseddel, men ikke den seneste lønseddel, vil der dog næppe ske tilsidesættelse af kautionsaftalen, medmindre de udeladte oplysninger har indeholdt oplysninger om, at debitors økonomiske situation er blevet forringet, og at kautionisten derved er blevet frataget et forsvarligt grundlag for at bedømme de risici, der er forbundet med at indgå kautionsforpligtelsen. 
+Er der tvivl om, hvorvidt kautionisten har haft et forsvarligt grundlag for at bedømme de risici, der er forbundet med at indgå kautionsforpligtelsen, vil reglen føre til, at kautionsaftalen bliver tilsidesat. 
 
-Hvis der derimod slet ikke er udleveret nogen af de i stk. 1 anførte oplysninger, vil det som udgangspunkt være vanskeligt at føre bevis for, at kautionisten har haft et forsvarligt grundlag for at bedømme de risici, der er forbundet med kautionsforpligtelsen. 
+Udleverer et pengeinstitut f.eks. kun den 4., 3. og næstsidste lønseddel, men ikke den seneste lønseddel, vil der dog næppe ske tilsidesættelse af kautionsaftalen, medmindre de udeladte oplysninger har indeholdt oplysninger om, at debitors økonomiske situation er blevet forringet, og at kautionisten derved er blevet frataget et forsvarligt grundlag for at bedømme de risici, der er forbundet med at indgå kautionsforpligtelsen. 
+
+Hvis der derimod slet ikke er udleveret nogen af de i § 48, stk. 1 anførte oplysninger, vil det som udgangspunkt være vanskeligt at føre bevis for, at kautionisten har haft et forsvarligt grundlag for at bedømme de risici, der er forbundet med kautionsforpligtelsen. 
 
 I disse tilfælde må kautionsforpligtelsen derfor forventes tilsidesat.
 
+---
 
 <img src="img/kaution5.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
@@ -249,6 +295,8 @@ Hvis der er flere kautionister, skal der som udgangspunkt gives meddelelse til h
 Dette udelukker dog ikke, at meddelelse kan gives til andre, hvor der er en rimelig begrundelse herfor, eksempelvis hvis en blandt flere kautionister har bopæl i udlandet. 
 
 Bestemmelsen i FIL § 48, stk. 6 in fine indebærer, at der, som det antages i gældende ret, ikke kan lægges vægt på en generel forhåndstilladelse til at indrømme henstand, der er indeholdt i kautionsaftalen.
+
+---
 
 <img src="img/kaution2.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
@@ -302,8 +350,6 @@ Også her ses der som udgangspunkt på forholdene på tidspunktet for kautionsaf
 
 Der skal kun i særlige tilfælde tages hensyn til efterfølgende ændringer i værdien af pantsikkerheder.
 
-
-
 Vurderingen efter bestemmelsen sker som udgangspunkt alene på baggrund af forholdene mellem kreditor, debitor og kautionist. 
 
 Der tages således kun hensyn til, at kautionisten har påtaget sig kautions-, pantsætnings- eller debitorforpligtelser over for andre kreditorer, hvis kreditor kender til sådanne forpligtelser. 
@@ -311,10 +357,7 @@ Der tages således kun hensyn til, at kautionisten har påtaget sig kautions-, p
 Generalklausulen i aftalelovens §§ 36 og 38 c vil herudover forsat kunne bringes i anvendelse i øvrigt i forhold til kautionsforpligtelser.
 
 
-
 FIL § 48, stk. 1-10 finder tilsvarende anvendelse på tredjemandspant uden for erhvervsforhold, jf. FIL § 48, stk. 11.
-
-
 
 Tredjemandspant stillet af en privatperson minder på flere punkter om privat kaution. 
 
@@ -323,48 +366,48 @@ Både ved kaution og tredjemandspant er der tale om, at en fordringshaver opnår
 I modsætning til kaution hæfter en tredjemandspantsætter dog ikke personligt for den sikrede fordring, men derimod kun med det stillede pant, medmindre andet er aftalt.
 
 
-  
+![](img/kau13.jpg)  
 
-
+---
 
 ## Oplysningspligt
 
 <img src="img/kaution7.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-* Krav om at Finansielle virksomheder giver oplysninger til private kautionister (tilsvarende regler for tredjemandspant), jf. FIL § 48 om:
+Krav om at Finansielle virksomheder giver oplysninger til private kautionister (tilsvarende regler for tredjemandspant), jf. FIL § 48 om:
 
-* Hvad en kautionsforpligtelse indebærer
+**Hvad en kautionsforpligtelse indebærer skal beskrives overfor kautionsten:**
 
-* Beskrivelse af risikoen
+Beskrivelse af risikoen.
 
-* Låntagers økonomi
+Oplysninger om låntagers (debitors) økonomi:
 
   + Årsopgørelser fra Skat
   + Lønsedler
   + Evt. årsregnskab
   
-* Låntagers gæld til den finansielle virksomhed
+Låntagers gæld til den finansielle virksomhed.
 
-* Gennemgå pjece om kaution
+Gennemgå pjece om kaution.
 
-* Kautionen må ikke stå i misforhold til kautionisten økonomi
+Kautionen må ikke stå i misforhold til kautionisten økonomi.
 
-Hvis oplysningspligten ikke er overholdt kan kautionen   eventuelt tilsidesættes efter FIL § 48, stk. 2
+Hvis oplysningspligten ikke er overholdt kan kautionen   eventuelt tilsidesættes efter FIL § 48, stk. 2.
 
- 
+---
+
 ## Kautionens indhold
 
-* Hvornår kautionen kan gøres gældende afhænger af kautionstypen:
+Hvornår kautionen kan gøres gældende afhænger af kautionstypen:
 
-  + Simpel kaution – når det er dokumenteret, at debitor ikke kan
-  betale lånet
+  + **Simpel kaution** – når det er dokumenteret, at debitor ikke kan   betale lånet
   
-  + Selvskyldnerkaution – når debitor har misligholdt lånet
+  + **Selvskyldnerkaution** – når debitor har misligholdt lånet
   
-  + Tabskaution – efter udtømmende retsforfølgning
+  + **Tabskaution** – efter udtømmende retsforfølgning
   
-* Hvilket beløb kautionen kan gøres gældende for afhænger af 
-  kautionstypen:
+Hvilket beløb kautionen kan gøres gældende for afhænger af 
+kautionstypen:
   
   + Alskyld – for hele lånet
   
@@ -413,7 +456,7 @@ mydf %>%
 ```
 
 
-
+---
 
 ## Pantesikkerhed eller kaution
 
@@ -427,9 +470,17 @@ Kaution betyder, at låntager stiller sikkerhed for lånets tilbagebetaling ved 
 
 Der findes forskellige former for hæftelse og kautioner, som vil blive beskrevet i det følgende.
 
-## Pro rata hæftelse
+---
 
-Pro rata hæftelse indebærer, at hver person alene hæfter for en bestemt andel af den samlede gæld.
+### Pro rata hæftelse
+
+![](img/kau5.png)
+(Kilde; Trojka)
+
+---
+
+
+**Pro rata hæftelse** indebærer, at hver person alene hæfter for en bestemt andel af den samlede gæld.
 
 Det kan eksempelvis være aftalt, at to kautionister hver især alene hæfter for 50.000 kr. af en samlet gæld på 100.000 kr.
 
@@ -439,13 +490,18 @@ Ved ren pro rata hæftelse har det ingen betydning for den ene kautionist, om de
 
 Det kan dog være aftalt, at kautionisterne har regres over for hinanden, selv om de hæfter pro rata over for långiver. En sådan aftale minder om solidarisk hæftelse.
 
-## Solidarisk hæftelse
 
-Solidarisk hæftelse betyder, at kautionisterne hæfter for hele eller en del af gælden i fællesskab ud fra devisen én for alle, alle for én.
+---
+
+### Solidarisk hæftelse
+
+**Solidarisk hæftelse** betyder, at kautionisterne hæfter for hele eller en del af gælden i fællesskab ud fra devisen én for alle, alle for én.
 
 Der vil være solidarisk hæftelse mellem to kautionister, hvis ikke andet er aftalt eller følger af lovgivningen.
 
 Der findes to former for solidarisk hæftelse - fuldstændig solidarisk hæftelse og delvis solidarisk hæftelse.
+
+---
 
 ### Fuldstændig solidarisk hæftelse
 
@@ -453,9 +509,11 @@ Ved fuldstændig solidarisk hæftelse hæfter kautionisterne for hele gælden i 
 
 Långiver kan kræve hele gælden betalt af enhver af kautionisterne, men långiver kan naturligvis ikke samlet kræve mere end det samlede skyldige beløb.
 
+---
+
 **Delvis solidarisk hæftelse:**
 
-Ved delvis solidarisk hæftelse hæfter flere kautionister alene for en del af den samlede gæld.
+Ved **delvis solidarisk hæftelse** hæfter flere kautionister alene for en del af den samlede gæld.
 
 Eksempelvis kan det være aftalt, at to kautionister hæfter for 50.000 kr. af en samlet gæld på 100.000 kr.
 
@@ -465,11 +523,13 @@ Da flere kautionister hæfter for en del af det samlede lån, bortfalder den ene
 
 Dette er ikke tilfældet ved pro rata hæftelse, hvor hver enkelt kautionist hæfter for hver sin del af låntagers gæld.
 
+---
+
 ## Simpel kaution eller selvskyldnerkaution
 
 <img src="img/kaution8.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Selvskyldnerkaution er den strengeste form for kaution set fra kautionistens synspunkt. 
+**Selvskyldnerkaution** er den strengeste form for kaution set fra kautionistens synspunkt. 
 
 Selvskyldnerkaution indebærer, at kautionisten hæfter allerede fra den dag, hvor låntageren misligholder sin betalingsforpligtelse.
 
@@ -477,9 +537,16 @@ Hvis kravet ikke er betalt, kan långiver allerede fra forfaldsdagen kræve beta
 
 Ved simpel kaution skal långiver derimod dokumentere, at låntager ikke kan betale gælden, før der kan kræves betaling fra kautionisterne.
 
-Simpel kaution finder anvendelse, medmindre andet er aftalt eller følger af lov.
+**Simpel kaution** finder anvendelse, medmindre andet er aftalt eller følger af lov.
 
 Professionelle långivere som banker vil imidlertid normalt kræve, at en kaution stilles som selvskyldnerkaution.
+
+---
+
+![](img/kau3.png)
+(Kilde; Trojka)
+
+---
 
 ## Privat kaution for lån i pengeinstitutter
 
@@ -491,19 +558,20 @@ Desuden er der grænser for hvor længe en kaution stillet af en privat kautioni
 
 De samme beskyttelsesregler gælder, hvis en privatperson stiller pantesikkerhed for en anden persons eller en virksomheds gæld til et pengeinstitut.
 
+---
+
 ## Flere kautionister
 
-* Er der flere kautionister kan det være (Se figuren nedenfor)
+Er der flere kautionister kan det være (Se figuren nedenfor):
 
   + Samkaution – afhængigt af hinanden
   + Medkaution – uafhængigt af hinanden
   
-* Flere kautionister hæfter solidarisk, hvis ikke andet er aftalt
+Flere kautionister hæfter solidarisk, hvis ikke andet er aftalt.
 
-* Hvis det er aftalt kan kautionisterne hæfte pro rata (Se figuren 
-  nedenfor)
+Hvis det er aftalt kan kautionisterne hæfte pro rata (Se figuren nedenfor).
   
-* Samkautionister har efter betaling af gælden regresret mod de andre   kautionister
+**Samkautionister** har efter betaling af gælden regresret mod de andre kautionister.
  
  
 ```{r network6, echo=FALSE, result=TRUE,fig.cap=("Flere kautionister kan kautionere, enten som sam- eller medkautionister.")}
@@ -616,32 +684,30 @@ visNetwork(nodes, edges, width = "80%") %>%
 
 ---
 
-<img src="img/Flree kautionsaftaler.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-(kilde: Trojka)
 
----
 
 ## Kautionens ophør
 
-* Kautionen ophører, når gælden bliver betalt eller eftergivet
+Kautionen ophører, når gælden bliver betalt eller eftergivet.
 
-* Privat kaution bortfalder efter 5 år eller 10 år, hvis kautionen ikke forlænges
+Privat kaution bortfalder efter 5 år eller 10 år, hvis kautionen ikke forlænges.
 
-* Kautionen kan bortfalde ved kreditors henstand
+Kautionen kan bortfalde ved kreditors henstand.
 
-  + Privat kaution – kreditor skal give kautionisten besked inden for 3 måneder
-  + Erhvervskaution – kreditor skal give kautionisten besked inden for 6 måneder
++ Privat kaution – kreditor skal give kautionisten besked inden for 3 måneder
++ Erhvervskaution – kreditor skal give kautionisten besked inden for 6 måneder
   
-* Kautionen forældes sammen med hovedfordring, hvis ikke andet er aftalt
+Kautionen forældes sammen med hovedfordring, hvis ikke andet er aftalt.
 
- 
+---
+
 ## Kautionistens krav på låntager
 
 
 <img src="img/kaution9.png" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
-* Når kautionisten har betalt kreditor det skyldige beløb, har kautionisten regresret overfor debitor:
+Når kautionisten har betalt kreditor det skyldige beløb, har kautionisten regresret overfor debitor:
 
 * **HR:** Kautionisten indtræder i kreditors rettigheder også i fx en panteret
 
@@ -649,19 +715,24 @@ visNetwork(nodes, edges, width = "80%") %>%
   
   + **U2**: Fordringen er eftergivet helt eller delvist ved tvangsakkord
 
-
+---
 
 ## Regresret
+
+![](img/kau6.png)
+(Kilde: Trojka)
+
+---
 
 Låntager fritages ikke fra sin gæld, fordi én af kautionisterne indbetaler de skyldige penge til långiver. 
 
 Låntager er nemlig forpligtet til at betale gælden til de kautionister, der har betalt de skyldige penge til långiver. 
 
-Kautionisterne har såkaldt regres over for låntager.
+Kautionisterne har såkaldt **regres over for låntager**.
 
 Det er ikke kun fra låntager en kautionist kan kræve betaling. 
 
-Hvis der er flere kautionister, og de hæfter solidarisk, er det også muligt at kræve betaling fra de øvrige kautionister, der hæfter for den samme del af gælden. 
+**Hvis der er flere kautionister, og de hæfter solidarisk, er det også muligt at kræve betaling fra de øvrige kautionister, der hæfter for den samme del af gælden**. 
 
 Hvis ikke andet er aftalt vil man gå ud fra, at to kautionister skal bære kravet 50/50.
 
@@ -673,37 +744,43 @@ Det viser sig dog ofte særdeles svært at få penge fra den misligholdende lån
 
 På samme måde viser det sig ofte at det ikke er alle kautionister, der faktisk har mulighed for at betale. 
 
-
+---
   
 ## Hvad nu hvis kautionisten dør?
 
   <img src="img/kaution10.png" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
----
+
 
 **Eksempel**:
 
-"Min mand har kautioneret for sin datter. Overtager jeg denne forpligtelse ved min mands død ?
+Min mand har kautioneret for sin datter. Overtager jeg denne forpligtelse ved min mands død ?
 Med venlig hilsen X"
 
 **Svar fra advokaten:**
 
 Hvis kautionsforpligtelsen stadig er gældende, når din mand afgår ved døden, vil kreditor anmelde kravet i dødsboet efter din mand. 
+
 De gældsforpligtelser, som din mand har på dødsfaldstidspunktet, overtager du ikke, med mindre du vælger at sidde i uskiftet bo.
-Gældsforpligtelserne skal som udgangspunkt indfries i forbindelse med bobehandlingen. 
+
+Gældsforpligtelserne skal som udgangspunkt indfries i forbindelse med bobehandlingen.
+
 Da din mand har kautioneret over for sin datter, vil der måske være mulighed for, at din datter som en del af sin arv efter sin far udtager kautionsforpligtelsen.
 
-Hermed menes, at kautionsforpligtelsen indfries af den del af arven, som tilkommer datteren. Hvis boet efter din mand viser sig at være insolvent (negativ nettoformue), vil kreditor i henhold til kautionsforpligtelsen ikke kunne rette kravet mod dig som det længstlevende ægtefælle. 
+Hermed menes, at kautionsforpligtelsen indfries af den del af arven, som tilkommer datteren. 
+
+Hvis boet efter din mand viser sig at være insolvent (negativ nettoformue), vil kreditor i henhold til kautionsforpligtelsen ikke kunne rette kravet mod dig som det længstlevende ægtefælle. 
+
 Kreditor vil alene kunne rette kravet mod datteren.
 
 Med venlig hilsen
-Advokat Y
+Advokat Sonny Kristoffersen
 
 ---
 
 
 
-## Eksamensopgavesæt om forbrugeraftaler, erstatningsret, kreditorforfølgning, konkurs, selskabsformer og kaution mv.
+**Eksamensopgavesæt om forbrugeraftaler, erstatningsret, kreditorforfølgning, konkurs, selskabsformer og kaution mv.**
 
 
 <img src="img/prinsessefødselsdag.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
@@ -724,7 +801,7 @@ Desværre er der ikke prinsesseudstyr i pakken, men i stedet udstyr til en føds
 
 Hvilke muligheder har Peter for at fortryde sit køb eller gøre misligholdelsesbeføjelser gældenden imod Temafesten? (20%)
 
-**Vejledenden løsning:**
+**Vejledende løsning:**
 
 Læringsmål: Anvende og formidle juridiske regler og praksis for forbrugeraftalers indgåelse og ugyldighed i relation til forskellige finanselle aftaler. Viden om grundlæggende regler om køb med henblik på at lette forståelsen for andre juridiske områder.
 
@@ -847,7 +924,7 @@ Svar: Svaret bør overveje de hæftelsesmæssige forskelle mellem person- og kap
 
 Der er desværre ikke ret mange, som synes så godt om Peters festudstyr, at de vil betale en god pris for det. Derfor går der kun 6 måneder, før Peters virksomhed er løbet helt tør for penge og ikke længere kan betale de regninger, som kommer. 
 
-SPAREBANKEN giver i første omgang Peter 5 månederes henstand med tilbagebetalingen, uden dog at give kautionisten besked. Herefter mister SPAREBANKEN tålmodigheden, og beder Peters ekskone om at indbetale de 250.000 kr. som hun har kautioneret for Peters lån.
+SPAREBANKEN giver i første omgang Peter 5 måneders henstand med tilbagebetalingen, uden dog at give kautionisten besked. Herefter mister SPAREBANKEN tålmodigheden, og beder Peters ekskone om at indbetale de 250.000 kr. som hun har kautioneret for Peters lån.
 
 
 **Eksamensspørgsmålet:**
@@ -865,7 +942,7 @@ Svaret bør også være opmærksom på at skelne mellem privat- og erhvervskauti
 Den korrekte besvarelse bør endvidere berøre konsekvensen af henstanden jf.§ 48, stk. 6-8, som uden kautionestens samtykke giver adgang til en reduktion af kautionsforpligtelsen. 
 
 Besvarelser, der demonstrerer en generel forståelse af de hensyn, der ligger bag oplysningspligten mv. i FIL § 48, bør belønnes. 
-<br>
+
 Der fremgår ikke noget af casen, der indikerer, at kautionen ikke skulle være privat, men fornuftige argumenter i relation til erhvervskaution bør også belønnes.
 
 **Svar slut.**
@@ -874,13 +951,18 @@ Der fremgår ikke noget af casen, der indikerer, at kautionen ikke skulle være 
 
 ## Tredjemandspant
 
+![](img/kau7.png)
+(KIlde; Trojka)
 
+---
 
-* Når låntager og pantsætter ikke er samme person
+**Hvad menes der med tredjemandspant?**
 
-* Kreditor har pant i tredjemands aktiv, som ligger til sikkerhed for lånet (Se figuren nedenfor)
+Når låntager og pantsætter ikke er samme person
 
-* Hvis der ikke er tale om et erhvervsforhold og kreditor er bank eller realkreditinstitut, skal kreditor opfylde samme oplysningsforpligtelse, som ved privatkaution, jf. FIL § 48, stk. 11
+Kreditor har pant i tredjemands aktiv, som ligger til sikkerhed for lånet (Se figuren nedenfor)
+
+Hvis der ikke er tale om et erhvervsforhold og kreditor er bank eller realkreditinstitut, skal kreditor opfylde samme oplysningsforpligtelse, som ved privatkaution, jf. FIL § 48, stk. 11:
 
   + Hvad tredjemandspant indebærer
   
@@ -921,19 +1003,27 @@ visNetwork(nodes, edges, width = "80%") %>%
 ``` 
  
 
-  
-## Garantier
- 
-* Garanti er en sikkerhedsstillelse for betaling på samme måde som kaution
+---
 
-  + Fx købesumsgaranti i ejendomshandel = garanti købers bank stiller som sikkerhed for købesummens betaling
+## Garantistillelse
+
+![](img/kau8.png)
+(Kilde; TRojka)
+
+---
+
+**Hvad er en garantistillelse?**
+
+Garantistillelse er en sikkerhedsstillelse for betaling på samme måde som kaution
+
++ Fx købesumsgaranti i ejendomshandel = garanti købers bank stiller som sikkerhed for købesummens betaling
   
 * Parterne i garantistillelse er garantirekvirent, garant og beneficiant (Se figuren nedenfor).
 
-* To typer af garantier:
+**To typer af garantier**:
 
-  + Anfordringsgaranti – kommer til udbetaling på anfordring
-  + Betinget garanti – kommer til udbetaling når den stillede betingelse er opfyldt
++ Anfordringsgaranti – kommer til udbetaling på anfordring
++ Betinget garanti – kommer til udbetaling når den stillede betingelse er opfyldt
  
 
 
@@ -963,20 +1053,6 @@ visNetwork(nodes, edges, width = "80%") %>%
            arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
            color = list(color = "red", highlight = "yellow"))
 ``` 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

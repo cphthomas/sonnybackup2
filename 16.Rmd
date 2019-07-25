@@ -8,6 +8,7 @@
 
 Om overdragelse af fordringer, se kapitel 14 og ophør af fordringer i kapitel 15
  
+---
 
 ## Generelle regler for fordringer og gældsbreve
 
@@ -17,19 +18,30 @@ Om overdragelse af fordringer, se kapitel 14 og ophør af fordringer i kapitel 1
 
 
 
+---
 
 ### Hvad er en fordring? 
 
+![](img/ford1.png)
+(Kilde; Trojka)
 
-En fordring er et krav, som en person eller et selskab (kreditor) har mod en anden part (debitor). En fordring består typisk i et pengebeløb, men den kan også bestå i andet^[Herværende gennemgang af reglerne om fordringer, gældsbreve og pantebreve bygger bl.a. på oplysninger fra SKAT og Lars Hedegaard Kristensen: Karnovkommentaren til gældsbrevsloven].  
+---
 
-Den kan fx bestå i, at debitor skylder en arbejdsydelse, eller i at der skal leveres en ting. Et gaveløfte betyder, at man skal give den lovede gave, som fx kan være en ting.
+En fordring er et krav, som en person eller et selskab (kreditor) har mod en anden part (debitor). 
+
+En fordring består typisk i et pengebeløb, men den kan også bestå i andet^[Herværende gennemgang af reglerne om fordringer, gældsbreve og pantebreve bygger bl.a. på oplysninger fra SKAT og **Lars Hedegaard Kristensen**: Elektroniske Karnovkommentar til gældsbrevsloven].  
+
+Den kan fx bestå i, at debitor skylder en arbejdsydelse, eller i at der skal leveres en ting. 
+
+Et gaveløfte betyder, at man skal give den lovede gave, som fx kan være en ting.
 
 *Bemærk* 
 
 I relation til retsplejelovens regler er en fordring et krav på betaling af en pengeydelse. 
 
-En lang række af fordringer er baseret på dokumenter i form af pantebreve, fakturaer og kontrakter mv., mens andre krav ikke foreligger i skriftlig form. Fælles for alle fordringer er, at de indeholder et krav om, at debitor skal betale eller give en ting/ydelse. 
+En lang række af fordringer er baseret på dokumenter i form af pantebreve, fakturaer og kontrakter mv., mens andre krav ikke foreligger i skriftlig form. 
+
+Fælles for alle fordringer er, at de indeholder et krav om, at debitor skal betale eller give en ting/ydelse. 
 
 Der er ikke i lovgivningen stillet formkrav til fordringer.
 
@@ -38,6 +50,7 @@ Efter RPL (retsplejeloven) § 508 skal en fordring kunne identificeres, for at m
 Det betyder kun, at der er et krav om, at man kan bevise, at fordringen eksisterer, men ikke at den fx foreligger i skriftlig form mv. 
 
 
+---
 
 **Som eksempler på fordringer kan nævnes**: 
 
@@ -82,7 +95,9 @@ Principperne i gældsbrevsloven finder anvendelse både for gældsbreve og simpl
 
 Denne lov indeholder ikke nogen direkte definition af begrebet ”gældsbrev”. 
 
-Gældsbrevslovens forarbejder henholder sig til den gængse juridiske forståelse, nemlig at der ved et gældsbrev forstås »en skriftlig Erklæring, der hjemler en i Hovedsagen, ubetinget, ensidig Fordring på et bestemt Pengebeløb«. 
+Gældsbrevslovens forarbejder henholder sig til den gængse juridiske forståelse, nemlig at der ved et gældsbrev forstås: 
+
+**»en skriftlig Erklæring, der hjemler en i Hovedsagen, ubetinget, ensidig Fordring på et bestemt Pengebeløb«**. 
 
 Kravet om, at der skal foreligge en skriftlig erklæring, indebærer, at der skal foreligge et dokument. 
 
@@ -108,11 +123,17 @@ Checks og veksler er ikke omfattet af gældsbrevsbegrebet, dels fordi disse doku
 <img src="img/gb4.png" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
-Erklæringen på gældsbrevet skal være i hovedsagen ubetinget. Det er uden betydning, at forfaldstiden eller det beløb, der skal betales, til dels er afhængig af en fremtidig uvis begivenhed, når det dog til sin tid kan afgøres, hvilket beløb der skal betales.
+Erklæringen på gældsbrevet skal være i hovedsagen **ubetinget**. 
+
+Det er uden betydning, at forfaldstiden eller det beløb, der skal betales, til dels er afhængig af en fremtidig uvis begivenhed, når det dog til sin tid kan afgøres, hvilket beløb der skal betales.
 
 Da erklæringen skal være selvstændig foreligger der dog ikke et gældsbrev, hvis der i et almindeligt brev findes en udtalelse, som isoleret set indeholder et løfte om betaling af en pengesum.
 
-Kravet om, at erklæringen skal være ensidig, indebærer at f.eks. en købekontrakt ikke et gældsbrev: Sælgers krav på købesummen er afhængig af ikke-misligholdelse fra sælgers side.
+Kravet om, at erklæringen skal være ensidig, indebærer at f.eks. en købekontrakt ikke er et gældsbrev: 
+
+Sælgers krav på købesummen er afhængig af ikke-misligholdelse fra sælgers side.
+
+---
 
 <img src="img/gb17.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 Ud fra tilsvarende synspunkter falder også lejekontrakter uden for begrebet.
@@ -121,8 +142,9 @@ Ud fra tilsvarende synspunkter falder også lejekontrakter uden for begrebet.
 
 En forsikringspolice er ikke et gældsbrev, da sikredes krav er afhængig af sikredes opfyldelse af sine forpligtelser bl.a. præmiebetaling.
 
+Erklæringen skal gå ud på at forpligte underskriveren til at betale et bestemt pengebeløb. 
 
-Erklæringen skal gå ud på at forpligte underskriveren til at betale et bestemt pengebeløb. Det er uden betydning, om beløbet er angivet i dansk eller fremmed valuta, eller begge dele jf. GBL § 7, om det er bestemt efter guldværdi, jf. dommen i U 1933.703 H, eller om det er pristalsreguleret.
+Det er uden betydning, om beløbet er angivet i dansk eller fremmed valuta, eller begge dele jf. GBL § 7, om det er bestemt efter guldværdi, jf. dommen i **U 1933.703 H**, eller om det er pristalsreguleret.
 
 Beløbet må dog ikke være helt ubestemt, hvorfor udbyttekuponer til aktier ikke er gældsbreve.
 
@@ -136,7 +158,7 @@ Skyldneren bevarer dermed over for kreditor indsigelser om mangler, manglende le
 
 Skyldneren bevarer også den indsigelse, at skyldneren ikke har modtaget det lån, som skulle tilbagebetales med det beløb, som gældsbrevet lyder på. 
 
-Alt i alt udtrykkes dette ofte på den måde, at gældsbrevet ikke er udtryk for en novation (afløsning af en gammel gæld gennem etablering af en ny) af skyldforholdet.  
+Alt i alt udtrykkes dette ofte på den måde, at gældsbrevet ikke er udtryk for en **novation** (afløsning af en gammel gæld gennem etablering af en ny) af skyldforholdet.  
 
 
 Fra den nævnte hovedregel om, at der ikke indtræder novation (dvs. stiftelse af en ny fordring), må der ifølge ordlyden af GBL § 1 gøres undtagelse, hvis det er aftalt, at det retsforhold, der har givet anledning til gældsbrevets udstedelse, skal ophøre med at have nogen betydning og skal erstattes af retsforholdet ifølge gældsbrevet.
@@ -145,50 +167,60 @@ Udstederen kan miste indsigelser over for den, til hvem gældsbrevet er overdrag
 
 Det fordrer efteromstændighederne en afgørende stillingtagen til, om der er tale om en indsigelse over for en person, til hvem gældsbrevet er overdraget, eller om en indsigelse over for en person, til hvem gældsbrevet er udstedt. 
 
-Spørgsmålet om der foreligger en overdragelsessituation eller en udstedelsessituation opstår navnlig, hvor der mellem en person, D, og en anden person, K1, består et retsforhold, og hvor D i anledning af retsforholdet udsteder et gældsbrev, men efter aftale med K1 ikke udsteder gældsbrevet til K1, men til en tredjemand, K2. 
+---
+
+Spørgsmålet om der foreligger en overdragelsessituation eller en udstedelsessituation opstår navnlig, hvor der mellem en person, D, og en anden person, K1, består et retsforhold, og hvor D i anledning af retsforholdet udsteder et gældsbrev, men efter aftale med K1 ikke udsteder gældsbrevet til K1, men til en tredjemand, K2.
+
+---
 
 Selvom der i så fald formelt foreligger en overdragelsessituation, kan der reelt være tale om en udstedelsessituation, således at D ikke mister eventuelle indsigelser over for K2.
 
  
-
+---
 
 ## Flere skyldnere hæfter solidarisk
 
 Flere skyldnere hæfter solidarisk, hvis ikke andet er aftalt, GBL § 2:
 
-*	Kreditor kan vælge at kræve hele gælden betalt af hver enkelt solidarisk skyldner
+1. Kreditor kan vælge at kræve hele gælden betalt af hver enkelt solidarisk skyldner
 
-*	Har en solidarisk skyldner betalt hele gælden til kreditor, har skyldneren regresret mod de øvrige skyldnere
+2. Har en solidarisk skyldner betalt hele gælden til kreditor, har skyldneren regresret mod de øvrige skyldnere
 
+---
 
 ## Skyldnerens forpligtelser
 
 
 **En skyldner er forpligtet til at betale et bestemt beløb**:
 
-*  **I rette tid** 
+**I rette tid** 
 
   +	Forfaldstid, seneste betalingstidspunkt
   +	Frigørelsestid, tidligste betalingstidspunkt
   
-*  **På rette sted** 
+**På rette sted** 
 
   +	Pengeskyld er bringeskyld, pengene skal være kommet frem til 
   kreditor inden forfaldstid
   
-*  **På rette måde**
+**På rette måde**
 
   +	Betalingsmiddel – betalingskort, kontanter, bankoverførsel, sms 
   afhængig af hvad der er aftalt
   
-*  **Til rette kreditor** – obs. på deponeringsloven
+**Til rette kreditor** – obs. på deponeringsloven
 
-* Betaling med betalingskort eller andre betalingstjenester 
+Betaling med betalingskort eller andre betalingstjenester 
   (netbank, mobiltelefon mm.) er reguleret i betalingsloven (BTL)
   
-*  En betalingstransaktion med kort går gennem betalingsmodtagers 
-  bank og kortholders bank 
-  
+En betalingstransaktion med kort går gennem betalingsmodtagers 
+bank og kortholders bank 
+
+![](img/ford2.png)
+ (Kilde; Trojka)
+ 
+---
+
 * Bliver kortet brugt uberettiget skelnes mellem
 
   +	Kortholders træk uden dækning (kortet kan måske spærres og 
@@ -196,6 +228,7 @@ Flere skyldnere hæfter solidarisk, hvis ikke andet er aftalt, GBL § 2:
   
   +	Kortmisbrug begået af andre end kortholder
 
+---
 
 ## Tredjemandsbrug af kortholders betalingskort
 
@@ -203,15 +236,17 @@ Flere skyldnere hæfter solidarisk, hvis ikke andet er aftalt, GBL § 2:
 <img src="img/gb7.jpeg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
-
-
 Kortmisbrug her er, hvor kortholder ikke selv har brugt kortet.
 
 ---
 
-Betalerens eget misbrug reguleres derimod af aftalen mellem udbyderen og betaler og af de almindelige erstatningsregler. Betaler kan i medfør af almindelige kontrakt- og erstatningsretlige regler således ifalde ansvar overfor sin udbyder, hvis betaler forsætligt eller ved grov uagtsomhed har medvirket til misbruget.  
+Betalerens eget misbrug reguleres derimod af aftalen mellem udbyderen og betaler og af de almindelige erstatningsregler. 
 
-Ej heller tredjemands (misbrugerens) ansvar er reguleret af betalingslovens regler, men af straffelovens regler i kap. 18 om forbrydelser vedrørende penge, jf. §§ 166-170, se Lovbekendtgørelse nr. 1156 af 20. september 2018, se fx U 2003.432 V, fængsel i 6 måneder for pengefalsk, samt U 2003.251 Ø, bedrageri med dankort for 139.500 kr. henført under straffelovens § 286, stk. 2.
+Betaler kan i medfør af almindelige kontrakt- og erstatningsretlige regler således ifalde ansvar overfor sin udbyder, hvis betaler forsætligt eller ved grov uagtsomhed har medvirket til misbruget.  
+
+---
+
+Ej heller tredjemands (misbrugerens) ansvar er reguleret af betalingslovens regler, men af straffelovens regler i kap. 18 om forbrydelser vedrørende penge, jf. §§ 166-170, se Lovbekendtgørelse nr. 1156 af 20. september 2018, se fx dommen **U 2003.432 V**, fængsel i 6 måneder for pengefalsk, samt U 2003.251 Ø, bedrageri med dankort for 139.500 kr. henført under straffelovens § 286, stk. 2.
 
 ---
 
@@ -221,26 +256,29 @@ Tredjemandsbrug af kortholders betalingskort er reguleret af betalingsloven (for
 <img src="img/kortmisbrug1.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
-* **HR:** Banken hæfter for misbruget og skal dække kortholders tab, jf. BTL § 99
+**HR:** Banken hæfter for misbruget og skal dække kortholders tab, jf. BTL § 99
 
- +  **U1:** Kortholder hæfter ubegrænset, hvis kortholder har handlet svigagtigt eller med vilje ikke overholdt kortreglerne fx omkring sikkerhed, jf. BTL § 100, stk. 2
+**U1:** Kortholder hæfter ubegrænset, hvis kortholder har handlet svigagtigt eller med vilje ikke overholdt kortreglerne fx omkring sikkerhed, jf. BTL § 100, stk. 2
  
-+ **U2:** Har kort og pinkode været brugt, hæfter kortholder for 375 kr., jf. BTL § 100, stk. 3
+**U2:** Har kort og pinkode været brugt, hæfter kortholder for 375 kr., jf. BTL § 100, stk. 3
 
-+ **U3:** Kortholder kan hæfte for op til 8.000 kr., jf. BTL § 100, stk. 4, hvis kort og pinkode har været brugt og:
+**U3:** Kortholder kan hæfte for op til 8.000 kr., jf. BTL § 100, stk. 4, hvis kort og pinkode har været brugt og:
 
-+	Kortet ikke er spærret med det samme
+Kortet ikke er spærret med det samme (i praksis indenfor 1-2 timer efter man positiv er blevet opmærksom på at man har mistet betalingskortet).
 
-+	Kortholder selv har givet pinkoden til misbrugeren, og
+Kortholder selv har givet pinkoden til misbrugeren, og
 
 +	Kortholder ved groft uforsvarlig (nærmest sløseri) adfærd har gjort misbruget muligt
     
-+ **U4:** Kortholder hæfter ubegrænset, jf. BTL § 100, stk. 5, hvis kort og pinkode er anvendt og:
+**U4:** Kortholder hæfter ubegrænset, jf. BTL § 100, stk. 5, hvis kort og pinkode er anvendt og:
   
 +	Kortholder selv har oplyst koden til misbrugeren og
 
 +	Kortholder burde have indset risikoen for misbrug
  
+![](img/ford3.png)
+
+---
 
 Efter kortet er spærret er banken ansvarlig for al misbrug af kortholders betalingskort.
 
@@ -307,7 +345,7 @@ mydf %>%
 
 ---
 
-## Eksamensspørgsmål om tredjemandsmisbrug af kortholderes betalingsmiddel
+**Eksamensspørgsmål om tredjemandsmisbrug af kortholderes betalingsmiddel**
 
 
 <img src="img/kortmisbrug2.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
@@ -446,6 +484,7 @@ Afsnittet indeholder:
 * Slutafregning
 * Legitimationsvirkning ved udlæg i bankindeståender 
 
+---
 
 **Lovgrundlag**
 
@@ -457,6 +496,7 @@ Dette gælder dog ikke for:
 * digitale pantebreve efter tinglysningslovens regler
 * fondsaktiver. 
 
+---
 
 #### Sikringsakten ved simple gældsbreve og simple fordringer?
 
@@ -485,6 +525,7 @@ Hvis det simple gældsbrev eller den simple fordring er knyttet til et dokument,
 
 Dette er ikke for at iagttage en sikringsakt, men derimod af hensyn til legitimationsvirkningen hvor fratagelse af rådigheden kan få betydning. Se RPL § 524.
 
+---
 
 #### Sikringsakt ved overdragelse af simpelt gældsbrev eller simpel fordring, herunder sekundære udlæg
 
@@ -496,6 +537,7 @@ Den, der får overdraget et simpelt gældsbrev eller en simpel fordring til eje 
 Sikringsakten består i, at fordringsskyldneren får besked om overdragelsen fra overdrageren eller erhververen. Se GBL § 31, stk. 1.  
 
  
+---
 
 #### Dobbeltoverdragelse af fordring    
 
@@ -513,6 +555,7 @@ De indsigelser, skyldneren havde mod overdrageren, kan han også gøre gældende
 
 Det gælder også, når der er foretaget udlæg i fordringen. Se GBL § 27.  
 
+---
 
 #### Legitimationsvirkning  
 
@@ -520,9 +563,9 @@ Skyldneren frigøres uanset overdragelsen af det simple gældsbrev eller den sim
 
 Det gælder dog ikke, hvis skyldneren vidste, at overdrageren ikke længere havde ret til at modtage betalingen, eller hvis skyldneren ikke har udvist den agtpågivenhed, som forholdene krævede. Se GBL § 29.
 
+---
 
 #### Udlæg i borttransporterede fordringer – factoring     
-
 
 Som et led i finansieringen af en virksomheds drift sker der ofte belåning af debitorerne (den såkaldte "factoring"-ordning). 
 
@@ -543,16 +586,17 @@ En ordning om at belåne fakturaer medfører normalt ikke, at pantefogeden er af
 **Video: Hvad er factoring?**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/zNxALT0w14U" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-<br>
+
 
 
 ---
 
-#### Specielt om udlæg i dankort-betalinger
+**Specielt om udlæg i dankort-betalinger**
 
-Udlæg kan foretages i dankort-betalinger. Hør nærmere her om dommen i U 2000.715 Ø, hvor en pantefoged havde foretaget udlæg for et skattekrav hos en forretningsindehaver:  
+Udlæg kan foretages i dankort-betalinger. Se **U 2000.715 Ø**, hvor en pantefoged havde foretaget udlæg for et skattekrav hos en forretningsindehaver.  
 
-Speak 23
+
+---
 
 #### Specielt om udlæg i bankindeståender
 
@@ -594,7 +638,7 @@ A) **Gældsbrevsloven** (GBL), hvor det i GBL § 11, stk. 2, fastslås, hvad der
 
 
 
-B) ``r tippy(indeks[2,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[2,2],"</h4>"))`` (TL), hvor der står, at:  
+B) Tinglysningsloven (TL), hvor der står, at:  
 
 1. Et tinglyst pantebrev, bortset fra et skadesløsbrev, der giver pant i fast ejendom, er negotiabelt, medmindre der i pantebrevet er indføjet ordene »ikke til ordre« eller tilsvarende forbehold, jf. TL § 27, stk. 2.
 

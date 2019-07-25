@@ -13,7 +13,7 @@ output:
 
 ```{r echo=FALSE}
 
-BEGREB <- c(
+BEGREB <<- c(
           "Grundloven",
           "Tinglysningsloven",
           "Aftaleloven"
@@ -23,7 +23,7 @@ BEGREB <- c(
           
           
           )
-forklaring <- c(
+forklaring <<- c(
   "Grundloven beskriver bl.a. den enkelte borgers rettigheder og pligter, du kan se den her:><a href=\"https://www.retsinformation.dk/Forms/R0710.aspx?id=45902\" style=\"color:#3088fc\" target=\"_blank\">Grundloven</a>",
   "Tinglysningsloven indeholder reglerne for den offentlige registrering af rettigheder over fast ejendom<br><a href=\"https://www.retsinformation.dk/Forms/R0710.aspx?id=142900\" style=\"color:#3088fc\" target=\"_blank\">Tinglysningsloven</a>",
   "Aftaleloven"
