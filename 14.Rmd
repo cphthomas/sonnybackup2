@@ -4,33 +4,30 @@
 
 ---
 
-***Som finansøkonom-studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af kreditaftaler:***
+***Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af kreditaftaler:***
 
 <img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 
-•	**Underpantsforbud, KAL § 21**
+**Underpantsforbud, KAL § 21**
 
-•	**Ejendomsforbehold – gyldighedsreglerne, KAL § 34**
+**Ejendomsforbehold – gyldighedsreglerne, KAL § 34**
 
-•	**Ejendomsforbeholdets betydning i forbindelse med anden** 
-  **sikkerhedsstillelse og tilbehørspant i fast ejendom, TL §§ 37 og 38** 
+**Ejendomsforbeholdets betydning i forbindelse med anden**
+
+**sikkerhedsstillelse og tilbehørspant i fast ejendom, TL §§ 37 og 38** 
   
-•	**Oprindelig trepartsforhold, KAL § 4, nr. 15, litra b,** **samt efterfølgende trepartsforhold, gældsbrevsloven**
+**Oprindelig trepartsforhold, KAL § 4, nr. 15, litra b,**
 
+**samt efterfølgende trepartsforhold, gældsbrevsloven**
 
-
----
-
-
-![](img/kredit1.jpg)
 
 
 ---
 
  
-## Introduktion til kreditaftaleloven 
+***Introduktion til kreditaftaleloven*** 
 
 
 **Forskellen på et almindelig banklån og et kreditkøb**:
@@ -77,14 +74,10 @@ De finansielle institutioners udlån til forbrugere er derfor omfattet af loven 
 **Hvad er kreditformidling?**
 
 ![](img/kre1.png)
-(KIlde; Trojka)
+(Kilde; Trojka)
 
 ---
   
-
-<img src="img/kredit2.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-  
----
 
 Kreditgiver skal være erhvervsdrivende, jf. dog KAL § 1, stk. 2, og for ikke-forbrugerkøb KAL § 2.^[Følgende afsnit om kreditaftaleloven bygger på *Sonny Kristoffersens*: Forbrugerretten II, Den civilretlige forbrugerbeskyttelse, kap. 5 om kreditaftaler, 2016., KarnovGroup.] 
 
@@ -125,7 +118,9 @@ Kreditaftalen skal indgås på varigt medie og opfylde tilsvarende oplysningskra
 +	Skal forbrugeren evt. betale færre omkostninger
 +	Løber fortrydelsesretten først fra oplysningspligten er opfyldt
 +	Kreditgiver kan blive pålagt en bøde
- 
+
+---
+
 Kreditgiver skal vurdere forbrugerens kreditværdighed før kreditaftalen bliver indgået
 
 I forbindelse med optagelse af realkreditlån har forbrugeren krav på en 7 dages acceptfrist, jf. KAL § 7d
@@ -147,11 +142,12 @@ Urimelige vilkår kan blive tilsidesat, jf. KAL § 22 eller aftalelovens §§ 38
 ![](img/opl.png)
 
 
-<img src="img/kredit4.jpeg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+---
 
 Kreditaftalelovens forbrugerbeskyttende sigte kommer til udtryk i lovens bestemmelser om, at forbrugeren senest i forbindelse med kreditaftalens indgåelse skal have en række oplysninger om prisen og vilkårene for kreditten. 
 
 Loven indeholder derfor en række formkrav til kreditaftaler og bestemmelser om, at manglende eller urigtig opfyldelse af oplysningspligten kan medføre såvel civilretlige som strafferetlige sanktioner, jf. KAL §§ 23 og 24 samt 56, stk. 2. 
+
 ---
 
 Det påhviler som nævnt domstolene – i praksis navnlig fogedretterne – ex officio (af egen drift) at iagttage, om det dokument, der fremlægges i en (foged-)sag, er omfattet af loven, og at de foreskrevne kreditoplysninger er givet på behørigt vis, jf. **dommen i U 2000.461 V**.
@@ -160,27 +156,29 @@ Det påhviler som nævnt domstolene – i praksis navnlig fogedretterne – ex o
 
 Kapitel 2 i KAL regulerer 10 områder, der vedrører kreditgiverens oplysningspligt og andre forpligtelser, som det påhviler kreditgiveren at iagttage forud for og i forbindelse med indgåelse af en kreditaftale. 
 
+---
+
 Disse områder er: 
 
-1. Oplysningspligt forud for aftaleindgåelsen, jf. KAL § 7 a.
+**1**. Oplysningspligt forud for aftaleindgåelsen, jf. KAL § 7 a.
 
-2. Oplysningspligt forud for aftaleindgåelsen i forbindelse med visse særlige former for kreditaftaler, jf. KAL § 7 b.
+**2**. Oplysningspligt forud for aftaleindgåelsen i forbindelse med visse særlige former for kreditaftaler, jf. KAL § 7 b.
 
-3. Vurdering af forbrugerens kreditværdighed, jf. KAL § 7 c.
+**3**. Vurdering af forbrugerens kreditværdighed, jf. KAL § 7 c.
 
-4. Krav til kreditaftalen, jf. KAL § 8.
+**4**. Krav til kreditaftalen, jf. KAL § 8.
 
-5. Pantsikrede lån i fast ejendom, jf. KAL § 8 a.
+**5**. Pantsikrede lån i fast ejendom, jf. KAL § 8 a.
 
-6. Overtræk, jf. KAL § 8 b.
+**6**. Overtræk, jf. KAL § 8 b.
 
-7. Underretning om ændring af debitorrenten, jf. KAL § 9.
+**7**. Underretning om ændring af debitorrenten, jf. KAL § 9.
 
-8. Kontoudtog og underretning om ændringer i debitorrenten ved kassekreditter, jf. KAL § 10.
+**8**. Kontoudtog og underretning om ændringer i debitorrenten ved kassekreditter, jf. KAL § 10.
 
-9. Beregning af de årlige omkostninger i procent, jf. KAL § 16 og endelig,
+**9**. Beregning af de årlige omkostninger i procent, jf. KAL § 16 og endelig,
 
-10. En særlig bestemmelse om kreditformidlere i KAL § 17.
+**10**. En særlig bestemmelse om kreditformidlere i KAL § 17.
 
 ---
 
@@ -192,13 +190,11 @@ De øvrige oven for nævnte bestemmelser vedrører oplysninger, der skal gives e
 
 ---
 
-#### Oplysningspligt forud for aftaleindgåelsen
+### Oplysningspligt forud for aftaleindgåelsen
 
 Før en forbruger bindes af en kreditaftale eller et kredittilbud, skal kreditgiveren – eller kreditformidleren, hvis aftalen formidles af denne – i god tid give forbrugeren de oplysninger, der er nødvendige for, at denne kan sammenligne forskellige tilbud, således at forbrugerens beslutning om at indgå en kreditaftale kan træffes på et informeret grundlag, jf. KAL § 7 a, stk. 1. 
 
 Oplysningerne skal gives dels på grundlag af de kreditvilkår og betingelser, som kreditgiveren tilbyder, dels på grundlag af de præferencer og oplysninger, som forbrugeren måtte have fremført. 
-
-<img src="img/kredit5.jpeg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Oplysningerne skal gives i så god tid, før en eventuel aftale indgås, at forbrugeren har tid til at sætte sig ind i de udleverede oplysninger.
 
@@ -228,9 +224,7 @@ Kreditgiveren ofte vil have et regreskrav mod den formidler, som ikke har opfyld
 
 Hvis der anvendes forskellige debitorrenter under forskellige omstændigheder, angives de nævnte oplysninger for alle de relevante debitorrenter.
 
-**7**. De årlige omkostninger i procent og det samlede beløb, som skal betales af forbrugeren, illustreret ved et repræsentativt eksempel, som angiver alle de antagelser, der er lagt til grund for at beregne procentsatsen. 
-
-Hvis forbrugeren har informeret kreditgiveren om et eller flere elementer i den kredit, vedkommende foretrækker, som f.eks. kreditaftalens løbetid og det samlede kreditbeløb, skal kreditgiveren tage hensyn til disse elementer. 
+**7**. De årlige omkostninger i procent og det samlede beløb, som skal betales af forbrugeren, illustreret ved et repræsentativt eksempel, som angiver alle de antagelser, der er lagt til grund for at beregne procentsatsen. Hvis forbrugeren har informeret kreditgiveren om et eller flere elementer i den kredit, vedkommende foretrækker, som f.eks. kreditaftalens løbetid og det samlede kreditbeløb, skal kreditgiveren tage hensyn til disse elementer. 
 
 Hvis en kreditaftale giver forskellige muligheder for at udnytte kreditmuligheden med forskellige omkostninger eller debitorrenter, og kreditgiveren derfor anvender det loft for kreditten, som fremgår af antagelsen i lovens bilag 1, skal kreditgiveren angive, at andre muligheder for at udnytte kreditmuligheden for denne type kreditaftale kan medføre højere årlige omkostninger i procent.
 
@@ -263,7 +257,7 @@ Hvis en kreditaftale giver forskellige muligheder for at udnytte kreditmulighede
 
 
 
-#### Vurdering af forbrugerens kreditværdighed
+### Vurdering af forbrugerens kreditværdighed
 
 Før en kreditgiver indgår en kreditaftale med en forbruger, skal kreditgiveren ifølge KAL § 7 c foretage en vurdering af forbrugerens kreditværdighed. 
 
@@ -273,24 +267,22 @@ Kreditvurderingspligten har til formål at beskytte forbrugeren og skal som føl
 
 ---
 
-#### Nærmere kravene til selve kreditaftalen
+### Kravene til selve kreditaftalen
 
 De ovenfor omtalte bestemmelser i KAL §§ 7 a, 7 b og 7 c vedrører som tidligere anført oplysninger, der skal gives, og kreditvurderinger, der skal foretages, før der indgås en kreditaftale. 
 
 Bestemmelsen i lovens § 8 regulerer de formkrav og de oplysninger, som skal fremgå af selve kreditaftalen.  
 
+---
+
 **Formkrav**
-
-<img src="img/kredit6.jpeg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
 
 En kreditaftale skal ifølge § 8, stk. 1, udfærdiges på papir eller på et andet varigt medium. Endvidere er det et krav, at alle aftalens parter skal have et eksemplar af aftalen.  
 
 ---
 
-![](img/after.png)
 
-**Ifølge KAL § 8, stk. 2, skal en kreditaftale indeholde oplysning om**:
+** Ifølge KAL § 8, stk. 2, skal en kreditaftale indeholde oplysning om**:
 
 **1**. Kredittypen.
 
@@ -312,13 +304,7 @@ Alle de antagelser, der er lagt til grund ved beregningen af denne procentsats, 
 
 **8**. Størrelse, antal og hyppighed af de betalinger, der skal foretages af forbrugeren, og i givet fald den rækkefølge, hvori betalingerne henføres til forskellige udestående saldi til forskellige debitorrenter med henblik på tilbagebetaling.
 
-**9**. Forbrugerens ret til på anmodning, til enhver tid i løbet af kreditaftalens varighed uden omkostninger, at modtage en opgørelse i form af en amortiseringsplan, såfremt der er tale om amortisation af kapitalen i forbindelse med en kreditaftale med fast løbetid. 
-
-Amortiseringsplanen skal angive skyldige betalinger, tidspunkter og betingelser for betaling af sådanne beløb. 
-
-Desuden skal den indeholde en specificering af den enkelte tilbagebetaling, som viser amortiseringen af kapitalen, renterne beregnet på grundlag af debitorrenten og, hvor det er relevant, eventuelle yderligere omkostninger. 
-
-Hvis rentesatsen ikke er fast eller de yderligere omkostninger kan ændres i kreditaftalens løbetid, skal amortiseringsplanen klart og tydeligt angive, at oplysningerne i planen kun er gyldige indtil næste ændring af debitorrenten eller af de yderligere omkostninger i henhold til kreditaftalen.
+**9**. Forbrugerens ret til på anmodning, til enhver tid i løbet af kreditaftalens varighed uden omkostninger, at modtage en opgørelse i form af en amortiseringsplan, såfremt der er tale om amortisation af kapitalen i forbindelse med en kreditaftale med fast løbetid. Amortiseringsplanen skal angive skyldige betalinger, tidspunkter og betingelser for betaling af sådanne beløb. Desuden skal den indeholde en specificering af den enkelte tilbagebetaling, som viser amortiseringen af kapitalen, renterne beregnet på grundlag af debitorrenten og, hvor det er relevant, eventuelle yderligere omkostninger. Hvis rentesatsen ikke er fast eller de yderligere omkostninger kan ændres i kreditaftalens løbetid, skal amortiseringsplanen klart og tydeligt angive, at oplysningerne i planen kun er gyldige indtil næste ændring af debitorrenten eller af de yderligere omkostninger i henhold til kreditaftalen.
 
 **10**. En opgørelse over tidspunkter og betingelser for betaling af renter og eventuelle dermed forbundne faste omkostninger og engangsomkostninger, såfremt der skal betales omkostninger og renter uden amortisation af hovedstolen.
 
@@ -363,27 +349,23 @@ Hvis rentesatsen ikke er fast eller de yderligere omkostninger kan ændres i kre
 
 Kassekreditaftaler skal ifølge KAL § 8, stk. 5, indeholde en klar og tydelig angivelse af:
 
-1. Kredittypen.
+**1**. Kredittypen.
 
-2. Navn og fysisk adresse på aftaleparterne og i givet fald på den involverede kreditformidler.
+**2**. Navn og fysisk adresse på aftaleparterne og i givet fald på den involverede kreditformidler.
 
-3. Kreditaftalens løbetid.
+**3**. Kreditaftalens løbetid.
 
-4. Det samlede kreditbeløb og betingelserne for at udnytte kreditmuligheden.
+**4**. Det samlede kreditbeløb og betingelserne for at udnytte kreditmuligheden.
 
-5. Debitorrenten, betingelserne for anvendelsen af debitorrenten og et eventuelt indeks eller en eventuel referencesats, der skal anvendes på den oprindelige debitorrente, samt tidspunkter, betingelser og procedurer for ændring af debitorrenten. 
+**5**. Debitorrenten, betingelserne for anvendelsen af debitorrenten og et eventuelt indeks eller en eventuel referencesats, der skal anvendes på den oprindelige debitorrente, samt tidspunkter, betingelser og procedurer for ændring af debitorrenten. Hvis der anvendes forskellige debitorrenter under forskellige omstændigheder, angives de nævnte oplysninger med hensyn til alle de relevante debitorrenter.
 
-Hvis der anvendes forskellige debitorrenter under forskellige omstændigheder, angives de nævnte oplysninger med hensyn til alle de relevante debitorrenter.
+**6**. De årlige omkostninger i procent og de samlede omkostninger, som skal betales af forbrugeren, beregnet på tidspunktet for indgåelse af kreditaftalen. Alle de antagelser, der er lagt til grund ved beregningen af denne procentsats, jf. § 16, stk. 3 og 4, og § 4, nr. 7 og 9, angives. 
 
-6. De årlige omkostninger i procent og de samlede omkostninger, som skal betales af forbrugeren, beregnet på tidspunktet for indgåelse af kreditaftalen. 
+**7**. En angivelse af, at forbrugeren til enhver tid kan blive anmodet om at betale hele kreditbeløbet tilbage.
 
-Alle de antagelser, der er lagt til grund ved beregningen af denne procentsats, jf. § 16, stk. 3 og 4, og § 4, nr. 7 og 9, angives. 
+**8**.Oplysninger om de omkostninger, der påløber fra sådanne kreditaftalers indgåelse, og, når det er relevant, om betingelserne for ændring af de pågældende omkostninger.
 
-7. En angivelse af, at forbrugeren til enhver tid kan blive anmodet om at betale hele kreditbeløbet tilbage.
-
-8.Oplysninger om de omkostninger, der påløber fra sådanne kreditaftalers indgåelse, og, når det er relevant, om betingelserne for ændring af de pågældende omkostninger.
-
-9. Proceduren for udøvelse af retten til at opsige kreditaftalen.  
+**9**. Proceduren for udøvelse af retten til at opsige kreditaftalen.  
 
 ---
 
@@ -392,6 +374,8 @@ Alle de antagelser, der er lagt til grund ved beregningen af denne procentsats, 
 Kreditaftaleloven indeholde ikke begrænsninger af godkendte pengeinstitutters, realkreditinstitutters eller andre godkendte kreditinstitutters ret til at variere den rente og de andre omkostninger, som en forbruger skal betale for en given kredit. 
 
 Derimod er der fastsat regler, som fastlægger andre kreditgiveres ret til at foretage ændringer i den rente og de eventuelle andre omkostninger, som en forbruger skal betale for en given kredit. 
+
+---
 
 Ifølge KAL § 8, stk. 6, kan der i en kreditaftale kun aftales, at renten helt eller delvist skal variere med størrelsen af Nationalbankens diskonto eller lignende forhold, som kreditgiveren er uden indflydelse på. 
 
@@ -416,13 +400,17 @@ Som en ordensforskrift er det ved KAL § 8 a, stk. 4, bestemt, at KAL § 8 finde
 **Særligt om overtræk**  
 
 
-<img src="img/kredit7.jpeg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+![](img/kredit1.jpg)
+
+---
 
 Hvor en kreditgiver og en forbruger har indgået aftale om oprettelse af en løbende konto, hvor det eventuelt vil kunne tillades forbrugeren at overtrække kontoen, skal aftalen ifølge KAL § 8 b, stk. 1, indeholde de oplysninger, der er omhandlet i KAL § 7 b, stk. 2, nr. 5. 
 
 Det vil sige debitorrenten, betingelserne for anvendelsen af debitorrenten og et eventuelt indeks eller en eventuel referencesats, der skal anvendes på den oprindelige debitorrente, de omkostninger, der anvendes fra det tidspunkt, hvor kreditaftalen indgås, og i givet fald betingelserne for ændring af disse omkostninger.
 
-En sådan kreditaftale kan være en kassekredit, men kan også være en anden konto, fx en løn- eller budgetkonto med overtræksret. 
+En sådan kreditaftale kan være en kassekredit, men kan også være en anden konto, fx en løn- eller budgetkonto med overtræksret.
+
+---
 
 Oplysningerne skal gives regelmæssigt på papir eller på et andet **varigt medium**.
 
@@ -442,6 +430,8 @@ Hvis betalingernes antal eller hyppighed ændres, skal underretningen tillige in
 
 Underretningen skal ifølge stk. 1 som hovedregel gives, før ændringerne træder i kraft. 
 
+---
+
 Dog kan kreditgiveren og forbrugeren i kreditaftalen have fastsat en bestemmelse om, at oplysninger efter KAL § 9, stk. 1 og 2, gives til forbrugeren med jævne mellemrum i de tilfælde, hvor: 
 
 1) ændringen i debitorrenten skyldes en ændring i en referencesats (fx Nationalbankens diskonto eller udlånsrente), 
@@ -449,6 +439,8 @@ Dog kan kreditgiveren og forbrugeren i kreditaftalen have fastsat en bestemmelse
 2) hvor den nye referencesats er gjort tilgængelig for offentligheden på passende vis, og 
 
 3) hvor oplysninger om den nye referencesats også er tilgængelige hos kreditgiveren.
+
+---
 
 For så vidt angår refinansiering af variabelt forrentede lån med pant i fast ejendom, der ydes på baggrund af obligationsudstedelse, kan underretning om en ændring i debitorrenten efter stk. 1 og 2 ifølge KAL § 9, stk. 4, ske, efter at ændringen er trådt i kraft. 
 
@@ -526,6 +518,8 @@ I betragtning af den høje detaljeringsgrad, der er i lovens bestemmelser om kre
 
 Det er desuden hensigten med bestemmelsen, at denne skal have et snævert anvendelsesområde, således at den altovervejende hovedregel er, at en tilsidesættelse af oplysningspligten fører til, at der skal ske en regulering, jf. nærmere præmisserne i **dommen U 2004.317 H** om aftale om leje af videoapparat med ret til at købe for 1 kr. efter 5 år. Dette var i strid med kreditaftaleloven.
 
+---
+
 Den reduktion af det samlede beløb, som en forbruger skal betale, såfremt sanktionsreglerne i KAL § 23, stk. 1 og 2, finder anvendelse, sker ved en reduktion af den sidste eller om fornødent i de sidste ydelser, som forbrugeren skal betale, jf. § 23, stk. 4, og ikke ved en reduktion af størrelsen af de fremtidige ydelser. 
 
 Såfremt forbrugeren har betalt mere end det, denne er pligtig at betale ifølge en korrektion af kreditaftalen, jf. lovens § 23, stk. 1 har forbrugeren som hovedregel krav på tilbagebetaling af det for meget betalte. 
@@ -563,7 +557,7 @@ Reduktion af en rentesats rejser ligesom andre rettelser af en kontrakt spørgsm
 ---
 
 
-## Trepartsforhold - introduktion 
+## Trepartsforhold  
 
 
 
@@ -690,8 +684,11 @@ Når det skal afgøres, om der foreligger et fritstående lån eller et kreditk�
 
 Der skal ikke efter retspraksis meget til før at en sådan aftale foreligger mellem sælgeren og tredjemand, hør om U 1995.192/2 H (Vandsengedommen):
 
+---
 
 Selv om **dommen U 1995.192/2** H er udtryk for, at KAL § 4, nr. 15, litra b, har et bredt anvendelsesområde, medfører bestemmelsen ikke, at alle lån, der anvendes til løsørekøb, må anses for omfattet af KAL § 4, nr. 15, litra b. 
+
+---
 
 Lånetilsagn, der gives af et pengeinstitut/finansieringsselskab, inden den kommende køber henvender sig til sælgeren, er eksempelvis ikke omfattet, medmindre lånetilsagnet er opnået i en institution, der har en aftale med vedkommende forhandler, og køber opnår lånet på grundlag af denne aftale. 
 
@@ -772,13 +769,14 @@ Efter KAL § 33, stk. 3 og 4, kan forbrugeren i det oprindelige trepartsforhold 
 
 ---
 
-Betingelserne for, at forbrugeren kan gøre et pengekrav gældende mod de nævnte tredjemænd, er, 
+Betingelserne for, at forbrugeren kan gøre et pengekrav gældende mod de nævnte tredjemænd, er: 
 
-***at*** forbrugeren har et pengekrav mod sælgeren eller tjenesteyderen i anledning af aftalen (fx krav på hel eller delvis tilbagebetaling af vederlaget eller på erstatning), at forbrugeren sandsynliggør, 
+**at** forbrugeren har et pengekrav mod sælgeren eller tjenesteyderen i anledning af aftalen (fx krav på hel eller delvis tilbagebetaling af vederlaget eller på erstatning), at forbrugeren sandsynliggør, 
 
-***at*** sælgeren eller tjenesteyderen ikke opfylder sine forpligtelser, samt 
+**at** sælgeren eller tjenesteyderen ikke opfylder sine forpligtelser, samt 
 
-***at*** beløbet ikke overstiger, hvad forbrugeren har betalt den pågældende finansierende tredjemand i anledning af aftalen. 
+**at** beløbet ikke overstiger, hvad forbrugeren har betalt den pågældende finansierende tredjemand i anledning af aftalen. 
+
 ---
 
 Ordlyden af bestemmelsen i KAL § 33, stk. 3, 2. pkt., hvorefter »forbrugeren må dog først sandsynliggøre, at sælgeren ikke opfylder sine forpligtelser«, er imidlertid ikke særlig klar. 
@@ -973,13 +971,10 @@ Ifølge domspraksis fraviges dette udgangspunkt, såfremt kreditgiveren har udvi
 
 Et ejendomsforbehold i forbrugerkøb er som tidligere nævnt kun gyldigt efter lovens § 34, stk. 1, såfremt:
 
-**1.	det er aftalt senest ved overgivelsen af det købte til forbrugeren,**
-
-**2.	det samlede beløb, der skal betales, jf. § 9, stk. 1, nr. 5, overstiger 2.000 kr.,**
-
-**3.	kreditkøbet ikke er sket i henhold til en aftale om kredit med variabelt lånebeløb, o**g
-
-**4.	sælgeren ved overgivelsen af det købte er fyldestgjort for mindst 20 % af kontantprisen.**
+Det er aftalt senest ved overgivelsen af det købte til forbrugeren,
+det samlede beløb, der skal betales, jf. § 9, stk. 1, nr. 5, overstiger 2.000 kr.,
+kreditkøbet ikke er sket i henhold til en aftale om kredit med variabelt lånebeløb, og
+sælgeren ved overgivelsen af det købte er fyldestgjort for mindst 20 % af kontantprisen.
 
 ---
 
@@ -1071,7 +1066,7 @@ Dette forbud gælder heller ikke ved anvendelse på kreditkøb af aktier, andre 
 
 ### Køber misligholder kreditaftalen
 
-<img src="img/kredit14.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 
 Opsigelse af en kreditkøbsaftale, jf. KAL § 29
 
@@ -1087,13 +1082,13 @@ Kreditgiver kan kun opsige hele aftalen, hvis forbrugeren er i kvalificeret misl
 
 **Køber misligholder kreditaftalen og der er et gyldigt ejendomsforbehold** 
 
-**HR:** Er kreditaftalen opsagt kan sælger med ejendomsforbehold tage aktivet tilbage  
+Er kreditaftalen opsagt kan sælger med ejendomsforbehold tage aktivet tilbage  
 
-**U:** Aktiver omfattet af *trangsbeneficiet* kan ikke tages tilbage, jf. RPL § 509  
+ Aktiver omfattet af *trangsbeneficiet* kan ikke tages tilbage, jf. RPL § 509  
 
-**HR:** Sælger kan kun blive fyldestgjort i det solgte aktiv uden mulighed for at få betalt en evt. restgæld  
+Sælger kan kun blive fyldestgjort i det solgte aktiv uden mulighed for at få betalt en evt. restgæld  
 
-**U:** Har køber misligholdt aktivet eller lagt hindringer i vejen for tilbagetagelsen, kan sælger kræve restgælden betalt, jf. KAL § 41  
+Har køber misligholdt aktivet eller lagt hindringer i vejen for tilbagetagelsen, kan sælger kræve restgælden betalt, jf. KAL § 41  
    
 
 ---
@@ -1119,7 +1114,7 @@ Sælger kan:
 
 ...
 
-#### Quiz: Forbrugslån
+**Quiz: Forbrugslån**
 
 ![](img/forbrug.jpg)
 
@@ -1127,7 +1122,7 @@ Hvad betyder ÅOP? Har du mulighed for at fortryde et forbrugslån? Og hvor lang
 
 ---
 
-#### Quiz: Realkreditlån
+**Quiz: Realkreditlån**
 
 ![](img/real.jpg)
 
