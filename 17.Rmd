@@ -8,37 +8,56 @@
 <img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
-•	**Sondring mellem almindelige fordringer, simple gældsbreve og omsætningsgældsbreve – analog anvendelse af reglerne for simple gældsbreve jf. GBL § 26 på alm. fordringer (ved afprøvningen bør der være fokus på simple fordringer/gældsbreve og tinglyste negotiable dokumenter)**
+**Sondring mellem almindelige fordringer, simple gældsbreve og omsætningsgældsbreve – analog anvendelse af reglerne for simple gældsbreve jf. GBL § 26 på alm. fordringer (ved afprøvningen bør der være fokus på simple fordringer/gældsbreve og tinglyste negotiable dokumenter)**
 
-•	**Sikringsakt** 
-•	**Fordringers ophør:** 
+**Sikringsakt** 
 
-  o **Forældelse**  
-  o **Modregning – almindelige betingelser + GBL § 27 og 28**
-  o **Betaling med frigørende virkning, GBL § 29 og 30** 
+**Fordringers ophør:** 
 
-<br>
-<br>
+- **Forældelse**  
+- **Modregning – almindelige betingelser + GBL § 27 og 28**
+- **Betaling med frigørende virkning, GBL § 29 og 30** 
+
 
 ---
 
 ## Definition og regel
 
 
-<img src="img/modregning.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+**Modregning** er en måde at opfylde/afslutte krav på. 
 
+Modregning bringer krav til ophør i det omfang, kravene dækker hinanden. 
 
-**Modregning** er en måde at opfylde/afslutte krav på. Modregning bringer krav til ophør i det omfang, kravene dækker hinanden. 
+---
+
+![](img/mot.png)
+
+---
+
+![](img/ophor.png)
+(Kilde; Trojka)
+
+---
 
 Det gøres ved, at den ene parts krav fratrækkes den anden parts krav.
 
-Modregning har karakter af betaling. Modregning er en forenkling af betalingssystemet.
+Modregning har karakter af betaling. 
 
-Ved modregning opgiver den ene part sit krav hos den anden part. Men samtidig bringer han sin gæld til den anden til ophør. Han får således lov til at beholde den ydelse, som han ellers skulle have betalt til opfyldelse af sin skyld.
+Modregning er en forenkling af betalingssystemet.
 
-Modregning gør ikke, at parterne slipper for at overholde reglerne i lovgivningen. Lovgivningen om bogføring og anden lovgivning (beregning af moms osv.) skal naturligvis overholdes.
+Ved modregning opgiver den ene part sit krav hos den anden part. 
 
-Modregning har også karakter af privat tvangsfuldbyrdelse. Modregning kan nemlig ske, hvis den ene part ønsker det. 
+Men samtidig bringer han sin gæld til den anden til ophør. 
+
+Han får således lov til at beholde den ydelse, som han ellers skulle have betalt til opfyldelse af sin skyld.
+
+Modregning gør ikke, at parterne slipper for at overholde reglerne i lovgivningen. 
+
+Lovgivningen om bogføring og anden lovgivning (beregning af moms osv.) skal naturligvis overholdes.
+
+Modregning har også karakter af privat tvangsfuldbyrdelse. 
+
+Modregning kan nemlig ske, hvis den ene part ønsker det. 
 
 Der behøver ikke at foreligge en aftale mellem parterne eller et samtykke fra modparten. 
 
@@ -46,10 +65,10 @@ Modregningen indebærer altså, at fordringen bliver opfyldt, selv om en part ik
 
 Modregning sker ved, at den ene part afgiver en erklæring (modregningserklæring) om modregning til den anden.
 
-I modregning gælder en særlig sprogbrug: 
+---
 
+I modregning gælder der et særligt sprogbrug af begreber: 
 
-**Begreber**
 
 **Modregneren:** Den der ønsker at modregne og derfor afgiver en modregningserklæring
 
@@ -60,6 +79,8 @@ I modregning gælder en særlig sprogbrug:
 **Hovedfordringen**: Modregnerens skyld til den anden part
 
 **Konneksitet** betyder, at der er tale om krav, som har fælles oprindelse.
+
+---
 
 Ved tvungen ikke-konneks modregning kan modregning ske, uden at der foreligger en aftale om modregning mellem parterne.
 
@@ -78,6 +99,7 @@ For at tvungen ikke-konneks modregning må finde sted, er der en række betingel
 
 Disse betingelser skal alle være opfyldte på det tidspunkt, hvor den tvungne ikke-konnekse modregning iværksættes.
 
+---
 
 **Betingelserne for modregning er følgende**:
 
@@ -85,6 +107,8 @@ Disse betingelser skal alle være opfyldte på det tidspunkt, hvor den tvungne i
 * Kravene er afviklingsmodne
 * Kravene er gensidige
 * Modkravet er retskraftigt
+
+---
 
 **Ad. Kravene til udjævnelighed**
 
@@ -95,6 +119,8 @@ Betingelsen om udjævnelighed er opfyldt, når både hovedfordringen og modfordr
 Kravene behøver ikke at være lige store, for at tvungen modregning må gennemføres. 
 
 Blot kravene er delelige, må der modregnes over for en hovedfordring, der er større end modfordringen, og modregnes med en modfordring, der er større end hovedfordringen.
+
+---
 
 **Ad. Kravene er afviklingsmodne**
 
@@ -108,9 +134,13 @@ Denne betingelse er begrundet i, at en kreditor kan kræve betaling, når forfal
 
 Med **"forfaldstidspunkt"** menes sidste rettidige betalingsdag, da betaling som udgangspunkt ikke må kræves før da.
 
+---
+
 **Ad. Kravene er gensidige**
 
 Modregning må kun ske, hvor to personer (fysiske og/eller juridiske personer) har krav på hinanden, således at debitor efter den ene fordring er kreditor efter den anden fordring.
+
+---
 
 **Ad. Modkravet er retskraftigt**
 
@@ -118,6 +148,7 @@ At modkravet skal være retskraftigt betyder, at modfordringen ikke må være bo
 
 Hvis modfordringen er bortfaldet, er modregning udelukket.
 
+---
 
 ## Ophør ved forældelse
 
@@ -135,6 +166,9 @@ Hvis modfordringen er bortfaldet, er modregning udelukket.
 
 * Afbrydelse af forældelse (afsnit 17.3.5.)
 
+* Passivitetsgrundsætningen (afsnit 17.3.6.)
+
+---
 
 ### Hvorfor forældelsesregler? 
 
@@ -144,23 +178,32 @@ Uden forældelsesreglerne kunne der opstå mange uløselige, indgribende og urim
 
 De almindelige forældelsesregler er samlet i forældelsesloven, men der finder også en række forældelsesfrister vedrørende særlige retsforhold i andre love, fx i købeloven.
 
+---
+
 Forældelsesloven (FL; Lovbekendtgørelse nr. 1238 9. november 2015 om forældelse af fordringer) omfatter:
 
-* Fordringer på penge eller andre ydelser, fx
-   + Krav på løn
-   + Krav på erstatning
-   + Krav efter en faktura
-* Forældelsesloven omfatter ikke:
-   + Tinglyste pantebreve
-   + Krav på andet end penge
-* Særlige krav kan være forældet efter andre regler, fx købelovens reklamationsregler §§ 81 og 83
+Fordringer på penge eller andre ydelser, fx:
+
++ Krav på løn
++ Krav på erstatning
++ Krav efter en faktura
+
+Forældelsesloven omfatter ikke:
+
++ Tinglyste pantebreve
++ Krav på andet end penge
+
+Særlige krav kan være forældet efter andre regler, fx købelovens reklamationsregler §§ 81 og 83
 
 Skyldner skal ikke betale, hvis kravet er forældet
 
-* Forældelsesfristen løber fra det tidligste tidspunkt kreditor kunne kræve betaling:
-   + Forfaldstidspunkt, der hvor skyldner skal betale fordringen
-   + Misligholdelsestidspunkt, hvis en kontrakt bliver misligholdt
-   + Skadestidspunkt, hvis kravet opstår som følge af erstatningsansvar for en skade
+Forældelsesfristen løber fra det tidligste tidspunkt kreditor kunne kræve betaling:
+
++ Forfaldstidspunkt, der hvor skyldner skal betale fordringen
++ Misligholdelsestidspunkt, hvis en kontrakt bliver misligholdt
++ Skadestidspunkt, hvis kravet opstår som følge af erstatningsansvar for en skade.
+   
+---
 
 ### Retsvirkningerne af forældelse
 
@@ -170,7 +213,11 @@ Det er heller ikke nødvendigt at meddele modparten, at kravet er forældet. Man
 
 Renter mv. af en forældet fordring bliver forældede samtidig med selve fordringen, uanset hvornår de er opstået.
 
-Det er i mange situationer muligt at aftale, at forældelsen ikke skal indtræde. Dog kan forældelsesfristerne i forældelsesloven ikke på forhånd fraviges til skade for en forbruger.
+Det er i mange situationer muligt at aftale, at forældelsen ikke skal indtræde. 
+
+Dog kan forældelsesfristerne i forældelsesloven ikke på forhånd fraviges til skade for en forbruger.
+
+---
 
 ### Om forældelsesfrister i forældelsesloven 
 
@@ -178,9 +225,17 @@ Forældelseslovens opbygning er lavet sådan, at der er en almindelig forældels
 
 Det fremgår af forældelseslovens § 3, stk. 1.
 
+---
+
+![](img/for.png)
+
+---
+
 Denne regel er dog suppleret med en lang række andre frister og udsættelsesmuligheder, der gælder for særlige situationer og særlige retsforhold.
 
-Alle fristerne i forældelsesloven skal som hovedregel regnes fra det tidligste tidspunkt, hvor fordringshaveren kunne kræve fordringen opfyldt. Det følger af forældelseslovens § 2, som der dog også er undtagelser til.
+Alle fristerne i forældelsesloven skal som hovedregel regnes fra det tidligste tidspunkt, hvor fordringshaveren kunne kræve fordringen opfyldt. 
+
+Det følger af forældelseslovens § 2, som der dog også er undtagelser til.
 
 Forældelsesfrister (se tabel \@ref(tab:ophør1))
 
@@ -220,8 +275,15 @@ mydf %>%
 ```
 
 
+---
 
 ### Forældelsesfrister - pengelån, indlån, kaution 
+
+---
+
+![](img/mod.jpg)
+
+---
 
 Forældelsesloven indeholder særlige frister for visse fordringer, der har særlig interesse for pengeinstitutter.
 
@@ -231,16 +293,22 @@ For indlån i pengeinstitutter er forældelsesfristen 20 år fra seneste kontobe
 
 Når en fordring er sikret ved kaution, forældes kautionen ligesom den fordring, der kautioneres for. Det vil sige, at kaution for pengelån forældes efter 10 år.
 
-* **HR:** Alle krav forældes efter 3 år, jf. FL § 3, stk. 1, fx:
+---
+
+**HR:** Alle krav forældes efter 3 år, jf. FL § 3, stk. 1, fx:
+
    + Krav på renter og rykkergebyrer
    + Krav som følge af mangler ved fast ejendom
    + Overtræk på et kontokort
-* U: Nogle krav forældes efter 10 år, fx:
+   
+U: Nogle krav forældes efter 10 år, fx:
+
    + Underskrevet gældsbrev
    + Frivilligt forlig
    + Dom
    + Pengelån
  
+---
 
 ### Afbrydelse af forældelse 
 
@@ -256,24 +324,49 @@ Konsekvensen af afbrydelsen er, at fristen ikke løber længere.
 
 * Når fristen afbrydes, starter den forfra
 * Afbrydelse sker når
-   + Skyldner erkender at skylde pengene, fx når:
++ Skyldner erkender at skylde pengene, fx når:
+   
 * Skyldner betaler renter og afdrag
 * Underskriver et frivilligt forlig
 * Eller accepterer på anden måde
-   + Vil skyldner ikke erkende gælden, må skyldner foretage retslige skridt, fx:
+
++ Vil skyldner ikke erkende gælden, må skyldner foretage retslige skridt, fx:
+
 * Forfølge krav i Fogedretten
 * Klage til et godkendt tvistløsningsorgan (klage- og ankenævn) ankenævn)
 
+---
 
-**Suspenderet frist:** 
+**Suspenderet forældelsesfrist:** 
 
-* Betyder at fristen løber først fra et senere tidspunkt
+Betyder at fristen løber først fra et senere tidspunkt.
 
-* Hvis kreditor ikke kendte til kravet (fx fordi kreditor ikke er klar over, at der er en skade)
+Hvis kreditor ikke kendte til kravet (fx fordi kreditor ikke er klar over, at der er en skade).
 
-* Hvis kreditor ikke kendte til skyldner (fx fordi kreditor ikke ved, hvem der har ansvar for skaden)
+Hvis kreditor ikke kendte til skyldner (fx fordi kreditor ikke ved, hvem der har ansvar for skaden).
 
-* Fristen kan ikke suspenderes ud over de lange frister på 10 eller 30 år (miljø- og personskader)
+Fristen kan ikke suspenderes ud over de lange frister på 10 eller 30 år (miljø- og personskader)
+
+---
+
+### Passivitetsgrundsætning
+
+Der gælder en almindelig uskreven passivitetsgrundsætning i dansk ret.
+
+Passivitetsgrundsætninger hviler på spørgsmålet om, hvorvidt kreditor ved at forholde sig passiv i en længere periode har givet debitor en berettiget forventning om, at kreditor ikke har til hensigt at forfølge sit krav. 
+
+Hvis man som debitor vil påberåbe sig en ulovfæstet passivitetsgrundsætning som grundlag for, at kreditor ikke længere har en ret til at kræve betaling skal der udover at være passeret en længere rum tid også være nogle andre forhold der gør, at debitor ikke længere regnede med, at
+kreditor havde til hensigt at forfølge sit krav. 
+
+1.	Er debitor i god tro?
+2.	Skyldes vildfarelsen vedrørende betaling overvejende kreditors forhold?
+3.	Er fejlen opdaget og rettet hurtigt?
+
+
+Sådanne nogle andre forhold skal vurderes ud fra den
+konkrete situation.
+
+Det kan således ikke udelukkes, at domstolene i en konkret situation finder, at kreditor har fortabt sin ret til at kræve betaling på baggrund af passivitetsbetragtninger.
 
 ...
 
@@ -314,12 +407,12 @@ Aftalt deponering eller efter deponeringsloven (Lovbekendtgørelse nr. 339 2. ap
 <img src="img/deponeringafpenge.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
-Loven vedrører en debitors mulighed for med frigørende virkning at deponere sin ydelse i form af penge eller værdipapirer med den virkning, at debitor stilles, som om han havde opfyldt sin forpligtelse.
+Deponeringsloven vedrører en debitors mulighed for med frigørende virkning at deponere sin ydelse i form af penge eller værdipapirer med den virkning, at debitor stilles, som om han havde opfyldt sin forpligtelse.
 
-* Deponering betyder, at debitor betaler til en konto i en bank med frigørende virkning
+Deponering betyder, at debitor betaler til en konto i en bank med frigørende virkning
 
 
-* **Deponering kan ske, når**:
+**Deponering kan ske, når**:
 
    + Debitor ikke kan betale på grund af kreditors forhold, fx hvis kreditor er væk
    
@@ -330,8 +423,6 @@ Loven vedrører en debitors mulighed for med frigørende virkning at deponere si
 * Deponering kan ikke ske i andre tilfælde - heller ikke fx hvis debitor er utilfreds med huslejens størrelse
 
 
-<img src="img/deponering.png" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-(kilde; Trojka)
 
 
 ---
