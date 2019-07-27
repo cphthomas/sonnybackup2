@@ -434,9 +434,9 @@ Underretningen skal ifølge stk. 1 som hovedregel gives, før ændringerne træd
 
 Dog kan kreditgiveren og forbrugeren i kreditaftalen have fastsat en bestemmelse om, at oplysninger efter KAL § 9, stk. 1 og 2, gives til forbrugeren med jævne mellemrum i de tilfælde, hvor: 
 
-1) ændringen i debitorrenten skyldes en ændring i en referencesats (fx Nationalbankens diskonto eller udlånsrente), 
+**1**) ændringen i debitorrenten skyldes en ændring i en referencesats (fx Nationalbankens diskonto eller udlånsrente), 
 
-2) hvor den nye referencesats er gjort tilgængelig for offentligheden på passende vis, og 
+**2**) hvor den nye referencesats er gjort tilgængelig for offentligheden på passende vis, og 
 
 3) hvor oplysninger om den nye referencesats også er tilgængelige hos kreditgiveren.
 
@@ -460,21 +460,21 @@ Denne forpligtelse kan ikke opfyldes ved, at forbrugeren eksempelvis via adgang 
 
 ---
 
-1. Den nøjagtige periode, som kontoudtoget dækker.
+**1**. Den nøjagtige periode, som kontoudtoget dækker.
 
-2.	Størrelsen på de udnyttede kreditmuligheder og datoerne for udnyttelserne.
+**2**.	Størrelsen på de udnyttede kreditmuligheder og datoerne for udnyttelserne.
 
-3.	Saldoen på det foregående kontoudtog og dettes dato.
+**3**.	Saldoen på det foregående kontoudtog og dettes dato.
 
-4.	Den nye saldo.
+**4**.	Den nye saldo.
 
-5.	Datoerne for betalinger og betalingernes størrelse.
+**5**.	Datoerne for betalinger og betalingernes størrelse.
 
-6.	Den anvendte debitorrente.
+**6**.	Den anvendte debitorrente.
 
-7.	Eventuelle omkostninger, der er pålagt.
+**7**.	Eventuelle omkostninger, der er pålagt.
 
-8.	Det eventuelle minimumsbeløb, der skal betales.
+**8**.	Det eventuelle minimumsbeløb, der skal betales.
 
 ---
 
@@ -540,11 +540,10 @@ Grove eller gentagne overtrædelser af KAL §§ 7 a, 7 b, 8, 8 a, 8 b, 9, 10 ell
 
 Det følger af KAL § 22: 
 
-“Er det beløb, som forbrugeren efter aftalen skal betale som vederlag eller omkostninger, urimeligt, skal det nedsættes til, hvad der skønnes rimeligt. 
+**“Er det beløb, som forbrugeren efter aftalen skal betale som vederlag eller omkostninger, urimeligt, skal det nedsættes til, hvad der skønnes rimeligt.** 
 
-Medmindre andet bestemmes af retten, sker afkortningen i det eller de sidste beløb, der skal betales efter aftalen. 
-
-Er der afkrævet forbrugeren et urimeligt vederlag for at give den pågældende henstand eller andre lempelser i de aftalte vilkår, sker afkortningen på samme måde”.
+**Medmindre andet bestemmes af retten, sker afkortningen i det eller de sidste beløb, der skal betales efter aftalen.** 
+**Er der afkrævet forbrugeren et urimeligt vederlag for at give den pågældende henstand eller andre lempelser i de aftalte vilkår, sker afkortningen på samme måde”**.
 
 Reduktion af en rentesats rejser ligesom andre rettelser af en kontrakt spørgsmålet om, hvor vidtgående rettelsen bør være. 
 
@@ -887,6 +886,10 @@ Som køb med ejendomsforbehold anses også en aftale, der er betegnet som lejeko
 
 **Se Fona-sagerne i Højesterets dom U 2004.317 H, hvorefter aftale om leje af videoapparat med ret til at købe apparatet for 1 kr. efter 5 år var i strid med kreditaftaleloven**:
 
+![](img/video.png)
+
+---
+
 "I januar 1995 indgik A en aftale med Fona F om leje af et videoapparat i 5 år. 
 
 Samtidig udstedte F et bevis, som hjemlede A ret til efter de 5 år at købe tilsvarende udstyr for 1 kr., alene betinget af at han havde overholdt lejeaftalen i 60 måneder. 
@@ -967,7 +970,7 @@ Ifølge domspraksis fraviges dette udgangspunkt, såfremt kreditgiveren har udvi
 
 ### Betingelser for gyldigheden af et ejendomsforbehold
 
-<img src="img/kredit13.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 
 Et ejendomsforbehold i forbrugerkøb er som tidligere nævnt kun gyldigt efter lovens § 34, stk. 1, såfremt:
 
