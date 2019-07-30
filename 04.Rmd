@@ -69,7 +69,7 @@ nodes <- data.frame(id = 1:7,
                     font.size = c(50,25,25,25,25,25,25))
 edges <- data.frame(from = c(1,1,1,1,1,1), to = c(2,3,4,5,6,7),arrows = c("to"),length = rep(20,6))
 
-visNetwork(nodes, edges,  width = "80%") %>% 
+visNetwork(nodes, edges,  width = "60%") %>% 
   visNodes(color = list(background = "white", 
                         border = "white",
                         highlight = "yellow"),
@@ -151,49 +151,47 @@ En kontrakt er skriftlig og kan påberåbes ved domstolene.
 ```{r gensidigtloefte, echo=FALSE, result=TRUE,fig.cap=("Gensidigt løfte")}
 
 
-nodes <- data.frame(id = 1:2, group = c("B", "A"),label = c(" Sælger "," Køber "))
+nodes <- data.frame(id = 1:2, shape = c("box"),label = c(" Sælger "," Køber "),font.size = c(20,20))
 edges <- data.frame(from = c(1), 
                     to = c(2),
                     arrows = c("to","from"),
-                    length = c(800,500),
+                    length = c(300,100),
                     label=c("Varer/Ydelser","Penge/modydelse"),
+                    font.size = c(15,15),
                     smooth = TRUE
                     )
 
- visNetwork(nodes, edges, width = "80%") %>%
- visGroups(groupname = "A", shape = "icon", 
-           icon = list(code = "f007", size = 150)) %>%
- visGroups(groupname = "B", shape = "icon", 
-           icon = list(code = "f007", size = 150, color = "red",highlight = "yellow")) %>%
- addFontAwesome() %>%
- 
- visEdges(shadow = TRUE,
-           arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
-           color = list(color = "lightblue", highlight = "red"))
+visNetwork(nodes, edges,  width = "60%") %>% 
+  visNodes(color = list(background = "white", 
+                        border = "white",
+                        highlight = "yellow"),
+           shadow = list(enabled = TRUE, size = 30))  %>%
+  visHierarchicalLayout(direction = "LR",levelSeparation = 400) %>%
+visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 ```
+
+
 
 
 
 ```{r faicon2, echo=FALSE, result=TRUE,fig.cap=("Ensidigt løfte")}
 
-nodes <- data.frame(id = 1:2, group = c("B", "A"),label = c(" Testator "," Arving "))
+nodes <- data.frame(id = 1:2, shape = c("box"),label = c(" Testator "," Arving "),font.size = c(20,20))
 edges <- data.frame(from = c(1), 
                     to = c(2),
                     arrows = c("to"),
                     length = c(300),
+                    font.size = c(15),
                     label=c(" ARV "),
                     smooth = TRUE
                     )
- visNetwork(nodes, edges,  width = "80%") %>%
- visGroups(groupname = "A", shape = "icon", 
-           icon = list(code = "f007", size = 150, color = "red")) %>%
- visGroups(groupname = "B", shape = "icon", 
-           icon = list(code = "f007", size = 150, color = "black")) %>%
- addFontAwesome() %>%
- 
- visEdges(shadow = TRUE,
-           arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
-           color = list(color = "lightblue", highlight = "red"))
+ visNetwork(nodes, edges,  width = "60%") %>% 
+  visNodes(color = list(background = "white", 
+                        border = "white",
+                        highlight = "yellow"),
+           shadow = list(enabled = TRUE, size = 30))  %>%
+  visHierarchicalLayout(direction = "LR",levelSeparation = 400) %>%
+visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 ```
 
 
@@ -302,24 +300,22 @@ Resultat: Der er indgået en juridisk bindende aftale
 
 
 ```{r faicon3, echo=FALSE, result=TRUE,fig.cap=("Aftale sælgers initiativ")}
-nodes <- data.frame(id = 1:2, group = c("B", "A"),label = c("Sælger \n tilbudsgiver ","Køber \n tilbudsmodtager "))
+nodes <- data.frame(id = 1:2, shape = c("box"),label = c("Sælger \n tilbudsgiver ","Køber \n tilbudsmodtager "),font.size = c(15,15))
 edges <- data.frame(from = c(1), 
                     to = c(2),
                     arrows = c("to","from"),
                     length = c(800,500),
+                    font.size = c(12,12),
                     label=c("1. Sælger sender tilbud til køber","2. Køber sender accept/ordre"),
                     smooth = TRUE
                     )
- visNetwork(nodes, edges,width = "80%") %>%
- visGroups(groupname = "A", shape = "icon", 
-           icon = list(code = "f007", size = 150)) %>%
- visGroups(groupname = "B", shape = "icon", 
-           icon = list(code = "f007", size = 150, color = "red",highlight = "yellow")) %>%
- addFontAwesome() %>%
- 
- visEdges(shadow = TRUE,
-           arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
-           color = list(color = "lightblue", highlight = "red"))
+  visNetwork(nodes, edges,  width = "60%") %>% 
+  visNodes(color = list(background = "white", 
+                        border = "white",
+                        highlight = "yellow"),
+           shadow = list(enabled = TRUE, size = 30))  %>%
+  visHierarchicalLayout(direction = "LR",levelSeparation = 400) %>%
+visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 ```
 
 
@@ -327,24 +323,21 @@ edges <- data.frame(from = c(1),
 
 
 ```{r faicon4, echo=FALSE, result=TRUE,fig.cap=("Aftale købers initiativ")}
-nodes <- data.frame(id = 1:2, group = c("B", "A"),label = c("Sælger \n tilbudsmodtager ","Køber \n tilbudsgiver "))
+nodes <- data.frame(id = 1:2, shape = c("box"),label = c("Sælger \n tilbudsmodtager ","Køber \n tilbudsgiver "),font.size = c(20,20))
 edges <- data.frame(from = c(1), 
                     to = c(2),
                     arrows = c("to","from"),
                     length = c(800,500),
-                    label=c("2. Sælger sender accept/ordrebekræftelse","1. Køber sender købstilbud/ordre"),
+                    label=c("2. Sælger sender \n accept/ordrebekræftelse","1. Køber sender købstilbud/ordre"),
                     smooth = TRUE
                     )
- visNetwork(nodes, edges,width = "80%") %>%
- visGroups(groupname = "A", shape = "icon", 
-           icon = list(code = "f007", size = 150)) %>%
- visGroups(groupname = "B", shape = "icon", 
-           icon = list(code = "f007", size = 150, color = "red",highlight = "yellow")) %>%
- addFontAwesome() %>%
- 
- visEdges(shadow = TRUE,
-           arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
-           color = list(color = "lightblue", highlight = "red"))
+ visNetwork(nodes, edges,  width = "60%") %>% 
+  visNodes(color = list(background = "white", 
+                        border = "white",
+                        highlight = "yellow"),
+           shadow = list(enabled = TRUE, size = 30))  %>%
+  visHierarchicalLayout(direction = "LR",levelSeparation = 400) %>%
+visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 ```
 
 ---
