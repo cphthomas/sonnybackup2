@@ -142,30 +142,31 @@ Grundlovens § 3 har følgende ordlyd:
 *”Den lovgivende magt er hos kongen og Folketinget i forening. Den udøvende magt er hos kongen. Den dømmende magt er hos domstolene”.*
 
 
-```{r magtenstredeling, echo=FALSE,fig.cap=("Magtens tredeling")}
-nodes <- data.frame(id = 1:3, shadow = FALSE,
-                    shape = c("image"),
-                    image = c("https://jura.tepedu.dk/img/folketing.png",
-                    "https://jura.tepedu.dk/img/domstolene.png",
-                    "https://jura.tepedu.dk/img/politi.png"),
-                    label = c("Lovgivende magt \n Folketinget/Dronningen",    "Dømmende magt \n Domstolene","Udøvende magt \n Regering/ministerier,\nforvaltningen\npolitiet m.fl."),
-                    color = "red",
-                    highlight = "yellow",
-                    font.size=12)
-  
-edges <- data.frame(from = c(1,2,3), to = c(2,3,1),
-                    # length = c(400,400,400),
-                    # label=c("Lån til købesum","Købsaftale","Garanti for\nkøbesum"),
-                    # arrows = c("to"),
-                    smooth = FALSE)
-visNetwork(nodes, edges, width = "80%") %>% 
-  visNodes(shapeProperties = list(useBorderWithImage = FALSE)) %>%
-  visLayout(randomSeed = 2) %>%
 
- visEdges(shadow = TRUE,
-           # arrows =list(to = list(enabled = TRUE, scaleFactor = 2)),
-           color = list(color = "lightgrey", highlight = "yellow"))
-``` 
+
+
+```{r Magtenstredeling,echo=FALSE, result=TRUE, fig.cap=("Magtens tredeling")}
+
+nodes <- data.frame(id = 1:3, 
+                    shape = c("box"), 
+                    level = c(1,2,2),
+                    label = c("Lovgivende magt \n Folketinget/Dronningen",    "Dømmende magt \n Domstolene","Udøvende magt \n Regering/ministerier,\nforvaltningen\npolitiet m.fl."),
+                    font.size = c(16,16,16))
+edges <- data.frame(from = c(1,2,3), to = c(2,3,1),arrows = c(""),length = rep(75,3))
+
+visNetwork(nodes, edges, height = "500px", width = "60%",avoidOverlap=2) %>% 
+  visNodes(color = list(background = "white", 
+                        border = "white",
+                        highlight = "yellow"),
+           shadow = list(enabled = TRUE, size = 30))  %>%
+   visHierarchicalLayout(direction = "UD",levelSeparation = 100) %>%
+  visEdges(color = list(color = "lightgrey", highlight = "yellow"))
+  #visLayout(randomSeed = 24) # to have always the same network
+
+```
+
+
+
 
 
 **Tremagtsdelingen:**
@@ -572,7 +573,7 @@ nodes <- data.frame(id = 1:9,
                     font.size = c(25,18,18,rep(12,6)))
 edges <- data.frame(from = c(1,1,1,1,2,2,2,3,3,3), to = c(2,3,4,6,4,5,7,4,7,8),arrows = c(""),length = rep(75,10))
 
-visNetwork(nodes, edges, height = "500px", width = "80%",avoidOverlap=2) %>% 
+visNetwork(nodes, edges, height = "500px", width = "60%",avoidOverlap=2) %>% 
   visNodes(color = list(background = "white", 
                         border = "white",
                         highlight = "yellow"),
@@ -582,6 +583,11 @@ visNetwork(nodes, edges, height = "500px", width = "80%",avoidOverlap=2) %>%
   #visLayout(randomSeed = 24) # to have always the same network
 
 ```
+
+
+
+
+
 Uafhængige domstole er en grundlæggende del af magtens tredeling i et demokrati. Sådan er det også i Danmark. ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` siger nemlig, at domstolene alene har den dømmende magt.
 
 ---
@@ -750,7 +756,7 @@ nodes <- data.frame(id = 1:6,
                     font.size = c(15,15,15,15,15,15))
 edges <- data.frame(from = c(1,1,1,1,1), to = c(2,3,4,5,6))
 
-visNetwork(nodes, edges, width = "80%") %>% 
+visNetwork(nodes, edges, width = "60%") %>% 
   visNodes(color = list(background = "white", 
                         border = "white",
                         highlight = "yellow"),
