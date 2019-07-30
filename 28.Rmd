@@ -1,108 +1,408 @@
-# Opgaveteknik ved løsning af juridiske skriftlige opgaver
 
-## Besvarelsens indhold
 
-Der skal her gives følgende gode råd, når du skal besvare skriftlige juridiske (eksamens)opgaver:^[Følgende afsnit er en gengivelse af advokat **Peter Wedel Ranch Krarup** Aspiri Opgavesamling til Erhvervsret, 2015, 5. udg., s. 9-14.]
+# Eksamen samt en vejledning til løsning af juridiske eksamensopgaver på finansøkonomstudiet
 
 ---
 
-## Opgaveteksten og forståelsen heraf
-
-
-### Udskillelsesprocessen
+![](img/eksamen.jpg)
 
 ---
 
-![](img/as13.png)
+## Studieordningen
+
+Det fremgår af studieordningen for Erhvervs- og Finansjura, at faget indeholder relevant juridisk lovning i relation til juridiske problemstillinger inden for ejendomshandel, ejendomsadministration, bank og realkredit, forsikring samt revision og økonomifunktion. 
+
+Erhvervs- og finansjura omhandler nærmere identifikation af relevante juridiske problemstillinger, og hvordan der kan argumenteres for et problems løsning eller forebyggelse.  
 
 ---
 
-### Opgaveteksten skal respekteres
+Læringsmålet for dig som studerende er, at du får en **udviklingsbaseret viden** om praksis og centralt anvendt teori og metode inden for erhvervs- og finansjura i relation til erhvervet og, at du får forståelse for praksis, centralt anvendt teori og metode samt at du kan forstå erhvervets anvendelse af teori og metode inden for erhvervs- og finansjura. 
 
 ---
 
-![](img/as14.png)
+Du skal som studerende opnå **færdigheder**, så du kan anvende centrale metoder og redskaber inden for erhvervs- og finansjura samt, 
+
+**at** du kan anvende de færdigheder, der knytter sig til beskæftigelse inden for erhvervet og at du kan vurdere praksisnære problemstillinger samt, 
+
+**at** du kan opstille og vælge løsningsmuligheder med udgangspunkt i erhvervs- og finansjura  og 
+
+**at** du kan formidle praksisnære problemstillinger og løsningsmuligheder inden for erhvervs- og finansjura til kunder, samarbejdspartnere og brugere. 
 
 ---
 
-![](img/as2.png)
+Du skal som studerende tilegne dig **kompetencer**, så du kan håndtere udviklingsorienterede situationer i relation til erhvervs- og finansjura inden for erhvervet og 
+
+at du kan deltage i fagligt og tværfagligt samarbejde inden for erhvervs- og finansjura med en professionel tilgang og 
+
+at du i en struktureret sammenhæng kan tilegne dig ny viden, færdigheder og kompetencer inden for erhvervs- og finansjura i relation til erhvervet.
 
 ---
 
-## Tiltag inden besvarelsen
-
-### Visualisering og eksempel på tidslinie
-
----
-
-![](img/as4.png)
+Bedømmelseskriterierne for censor og eksaminators vurdering af din skriftlige eksamensbesvarelse i Erhvervs- og Finansjura er læringsmålene fra herværende Studieordning.
 
 ---
 
 
-#### Eksempler på personoversigter/-diagrammer
+## Praktiske oplysninger om eksamen i Erhvervs- og Finansjura
+
+Eksamens varighed er 2 timer. 
+
+Alle skriftlige og elektroniske hjælpemidler er tilladt.  
+
+Internettet må anvendes til informationssøgning, men det er IKKE tilladt at anvende Internettet til kommunikation med andre under eksamen.  
+
+Du skal selv medbringe computer, forlængerledning mm.  
+
+Tjek inden eksamen, at din computer kan kommunikere med WISEflow, så du kan uploade din besvarelse. 
+
+Vær opmærksom på, at sikring af data under eksamen er dit eget ansvar. 
+
+Husk løbende at gemme dit arbejde.  
+
+Som udgangspunkt er du selv ansvarlig for dit tekniske udstyr, men der vil være IT-support til skriftlige eksamener. IT-supporten kan hjælpe med adgang til WISE-flow mv. 
+
+Såfremt du får IT- tekniske problemer, skal du blive siddende på din plads, række hånden op og tilkalde eksamensvagten.
+
+Eksamensopgaven frigives ved eksamens begyndelse i WI SE-flow.  
+
+Inden eksamen skal du læse de informationer, der er i Akademiets formelle eksamensinstrukser i dokumentet ”Eksamensreglement Cphbusiness”. 
+
+Du finder dette dokument på Moodle. 
+
+Disse regler er gældende for alle eksaminer, der afvikles på Akademiet og har hjemmel i gældende Bekendtgørelser på området. 
+
+Aflevering foregår elektronisk og du skal uploade din besvarelse i WISEflow. 
+
+Der gives en karakter efter 7-trins skalaen for hver deleksamen.  
+
+Der er ekstern censur på bedømmelsen. 
+
+Den samlede eksamen bedømmes som Bestået/Ikke bestået ud fra et simpelt gennemsnit af karaktererne i de fire delprøver.
+
+Ved beregningen kan der ikke rundes op, dvs. gennemsnittet skal give mindst 2,0. 
+
+Din bedømmelse frigives på Selvbetjening. 
+
+Karakteren påføres eksamensbeviset. 
+
+Bestås ordinær eksamen ikke tilmeldes den studerende automatisk til reeksamen. 
+
+Ved manglende beståelse af årsprøven, skal den studerende aflægge reeksamen i de deleksamener, hvor den studerende ikke har opnået en karakter på mindst 02. 
+
+Beståede deleksamener fra ordinær eksamen indgår i den samlede bedømmelse af reeksamen. 
+
+Tidsplan fremgår af semesterets eksamenskalender.
 
 ---
 
-![](img/as3.png)
+## Vejledning i opgavebesvarelse af de juridiske eksamensopgaver
+
+Eksaminator udarbejder typisk 3 til 4 eksamensopgaver med tilhørende underspørgsmål. 
+
+Det er vigtigt, at du respekterer opgaveteksten ved din opgavebesvarelse.
 
 ---
 
-### Disposition
+### Opbygningen betyder meget
+
+I den skriftlige eksamensbesvarelse betyder det meget, hvordan besvarelsen er opbygget.^[Følgende afsnit om vejledning i opgavebesvarelse af juridiske eksamensopgaver bygger væsentligt på **Morten Rosenmeier** tekster på portalen www.juraeksamen.dk, jf. afsnit "2.5 – Bliv bedre til at opbygge eksamensbesvarelser" for de jurastuderende, som her er blevet tilpasset til finansøkonomstudiet.] 
+
+Det har blandt andet betydning, hvordan du strukturerer og disponerer stoffet, hvilke spørgsmål du behandler og ikke behandler, og hvordan du argumenterer for en løsning på det juridiske problem i opgaven. 
 
 ---
 
-![](img/as5.png)
+### Identifikation af de relevante problemer og regler
+
+Jura handler væsentligt om at henføre fakta under juridiske regler og nå frem til et rigtigt resultat. 
+
+Med en traditionel terminologi drejer jura sig om 
+
+faktum – jus – subsumtion. 
+
+Du har et faktisk hændelsesforløb (faktum; her opgaveteksten) som passer ind i nogle juridiske regler (jus). 
+
+Hvis du holder faktum og jus op mod hinanden (subsumption), når du frem til et juridisk resultat. 
+
+Det, du skal kunne, er at finde de relevante regler, der passer på en sag, og bruge dem rigtigt. 
+
+Du skal kunne identificere den relevante jus og foretage en korrekt subsumption. 
+
+Begrebet subsumption omfatter sagens faktum (hvad der er sket), retsfaktum (de retligt relevante fakta), jus (de relevante regler) og retsfølge (resultatet/konfliktens løsning).
+
+Konkret med de skriftlige eksamensbesvarelser: 
+
+Cphbusiness leverer faktum. 
+
+Din opgave til den skriftlige eksamen er så at finde jussen og foretage subsumptionen.
 
 ---
 
-## Besvarelsens form
+Så det du skal i en skriftlig eksamensopgave er, at:
 
-### Sprogbrug mv.
+•	Du skal identificere de juridiske problemer, opgaven drejer sig om, og finde de regler, der er relevante for en løsning af konflikten
 
----
+•	Du skal argumentere på en overbevisende måde
 
-![](img/as7.png)
+• Du skal argumentere for hvilke argumenter parterne kan fremføre
 
----
-
-### Henvisninger
+•	Du skal nå frem til det mest rigtige resultater
 
 ---
 
-![](img/As6.png)
+### Hvordan identificerer du de relevante juridiske problemer og de relevante juridiske regler?
 
+Det første du skal, når du skal løse en eksamensopgave, er at identificere de juridiske problemer og regler, opgaven giver anledning til. 
 
-## Besvarelsens indhold
+Det kræver en form for juridisk paratviden. Du kan ikke se de juridiske problemer i en sag, hvis ikke du har et eller andet basalt kendskab til de regler, der kan komme i spil. 
 
-### Generelt om besvarelsen og argumentationen
+Det er ikke det samme som, at du skal kunne alle regler minutiøst udenad. Nogle af dem kan du søge på i e-bogen via søgefunktionen. 
 
----
+Men du skal have et sådant basalt kendskab til området, at du kan se, hvilke juridiske hovedproblemer opgaven giver anledning til.
 
-![](img/as8.png)
+Derfor er det selvfølgelig særdeles vigtigt til skriftlig eksamen, at du som studerende kan det stof, du skal op i. 
 
----
-
-![](img/as9.png)
-
----
-
-#### Retsreglen sammenholdes med opgavens faktum og angivelser af (del-) konklusion/retsfølge 
+Jo bedre du kan det, jo mere er du i stand til at identificere de spørgsmål, opgaven giver anledning til, og de regler, der skal bruges for at besvare dem.
 
 ---
 
-![](img/as10.png)
+### Udarbejd tjeklister før eksamen
 
---- 
+Den bedste måde at forberede sig til den skriftlig eksamen, er at du dels sørger for at kunne sit stof godt, og dels ved herudover at bruge tjeklister. 
 
-### Sammenfatning
+Det vil sige lister, som du har lavet på forhånd, og som nævner alle de regler, man skal huske at kontrollere, hvis du får en sag/en opgave, der handler om et bestemt juridisk emne. 
+
+Hvis du f.eks. får en opgave i kaution, kan der stå på din tjekliste, at du skal huske at tjekke:
+
+•	Hvis der er flere kautionister
+
+•	Er det simpel- selvskyldner eller tabskaution
+
+•	Er kautionen begrænset
+
+•	Kautionsforpligtelsens indhold
+
+•	Bortfald eller ophør af kautionsforpligtelsen
+
+•	Kautionistens regresret mod skyldneren
+
+•	Indbyrdes regres mellem flere kautionister
+
+Etc., etc.
+
+Tjeklister må gerne være lange og grundige og detaljerede som du kan bruge i din besvarelse af opgaven og dine tjeklister kan du også bruge, når du skal ud og arbejde som finansøkonom.
+
+Nævn de retsregler, resultaterne udledes af, og lad være med selv at opfinde dem.
+
+Det er vigtigt, at du altid nævner de regler, du udleder resultater af. 
 
 ---
 
-![](img/as12.png)
+### Gode besvarelser skal virke logiske og klare og velstrukturerede.
+
+Behandl delproblemer hver for sig.
+
+Skriftlige juridiske eksamensopgaver – og de fleste konkrete sager i det virkelige liv – aktualiserer normalt en række underspørgsmål og delproblemer.
+
+I en eksamensopgave i erstatningsret uden for kontraktsforhold kan det f.eks. være et delproblem, om der er noget ansvarsgrundlag, et andet om der er adækvans, et tredje om skadelidtes interesse overhovedet er værnet.
+
+
+I en opgave om kaution kan et delproblem være, om der er indgået en gyldig kautionsaftale, et andet om hvilken kaution der er aftalt, et tredje om kautionistens regresret mod skyldneren, etc.
+
+Det er normalt udtryk for en god struktur, hvis du behandler de forskellige delproblemer hver for sig og på en måde, så det hele tiden er tydeligt for læseren, hvor i besvarelsen de forskellige delproblemer behandles. 
+
+Behandlingen af hvert delproblem kan evt. indledes med en sigende overskrift, f.eks. 
+
+»Er der indgået en gyldig kautionsaftale?«, 
+
+»Er de lovpligtige oplysninger givet til kautionisten fra banken?«,
+
+»Følgerne af manglende oplysninger om debitors økonomiske forhold« 
+
+etc.
+
+Hvert delproblem bør så vidt muligt behandles færdigt, før du går videre til det næste. 
+
+Stoffet bør ordnes i veldefinerede, velstrukturerede kasser.
+
+Løsningen af hvert delproblem bør afsluttes med en lille, men klar og tydelig konklusion, så læseren klart og tydeligt kan se, hvad løsningen på de enkelte delproblemer er.
+
+Til sidst i besvarelsen kommer der så en afsluttende hovedkonklusion, f.eks. at der er erstatningsansvar for en skade, eller at kautionsaftalen er ugyldig.
 
 ---
 
-![](img/as11.png)
+### Dine konklusioner skal være klare
+
+Konklusioner skal være klare og tydelige. Man må ikke være tvivl om, hvad det er, du når frem til.
+
+Ofte vil opgaverne angå uafklarede spørgsmål, sådan så det er juridisk tvivlsomt, hvad det rigtige resultat egentlig er. 
+
+Selv i den slags tilfælde bør man i eksamensbesvarelser nå frem til en klar konklusion: 
+
+Man forklarer, at spørgsmålet er tvivlsomt, men at det efter ens opfattelse er mest korrekt at antage det og det. 
+
+Det opleves som en form for sikkerhed, og sikkerhed betyder nu engang meget i alle eksamenssammenhænge.
+
+Det sker, at der i en opgavetekst mangler relevante oplysninger, sådan så du ikke som studerende sikkert kan konkludere, om noget forholder sig på den ene eller den anden måde. 
+
+Det er så meningen, at du skal »løse opgaven alternativt«, dvs. forklare, at hvis det forholder sig på den ene måde, fører det til ét bestemt resultat, hvorimod det, hvis det forholder sig på den anden måde, fører til et bestemt andet resultat.
+
+Det er sjældent, at eksamensopgaver lægger op til den slags alternative løsninger. 
+
+Normalt er de skrevet sådan, så der kun er én løsning, der er rigtig. 
+
+Men selv i opgaver, der lægger op til at skulle løses alternativt, skal de alternative løsninger angives klart og tydeligt og ende med klare konklusioner.
 
 ---
+
+### Kom frem til det væsentlige
+
+Når du argumenterer i skriftlige eksamensopgaver, er det vigtigt, at læseren dvs. eksaminator og censor oplever alt det, du skriver, som relevant og væsentligt. 
+
+Heri ligger blandt andet:
+
+•	Du bør fatte sig i rimelig korthed og nå frem til sagens kerne passende hurtigt
+
+•	Din analyse må ikke virke omstændelig og langtrukken
+
+•	Du må ikke dvæle ved uvæsentlige detaljer
+
+•	Det skal virke, som om du hurtigt kommer til sagen og skærer ind til benet
+
+•	Du bør bruge længst tid på det væsentlige og mindre tid på det mindre væsentlige. Det decideret uvæsentlige skal udelades.
+
+• Du skal huske at du er under et stort tidspres
+
+
+
+---
+
+### Hvordan skal man sondre mellem det væsentlige og det uvæsentlige?
+
+Det er selvfølgelig vigtigt, at det stof, du vælger at gå let hen over, rent faktisk er mindre væsentligt. 
+
+Det er derimod uheldigt, hvis de emner, du anser for uvæsentlige og derfor går let hen over, er nogle, som den, der skal rette ens besvarelse, anser for væsentlige og centrale. 
+
+Det er derfor vigtigt, at du kan sit stof godt nok til, at du er i stand til sikkert at vurdere, hvad der er væsentligt, hvad der er mindre væsentligt, og hvad der er uvæsentligt.
+
+Tit vil de opgaver, du får til eksamen, være formuleret på en måde, som inviterer én til at fokusere på nogle ganske bestemte, tvivlsomme juridiske problemstillinger. 
+
+De problemstillinger er så givetvis væsentlige, mens de problemstillinger, der ikke giver anledning til tvivl, ikke er det på samme måde.
+
+Typisk er opgaverne skruet sådan sammen, at du bliver stillet over for et hændelsesforløb og spurgt, hvad de juridiske konsekvenser er. 
+
+For at tage stilling til det er du så typisk nødt til at undersøge, om en række juridiske betingelser er opfyldt. 
+
+Nogle af betingelserne vil normalt klart være opfyldt, mens andre giver anledning til tvivl. 
+
+Blandt de tvivlsomme betingelser er der nogle, der giver anledning til stærk tvivl, og andre, der kun giver anledning til mere moderat tvivl.
+
+I den slags opgaver vil det typisk være et centralt og væsentligt spørgsmål, om de betingelser, der giver anledning til tvivl, er opfyldt. 
+
+Jo mere tvivl de forskellige kriterier giver anledning til, jo mere centrale er de.
+
+Derimod vil de betingelser, der klart er opfyldt, ikke være centrale på samme måde. 
+
+I nogle situationer vil de være meget lidt væsentlige eller direkte uvæsentlige.
+
+---
+
+### Undgå udførlig genfortælling af opgavens faktum
+
+Når du vil forklare andre mennesker om, hvordan du mener, et juridisk problem skal løses, er det selvfølgelig vigtigt, at de pågældende ved, hvad det pågældende problem går ud på. 
+
+Derfor er der mange studerende, der indleder deres besvarelse med at opsummere, hvad opgaven drejer sig om. 
+
+På samme måde er der mange, der opsummerer dele af opgavens faktum, når de behandler opgavens delproblemer.
+
+Censor og eksaminator, der skal rette dine besvarelser, har opgaven liggende foran sig og ved godt, hvad den handler om. 
+
+Eksaminator har udarbejdet eksamensopgaven og givet censor en rettevejledning til dennes brug for bedømmelsen.
+
+Udførlig genfortælling af, hvad der står i opgaven, er derfor ikke til nogen hjælp for os der skal bedømme dine besvarelser. 
+
+Derimod opleves udførlige referater let som uvæsentlige, overflødige omsvøb, der ikke bidrager positivt til bedømmelsen.
+
+Det er derfor vigtigt, at du nøjes med at gengive opgavens oplysninger kort og klart. 
+
+Langstrakt, udførlig genfortælling opleves derimod som uhensigtsmæssig systematik. 
+
+Det er tilstrækkeligt, at du kort og klart nævner, hvad de problemer, der skal løses, går ud på.
+
+---
+
+### Undgå udførlige diskussioner af irrelevante spørgsmål
+
+Decideret uvæsentlige spørgsmål skal overstås på en halv sætning eller helt udelades. 
+
+De må ikke behandles udførligt. 
+
+Det opleves som uhensigtsmæssig struktur og trækker ned, hvis en besvarelse bruger tid og plads på evident irrelevante spørgsmål.
+
+Undgå lange, omstændelige redegørelser for reglerne
+
+Når du i en eksamensbesvarelse analyserer et juridisk problem, skal du nævne de relevante regler, og henvise til de relevante retskilder.
+
+Ud over selve henvisningen, f.eks. til en lov eller e-bogen, skal du omtale reglerne og forklare, hvad de går ud på.
+
+Du skal i den forbindelse skrive ud fra det udgangspunkt, at den, der skal læse og rette besvarelsen, er en jurist, som allerede har kendskab til reglerne. 
+
+Det er derfor vigtigt, at ens omtale af reglerne er kort og klar. 
+
+Det, der skal omtales, er kun lige præcis de regler, der er relevante for løsningen af problemet. 
+
+Derimod ønskes der ikke brede, lærebogsagtige skildringer af retsområdet. 
+
+Der er ingen grund til at være langstrakt og omstændelig. 
+
+Det er bedre, at du skærer ind til benet og kommer til sagen, da du også er under tidspres med kun to timer til din besvarelse af de stillede opgaver.
+
+Det, vi måler, er din evne til at løse et juridisk problem på en klar og præcis og velstruktureret måde. 
+
+Redegør hellere kort og præcist for, hvad reglerne går ud på, som du vil anvende til løsningen af opgaven.
+
+---
+
+### Argumentationen bør være logisk og klar
+
+Det er vigtigt, at den argumentation, du har i din besvarelse, er af en god juridisk kvalitet. 
+
+Heri ligger ikke alene, at den skal inddrage de relevante retsregler og henvise til dem på den rigtige måde. 
+
+Det er også et krav, at selve argumentationen virker letforståelig og overbevisende. 
+
+Det stiller krav om, at du bruger et hensigtsmæssigt, klart sprog i besvarelsen. 
+
+Men det er ikke nok, at sproget er klart. 
+
+Selve argumentationen, de logiske slutninger, de juridiske ræsonnementer, skal være logiske og klare.
+
+•	Sørg for at det, du skriver, er klart og forståeligt
+
+•	Sæt dig i læserens sted. Alle argumenter, du kommer med, skal kunne forstås uden vanskelighed
+
+•	Der må ikke være logiske uklarheder i argumentationen. Den skal være klar og tydelig fra start til slut.
+
+---
+
+### Opsummering
+
+•	Gør gerne brug af tjeklister
+
+•	Hav en hensigtsmæssig struktur. Behandl de forskellige delproblemer hver for sig og følg dem til dørs med små klare konklusioner
+
+•	Kom til sagen og fokuser på det væsentlige
+
+•	Giv det mere væsentlige mere plads end det mindre væsentlige
+
+•	Undlad udførlig genfortælling af opgavens faktum
+
+•	Undlad udførlige, lærebogsagtige gengivelser af juridiske reglers indhold
+
+•	Undlad at diskutere irrelevante spørgsmål
+
+•	Tilstræb en logisk og klar og reel argumentation
+
+---
+
+![](img/eksamen2.png)
+

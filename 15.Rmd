@@ -1,7 +1,6 @@
 # Kautionsforhold
 
 ![](img/kau9.jpg)
-
 ---
 
 ***Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af sikkerhedsstillelse for gæld:***
@@ -40,12 +39,12 @@ Der er tre parter i kautionsforhold (Se figuren nedenfor):
   +	Kautionist
   
 ![](img/kau1.png)
-(KIlde; Trojka)
+(KIlde; Trojka) Fig. 15.1.
 
 ---
 
 ![](img/kau.png)
-(KIlde; Trojka)
+(KIlde; Trojka) fig. 15.2.
 
 ---
 
@@ -100,7 +99,7 @@ visNetwork(nodes, edges, width = "80%") %>%
 Kautionsaftale indgås mellem kreditor og med en eller flere kautionister.
 
 ![](img/kau4.png)
-(Kilde; Trojka)
+(Kilde; Trojka) fig. 15.3.
 
 ---
 
@@ -163,7 +162,7 @@ I vurderingen erhvervskaution eller privat kaution indgår følgendeparametre (S
 ---  
 
 ![](img/kau2.png)
-(Kilde; Trojka)
+(Kilde; Trojka) fig. 15.4.
 
 ---
 
@@ -475,7 +474,7 @@ Der findes forskellige former for hæftelse og kautioner, som vil blive beskreve
 ### Pro rata hæftelse
 
 ![](img/kau5.png)
-(Kilde; Trojka)
+(Kilde; Trojka) fig. 15.5.
 
 ---
 
@@ -544,7 +543,7 @@ Professionelle långivere som banker vil imidlertid normalt kræve, at en kautio
 ---
 
 ![](img/kau3.png)
-(Kilde; Trojka)
+(Kilde; Trojka) fig. 15.6
 
 ---
 
@@ -720,7 +719,7 @@ Når kautionisten har betalt kreditor det skyldige beløb, har kautionisten regr
 ## Regresret
 
 ![](img/kau6.png)
-(Kilde: Trojka)
+(Kilde: Trojka) fig. 15.7.
 
 ---
 
@@ -952,7 +951,7 @@ Der fremgår ikke noget af casen, der indikerer, at kautionen ikke skulle være 
 ## Tredjemandspant
 
 ![](img/kau7.png)
-(KIlde; Trojka)
+(KIlde; Trojka) fig. 15.8.
 
 ---
 
@@ -1008,7 +1007,7 @@ visNetwork(nodes, edges, width = "80%") %>%
 ## Garantistillelse
 
 ![](img/kau8.png)
-(Kilde; TRojka)
+(Kilde; TRojka) fig. 15.9.
 
 ---
 

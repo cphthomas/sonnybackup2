@@ -132,7 +132,7 @@ Begge dele sikres ved, at grundloven er mere vanskelig at ændre end andre love.
 Og sproget i mange af paragrafferne er ikke blevet moderniseret siden. 
 
 Derfor er der i dette hæfte nogle forklarende kommentarer til de enkelte paragraffer.
-<br>
+
 
 ## Magtadskillelseslæren i grundlovens § 3
 
@@ -145,9 +145,9 @@ Grundlovens § 3 har følgende ordlyd:
 ```{r magtenstredeling, echo=FALSE,fig.cap=("Magtens tredeling")}
 nodes <- data.frame(id = 1:3, shadow = FALSE,
                     shape = c("image"),
-                    image = c("https://jura.tepedu.dk/img/folketing.jpg",
-                    "https://jura.tepedu.dk/img/hojesteret.jpg",
-                    "https://jura.tepedu.dk/img/politi.jpeg"),
+                    image = c("https://jura.tepedu.dk/img/folketing.png",
+                    "https://jura.tepedu.dk/img/domstolene.png",
+                    "https://jura.tepedu.dk/img/politi.png"),
                     label = c("Lovgivende magt \n Folketinget/Dronningen",    "Dømmende magt \n Domstolene","Udøvende magt \n Regering/ministerier,\nforvaltningen\npolitiet m.fl."),
                     color = "red",
                     highlight = "yellow",
@@ -311,6 +311,8 @@ Ideer til nye love kommer primært fra regeringen, men kan også komme fra:
   
 Inden et lovforslag fremsættes i Folketingssalen, har det som regel været igennem en længere process i ministerierne.
 
+![](img/lov.jpg)
+
 ---
 
 **Video: Lovgivningsprocessen i praksis**
@@ -330,7 +332,8 @@ Inden et lovforslag fremsættes i Folketingssalen, har det som regel været igen
 
 Ud over at lovgive har Folketinget en anden og lige så vigtig rolle i demokratiet. Det er at kontrollere, om regeringen – den udøvende magt ‒ fører Folketingets love ud i livet, som de var tænkt, og om der sker magtmisbrug. Det kalder man parlamentarisk kontrol.
 
- 
+---
+
 ### Den kritiske opposition
 
 Parlamentarisk kontrol med regeringen er en meget vigtig opgave i Folketinget, hvor Folketinget kontrollerer, hvordan regeringen fører lovene ud i livet, og om regeringen fører en politik, der i hovedtræk bliver støttet af et flertal i Folketinget.
@@ -356,14 +359,14 @@ Oppositionen har en politisk fordel i at finde fejl og mangler ved en regering, 
 
 ### Udvalgsarbejdet i Folketinget
 
-<br>
+
 
 ![](img/udvalgsarbejde.jpg)
 
 Arbejdet i Folketinget foregår både i Folketingssalen og i Folketingets udvalg. 
 
 Udvalgene arbejder med hvert deres fagområde og behandler både lovgivning og den brede kontrol med regeringens arbejde.  
-<br>
+
 
 ## Regeringen den udøvende magt
 
@@ -375,6 +378,7 @@ Regeringen laver landets love, mens Folketinget vedtager dem.
 Ministrene er som regel også medlemmer af Folketinget, men det er ikke et krav. 
 
 
+---
 
 ### Sådan dannes en regering
 
@@ -388,7 +392,8 @@ Ministrene er som regel også medlemmer af Folketinget, men det er ikke et krav.
 Men i praksis er det et flertal i Folketinget, der er afgørende for, hvem der skal være statsminister. 
 
 Statsministeren sætter så sit ministerhold og danner sin regering.
-<br>
+
+---
 
 ### Statsministeren vælges og nedsætter sin regering
 
@@ -402,6 +407,7 @@ Når valget er slut og mandaterne fordelt, er det nye Folketing fundet.
 
 Så skal man i gang med at finde ud af, hvem der skal være statsminister og danne regering.
 
+---
 
 
 ### Negativ parlamentarisme
@@ -455,7 +461,7 @@ Når en ny regering tiltræder, vil de partier, der indgår i regeringen, sammen
 
 Et regeringsgrundlag er en slags politisk programerklæring, som signalerer, hvilken politik regeringen gerne vil gennemføre i den kommende regeringsperiode. 
 
-<br>
+
 Lovkataloget er et redskab for regeringen til at omsætte den overordnede politik til konkrete initiativer. 
 
 Regeringen forsøger at gøre de politiske mål til virkelighed via nye love. 
@@ -468,13 +474,15 @@ Den formelle baggrund for lovkataloget er, at der i grundlovens § 38 står besk
 
 Åbningsredegørelsen består både af en mundtlig og en skriftlig del. Den mundtlige del er åbningstalen, som statsministeren holder på åbningsdagen, mens den skriftlige del er lovkataloget.
 
+---
 
 ### Statsministeren
 
 
 ![](img/statsministeren.jpg)
 Statsministen er regeringens chef. Det er statsministeren, der bestemmer, hvem der skal være ministre, og hvilke ministerier der skal være.
-<br>
+
+---
 
 ### Statsministeren har stor magt
 
@@ -492,6 +500,7 @@ Statsministerposten er landets højeste ministerpost. En statsminister har en s�
 
 Statsministeren fører tilsyn med sine ministre og fordeler opgaver og fagområder imellem dem. 
 
+---
 
 ### Ministrene
 
@@ -514,6 +523,7 @@ Men statsministeren kan ændre ministrenes fagområder eller oprette nye ministe
 F.eks. blev der efter valget i november 2007 som noget nyt udnævnt en minister for klima og energi. 
 
 
+---
 
 ### Ministrenes opgaver
 
@@ -524,20 +534,29 @@ En ministers arbejde består bl.a. i at:
 
 
 *	forhandle indholdet af nye love på plads 
+
 *	svare på spørgsmål fra Folketinget, f.eks. fra Folketingets udvalg 
-*	svare på henvendelser fra borgere og organisationer m.fl. 
+
+*	svare på henvendelser fra borgere og organisationer m.fl.
+
 *	informere offentligheden om ministeriets arbejde, bl.a. i form af 
   hjemmesider, interviews og pressemeddelelser
+  
 *	træffe beslutninger i ministeriet og sørge for, at ministeriet 
   arbejder effektivt
+  
 *	samarbejde med internationale parter, herunder EU
+
 *	deltage i ugentlige ministermøder med resten af regeringens    
   ministre
+  
 *	deltage i statsrådsmøder og regeringens udvalg
+
 *	deltage i regeringsseminarer
 
 
 
+---
 
 
 
@@ -565,6 +584,7 @@ visNetwork(nodes, edges, height = "500px", width = "80%",avoidOverlap=2) %>%
 ```
 Uafhængige domstole er en grundlæggende del af magtens tredeling i et demokrati. Sådan er det også i Danmark. ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` siger nemlig, at domstolene alene har den dømmende magt.
 
+---
 
 ### Domstolenes opgaver
 
@@ -574,7 +594,9 @@ Uafhængige domstole er en grundlæggende del af magtens tredeling i et demokrat
 
 Domstolene er den dømmende magt i Danmark. De afgør, om personer har overtrådt landets love, og afgør uoverensstemmelser mellem to parter i civile sager.
 
-Alle har ret til en retfærdig rettergang. Det står i den europæiske menneskerettighedskonvention. Det betyder bl.a., at en retssag skal afgøres inden for en rimelig tidsperiode og ved en domstol, der er uafhængig og upartisk. 
+Alle har ret til en retfærdig rettergang. Det står i den europæiske menneskerettighedskonvention. 
+
+Det betyder bl.a., at en retssag skal afgøres inden for en rimelig tidsperiode og ved en domstol, der er uafhængig og upartisk. 
 
 Domstolenes uafhængighed er bestemt i den danske grundlov. ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` deler nemlig magten i tre for at forhindre magtmisbrug, jf. ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))``s § 3:
 
@@ -584,56 +606,51 @@ Domstolenes uafhængighed er bestemt i den danske grundlov. ``r tippy(indeks[1,1
 *	den dømmende magt (domstolene)
 
 
-Det er Folketinget, der vedtager Danmarks love. Regeringen regerer ud fra lovene. Men hverken Folketinget eller regeringen kan dømme på baggrund af de vedtagne love. 
+Det er Folketinget, der vedtager Danmarks love. 
 
-Kun domstolene kan afgøre, hvordan lovene skal fortolkes, og dømme ud fra dem. Dommerne må kun rette sig efter, hvad der står i loven og det forarbejde, der ligger til grund for den. De må ikke lade sig påvirke af Folketinget, regeringen, pressen eller andre, når de dømmer i en sag. 
+Regeringen regerer ud fra lovene. Men hverken Folketinget eller regeringen kan dømme på baggrund af de vedtagne love. 
 
+Kun domstolene kan afgøre, hvordan lovene skal fortolkes, og dømme ud fra dem. 
+
+Dommerne må kun rette sig efter, hvad der står i loven og det forarbejde, der ligger til grund for den. De må ikke lade sig påvirke af Folketinget, regeringen, pressen eller andre, når de dømmer i en sag. 
+
+---
 
 ### Byret, landsret og Højesteret
 
-<br>
+
 Domstolene i Danmark har 3 instanser: byret, landsret og Højesteret. Alle retssager begynder som udgangspunkt i en byret. 
 
 Almindelige borgere kan være med til at dømme i straffesager som domsmænd eller nævninge, afhængigt af sagens karakter. 
 
-<br>
+
 De almindelige domstole behandler civile sager og straffesager. 
 
 
 
-*	Civile sager er sager, som anlægges ved 
-  domstolene for at få afgjort en 
-  uenighed mellem 2 parter. Som eksempler på 
-  civile sager kan nævnes sager om 
-  mangler ved fast ejendom, opsigelse af en 
-  arbejdstager, boligretssager, 
-  ægteskabssager, faderskabssager og sager om 
-  adoption.
+*	Civile sager er sager, som anlægges ved domstolene for at få afgjort en 
+  uenighed mellem 2 parter. Som eksempler på civile sager kan nævnes sager om 
+  mangler ved fast ejendom, opsigelse af en arbejdstager, boligretssager, 
+  ægteskabssager, faderskabssager og sager om adoption.
 
-*	Straffesager er først og fremmest sager, hvor 
-  retten skal træffe beslutning, om en person 
-  skal straffes for en overtrædelse af loven. 
-  Afgørelser, der træffes i forbindelse med 
-  politiets efterforskning, er også straffesager. 
-  Det kan f.eks. være afgørelser om 
-  varetægtsfængsling, beslaglæggelse og 
-  ransagning.
+*	Straffesager er først og fremmest sager, hvor retten skal træffe beslutning, om en person 
+  skal straffes for en overtrædelse af loven. Afgørelser, der træffes i forbindelse med 
+  politiets efterforskning, er også straffesager. Det kan f.eks. være afgørelser om 
+  varetægtsfængsling, beslaglæggelse og ransagning.
 
-*	Byretterne behandler ligeledes skiftesager, 
-  foged- og auktionssager.
+*	Byretterne behandler ligeledes skiftesager, foged- og auktionssager.
 
-*	Tinglysning af dokumenter foregår ved 
-  Tinglysningsretten.
+*	Tinglysning af dokumenter foregår ved Tinglysningsretten.
 
-<br>
+
 
 Alle sager kan som udgangspunkt behandles ved 2 retsinstanser, f.eks. ved byret og landsret. Visse mindre sager kan dog normalt kun behandles ved én instans, byretterne, uden mulighed for appel til landsretten.
 
-<br>
+---
 
 ### Højesteret   
 
-<br>
+
 Danmark har én højesteret. Den ligger ved Christiansborg Slot i København. Højesteret er den øverste domstol i Danmark. Her afgøres f.eks. sager, der har betydning for, hvordan lignende sager skal afgøres, eller sager, der har særlig samfundsmæssig interesse. 
 
 Højesteret er en appeldomstol, som behandler domme og kendelser, der er afsagt af Østre Landsret, Vestre Landsret eller Sø- og Handelsretten. 
@@ -646,7 +663,9 @@ Ved Højesteret behandles også sager, som Procesbevillingsnævnet har tilladt i
 I straffesager kan Højesteret ikke tage stilling til skyldsspørgsmålet.
 
 Særlige forvaltnings- eller forfatningsdomstole anvender man i mange andre EU-lande. Det gør man ikke i Danmark. Her er det de almindelige domstole – i praksis Højesteret – der undersøger, om de afgørelser, myndighederne træffer, er lovlige, eller om en lov er i strid med ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))``.
-<br>
+
+
+---
 
 ### Landsretterne
 
@@ -675,6 +694,7 @@ I enkelte sager deltager personer, der er særligt sagkyndige på et specielt om
 
 Vestre og Østre Landsret er appelinstanser for byretterne.
 
+---
 
 ### Sø- og Handelsretten 
 
@@ -689,6 +709,7 @@ Sø- og Handelsretten behandler bl.a. sager, hvor kendskab til sø- og handelsfo
 
 Sø- og Handelsretten behandler også sager om konkurs, rekonstruktion og gældssanering m.v. fra hele Storkøbenhavn.
 
+---
 
 ### Den Særlige Klageret 
 
@@ -700,6 +721,7 @@ Den Særlige Klageret træffer afgørelser i disciplinære sager vedrørende dom
 
 Klageretten behandler derudover sager om genoptagelse af straffesager og udelukkelse af forsvarere fra straffesager.
 
+---
 
 ### Byretten
 
@@ -712,7 +734,7 @@ Danmark har 24 byretter. De er fordelt over hele landet. Byretten behandler som 
 *	tinglysningssager
 *	skiftesager 
 
-<br>
+---
 
 ### Byretterne
 
@@ -739,13 +761,7 @@ visNetwork(nodes, edges, width = "80%") %>%
 
 ```
 
-
-
-
-
-
-
-
+---
 
 Danmark er inddelt i 24 såkaldte byretskredse.
 Byretterne ledes af en byretspræsident.
@@ -755,9 +771,13 @@ Alle sager begynder som udgangspunkt i byretten.
 
 Byretterne kan i en række tilfælde henvise en civil sag til behandling ved landsretten. Det gælder f.eks., hvis sagen er af principiel betydning, eller sagen kan få væsentlig betydning for andre end parterne.
 
+---
+
 **Video: hvordan fungerer byretten?**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/vtR3p-7IItk" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
 
 **Video: en sag kommer på tværs**
 
@@ -768,6 +788,8 @@ Byretterne kan i en række tilfælde henvise en civil sag til behandling ved lan
 *Saglig kompetence: Hvilken ret/domstol skal behandle sagen?*
 
 *Stedlig kompetence: Værneting – Hvor i landet skal sagen anlægges?*
+
+---
 
 Hvis der ikke er lavet en værnetingsaftale mellem de stridende parter, skal en retssag som hovedregel anlægges ved sagsøgtes hjemting (bopæl/kendt opholdssted) 
 
@@ -823,57 +845,56 @@ kable(text_tbl,caption="Værneting") %>%
 ```
 
 
-
-
-
-
-
-  
-  
-
-
-
-
-
+---
 
 ### Processuelle grundbegreber
 
 *	Forhandlingsprincippet: Sagsøger og sagsøgte har selv ansvaret for sagens bevisførelse. Retten kan opfordre parterne til at føre et bestemt bevis, men parterne er ikke forpligtet til at følge rettens opfordring. 
-<br>
+
 *	Bevisumiddelbarhedsprincippet: Beviser skal føres umiddelbart foran dommeren. 
 *	Den frie bevisbedømmelse: Retten har frihed til på objektivt grundlag, at vurdere og afgøre, hvad der findes bevist under sagen, og hvilke beviser der vægter tungere end andre.
 *	Bevisbyrde: Den som påstår noget under en retssag, skal bevise at han eller hun har ret og har dermed bevisbyrden for sin påstand (kaldet en ”ligefrem bevisbyrde” som er hovedreglen i dansk ret).
-<br>
+
+---
 
 **Video: Retssikkerhed. Hvordan kan domstolene hjælpe mig?**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/eZt1GQQKJsg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-<br>
+
+
+---
 
 ### Civilretssagens forløb
+
 Parterne: Sagsøger og sagsøgte
+
 Sagens forberedelse:
+
 Stævning og svarskrift
 
 *	Evt. forberedende retsmøde
+
 *	Evt. syn og skøn
+
 *	Replik og duplik
+
 *	Hovedforhandling
- <br>
+
+---
  
 ### Småsagsprocessen
 
 *	Sager under 50.000 kr.
 *	Formål: Enklere, hurtigere og billigere
 
+---
 
 ### Udenretlig tvistløsningsorganer
+
 Klage- og ankenævn som der har betydning for den finansielle branche:
 
-*	Forbrugerklagenævn, 
-Det Finansielle Ankenævn (Sammenlægning pr. 1. februar 2019 af Pengeinstitutankenævnet, Realkreditankenævnet og Ankenævnet for investeringsfonde) 
-Ankenævnet for Forsikring, 
-Ankenævnet for Finansieringsselskaber og 
+*	Forbrugerklagenævn, Det Finansielle Ankenævn (Sammenlægning pr. 1. februar 2019 af Pengeinstitutankenævnet, Realkreditankenævnet og Ankenævnet for investeringsfonde) 
+Ankenævnet for Forsikring, Ankenævnet for Finansieringsselskaber og 
 Klagenævnet for Ejendomsformidling
 
 
@@ -913,6 +934,7 @@ Der foregår mediation i Nævnenes Hus før, at klagen kan indbringes for Forbru
 *Stk. 3. Undergrænserne for varer og tjenesteydelser som nævnt i stk. 1 reguleres hvert tredje år pr. 1. januar, første gang pr. 1. januar 2019, hvor undergrænsen er 1.050 kr., dog 680 kr. for tøj og sko. Reguleringen sker i overensstemmelse med den sats for det generelle pris- og lønindeks, som er fastsat i finansloven. Beløbene afrundes til nærmeste 10 kr. De til enhver tid gældende undergrænser for varer og tjenesteydelser fremgår af Nævnenes Hus’ hjemmeside, www.naevneneshus.dk.*
 
 
+---
 
 **Retsmægling ved domstolene**
 
@@ -963,6 +985,8 @@ Retsmæglerens bistand er gratis, men hver part skal betale salær til egen advo
 
 Retsmægling er ofte mindre tidskrævende og dermed også billigere for parterne end en retssag eller traditionel forligsmægling.
 
+---
+
 
 **Voldgift** 
 
@@ -971,82 +995,91 @@ Retsmægling er ofte mindre tidskrævende og dermed også billigere for parterne
 *	Dommere med særligt fagkundskab
 *	Sagen er ikke offentlig
 *	Ikke mulighed for anke til højere instans
-<br>
+
+---
 
 ### Tinglysningsretten
-<br>
+
 
 Tinglysningsretten, som ligger i Hobro, blev etableret den 1. januar 2007 med en præsident som øverste chef.
+
 Fra den 8. september 2009 er håndteringen af hele tinglysningsområdet samlet i Tinglysningsretten. Byretterne tinglyser altså ikke længere dokumenter.
-<br>
+
 Tinglysning er nu en digital proces, der foregår fra hjemmesiden www.tinglysning.dk.
-<br>
+
 Information og vejledning kan findes på www.tinglysningsretten.dk
-<br>
+
+
+---
 
 ### Procesbevillingsnævnet
-<br>
+
 
 Procesbevillingsnævnet blev oprettet pr. 1. januar 1996 med det formål at behandle ansøgninger om 2. og 3. instansbevillinger i civile sager og straffesager. Siden den 1. januar 2007 har Procesbevillingsnævnet endvidere haft til opgave at behandle klager over Civilstyrelsens afslag på ansøgninger om fri proces.
-<br>
+
+---
 
 #### Appeltilladelse
-<br>
+
 
 En appeltilladelse indebærer, at en sag, der ikke ellers ville kunne ankes eller kæres, kan indbringes for en højere retsinstans. Appeltilladelse forudsætter, at sagen rejser spørgsmål af principiel karakter, eller at særlige grunde taler for tilladelse. 
-<br>
+
+---
 
 #### Fri proces
-<br>
+
 
 Fri proces indebærer i grundtræk, at den pågældende får en advokat beskikket til at føre sagen, og at statskassen betaler sagens omkostninger, herunder retsafgifter, advokatsalær og eventuelle sagsomkostninger, som skal betales til modparten. 
 
-<br>
+
 Fri proces er især forbeholdt personer, som på den ene side ikke selv har økonomisk mulighed for at betale sagsomkostningerne, men som på den anden side har rimelig grund til at føre proces, navnlig fordi der er udsigt til at vinde sagen.
 
-<br>
+
 Procesbevillingsnævnets afdeling for appeltilladelser består af en højesteretsdommer (formand), en landsdommer, en byretsdommer, en advokat og et medlem, der repræsenterer retsvidenskaben.
 
 Nævnets afdeling for fri proces består af en landsdommer (afdelingsformand), en byretsdommer og en advokat.
 
-<br>
+
 Beslutningerne på nævnsmøderne træffes ved almindelig stemmeflerhed. Der afholdes i almindelighed møde i hver afdeling ugentligt, og sagerne udsendes ca. en uge før mødet. Hastesager kan dog udsendes med kortere varsel. Nævnsmøderne er ikke offentlige, og der er ikke mulighed for at få foretræde for nævnet.
 
-<br>
+
 I overensstemmelse med forarbejderne til lovgivningen om Procesbevillingsnævnets virksomhed begrundes nævnets afgørelser alene med en henvisning til indholdet af de bestemmelser, der giver hjemmel for meddelelse af bevilling.
 <br>
 Bevillingsmæssigt og administrativt hører Procesbevillingsnævnet under Domstolsstyrelsen, men Procesbevillingsnævnet er uafhængigt af domstolene og af den offentlige forvaltning. Man kan derfor ikke klage over nævnets afgørelser til justitsministeren eller til Folketingets Ombudsmand.
-<br>
+
+---
 
 ### Rigsretten
 
-<br>
+
 Rigsretten består af indtil 15 af Højesterets dommere og et tilsvarende antal medlemmer, som udpeges af Folketinget. Folketingsmedlemmer kan ikke udpeges til medlem af Rigsretten.
 
 Medlemmerne af Rigsretten vælges for 6 år. Der er udpeget medlemmer af Rigsretten i 1996.
- <br>
+ 
 Rigsretten har til opgave at påkende sager mod ministre vedrørende deres embedsførelse. Det er Folketinget, der beslutter, om der skal rejses tiltale mod en minister.
-<br>
+
 Folketinget har 5 gange rejst tiltale for Rigsretten. Den seneste sag var mod tidligere justitsminister Erik Ninn-Hansen. Der blev afsagt dom i sagen den 22. juni 1995.
-<br>
+
+---
 
 ### Dommerudnævnelsesrådet
-<br>
+
 Dommerudnævnelsesrådet er et uafhængigt råd, der har til opgave at afgive indstillinger til justitsministeren vedrørende besættelse af dommerstillinger.
-<br>
+
 Domstolsstyrelsen stiller sekretariat til rådighed for Dommerudnævnelsesrådet.
 
-<br>
 Dommerudnævnelsesrådet blev oprettet ved lov nr. 402 af 26. juni 1998 som et led i domstolsreformen, der bl.a. havde til formål at sikre en bredere rekruttering af dommere og større gennemsigtighed ved besættelse af dommerstillinger. Rådet har været i funktion siden den 1. juli 1999, da loven trådte i kraft.
-<br>
+
+
+---
 
 ### Domstolsstyrelsen 
-<br>
+
 Domstolsstyrelsen har til opgave at administrere og udvikle Danmarks Domstole.
 
 Domstolsstyrelsen blev oprettet som en ny, selvstændig statsinstitution den 1. juli 1999.
 Domstolsstyrelsen ledes af en bestyrelse og en direktør. Domstolsstyrelsen hører ressortmæssigt under Justitsministeriet, men justitsministeren kan ikke bestemme over styrelsen og kan ikke ændre styrelsens afgørelser.
-<br>
+
 Bestyrelsen er den øverste ledelse og har det overordnede ansvar for Domstolsstyrelsens virksomhed. Den daglige ledelse er lagt i hænderne på direktøren, som er ansat af og kan afskediges af bestyrelsen.
 
 Sammensætningen af Domstolsstyrelsens bestyrelse er fastsat i lov om Domstolsstyrelsen.
@@ -1093,4 +1126,4 @@ Den Europæiske Unions Domstol (EU-Domstolen) fortolker EU's lovgivning for at s
 
 I visse tilfælde kan den også anvendes af enkeltpersoner, virksomheder eller organisationer til at gribe ind over for en EU-institution, hvis de mener, den på den ene eller anden måde har tilsidesat deres rettigheder.
 
-
+---

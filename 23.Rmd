@@ -9,7 +9,7 @@
 ***Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af familieretten:***
 
 
-<img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+![](img/bog1.jpg)
 
 
 * **Relateres til rådgivning af privatkunder**  
@@ -1140,7 +1140,7 @@ Manden har en **nettoformue (bodel)** på 500.000 kr. og hustruen en på 1.300.0
 Den samlede formue er på 1.800.000 kr. og hver ægtefælles **boslod** udgør 900.000 kr. Manden må derfor aflevere 250.000 kr. til hustruen. Hustruen skal aflevere 650.000 til manden.
 
 ![](img/bodel2.png)
-(kilde; Trojka)
+(kilde; Trojka) Fig. 23.1.
 
 ---
 
@@ -1153,7 +1153,7 @@ Hvis kun den ene ægtefælles formue er positiv og den anden negativ, skal kun d
 Manden har en negativ formue på 500.000 kr., mens hustruen har en nettoformue (bodel) på 1.350.000 kr. Hustruen må afgive halvdelen af sin formue, altså 650.000 kr., til manden.
 
 ![](img/negativbodel.png)
-(kilde; Trojka)
+(kilde; Trojka) Fig. 23.2.
 
 ---
 

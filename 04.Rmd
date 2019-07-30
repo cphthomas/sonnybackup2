@@ -35,7 +35,7 @@
 
 ---
 
-<br>
+
 
 <script async src="https://widget.spreaker.com/widgets.js"></script>
 
@@ -646,11 +646,13 @@ Ugyldighed som kan ramme aftalen kan opstå pga:
 
 ---
 
-
-
 **Typer af mangler**
 
-<img src="img/typerafmangler.png" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+![](img/mangler.png)
+
+
+
+
 (Kilde; Trojka)
 
 
@@ -707,6 +709,7 @@ De *stærke ugyldighedsgrunde* omfatter følgende grunde:
   (Værgemålsloven)
 
 
+---
 
 ##### De svage ugyldighedsgrunde
 

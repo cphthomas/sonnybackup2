@@ -20,7 +20,7 @@ Et gaveløfte betyder, at man skal give den lovede gave, som fx kan være en tin
 ---
 
 ![](img/ford1.png)
-(Kilde; Trojka)
+(Kilde; Trojka) fig. 16.1.
 
 ---
 
@@ -244,7 +244,7 @@ En betalingstransaktion med kort går gennem betalingsmodtagers bank og korthold
 ---
 
 ![](img/ford2.png)
- (Kilde; Trojka)
+ (Kilde; Trojka) Fig. 16.2.
  
 ---
 
@@ -316,7 +316,7 @@ Kortholder burde have indset risikoen for misbrug
 ---
  
 ![](img/ford3.png)
-(Kilde; Trojka)
+(Kilde; Trojka) fig. 16.3.
 
 ---
 
@@ -530,7 +530,7 @@ visNetwork(nodes, edges, height = "500px", width = "80%",avoidOverlap=2) %>%
 ---
 
 ![](img/pant.png)
-(Kilde; Trojka)
+(Kilde; Trojka) fig. 16.4.
 
 ---
 
@@ -1014,7 +1014,7 @@ Skyldner kan gøre alle indsigelser gældende overfor oprindelig kreditor, jf. G
 ---
 
 ![](img/over1.png)
-(Kilde; Trojka)
+(Kilde; Trojka) fig. 16.5.
 
 ---
 
@@ -1041,7 +1041,7 @@ Skyldnerens indsigelsen over for kreditor kan betyde, at skyldner skal betale mi
 ### Forholdet mellem overdrager og erhverver
 
 ![](img/over2.png)
-(Kilde; Trojka)
+(Kilde; Trojka) fig. 16.6
 
 ---
 
@@ -1104,7 +1104,7 @@ Fx kan købekontrakt med gyldigt ejendomsforbehold sælges til en anden kreditor
 ---
 
 ![](img/over3.png)
-(Kilde; Trojka)
+(Kilde; Trojka) fig. 16.7.
 
 ---
 
@@ -1238,7 +1238,7 @@ Overdragelse af fordringer kan ske til eje eller pant
 ---
 
 ![](img/over6.png)
-(Kilde; Trojka)
+(Kilde; Trojka) fig. 16.8.
 
 ---
 
@@ -1279,7 +1279,7 @@ Aftalen kan enten gå ud på, at factoringselskabet yder virksomheden et lån me
 ---
 
 ![](img/over7.png)
-(Kilde; Trojka)
+(Kilde; Trojka) fig. 16.9.
 
 ---
 
@@ -1354,7 +1354,7 @@ Betaling til erhverver er med frigørende virkning medmindre der er en stærk ug
 ---
 
 ![](img/over8.png)
-(Kilde; Trojka)
+(Kilde; Trojka) fig. 16.10.
 
 ---
 
@@ -1403,7 +1403,7 @@ Skyldner kan gøre samme indsigelser gældende overfor erhverver, som han eller 
 
 ![](img/over9.png)
 
-(Kilde; Trojka)
+(Kilde; Trojka) fig. 16.11.
 
 ---
 
@@ -1465,7 +1465,7 @@ obligationsretlige grundsætning i GBL § 27.
 
 ---
 ![](img/over10.png)
-(Kilde; Trojka)
+(Kilde; Trojka) fig. 16.12.
 
 
 
@@ -1500,7 +1500,7 @@ edges <- data.frame(from = c(1,2,3), to = c(2,3,4),
 **Dobbeltoverdragelse**:
 
 ![](img/over12.png)
-(Kilde; Trojka)
+(Kilde; Trojka) fig. 16.13.
 
 ---
 
