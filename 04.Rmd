@@ -66,14 +66,17 @@ nodes <- data.frame(id = 1:7,
                     shape = c("box"), 
                     label = c(" Aftalelov "," Forsikringsaftalelov "," Kreditaftalelov "," Forbrugeraftalelov "," Aftale om pant "," Købelov "," Kautionsaftale "),
                     font.size = c(50,25,25,25,25,25,25))
-edges <- data.frame(from = c(1,1,1,1,1,1), to = c(2,3,4,5,6,7),arrows = c("to"),length = rep(20,6))
+edges <- data.frame(from = c(1,1,1,1,1,1), to = c(2,3,4,5,6,7),arrows = c("to"),length = rep(40,6))
 
-visNetwork(nodes, edges,  width = "60%") %>% 
+visNetwork(nodes, edges,  width = "100%") %>% 
+  visInteraction(dragNodes = TRUE, 
+                 dragView = TRUE, 
+                 zoomView = FALSE) %>%
   visNodes(color = list(background = "white", 
                         border = "white",
                         highlight = "yellow"),
            shadow = list(enabled = TRUE, size = 30))  %>%
-  visHierarchicalLayout(direction = "LR",levelSeparation = 400) %>%
+  visHierarchicalLayout(direction = "LR",levelSeparation = 500) %>%
 visEdges(color = list(color = "lightgrey", highlight = "yellow") )
   # visLayout(randomSeed = 24) # to have always the same network
 
@@ -157,22 +160,24 @@ En kontrakt er skriftlig og kan påberåbes ved domstolene.
 ```{r gensidigtloefte, echo=FALSE, result=TRUE,fig.cap=("Gensidigt løfte")}
 
 
-nodes <- data.frame(id = 1:2, shape = c("box"),label = c(" Sælger "," Køber "),font.size = c(20,20))
+nodes <- data.frame(id = 1:2, shape = c("box"),label = c(" Sælger "," Køber "),font.size = c(30,30))
 edges <- data.frame(from = c(1), 
                     to = c(2),
                     arrows = c("to","from"),
-                    length = c(300,100),
+                    length = c(600,500),
                     label=c("Varer/Ydelser","Penge/modydelse"),
                     font.size = c(15,15),
-                    smooth = TRUE
+                    smooth = c(TRUE,TRUE)
                     )
 
-visNetwork(nodes, edges,  width = "60%") %>% 
+visNetwork(nodes, edges,  width = "100%") %>% 
+  visInteraction(dragNodes = TRUE, 
+                 dragView = TRUE, 
+                 zoomView = FALSE) %>%
   visNodes(color = list(background = "white", 
                         border = "white",
                         highlight = "yellow"),
            shadow = list(enabled = TRUE, size = 30))  %>%
-  visHierarchicalLayout(direction = "LR",levelSeparation = 400) %>%
 visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 ```
 
@@ -182,7 +187,7 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 
 ```{r faicon2, echo=FALSE, result=TRUE,fig.cap=("Ensidigt løfte")}
 
-nodes <- data.frame(id = 1:2, shape = c("box"),label = c(" Testator "," Arving "),font.size = c(20,20))
+nodes <- data.frame(id = 1:2, shape = c("box"),label = c(" Testator "," Arving "),font.size = c(30,30))
 edges <- data.frame(from = c(1), 
                     to = c(2),
                     arrows = c("to"),
@@ -191,13 +196,15 @@ edges <- data.frame(from = c(1),
                     label=c(" ARV "),
                     smooth = TRUE
                     )
- visNetwork(nodes, edges,  width = "60%") %>% 
+ visNetwork(nodes, edges,  width = "100%") %>% 
+   visInteraction(dragNodes = TRUE, 
+                 dragView = TRUE, 
+                 zoomView = FALSE) %>%
   visNodes(color = list(background = "white", 
                         border = "white",
                         highlight = "yellow"),
            shadow = list(enabled = TRUE, size = 30))  %>%
-  visHierarchicalLayout(direction = "LR",levelSeparation = 400) %>%
-visEdges(color = list(color = "lightgrey", highlight = "yellow") )
+  visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 ```
 
 
@@ -324,7 +331,10 @@ edges <- data.frame(from = c(1),
                     label=c("1. Sælger sender tilbud til køber","2. Køber sender accept/ordre"),
                     smooth = TRUE
                     )
-  visNetwork(nodes, edges,  width = "60%") %>% 
+  visNetwork(nodes, edges,  width = "100%") %>% 
+    visInteraction(dragNodes = TRUE, 
+                 dragView = TRUE, 
+                 zoomView = FALSE) %>%
   visNodes(color = list(background = "white", 
                         border = "white",
                         highlight = "yellow"),
@@ -346,7 +356,10 @@ edges <- data.frame(from = c(1),
                     label=c("2. Sælger sender \n accept/ordrebekræftelse","1. Køber sender købstilbud/ordre"),
                     smooth = TRUE
                     )
- visNetwork(nodes, edges,  width = "60%") %>% 
+ visNetwork(nodes, edges,  width = "100%") %>% 
+   visInteraction(dragNodes = TRUE, 
+                 dragView = TRUE, 
+                 zoomView = FALSE) %>%
   visNodes(color = list(background = "white", 
                         border = "white",
                         highlight = "yellow"),

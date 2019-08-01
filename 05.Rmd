@@ -87,7 +87,10 @@ edges <- data.frame(from = c(1,2,3),
                     length = c(300,300,200)
                     )
 
-visNetwork(nodes, edges, width = "80%",avoidOverlap=2) %>% 
+visNetwork(nodes, edges, width = "100%",avoidOverlap=2) %>% 
+  visInteraction(dragNodes = TRUE, 
+                 dragView = TRUE, 
+                 zoomView = FALSE) %>%
   visNodes(color = list(background = "white", 
                         border = "white",
                         highlight = "yellow"),
