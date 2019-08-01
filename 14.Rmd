@@ -30,14 +30,14 @@
 ***Introduktion til kreditaftaleloven*** 
 
 
-**Forskellen på et almindelig banklån og et kreditkøb**:
+**Forskellen på et banklån og et kreditkøb**:
 
 
 <!-- ![](img/alm.png) -->
-<!-- (Kilde; Trojka) Figur 14.1. -->
+<!-- Figur 14.1. -->
 
 **Banklån**
-```{r almbank, echo=FALSE, result=TRUE,fig.cap=("Almindeligt banklån, kreditaftale om et lån indgået mellem en bank og en kunde")}
+```{r almbank, echo=FALSE, result=TRUE,fig.cap=("Banklån er en kreditaftale om et lån indgået mellem en bank og en kunde")}
 
 nodes <- data.frame(id = 1:2, shape = c("box"),label = c("Bank"," Kunde"),font.size = c(25,25))
 edges <- data.frame(from = c(1,2), 
@@ -159,7 +159,9 @@ Kreditaftalen skal indgås på varigt medie og opfylde tilsvarende oplysningskra
 **Opfylder kreditgiver ikke oplysningspligten**:
 
 +	Skal forbrugeren evt. betale færre omkostninger
+
 +	Løber fortrydelsesretten først fra oplysningspligten er opfyldt
+
 +	Kreditgiver kan blive pålagt en bøde
 
 ---

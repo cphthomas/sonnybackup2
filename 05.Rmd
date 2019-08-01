@@ -4,6 +4,36 @@
 
 <script async src="https://widget.spreaker.com/widgets.js"></script>
 
+**Hvad er en fuldmagt?**
+
+Fuldmagt er i dansk ret en tilladelse fra en person (fuldmagtsgiveren) om at lade en anden (fuldmægtigen) handle på sine vegne overfor andre (tredjepart). 
+
+De danske regler for anvendelse af fuldmagt findes i aftalelovens kapitel II.
+
+---
+
+***Former for fuldmagter**
+
+Stillingsfuldmagt §10,2 i Aftaleloven Fx læger, kassedamer og banksassistenter.
+
+Forevisningsfuldmagt §16,1 i Aftaleloven fx et stykke papir der giver lov til at købe/sælge i fuldmagtsgivers navn.
+
+Specialfuldmagt §13 Aftaleloven, når 3.mand kender FM´s (Fuldmagtsgiveren) omfang. Fx må lærere indkøbe bøger el. salgsassistent bestiller varer
+
+Offentlig bekendtgjort FM (Fuldmagtsgiveren) § 14,1 Aftaleloven Fx hvis der afholdes reception.
+
+---
+
+**Opsigelse af fuldmagt kan ske ved følgende:**
+
+* Fuldmagten opsiges/fratræde
+
+* Rent fysisk tages tilbage
+
+* Tilbagekalde for 3. mand
+
+* Tilbagetrækkes som den blev bekendt gjort.
+
 ---
 
 **Video: Aftaler via fuldmagt**
@@ -16,18 +46,24 @@
 
 ---
 
-<img src="img/fuldmagt1.jpeg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/fuldmagt1.jpeg" align="left" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
-* **Fuldmagt** (er reguleret af aftaleloven: Lovbekendtgørelse nr. 193 af 2. marts 2016 om aftaler og andre retshandler på formuerettens område) 
+**Fuldmagt** (er således reguleret af aftaleloven: Lovbekendtgørelse nr. 193 af 2. marts 2016 om aftaler og andre retshandler på formuerettens område).
 
-+ *Fuldmagt med særlig tilværelse*
+De inddeles på følgende måde:
+
+*Fuldmagt med særlig tilværelse*
   
-+ *Fuldmagt uden særlig tilværelse*
+*Fuldmagt uden særlig tilværelse*
+
+---
+
+Derudover findes der regler om mellemmænd:
   
-* *Kommission* (Kommisionsloven Lovbekendtgørelse nr. 332 af 31. marts 2014) 
+*Kommission* (Kommisionsloven Lovbekendtgørelse nr. 332 af 31. marts 2014) 
   
-* *Handelsagenter* (Lov nr. 272 af 2. maj 1990 om handelsagenter og handelsrejsende)
+*Handelsagenter* (Lov nr. 272 af 2. maj 1990 om handelsagenter og handelsrejsende)
 
 
 ---
@@ -85,7 +121,7 @@ Aftalelovens bestemmelser indeholder ikke nogen udtømmende opregning af de måd
 
 Anden optræden eller adfærd fra hovedmandens side end en viljeserklæring kan skabe fuldmagt, f.eks. overgivelse af dokumenter eller ved passivitet.
 
-
+---
 
 En fuldmagt skabt ved passivitet kaldes ofte **adfærdsfuldmagt**. 
 
@@ -93,7 +129,9 @@ Adfærdsfuldmagt foreligger også, når hovedmanden i et tidsrum har tolereret, 
 
 En aftale kan i nogle tilfælde rammes af ugyldighed, hvis der er handlet i strid med en fuldmagt.
 
-### Sondringen mellem bemyndigelse og legitimation
+---
+
+## Sondringen mellem bemyndigelse og legitimation
 
 
 Aftaleloven sondrer mellem på den ene side **»legitimation«** og på den anden side **»beføjelse«**. 
@@ -133,29 +171,38 @@ Ved **»beføjelse«** (**bemyndigelse**) den ret eller tilladelse, fuldmægtige
 Der findes to fuldmagtsformer
 
 1. Fuldmagt med særlig ttilværelse
+
 2. Fuldmagt med uden særlig tilværelse
 
-* **Fuldmagt med særlig tilværelse:**
+---
 
-  + Stillingsfuldmagt, jf. aftalelovens § 10, stk. 2
-  + Specialfuldmagt, jf. aftalelovens § 13
-  + Offentlig bekendtgjort fuldmagt, jf. aftalelovens § 14, stk. 1
-  + Skriftlig fuldmagt/forevisningsfuldmagt, jf. aftalelovens § 16, stk. 1
+**Fuldmagt med særlig tilværelse:**
+
++ Stillingsfuldmagt, jf. aftalelovens § 10, stk. 2
+
++ Specialfuldmagt, jf. aftalelovens § 13
+
++ Offentlig bekendtgjort fuldmagt, jf. aftalelovens § 14, stk. 1
+
++ Skriftlig fuldmagt/forevisningsfuldmagt, jf. aftalelovens § 16, stk. 1
 
 ### Fuldmagt uden særlig tilværelse
 
 
 
-* Kaldes også **§ 18-fuldmagt**
+Kaldes også **§ 18-fuldmagt**
+
+---
 
 
 ![](img/hvad_er_fuldmagt.png)
 
-  
 
-### Fuldmagt med særlig tilværelse
+---  
 
-#### Stillingsfuldmagt, jf. aftalelovens § 10, stk. 2:
+## Fuldmagt med særlig tilværelse
+
+### Stillingsfuldmagt, jf. aftalelovens § 10, stk. 2:
 
 > *”Indtager nogen ifølge aftale med en anden en stilling, som efter lov eller sædvane medfører beføjelse for ham til indenfor visse grænser at handle på den andens vegne, anses han befuldmægtiget til at foretage retshandler, som falder indenfor disse grænser”.* 
 
@@ -239,7 +286,7 @@ De vigtigste momenter i vurderingen af, om og i hvilket omfang arbejdsgiveren ka
 
 ---    
 
-#### Specialfuldmagt, jf. aftalelovens § 13:  
+### Specialfuldmagt, jf. aftalelovens § 13:  
 
 ”En fuldmagt, som er bragt til tredjemands kundskab ved en til ham særskilt rettet erklæring fra fuldmagtsgiveren, er tilbagekaldt, når særskilt erklæring om, at fuldmagten ikke længere skal gælde, er kommet frem til tredjemand”
 
@@ -261,7 +308,7 @@ De vigtigste momenter i vurderingen af, om og i hvilket omfang arbejdsgiveren ka
  
 ---
 
-#### Offentlig bekendtgjort fuldmagt, jf. aftalelovens § 14:
+### Offentlig bekendtgjort fuldmagt, jf. aftalelovens § 14:
 
 
 Bestemmelsen har følgende ordlyd:
@@ -276,37 +323,39 @@ Bestemmelsen har følgende ordlyd:
 
 
 
-#### Skriftlig fuldmagt/forevisningsfuldmagt, jf. aftalelovens § 16:
+### Skriftlig fuldmagt/forevisningsfuldmagt, jf. aftalelovens § 16:
 
 *”En skriftlig fuldmagt, som er overgivet fuldmægtigen, og som må anses bestemt til at være i hans besiddelse og at forevises for tredjemand, tilbagekaldes derved, at den på fuldmagtsgiverens forlangende tilbagegives ham eller tilintetgøres*.
 
 *Stk. 2. Fuldmægtigen er pligtig til på forlangende at give fuldmagten tilbage til fuldmagtsgiveren”*.
 
 
-* En skriftlig fuldmagt, der er beregnet til forevisning for andre – fx ”hent min pakke- fuldmagt”, generalfuldmagt.
+En skriftlig fuldmagt, der er beregnet til forevisning for andre – fx ”hent min pakke- fuldmagt”, generalfuldmagt.
 
-* Ophører når fuldmagten tilbagegives til fuldmagtsgiver eller fuldmagten tilintetgøres.
+Ophører når fuldmagten tilbagegives til fuldmagtsgiver eller fuldmagten tilintetgøres.
  
 
- 
+---
+
 ## Fuldmagt uden særlig tilværelse, jf. aftalelovens § 18
 
-* Denne type fuldmagt er kendetegnet ved, at den ikke er kendt eller synlig for omverdenen.
+Denne type fuldmagt er kendetegnet ved, at den ikke er kendt eller synlig for omverdenen.
 
-* Kaldes også for en aftalelovens § 18-fuldmagt:
+Kaldes også for en aftalelovens § 18-fuldmagt:
 
 *”En fuldmagt, der alene hviler på fuldmagtsgiverens erklæring til fuldmægtigen, er tilbagekaldt, når erklæringen om, at fuldmagten ikke længere skal gælde, er kommet frem til fuldmægtigen”*.
 
-* Fuldmagten/instruksen gives ofte mundtligt, men kan også gives skriftligt.
+Fuldmagten/instruksen gives ofte mundtligt, men kan også gives skriftligt.
 
-* Der sondres ikke mellem bemyndigelse og legitimation, da fuldmagtens omfang og bemyndigelsen er sammenfaldende.
+Der sondres ikke mellem bemyndigelse og legitimation, da fuldmagtens omfang og bemyndigelsen er sammenfaldende.
  
+Aftaler i strid med fuldmagten: 
 
-* Aftaler i strid med fuldmagten: Fuldmagtsgiver er ikke bundet af aftaler som fuldmægtigen indgår i strid med en § 18-fuldmagt, uanset om tredjemand var i god tro, jf. aftalelovens § 11, stk. 2.
+Fuldmagtsgiver er ikke bundet af aftaler som fuldmægtigen indgår i strid med en § 18-fuldmagt, uanset om tredjemand var i god tro, jf. aftalelovens § 11, stk. 2.
 
-* Tilbagekaldelse af fuldmagten kan ske på samme måde som den er givet.
+Tilbagekaldelse af fuldmagten kan ske på samme måde som den er givet.
 
-* En tilbagekaldelse får virkning når den er kommet frem – behøver ikke at komme til kundskab.
+En tilbagekaldelse får virkning når den er kommet frem – behøver ikke at komme til kundskab.
 
 ---
 
@@ -318,7 +367,7 @@ Bestemmelsen har følgende ordlyd:
 
 ---
 
-### Aftalelovens § 25 – erstatning til tredjemand:
+## Aftalelovens § 25 – erstatning til tredjemand:
 
 
 Bestemmelsen har følgende ordlyd:
@@ -345,17 +394,17 @@ Aftalelovens § 25 – erstatning til tredjemand (fortsat):
 
 **HR:** Hvis fuldmægtigen ikke havde den fornødne fuldmagt til at handle, og aftalen derfor falder til jorden, kan tredjemand forlange erstatning hos fuldmægtigen, hvis han lider et økonomisk tab.
 
-* **U1:** Erstatning kan ikke komme på tale, hvis tredjemand vidste eller burde vide, at fuldmægtigen ikke havde den fornødne fuldmagt.
+**U1:** Erstatning kan ikke komme på tale, hvis tredjemand vidste eller burde vide, at fuldmægtigen ikke havde den fornødne fuldmagt.
 
-* **U2:** Erstatning kan ikke komme på tale, hvis fuldmægtigen indgår aftaler, og ikke ved at fuldmagten i mellemtiden er blevet tilbagekaldt.
+**U2:** Erstatning kan ikke komme på tale, hvis fuldmægtigen indgår aftaler, og ikke ved at fuldmagten i mellemtiden er blevet tilbagekaldt.
 
 ---
 
-Fuldmægtigen indestår for, at han har den fornødne fuldmagt til at foretage den retshandel, han foretager (f.eks. afgivelse af tilbud eller accept af et banklån). 
+Fuldmægtigen indestår for, at denne har den fornødne fuldmagt til at foretage den retshandel, han foretager (f.eks. afgivelse af tilbud eller accept af et banklån). 
 
 Fuldmægtigen indestår efter alm regler ikke for, at fuldmagtsgiveren opfylder kontrakten, medmindre medkontrahenten har føje til at tro, at fuldmægtigen garanterer herfor. 
 
-Fuldmægtigen kan blive ansvarlig over for medkontrahenten, hvis han undlader at give medkontrahenten meddelelser, fortier fuldmagtsgiverens insolvens for ham eller i øvrigt anvender svig.
+Fuldmægtigen kan blive ansvarlig over for medkontrahenten, hvis fuldmægtigen undlader at give medkontrahenten meddelelser, fortier fuldmagtsgiverens insolvens for medkontrahenten eller i øvrigt anvender svig.
 
 Fuldmægtigen er altså i almindelighed ubetinget erstatningsansvarlig (objektivt ansvarlig), hvis det viser sig, at fuldmagten ikke var i orden. 
 
@@ -369,8 +418,6 @@ Aftalelovens § 25 indebærer, at tredjemand ikke selv behøver at undersøge fu
 
 **Video: Erstatning efter aftalelovens § 25**
 
-
-
 <div class="video-container"><iframe src="https://www.youtube.com/embed/pg3C6fbVoTs" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
@@ -378,7 +425,7 @@ Aftalelovens § 25 indebærer, at tredjemand ikke selv behøver at undersøge fu
 
 
 <img src="img/mj-s-71657-unsplash.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-<br>
+
 
 ---
 
@@ -399,7 +446,7 @@ Hvis den opgivne fuldmagtgiver er kommet under konkurs, følger det af det anfø
 
 ---
 
-### Eksamensopgave og løsning om fuldmagt/mellemmandsaftaler og ansættelsesret
+**Eksamensopgave og løsning om fuldmagt/mellemmandsaftaler og ansættelsesret**
 
 
 ***Eksamensopgave - Fix og Hjem***  
@@ -438,11 +485,17 @@ Men i august 2014 er den gal igen. Karina har endnu mere fravær og er blevet en
 
 Sanne blev ansat som ansvarlig for afdelingens lager den 1. marts 2011. 
 
-Hun er rigtig god til sit job og har ikke fravær og går ikke altid til tiden. Hendes beføjelser drejer sig om at styre lageret – altså hvor varerne skal være og sikre, at der gives besked til indkøbsafdelingen, hvis en vare er ved at være udsolgt.
- 
-Sanne bor sammen med Torben. Hendes svigerforældre har inviteret hende og Torben 1 uge til Paris i den sidste uge af juni. Det er hun meget glad for, da det altid har været en af hendes drømme at komme til Paris. 
+Hun er rigtig god til sit job og har ikke fravær og går ikke altid til tiden. 
 
-Sanne spørger Kim om at få ferie i den uge. Kim bliver helt ude af den, da det er den uge, de kører et stort tema om haven, og de har en masse gode tilbud. Af erfaring ved Kim, at der er meget travlt.
+Hendes beføjelser drejer sig om at styre lageret – altså hvor varerne skal være og sikre, at der gives besked til indkøbsafdelingen, hvis en vare er ved at være udsolgt.
+ 
+Sanne bor sammen med Torben. Hendes svigerforældre har inviteret hende og Torben 1 uge til Paris i den sidste uge af juni. 
+
+Det er hun meget glad for, da det altid har været en af hendes drømme at komme til Paris. 
+
+Sanne spørger Kim om at få ferie i den uge. Kim bliver helt ude af den, da det er den uge, de kører et stort tema om haven, og de har en masse gode tilbud. 
+
+Af erfaring ved Kim, at der er meget travlt.
 
 **Eksamensspørgsmålene:**
 
@@ -456,11 +509,12 @@ Sanne spørger Kim om at få ferie i den uge. Kim bliver helt ude af den, da det
 
 **Vejledende løsning fyld gerne selv på**:
 
-1.	Er Fix og Hjem bundet af de aftaler som Kim har indgået med Andreas? Rabatten er Fix & Hjem bundet af, da inden for stillingsfuldmagten, men udenfor bemyndigelsen, men Andreas i god tro. De 5 havebassiner er måske også indenfor stillingsfuldmagten, men udenfor bemyndigelsen, og spørgsmålet er om Andreas er i god eller ond tro. Næppe OK.
-<br>
+1. Er Fix og Hjem bundet af de aftaler som Kim har indgået med Andreas? Rabatten er Fix & Hjem bundet af, da inden for stillingsfuldmagten, men udenfor bemyndigelsen, men Andreas i god tro. De 5 havebassiner er måske også indenfor stillingsfuldmagten, men udenfor bemyndigelsen, og spørgsmålet er om Andreas er i god eller ond tro. Næppe OK.
+
+---
 
 2.	Hvilke muligheder har Fix og Hjem for at opsige Karina? Sygdom er jo lovligt forfald, men er de utilfredse med hende, bør hun have skriftlig advarsel, og hvis forholdene ikke forbedres, kan hun afskediges senere. Hvis hun afskediges nu, er hun formentligt berettiget til funktionærlovens § 2b-godtgørelse + 3 mdrs. opsigelsesvarsel. 
-<br>
+---
 
 3.	Har Sanne krav på at holde ferie så hun kan komme til Paris? Det kommer an på, hvornår hun spørger om at få fri. Ferien ligger jo i hovedferien og det skal normalt varsles af medarbejderen med mindst 3 ugers varsel (som jeg husker det) og gør hun det, har hun krav på at komme afsted. I øvrigt dårlig stil at nægte hende at tage af sted pga. travlhed, da det jo egt. ikke er hendes problem.
 

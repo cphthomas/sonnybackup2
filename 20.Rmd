@@ -26,11 +26,11 @@ Den aftale eller retsforfølgning, der skal kunne fortrænge en utinglyst ret, s
 
 ---
 
-*	**Arv** – her er en arving hverken at betragte som en aftaleerhverver eller som en retsforfølgende kreditor.
+**Arv** – her er en arving hverken at betragte som en aftaleerhverver eller som en retsforfølgende kreditor.
 
 ---
 
-*	**Lovbestemt pant** er fx SKATs førsteprioritet til ejendomsskat, som ikke skal tinglyses, jf. TL § 4: 
+**Lovbestemt pant** er fx SKATs førsteprioritet til ejendomsskat, som ikke skal tinglyses, jf. TL § 4: 
 
 ”De på fast ejendom hvilende skatter og afgifter til stat og kommune samt forsikringsbidrag til de af staten anerkendte brandforsikringsselskaber har gyldighed mod enhver uden tinglysning”. 
 
@@ -123,16 +123,19 @@ I forholdet mellem fx en køber og en sælger giver dobbeltsalgssituationen anle
 
 
 **Nogle aktivtyper behandles efter særlige juridiske regler**:
- 
+
+
+---
+
 #### Fast ejendom
 
 Rettighedskonflikten mellem B og C skal løses efter lovbestemmelsen i TL § 1, stk. 2: 
 
 ”Den aftale eller retsforfølgning, der skal kunne fortrænge en utinglyst ret, skal selv være tinglyst og erhververen ifølge aftalen være i god tro”.  
 
-*	**HR:** Først i tid bedst i ret – B har indgået aftalen med A først og har derfor først fået rettigheden over ejendommen
+**HR:** Først i tid bedst i ret – B har indgået aftalen med A først og har derfor først fået rettigheden over ejendommen
 
-+ **U:** C kan fortrænge B's rettighed hvis:  
+**U:** C kan fortrænge B's rettighed hvis:  
   
 B ikke har fået tinglyst sin rettighed  
 C har fået tinglyst sin rettighed.
@@ -224,10 +227,10 @@ Konflikten om dobbeltoverdragelsen af en bil mellem B og C skal løses afhængig
 Se dom om forbrugers tab på godt 145.000 kr. ved bilforhandlers 
 dobbeltsalg skulle dækkes:  
  
-> Østre Landsret har den 13. juni 2012 afsagt dom i en ankesag mellem køberen af en bil og bilforhandleren. Bilkøberen havde ved slutseddel af 29. september 2009 hos forhandleren købt en bestemt fabriksny bil for 297.289 kr. til levering den 5. oktober 2009. Bilen havde forinden været markedsført som et "skarpt lagertilbud", hvor det var angivet, at bilen var nedsat fra en tidligere gældende listepris på 442.900 kr. til 297.289 kr., således at man sparede 145.611 kr. Et par dage efter slutsedlens underskrift meddelte forhandleren køberen, at bilen forud for slutsedlens underskrift var solgt, således at handlen ikke kunne gennemføres. Baggrunden herfor var, at bilen via bilimportøren var solgt til Sverige. Forhandleren kunne ikke skaffe en tilsvarende bil af samme fabrikat.
+Østre Landsret har den 13. juni 2012 afsagt dom i en ankesag mellem køberen af en bil og bilforhandleren. Bilkøberen havde ved slutseddel af 29. september 2009 hos forhandleren købt en bestemt fabriksny bil for 297.289 kr. til levering den 5. oktober 2009. Bilen havde forinden været markedsført som et "skarpt lagertilbud", hvor det var angivet, at bilen var nedsat fra en tidligere gældende listepris på 442.900 kr. til 297.289 kr., således at man sparede 145.611 kr. Et par dage efter slutsedlens underskrift meddelte forhandleren køberen, at bilen forud for slutsedlens underskrift var solgt, således at handlen ikke kunne gennemføres. Baggrunden herfor var, at bilen via bilimportøren var solgt til Sverige. Forhandleren kunne ikke skaffe en tilsvarende bil af samme fabrikat.
 Køberen anlagde sag mod bilforhandleren med påstand om, at forhandleren skulle betale erstatning med 145.611 kr. Byretten tog køberens påstand til følge. Bilforhandleren ankede dommen og anførte, at bilen ikke var mere værd end den aftalte pris, som var markedsprisen. Køberen havde som følge heraf ikke lidt et tab.
 Østre Landsret stadfæstede byrettens dom, idet landsretten blandt andet henviste til, at bilen var udbudt som et "skarpt lagertilbud" med en prisnedsættelse på 145.611 kr., og at der på tidspunktet, hvor bilkøberen skulle foretage køb af en anden bil af tilsvarende type som følge af forhandlerens dobbeltsalg, ikke var mulighed for at købe med en tilsvarende prisreduktion. Landsretten fandt, at køberens tab kunne opgøres til prisreduktionen, således at forhandleren skulle betale 145.611 kr. til køberen.
-Sagen er behandlet i Østre Landsrets 4. afdeling under j.nr. B-1947-11.
+Sagen blev behandlet i Østre Landsrets 4. afdeling under j.nr. B-1947-11.
 
 ---
 
@@ -361,6 +364,8 @@ Registreringen beskytter rettigheder mod at blive fortrængt (sikringsaktens væ
 
 Netop ved pant i fondsaktiver gælder et skærpet krav om rådighedsherøvelse, idet blot en kortvarig adgang for pantsætter sætter ham eller hende i stand til at tømme kontoen helt ved på sekunder fra sin netbank at sælge værdipapirbeholdningen i markedet henholdsvis foretage en kontooverførsel, hvorefter den i registreringen liggende offentliggørelse alene består i en mulighed for f.eks. kurator i pantsætters konkursbo at konstatere, at depotet allerede er tømt (og at pantet er borte).  
 
+---
+
 Kapitalmarkedslovens § 184, stk. 2 svarer til TL § 1, stk. 2, og vedrører sikringsaktens eksstinktive funktion (muligheden for at fortrænge uregistrede rettigheder).  
 
 Kapitalmarkedslovens indeholder ikke en særlig definition af, hvad der skal forstås ved god tro, hvorfor dette afgøres i overensstemmelse med dansk rets almindelige regler.  
@@ -391,9 +396,9 @@ Oversigtsresume af reguleringen af dobbeltoverdragelser af fondsaktiver:
 
 Konflikten mellem B og C skal således løses efter kapitalmarkedslovens § 184:
 
-*	**HR:** Først i tid bedst i ret – B har indgået aftalen med A først eller har først fået foretaget udlæg og har derfor først fået rettigheden over fondsaktivet
+**HR:** Først i tid bedst i ret – B har indgået aftalen med A først eller har først fået foretaget udlæg og har derfor først fået rettigheden over fondsaktivet
 
-**U**: C kan fortrænge B’s ret hvis:
+*U**: C kan fortrænge B’s ret hvis:
   
 + B ikke har registreret sin ret i CSD (Central securities depository)
 + C har registreret sin ret i CSD
@@ -412,7 +417,7 @@ Konflikten mellem B og C skal således løses efter kapitalmarkedslovens § 184:
 
 --- 
 
-* **HR:** Kan A gøre indsigelsen gældende overfor B, kan samme indsigelse gøres gældende overfor C
+**HR:** Kan A gøre indsigelsen gældende overfor B, kan samme indsigelse gøres gældende overfor C
 
 +	**U**: C kan fortrænge A's ret, hvis:
 
@@ -448,7 +453,7 @@ Denne bestemmelse giver en godtroende erhverver ret til erstatning af statskasse
  
 #### Kædeoverdragelse af en bil
 
-* **HR:** Rettighedskonflikten mellem A og C over bilen løses som udgangspunkt til A's fordel. A's indsigelse mod B kan også gøres gældende over for C
+**HR:** Rettighedskonflikten mellem A og C over bilen løses som udgangspunkt til A's fordel. A's indsigelse mod B kan også gøres gældende over for C
 
 + **U1**: Hvis A har været uforsigtig eller meget passiv over for B, kan C fortrænge A's ret over bilen
 
@@ -458,7 +463,7 @@ Denne bestemmelse giver en godtroende erhverver ret til erstatning af statskasse
  
 #### Kædeoverdragelse af løsøre
 
-* **HR:** Rettighedskonflikten over et løsøre mellem A og C løses som udgangspunkt til A's fordel. A's indsigelse mod B kan også gøres gældende over for C
+**HR:** Rettighedskonflikten over et løsøre mellem A og C løses som udgangspunkt til A's fordel. A's indsigelse mod B kan også gøres gældende over for C
 
 + **U1**: Hvis A har været uforsigtig eller meget passiv over for B, kan C fortrænge A's ret over løsøret.    
 
@@ -467,6 +472,8 @@ Et gyldigt ejendomsforbehold i et løsøre, jf. kreditaftalelovens § 34, stk. 1
 ---
  
 #### Kædeoverdragelser af fondsaktiver på kapitalmarkedet
+
+
  
 
 Kædeoverdragelser er reguleret af kapitalmarkedslovens § 186:
@@ -499,7 +506,7 @@ Der gælder ikke som efter den tidligere værdipapircentrallov nogen regel om ob
 
 ---
  
-Oversigt:  
+**Oversigt**:  
 
 * Rettighedskonflikten mellem A og C løses således efter kapitalmarkedslovens § 186.
 

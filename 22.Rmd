@@ -34,7 +34,36 @@ Om markedsføringslovens anvendelse på finansielle virksomheder og Forbrugeromb
 
 Forbrugerombudsmanden kan således håndhæve markedsføringslovens strafbelagte bestemmelser om vildledning og utilbørlig markedsføring, købsopfordringer samt markedsføring af kreditter. 
 
-Markedsføringslovens bestemmelser i § 3 om god markedsføringsskik, i § 4 om god erhvervsskik, § 9 om former for handelspraksis og § 14 om oplysningsforpligtelser vedrørende priser mv. er ikke gældende for finansielle virksomheder, i det omfang, der af erhvervsministeren er udstedt særlige regler herom.  
+Markedsføringslovens bestemmelser i § 3 om god markedsføringsskik, i § 4 om god erhvervsskik, § 9 om former for handelspraksis og § 14 om oplysningsforpligtelser vedrørende priser mv. er ikke gældende for finansielle virksomheder, i det omfang, der af erhvervsministeren er udstedt særlige regler herom.
+
+---
+
+Se et forsikringsselskabs overtrædelse af markedsføringslovens § 10, stk. 4:
+
+**Forsikringsselskab dømt for at ringe til forbrugere på Robinsonlisten**
+**31. juli 2019**
+
+![](img/ring.jpg)
+
+Retten i Hjørring har idømt Forsikringsselskabet Vendsyssel A/S en bøde på 50.000 kroner for at have ringet til syv forbrugere, som alle stod registreret på Robinsonlisten.
+
+Forsikringsselskabet Vendsyssel skal betale en bøde på 50.000 kroner for at have ringet til syv forbrugere, der stod registreret på Robinsonlisten.
+
+Selvom forsikringsselskaber som udgangspunkt gerne må ringe til forbrugere og sælge forsikringer, gælder det ikke, hvis forbrugeren er registreret på Robinsonlisten.
+
+Robinsonlisten er et register, hvor man kan frabede sig uanmodede henvendelser med markedsføring. Man kan tilmelde sig Robinsonlisten på borger.dk, som administreres af CPR-kontoret og opdateres hvert kvartal. Virksomheder skal tjekke Robinsonlisten, før de udsender reklamer med navn og adresse eller ringer forbrugere op.
+
+I sagen havde syv forbrugere tilmeldt sig Robinsonlisten, og de havde ikke givet Forsikringsselskabet Vendsyssel særskilt samtykke til at ringe. Men det gjorde Forsikringsselskabet Vendsyssel alligevel, hvilket nu har resulteret i en bøde til selskabet, efter at Forbrugerombudsmanden gik ind i sagen.
+
+Forbrugerombudsmand Christina Toftegaard Nielsen, siger:
+
+”Når en forbruger tilmelder sig Robinsonlisten, ønsker han eller hun at blive fri for enhver form for telefonsalg. Det skal virksomhederne respektere.”
+
+”Vi modtager mange klager over telefonsalg fra forbrugere, som er tilmeldt Robinsonlisten, men som alligevel bliver kontaktet, fordi virksomhederne ignorerer listen. Derfor er det et vigtigt signal, at retten har fastslået, at virksomhederne risikerer store bøder ved at ignorere Robinsonlisten.”
+
+MARKEDSFØRINGSLOVENS § 10, STK. 4:
+
+Efter markedsføringslovens § 10, stk. 4, må ingen erhvervsdrivende ringe til en bestemt fysisk person, fx en forbruger, der er tilmeldt Robinsonlisten, eller som har frabedt sig opkald fra virksomheden. Reglen gælder også for opkald til indehavere af enkeltmandsvirksomheder.
 
 ---
 
@@ -235,7 +264,9 @@ En finansiel virksomhed skal give tilstrækkelig information om egne produkter o
 
 For lån skal der oplyses om de årlige omkostninger i procent (ÅOP) på rådgivningstidspunktet, jf. godskik-bekendtgørelsens § 11. 
 
-(Årlige omkostninger i procent (ÅOP) viser de samlede årlige udgifter ved et lån i forhold til det lånte beløb. Alle udgifter i forbindelse med lånet regnes med - oprettelsesomkostninger, rente og løbende omkostninger. ÅOP skal oplyses, hver gang du får et lån eller en kredit.)
+(Årlige omkostninger i procent (ÅOP) viser de samlede årlige udgifter ved et lån i forhold til det lånte beløb. 
+
+Alle udgifter i forbindelse med lånet regnes med - oprettelsesomkostninger, rente og løbende omkostninger. ÅOP skal oplyses, hver gang du får et lån eller en kredit.)
 
 Hvis der mellem kunderne for en given ydelse er generelle forskelle i fastsættelsen af renter, bidrag eller andet vederlag til den finansielle virksomhed, skal den finansielle virksomhed oplyse en kunde herom, forinden der indgås aftale om levering af ydelsen. 
 
@@ -940,7 +971,7 @@ Dette indebærer, at finansiel virksomhed tilkendegiver over for Finanstilsynet 
 
 ---
 
-## God skik ved boligkredit
+## <font color="red">God skik ved boligkredit<sup> Premium </font></sup>
 
 Bekendtgørelsen om god skik for boligkredit fastsætter regler for, hvordan finansielle virksomheder her i landet skal yde rådgivning i forbindelse med ydelse af lån med sikkerhed i fast ejendom. 
 
@@ -1405,10 +1436,13 @@ Værdipapirhandleren opfylder forpligtelserne i § 72, stk. 2, nr. 2, i lov om f
 
 Kan kun anvendes hvis følgende er opfyldt: 
   
-  a) Ikke komplekse værdipapirer 
-  b) Kunden tager selv initiativ til at investere 
-  c) Kunden oplyses om, at hensigtsmæssighedstest ikke udføres 
-  d) Værdipapirhandler opfylder interessekonfliktregler.
+a) Ikke komplekse værdipapirer 
+  
+b) Kunden tager selv initiativ til at investere 
+  
+c) Kunden oplyses om, at hensigtsmæssighedstest ikke udføres 
+  
+d) Værdipapirhandler opfylder interessekonfliktregler.
   
 +	*Der skal ikke fastlægges en investeringsprofil eller udføres test*
 
@@ -1440,10 +1474,10 @@ En værdipapirhandler skal indhente sine kunders forudgående samtykke til ordre
 
 *	Værdipapirhandler skal blandt andet ved valg af handelssted inddrage følgende faktorer:
 
-  +	Pris
-  +	Omkostninger
-  +	Hurtighed
-  +	Gennemførelses- og afregningssandsynlighed
++	Pris
++	Omkostninger
++	Hurtighed
++	Gennemførelses- og afregningssandsynlighed
   
 ---
   
@@ -1463,6 +1497,8 @@ En værdipapirhandler skal indhente sine kunders forudgående samtykke til ordre
 ### Afgørelser fra Finanstilsynet vedrørende investorbekendtgørelsen
 
 **Finanstilsynets afgørelse af 15. maj 2009: Bekendtgørelse om investorbeskyttelse ved værdipapirhandel (dagældende) § 8 om påtale for vildledende markedsføring - Formuepleje A/S Fondsmæglerselskab:**
+
+---
 
 ”Afgørelse  
 Formuepleje A/S Fondsmæglerselskab har fået en påtale af Finanstilsynet for en bestemt form for markedsføring, som Finanstilsynet finder vildledende.  
@@ -1643,11 +1679,12 @@ Reguleres efter Bekendtgørelse nr. 864 af 23. juni 2017 om kompetencekrav til a
 
 Bekendtgørelsen finder anvendelse på pengeinstitutter og fondsmæglerselskaber her i landet, som yder følgende til detailkunder:  
 
-*	Investeringsrådgivning om investeringsprodukter eller porteføljer  
-  af investeringsprodukter, jf. dog stk. 3.
+
+*	Investeringsrådgivning om investeringsprodukter eller porteføljer af investeringsprodukter, jf. dog stk. 3.
+
   
-*	Rådgivning om puljer, jf. § 2, stk. 1, nr. 3, i bekendtgørelse om 
-  visse skattebegunstigende opsparingsformer i pengeinstitutter.
+*	Rådgivning om puljer, jf. § 2, stk. 1, nr. 3, i bekendtgørelse om visse skattebegunstigende opsparingsformer i pengeinstitutter.
+
   
 *	Formidling af information om investeringsprodukter.
 
@@ -1655,13 +1692,18 @@ Bekendtgørelsen finder anvendelse på pengeinstitutter og fondsmæglerselskaber
 
 Ved *investeringsprodukt* forstås:
 
+
 *	Instrumenter jf. bilag 5 i lov om finansiel virksomhed
+
 
 *	Strukturerede indlånsprodukter
 
+
 *	Garantbeviser
 
+
 *	Andelsbeviser
+
 
 *	Pantebreve 
 
@@ -1673,21 +1715,17 @@ Den ansatte skal have 6 måneders dokumenteret fuldtidserfaring med ydelsen af d
 
 *	Relevant lovgivning
 
-+	Bekendtgørelse om investorbeskyttelse ved værdipapirhandel med  
-    vejledning
++	Bekendtgørelse om investorbeskyttelse ved værdipapirhandel med vejledning
     
-+	Bekendtgørelse om værdipapirhandleres udførelse af ordrer med  
-    vejledning
++	Bekendtgørelse om værdipapirhandleres udførelse af ordrer med vejledning
     
-+	Bekendtgørelse om god skik for finansielle virksomheder med  
-    vejledning
++	Bekendtgørelse om god skik for finansielle virksomheder med vejledning
     
 +	Bekendtgørelse om risikomærkning med vejledning
   
-+	Udvalgte dele af lov om værdipapirhandel i form af et overordnet     kendskab til reglerne om markedsmisbrug
++	Udvalgte dele af lov om værdipapirhandel i form af et overordnet kendskab til reglerne om markedsmisbrug
   
-+	Udvalgte dele af lov om finansiel virksomhed i form af kendskab  
-    til, hvilke finansielle instrumenter, som er omfattet af loven, jf. bilag 5.
++	Udvalgte dele af lov om finansiel virksomhed i form af kendskab til, hvilke finansielle instrumenter, som er omfattet af loven, jf. bilag 5.
     
 *	Investeringsprodukter 
 
@@ -1715,6 +1753,7 @@ Med tre års mellemrum skal den ansatte bestå en ny prøve, der dokumenterer, a
 
 ## <font color="red">Erstatningsansvaret for fejlagtig rådgivning<sup> Premium </font></sup>
 
+![](img/finans24.jpg)
 
 
 En professionel rådgiver kan pådrage sig et professionsansvar – inden for alle finansielle brancher. 
@@ -1726,6 +1765,8 @@ Der er ikke resultatansvar men et bestræbelsesansvar.
 Dvs. risikoen for at opnå et bestemt resultat er kundens. 
 
 Hvis rådgiveren har tilsikret (garanteret) et bestemt resultat, er rådgiveren resultatansvarlig. 
+
+![](img/finans25.jpg)
 
 For det ansvar er der i praksis statuereret et skærpet culpa-bedømmelse, der skal derfor ikke meget til før rådgiveren begår erstatningspådragende fejl over for kunden og sammenligningsgrundlag er ”den gode rådgiver”, som følger nidkært branchenormen (god pengeinstitutpraksis, god ejendomsmæglerskik, god revisorskik og advokatskik osv.). 
 
@@ -1745,8 +1786,9 @@ Dette tab kan opgøres som:
 
 *	positiv opfyldelsesinteresse – skadelidte kunde stilles som om der   var givet rigtig rådgivning
 
-*	Negativ kontraktsinteresse – skadelidte kunde stilles som før  
-  rådgivningen fandt sted
+*	Negativ kontraktsinteresse – skadelidte kunde stilles som før  rådgivningen fandt sted
+
+---
 
 Der er ingen erstatning for skuffede forventninger i den finansielle branche fx:  
 
@@ -1763,7 +1805,7 @@ Men hvis fx bankrådgiveren har garanteret et bestemt rådighedsbeløb, vil bank
 
 ...
 
-Ejendomsmægler kan være ansvarlig for skuffede forventninger, således at der kan rejses et godtgørelseskrav over for ejendomsmægleren, uagtet der ikke er lidt noget økonomisk tab, jf. Lov nr. 526 28. maj 2014 om formidling af fast ejendom m.v se § 47:  
+Ejendomsmægler kan være ansvarlig for skuffede forventninger, således at der kan rejses et godtgørelseskrav over for ejendomsmægleren, uagtet der ikke er lidt noget økonomisk tab, jf. Lov nr. 526 28. maj 2014 om formidling af fast ejendom m.v se her § 47:  
 
 ”Er der til skade for forbrugeren foretaget en forkert beregning af provenu ved salg, jf. § 38, stk. 3, og er forbrugeren i god tro, har forbrugeren krav på godtgørelse af forskellen mellem den forkerte og den korrekte beregning. 
 
@@ -1771,7 +1813,7 @@ Er der til skade for forbrugeren foretaget en forkert beregning af ejerudgift ve
 
 ---
 
-*FED1996.1322: Ejendomsmægler ikke ansvarlig for sælgers skuffede forventninger til salgsbudget, i hvilket mægleren havde lagt en forkert indfrielseskurs på et pantebrev til grund. Ejendomsmægleren blev frakendt salæret.*
+*FED1996.1322**: Ejendomsmægler ikke ansvarlig for sælgers skuffede forventninger til salgsbudget, i hvilket mægleren havde lagt en forkert indfrielseskurs på et pantebrev til grund. Ejendomsmægleren blev frakendt salæret.
 
 ---
 

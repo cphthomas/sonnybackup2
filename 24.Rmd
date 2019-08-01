@@ -1,6 +1,8 @@
 
 # Arveretten
 
+![](img/arv2.jpg)
+
 ---
 
 **Video: Hvem arver fra dig?**
@@ -58,7 +60,7 @@ Reglen har praktisk betydning f.eks. ved trafikulykker, hvor ægtefæller omkomm
 
 Et barn, som er avlet forinden dødsfaldet og senere fødes levende, har også arveret. Den gravide kvindes foster er således arveberettiget.  
 
-Det siges, at "arven er faldet", når kravet på arv kan overføres ved aftale, tilegnes af arvingens kreditorer, falde i arv ved arvingens død eller indgå i arvingens eventuelle separations- eller skilsmissebo. 
+Det siges, at **"arven er faldet"**, når kravet på arv kan overføres ved aftale, tilegnes af arvingens kreditorer, falde i arv ved arvingens død eller indgå i arvingens eventuelle separations- eller skilsmissebo. 
 
 Dette tidspunkt indtræder som regel ved arveladers død. 
 
@@ -94,6 +96,8 @@ Arvinger kan inddeles i tre hovedgrupper: slægtninge, ægtefæller og testament
  
 ## Arvens fordeling til arveklasser
 
+![](img/arv3.jpg)
+
 Arven fordeles til arveklasse 1, 2 eller 3. Er der ingen arvinger i arveklasse 1 går man videre til arveklasse 2, og er der ingen arvinger i arveklasse 2, arver arveklasse 3.  
 
 Ægtefælle har også legal arveret. 
@@ -102,7 +106,11 @@ Arvelader kan selv få indflydelse på fordeling af arven ved at oprette testame
 
 Er der ingen arvinger efter arvelov eller testamente tilfalder arven statskassen, jf. AL § 94.  
 
-### Arveklasse 1  
+---
+
+### Arveklasse 1 
+
+![](img/arv4.png)
 
 Arveklasse 1 er livsarvinger, som er børn, børnebørn, oldebørn osv., jf. AL § 1. 
 
@@ -130,19 +138,9 @@ På tilsvarende måde arver fjernere livsarvinger (oldebørn mv.).
 
 ---
 
+### Arveklasse 2 
 
-
-![](img/arveklasse1.png)
-
-(kilde; Trojka) Fig. 24.1.
-
-
-
----
-
-
-
-### Arveklasse 2  
+![](img/arv5.jpg)
 
 Arveklasse 2 er arveladers forældre, jf. AL § 2. Forældrene arver lige. 
 
@@ -160,12 +158,10 @@ Lever begge arveladerens forældre, arver de hver halvdelen.
 
 ---
 
-![](img/arveklasse2.png)
-(kilde; Trojka) Fig. 24.2.
 
----
- 
 ### Arveklasse 3
+
+![](img/arv6.jpg)
 
 Arveklasse 3 er arveladers bedsteforældre, jf. AL § 3. 
 
@@ -194,15 +190,13 @@ Er der kun arvinger på fædrene eller mødrene side, deles arven ud med ½ til 
 Efterlades en mormor og to fastre, arver mormoren således ½ og fastrene ¼, mens fætre og kusiner ikke arver.  
 
   
---- 
+
  
-![](img/arveklasse3.png)
-(kilde; Trojka) Fig. 24.3.
 
----
 
-![](img/slægtarvinger.png)
-(kilde; Trojka) Fig. 24.4.
+![](img/arv7.jpg)
+
+
 
 ---
 
@@ -225,11 +219,15 @@ Her en oversigt over længstlevendes ægtefælles arveret:
 
 *	Suppleringsarv AL § 11, stk. 2 op til 780.000 kr. (2019) – inklusive:
 
-  +	Boslod og særeje for længstlevende ægtefælle
-  +	Arvelod for længstlevende ægtefælle
-  +	Forsørgertabserstatning, livsforsikring, pension efter førstafdøde ægtefælle
-  +	Ægtefællepension og ægtefælleydelse
-  +	Ved længstlevende ægtefælles død, skal arven (som udgangspunkt) fordeles mellem begge ægtefællers arvinger, jf. AL § 16, stk. 2 
++	Boslod og særeje for længstlevende ægtefælle
+
++	Arvelod for længstlevende ægtefælle
+
++	Forsørgertabserstatning, livsforsikring, pension efter førstafdøde ægtefælle
+
++	Ægtefællepension og ægtefælleydelse
+
++	Ved længstlevende ægtefælles død, skal arven (som udgangspunkt) fordeles mellem begge ægtefællers arvinger, jf. AL § 16, stk. 2 
  
 
 ---
@@ -298,7 +296,7 @@ Særbørn skal give samtykke til uskiftet bo, jf. AL § 18.
 
 Hvis længstlevende misbruger det uskiftede bos midler, kan børnene kræve skifte, jf. AL § 29.  
 
-
+---
 
 Længstlevende ægtefælle kan således forbruge det uskiftede bos midler og give gaver mv., men kan af hensyn til førstafdøde ægtefælles arvinger ikke råde frit. 
 
@@ -326,12 +324,12 @@ Tvangsarven er som udgangspunkt ¼ af arveladers formue.
 
 
 ![](img/testa.png)
-(kilde; Trojka) Fig. 24.5.
+(kilde; Trojka) Fig. 24.1.
 
 ---
 
 ![](img/tvangsa.png)
-(kilde; Trojka) Fig. 24.6.
+(kilde; Trojka) Fig. 24.2.
 
 ---
 
@@ -371,7 +369,9 @@ Reglen vil derfor også i praksis blive påberåbt af en længstlevende ægtefæ
 *	At testamentet opfylder kravene til:
 
 *	**Notartestamente**
+
 *	**Vidnetestamente**
+
 *	**Nødtestamente**
 
 ---
@@ -426,12 +426,24 @@ Hvis et testamentsvidne har medvirket til oprettelse af et testamente i strid me
 ---
 
 *	Kræver en nødsituation
+
 *	Ingen formkrav
+
 *	Bortfalder efter tre måneder
 
 En nødsituation kunne f.eks. blodprop eller umiddelbart før en stor operation.
 
 Andre nødstilfælde kan være et synkende skib, en naturkatastrofe, samt beslutning om selvmord, jf. **dommene U 1970 10 H, U 1979 108 H og U 2000 1340 H**
+
+![](img/nod2.jpg)
+
+
+![](img/nod3.jpg)
+
+
+![](img/nod1.jpg)
+
+
 
 
 

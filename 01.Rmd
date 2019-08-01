@@ -150,7 +150,7 @@ Grundlovens § 3 har følgende ordlyd:
 nodes <- data.frame(id = 1:3, 
                     shape = c("box"), 
                     level = c(1,2,2),
-                    label = c("Lovgivende magt \n Folketinget/Dronningen",    "Dømmende magt \n Domstolene","Udøvende magt \n Regering/ministerier,\nforvaltningen\npolitiet m.fl."),
+                    label = c("Lovgivende magt \n Folketinget",    "Dømmende magt \n Domstolene","Udøvende magt \n Regeringen"),
                     font.size = c(16,16,16))
 edges <- data.frame(from = c(1,2,3), to = c(2,3,1),arrows = c(""),length = rep(75,3))
 
@@ -167,7 +167,7 @@ visNetwork(nodes, edges, height = "500px", width = "60%",avoidOverlap=2) %>%
 
 
 
-
+---
 
 **Tremagtsdelingen:**
 
@@ -176,7 +176,9 @@ visNetwork(nodes, edges, height = "500px", width = "60%",avoidOverlap=2) %>%
 
 *	Dømmende magt: Domstolene
 
-*	Udøvende magt: Regering/ministerier, forvaltningen, politiet m.fl.
+*	Udøvende magt: Regering
+
+---
 
 **Begrundelsen:**
 
@@ -197,7 +199,7 @@ Bestemmelsen handler om magtens tredeling i den lovgivende, den udøvende og den
 
 Magten er delt mellem forskellige myndigheder (Folketing, regering og domstole) for at undgå, at al magt samles hos én myndighed. Det ville kunne føre til magtmisbrug.
 
-
+---
 
 Ifølge grundloven har dronningen og Folketinget i fællesskab magten til at lovgive. 
 
@@ -205,18 +207,19 @@ Men helt sådan er det ikke i virkeligheden.
 
 I praksis er det nemlig regeringen og Folketinget, som bestemmer, hvordan lovene skal se ud. 
 
-Dronningen skriver dem bare under. 
+Dronningen skriver dem bare under og derfor ingen reel magt. 
 
-Dronningen skal føre lovene ud i livet – hun har den udøvende magt. 
+Dronningen skal "føre lovene ud i livet" – hun har formel magt. 
 
 I dag betyder det blot, at hun rent formelt udnævner ministrene i en regering. 
 
 Derefter er det i praksis ministrene og deres ministerier, der sørger for, at lovene bliver overholdt.
 
-
 Dronningen har ingen indflydelse på, hvem der skal være ministre. Det bestemmer statsministeren. 
 
-Hun har heller ingen indflydelse på, hvilke partier der skal danne regering. 
+Hun har heller ingen indflydelse på, hvilke partier der skal danne regering.
+
+---
 
 Det handler grundlovens §§ 12-15 bl.a. om.
 
@@ -227,16 +230,15 @@ Domstolene afgør også, om ministerier og kommuner har overtrådt lovene, og om
 
 *I 1999 fastslog Højesteret, jf. U 1999.841 H, at den såkaldte Tvindlov var i strid med grundlovens § 3. Tvindlovens bestemmelse om, at en række Tvindskoler ikke længere skulle have penge fra det offentlige, var derfor ugyldig.*  
 
+---
 
 ## Folketinget som den lovgivende magt
-
 
 Folketinget er Danmarks parlament. Her vedtages al lovgivning i Danmark. 
 
 Folketingets grundlæggende opgaver og nogle af arbejdsformerne er beskrevet i grundloven.  
 
 Andre metoder er praksisser, der har udviklet sig gennem de snart 170 år, Folketinget har eksisteret.
-
 
 Folketinget er den lovgivende magt. 
 
@@ -249,6 +251,7 @@ Den lovgivende magt er Folketinget og regering, men det er kun Folketinget, der 
 
 Magten i samfundet er delt i 3 for at forhindre, at der sker magtmisbrug. 
 
+---
 
 ### Parlamentarisk kontrol og lovgivning i Folketinget
 
@@ -272,6 +275,7 @@ Reglerne for, hvordan folketingsmedlemmerne skal samarbejde, og hvordan lovgivni
 Reglerne kan ændre sig over tid, fordi samfundet ændrer sig, men de fleste af reglerne har mange år på bagen.
 
 
+---
 
 ### Lovforslag
 
@@ -287,15 +291,15 @@ Lovteksterne skal derfor skrives så præcist, at borgerne ikke er i tvivl om de
 
 Nye lovforslag kan fremsættes af regeringen og folketingsmedlemmerne (folketingsbeslutninger).
 
+---
 
 Regeringen fremsætter de fleste lovforslag, da regeringen har statsadministrationen (ministerierne og styrelser) til at hjælpe sig med udformning af lovforslag mv.
 
-
- 
 Lovforslag tager lang tid at skrive, og det kræver stor juridisk indsigt. 
 
 Derfor er det regeringen, der fremsætter de fleste lovforslag. For regeringen har mange embedsmænd i ministerierne til at hjælpe sig, mens partierne uden for regeringen, oppositionen, har færre til at hjælpe sig – de har kun medarbejdere i deres gruppesekretariater og i Folketingets Administration.
 
+---
 
 Ideer til nye love kommer primært fra regeringen, men kan også komme fra:
 
@@ -309,7 +313,10 @@ Ideer til nye love kommer primært fra regeringen, men kan også komme fra:
 *	Borgere, der henvender sig til et folketingsmedlem eller et parti 
   med en sag 
   
+* Borgerforslag. Hvis 50.000 personer med stemmeret til folketingsvalg støtter et borgerforslag, kan det blive fremsat i Folketinget.
   
+---
+
 Inden et lovforslag fremsættes i Folketingssalen, har det som regel været igennem en længere process i ministerierne.
 
 ![](img/lov.jpg)
@@ -329,9 +336,11 @@ Inden et lovforslag fremsættes i Folketingssalen, har det som regel været igen
 
 
 ![](img/folketinget3.png)
-<br>
 
-Ud over at lovgive har Folketinget en anden og lige så vigtig rolle i demokratiet. Det er at kontrollere, om regeringen – den udøvende magt ‒ fører Folketingets love ud i livet, som de var tænkt, og om der sker magtmisbrug. Det kalder man parlamentarisk kontrol.
+
+Ud over at lovgive har Folketinget en anden og lige så vigtig rolle i demokratiet. 
+
+Det er at kontrollere, om regeringen – den udøvende magt ‒ fører Folketingets love ud i livet, som de var tænkt, og om der sker magtmisbrug. Det kalder man parlamentarisk kontrol.
 
 ---
 
@@ -345,6 +354,7 @@ I praksis er det oppositionen – de partier i Folketinget, som er imod regering
 
 Det er dem, der har den største interesse i at være kritiske over for regeringens arbejde og afsløre, om der sker magtmisbrug.
 
+---
 
 Oppositionen undersøger bl.a., om regeringen:
 
@@ -357,6 +367,7 @@ Folketingsmedlemmerne fra oppositionspartierne finder den parlamentariske kontro
 
 Oppositionen har en politisk fordel i at finde fejl og mangler ved en regering, den ikke er enig med, og det giver oppositionspartierne mulighed for at forklare vælgerne, hvordan deres politik er anderledes end regeringens.
 
+---
 
 ### Udvalgsarbejdet i Folketinget
 
@@ -368,6 +379,7 @@ Arbejdet i Folketinget foregår både i Folketingssalen og i Folketingets udvalg
 
 Udvalgene arbejder med hvert deres fagområde og behandler både lovgivning og den brede kontrol med regeringens arbejde.  
 
+---
 
 ## Regeringen den udøvende magt
 
@@ -417,7 +429,8 @@ Så skal man i gang med at finde ud af, hvem der skal være statsminister og dan
 Den siddende statsminister fortsætter, hvis der ikke er et flertal imod ham eller hende - dvs. 90 eller flere ud af de 179 folketingsmedlemmer. Det kaldes negativ parlamentarisme.
 
 Taber regeringen valget, skal der findes en ny statsminister og en ny regering.
-<br>
+
+---
 
 ### Dronningen udnævner formelt den nye regering
 
@@ -426,6 +439,7 @@ Den siddende statsminister skal, i samarbejde med dronningen, finde ud af, hvilk
 
 Når statsministeren har fundet sine ministre, udnævner dronningen formelt regeringen på Amalienborg. Regeringen kommer bagefter ud på slotspladsen. Her præsenterer statsministeren sin nye regering for danskerne.
 
+---
 
 ### Sådan arbejder regeringen
 
@@ -436,6 +450,7 @@ Regeringens ministre leder via deres ministerier landet efter de love, Folketing
 
 Regeringen har stor indflydelse på de love, der vedtages i Folketinget, da det er regeringen, der kommer med langt de fleste forslag til nye love.
 
+---
 
 ### Regeringen fremsætter lovforslagene
 
@@ -444,24 +459,21 @@ Den udøvende magt ligger hos regeringen.
 
 Det står i grundloven. Regeringen har ret og pligt til at gennemføre de regler og love, som Folketinget vedtager, så lovene bliver til virkelighed i samfundet. 
 
-
 Lovgivningsarbejdet har regeringen også stor indflydelse på. Det er regeringen, der forbereder og foreslår langt de fleste nye love og ændringer i eksisterende love. 
 
 Regeringen er ansvarlig for hele processen med forberedelse af lovforslagene inden de når til Folketinget, herunder at lægge de overordnede planer, drive de politiske forhandlinger, skrive lovudkast og sende det i høring.
 
-
 Når regeringen foreslår en lov, kaldes det, at den fremsætter et lovforslag. 
 
 Både regeringen og medlemmerne af Folketinget kan fremsætte lovforslag – men de fleste kommer fra regeringen.
-<br>
+
+---
 
 ### Lovkataloget viser regeringens mål
-
 
 Når en ny regering tiltræder, vil de partier, der indgår i regeringen, sammen skrive et regeringsgrundlag eller anden form for fælleserklæring. 
 
 Et regeringsgrundlag er en slags politisk programerklæring, som signalerer, hvilken politik regeringen gerne vil gennemføre i den kommende regeringsperiode. 
-
 
 Lovkataloget er et redskab for regeringen til at omsætte den overordnede politik til konkrete initiativer. 
 
@@ -486,7 +498,6 @@ Statsministen er regeringens chef. Det er statsministeren, der bestemmer, hvem d
 ---
 
 ### Statsministeren har stor magt
-
 
 Statsministerposten er landets højeste ministerpost. En statsminister har en særlig stor magt og et særlig stort ansvar. Det er f.eks. kun statsministeren, der kan bestemme: 
 
@@ -514,7 +525,6 @@ Det vil sige, at ministrene har det overordnende ansvar for, at de love, som Fol
 
 Ministrene har meget magt og ansvar, og en af deres vigtigste opgaver er at foreslå ny lovgivning.
 
-
 Regeringens ministre har hver sit fagområde: Kulturministeren har ansvar for kulturområdet, skatteministeren for skatteområdet osv. 
 
 De fleste ministerområder ligger nogenlunde fast – f.eks. er der i praksis altid et Justitsministerium, et Finansministerium osv. 
@@ -527,7 +537,6 @@ F.eks. blev der efter valget i november 2007 som noget nyt udnævnt en minister 
 ---
 
 ### Ministrenes opgaver
-
 
 At foreslå ny lovgivning er en af ministrenes fornemste opgaver. Lovforslagene bliver forberedt i ministerierne, som har mange medarbejdere til bl.a. at skrive lovforslag.
 
@@ -584,10 +593,6 @@ visNetwork(nodes, edges, height = "500px", width = "60%",avoidOverlap=2) %>%
 
 ```
 
-
-
-
-
 Uafhængige domstole er en grundlæggende del af magtens tredeling i et demokrati. Sådan er det også i Danmark. ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` siger nemlig, at domstolene alene har den dømmende magt.
 
 ---
@@ -607,7 +612,7 @@ Det betyder bl.a., at en retssag skal afgøres inden for en rimelig tidsperiode 
 Domstolenes uafhængighed er bestemt i den danske grundlov. ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` deler nemlig magten i tre for at forhindre magtmisbrug, jf. ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))``s § 3:
 
 
-*	den lovgivende magt (Folketinget og regeringen)
+*	den lovgivende magt (Folketinget)
 *	den udøvende magt (regeringen)
 *	den dømmende magt (domstolene)
 
@@ -801,12 +806,18 @@ Hvis der ikke er lavet en værnetingsaftale mellem de stridende parter, skal en 
 
 Værneting er således et spørgsmålet om, hvor en retssag skal anlægges og føres. Ved hvilken domstol en sag skal anlægges, hvis der opstår uenighed mellem aftaleparter med bopæl i hver sit EU-land, afhænger af, om der er indgået en værnetingsaftale og af EU-Domsforordningen.
 
-Supplerende værneting, f.eks.:
+---
+
+Supplerende værneting, er f.eks.:
 
 *	Virksomhedsværneting 
+
 *	Ejendomsværneting
+
 *	Opfyldelsesværneting
+
 *	Forbrugerværneting
+
 *	Deliktsværneting
  
 
@@ -855,11 +866,13 @@ kable(text_tbl,caption="Værneting") %>%
 
 ### Processuelle grundbegreber
 
-*	Forhandlingsprincippet: Sagsøger og sagsøgte har selv ansvaret for sagens bevisførelse. Retten kan opfordre parterne til at føre et bestemt bevis, men parterne er ikke forpligtet til at følge rettens opfordring. 
+**Forhandlingsprincippet**: Sagsøger og sagsøgte har selv ansvaret for sagens bevisførelse. Retten kan opfordre parterne til at føre et bestemt bevis, men parterne er ikke forpligtet til at følge rettens opfordring. 
 
-*	Bevisumiddelbarhedsprincippet: Beviser skal føres umiddelbart foran dommeren. 
-*	Den frie bevisbedømmelse: Retten har frihed til på objektivt grundlag, at vurdere og afgøre, hvad der findes bevist under sagen, og hvilke beviser der vægter tungere end andre.
-*	Bevisbyrde: Den som påstår noget under en retssag, skal bevise at han eller hun har ret og har dermed bevisbyrden for sin påstand (kaldet en ”ligefrem bevisbyrde” som er hovedreglen i dansk ret).
+**Bevisumiddelbarhedsprincippet**: Beviser skal føres umiddelbart foran dommeren. 
+
+**Den frie bevisbedømmelse**: Retten har frihed til på objektivt grundlag, at vurdere og afgøre, hvad der findes bevist under sagen, og hvilke beviser der vægter tungere end andre.
+
+**Bevisbyrde**: Den som påstår noget under en retssag, skal bevise at han eller hun har ret og har dermed bevisbyrden for sin påstand (kaldet en ”ligefrem bevisbyrde” som er hovedreglen i dansk ret).
 
 ---
 
@@ -899,17 +912,17 @@ Stævning og svarskrift
 
 Klage- og ankenævn som der har betydning for den finansielle branche:
 
-*	Forbrugerklagenævn, Det Finansielle Ankenævn (Sammenlægning pr. 1. februar 2019 af Pengeinstitutankenævnet, Realkreditankenævnet og Ankenævnet for investeringsfonde) 
-Ankenævnet for Forsikring, Ankenævnet for Finansieringsselskaber og 
-Klagenævnet for Ejendomsformidling
+Forbrugerklagenævnet, Det Finansielle Ankenævn (Sammenlægning pr. 1. februar 2019 af Pengeinstitutankenævnet, Realkreditankenævnet og Ankenævnet for investeringsfonde) Ankenævnet for Forsikring, Ankenævnet for Finansieringsselskaber og Klagenævnet for Ejendomsformidling
 
 
-*	Sagsbehandling efter officialmaksimen, dvs. nævnets sekretariatet skal oplyse klagesagen
+Sagsbehandling efter **officialmaksimen**, dvs. nævnets sekretariatet skal oplyse klagesagen
 
 
 **Mediation i det offentlige forbrugerklagesystem**
 
-Der foregår mediation i Nævnenes Hus før, at klagen kan indbringes for Forbrugerklagenævnet. Følgende fremgår af Bekendtgørelse nr. 65 af 16. januar 2019 om behandling af forbrugerklager i Nævnenes Hus samt Forbrugerklagenævnet:
+Der foregår mediation i Nævnenes Hus før, at klagen kan indbringes for Forbrugerklagenævnet. 
+
+Følgende fremgår af Bekendtgørelse nr. 65 af 16. januar 2019 om behandling af forbrugerklager i Nævnenes Hus samt Forbrugerklagenævnet:
 
 *§ 2. Mediationen foretages på grundlag af parternes oplysninger.*
 
@@ -948,37 +961,63 @@ Alle retter bortset fra Højesteret tilbyder retsmægling i civile sager som alt
 
 *Hvad er retsmægling?*
 
-Retsmægling er en frivillig måde at løse konflikter på, hvor en mægler i fortrolighed hjælper sagens parter til selv at finde frem til en løsning på deres problem. Mægleren kan ikke træffe afgørelse i sagen.
+Retsmægling er en frivillig måde at løse konflikter på, hvor en mægler i fortrolighed hjælper sagens parter til selv at finde frem til en løsning på deres problem. 
 
-Retsmægleren er en dommer, en domstolsjurist eller en advokat, som har gennemgået en særlig uddannelse i retsmægling. Mægleren bliver udpeget af retten og skal være upartisk.
+Mægleren kan ikke træffe afgørelse i sagen.
 
-Det er mæglerens opgave at lede mæglingsprocessen. Mægleren hjælper parterne med at finde frem til de egentlige årsager til konflikten og hjælper parterne til at få en bedre forståelse for både deres egne og modpartens synspunkter.
+Retsmægleren er en dommer, en domstolsjurist eller en advokat, som har gennemgået en særlig uddannelse i retsmægling. 
+
+Mægleren bliver udpeget af retten og skal være upartisk.
+
+Det er mæglerens opgave at lede mæglingsprocessen. 
+
+Mægleren hjælper parterne med at finde frem til de egentlige årsager til konflikten og hjælper parterne til at få en bedre forståelse for både deres egne og modpartens synspunkter.
 
 Mægleren hjælper parterne til selv at finde frem til den løsning, som i størst muligt omfang tager hensyn til begge parters behov og interesser.
+
+---
 
 *Hvorfor vælge retsmægling?*
 
 Når man finder ind til kernen, der ligger bag ved en konflikt, er det ikke altid, at en dom er den mest tilfredsstillende løsning for parterne.
 
-Til forskel fra en retssag eller traditionel forligsmægling ved domstolene bliver der ved retsmægling sat fokus på, hvorfor parterne er uenige, og hvordan de bedst kommer videre. Det gør det lettere for parterne at fortsætte et eventuelt samarbejde efter mæglingen, og det giver bedre mulighed for at nå frem til en mere varig løsning.
+Til forskel fra en retssag eller traditionel forligsmægling ved domstolene bliver der ved retsmægling sat fokus på, hvorfor parterne er uenige, og hvordan de bedst kommer videre. 
+
+Det gør det lettere for parterne at fortsætte et eventuelt samarbejde efter mæglingen, og det giver bedre mulighed for at nå frem til en mere varig løsning.
 
 Retsmægling er ofte en mindre tidskrævende måde at løse konflikter på.
 
+---
+
 *Hvordan foregår retsmægling?*
 
-Retsmægleren holder møde med parterne. Hvis parterne har advokater, aftaler man, om advokaterne skal deltage. Gennem samtaler forsøger man i fællesskab at fastlægge omfanget af parternes konflikt og baggrunden herfor, og man taler om, hvordan parterne i fællesskab kan nå frem til en løsning.
+Retsmægleren holder møde med parterne. Hvis parterne har advokater, aftaler man, om advokaterne skal deltage. 
 
-Mæglingsmødet kan foregå i et af rettens lokaler eller et andet sted, som retsmægleren og parterne aftaler. Hvis retsmægleren er advokat, kan mødet foregå på advokatens kontor.
+Gennem samtaler forsøger man i fællesskab at fastlægge omfanget af parternes konflikt og baggrunden herfor, og man taler om, hvordan parterne i fællesskab kan nå frem til en løsning.
 
-Retsmægleren planlægger i samråd med parterne retsmæglingens forløb. Normalt skal begge parter være personligt til stede. Det kan eventuelt aftales, at mægleren skal afholde møde med parterne hver for sig.
+Mæglingsmødet kan foregå i et af rettens lokaler eller et andet sted, som retsmægleren og parterne aftaler. 
+
+Hvis retsmægleren er advokat, kan mødet foregå på advokatens kontor.
+
+Retsmægleren planlægger i samråd med parterne retsmæglingens forløb. Normalt skal begge parter være personligt til stede. 
+
+Det kan eventuelt aftales, at mægleren skal afholde møde med parterne hver for sig.
+
+---
 
 *Hvornår afsluttes retsmægling?*
 
-Retsmæglingen bliver afsluttet, når parterne når frem til en løsning på konflikten, eller hvis en af parterne ønsker det. Retsmægleren kan slutte retsmæglingen, uanset om parterne ønsker at fortsætte.
+Retsmæglingen bliver afsluttet, når parterne når frem til en løsning på konflikten, eller hvis en af parterne ønsker det. 
 
-Hvis parterne bliver enige om en løsning på deres konflikt, indgår de en aftale. Parterne kan vælge at forelægge løsningsforslaget for deres advokater eller andre rådgivere, inden de beslutter sig for, om de vil indgå en aftale.
+Retsmægleren kan slutte retsmæglingen, uanset om parterne ønsker at fortsætte.
+
+Hvis parterne bliver enige om en løsning på deres konflikt, indgår de en aftale. 
+
+Parterne kan vælge at forelægge løsningsforslaget for deres advokater eller andre rådgivere, inden de beslutter sig for, om de vil indgå en aftale.
 
 Hvis retsmæglingen ikke resulterer i en løsning, fortsætter sagen ved retten som en almindelig retssag.
+
+---
 
 *Hvem kan bruge retsmægling?*
 
@@ -993,13 +1032,25 @@ Retsmægling er ofte mindre tidskrævende og dermed også billigere for parterne
 
 ---
 
+**Video om retsmægling**
+
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/Kr4GwHuykj8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+---
+
 
 **Voldgift** 
 
 *	Voldgiftsloven – voldgiftsklausul i aftale
-*	Ofte hurtigere sagsbehandling end alm. domstole
+
+*	Ofte hurtigere sagsbehandling end ved de alm. domstole
+
 *	Dommere med særligt fagkundskab
+
 *	Sagen er ikke offentlig
+
 *	Ikke mulighed for anke til højere instans
 
 ---
@@ -1028,7 +1079,9 @@ Procesbevillingsnævnet blev oprettet pr. 1. januar 1996 med det formål at beha
 #### Appeltilladelse
 
 
-En appeltilladelse indebærer, at en sag, der ikke ellers ville kunne ankes eller kæres, kan indbringes for en højere retsinstans. Appeltilladelse forudsætter, at sagen rejser spørgsmål af principiel karakter, eller at særlige grunde taler for tilladelse. 
+En appeltilladelse indebærer, at en sag, der ikke ellers ville kunne ankes eller kæres, kan indbringes for en højere retsinstans. 
+
+Appeltilladelse forudsætter, at sagen rejser spørgsmål af principiel karakter, eller at særlige grunde taler for tilladelse. 
 
 ---
 
@@ -1040,31 +1093,46 @@ Fri proces indebærer i grundtræk, at den pågældende får en advokat beskikke
 
 Fri proces er især forbeholdt personer, som på den ene side ikke selv har økonomisk mulighed for at betale sagsomkostningerne, men som på den anden side har rimelig grund til at føre proces, navnlig fordi der er udsigt til at vinde sagen.
 
-
 Procesbevillingsnævnets afdeling for appeltilladelser består af en højesteretsdommer (formand), en landsdommer, en byretsdommer, en advokat og et medlem, der repræsenterer retsvidenskaben.
 
 Nævnets afdeling for fri proces består af en landsdommer (afdelingsformand), en byretsdommer og en advokat.
 
 
-Beslutningerne på nævnsmøderne træffes ved almindelig stemmeflerhed. Der afholdes i almindelighed møde i hver afdeling ugentligt, og sagerne udsendes ca. en uge før mødet. Hastesager kan dog udsendes med kortere varsel. Nævnsmøderne er ikke offentlige, og der er ikke mulighed for at få foretræde for nævnet.
+Beslutningerne på nævnsmøderne træffes ved almindelig stemmeflerhed. 
+
+Der afholdes i almindelighed møde i hver afdeling ugentligt, og sagerne udsendes ca. en uge før mødet. 
+
+Hastesager kan dog udsendes med kortere varsel. 
+
+Nævnsmøderne er ikke offentlige, og der er ikke mulighed for at få foretræde for nævnet.
 
 
 I overensstemmelse med forarbejderne til lovgivningen om Procesbevillingsnævnets virksomhed begrundes nævnets afgørelser alene med en henvisning til indholdet af de bestemmelser, der giver hjemmel for meddelelse af bevilling.
-<br>
-Bevillingsmæssigt og administrativt hører Procesbevillingsnævnet under Domstolsstyrelsen, men Procesbevillingsnævnet er uafhængigt af domstolene og af den offentlige forvaltning. Man kan derfor ikke klage over nævnets afgørelser til justitsministeren eller til Folketingets Ombudsmand.
+
+Bevillingsmæssigt og administrativt hører Procesbevillingsnævnet under Domstolsstyrelsen, men Procesbevillingsnævnet er uafhængigt af domstolene og af den offentlige forvaltning. 
+
+Man kan derfor ikke klage over nævnets afgørelser til justitsministeren eller til Folketingets Ombudsmand.
 
 ---
 
 ### Rigsretten
 
 
-Rigsretten består af indtil 15 af Højesterets dommere og et tilsvarende antal medlemmer, som udpeges af Folketinget. Folketingsmedlemmer kan ikke udpeges til medlem af Rigsretten.
+Rigsretten består af indtil 15 af Højesterets dommere og et tilsvarende antal medlemmer, som udpeges af Folketinget. 
+
+Folketingsmedlemmer kan ikke udpeges til medlem af Rigsretten.
 
 Medlemmerne af Rigsretten vælges for 6 år. Der er udpeget medlemmer af Rigsretten i 1996.
  
-Rigsretten har til opgave at påkende sager mod ministre vedrørende deres embedsførelse. Det er Folketinget, der beslutter, om der skal rejses tiltale mod en minister.
+Rigsretten har til opgave at påkende sager mod ministre vedrørende deres embedsførelse. 
 
-Folketinget har 5 gange rejst tiltale for Rigsretten. Den seneste sag var mod tidligere justitsminister Erik Ninn-Hansen. Der blev afsagt dom i sagen den 22. juni 1995.
+Det er Folketinget, der beslutter, om der skal rejses tiltale mod en minister.
+
+Folketinget har 5 gange rejst tiltale for Rigsretten. 
+
+Den seneste sag var mod tidligere justitsminister Erik Ninn-Hansen. 
+
+Der blev afsagt dom i sagen den 22. juni 1995.Ved den første rigsretssag siden 1910 blev han i 1995 idømt fire måneders betinget fængsel for brud på ministeransvarlighedsloven, idet rigsretten fandt, at det var ulovligt, at han som minister gennemtvang et stop for familiesammenføringer for tamilske flygtninge uden om Folketinget.
 
 ---
 
@@ -1081,12 +1149,19 @@ Dommerudnævnelsesrådet blev oprettet ved lov nr. 402 af 26. juni 1998 som et l
 
 ### Domstolsstyrelsen 
 
+
+
 Domstolsstyrelsen har til opgave at administrere og udvikle Danmarks Domstole.
 
 Domstolsstyrelsen blev oprettet som en ny, selvstændig statsinstitution den 1. juli 1999.
-Domstolsstyrelsen ledes af en bestyrelse og en direktør. Domstolsstyrelsen hører ressortmæssigt under Justitsministeriet, men justitsministeren kan ikke bestemme over styrelsen og kan ikke ændre styrelsens afgørelser.
 
-Bestyrelsen er den øverste ledelse og har det overordnede ansvar for Domstolsstyrelsens virksomhed. Den daglige ledelse er lagt i hænderne på direktøren, som er ansat af og kan afskediges af bestyrelsen.
+Domstolsstyrelsen ledes af en bestyrelse og en direktør. 
+
+Domstolsstyrelsen hører ressortmæssigt under Justitsministeriet, men justitsministeren kan ikke bestemme over styrelsen og kan ikke ændre styrelsens afgørelser.
+
+Bestyrelsen er den øverste ledelse og har det overordnede ansvar for Domstolsstyrelsens virksomhed. 
+
+Den daglige ledelse er lagt i hænderne på direktøren, som er ansat af og kan afskediges af bestyrelsen.
 
 Sammensætningen af Domstolsstyrelsens bestyrelse er fastsat i lov om Domstolsstyrelsen.
 
