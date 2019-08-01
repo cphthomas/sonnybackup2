@@ -706,25 +706,138 @@ Det er dagen hvor begæringen modtages, som er afgørende for fristdagen.
 ![](img/Omstødelsesregler.png)
 (Kilde; Trojka)
 
+```{r kaution, echo=FALSE}
+
+mydf <- data.frame(
+  S1 = c(
+"Omstødelse af",
+"Gaver" ,
+"Løn til nærtstående",
+"Betaling af gæld", 
+"Pant for gammel gæld", 
+"Udlæg",
+"Utilbørlige dispositioner"
+),
+  S2 = c(
+    "Hovedregel for hvornår handlingen skal være foretaget, regnet tilbage fra fristdagen",
+    "6 måneder",
+    "6 måneder",
+    "3 måneder",
+    "3 måneder",
+    "3 måneder",
+    "Ingen grænse"
+),
+  S3 = c(
+    "Hvis debitor er insolvent på tidspunktet for handlingens foretagelse, og handlingen er til fordel for en nærtstående, er fristen (regnet tilbage fra fristdagen):",
+"2 år",
+"2 år",
+"2 år",
+"2 år",
+"2 år",
+"Ingen grænse"
+)
+  
+)
+names(mydf) <- NULL
+
+mydf %>%
+  kable("html", escape = FALSE,caption = "Sammenligning mellem privat kaution og erhvervskaution") %>%
+  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
+  column_spec(1, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  column_spec(3, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  row_spec(1,italic = T,bold = T,font_size = 12,color = "white", background = "darkgrey")
+  # row_spec(1,italic = T,bold = T,font_size = 12)
+  # column_spec(0, angle = -45)%>%
+  # scroll_box(width = "500px") %>%
+  # footnote(general = "Databeskyttelsesforordningen",general_title = "Kilde:")
+```
+
+
 ---
 
 ![](img/omst1.png)
 (Kilde; Trojka)
+
+```{r, echo=FALSE, result=TRUE ,fig.cap=("Omstødelsesperiode for gaver")}
+library(timevis)
+
+data <- data.frame(
+  id      = 1:5,
+  content = c("6 måneder fra 2019-08-02 til 2020-02-01", "Omstødelsesperiode<br>starter<br>2019-08-02",
+              "Overdragelse<br>af gave<br>2019-11-01", "Fristdag<br>2019-08-01","Konkursdekret<br>2019-08-22"),
+  start   = c("2019-08-02", "2019-08-02",
+              "2019-11-01", "2020-02-01","2020-02-25"),
+  end     = c("2020-02-01", NA, NA, NA,NA) )
+timevis(data)%>%
+  setOptions(list(editable = FALSE)) %>%
+  setSelection("5") %>%
+  fitWindow(list(animation = TRUE))
+```
+
 
 ---
 
 ![](img/omst2.png)
 (Kilde; Trojka)
 
+```{r, echo=FALSE, result=TRUE ,fig.cap=("Modregning før fristdag")}
+library(timevis)
+
+data <- data.frame(
+  id      = 1:4,
+  content = c("Fristdag",
+              "Skyldners (konkursboets hovedkrav på kreditor opstår", "Kreditors modkrav opstår","Konkursdekret"),
+  start   = c("2019-08-02",
+              "2019-11-01", "2020-02-01","2020-02-25"),
+  end     = c( NA, NA, NA,NA) )
+timevis(data)%>%
+  setOptions(list(editable = FALSE)) %>%
+  setSelection("5") %>%
+  fitWindow(list(animation = TRUE))
+```
+
 ---
 
 ![](img/omst3.png)
 (KIlde; Trojka)
 
+```{r, echo=FALSE, result=TRUE ,fig.cap=("Modregning mellem fristdag og konkursdekret")}
+library(timevis)
+
+data <- data.frame(
+  id      = 1:4,
+  content = c("Fristdag",
+              "Skyldners (konkursboets hovedkrav på kreditor er opstået", "Kreditors modkrav er opstået","Konkursdekret"),
+  start   = c("2019-08-02",
+              "2019-11-01", "2020-02-01","2020-02-25"),
+  end     = c( NA, NA, NA,NA) )
+timevis(data)%>%
+  setOptions(list(editable = FALSE)) %>%
+  setSelection("5") %>%
+  fitWindow(list(animation = TRUE))
+```
+
 ---
 
 ![](img/omst4.png)
 (KIlde; Trojka)
+
+```{r, echo=FALSE, result=TRUE ,fig.cap=("Modregning mellem fristdag og konkursdekret")}
+library(timevis)
+
+data <- data.frame(
+  id      = 1:5,
+  content = c("A får lavet køkken<br>Snedkers krav opstår",
+              "Trælastens krav<br>på snedker opstår", "A køber<br>fordring","3 måneder","Fristdag"),
+  start   = c("2019-08-02",
+              "2019-11-01", "2020-02-01","2020-02-01","2020-02-25"),
+  end     = c( NA, NA, NA,"2020-02-25",NA) )
+timevis(data)%>%
+  setOptions(list(editable = FALSE)) %>%
+  setSelection("5") %>%
+  fitWindow(list(animation = TRUE))
+```
 
 ---
 
