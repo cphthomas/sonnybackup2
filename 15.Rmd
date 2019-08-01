@@ -1,6 +1,10 @@
 # Kautionsforhold
 
-![](img/kau9.jpg)
+
+
+<!-- ![](img/kau9.jpg) -->
+
+
 ---
 
 ***Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af sikkerhedsstillelse for gæld:***
@@ -42,17 +46,18 @@ Der er tre parter i kautionsforhold (Se figuren nedenfor):
 (KIlde; Trojka) Fig. 15.1.
 **Parter i kautionsforhold**
 ```{r, echo=FALSE, result=TRUE,fig.cap=("Forholdet mellem debitor, kreditor og kautionist")}
-nodes <- data.frame(id = 1:3, 
+nodes <- data.frame(id = 1:3,
+                    level=c(2,1,1),
                     shape = c("box"),
                     label = c("Kautionist","Långiver\nKreditor","Debitor\nLåntager"),
-                    font.size = c(25,25,25))
+                    font.size = c(20,20,20))
   
 edges <- data.frame(from = c(1,2), to = c(2,3),
                     length = c(300,300),
                     label=c("Kautionsaftale","Lån\nkredit"),
-                    font.size = c(20,20),
+                    font.size = c(15,15),
                     arrows = c("to"),
-                    smooth = TRUE)
+                    smooth = FALSE)
 visNetwork(nodes, edges, width = "100%") %>% 
   visInteraction(dragNodes = TRUE, 
                  dragView = TRUE, 
@@ -61,7 +66,7 @@ visNetwork(nodes, edges, width = "100%") %>%
                         border = "white",
                         highlight = "yellow"),
            shadow = list(enabled = TRUE, size = 30))  %>%
-   # visHierarchicalLayout(direction = "UD",levelSeparation = 200) %>%
+   visHierarchicalLayout(direction = "UD",levelSeparation = 200) %>%
   visEdges(color = list(color = "lightgrey", highlight = "yellow"))
 ```
 
@@ -89,16 +94,17 @@ Kautionisten har typisk en relation til låntager i forvejen:
   
 ```{r network5, echo=FALSE, result=TRUE,fig.cap=("Eneanpartshaver stiller kaution overfor banken til sikkerhed for virksomhedens lån")}
 nodes <- data.frame(id = 1:3, 
+                    level=c(1,2,2),
                     shape = c("box"),
                     label = c("Kautionist\nEneanpartshaver","Bank","Debitor\nApS"),
-                    font.size = c(25,25,25))
+                    font.size = c(20,20,20))
   
 edges <- data.frame(from = c(1,2,3), to = c(2,3,1),
                     length = c(300,300,300),
                     label=c("Kautionsaftale","Lån","100% anparter"),
-                    font.size = c(20,20,20),
-                    # arrows = c("to"),
-                    smooth = TRUE)
+                    font.size = c(15,15,15),
+                    arrows = c("to"),
+                    smooth = FALSE)
 visNetwork(nodes, edges, width = "100%") %>% 
   visInteraction(dragNodes = TRUE, 
                  dragView = TRUE, 
