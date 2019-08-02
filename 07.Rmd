@@ -5,7 +5,7 @@
 
 ***Indledningsvis skal du som studerende være særlig opmærksom på følgende i forbindelse med gennemgangen af erstatningsretten:***
 
-<img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 
 
 •	**Grundlæggende erstatningsbetingelser; ansvarsgrundlag, årsagsforbindelse, påregnelighed, økonomisk tab og værnet interesse**
@@ -82,23 +82,24 @@ Se følgende domme, hvor der idømmes erstatningsansvar i forskellige situatione
 
 ---  
 
-<img src="img/golf.jpg" align="right" width="10%" height="10%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/golf.jpg" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 *FED 2012.3: A, der sad uden for golfbanens cafeteria, blev ramt i hovedet af golfbold, da B – som deltager i en polterabend – under golfspil kom til at slå bolden for langt. B, der kun én gang tidligere havde prøvet at spille golf og ikke havde modtaget undervisning heri, fandtes erstatningsansvarlig.*
 
 
 
-<img src="img/sovn.jpg" align="right" width="10%" height="10%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/sovn.jpg" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-*FED 2009.114: En kvinde, som faldt i søvn som fører af en bil, påkørte og dræbte en modkørende bilist. Hun blev idømt en fængselsstraf på 10 måneder, men hendes kørsel kunne ikke karakteriseres som særlig hensynsløs, hvorfor afdødes ægtefælle ikke havde krav på godtgørelse i medfør af EAL § 26 a.*  
-
-
-<img src="img/stripper2.jpg" align="right" width="10%" height="10%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+*FED 2009.114: En kvinde, som faldt i søvn som fører af en bil, påkørte og dræbte en modkørende bilist. Hun blev idømt en fængselsstraf på 10 måneder, men hendes kørsel kunne ikke karakteriseres som særlig hensynsløs, hvorfor afdødes ægtefælle ikke havde krav på godtgørelse i medfør af EAL § 26 a.*
 
 
 
-*FED 2008.1: En mandlig stripteasedanser B ansvarlig for øjenskade på deltager A i kvindelig polterabend, da B affyrede konfettirør. Ikke grundlag for at nedsætte erstatningen som følge af egen skyld eller accept af risiko.*
 
+
+
+*FED 2008.1: <img src="img/stripper2.jpg" align="left" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>  En mandlig stripteasedanser B ansvarlig for øjenskade på deltager A i kvindelig polterabend, da B affyrede konfettirør. Ikke grundlag for at nedsætte erstatningen som følge af egen skyld eller accept af risiko.*
+
+<br><br><br><br>
 
 
 ---     
@@ -619,11 +620,11 @@ Erstatningen bliver fordoblet, hvis afdøde var eneforsørger.
 
 
 
-### Eksamensspørgsmål indenfor erstatningsretten mv.
+**Eksamensspørgsmål indenfor erstatningsretten mv.**
 
-### Eksamensopgave og løsning - Om ejendomsmæglerens erstatningsansvar uden for kontrakt
+**Eksamensopgave og løsning - Om ejendomsmæglerens erstatningsansvar uden for kontrakt**
 
-***Ejendomsmæglerens støvler***
+**Ejendomsmæglerens støvler**
 
 ![](img/martin.jpg)
 (fiktiv)
@@ -650,7 +651,7 @@ Læringsmål: Du skal som studerende anvende og kunne vurdere de grundlæggende 
 
 
 
-<img src="img/Danske lov.jpg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 
 
 
@@ -670,9 +671,9 @@ Pernille kan derfor nok ikke få erstatning for tabet af ”Guffe”.
 
 ---
 
-### Eksamensopgave og løsning - Om erstatning og kaution
+**Eksamensopgave og løsning - Om erstatning og kaution**
 
-***Murermester Madsen***
+**Murermester Madsen**
 
 ![](img/murermester.jpg)
 (fiktiv)
@@ -722,9 +723,9 @@ Derefter spurgte han sin ansatte murelæring, der netop havde arvet, om han vill
     aftaleloven (stærk ugyldighedsindsigelse). 
 
 
-### Eksamensopgave og løsning - Erstatning uden for kontrakt og forbrugeraftaler
+**Eksamensopgave og løsning - Erstatning uden for kontrakt og forbrugeraftaler**
 
-***Randers Boldklub***
+**Randers Boldklub**
 
 Hans bor i Randers og har 2 teenagedrenge. De spiller fodbold, og de kommer sammen med deres far til samtlige af Randers fodboldkampe. 
 
@@ -744,7 +745,7 @@ Hans og drengene skynder sig hjem. De løber ned af vejen. Henne ved hjørne st�
 
 En uge efter kampen kommer trøjerne og kasketterne men nu vil Hans ikke længere have dem.
 
-***Eksamensspørgsmålene:***
+**Eksamensspørgsmålene:**
 
 1.	Kan Albert få erstatning og hvilke krav kan han i givet fald 
     rejse?
@@ -758,7 +759,7 @@ En uge efter kampen kommer trøjerne og kasketterne men nu vil Hans ikke længer
 5.  Kan Hans rejse krav om erstatning mod sælger, hvis han er bundet af aftalen om køb af trøjerne og kasketterne?
 
 
-***Vejledende løsning:***
+**Vejledende løsning:**
 
 1.	Kan Albert få erstatning og hvilke krav kan han i givet fald 
     rejse? Ja. I henhold til EAL kan han rejse personskade, tabt 

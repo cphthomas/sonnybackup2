@@ -7,11 +7,9 @@
 
 ---
 
-***Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af sikkerhedsstillelse for gæld:***
+**Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af sikkerhedsstillelse for gæld i forhold til eksamen:**
 
  
-<img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
 
 **Kautionsformer især sondringen mellem simpel og selvskyldnerkaution**
 
@@ -38,23 +36,25 @@ Kaution er en sikkerhedsstillelse for et gældsforhold
 
 Der er tre parter i kautionsforhold (Se figuren nedenfor):
 
-  +	Låntager = hovedskyldner
-  +	Långiver = kreditor
-  +	Kautionist
++	Låntager = hovedskyldner
+
++	Långiver = kreditor
+
++	Kautionist
   
-![](img/kau1.png)
-(KIlde; Trojka) Fig. 15.1.
+
+
 **Parter i kautionsforhold**
 ```{r, echo=FALSE, result=TRUE,fig.height=3,fig.cap=("Forholdet mellem debitor, kreditor og kautionist")}
 nodes <- data.frame(id = 1:3,
                     level=c(2,1,1),
                     shape = c("box"),
-                    label = c("Kautionist","Långiver\nKreditor","Debitor\nLåntager"),
+                    label = c("kautionist","långiver/\nkreditor","debitor/\nlåntager"),
                     font.size = c(20,20,20))
   
 edges <- data.frame(from = c(1,2), to = c(2,3),
                     length = c(300,300),
-                    label=c("Kautionsaftale","Lån\nkredit"),
+                    label=c("kautionsaftale","lån/\nkredit"),
                     font.size = c(15,15),
                     arrows = c("to"),
                     smooth = FALSE)
@@ -70,10 +70,6 @@ visNetwork(nodes, edges, width = "100%") %>%
   visEdges(color = list(color = "lightgrey", highlight = "yellow"))
 ```
 
----
-
-![](img/kau.png)
-(KIlde; Trojka) fig. 15.2.
 
 ---
 
@@ -81,27 +77,24 @@ Kautionsaftalen indgås mellem kautionisten og kreditor
 
 Kautionisten har typisk en relation til låntager i forvejen:
 
-  +	Forældre &lrarr;	børn
-  +	Virksomhedsejer	&lrarr; virksomhed
-  +	Moderselskab &lrarr; datterselskab
++	Forældre &lrarr;	børn
+
++	Virksomhedsejer	&lrarr; virksomhed
+
++	Moderselskab &lrarr; datterselskab
 
 
 
-
-
-  
-
-  
 ```{r network5, echo=FALSE, result=TRUE,fig.height=3,fig.cap=("Eneanpartshaver stiller kaution overfor banken til sikkerhed for virksomhedens lån")}
 nodes <- data.frame(id = 1:3, 
                     level=c(1,2,2),
                     shape = c("box"),
-                    label = c("Kautionist\nEneanpartshaver","Bank","Debitor\nApS"),
+                    label = c("kautionist/\neneanpartshaver","bank","debitor/\nApS"),
                     font.size = c(20,20,20))
   
 edges <- data.frame(from = c(1,2,3), to = c(2,3,1),
                     length = c(300,300,300),
-                    label=c("Kautionsaftale","Lån","100% anparter"),
+                    label=c("kautionsaftale","lån","100% anparter"),
                     font.size = c(15,15,15),
                     arrows = c("to"),
                     smooth = FALSE)
@@ -135,9 +128,13 @@ Kautionsaftale indgås mellem kreditor og med en eller flere kautionister.
 
 Aftalelovens regler gælder også for kautionsaftaler, fx:
 
-  +	Stærke og svage ugyldighedsgrunde
-  +	Forudsætningslæren
-  +	Generalklausulen om tilsidesættelse af urimelige aftaler i aftalelovens §§ 38c, jf. 36
++	Stærke og svage ugyldighedsgrunde
+
++	Forudsætningslæren
+
++	Generalklausulen om tilsidesættelse af urimelige aftaler i aftalelovens §§ 38c, jf. 36.
+
+---
   
 Kaution er også reguleret i Lov om finansiel virksomhed, se Lovbekendtgørelse nr. 1140 af 26. september 2017 om finansiel virksomhed (FIL), jf. §§ 47 (erhvervskaution) og 48 (privat kaution), hvis kaution gives overfor en finansiel virksomhed
 
@@ -184,40 +181,42 @@ Erhvervskaution stilles både af fysiske og juridiske personer, men typisk er de
 
 I vurderingen erhvervskaution eller privat kaution indgår følgendeparametre (Se figuren nedenfor):
 
-  + Ejerandel i virksomhed, der kautioneres for
-  + Stilling i virksomheden
-  + Indsigt i virksomhedens økonomi
-  + Bestemmende indflydelse i virksomheden samlet set
++ Ejerandel i virksomhed, der kautioneres for
+
++ Stilling i virksomheden
+
++ Indsigt i virksomhedens økonomi
+
++ Bestemmende indflydelse i virksomheden samlet set
 
 ---  
 
-![](img/kau2.png)
-(Kilde; Trojka) fig. 15.4.
+
 
 ```{r kaution, fig.height=3,echo=FALSE}
 
 mydf <- data.frame(
   S1 = c(
 "",
-"Kautionisten ejer en del af den virksomhed, der kautioneres for bestemmende indflydelse er afgørende" ,
-"Arbejde i virksomheden", 
-"Indsigt i økonomien", 
-"Ejerandel under 10%" 
+"Kautionisten ejer en del af den virksomhed, der kautioneres for, er den bestemmende indflydelse afgørende" ,
+"Arbejder i virksomheden", 
+"Har indsigt i økonomien", 
+"Ejerandelen under 10%" 
 ),
   S2 = c(
     "Privat kaution",
-"Ejer kautionisten mindre end 50% af virksomheden, er det som udgangspunkt privat kaution.",
-"Ubetydelig stilling uden indflydelse på driften, så er det stadig en privat kaution.", 
-"Ingen indsigt i virksomhedens økonomi taler for en privat kaution.",
+"Ejer kautionisten mindre end 50% af virksomheden, er det som udgangspunkt en privat kaution.",
+"Indtager en ubetydelig stilling uden indflydelse på driften, så er det stadigvæk en privat kaution.", 
+"Ingen indsigt i virksomhedens økonomi taler det for en privat kaution.",
 "Er ejerandelen lille i forhold til andres
-ejerandel, er der ikke tale om bestemmende indflydelse, og kautionen er privat.
+ejerandel, er der ikke tale om en bestemmende indflydelse, og derfor er kautionen privat.
 "
 ),
   S3 = c(
     "Erhvervskaution",
-"Ejer kautionisten mere end 50 % af virksomheden, er det erhvervskaution.", 
-"Har kautionisten en ledende stilling i virksomheden, kan det være en erhvervskaution, selvom kautionisten ejer mindre end 50% af virksomheden.",
-"Har kautionisten stor indsigt i virksomhedens økonomi, kan det være en erhvervskaution selvom ejerandelen er under 50%",
+"Ejer kautionisten mere end 50 % af virksomheden, så er der tale om erhvervskaution.", 
+"Har kautionisten en ledende stilling, kan det være en erhvervskaution, selvom kautionisten ejer mindre end 50% af virksomheden.",
+"Har kautionisten stor indsigt i virksomhedens økonomi, kan der være tale om en erhvervskaution selvom ejerandelen er under 50%",
 "")
   
 )
@@ -246,7 +245,9 @@ mydf %>%
 
 Med hensyn til erhvervskaution i et pengeinstitut følger det af FIL § 47: 
 
-*”Er der inden for erhvervsforhold stillet kaution for lån ydet af et pengeinstitut, og udebliver låntager med betaling af hovedstol, afdrag eller renter, skal der senest 6 måneder efter de pågældende ydelsers forfaldsdag skriftligt gives meddelelse til enhver af kautionisterne eller til den eller dem af disse, der er bemyndiget til at modtage meddelelsen på samtlige kautionisters vegne. Undladelse heraf medfører, at pengeinstituttet taber sit krav over for kautionisterne, i det omfang disses regreskrav mod låntageren er blevet forringet ved undladelsen.*
+”Er der inden for erhvervsforhold stillet kaution for lån ydet af et pengeinstitut, og udebliver låntager med betaling af hovedstol, afdrag eller renter, skal der senest 6 måneder efter de pågældende ydelsers forfaldsdag skriftligt gives meddelelse til enhver af kautionisterne eller til den eller dem af disse, der er bemyndiget til at modtage meddelelsen på samtlige kautionisters vegne. 
+
+Undladelse heraf medfører, at pengeinstituttet taber sit krav over for kautionisterne, i det omfang disses regreskrav mod låntageren er blevet forringet ved undladelsen.*
 
 ---
 
@@ -282,7 +283,7 @@ Ved tilstrækkeligt informeret forstås, at informationen skal være udformet, s
 
 Der vil derfor kunne være behov for at supplere en udleveret pjece med yderligere information over for kautionister, der har svært ved at forstå indholdet og konsekvenserne ved en kautionsforpligtelse.
 
-![](img/kau12.jpg)
+![](img/kau15.jpg)
 
 ---
 
@@ -304,13 +305,15 @@ Derudover er bestemmelsen udvidet til at omfatte tredjemandspant og realkreditl�
 
 Med hensyn til privatkaution i et pengeinstitut følger det således af FIL § 48, stk. 1, at inden der indgås aftale om en kautionsforpligtelse uden for erhvervsforhold for lån eller kreditter ydet af et pengeinstitut, skal pengeinstituttet sikre sig, at kautionisten er tilstrækkeligt informeret om indholdet af aftalen og konsekvenserne af at påtage sig en kautionsforpligtelse. 
 
-Denne information skal indeholde oplysninger om, hvad den konkrete kautionsforpligtelse indebærer, og indeholde en afbalanceret beskrivelse af de risici, der er forbundet hermed. Endvidere skal pengeinstituttet for den debitor, hvis gæld kautionsforpligtelsen skal sikre, med samtykke fra debitor udlevere: 
+Denne information skal indeholde oplysninger om, hvad den konkrete kautionsforpligtelse indebærer, og indeholde en afbalanceret beskrivelse af de risici, der er forbundet hermed. 
+
+Endvidere skal pengeinstituttet for den debitor, hvis gæld kautionsforpligtelsen skal sikre, med samtykke fra debitor udlevere: 
 
 ---
 
 ![](img/ors.jpg)
 
-***Den seneste årsopgørelse fra SKAT,***
+**Den seneste årsopgørelse fra SKAT,**
 
 **De seneste tre lønsedler eller det seneste årsregnskab, hvis der kautioneres for en erhvervsdrivendes gæld.**
 
@@ -389,13 +392,17 @@ Det vil sige, at kautionisten skal oplyses om, at lånet er finansieret på den 
 
 Er kautionen stillet for flere fordringer af forskellig karakter, vil kautionsdækningen af de enkelte fordringer bortfalde på forskellige tidspunkter. 
 
-Tidsbegrænsningen regnes fra kautionsaftalens indgåelse. Efter udløb af en kautionsaftale er det muligt at aftale en forlængelse af kautionen ved at iagttage de krav, der gælder i forbindelse med en kautionsaftales indgåelse, jf. § 48, stk. 1. 
+Tidsbegrænsningen regnes fra kautionsaftalens indgåelse. 
 
-Den fastsatte tidsbegrænsning omfatter ikke tilfælde, hvor anden lovgivning har forudsat eller foreskriver kautionsaftaler, der løber længere tid end foreskrevet i dette stykke. Bestemmelsen berører ikke reglerne om forældelse i forældelsesloven. Forældelsesreglerne finder anvendelse, når kravet efter kautionsløftet forfalder. 
+Efter udløb af en kautionsaftale er det muligt at aftale en forlængelse af kautionen ved at iagttage de krav, der gælder i forbindelse med en kautionsaftales indgåelse, jf. § 48, stk. 1. 
+
+Den fastsatte tidsbegrænsning omfatter ikke tilfælde, hvor anden lovgivning har forudsat eller foreskriver kautionsaftaler, der løber længere tid end foreskrevet i dette stykke. 
+
+Bestemmelsen berører ikke reglerne om forældelse i forældelsesloven. Forældelsesreglerne finder anvendelse, når kravet efter kautionsløftet forfalder. 
 
 Når en fordring er sikret ved kaution, bestemmes forældelsesfristen over for kautionisten efter de regler, der gælder for forældelse af fordringen mod hovedskyldneren jf. § 11 i forældelsesloven. 
 
-
+---
 
 **En aftale om en kautionsforpligtelse efter FIL § 48, stk. 1 kan tilsidesættes helt eller delvis, hvis den står i misforhold til kautionistens økonomi, jf. FIL § 48, stk. 10.**
 
@@ -406,8 +413,6 @@ Denne vurdering skal som udgangspunkt foretages på baggrund af forholdene på t
 Hvis kautionisten kun har beskedne indtægter, bør der kun lægges vægt på formueforholdene. Der skal kun i særlige tilfælde tages hensyn til efterfølgende ændringer i kautionistens økonomi. 
 
 Fremtidige, kendte indtægtsstigninger kan indgå i vurderingen sammen med kendte mærkbare formueforøgelser inden for rimelig tid efter påtagelsen af kautionsforpligtelsen. 
-
-
 
 Ved kautionister med større indtægter eller ved forventninger om større indtægtsstigninger, bør de fremtidige indtægter og indtægtsforventninger indgå i vurderingen af, om kautionen står i misforhold til kautionistens økonomi. 
 
@@ -429,7 +434,6 @@ Der tages således kun hensyn til, at kautionisten har påtaget sig kautions-, p
 
 Generalklausulen i aftalelovens §§ 36 og 38 c vil herudover forsat kunne bringes i anvendelse i øvrigt i forhold til kautionsforpligtelser.
 
-
 FIL § 48, stk. 1-10 finder tilsvarende anvendelse på tredjemandspant uden for erhvervsforhold, jf. FIL § 48, stk. 11.
 
 Tredjemandspant stillet af en privatperson minder på flere punkter om privat kaution. 
@@ -438,8 +442,6 @@ Både ved kaution og tredjemandspant er der tale om, at en fordringshaver opnår
 
 I modsætning til kaution hæfter en tredjemandspantsætter dog ikke personligt for den sikrede fordring, men derimod kun med det stillede pant, medmindre andet er aftalt.
 
-
-![](img/kau13.jpg)  
 
 ---
 
@@ -455,9 +457,11 @@ Beskrivelse af risikoen.
 
 Oplysninger om låntagers (debitors) økonomi:
 
-  + Årsopgørelser fra Skat
-  + Lønsedler
-  + Evt. årsregnskab
++ Årsopgørelser fra Skat
+
++ Lønsedler
+
++ Evt. årsregnskab
   
 Låntagers gæld til den finansielle virksomhed.
 
@@ -473,20 +477,23 @@ Hvis oplysningspligten ikke er overholdt kan kautionen   eventuelt tilsidesætte
 
 Hvornår kautionen kan gøres gældende afhænger af kautionstypen:
 
-  + **Simpel kaution** – når det er dokumenteret, at debitor ikke kan   betale lånet
+
+**Simpel kaution** – når det er dokumenteret, at debitor ikke kan betale lånet
   
-  + **Selvskyldnerkaution** – når debitor har misligholdt lånet
+**Selvskyldnerkaution** – når debitor har misligholdt lånet
   
-  + **Tabskaution** – efter udtømmende retsforfølgning
+**Tabskaution** – efter udtømmende retsforfølgning
+
+---
   
-Hvilket beløb kautionen kan gøres gældende for afhænger af 
-kautionstypen:
+Hvilket beløb kautionen kan gøres gældende for afhænger af kautionstypen:
+
   
-  + Alskyld – for hele lånet
+**Alskyld** – for hele lånet
   
-  + Begrænset kaution – for et maksimalt beløb
+**Begrænset kaution** – for et maksimalt beløb
   
-  + Delkaution – for en bestemt del af lånet
+**Delkaution** – for en bestemt del af lånet
 
 (Se figuren nedenfor)
  
@@ -503,14 +510,14 @@ mydf <- data.frame(
 "Medkaution", 
 "Efterkaution"),
   S2 = c("Definition" ,
-  "Kan først gøres gældende, når det er dokumenteret, at 
+  "Kan først gøres gældende overfor kautionisten, når det er dokumenteret, at 
 debitor ikke kan betale gælden.", 
-"Kan gøres gældende, når debitor misligholder lånet. ",
-"Kan gøres gældende efter udtømmende retsforfølgning.",
+"Kan gøres gældende overfor kautionisten, når debitor misligholder lånet. ",
+"Kan gøres gældende overfor kautionisten efter udtømmende retsforfølgning.",
 "Omfatter hele gælden med et maksimalt beløb.",
 "Kautionen omfatter en bestemt del af gælden.",
 "Flere kautionister for samme gældsforhold under forudsætning af, at andre kautionister også har kautioneret.", 
-"Flere kautionister for samme gældsforhold stillet uafhængigt af hinanden.",
+"Flere kautionister for samme gældsforhold som er stillet uafhængigt af hinanden.",
 "Kaution stillet overfor kreditor som effektueres, når hovedkautionist ikke kan betale")
   
 )
@@ -610,14 +617,12 @@ Hvis kravet ikke er betalt, kan långiver allerede fra forfaldsdagen kræve beta
 
 Ved simpel kaution skal långiver derimod dokumentere, at låntager ikke kan betale gælden, før der kan kræves betaling fra kautionisterne.
 
+---
+
 **Simpel kaution** finder anvendelse, medmindre andet er aftalt eller følger af lov.
 
 Professionelle långivere som banker vil imidlertid normalt kræve, at en kaution stilles som selvskyldnerkaution.
 
----
-
-![](img/kau3.png)
-(Kilde; Trojka) fig. 15.6
 
 ---
 
@@ -637,8 +642,9 @@ De samme beskyttelsesregler gælder, hvis en privatperson stiller pantesikkerhed
 
 Er der flere kautionister kan det være (Se figuren nedenfor):
 
-  + Samkaution – afhængigt af hinanden
-  + Medkaution – uafhængigt af hinanden
++ Samkaution – afhængigt af hinanden
+
++ Medkaution – uafhængigt af hinanden
   
 Flere kautionister hæfter solidarisk, hvis ikke andet er aftalt.
 
@@ -651,7 +657,7 @@ Hvis det er aftalt kan kautionisterne hæfte pro rata (Se figuren nedenfor).
 nodes <- data.frame(id = 1:6, 
                     level = c(2,3,3,3,1,3),
                     shape = c("box"),
-                    label = c("Kreditor","Kautionist 1","Kautionist 2","Kautionist 3","Debitor","Kautionist 4"),
+                    label = c("kreditor","kautionist 1","kautionist 2","kautionist 3","debitor","kautionist 4"),
                     font.size = c(25,25,25,25,25,25))
   
 edges <- data.frame(from = c(2,3,4,1,6), to = c(1,1,1,5,1),
@@ -682,13 +688,13 @@ visNetwork(nodes, edges, width = "100%") %>%
 nodes <- data.frame(id = 1:5, 
                     level = c(2,3,3,3,1),
                     shape = c("box"),
-                    label = c("Kreditor","Kautionist 1 50%","Kautionist 2 25%","Kautionist 3 25%","Debitor"),
+                    label = c("kreditor","kautionist 1: 50%","kautionist 2: 25%","kautionist 3: 25%","debitor"),
                     font.size = c(25,25,25,25,25))
   
 edges <- data.frame(from = c(2,3,4,1), to = c(1,1,1,5),
                     length = c(250,250,250,250),
                     font.size = c(25,25,25,25),
-                    label=c("Hæftelse\n500.000","Hæftelse\n250.000","Hæftelse\n250.000","Lån 1 mio"),
+                    label=c("hæftelse\n500.000 kr.","hæftelse\n250.000 kr.","hæftelse\n250.000 kr.","lån 1 mio"),
                     # arrows = c("to"),
                     smooth = FALSE)
 visNetwork(nodes, edges, width = "100%") %>% 
@@ -712,11 +718,11 @@ visNetwork(nodes, edges, width = "100%") %>%
 ```{r network7, echo=FALSE,fig.height=3, result=TRUE,fig.cap=("Efterkaution.")}
 nodes <- data.frame(id = 1:4, shadow = TRUE,
                     shape = c("box"),
-                    label = c("Kreditor","Hovedkautionist\nEneanpartshaver","Efterkautionist\nÆgtefælle","Debitor\nBank"),
+                    label = c("Kreditor","hovedkautionist/\neneanpartshaver","efterkautionist/\nægtefælle","debitor/\nbank"),
                     font.size = c(26,26,26,26))
 edges <- data.frame(from = c(2,3,1), to = c(1,1,4),
                     length = c(300,300,300),
-                    label=c("Hæftelse 1","Hæftelse 2","Lån"),
+                    label=c("hæftelse 1","hæftelse 2","lån"),
                     smooth = FALSE,
                     font.size = c(16,16,16))
 visNetwork(nodes, edges, width = "100%") %>% 
@@ -763,18 +769,18 @@ Kautionen forældes sammen med hovedfordring, hvis ikke andet er aftalt.
 
 Når kautionisten har betalt kreditor det skyldige beløb, har kautionisten regresret overfor debitor:
 
-* **HR:** Kautionisten indtræder i kreditors rettigheder også i fx en panteret
+**HR:** Kautionisten indtræder i kreditors rettigheder også i fx en panteret
 
-  + **U1**: Kautionisten var klar over, at fordringen var ugyldig på grund af låntagers umyndighed
++ **U1**: Kautionisten var klar over, at fordringen var ugyldig på grund af låntagers umyndighed
   
-  + **U2**: Fordringen er eftergivet helt eller delvist ved tvangsakkord
++ **U2**: Fordringen er eftergivet helt eller delvist ved tvangsakkord
 
 ---
 
 ## Regresret
 
-![](img/kau6.png)
-(Kilde: Trojka) fig. 15.7.
+
+
 
 **Kautionistens regresret**
 ```{r ,echo=FALSE, result=TRUE, fig.height=4,fig.cap=("Kautionistens regresret over for låntager")}
@@ -782,7 +788,7 @@ Når kautionisten har betalt kreditor det skyldige beløb, har kautionisten regr
 nodes <- data.frame(id = 1:5, 
                     shape = c("box"), 
                     level = c(1,2,3,4,5),
-                    label = c("1. Kreditor har krav på låntager","2. Låntager misligholder","3. Kreditor kræver kautionen indfriet ","4. Kautionisten betaler kreditor","5. Kautionisten har krav på låntager"),
+                    label = c("1. Kreditor har krav på låntageren","2. Låntager misligholder lånet","3. Kreditor kræver kautionen indfriet ","4. Kautionisten betaler kreditor","5. Kautionisten har et regreskrav på låntageren"),
                     font.size = c(26,26,26,26,26))
 edges <- data.frame(from = c(1,2,3,4), to = c(2,3,4,5),font.size = c(30,30,30,30),arrows = c("to"),label=c("+","+","+","="),length = rep(100,4))
 
@@ -867,11 +873,17 @@ Advokat Sonny Kristoffersen
 
 **Prinsessefødselsdagen.**
 
-Peter Petersen er far til Fie som snart fylder 8 år, og han vil gerne invitere pigerne fra hendes klasse hjem til fødselsdag. Fødselsdagen må gerne have et tema – og Fie er helt vild med prinsesser, så han bestiller den helt store prinsessepakke til 1.015 kr. fra webbutikken TEMAFESTEN. 
+Peter Petersen er far til Fie som snart fylder 8 år, og han vil gerne invitere pigerne fra hendes klasse hjem til fødselsdag. 
+
+Fødselsdagen må gerne have et tema – og Fie er helt vild med prinsesser, så han bestiller den helt store prinsessepakke til 1.015 kr. fra webbutikken TEMAFESTEN. 
 
 Her kan man købe temapakker med engangsservice, pynt og tilbehør til børnefødselsdage. 
 
-Peter modtager den 4. oktober en kasse med tilbehør til en børnefødselsdag. Den bliver ikke åbnet, men bare stillet på en hylde i værkstedet, for der er endnu 4 uger til festen skal holdes. Den 19. oktober åbner Peter pakken for at sende invitationerne ud.  
+Peter modtager den 4. oktober en kasse med tilbehør til en børnefødselsdag. 
+
+Den bliver ikke åbnet, men bare stillet på en hylde i værkstedet, for der er endnu 4 uger til festen skal holdes. 
+
+Den 19. oktober åbner Peter pakken for at sende invitationerne ud.  
 
 Desværre er der ikke prinsesseudstyr i pakken, men i stedet udstyr til en fødselsdag med monstertema. 
 
@@ -887,13 +899,17 @@ Læringsmål: Anvende og formidle juridiske regler og praksis for forbrugeraftal
 
 Med henvisning til almindelige køberetlige betragtninger, er varen imidlertid mangelfuld, og da sælger ikke er i stand til hverken at tilbyde udbedring eller omlevering, og da manglen ikke er uvæsentlig, må aftalen kunne hæves jf. KL (konkursloven) § 78.
 
-Da læringsmålene i relation til spørgsmålet i relation til købeloven er begrænset til en generel viden om principperne bag misligholdelsesbeføjelserne i relation til mangler, kan der ikke kræves udtømmende svar med paragrafhenvisninger. Besvareler der afspejler en generel forståelse for de bagved liggende hensyn og principper skal belønnes.
+Da læringsmålene i relation til spørgsmålet i relation til købeloven er begrænset til en generel viden om principperne bag misligholdelsesbeføjelserne i relation til mangler, kan der ikke kræves udtømmende svar med paragrafhenvisninger. 
+
+Besvareler der afspejler en generel forståelse for de bagved liggende hensyn og principper skal belønnes.
 
 **Svar slut**.
 
 ---
 
-Det lykkedes ikke for Peter at blive enig med TEMAFESTEN inden Fie skulle holde fødselsdag. Da dagen nærmer sig, har han sendt monsterpakken retur til TEMAFESTEN, og han har ikke noget prinsesseudstyr. 
+Det lykkedes ikke for Peter at blive enig med TEMAFESTEN inden Fie skulle holde fødselsdag. 
+
+Da dagen nærmer sig, har han sendt monsterpakken retur til TEMAFESTEN, og han har ikke noget prinsesseudstyr. 
 
 Han går i stedet i en hobbyforretning og køber papir, glimmer, palletter, lim mv. og laver selv udstyr til en super flot prinsessefødselsdag – fødselsdagen bliver et kæmpe hit – men materialerne koster 2.300 kr. 
 
@@ -903,9 +919,13 @@ Han går i stedet i en hobbyforretning og køber papir, glimmer, palletter, lim 
 
 **Vejledende løsning:**
 
-Læringsmål Viden om grundlæggende regler om køb med henblik på at lette forståelsen for andre juridiske områder. Anvende og vurdere de grundlæggende erstatningsbetingelser ved erstatning uden for kontrakt, for derigennem at kunne vurdere reglerne for rådgivnings- og professionsansvar inden for den finansielle sektor.
+Læringsmål Viden om grundlæggende regler om køb med henblik på at lette forståelsen for andre juridiske områder. 
 
-Svar: I det omfang misligholdelsen har påført Peter et tab kan han søge dette erstattet med henvisning til det objektive ansvar i KL § 43, stk.3 jf. § 80, stk. 2. Erstatningen beregnes efter princippet i i KL § 25 jf. § 45.
+Anvende og vurdere de grundlæggende erstatningsbetingelser ved erstatning uden for kontrakt, for derigennem at kunne vurdere reglerne for rådgivnings- og professionsansvar inden for den finansielle sektor.
+
+Svar: I det omfang misligholdelsen har påført Peter et tab kan han søge dette erstattet med henvisning til det objektive ansvar i KL § 43, stk.3 jf. § 80, stk. 2. 
+
+Erstatningen beregnes efter princippet i i KL § 25 jf. § 45.
 
 Da læringsmålene i relation til købeloven er begrænset til en generel viden om principperne, kan der ikke kræves udtømmende svar med paragrafhenvisninger mv. Besvareler der afspejler en generel forståelse for de bagved liggende hensyn og principper skal belønnes.
 
@@ -913,11 +933,17 @@ Da læringsmålene i relation til købeloven er begrænset til en generel viden 
 
 ---
 
-Peter betalte for prinsessepakken, da han bestilte den – men da han skal betale på netbank kommer han til at overføre 10.150 kr. Det opdager han først den 3.november, hvor han undrer sig over, at der står så lidt på kontoen.
+Peter betalte for prinsessepakken, da han bestilte den – men da han skal betale på netbank kommer han til at overføre 10.150 kr. 
 
-Peter Petersen kontakter TEMAFESTEN telefonisk og får den besked, at de ikke lige havde opdaget det for meget overførte beløb, men at de vil undersøge sagen og få sendt det for meget indbetalte tilbage. Efter et par dage refunderes de kr. 1.015 kr. men ikke det for meget indbetalte beløb. 
+Det opdager han først den 3.november, hvor han undrer sig over, at der står så lidt på kontoen.
 
-Peter ringer igen til TEMAFESTEN, og de lover igen at se på sagen. Herefter har han kontakt til TEMAFESTEN omtrent hver 3. dag – de bliver ved med at love tilbagebetaling, men det sker ikke. 
+Peter Petersen kontakter TEMAFESTEN telefonisk og får den besked, at de ikke lige havde opdaget det for meget overførte beløb, men at de vil undersøge sagen og få sendt det for meget indbetalte tilbage. 
+
+Efter et par dage refunderes de kr. 1.015 kr. men ikke det for meget indbetalte beløb. 
+
+Peter ringer igen til TEMAFESTEN, og de lover igen at se på sagen. 
+
+Herefter har han kontakt til TEMAFESTEN omtrent hver 3. dag – de bliver ved med at love tilbagebetaling, men det sker ikke. 
 
 Herefter kontakter Peter en advokat for at få rådgivning om hvordan beløbet kan inddrives og hvordan forløbet i en sådan inddrivelse forventes at være.
 
@@ -932,14 +958,18 @@ Læringsmål: Udviklingsbaseret viden om anvendt teori og metoder indenfor regle
 
 Svar: Advokaten skal fortælle Peter, at der skal indledes en individuel kreditforfølgning.
 
-Da læringsmålet her kun er på niveauet for viden kan der ikke forventes besvarelser med detaljeret redegørelse for de forskellige uden- og indenretlige skridt og muligheder mv. Besvareler der afspejler en generel forståelse for de bagved liggende hensyn og principper skal belønnes.
+Da læringsmålet her kun er på niveauet for viden kan der ikke forventes besvarelser med detaljeret redegørelse for de forskellige uden- og indenretlige skridt og muligheder mv. 
+
+Besvareler der afspejler en generel forståelse for de bagved liggende hensyn og principper skal belønnes.
 
 **Svar slut**.
 
 
 ---
 
-Peter beslutter sig for, at advokaten skal forsøge at inddrive pengene for ham. Efter ca. 2 måneder skriver advokaten til Peter, at TEMAFESTEN netop er kommet under konkursbehandling, hvorfor den individuelle inddrivelse må stoppes. Advokaten kan oplyse, at det fremgår af konkursboets cirkulærebreve, at der næsten ingen aktiver er i konkursboet - blot et mindre varelager, som endnu ikke er værdisat.
+Peter beslutter sig for, at advokaten skal forsøge at inddrive pengene for ham. Efter ca. 2 måneder skriver advokaten til Peter, at TEMAFESTEN netop er kommet under konkursbehandling, hvorfor den individuelle inddrivelse må stoppes. 
+
+Advokaten kan oplyse, at det fremgår af konkursboets cirkulærebreve, at der næsten ingen aktiver er i konkursboet - blot et mindre varelager, som endnu ikke er værdisat.
 
 **Eksamensspørgsmålet:**
 
@@ -949,7 +979,11 @@ Peter beslutter sig for, at advokaten skal forsøge at inddrive pengene for ham.
 
 Læringsmål: Anvende relevante regler om konkurs og rekonstruktion og vurdere deres betydning for den finansielle sektors risiko- og kreditvurdering.
 
-Svar: Peter er separatist jf. KL § 82. Kravet indgår derfor ikke i konkursmassen, og pengene skal udbetales, forud for alle andre krav. Der er således normalt gode udsigter til at få pengene tilbage. Overvejelser omkring vanskeligheder med at udtage et pengebeløb, hvis det viser sig ikke at være til stede i virksomheden bør honoreres. Det gælder også svar, som demonstrerer en generel forståelse af emnet.
+Svar: Peter er separatist jf. KL § 82. Kravet indgår derfor ikke i konkursmassen, og pengene skal udbetales, forud for alle andre krav. 
+
+Der er således normalt gode udsigter til at få pengene tilbage. Overvejelser omkring vanskeligheder med at udtage et pengebeløb, hvis det viser sig ikke at være til stede i virksomheden bør honoreres. 
+
+Det gælder også svar, som demonstrerer en generel forståelse af emnet.
 
 **Svar slut**.
 
@@ -1000,9 +1034,13 @@ Svar: Svaret bør overveje de hæftelsesmæssige forskelle mellem person- og kap
 
 --- 
 
-Der er desværre ikke ret mange, som synes så godt om Peters festudstyr, at de vil betale en god pris for det. Derfor går der kun 6 måneder, før Peters virksomhed er løbet helt tør for penge og ikke længere kan betale de regninger, som kommer. 
+Der er desværre ikke ret mange, som synes så godt om Peters festudstyr, at de vil betale en god pris for det. 
 
-SPAREBANKEN giver i første omgang Peter 5 måneders henstand med tilbagebetalingen, uden dog at give kautionisten besked. Herefter mister SPAREBANKEN tålmodigheden, og beder Peters ekskone om at indbetale de 250.000 kr. som hun har kautioneret for Peters lån.
+Derfor går der kun 6 måneder, før Peters virksomhed er løbet helt tør for penge og ikke længere kan betale de regninger, som kommer. 
+
+SPAREBANKEN giver i første omgang Peter 5 måneders henstand med tilbagebetalingen, uden dog at give kautionisten besked. 
+
+Herefter mister SPAREBANKEN tålmodigheden, og beder Peters ekskone om at indbetale de 250.000 kr. som hun har kautioneret for Peters lån.
 
 
 **Eksamensspørgsmålet:**
@@ -1042,26 +1080,26 @@ Kreditor har pant i tredjemands aktiv, som ligger til sikkerhed for lånet (Se f
 
 Hvis der ikke er tale om et erhvervsforhold og kreditor er bank eller realkreditinstitut, skal kreditor opfylde samme oplysningsforpligtelse, som ved privatkaution, jf. FIL § 48, stk. 11:
 
-  + Hvad tredjemandspant indebærer
++ Hvad tredjemandspant indebærer
   
-  + Beskrivelse af risikoen
++ Beskrivelse af risikoen
   
-  + Låntagers økonomi
++ Låntagers økonomi
   
-  + Låntagers gæld til den finansielle virksomhed
++ Låntagers gæld til den finansielle virksomhed
   
-  + Gennemgå pjece om kaution
++ Gennemgå pjece om kaution
   
-  + Kautionen må ikke stå i misforhold til kautionistens økonomi
++ Kautionen må ikke stå i misforhold til kautionistens økonomi
   
 
 ```{r network12, echo=FALSE,fig.height=3, result=TRUE,fig.cap=("Trediemandspant")}
 nodes <- data.frame(id = 1:4, shadow = TRUE,
                     shape = c("box"),
-                    label = c("Pantsætter","Bank","Låntager\nSelskab","Kautionisten"))
+                    label = c("pantsætter","bank","låntager/\nselskab","kautionisten"))
 edges <- data.frame(from = c(1,2,4), to = c(2,3,2),
                     # length = c(100,100,100,130),
-                    label=c("Pant","Lån","Kaution"),
+                    label=c("pant","lån","kaution"),
                     # arrows = c("to"),
                     smooth = FALSE)
 visNetwork(nodes, edges, width = "100%") %>% 
@@ -1083,12 +1121,7 @@ visNetwork(nodes, edges, width = "100%") %>%
 
 ## Garantistillelse
 
-![](img/kau8.png)
-(Kilde; TRojka) fig. 15.9.
 
-
-
----
 
 **Hvad er en garantistillelse?**
 
@@ -1105,17 +1138,14 @@ Garantistillelse er en sikkerhedsstillelse for betaling på samme måde som kaut
  
 
 
-
-
- 
 ```{r ,echo=FALSE, result=TRUE, fig.height=2,fig.cap=("Parterne i en garantistillelse")}
 
 nodes <- data.frame(id = 1:3, 
                     shape = c("box"), 
                     level = c(1,2,2),
-                    label = c("Garant\nBank",    "Garantirekvirent\nKøber","Beneficiant\nSælger"),
+                    label = c("garant/\nbank",    "garantirekvirent/\nkøber","beneficiant/\nsælger"),
                     font.size = c(26,26,26))
-edges <- data.frame(from = c(1,1,3), to = c(2,3,2),font.size = c(20,20,20),arrows = c("to"),label=c("Lån til købesum","Garanti for købesum","Købsaftale"),length = rep(400,3))
+edges <- data.frame(from = c(1,1,3), to = c(2,3,2),font.size = c(20,20,20),arrows = c("to"),label=c("lån til købesum","garanti for købesum","købsaftale"),length = rep(400,3))
 
 visNetwork(nodes, edges,  width = "100%",avoidOverlap=2) %>% 
   visInteraction(dragNodes = TRUE, 

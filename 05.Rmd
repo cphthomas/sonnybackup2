@@ -12,7 +12,7 @@ De danske regler for anvendelse af fuldmagt findes i aftalelovens kapitel II.
 
 ---
 
-***Former for fuldmagter**
+**Former for fuldmagter**
 
 Stillingsfuldmagt §10,2 i Aftaleloven Fx læger, kassedamer og banksassistenter.
 
@@ -139,7 +139,7 @@ En aftale kan i nogle tilfælde rammes af ugyldighed, hvis der er handlet i stri
 
 Aftaleloven sondrer mellem på den ene side **»legitimation«** og på den anden side **»beføjelse«**. 
 
-Ved *»fuldmagt«* forstås således den magt eller kompetence (**legitimation**), fuldmægtigen har til inden for visse grænser at foretage retshandler med bindende virkning for fuldmagtsgiveren. 
+Ved *»fuldmagt«* forstås således den magt eller kompetence (**legitimation**), fuldmægtigen har til inden for visse grænser at foretage retshandler med bindende virkning for fuldmagtsgiveren. <img src="img/Bemyndigelse vs. legitimation.png" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Ved **»beføjelse«** (**bemyndigelse**) den ret eller tilladelse, fuldmægtigen iht. det mellem ham og fuldmagtsgiveren bestående retsforhold har til at optræde på dennes vegne:
 
@@ -151,7 +151,7 @@ Ved **»beføjelse«** (**bemyndigelse**) den ret eller tilladelse, fuldmægtige
 
 
  
-<img src="img/Bemyndigelse vs. legitimation.png" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 
 
 
@@ -427,12 +427,12 @@ Aftalelovens § 25 indebærer, at tredjemand ikke selv behøver at undersøge fu
 ---
 
 
-<img src="img/mj-s-71657-unsplash.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
----
 
-Fuldmægtigen skal erstatte tredjemand den positive opfyldelsesinteresse, dvs. tredjemand skal stilles som om aftalen var blevet indgået og ikke alene den negative kontraktsinteresse, dvs. stilles som om aftalen ikke var blevet indgået. 
+
+
+Fuldmægtigen skal erstatte tredjemand den positive opfyldelsesinteresse, dvs. tredjemand skal stilles som om aftalen var blevet indgået og ikke alene den negative kontraktsinteresse, dvs. stilles som om aftalen ikke var blevet indgået. <img src="img/mj-s-71657-unsplash.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Tredjemand kan altså kræve erstatning for det fulde tab, han lider ved, at løftet ikke kan gøres gældende imod den opgivne fuldmagtsgiver, inkl. fortjeneste. 
 
@@ -517,6 +517,7 @@ Af erfaring ved Kim, at der er meget travlt.
 ---
 
 2.	Hvilke muligheder har Fix og Hjem for at opsige Karina? Sygdom er jo lovligt forfald, men er de utilfredse med hende, bør hun have skriftlig advarsel, og hvis forholdene ikke forbedres, kan hun afskediges senere. Hvis hun afskediges nu, er hun formentligt berettiget til funktionærlovens § 2b-godtgørelse + 3 mdrs. opsigelsesvarsel. 
+
 ---
 
 3.	Har Sanne krav på at holde ferie så hun kan komme til Paris? Det kommer an på, hvornår hun spørger om at få fri. Ferien ligger jo i hovedferien og det skal normalt varsles af medarbejderen med mindst 3 ugers varsel (som jeg husker det) og gør hun det, har hun krav på at komme afsted. I øvrigt dårlig stil at nægte hende at tage af sted pga. travlhed, da det jo egt. ikke er hendes problem.

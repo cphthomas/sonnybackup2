@@ -62,6 +62,20 @@ favicon: "favicon.ico"
 
 ---
 
+**Jeg synes overordnet set den er super god.** 
+ 
+**Jeg selv brugte den meget til at læse til eksamen. Den er overskuelig og letlæselig, hvilket er en rigtig god ting indenfor jura, da det godt kan være svært at læse, grundet alle de begreber man ikke kender fra hverdagen.** 
+ 
+**Derudover synes jeg det fungere super godt, at den er så godt delt op i afsnit. Forstået på den måde, at tit og ofte er det noget meget konkret man søger, og der er din e-bog meget brugervenlig. Det spare en for en masse tid, her tænker jeg også måske i en eksamen situation hvor man er meget presset på tiden**. 
+ 
+**Så overordnet set synes jeg den fungere vildt godt. Ydermere supplere den godt til dine powerpoint, og personligt ville jeg mene, at dine PowerPoints og din e-bog ville være et rigtig godt undervisningsmateriale**. 
+
+**Det var i hvert fald de to ting jeg støttede mig op af, da jeg læste til eksamen, og da jeg sad til eksamen😊**
+
+**Molly**
+
+---
+
 
 <br>
 ```{r, echo=FALSE, results='asis'}
@@ -672,12 +686,12 @@ En ministers arbejde består bl.a. i at:
 
 ```{r domstolene,echo=FALSE, result=TRUE, fig.cap=("Oversigt over domstolene")}
 
-nodes <- data.frame(id = 1:9, 
+nodes <- data.frame(id = 1:8, 
                     shape = c("box"), 
-                    level = c(1,2,2,4,4,4,3,4,1),
-                    label = c(" Højesteret ","Vestre \n Landsret","Østre \n Landsret","Sø og \n Handelsretten","Tinglysningsretten","Grønlandsdomstolen","Byretterne","Retten\npå Færøerne", " Procesbevillingsnævnet \n Den særlige klageret \n Dommerudnævnelsesrådet \n Bibeskæftigelsesnævnet"),
+                    level = c(1,2,2,4,4,3,4,1),
+                    label = c(" Højesteret ","Vestre \n Landsret","Østre \n Landsret","Sø og \n Handelsretten","Grønlandsdomstolen","Byretterne","Retten\npå Færøerne", " Procesbevillingsnævnet \n Den særlige klageret \n Dommerudnævnelsesrådet \n Bibeskæftigelsesnævnet"),
                     font.size = c(25,18,18,rep(12,6)))
-edges <- data.frame(from = c(1,1,1,1,2,2,2,3,3,3), to = c(2,3,4,6,4,5,7,4,7,8),arrows = c(""),length = rep(100,10))
+edges <- data.frame(from = c(1,1,1,1,2,2,3,3,3), to = c(2,3,4,6,4,5,4,7,8),arrows = c(""),length = rep(100,9))
 
 visNetwork(nodes, edges,  width = "100%",avoidOverlap=2) %>% 
   visInteraction(dragNodes = TRUE, 
@@ -3462,7 +3476,7 @@ De danske regler for anvendelse af fuldmagt findes i aftalelovens kapitel II.
 
 ---
 
-***Former for fuldmagter**
+**Former for fuldmagter**
 
 Stillingsfuldmagt §10,2 i Aftaleloven Fx læger, kassedamer og banksassistenter.
 
@@ -3589,7 +3603,7 @@ En aftale kan i nogle tilfælde rammes af ugyldighed, hvis der er handlet i stri
 
 Aftaleloven sondrer mellem på den ene side **»legitimation«** og på den anden side **»beføjelse«**. 
 
-Ved *»fuldmagt«* forstås således den magt eller kompetence (**legitimation**), fuldmægtigen har til inden for visse grænser at foretage retshandler med bindende virkning for fuldmagtsgiveren. 
+Ved *»fuldmagt«* forstås således den magt eller kompetence (**legitimation**), fuldmægtigen har til inden for visse grænser at foretage retshandler med bindende virkning for fuldmagtsgiveren. <img src="img/Bemyndigelse vs. legitimation.png" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Ved **»beføjelse«** (**bemyndigelse**) den ret eller tilladelse, fuldmægtigen iht. det mellem ham og fuldmagtsgiveren bestående retsforhold har til at optræde på dennes vegne:
 
@@ -3601,7 +3615,7 @@ Ved **»beføjelse«** (**bemyndigelse**) den ret eller tilladelse, fuldmægtige
 
 
  
-<img src="img/Bemyndigelse vs. legitimation.png" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 
 
 
@@ -3877,12 +3891,12 @@ Aftalelovens § 25 indebærer, at tredjemand ikke selv behøver at undersøge fu
 ---
 
 
-<img src="img/mj-s-71657-unsplash.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
----
 
-Fuldmægtigen skal erstatte tredjemand den positive opfyldelsesinteresse, dvs. tredjemand skal stilles som om aftalen var blevet indgået og ikke alene den negative kontraktsinteresse, dvs. stilles som om aftalen ikke var blevet indgået. 
+
+
+Fuldmægtigen skal erstatte tredjemand den positive opfyldelsesinteresse, dvs. tredjemand skal stilles som om aftalen var blevet indgået og ikke alene den negative kontraktsinteresse, dvs. stilles som om aftalen ikke var blevet indgået. <img src="img/mj-s-71657-unsplash.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Tredjemand kan altså kræve erstatning for det fulde tab, han lider ved, at løftet ikke kan gøres gældende imod den opgivne fuldmagtsgiver, inkl. fortjeneste. 
 
@@ -3967,6 +3981,7 @@ Af erfaring ved Kim, at der er meget travlt.
 ---
 
 2.	Hvilke muligheder har Fix og Hjem for at opsige Karina? Sygdom er jo lovligt forfald, men er de utilfredse med hende, bør hun have skriftlig advarsel, og hvis forholdene ikke forbedres, kan hun afskediges senere. Hvis hun afskediges nu, er hun formentligt berettiget til funktionærlovens § 2b-godtgørelse + 3 mdrs. opsigelsesvarsel. 
+
 ---
 
 3.	Har Sanne krav på at holde ferie så hun kan komme til Paris? Det kommer an på, hvornår hun spørger om at få fri. Ferien ligger jo i hovedferien og det skal normalt varsles af medarbejderen med mindst 3 ugers varsel (som jeg husker det) og gør hun det, har hun krav på at komme afsted. I øvrigt dårlig stil at nægte hende at tage af sted pga. travlhed, da det jo egt. ikke er hendes problem.
@@ -3990,7 +4005,6 @@ Af erfaring ved Kim, at der er meget travlt.
 ***Indledningsvis skal du som studerende være særlig opmærksom på følgende problemstillinger ved gennemgangen af "forbrugeraftaler og forbrugerbeskyttelse":***
 
 
-<img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 •	**Forbrugerbeskyttelse ved erhvervelse af fast ejendom; fortrydelsesret og tilbud, tilbagekaldelse og sælgers accept, LFFE kapitel 2** 
@@ -4339,8 +4353,8 @@ En manglende overholdelse af pligten, kan straffes med bøde.
 * 14 dage fra aftalens indgåelse, eller fra det tidspunkt 
   forbrugeren har modtaget oplysning om fortrydelsesret.
 
-<img src="img/pension.PNG"align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-* 30 dage ved aftaler om individuel pensionsordning, FBL § 19, stk. 1.
+
+* 30 dage ved aftaler om individuel pensionsordning, FBL § 19, stk. 1.<img src="img/pension.PNG"align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
   
 
 **Tilbagebetale**  
@@ -4438,7 +4452,7 @@ Har du styr på, om du må eje kopivarer i Danmark? Eller om du må tage dem med
 
 ***Indledningsvis skal du som studerende være særlig opmærksom på følgende i forbindelse med gennemgangen af erstatningsretten:***
 
-<img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 
 
 •	**Grundlæggende erstatningsbetingelser; ansvarsgrundlag, årsagsforbindelse, påregnelighed, økonomisk tab og værnet interesse**
@@ -4515,23 +4529,24 @@ Se følgende domme, hvor der idømmes erstatningsansvar i forskellige situatione
 
 ---  
 
-<img src="img/golf.jpg" align="right" width="10%" height="10%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/golf.jpg" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 *FED 2012.3: A, der sad uden for golfbanens cafeteria, blev ramt i hovedet af golfbold, da B – som deltager i en polterabend – under golfspil kom til at slå bolden for langt. B, der kun én gang tidligere havde prøvet at spille golf og ikke havde modtaget undervisning heri, fandtes erstatningsansvarlig.*
 
 
 
-<img src="img/sovn.jpg" align="right" width="10%" height="10%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/sovn.jpg" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-*FED 2009.114: En kvinde, som faldt i søvn som fører af en bil, påkørte og dræbte en modkørende bilist. Hun blev idømt en fængselsstraf på 10 måneder, men hendes kørsel kunne ikke karakteriseres som særlig hensynsløs, hvorfor afdødes ægtefælle ikke havde krav på godtgørelse i medfør af EAL § 26 a.*  
-
-
-<img src="img/stripper2.jpg" align="right" width="10%" height="10%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+*FED 2009.114: En kvinde, som faldt i søvn som fører af en bil, påkørte og dræbte en modkørende bilist. Hun blev idømt en fængselsstraf på 10 måneder, men hendes kørsel kunne ikke karakteriseres som særlig hensynsløs, hvorfor afdødes ægtefælle ikke havde krav på godtgørelse i medfør af EAL § 26 a.*
 
 
 
-*FED 2008.1: En mandlig stripteasedanser B ansvarlig for øjenskade på deltager A i kvindelig polterabend, da B affyrede konfettirør. Ikke grundlag for at nedsætte erstatningen som følge af egen skyld eller accept af risiko.*
 
+
+
+*FED 2008.1: <img src="img/stripper2.jpg" align="left" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>  En mandlig stripteasedanser B ansvarlig for øjenskade på deltager A i kvindelig polterabend, da B affyrede konfettirør. Ikke grundlag for at nedsætte erstatningen som følge af egen skyld eller accept af risiko.*
+
+<br><br><br><br>
 
 
 ---     
@@ -5052,11 +5067,11 @@ Erstatningen bliver fordoblet, hvis afdøde var eneforsørger.
 
 
 
-### Eksamensspørgsmål indenfor erstatningsretten mv.
+**Eksamensspørgsmål indenfor erstatningsretten mv.**
 
-### Eksamensopgave og løsning - Om ejendomsmæglerens erstatningsansvar uden for kontrakt
+**Eksamensopgave og løsning - Om ejendomsmæglerens erstatningsansvar uden for kontrakt**
 
-***Ejendomsmæglerens støvler***
+**Ejendomsmæglerens støvler**
 
 ![](img/martin.jpg)
 (fiktiv)
@@ -5083,7 +5098,7 @@ Læringsmål: Du skal som studerende anvende og kunne vurdere de grundlæggende 
 
 
 
-<img src="img/Danske lov.jpg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 
 
 
@@ -5103,9 +5118,9 @@ Pernille kan derfor nok ikke få erstatning for tabet af ”Guffe”.
 
 ---
 
-### Eksamensopgave og løsning - Om erstatning og kaution
+**Eksamensopgave og løsning - Om erstatning og kaution**
 
-***Murermester Madsen***
+**Murermester Madsen**
 
 ![](img/murermester.jpg)
 (fiktiv)
@@ -5155,9 +5170,9 @@ Derefter spurgte han sin ansatte murelæring, der netop havde arvet, om han vill
     aftaleloven (stærk ugyldighedsindsigelse). 
 
 
-### Eksamensopgave og løsning - Erstatning uden for kontrakt og forbrugeraftaler
+**Eksamensopgave og løsning - Erstatning uden for kontrakt og forbrugeraftaler**
 
-***Randers Boldklub***
+**Randers Boldklub**
 
 Hans bor i Randers og har 2 teenagedrenge. De spiller fodbold, og de kommer sammen med deres far til samtlige af Randers fodboldkampe. 
 
@@ -5177,7 +5192,7 @@ Hans og drengene skynder sig hjem. De løber ned af vejen. Henne ved hjørne st�
 
 En uge efter kampen kommer trøjerne og kasketterne men nu vil Hans ikke længere have dem.
 
-***Eksamensspørgsmålene:***
+**Eksamensspørgsmålene:**
 
 1.	Kan Albert få erstatning og hvilke krav kan han i givet fald 
     rejse?
@@ -5191,7 +5206,7 @@ En uge efter kampen kommer trøjerne og kasketterne men nu vil Hans ikke længer
 5.  Kan Hans rejse krav om erstatning mod sælger, hvis han er bundet af aftalen om køb af trøjerne og kasketterne?
 
 
-***Vejledende løsning:***
+**Vejledende løsning:**
 
 1.	Kan Albert få erstatning og hvilke krav kan han i givet fald 
     rejse? Ja. I henhold til EAL kan han rejse personskade, tabt 
@@ -12139,13 +12154,10 @@ Oftest er der begrænset hæftelse for ejerne, som er subsidiær eller indirekte
 ***Du skal som studerende være særlig opmærksom på følgende problemstillinger ved gennemgangen af insolvensretten, herunder kreditorforfølgning:*** 
 
 
-<img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
 
 •	**Forskellen på individual- og universalforfølgning = vigtigt – herunder forskellen på tvangsauktion og konkurs**
 
-<br>
-<br>
+
 
 ---
 
@@ -12157,38 +12169,44 @@ Når én kreditor forsøger at fremkalde betaling af sit tilgodehavende hos en s
 
 De juridiske udfordringer for en individualforfølgning er:
 
-Udlægsgrundlag (eksekutionsgrundlag) – herunder betalingspåkrav, 
-retsplejelovens kapitel 44a og § 478
+Udlægsgrundlag (eksekutionsgrundlag) – herunder betalingspåkrav, retsplejelovens kapitel 44a og § 478.
   
 Udlæggets genstand (trangsbeneficiet m.m.), retsplejelovens § 
-507-515
+507-515.
+
+---
   
-•	**Universalforfølgning:**
+**Universalforfølgning:**
 
 Når kreditorerne går sammen for at inddrive deres krav (insolvensbehandling). Universalforfølgning afskærer individualforfølgning. 
+
 Eksempler på universalforfølgning er konkurs, tvangsakkord og gældssanering. Ligelighedsprincippet er centralt. 
 
-Der er desuden mulighed for omstødelse iht. konkursloven. Modsat: individualforfølgning.
+Der er desuden mulighed for omstødelse iht. konkursloven. 
+
+Modsat: individualforfølgning.
+
+---
 
 De juridiske udfordringer ved universalforfølgning:
 
 Hæftelse: Hæftelsestyper i enkeltmandsvirksomhed samt forskellige selskabsformer. 
 
-Emnet har relevans for opgørelse af aktivsiden i et   konkursbo samt kreditors evt. tab af restfordringen.  
+Emnet har relevans for opgørelse af aktivsiden i et konkursbo samt kreditors evt. tab af restfordringen.  
   
-Overordnet om rekonstruktion - anmodning, betingelser og retsvirkning 
+Overordnet om rekonstruktion - anmodning, betingelser og retsvirkning: 
   
 Konkursret – anmodning, 
   
-betingelser, KL § 17-21, 
+Betingelser, KL § 17-21, 
   
-fristdag, KL § 1 
+Fristdag, KL § 1 
 
-nærtstående, KL § 2, 
+Nærtstående, KL § 2, 
 
-konkursordenen, KL kapitel 10, 
+Konkursordenen, KL kapitel 10, 
   
-separatister  og underpanthavere, KL §§ 82 og 86, 
+Separatister  og underpanthavere, KL §§ 82 og 86, 
   
 omstødelse, KL kapitel 8 
 
@@ -12198,21 +12216,25 @@ omstødelse, KL kapitel 8
 
 **Retsplejeloven og Konkursloven regulerer:**
 
-* *Individualforfølgning:*
+*Individualforfølgning:*
 
-  +	Hver kreditor for sig, den kreditor, der kommer først, bliver først betalt af skyldner
++	Hver kreditor for sig, den kreditor, der kommer først, bliver først betalt af skyldner
   
-  +	Reguleret i Retsplejeloven (RPL; Lovbekendtgørelse nr. 1284 af 14. november 2018) og omfatter bl.a. udlæg, tvangsauktion og tvangsbeneficeret (retten til et beskedent hjem) 
-  
-* *Universalforfølgning:*
++	Reguleret i Retsplejeloven (RPL; Lovbekendtgørelse nr. 1284 af 14. november 2018) og omfatter bl.a. udlæg, tvangsauktion og tvangsbeneficeret (retten til et beskedent hjem).
 
-  +	Reguleret i konkursloven (KKL; Lovbekendtgørelse nr. 11 af 6. januar 2014), og omfatter konkurs, rekonstruktion og gældssanering
+---
   
-  +	Formålet er at stille kreditorerne lige i konkursboet
+*Universalforfølgning:*
+
++	Reguleret i konkursloven (KKL; Lovbekendtgørelse nr. 11 af 6. januar 2014), og omfatter konkurs, rekonstruktion og gældssanering
   
-  +	Kun hvis skyldner er insolvent, jf. KKL § 17:
++	Formålet er at stille kreditorerne lige i konkursboet
   
-  *”Er en skyldner insolvent, skal hans bo tages under konkursbehandling, når det begæres af skyldneren eller en fordringshaver. Stk. 2 En skyldner er insolvent, hvis han ikke kan opfylde sine forpligtelser, efterhånden som de forfalder, medmindre betalingsudygtigheden må antages blot at være forbigående”.*
++	Kun hvis skyldner er insolvent, jf. KKL § 17:
+  
+”Er en skyldner insolvent, skal hans bo tages under konkursbehandling, når det begæres af skyldneren eller en fordringshaver. 
+
+Stk. 2 En skyldner er insolvent, hvis han ikke kan opfylde sine forpligtelser, efterhånden som de forfalder, medmindre betalingsudygtigheden må antages blot at være forbigående”.
  
 
 
@@ -12241,11 +12263,11 @@ Ordet **”insolvent”**
 
 Der må ved afgørelsen om skyldnerens insolvens og dermed en konkursbehandling tages der hensyn til en række momenter i praksis:
 
-En rigtigt opgjort status er et vægtigt indicium om skyldnerens betalingsevne, jf. dommen U 2001 2592 Ø (skyldner, der siden 2000-02-10 ved (delvis) betaling havde afværget 15 konkursbegæringer, var insolvent, da han ikke kunne betale 50.798 kr. ifølge en udeblivelsesdom, og da han havde yderligere gældsposter). 
+En rigtigt opgjort status er et vægtigt indicium om skyldnerens betalingsevne, jf. dommen **U 2001 2592 Ø** (skyldner, der siden 2000-02-10 ved (delvis) betaling havde afværget 15 konkursbegæringer, var insolvent, da han ikke kunne betale 50.798 kr. ifølge en udeblivelsesdom, og da han havde yderligere gældsposter). 
 
 Det må kræves, at der består en fordring mod skyldneren, men ikke at den er forfalden. Fordringen må endvidere tilkomme den, der indleverer konkursbegæringen til skifteretten.
 
-At fordringen er genstand for en ikke afsluttet retssag, udelukker ikke i sig selv, at den kan tjene som grundlag for konkurs, se f.eks. dommen U 1973 673 H.
+At fordringen er genstand for en ikke afsluttet retssag, udelukker ikke i sig selv, at den kan tjene som grundlag for konkurs, se f.eks. dommen **U 1973 673 H**.
 
 Kreditor skal have en retlig interesse i konkursbehandlingen. 
 
@@ -12295,7 +12317,7 @@ Dette søges navnlig opnået ved en autorisationsordning for inkassofirmaer, ved
 
 Lovens formål søges også opnået ved regler om, at inkassovirksomhed skal udøves i overensstemmelse med god inkassoskik i forhold til både skyldnere og kunder, jf. inkassolovens § 9. 
 
- ---
+---
 
 <h3>Gode råd og gæld: Inkasso</h3>
 
@@ -12303,7 +12325,7 @@ Lovens formål søges også opnået ved regler om, at inkassovirksomhed skal ud�
 
 ---
 
-
+Inkassolovens indhold:
 
 Inkassolovens kap. 1 fastlægger anvendelsesområdet for loven.
 
@@ -12333,17 +12355,19 @@ Kap. 8 indeholder straffe- og ikrafttrædelsesbestemmelser.
 
 * Gælden sendes til inkasso, hvis skyldner ikke betaler, efter kreditor har sendt en eller flere rykkere
 
-* Inkasso kan foretages af:
+Inkasso kan foretages af:
 
-  +	Kreditor selv
-  +	Inkassofirma
-  +	Advokat
++	Kreditor selv
+
++	Inkassofirma
+
++	Advokat
   
-* Inkassobrev med diverse oplysninger sendes til skyldner
+Inkassobrev med diverse oplysninger sendes til skyldner.
 
-* Formålet med inkasso er at få betalt gælden eller opnå en afdragsordning, som kaldes et frivilligt forlig
+Formålet med inkasso er at få betalt gælden eller opnå en afdragsordning, som kaldes et frivilligt forlig.
 
-* Betaler skyldner stadig ikke, må kreditor overveje at fortsætte med tvangsinddrivelse
+Betaler skyldner stadig ikke, må kreditor overveje at fortsætte med tvangsinddrivelse.
 
 ---
 
@@ -12377,9 +12401,9 @@ Kap. 8 indeholder straffe- og ikrafttrædelsesbestemmelser.
 
 Ordet **”tvangsinddrivelse”:**
 
-* Kreditor kan via fogedretten få udlæg i skyldners aktiver og sælge dem på tvangsauktion
+Kreditor kan via fogedretten få udlæg i skyldners aktiver og sælge dem på tvangsauktion
 
-* Provenuet fra tvangsauktionen nedbringer skyldners gæld
+Provenuet fra tvangsauktionen nedbringer skyldners gæld
 
 ---
 
@@ -12465,21 +12489,21 @@ Der kan ikke foretages udlæg i små pengebeløb, sædvanligt indbo eller i andr
 
 **HR:** Kreditor kan få udlæg i alle skyldners aktiver, medmindre følgende undtagelser:
 
-* **U1:** Tredjemands rettigheder skal respekteres
+**U1:** Tredjemands rettigheder skal respekteres.
 
-* **U2:** Særlige indlån i pengeinstitut fx bil købt på afbetaling som et kreditkøb med ejendomsforbehold
+**U2:** Særlige indlån i pengeinstitut fx bil købt på afbetaling som et kreditkøb med ejendomsforbehold.
 
-* **U3:** Endnu ikke udbetalt løn, RPL § 511
+**U3:** Endnu ikke udbetalt løn, RPL § 511.
 
-* **U4:** Udbetalt erstatning fx fra ulykkesforsikring, RPL § 513 Erstatningen skal være holdt adskilt fra øvrige midler
+**U4:** Udbetalt erstatning fx fra ulykkesforsikring, RPL § 513 Erstatningen skal være holdt adskilt fra øvrige midler.
 
-* **U5:** Personlige aktiver med beskeden værdi, RPL § 515, stk. 1
+**U5:** Personlige aktiver med beskeden værdi, RPL § 515, stk. 1
 
-* **U6:** Personlige hjælpemidler, RPL § 515, stk. 2
+**U6:** Personlige hjælpemidler, RPL § 515, stk. 2
 
-* **U7:** Båndlagte gaver, RPL § 514
+**U7:** Båndlagte gaver, RPL § 514
 
-* **U8:** Trangsbeneficiet, RPL § 509
+**U8:** Trangsbeneficiet, RPL § 509
 
 ---
 
@@ -12492,14 +12516,13 @@ Der kan ikke foretages udlæg i små pengebeløb, sædvanligt indbo eller i andr
 
 *Trangsbeneficiet, jf. RPL § 509:*
 
-* Kreditor kan ikke få udlæg i aktiver omfattet af trangsbeneficiet
+Kreditor kan ikke få udlæg i aktiver omfattet af trangsbeneficiet.
 
-* Omfatter aktiver, der hører til et beskedent hjem, fx seng, bord, stol, sofa
+Omfatter aktiver, der hører til et beskedent hjem, fx seng, bord, stol, sofa.
 
-* Almindelig hvidevarer hører til et beskedent hjem, fx køleskab, fryser, almindeligt tv og almindelig computer
+Almindelig hvidevarer hører til et beskedent hjem, fx køleskab, fryser, almindeligt tv og almindelig computer.
 
-
-Smykker, malerier, smart TV eller fjernsyn med surround sound og subwoofer og andre værdifulde aktiver er ikke omfattet af trangsbeneficiet
+Smykker, malerier, smart TV eller fjernsyn med surround sound og subwoofer og andre værdifulde aktiver er ikke omfattet af trangsbeneficiet.
 
 Spørgsmål er i et hvilket omfan,g der kan foretages udlæg i følgende genstande og værdier: 
 
@@ -12709,11 +12732,14 @@ Boets aktiver (konkursmassen) omfatter:
 
 **HR:**	Alt hvad skyldner ejer ved konkursdekrets afsigelse og under konkursen tilfalder ham, jf. KL § 32
 
-**U1:**	Aktiver, som kreditor ikke kan få udlæg i, KL § 36 
+**U1:**	Aktiver, som kreditor ikke kan få udlæg i, KL § 36. 
 
-**U2:**	Skyldners arbejdsindtægter under konkursen 
+**U2:**	Skyldners arbejdsindtægter under konkursen. 
 
-**U3:**	Separatistkrav (fx aktiver solgt med ejendomsforbehold) Boets passiver omfatter:  
+**U3:**	Separatistkrav (fx aktiver solgt med ejendomsforbehold) 
+
+
+Boets passiver omfatter:  
 
 Alle kreditorer kan anmelde deres krav, uanset om kravet er forfaldent, jf. KL § 38
  
@@ -12729,13 +12755,15 @@ De vigtigste niveauer i konkursordenen er i rækkefølge Konkurslovens kap. 10:
  
 ### Konkursordenen
 
-Konkursordenen inddeler alle boets kreditorer i klasser
+Konkursordenen inddeler alle boets kreditorer i klasser.
 
-Hver konkursklasse bliver fyldestgjort fuldt ud, før der udloddes til næste klasse
+Hver konkursklasse bliver fyldestgjort fuldt ud, før der udloddes til næste klasse.
 
-Først dækkes omkostninger i forbindelse med konkursen (massekrav), og herefter de øvrige klasser
+Først dækkes omkostninger i forbindelse med konkursen (massekrav), og herefter de øvrige klasser.
 
 * Hvis der ikke er dækning til hele klassen, fx de simple krav, bliver der udloddet en dividende. Efterstående konkursklasser får ingen dækning.
+
+---
  
 ### Udlodning af dividende
 
@@ -12743,17 +12771,19 @@ En dividende på 10 % til simple krav betyder, at kreditor med et krav på 100.0
 
 **Udækket gæld:**
 
-Kreditor har stadig et restkrav på 90.000 kr. efter konkursen er afsluttet
+Kreditor har stadig et restkrav på 90.000 kr. efter konkursen er afsluttet.
 
-Kreditorernes udækkede gæld følger skyldner, hvis skyldner er en fysisk person
+Kreditorernes udækkede gæld følger skyldner, hvis skyldner er en fysisk person.
 
-Hvis skyldner er et selskab har kreditor ingen at rette kravet mod efter konkursen. Den udækkede gæld kan ikke blive fyldestgjort
+Hvis skyldner er et selskab har kreditor ingen at rette kravet mod efter konkursen. Den udækkede gæld kan ikke blive fyldestgjort.
 
 ---
  
 ###	Konkurskarantæne
 
 ![](img/karantane.jpg)
+
+---
 
 ### Hvad er en konkurskarantæne?
 
@@ -12762,6 +12792,7 @@ Konkurskarantæne betyder, at en person i en periode får et forbud mod at delta
 En person kan pålægges konkurskarantæne, hvis personen på grund af groft uforsvarlig forretningsførelse vurderes uegnet til at deltage i ledelsen af en erhvervsvirksomhed.
 
 
+---
 
 **Hvem kan blive pålagt konkurskarantæne?**
 
@@ -12782,6 +12813,8 @@ I den forbindelse kan karantænen udvides til et forbud mod deltagelse i enhver 
 En overtrædelse af karantænen kan også medføre, at personen hæfter personligt på objektivt grundlag for selskabets forpligtelser, hvis det går konkurs.
 
 Endvidere kan en overtrædelse af en konkurskarantæne straffes med bøde eller fængsel indtil 6 måneder efter straffelovens § 131.
+
+---
 
 **Hvem kan starte en sag om konkurskarantæne?**
 
@@ -12829,14 +12862,13 @@ Det er dagen hvor begæringen modtages, som er afgørende for fristdagen.
 
 ---
 
-![](img/Omstødelsesregler.png)
-(Kilde; Trojka)
+
 
 ```{r kaution, echo=FALSE,fig.height=5}
 
 mydf <- data.frame(
   S1 = c(
-"Omstødelse af",
+"Omstødelse",
 "Gaver" ,
 "Løn til nærtstående",
 "Betaling af gæld", 
@@ -12854,7 +12886,7 @@ mydf <- data.frame(
     "Ingen grænse"
 ),
   S3 = c(
-    "Hvis debitor er insolvent på tidspunktet for handlingens foretagelse, og handlingen er til fordel for en nærtstående, er fristen (regnet tilbage fra fristdagen):",
+    "Hvis debitor er insolvent på tidspunktet for handlingens foretagelse, og handlingen er til fordel for en nærtstående, regnes fristen tilbage fra fristdagen",
 "2 år",
 "2 år",
 "2 år",
@@ -12890,11 +12922,11 @@ library(timevis)
 
 data <- data.frame(
   id      = 1:5,
-  content = c("6 måneder fra 2019-08-02 til 2020-02-01", "Omstødelsesperiode<br>starter<br>2019-08-02",
-              "Overdragelse<br>af gave<br>2019-11-01", "Fristdag<br>2019-08-01","Konkursdekret<br>2019-08-22"),
-  start   = c("2019-08-02", "2019-08-02",
-              "2019-11-01", "2020-02-01","2020-02-25"),
-  end     = c("2020-02-01", NA, NA, NA,NA) )
+  content = c("6 måneder fra 2019-02-01 til 2019-08-01", "Omstødelsesperiode<br>starter<br>2019-02-01",
+              "Overdragelse<br>af gave<br>2019-05-01", "Fristdag<br>2019-08-01","Konkursdekret<br>2019-08-22"),
+  start   = c("2019-02-01", "2019-02-01",
+              "2019-05-01", "2019-08-01","2019-08-22"),
+  end     = c("2019-08-01", NA, NA, NA,NA) )
 timevis(data)%>%
   setOptions(list(editable = FALSE)) %>%
   setSelection("5") %>%
@@ -13279,10 +13311,9 @@ I Storkøbenhavn skal man indgive begæringen til Sø- og Handelsretten i Køben
 
 En begæring om rekonstruktion skal være skriftlig og indeholde:
 
-Navn og adresse på skyldneren, skyldnerens erhvervsgren og CVR-nr., og navnet hvorunder virksomheden drives
-forslag til, hvem der skal være rekonstruktør samt tillidsmand
+Navn og adresse på skyldneren, skyldnerens erhvervsgren og CVR-nr., og navnet hvorunder virksomheden drives forslag til, hvem der skal være rekonstruktør samt tillidsmand.
 
-Ved kreditorbegæringer de omstændigheder, som begæringen støttes på
+Ved kreditorbegæringer de omstændigheder, som begæringen støttes på.
 
 Hvis begæringen fremsættes af en kreditor og sendes med post, skal den indgives i to eksemplarer.
 
@@ -13380,7 +13411,13 @@ Er skyldneren fortsat insolvent ved rekonstruktionsbehandlingens ophør, indlede
 
 **Grosistens bekymringer**
 
-"Kineserhviskeren" kalder man Vagn Vig, i gave og indbo branchen. Allerede mens han gik på erhvervsakademiet i Kolding, var han blevet venner med nogle af de kinesiske medstuderende, senere havde han fået en kinesisk kæreste, havde tilegnet sig noget af sproget og havde rejst i Kina. Han havde en særlig evne til at kommunikere med kinesere, som han nu udnyttede til at importere en bred vifte af gaveartikler, nips og pynt til hjemmet, som han solgte til en lang række detaijlforretninger i Nordeuropa.
+![](img/kin.jpg)
+
+"Kineserhviskeren" kalder man Vagn Vig, i gave og indbo branchen. 
+
+Allerede mens han gik på erhvervsakademiet i Kolding, var han blevet venner med nogle af de kinesiske medstuderende, senere havde han fået en kinesisk kæreste, havde tilegnet sig noget af sproget og havde rejst i Kina. 
+
+Han havde en særlig evne til at kommunikere med kinesere, som han nu udnyttede til at importere en bred vifte af gaveartikler, nips og pynt til hjemmet, som han solgte til en lang række detailforretninger i Nordeuropa.
 
 Under en drøftelse med sin salgschef, Rikke Mortensen, om mulighederne for at markedsføre noget af sortimentet direkte til forbrugerne via en webshop, bemærker Vagn, at han har hørt noget om at sælgeren står rigtig dårligt over for køberen, hvis han ikke oplyser om fortrydelsesretten.
 
@@ -13471,7 +13508,9 @@ Begge pantformer er således en undtagelse til forbuddet mod tingsindbegreb og g
 
 Fordringspant oprettes ved tinglysning af et skadesløsbrev i personbogen jf. TL § 47 d, stk. 1 og 2. Virksomhedspant oprettes ved tinglysning af et skadesløsbrev eller et ejerpantebrev i personbogen jf. TL § 47 c, stk. 1 og 2. 
 
-Den største forskel ligger i hvilke aktiver, der er omfattet af pantet, og efter hvilke bestemmelser panterettighederne er tinglyst. Virksomhedspant kan indeholde følgende i henhold til TL § 47 c, stk. 3: Simple fordringer, der stammer fra salg af varer og tjenesteydelser, lagre af råvarer, halvfabrikata og færdigvarer, køretøjer som ikke er indregistreret, driftsinventar og driftsmateriel, drivmidler og andre hjælpestoffer, besætning, goodwill, domænenavne og rettigheder i henhold til patentloven m.v., indregistrerede køretøjer, hvis pantsætter driver virksomhed med køb og salg af disse. 
+Den største forskel ligger i hvilke aktiver, der er omfattet af pantet, og efter hvilke bestemmelser panterettighederne er tinglyst. Virksomhedspant kan indeholde følgende i henhold til TL § 47 c, stk. 3: 
+
+Simple fordringer, der stammer fra salg af varer og tjenesteydelser, lagre af råvarer, halvfabrikata og færdigvarer, køretøjer som ikke er indregistreret, driftsinventar og driftsmateriel, drivmidler og andre hjælpestoffer, besætning, goodwill, domænenavne og rettigheder i henhold til patentloven m.v., indregistrerede køretøjer, hvis pantsætter driver virksomhed med køb og salg af disse. 
 
 I fordringspant er kun kundefordringer indeholdt. Fordringspant kan ikke være tinglyst samtidig med virksomhedspant jf. TL § 47 e, stk. 2.
 
@@ -13730,14 +13769,6 @@ Hvis man under sagen får behov for at få sin egen advokat (ikke at forveksle m
 
 
 
----
-
-
-
-
-
-
-
 
 ---
 
@@ -13751,11 +13782,23 @@ Hvis man under sagen får behov for at få sin egen advokat (ikke at forveksle m
 
 19-årige Karl er en drømmer, og det er hans overbevisning, at han en dag nok skal vinde et stort beløb i Lotto – så han køber hver uge en lottokupon eller to, og en lørdag aften tjekker han ugens kupon og kan se, at han har så mange tal rigtige at han står til en gevinst på 1.245.324,00 kr.
 
-Karl ringer straks rundt til sine venner og inviterer dem i byen til en fejring af den store gevinst. Det bliver en vild omgang og Karl er gavmild, så regningen for fejringen lyder på 35.500 kr., som Karl har fået skrevet på det lokale diskotek ”Til den lyse morgen”, efter at have fortalt diskoteksejeren, Lone, om gevinsten.
+Karl ringer straks rundt til sine venner og inviterer dem i byen til en fejring af den store gevinst. 
 
-Søndag har Karl det meget dårligt efter fejringen, så han kommer ikke ud af sengen før mandag morgen og i stedet for at tage i skole tager han på indkøb. Karl køber sig en komplet garderobe hos butikken ”Når mænd er bedst”. Han betaler med sit dankort – regningen lyder på 84.000,00 kr., da det er ret dyre mærker Karl bedst kan lide. Der står ikke nogen penge på hans konto, så det bliver et overtræk, men det tænker Karl jo dækkes ind, når gevinsten udbetales. 
+Det bliver en vild omgang og Karl er gavmild, så regningen for fejringen lyder på 35.500 kr., som Karl har fået skrevet på det lokale diskotek ”Til den lyse morgen”, efter at have fortalt diskoteksejeren, Lone, om gevinsten.
 
-Karl føler også stor trang til at købe sig en passende bil – han tager derfor direkte fra ”Når mænd er bedst” til BMW forhandleren. Her forelsker han sig i en rigtig fin bil til 354.000,00 kr. Karl beslutter sig straks for købet og beder forhandleren klargøre bilen med det samme, så han kan komme ud at køre i løbet af et par dage. Han fortæller om gevinsten, og at han derfor ikke har brug for finansiering, og underskriver en købsaftale, hvorefter han skal betale hele beløbet inden 30 dage.
+Søndag har Karl det meget dårligt efter fejringen, så han kommer ikke ud af sengen før mandag morgen og i stedet for at tage i skole tager han på indkøb. 
+
+Karl køber sig en komplet garderobe hos butikken ”Når mænd er bedst”. Han betaler med sit dankort – regningen lyder på 84.000,00 kr., da det er ret dyre mærker Karl bedst kan lide. 
+
+Der står ikke nogen penge på hans konto, så det bliver et overtræk, men det tænker Karl jo dækkes ind, når gevinsten udbetales. 
+
+Karl føler også stor trang til at købe sig en passende bil – han tager derfor direkte fra ”Når mænd er bedst” til BMW forhandleren. 
+
+Her forelsker han sig i en rigtig fin bil til 354.000,00 kr. 
+
+Karl beslutter sig straks for købet og beder forhandleren klargøre bilen med det samme, så han kan komme ud at køre i løbet af et par dage. 
+
+Han fortæller om gevinsten, og at han derfor ikke har brug for finansiering, og underskriver en købsaftale, hvorefter han skal betale hele beløbet inden 30 dage.
 
 Onsdag tænker Karl, at han nok hellere må se at få talt med banken, og med Danske Spil om at få gevinsten udbetalt – desværre kan han ikke længere finde sin lottokupon.
 
@@ -13774,7 +13817,11 @@ Herefter skulle fogedretten kunne inddrive gælden.
 
 **Svar slut**
 
-Karl ringer til ”Når mænd er bedst” og siger, at han har fortrudt sit indkøb og gerne vil have sine penge tilbage. Af butikken får han at vide, at de gerne tager tøjet retur, men de giver ikke pengene tilbage – han kan få et tilgodebevis. Han beder om at tale med indehaveren, Jens, men han giver ham samme besked.
+Karl ringer til ”Når mænd er bedst” og siger, at han har fortrudt sit indkøb og gerne vil have sine penge tilbage. 
+
+Af butikken får han at vide, at de gerne tager tøjet retur, men de giver ikke pengene tilbage – han kan få et tilgodebevis. 
+
+Han beder om at tale med indehaveren, Jens, men han giver ham samme besked.
 
 Karl vil ikke have et tilgodebevis, så han går ikke ned i butikken for at aflevere tøjet.
 
@@ -13791,7 +13838,9 @@ Så når butikken her kun tilbyder bytte, så er det deres ret.
 Spørgsmålet er på kanten af pensum, og allerede fornuftige overvejelser i relation til emnet skal belønnes.
 
 
-Karl mener ikke længere, at de forudsætninger han havde for at købe bilen er til stede, og han siger derfor til BMW forhandleren, at han ikke ser sig bundet af købsaftalen. BMW forhandleren er ikke enig, specielt fordi bilen er ved at være klargjort med alle de lækre tilkøb som Karl har bestilt.
+Karl mener ikke længere, at de forudsætninger han havde for at købe bilen er til stede, og han siger derfor til BMW forhandleren, at han ikke ser sig bundet af købsaftalen. 
+
+BMW forhandleren er ikke enig, specielt fordi bilen er ved at være klargjort med alle de lækre tilkøb som Karl har bestilt.
 
 **Eksamensspørgsmål:**
 
@@ -13810,6 +13859,7 @@ Der ses heller ikke at være sådanne, eller andre, elementer ved aftalens indg�
 **Svar slut**
 
 BMW forhandleren fastholder, at købsaftalen er bindende, men bliver nervøs for, hvorvidt Karl kan betale for bilen i det lange løb, men han tænker, at han er sikret af det ejendomsforbehold, som står som standard i købsaftalen.
+
 Karl har ikke nogen penge at betale bilen med.
 
 
@@ -13888,7 +13938,9 @@ Det betyder at han med få undtagelser, hæfter med alt hvad han ejer, herunder 
 
 Læringsmål: Forståelse for grundlæggende selskabsret og hæftelsesformer samt betydningen af reglerne om tegningsret.
 
-**Svar**: Så havde der været begrænset hæftelse, således at selskabets kreditorer ville være henvist til kun at søge sig fyldestgjort i selskabets aktiver: Varelager, inventar, it-udstyr og varevogn, mens Jens hus og motorcykel ikke ville blive berørt.
+**Svar**: Så havde der været begrænset hæftelse, således at selskabets kreditorer ville være henvist til kun at søge sig fyldestgjort i selskabets aktiver: 
+
+Varelager, inventar, it-udstyr og varevogn, mens Jens hus og motorcykel ikke ville blive berørt.
 
 
 **Eksamensspørgsmål:**
@@ -13920,9 +13972,7 @@ Værdien af vognen kan derfor i det omfang den i øvrigt er ubehæftet, tjene ti
 
 ---
 
-***Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af kreditaftaler:***
-
-<img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+**Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af kreditaftaler:**
 
 
 
@@ -13943,14 +13993,13 @@ Værdien af vognen kan derfor i det omfang den i øvrigt er ubehæftet, tjene ti
 ---
 
  
-***Introduktion til kreditaftaleloven*** 
+**Introduktion til kreditaftaleloven** 
 
 
 **Forskellen på et banklån og et kreditkøb**:
 
 
-<!-- ![](img/alm.png) -->
-<!-- Figur 14.1. -->
+
 
 **Banklån**
 ```{r almbank, echo=FALSE, result=TRUE,fig.height=3,fig.cap=("Banklån er en kreditaftale om et lån indgået mellem en bank og en kunde")}
@@ -14191,7 +14240,9 @@ Kreditgiveren ofte vil have et regreskrav mod den formidler, som ikke har opfyld
 
 Hvis der anvendes forskellige debitorrenter under forskellige omstændigheder, angives de nævnte oplysninger for alle de relevante debitorrenter.
 
-**7**. De årlige omkostninger i procent og det samlede beløb, som skal betales af forbrugeren, illustreret ved et repræsentativt eksempel, som angiver alle de antagelser, der er lagt til grund for at beregne procentsatsen. Hvis forbrugeren har informeret kreditgiveren om et eller flere elementer i den kredit, vedkommende foretrækker, som f.eks. kreditaftalens løbetid og det samlede kreditbeløb, skal kreditgiveren tage hensyn til disse elementer. 
+**7**. De årlige omkostninger i procent og det samlede beløb, som skal betales af forbrugeren, illustreret ved et repræsentativt eksempel, som angiver alle de antagelser, der er lagt til grund for at beregne procentsatsen. 
+
+Hvis forbrugeren har informeret kreditgiveren om et eller flere elementer i den kredit, vedkommende foretrækker, som f.eks. kreditaftalens løbetid og det samlede kreditbeløb, skal kreditgiveren tage hensyn til disse elementer. 
 
 Hvis en kreditaftale giver forskellige muligheder for at udnytte kreditmuligheden med forskellige omkostninger eller debitorrenter, og kreditgiveren derfor anvender det loft for kreditten, som fremgår af antagelsen i lovens bilag 1, skal kreditgiveren angive, at andre muligheder for at udnytte kreditmuligheden for denne type kreditaftale kan medføre højere årlige omkostninger i procent.
 
@@ -14226,6 +14277,8 @@ Hvis en kreditaftale giver forskellige muligheder for at udnytte kreditmulighede
 
 ### Vurdering af forbrugerens kreditværdighed
 
+![](img/kredit1.jpg)
+
 Før en kreditgiver indgår en kreditaftale med en forbruger, skal kreditgiveren ifølge KAL § 7 c foretage en vurdering af forbrugerens kreditværdighed. 
 
 Vurderingen skal ske på grundlag af fyldestgørende oplysninger, der, hvor det er relevant, indhentes hos forbrugeren og, hvor det er nødvendigt, ved søgning i relevante databaser; det vil i praksis sige hos et kreditoplysningsbureau.  
@@ -14235,6 +14288,8 @@ Kreditvurderingspligten har til formål at beskytte forbrugeren og skal som føl
 ---
 
 ### Kravene til selve kreditaftalen
+
+![](img/credit.jpg)
 
 De ovenfor omtalte bestemmelser i KAL §§ 7 a, 7 b og 7 c vedrører som tidligere anført oplysninger, der skal gives, og kreditvurderinger, der skal foretages, før der indgås en kreditaftale. 
 
@@ -14249,7 +14304,7 @@ En kreditaftale skal ifølge § 8, stk. 1, udfærdiges på papir eller på et an
 ---
 
 
-** Ifølge KAL § 8, stk. 2, skal en kreditaftale indeholde oplysning om**:
+**Ifølge KAL § 8, stk. 2, skal en kreditaftale indeholde oplysning om**:
 
 **1**. Kredittypen.
 
@@ -14271,7 +14326,13 @@ Alle de antagelser, der er lagt til grund ved beregningen af denne procentsats, 
 
 **8**. Størrelse, antal og hyppighed af de betalinger, der skal foretages af forbrugeren, og i givet fald den rækkefølge, hvori betalingerne henføres til forskellige udestående saldi til forskellige debitorrenter med henblik på tilbagebetaling.
 
-**9**. Forbrugerens ret til på anmodning, til enhver tid i løbet af kreditaftalens varighed uden omkostninger, at modtage en opgørelse i form af en amortiseringsplan, såfremt der er tale om amortisation af kapitalen i forbindelse med en kreditaftale med fast løbetid. Amortiseringsplanen skal angive skyldige betalinger, tidspunkter og betingelser for betaling af sådanne beløb. Desuden skal den indeholde en specificering af den enkelte tilbagebetaling, som viser amortiseringen af kapitalen, renterne beregnet på grundlag af debitorrenten og, hvor det er relevant, eventuelle yderligere omkostninger. Hvis rentesatsen ikke er fast eller de yderligere omkostninger kan ændres i kreditaftalens løbetid, skal amortiseringsplanen klart og tydeligt angive, at oplysningerne i planen kun er gyldige indtil næste ændring af debitorrenten eller af de yderligere omkostninger i henhold til kreditaftalen.
+**9**. Forbrugerens ret til på anmodning, til enhver tid i løbet af kreditaftalens varighed uden omkostninger, at modtage en opgørelse i form af en amortiseringsplan, såfremt der er tale om amortisation af kapitalen i forbindelse med en kreditaftale med fast løbetid. 
+
+Amortiseringsplanen skal angive skyldige betalinger, tidspunkter og betingelser for betaling af sådanne beløb. 
+
+Desuden skal den indeholde en specificering af den enkelte tilbagebetaling, som viser amortiseringen af kapitalen, renterne beregnet på grundlag af debitorrenten og, hvor det er relevant, eventuelle yderligere omkostninger. 
+
+Hvis rentesatsen ikke er fast eller de yderligere omkostninger kan ændres i kreditaftalens løbetid, skal amortiseringsplanen klart og tydeligt angive, at oplysningerne i planen kun er gyldige indtil næste ændring af debitorrenten eller af de yderligere omkostninger i henhold til kreditaftalen.
 
 **10**. En opgørelse over tidspunkter og betingelser for betaling af renter og eventuelle dermed forbundne faste omkostninger og engangsomkostninger, såfremt der skal betales omkostninger og renter uden amortisation af hovedstolen.
 
@@ -14305,6 +14366,10 @@ Alle de antagelser, der er lagt til grund ved beregningen af denne procentsats, 
 
 ![](img/kasse.png)
 
+
+
+En kassekredit er et lån i et pengeinstitut, der gør det muligt at have et ekstra rådighedsbeløb, selvom kontoen skulle være tom.
+
 ---
 
 **Video: Hvad er en kassekredit**
@@ -14324,9 +14389,13 @@ Kassekreditaftaler skal ifølge KAL § 8, stk. 5, indeholde en klar og tydelig a
 
 **4**. Det samlede kreditbeløb og betingelserne for at udnytte kreditmuligheden.
 
-**5**. Debitorrenten, betingelserne for anvendelsen af debitorrenten og et eventuelt indeks eller en eventuel referencesats, der skal anvendes på den oprindelige debitorrente, samt tidspunkter, betingelser og procedurer for ændring af debitorrenten. Hvis der anvendes forskellige debitorrenter under forskellige omstændigheder, angives de nævnte oplysninger med hensyn til alle de relevante debitorrenter.
+**5**. Debitorrenten, betingelserne for anvendelsen af debitorrenten og et eventuelt indeks eller en eventuel referencesats, der skal anvendes på den oprindelige debitorrente, samt tidspunkter, betingelser og procedurer for ændring af debitorrenten. 
 
-**6**. De årlige omkostninger i procent og de samlede omkostninger, som skal betales af forbrugeren, beregnet på tidspunktet for indgåelse af kreditaftalen. Alle de antagelser, der er lagt til grund ved beregningen af denne procentsats, jf. § 16, stk. 3 og 4, og § 4, nr. 7 og 9, angives. 
+Hvis der anvendes forskellige debitorrenter under forskellige omstændigheder, angives de nævnte oplysninger med hensyn til alle de relevante debitorrenter.
+
+**6**. De årlige omkostninger i procent og de samlede omkostninger, som skal betales af forbrugeren, beregnet på tidspunktet for indgåelse af kreditaftalen. 
+
+Alle de antagelser, der er lagt til grund ved beregningen af denne procentsats, jf. § 16, stk. 3 og 4, og § 4, nr. 7 og 9, angives. 
 
 **7**. En angivelse af, at forbrugeren til enhver tid kan blive anmodet om at betale hele kreditbeløbet tilbage.
 
@@ -14454,14 +14523,25 @@ Dog kan det ifølge KAL § 10, stk. 4, fastsættes i en kreditaftale, at underre
 ---
 
 **Beregning af de årlige omkostninger i procent**
+
+![](img/aop2.jpg)
+
+
+![](img/aop.png)
  
 Ved de årlige omkostninger i procent (også betegnet som **ÅOP**) forstås ifølge KAL § 16, stk. 1, en procentsats, der på årsbasis svarer til nutidsværdien af alle fremtidige eller eksisterende forpligtelser i form af udnyttede kreditmuligheder, tilbagebetalinger og omkostninger, der er aftalt mellem kreditgiveren og forbrugeren. 
 
 Sagt med andre ord betyder ÅOP, hvor meget det samlet koster at låne 100 kr. i ét år. *"kiloprisen for lånet"*
 
-De årlige omkostninger i procent beregnes ud fra den matematiske formel, som er i lovens bilag 1.
+De årlige omkostninger i procent beregnes ud fra den matematiske formel, som er i kreditaftalelovens bilag 1.
 
----.
+Grundligningen, som bestemmer de årlige omkostninger i procent (ÅOP), sætter på årsbasis lighedstegn mellem den samlede nutidsværdi af udnyttede kreditmuligheder og den samlede nutidsværdi af tilbagebetalinger og betalinger af omkostninger:
+
+
+
+![](img/aop1.png)
+
+---
 
 **Kreditformidlere** 
 
@@ -14473,6 +14553,8 @@ I visse tilfælde skal en forbruger betale et gebyr til en kreditformidler for d
 
 <img src="img/kredit8.jpeg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
+*Hvilke konsevenser har det, hvis kreditgiveren tilsidesætter sine oplysningsforpligtelser:*
+
 Manglende opfyldelse af visse oplysningsforpligtelser, er civilretligt sanktioneret i KAL § 23, såfremt der ikke er givet behørig oplysning om ÅOP og de samlede omkostninger, som forbrugeren skal betale, jf. KAL § 8, stk. 2, nr. 7, eller stk. 5, nr. 6, jf. KAL § 23, stk. 1, jf. dog § 23, stk. 3, at forbrugeren ikke kan afkræves andre kreditomkostninger end en årlig rente svarende til den officielle udlånsrente med et tillæg på 5 %, se fx Juridisk Årbog 1999, s. 188 (møbler på kredit).
 
 KAL § 23, stk. 1, medfører således ikke blot en reduktion af den aftalte rente til en rente, der svarer til den officielle udlånsrente med et tillæg på p.t. 5 %. 
@@ -14483,7 +14565,9 @@ Sanktionsreglen i KAL § 23, stk. 1, gælder ikke, hvis kreditgiveren kan godtg�
 
 I betragtning af den høje detaljeringsgrad, der er i lovens bestemmelser om kreditgiverens oplysningspligt, kan det ikke antages, at bestemmelsen i KAL § 23, stk. 3, har væsentlig betydning. 
 
-Det er desuden hensigten med bestemmelsen, at denne skal have et snævert anvendelsesområde, således at den altovervejende hovedregel er, at en tilsidesættelse af oplysningspligten fører til, at der skal ske en regulering, jf. nærmere præmisserne i **dommen U 2004.317 H** om aftale om leje af videoapparat med ret til at købe for 1 kr. efter 5 år. Dette var i strid med kreditaftaleloven.
+Det er desuden hensigten med bestemmelsen, at denne skal have et snævert anvendelsesområde, således at den altovervejende hovedregel er, at en tilsidesættelse af oplysningspligten fører til, at der skal ske en regulering, jf. nærmere præmisserne i dommen **U 2004.317 H** om aftale om leje af videoapparat med ret til at købe for 1 kr. efter 5 år. Dette var i strid med kreditaftaleloven.
+
+Undtagelser i kreditaftaleloven skal således fortolkes indkrænkende grundet lovens forbrugerbeskyttende hensigt.
 
 ---
 
@@ -14507,10 +14591,10 @@ Grove eller gentagne overtrædelser af KAL §§ 7 a, 7 b, 8, 8 a, 8 b, 9, 10 ell
 
 Det følger af KAL § 22: 
 
-**“Er det beløb, som forbrugeren efter aftalen skal betale som vederlag eller omkostninger, urimeligt, skal det nedsættes til, hvad der skønnes rimeligt.** 
+“Er det beløb, som forbrugeren efter aftalen skal betale som vederlag eller omkostninger, urimeligt, skal det nedsættes til, hvad der skønnes rimeligt.** 
+Medmindre andet bestemmes af retten, sker afkortningen i det eller de sidste beløb, der skal betales efter aftalen. 
 
-**Medmindre andet bestemmes af retten, sker afkortningen i det eller de sidste beløb, der skal betales efter aftalen.** 
-**Er der afkrævet forbrugeren et urimeligt vederlag for at give den pågældende henstand eller andre lempelser i de aftalte vilkår, sker afkortningen på samme måde”**.
+Er der afkrævet forbrugeren et urimeligt vederlag for at give den pågældende henstand eller andre lempelser i de aftalte vilkår, sker afkortningen på samme måde”.
 
 Reduktion af en rentesats rejser ligesom andre rettelser af en kontrakt spørgsmålet om, hvor vidtgående rettelsen bør være. 
 
@@ -14518,7 +14602,7 @@ Reduktion af en rentesats rejser ligesom andre rettelser af en kontrakt spørgsm
 
 ![](img/rente.png)
 
-**Dommen i U 1960.631 H** tyder på, men fastslår dog ikke udtrykkeligt, at rentefoden er blevet nedsat til en høj sats, måske den højeste sats som ikke kunne være tilsidesat, men ikke til den lavere sats, som er almindelig eller gennemsnitlig praksis på markedet.
+Dommen i **U 1960.631 H** tyder på, men fastslår dog ikke udtrykkeligt, at rentefoden er blevet nedsat til en høj sats, måske den højeste sats som ikke kunne være tilsidesat, men ikke til den lavere sats, som er almindelig eller gennemsnitlig praksis på markedet.
 
 ---
 
@@ -14790,24 +14874,23 @@ I aftaler om kreditkøb er det udelukkende muligt at bruge ejendomsforbehold, de
 **Et gyldigt ejendomsforbehold skal efter KAL § 34, stk. 1 være:**
 
 
-**Ejendomsforbehold er kun gyldigt, såfremt** 
 
-**1) det er aftalt senest ved overgivelsen af det købte til forbrugeren,**
+1) det er aftalt senest ved overgivelsen af det købte til forbrugeren,
 
-**2) det samlede beløb, der skal betales, jf. § 8, stk. 2, nr. 7, inklusive den erlagte udbetaling  overstiger 2.000 kr.,**
+2) det samlede beløb, der skal betales, jf. § 8, stk. 2, nr. 7, inklusive den erlagte udbetaling  overstiger 2.000 kr.,
 
-**3) kreditkøbet ikke er sket i henhold til en aftale om kredit med variabelt lånebeløb og**
+3) kreditkøbet ikke er sket i henhold til en aftale om kredit med variabelt lånebeløb og
 
-**4) sælgeren ved overgivelsen  af det købte er fyldestgjort for mindst 20 pct. af kontantprisen".**
+4) sælgeren ved overgivelsen  af det købte er fyldestgjort for mindst 20 pct. af kontantprisen".
 
 
 ---
 
 ![](img/ejen.jpg)
 
-**Desuden skal ejendomsforbehold i motorkøretøjer tinglyses i bilbogen, jf. TL § 42d, stk. 1**
+Desuden skal ejendomsforbehold i motorkøretøjer tinglyses i bilbogen, jf. TL § 42d, stk. 1.
 
-**OBS: Ingen krav om udbetaling i handelskøb og civilkøb for at der er taget et gyldigt ejendomsforbehold**.
+OBS: Ingen krav om udbetaling i handelskøb og civilkøb for at der er taget et gyldigt ejendomsforbehold.
  
 
 
@@ -14821,9 +14904,11 @@ I aftaler om kreditkøb er det udelukkende muligt at bruge ejendomsforbehold, de
 
 **U:** Hvis en godtroende forbruger har købt aktivet med ejendomsforbehold, kan køber ekstinkvere (udslette) sælger ejendomsforbehold hvis:  
 
-* **U1**: Sælger har givet tilladelse til videresalg  
-* **U2**: Sælger har opført sig passivt eller særlig uforsigtigt, og aktivet er udleveret til køber
-* **U3:** Forhandlergrundsætningen – sælger er klar over, at køber er forhandler af aktivet, og aktivet er udleveret til køber
+**U1**: Sælger har givet tilladelse til videresalg  
+
+**U2**: Sælger har opført sig passivt eller særlig uforsigtigt, og aktivet er udleveret til køber
+
+**U3:** Forhandlergrundsætningen – sælger er klar over, at køber er forhandler af aktivet, og aktivet er udleveret til køber
 
 ---
 
@@ -14851,7 +14936,7 @@ Som køb med ejendomsforbehold anses også en aftale, der er betegnet som lejeko
 
 ![](img/fona.jpg)
 
-**Se Fona-sagerne i Højesterets dom U 2004.317 H, hvorefter aftale om leje af videoapparat med ret til at købe apparatet for 1 kr. efter 5 år var i strid med kreditaftaleloven**:
+Se Fona-sagerne i Højesterets dom **U 2004.317 H**, hvorefter aftale om leje af videoapparat med ret til at købe apparatet for 1 kr. efter 5 år var i strid med kreditaftaleloven:
 
 ![](img/video.png)
 
@@ -14896,7 +14981,7 @@ Det kræves ikke, at den konkrete køber faktisk har forstået dette, men at den
 
 ---
 
-**Sælgeren kan ikke tage et ensidigt ejendomsforbehold** – fx i en faktura eller i leveringsbetingelserne, jf. dommene **U 1977.29 SH, U 1978.373 V** (et ejendomsforbehold, der var fortrykt på kontraktens bagside, fandtes ikke at være aftalt, da kontrakten var underskrevet på forsiden) og U 1983.311 H – og i hvert fald i forbrugerkøb er et sådant forbehold ikke gyldigt, selv om køber ikke reklamerer over det pågældende kontraktvilkår.  
+Sælgeren kan ikke tage et ensidigt ejendomsforbehold – fx i en faktura eller i leveringsbetingelserne, jf. dommene **U 1977.29 SH, U 1978.373 V** (et ejendomsforbehold, der var fortrykt på kontraktens bagside, fandtes ikke at være aftalt, da kontrakten var underskrevet på forsiden) og U 1983.311 H – og i hvert fald i forbrugerkøb er et sådant forbehold ikke gyldigt, selv om køber ikke reklamerer over det pågældende kontraktvilkår.  
 
 ---
 
@@ -14929,7 +15014,7 @@ Spørgsmålet om, hvorvidt sælgeren kan vindicere genstanden fra tredjemand,  m
 
 Udgangspunktet i dansk ret er, at kreditgiveren (sælgeren) kan *vindicere* (tilbagefører) genstanden fra en senere erhverver. 
 
-Ifølge domspraksis fraviges dette udgangspunkt, såfremt kreditgiveren har udvist uforsigtighed eller passivitet, jf. fx dommen i **U 1984.846 V (om videresalg af en motorcykel)**.
+Ifølge domspraksis fraviges dette udgangspunkt, såfremt kreditgiveren har udvist uforsigtighed eller passivitet, jf. fx dommen i **U 1984.846 V** (om videresalg af en motorcykel).
 
 ![](img/motor.jpg)
 
@@ -14937,14 +15022,17 @@ Ifølge domspraksis fraviges dette udgangspunkt, såfremt kreditgiveren har udvi
 
 ### Betingelser for gyldigheden af et ejendomsforbehold
 
-
+![](img/ejen1.jpg)
 
 Et ejendomsforbehold i forbrugerkøb er som tidligere nævnt kun gyldigt efter lovens § 34, stk. 1, såfremt:
 
 Det er aftalt senest ved overgivelsen af det købte til forbrugeren,
+
 det samlede beløb, der skal betales, jf. § 9, stk. 1, nr. 5, overstiger 2.000 kr.,
+
 kreditkøbet ikke er sket i henhold til en aftale om kredit med variabelt lånebeløb, og
-sælgeren ved overgivelsen af det købte er fyldestgjort for mindst 20 % af kontantprisen.
+
+sælgeren ved overgivelsen af det købte er fyldestgjort for mindst 20 % af kontantprisen.
 
 ---
 
@@ -14988,9 +15076,9 @@ Bestemmelsen i KAL § 34, stk. 1, nr. 3, udelukker ikke, at en køber kan indgå
 
 Efter KAL § 34, stk. 1, nr. 4, er det ydermere en betingelse for et gyldigt ejendomsforbehold, at sælgeren er fyldestgjort for mindst 20 % af kontantprisen, hvilket vil sige den pris, som genstanden kunne være købt til ved kontant betaling på tidspunktet for aftalens indgåelse.  
 
-Det er uden videre givet, at **begrebet kontantprisen omfatter moms, jf. dommene i U 1970.688 Ø og U 1980.624 V**. 
+Det er uden videre givet, at begrebet kontantprisen omfatter moms, jf. dommene i **U 1970.688 Ø og U 1980.624 V**. 
 
-Et eksempel herpå er fx **stempelafgift**. 
+Et eksempel herpå er fx stempelafgift. 
 
 Reglerne om mindsteudbetalingen er basalt set en social/forbrugerbeskyttende foranstaltning, medens mindsteudbetalingens vekslende størrelse imidlertid allerede fra 1950’erne først og fremmest har været dikteret af finanspolitiske hensyn, jf. fx kartoffelkuren i 1986, hvor udbetalingskravet blev forhøjet fra 20 % til 30 %. 
 
@@ -14998,7 +15086,7 @@ Udbetalingskravet er ved lov nr. 226 af 6. april 1994 blevet ændret fra 30 % ti
 
 Selvom kravets tilsidesættelse medfører, at ejendomsforbeholdet er ugyldigt, fratager det ikke forbrugeren de særlige beskyttelsesregler i kapitlet, jf. KAL § 30, stk. 2.  
 
-**Sælgeren har bevisbyrden** for, at der foreligger et ikke-forbrugerkøb, jf. KAL § 1, stk. 3, og dermed for, at ejendomsforbeholdet er gyldigt, uanset at udbetalingskravet ikke er opfyldt.  
+Sælgeren har bevisbyrden for, at der foreligger et ikke-forbrugerkøb, jf. KAL § 1, stk. 3, og dermed for, at ejendomsforbeholdet er gyldigt, uanset at udbetalingskravet ikke er opfyldt.  
 
 Kravet om en mindsteudbetaling på 20 % af kontantprisen er objektiv og skal tages bogstaveligt. 
 
@@ -15025,7 +15113,9 @@ Er den solgte genstand omfattet af retsplejelovens § 509, stk. 1, eller § 515,
 ### Forbud mod pantsætning
 
   
-Efter KAL § 21 i kreditkøb kan kreditgiveren ikke i forbindelse med aftalens indgåelse eller leveringen af det solgte få pant i dette til sikkerhed for, at forbrugeren opfylder sine forpligtelser. Hvis sælgeren vil have sikkerhed, må denne følge kal § 34 for at sikker sig et et gyldigt ejendomsforbehold.
+Efter KAL § 21 i kreditkøb kan kreditgiveren ikke i forbindelse med aftalens indgåelse eller leveringen af det solgte få pant i dette til sikkerhed for, at forbrugeren opfylder sine forpligtelser. 
+
+Hvis sælgeren vil have sikkerhed, må denne følge kal § 34 for at sikker sig et et gyldigt ejendomsforbehold.
 
 Det hindrer dog kke, at kreditgiveren efter reglerne om pantsætning af fast ejendom får pant i det solgte, når dette udgør tilbehør til eller bestanddel af en fast ejendom. 
 
@@ -15079,8 +15169,9 @@ Køb med ugyldigt ejendomsforbehold:
 
 Sælger kan:
 
-  +	Ikke få aktivet tilbage
-  +	Kun kræve gæld udover aktivets værdi tilbagebetalt, hvis køber har misligholdt aktivet
++	Ikke få aktivet tilbage
+
++	Kun kræve gæld udover aktivets værdi tilbagebetalt, hvis køber har misligholdt aktivet
 
 ...
 
@@ -15117,11 +15208,9 @@ Hvad er kursskæring og bidragssats? Hvad er et F3-lån? Og hvad sker der, når 
 
 ---
 
-***Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af sikkerhedsstillelse for gæld:***
+**Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af sikkerhedsstillelse for gæld i forhold til eksamen:**
 
  
-<img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
 
 **Kautionsformer især sondringen mellem simpel og selvskyldnerkaution**
 
@@ -15148,23 +15237,25 @@ Kaution er en sikkerhedsstillelse for et gældsforhold
 
 Der er tre parter i kautionsforhold (Se figuren nedenfor):
 
-  +	Låntager = hovedskyldner
-  +	Långiver = kreditor
-  +	Kautionist
++	Låntager = hovedskyldner
+
++	Långiver = kreditor
+
++	Kautionist
   
-![](img/kau1.png)
-(KIlde; Trojka) Fig. 15.1.
+
+
 **Parter i kautionsforhold**
 ```{r, echo=FALSE, result=TRUE,fig.height=3,fig.cap=("Forholdet mellem debitor, kreditor og kautionist")}
 nodes <- data.frame(id = 1:3,
                     level=c(2,1,1),
                     shape = c("box"),
-                    label = c("Kautionist","Långiver\nKreditor","Debitor\nLåntager"),
+                    label = c("kautionist","långiver/\nkreditor","debitor/\nlåntager"),
                     font.size = c(20,20,20))
   
 edges <- data.frame(from = c(1,2), to = c(2,3),
                     length = c(300,300),
-                    label=c("Kautionsaftale","Lån\nkredit"),
+                    label=c("kautionsaftale","lån/\nkredit"),
                     font.size = c(15,15),
                     arrows = c("to"),
                     smooth = FALSE)
@@ -15180,10 +15271,6 @@ visNetwork(nodes, edges, width = "100%") %>%
   visEdges(color = list(color = "lightgrey", highlight = "yellow"))
 ```
 
----
-
-![](img/kau.png)
-(KIlde; Trojka) fig. 15.2.
 
 ---
 
@@ -15191,27 +15278,24 @@ Kautionsaftalen indgås mellem kautionisten og kreditor
 
 Kautionisten har typisk en relation til låntager i forvejen:
 
-  +	Forældre &lrarr;	børn
-  +	Virksomhedsejer	&lrarr; virksomhed
-  +	Moderselskab &lrarr; datterselskab
++	Forældre &lrarr;	børn
+
++	Virksomhedsejer	&lrarr; virksomhed
+
++	Moderselskab &lrarr; datterselskab
 
 
 
-
-
-  
-
-  
 ```{r network5, echo=FALSE, result=TRUE,fig.height=3,fig.cap=("Eneanpartshaver stiller kaution overfor banken til sikkerhed for virksomhedens lån")}
 nodes <- data.frame(id = 1:3, 
                     level=c(1,2,2),
                     shape = c("box"),
-                    label = c("Kautionist\nEneanpartshaver","Bank","Debitor\nApS"),
+                    label = c("kautionist/\neneanpartshaver","bank","debitor/\nApS"),
                     font.size = c(20,20,20))
   
 edges <- data.frame(from = c(1,2,3), to = c(2,3,1),
                     length = c(300,300,300),
-                    label=c("Kautionsaftale","Lån","100% anparter"),
+                    label=c("kautionsaftale","lån","100% anparter"),
                     font.size = c(15,15,15),
                     arrows = c("to"),
                     smooth = FALSE)
@@ -15245,9 +15329,13 @@ Kautionsaftale indgås mellem kreditor og med en eller flere kautionister.
 
 Aftalelovens regler gælder også for kautionsaftaler, fx:
 
-  +	Stærke og svage ugyldighedsgrunde
-  +	Forudsætningslæren
-  +	Generalklausulen om tilsidesættelse af urimelige aftaler i aftalelovens §§ 38c, jf. 36
++	Stærke og svage ugyldighedsgrunde
+
++	Forudsætningslæren
+
++	Generalklausulen om tilsidesættelse af urimelige aftaler i aftalelovens §§ 38c, jf. 36.
+
+---
   
 Kaution er også reguleret i Lov om finansiel virksomhed, se Lovbekendtgørelse nr. 1140 af 26. september 2017 om finansiel virksomhed (FIL), jf. §§ 47 (erhvervskaution) og 48 (privat kaution), hvis kaution gives overfor en finansiel virksomhed
 
@@ -15294,40 +15382,42 @@ Erhvervskaution stilles både af fysiske og juridiske personer, men typisk er de
 
 I vurderingen erhvervskaution eller privat kaution indgår følgendeparametre (Se figuren nedenfor):
 
-  + Ejerandel i virksomhed, der kautioneres for
-  + Stilling i virksomheden
-  + Indsigt i virksomhedens økonomi
-  + Bestemmende indflydelse i virksomheden samlet set
++ Ejerandel i virksomhed, der kautioneres for
+
++ Stilling i virksomheden
+
++ Indsigt i virksomhedens økonomi
+
++ Bestemmende indflydelse i virksomheden samlet set
 
 ---  
 
-![](img/kau2.png)
-(Kilde; Trojka) fig. 15.4.
+
 
 ```{r kaution, fig.height=3,echo=FALSE}
 
 mydf <- data.frame(
   S1 = c(
 "",
-"Kautionisten ejer en del af den virksomhed, der kautioneres for bestemmende indflydelse er afgørende" ,
-"Arbejde i virksomheden", 
-"Indsigt i økonomien", 
-"Ejerandel under 10%" 
+"Kautionisten ejer en del af den virksomhed, der kautioneres for, er den bestemmende indflydelse afgørende" ,
+"Arbejder i virksomheden", 
+"Har indsigt i økonomien", 
+"Ejerandelen under 10%" 
 ),
   S2 = c(
     "Privat kaution",
-"Ejer kautionisten mindre end 50% af virksomheden, er det som udgangspunkt privat kaution.",
-"Ubetydelig stilling uden indflydelse på driften, så er det stadig en privat kaution.", 
-"Ingen indsigt i virksomhedens økonomi taler for en privat kaution.",
+"Ejer kautionisten mindre end 50% af virksomheden, er det som udgangspunkt en privat kaution.",
+"Indtager en ubetydelig stilling uden indflydelse på driften, så er det stadigvæk en privat kaution.", 
+"Ingen indsigt i virksomhedens økonomi taler det for en privat kaution.",
 "Er ejerandelen lille i forhold til andres
-ejerandel, er der ikke tale om bestemmende indflydelse, og kautionen er privat.
+ejerandel, er der ikke tale om en bestemmende indflydelse, og derfor er kautionen privat.
 "
 ),
   S3 = c(
     "Erhvervskaution",
-"Ejer kautionisten mere end 50 % af virksomheden, er det erhvervskaution.", 
-"Har kautionisten en ledende stilling i virksomheden, kan det være en erhvervskaution, selvom kautionisten ejer mindre end 50% af virksomheden.",
-"Har kautionisten stor indsigt i virksomhedens økonomi, kan det være en erhvervskaution selvom ejerandelen er under 50%",
+"Ejer kautionisten mere end 50 % af virksomheden, så er der tale om erhvervskaution.", 
+"Har kautionisten en ledende stilling, kan det være en erhvervskaution, selvom kautionisten ejer mindre end 50% af virksomheden.",
+"Har kautionisten stor indsigt i virksomhedens økonomi, kan der være tale om en erhvervskaution selvom ejerandelen er under 50%",
 "")
   
 )
@@ -15356,7 +15446,9 @@ mydf %>%
 
 Med hensyn til erhvervskaution i et pengeinstitut følger det af FIL § 47: 
 
-*”Er der inden for erhvervsforhold stillet kaution for lån ydet af et pengeinstitut, og udebliver låntager med betaling af hovedstol, afdrag eller renter, skal der senest 6 måneder efter de pågældende ydelsers forfaldsdag skriftligt gives meddelelse til enhver af kautionisterne eller til den eller dem af disse, der er bemyndiget til at modtage meddelelsen på samtlige kautionisters vegne. Undladelse heraf medfører, at pengeinstituttet taber sit krav over for kautionisterne, i det omfang disses regreskrav mod låntageren er blevet forringet ved undladelsen.*
+”Er der inden for erhvervsforhold stillet kaution for lån ydet af et pengeinstitut, og udebliver låntager med betaling af hovedstol, afdrag eller renter, skal der senest 6 måneder efter de pågældende ydelsers forfaldsdag skriftligt gives meddelelse til enhver af kautionisterne eller til den eller dem af disse, der er bemyndiget til at modtage meddelelsen på samtlige kautionisters vegne. 
+
+Undladelse heraf medfører, at pengeinstituttet taber sit krav over for kautionisterne, i det omfang disses regreskrav mod låntageren er blevet forringet ved undladelsen.*
 
 ---
 
@@ -15392,7 +15484,7 @@ Ved tilstrækkeligt informeret forstås, at informationen skal være udformet, s
 
 Der vil derfor kunne være behov for at supplere en udleveret pjece med yderligere information over for kautionister, der har svært ved at forstå indholdet og konsekvenserne ved en kautionsforpligtelse.
 
-![](img/kau12.jpg)
+![](img/kau15.jpg)
 
 ---
 
@@ -15414,13 +15506,15 @@ Derudover er bestemmelsen udvidet til at omfatte tredjemandspant og realkreditl�
 
 Med hensyn til privatkaution i et pengeinstitut følger det således af FIL § 48, stk. 1, at inden der indgås aftale om en kautionsforpligtelse uden for erhvervsforhold for lån eller kreditter ydet af et pengeinstitut, skal pengeinstituttet sikre sig, at kautionisten er tilstrækkeligt informeret om indholdet af aftalen og konsekvenserne af at påtage sig en kautionsforpligtelse. 
 
-Denne information skal indeholde oplysninger om, hvad den konkrete kautionsforpligtelse indebærer, og indeholde en afbalanceret beskrivelse af de risici, der er forbundet hermed. Endvidere skal pengeinstituttet for den debitor, hvis gæld kautionsforpligtelsen skal sikre, med samtykke fra debitor udlevere: 
+Denne information skal indeholde oplysninger om, hvad den konkrete kautionsforpligtelse indebærer, og indeholde en afbalanceret beskrivelse af de risici, der er forbundet hermed. 
+
+Endvidere skal pengeinstituttet for den debitor, hvis gæld kautionsforpligtelsen skal sikre, med samtykke fra debitor udlevere: 
 
 ---
 
 ![](img/ors.jpg)
 
-***Den seneste årsopgørelse fra SKAT,***
+**Den seneste årsopgørelse fra SKAT,**
 
 **De seneste tre lønsedler eller det seneste årsregnskab, hvis der kautioneres for en erhvervsdrivendes gæld.**
 
@@ -15499,13 +15593,17 @@ Det vil sige, at kautionisten skal oplyses om, at lånet er finansieret på den 
 
 Er kautionen stillet for flere fordringer af forskellig karakter, vil kautionsdækningen af de enkelte fordringer bortfalde på forskellige tidspunkter. 
 
-Tidsbegrænsningen regnes fra kautionsaftalens indgåelse. Efter udløb af en kautionsaftale er det muligt at aftale en forlængelse af kautionen ved at iagttage de krav, der gælder i forbindelse med en kautionsaftales indgåelse, jf. § 48, stk. 1. 
+Tidsbegrænsningen regnes fra kautionsaftalens indgåelse. 
 
-Den fastsatte tidsbegrænsning omfatter ikke tilfælde, hvor anden lovgivning har forudsat eller foreskriver kautionsaftaler, der løber længere tid end foreskrevet i dette stykke. Bestemmelsen berører ikke reglerne om forældelse i forældelsesloven. Forældelsesreglerne finder anvendelse, når kravet efter kautionsløftet forfalder. 
+Efter udløb af en kautionsaftale er det muligt at aftale en forlængelse af kautionen ved at iagttage de krav, der gælder i forbindelse med en kautionsaftales indgåelse, jf. § 48, stk. 1. 
+
+Den fastsatte tidsbegrænsning omfatter ikke tilfælde, hvor anden lovgivning har forudsat eller foreskriver kautionsaftaler, der løber længere tid end foreskrevet i dette stykke. 
+
+Bestemmelsen berører ikke reglerne om forældelse i forældelsesloven. Forældelsesreglerne finder anvendelse, når kravet efter kautionsløftet forfalder. 
 
 Når en fordring er sikret ved kaution, bestemmes forældelsesfristen over for kautionisten efter de regler, der gælder for forældelse af fordringen mod hovedskyldneren jf. § 11 i forældelsesloven. 
 
-
+---
 
 **En aftale om en kautionsforpligtelse efter FIL § 48, stk. 1 kan tilsidesættes helt eller delvis, hvis den står i misforhold til kautionistens økonomi, jf. FIL § 48, stk. 10.**
 
@@ -15516,8 +15614,6 @@ Denne vurdering skal som udgangspunkt foretages på baggrund af forholdene på t
 Hvis kautionisten kun har beskedne indtægter, bør der kun lægges vægt på formueforholdene. Der skal kun i særlige tilfælde tages hensyn til efterfølgende ændringer i kautionistens økonomi. 
 
 Fremtidige, kendte indtægtsstigninger kan indgå i vurderingen sammen med kendte mærkbare formueforøgelser inden for rimelig tid efter påtagelsen af kautionsforpligtelsen. 
-
-
 
 Ved kautionister med større indtægter eller ved forventninger om større indtægtsstigninger, bør de fremtidige indtægter og indtægtsforventninger indgå i vurderingen af, om kautionen står i misforhold til kautionistens økonomi. 
 
@@ -15539,7 +15635,6 @@ Der tages således kun hensyn til, at kautionisten har påtaget sig kautions-, p
 
 Generalklausulen i aftalelovens §§ 36 og 38 c vil herudover forsat kunne bringes i anvendelse i øvrigt i forhold til kautionsforpligtelser.
 
-
 FIL § 48, stk. 1-10 finder tilsvarende anvendelse på tredjemandspant uden for erhvervsforhold, jf. FIL § 48, stk. 11.
 
 Tredjemandspant stillet af en privatperson minder på flere punkter om privat kaution. 
@@ -15548,8 +15643,6 @@ Både ved kaution og tredjemandspant er der tale om, at en fordringshaver opnår
 
 I modsætning til kaution hæfter en tredjemandspantsætter dog ikke personligt for den sikrede fordring, men derimod kun med det stillede pant, medmindre andet er aftalt.
 
-
-![](img/kau13.jpg)  
 
 ---
 
@@ -15565,9 +15658,11 @@ Beskrivelse af risikoen.
 
 Oplysninger om låntagers (debitors) økonomi:
 
-  + Årsopgørelser fra Skat
-  + Lønsedler
-  + Evt. årsregnskab
++ Årsopgørelser fra Skat
+
++ Lønsedler
+
++ Evt. årsregnskab
   
 Låntagers gæld til den finansielle virksomhed.
 
@@ -15583,20 +15678,23 @@ Hvis oplysningspligten ikke er overholdt kan kautionen   eventuelt tilsidesætte
 
 Hvornår kautionen kan gøres gældende afhænger af kautionstypen:
 
-  + **Simpel kaution** – når det er dokumenteret, at debitor ikke kan   betale lånet
+
+**Simpel kaution** – når det er dokumenteret, at debitor ikke kan betale lånet
   
-  + **Selvskyldnerkaution** – når debitor har misligholdt lånet
+**Selvskyldnerkaution** – når debitor har misligholdt lånet
   
-  + **Tabskaution** – efter udtømmende retsforfølgning
+**Tabskaution** – efter udtømmende retsforfølgning
+
+---
   
-Hvilket beløb kautionen kan gøres gældende for afhænger af 
-kautionstypen:
+Hvilket beløb kautionen kan gøres gældende for afhænger af kautionstypen:
+
   
-  + Alskyld – for hele lånet
+**Alskyld** – for hele lånet
   
-  + Begrænset kaution – for et maksimalt beløb
+**Begrænset kaution** – for et maksimalt beløb
   
-  + Delkaution – for en bestemt del af lånet
+**Delkaution** – for en bestemt del af lånet
 
 (Se figuren nedenfor)
  
@@ -15613,14 +15711,14 @@ mydf <- data.frame(
 "Medkaution", 
 "Efterkaution"),
   S2 = c("Definition" ,
-  "Kan først gøres gældende, når det er dokumenteret, at 
+  "Kan først gøres gældende overfor kautionisten, når det er dokumenteret, at 
 debitor ikke kan betale gælden.", 
-"Kan gøres gældende, når debitor misligholder lånet. ",
-"Kan gøres gældende efter udtømmende retsforfølgning.",
+"Kan gøres gældende overfor kautionisten, når debitor misligholder lånet. ",
+"Kan gøres gældende overfor kautionisten efter udtømmende retsforfølgning.",
 "Omfatter hele gælden med et maksimalt beløb.",
 "Kautionen omfatter en bestemt del af gælden.",
 "Flere kautionister for samme gældsforhold under forudsætning af, at andre kautionister også har kautioneret.", 
-"Flere kautionister for samme gældsforhold stillet uafhængigt af hinanden.",
+"Flere kautionister for samme gældsforhold som er stillet uafhængigt af hinanden.",
 "Kaution stillet overfor kreditor som effektueres, når hovedkautionist ikke kan betale")
   
 )
@@ -15720,14 +15818,12 @@ Hvis kravet ikke er betalt, kan långiver allerede fra forfaldsdagen kræve beta
 
 Ved simpel kaution skal långiver derimod dokumentere, at låntager ikke kan betale gælden, før der kan kræves betaling fra kautionisterne.
 
+---
+
 **Simpel kaution** finder anvendelse, medmindre andet er aftalt eller følger af lov.
 
 Professionelle långivere som banker vil imidlertid normalt kræve, at en kaution stilles som selvskyldnerkaution.
 
----
-
-![](img/kau3.png)
-(Kilde; Trojka) fig. 15.6
 
 ---
 
@@ -15747,8 +15843,9 @@ De samme beskyttelsesregler gælder, hvis en privatperson stiller pantesikkerhed
 
 Er der flere kautionister kan det være (Se figuren nedenfor):
 
-  + Samkaution – afhængigt af hinanden
-  + Medkaution – uafhængigt af hinanden
++ Samkaution – afhængigt af hinanden
+
++ Medkaution – uafhængigt af hinanden
   
 Flere kautionister hæfter solidarisk, hvis ikke andet er aftalt.
 
@@ -15761,7 +15858,7 @@ Hvis det er aftalt kan kautionisterne hæfte pro rata (Se figuren nedenfor).
 nodes <- data.frame(id = 1:6, 
                     level = c(2,3,3,3,1,3),
                     shape = c("box"),
-                    label = c("Kreditor","Kautionist 1","Kautionist 2","Kautionist 3","Debitor","Kautionist 4"),
+                    label = c("kreditor","kautionist 1","kautionist 2","kautionist 3","debitor","kautionist 4"),
                     font.size = c(25,25,25,25,25,25))
   
 edges <- data.frame(from = c(2,3,4,1,6), to = c(1,1,1,5,1),
@@ -15792,13 +15889,13 @@ visNetwork(nodes, edges, width = "100%") %>%
 nodes <- data.frame(id = 1:5, 
                     level = c(2,3,3,3,1),
                     shape = c("box"),
-                    label = c("Kreditor","Kautionist 1 50%","Kautionist 2 25%","Kautionist 3 25%","Debitor"),
+                    label = c("kreditor","kautionist 1: 50%","kautionist 2: 25%","kautionist 3: 25%","debitor"),
                     font.size = c(25,25,25,25,25))
   
 edges <- data.frame(from = c(2,3,4,1), to = c(1,1,1,5),
                     length = c(250,250,250,250),
                     font.size = c(25,25,25,25),
-                    label=c("Hæftelse\n500.000","Hæftelse\n250.000","Hæftelse\n250.000","Lån 1 mio"),
+                    label=c("hæftelse\n500.000 kr.","hæftelse\n250.000 kr.","hæftelse\n250.000 kr.","lån 1 mio"),
                     # arrows = c("to"),
                     smooth = FALSE)
 visNetwork(nodes, edges, width = "100%") %>% 
@@ -15822,11 +15919,11 @@ visNetwork(nodes, edges, width = "100%") %>%
 ```{r network7, echo=FALSE,fig.height=3, result=TRUE,fig.cap=("Efterkaution.")}
 nodes <- data.frame(id = 1:4, shadow = TRUE,
                     shape = c("box"),
-                    label = c("Kreditor","Hovedkautionist\nEneanpartshaver","Efterkautionist\nÆgtefælle","Debitor\nBank"),
+                    label = c("Kreditor","hovedkautionist/\neneanpartshaver","efterkautionist/\nægtefælle","debitor/\nbank"),
                     font.size = c(26,26,26,26))
 edges <- data.frame(from = c(2,3,1), to = c(1,1,4),
                     length = c(300,300,300),
-                    label=c("Hæftelse 1","Hæftelse 2","Lån"),
+                    label=c("hæftelse 1","hæftelse 2","lån"),
                     smooth = FALSE,
                     font.size = c(16,16,16))
 visNetwork(nodes, edges, width = "100%") %>% 
@@ -15873,18 +15970,18 @@ Kautionen forældes sammen med hovedfordring, hvis ikke andet er aftalt.
 
 Når kautionisten har betalt kreditor det skyldige beløb, har kautionisten regresret overfor debitor:
 
-* **HR:** Kautionisten indtræder i kreditors rettigheder også i fx en panteret
+**HR:** Kautionisten indtræder i kreditors rettigheder også i fx en panteret
 
-  + **U1**: Kautionisten var klar over, at fordringen var ugyldig på grund af låntagers umyndighed
++ **U1**: Kautionisten var klar over, at fordringen var ugyldig på grund af låntagers umyndighed
   
-  + **U2**: Fordringen er eftergivet helt eller delvist ved tvangsakkord
++ **U2**: Fordringen er eftergivet helt eller delvist ved tvangsakkord
 
 ---
 
 ## Regresret
 
-![](img/kau6.png)
-(Kilde: Trojka) fig. 15.7.
+
+
 
 **Kautionistens regresret**
 ```{r ,echo=FALSE, result=TRUE, fig.height=4,fig.cap=("Kautionistens regresret over for låntager")}
@@ -15892,7 +15989,7 @@ Når kautionisten har betalt kreditor det skyldige beløb, har kautionisten regr
 nodes <- data.frame(id = 1:5, 
                     shape = c("box"), 
                     level = c(1,2,3,4,5),
-                    label = c("1. Kreditor har krav på låntager","2. Låntager misligholder","3. Kreditor kræver kautionen indfriet ","4. Kautionisten betaler kreditor","5. Kautionisten har krav på låntager"),
+                    label = c("1. Kreditor har krav på låntageren","2. Låntager misligholder lånet","3. Kreditor kræver kautionen indfriet ","4. Kautionisten betaler kreditor","5. Kautionisten har et regreskrav på låntageren"),
                     font.size = c(26,26,26,26,26))
 edges <- data.frame(from = c(1,2,3,4), to = c(2,3,4,5),font.size = c(30,30,30,30),arrows = c("to"),label=c("+","+","+","="),length = rep(100,4))
 
@@ -15977,11 +16074,17 @@ Advokat Sonny Kristoffersen
 
 **Prinsessefødselsdagen.**
 
-Peter Petersen er far til Fie som snart fylder 8 år, og han vil gerne invitere pigerne fra hendes klasse hjem til fødselsdag. Fødselsdagen må gerne have et tema – og Fie er helt vild med prinsesser, så han bestiller den helt store prinsessepakke til 1.015 kr. fra webbutikken TEMAFESTEN. 
+Peter Petersen er far til Fie som snart fylder 8 år, og han vil gerne invitere pigerne fra hendes klasse hjem til fødselsdag. 
+
+Fødselsdagen må gerne have et tema – og Fie er helt vild med prinsesser, så han bestiller den helt store prinsessepakke til 1.015 kr. fra webbutikken TEMAFESTEN. 
 
 Her kan man købe temapakker med engangsservice, pynt og tilbehør til børnefødselsdage. 
 
-Peter modtager den 4. oktober en kasse med tilbehør til en børnefødselsdag. Den bliver ikke åbnet, men bare stillet på en hylde i værkstedet, for der er endnu 4 uger til festen skal holdes. Den 19. oktober åbner Peter pakken for at sende invitationerne ud.  
+Peter modtager den 4. oktober en kasse med tilbehør til en børnefødselsdag. 
+
+Den bliver ikke åbnet, men bare stillet på en hylde i værkstedet, for der er endnu 4 uger til festen skal holdes. 
+
+Den 19. oktober åbner Peter pakken for at sende invitationerne ud.  
 
 Desværre er der ikke prinsesseudstyr i pakken, men i stedet udstyr til en fødselsdag med monstertema. 
 
@@ -15997,13 +16100,17 @@ Læringsmål: Anvende og formidle juridiske regler og praksis for forbrugeraftal
 
 Med henvisning til almindelige køberetlige betragtninger, er varen imidlertid mangelfuld, og da sælger ikke er i stand til hverken at tilbyde udbedring eller omlevering, og da manglen ikke er uvæsentlig, må aftalen kunne hæves jf. KL (konkursloven) § 78.
 
-Da læringsmålene i relation til spørgsmålet i relation til købeloven er begrænset til en generel viden om principperne bag misligholdelsesbeføjelserne i relation til mangler, kan der ikke kræves udtømmende svar med paragrafhenvisninger. Besvareler der afspejler en generel forståelse for de bagved liggende hensyn og principper skal belønnes.
+Da læringsmålene i relation til spørgsmålet i relation til købeloven er begrænset til en generel viden om principperne bag misligholdelsesbeføjelserne i relation til mangler, kan der ikke kræves udtømmende svar med paragrafhenvisninger. 
+
+Besvareler der afspejler en generel forståelse for de bagved liggende hensyn og principper skal belønnes.
 
 **Svar slut**.
 
 ---
 
-Det lykkedes ikke for Peter at blive enig med TEMAFESTEN inden Fie skulle holde fødselsdag. Da dagen nærmer sig, har han sendt monsterpakken retur til TEMAFESTEN, og han har ikke noget prinsesseudstyr. 
+Det lykkedes ikke for Peter at blive enig med TEMAFESTEN inden Fie skulle holde fødselsdag. 
+
+Da dagen nærmer sig, har han sendt monsterpakken retur til TEMAFESTEN, og han har ikke noget prinsesseudstyr. 
 
 Han går i stedet i en hobbyforretning og køber papir, glimmer, palletter, lim mv. og laver selv udstyr til en super flot prinsessefødselsdag – fødselsdagen bliver et kæmpe hit – men materialerne koster 2.300 kr. 
 
@@ -16013,9 +16120,13 @@ Han går i stedet i en hobbyforretning og køber papir, glimmer, palletter, lim 
 
 **Vejledende løsning:**
 
-Læringsmål Viden om grundlæggende regler om køb med henblik på at lette forståelsen for andre juridiske områder. Anvende og vurdere de grundlæggende erstatningsbetingelser ved erstatning uden for kontrakt, for derigennem at kunne vurdere reglerne for rådgivnings- og professionsansvar inden for den finansielle sektor.
+Læringsmål Viden om grundlæggende regler om køb med henblik på at lette forståelsen for andre juridiske områder. 
 
-Svar: I det omfang misligholdelsen har påført Peter et tab kan han søge dette erstattet med henvisning til det objektive ansvar i KL § 43, stk.3 jf. § 80, stk. 2. Erstatningen beregnes efter princippet i i KL § 25 jf. § 45.
+Anvende og vurdere de grundlæggende erstatningsbetingelser ved erstatning uden for kontrakt, for derigennem at kunne vurdere reglerne for rådgivnings- og professionsansvar inden for den finansielle sektor.
+
+Svar: I det omfang misligholdelsen har påført Peter et tab kan han søge dette erstattet med henvisning til det objektive ansvar i KL § 43, stk.3 jf. § 80, stk. 2. 
+
+Erstatningen beregnes efter princippet i i KL § 25 jf. § 45.
 
 Da læringsmålene i relation til købeloven er begrænset til en generel viden om principperne, kan der ikke kræves udtømmende svar med paragrafhenvisninger mv. Besvareler der afspejler en generel forståelse for de bagved liggende hensyn og principper skal belønnes.
 
@@ -16023,11 +16134,17 @@ Da læringsmålene i relation til købeloven er begrænset til en generel viden 
 
 ---
 
-Peter betalte for prinsessepakken, da han bestilte den – men da han skal betale på netbank kommer han til at overføre 10.150 kr. Det opdager han først den 3.november, hvor han undrer sig over, at der står så lidt på kontoen.
+Peter betalte for prinsessepakken, da han bestilte den – men da han skal betale på netbank kommer han til at overføre 10.150 kr. 
 
-Peter Petersen kontakter TEMAFESTEN telefonisk og får den besked, at de ikke lige havde opdaget det for meget overførte beløb, men at de vil undersøge sagen og få sendt det for meget indbetalte tilbage. Efter et par dage refunderes de kr. 1.015 kr. men ikke det for meget indbetalte beløb. 
+Det opdager han først den 3.november, hvor han undrer sig over, at der står så lidt på kontoen.
 
-Peter ringer igen til TEMAFESTEN, og de lover igen at se på sagen. Herefter har han kontakt til TEMAFESTEN omtrent hver 3. dag – de bliver ved med at love tilbagebetaling, men det sker ikke. 
+Peter Petersen kontakter TEMAFESTEN telefonisk og får den besked, at de ikke lige havde opdaget det for meget overførte beløb, men at de vil undersøge sagen og få sendt det for meget indbetalte tilbage. 
+
+Efter et par dage refunderes de kr. 1.015 kr. men ikke det for meget indbetalte beløb. 
+
+Peter ringer igen til TEMAFESTEN, og de lover igen at se på sagen. 
+
+Herefter har han kontakt til TEMAFESTEN omtrent hver 3. dag – de bliver ved med at love tilbagebetaling, men det sker ikke. 
 
 Herefter kontakter Peter en advokat for at få rådgivning om hvordan beløbet kan inddrives og hvordan forløbet i en sådan inddrivelse forventes at være.
 
@@ -16042,14 +16159,18 @@ Læringsmål: Udviklingsbaseret viden om anvendt teori og metoder indenfor regle
 
 Svar: Advokaten skal fortælle Peter, at der skal indledes en individuel kreditforfølgning.
 
-Da læringsmålet her kun er på niveauet for viden kan der ikke forventes besvarelser med detaljeret redegørelse for de forskellige uden- og indenretlige skridt og muligheder mv. Besvareler der afspejler en generel forståelse for de bagved liggende hensyn og principper skal belønnes.
+Da læringsmålet her kun er på niveauet for viden kan der ikke forventes besvarelser med detaljeret redegørelse for de forskellige uden- og indenretlige skridt og muligheder mv. 
+
+Besvareler der afspejler en generel forståelse for de bagved liggende hensyn og principper skal belønnes.
 
 **Svar slut**.
 
 
 ---
 
-Peter beslutter sig for, at advokaten skal forsøge at inddrive pengene for ham. Efter ca. 2 måneder skriver advokaten til Peter, at TEMAFESTEN netop er kommet under konkursbehandling, hvorfor den individuelle inddrivelse må stoppes. Advokaten kan oplyse, at det fremgår af konkursboets cirkulærebreve, at der næsten ingen aktiver er i konkursboet - blot et mindre varelager, som endnu ikke er værdisat.
+Peter beslutter sig for, at advokaten skal forsøge at inddrive pengene for ham. Efter ca. 2 måneder skriver advokaten til Peter, at TEMAFESTEN netop er kommet under konkursbehandling, hvorfor den individuelle inddrivelse må stoppes. 
+
+Advokaten kan oplyse, at det fremgår af konkursboets cirkulærebreve, at der næsten ingen aktiver er i konkursboet - blot et mindre varelager, som endnu ikke er værdisat.
 
 **Eksamensspørgsmålet:**
 
@@ -16059,7 +16180,11 @@ Peter beslutter sig for, at advokaten skal forsøge at inddrive pengene for ham.
 
 Læringsmål: Anvende relevante regler om konkurs og rekonstruktion og vurdere deres betydning for den finansielle sektors risiko- og kreditvurdering.
 
-Svar: Peter er separatist jf. KL § 82. Kravet indgår derfor ikke i konkursmassen, og pengene skal udbetales, forud for alle andre krav. Der er således normalt gode udsigter til at få pengene tilbage. Overvejelser omkring vanskeligheder med at udtage et pengebeløb, hvis det viser sig ikke at være til stede i virksomheden bør honoreres. Det gælder også svar, som demonstrerer en generel forståelse af emnet.
+Svar: Peter er separatist jf. KL § 82. Kravet indgår derfor ikke i konkursmassen, og pengene skal udbetales, forud for alle andre krav. 
+
+Der er således normalt gode udsigter til at få pengene tilbage. Overvejelser omkring vanskeligheder med at udtage et pengebeløb, hvis det viser sig ikke at være til stede i virksomheden bør honoreres. 
+
+Det gælder også svar, som demonstrerer en generel forståelse af emnet.
 
 **Svar slut**.
 
@@ -16110,9 +16235,13 @@ Svar: Svaret bør overveje de hæftelsesmæssige forskelle mellem person- og kap
 
 --- 
 
-Der er desværre ikke ret mange, som synes så godt om Peters festudstyr, at de vil betale en god pris for det. Derfor går der kun 6 måneder, før Peters virksomhed er løbet helt tør for penge og ikke længere kan betale de regninger, som kommer. 
+Der er desværre ikke ret mange, som synes så godt om Peters festudstyr, at de vil betale en god pris for det. 
 
-SPAREBANKEN giver i første omgang Peter 5 måneders henstand med tilbagebetalingen, uden dog at give kautionisten besked. Herefter mister SPAREBANKEN tålmodigheden, og beder Peters ekskone om at indbetale de 250.000 kr. som hun har kautioneret for Peters lån.
+Derfor går der kun 6 måneder, før Peters virksomhed er løbet helt tør for penge og ikke længere kan betale de regninger, som kommer. 
+
+SPAREBANKEN giver i første omgang Peter 5 måneders henstand med tilbagebetalingen, uden dog at give kautionisten besked. 
+
+Herefter mister SPAREBANKEN tålmodigheden, og beder Peters ekskone om at indbetale de 250.000 kr. som hun har kautioneret for Peters lån.
 
 
 **Eksamensspørgsmålet:**
@@ -16152,26 +16281,26 @@ Kreditor har pant i tredjemands aktiv, som ligger til sikkerhed for lånet (Se f
 
 Hvis der ikke er tale om et erhvervsforhold og kreditor er bank eller realkreditinstitut, skal kreditor opfylde samme oplysningsforpligtelse, som ved privatkaution, jf. FIL § 48, stk. 11:
 
-  + Hvad tredjemandspant indebærer
++ Hvad tredjemandspant indebærer
   
-  + Beskrivelse af risikoen
++ Beskrivelse af risikoen
   
-  + Låntagers økonomi
++ Låntagers økonomi
   
-  + Låntagers gæld til den finansielle virksomhed
++ Låntagers gæld til den finansielle virksomhed
   
-  + Gennemgå pjece om kaution
++ Gennemgå pjece om kaution
   
-  + Kautionen må ikke stå i misforhold til kautionistens økonomi
++ Kautionen må ikke stå i misforhold til kautionistens økonomi
   
 
 ```{r network12, echo=FALSE,fig.height=3, result=TRUE,fig.cap=("Trediemandspant")}
 nodes <- data.frame(id = 1:4, shadow = TRUE,
                     shape = c("box"),
-                    label = c("Pantsætter","Bank","Låntager\nSelskab","Kautionisten"))
+                    label = c("pantsætter","bank","låntager/\nselskab","kautionisten"))
 edges <- data.frame(from = c(1,2,4), to = c(2,3,2),
                     # length = c(100,100,100,130),
-                    label=c("Pant","Lån","Kaution"),
+                    label=c("pant","lån","kaution"),
                     # arrows = c("to"),
                     smooth = FALSE)
 visNetwork(nodes, edges, width = "100%") %>% 
@@ -16193,12 +16322,7 @@ visNetwork(nodes, edges, width = "100%") %>%
 
 ## Garantistillelse
 
-![](img/kau8.png)
-(Kilde; TRojka) fig. 15.9.
 
-
-
----
 
 **Hvad er en garantistillelse?**
 
@@ -16215,17 +16339,14 @@ Garantistillelse er en sikkerhedsstillelse for betaling på samme måde som kaut
  
 
 
-
-
- 
 ```{r ,echo=FALSE, result=TRUE, fig.height=2,fig.cap=("Parterne i en garantistillelse")}
 
 nodes <- data.frame(id = 1:3, 
                     shape = c("box"), 
                     level = c(1,2,2),
-                    label = c("Garant\nBank",    "Garantirekvirent\nKøber","Beneficiant\nSælger"),
+                    label = c("garant/\nbank",    "garantirekvirent/\nkøber","beneficiant/\nsælger"),
                     font.size = c(26,26,26))
-edges <- data.frame(from = c(1,1,3), to = c(2,3,2),font.size = c(20,20,20),arrows = c("to"),label=c("Lån til købesum","Garanti for købesum","Købsaftale"),length = rep(400,3))
+edges <- data.frame(from = c(1,1,3), to = c(2,3,2),font.size = c(20,20,20),arrows = c("to"),label=c("lån til købesum","garanti for købesum","købsaftale"),length = rep(400,3))
 
 visNetwork(nodes, edges,  width = "100%",avoidOverlap=2) %>% 
   visInteraction(dragNodes = TRUE, 

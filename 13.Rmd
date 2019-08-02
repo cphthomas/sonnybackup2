@@ -13,13 +13,10 @@
 ***Du skal som studerende være særlig opmærksom på følgende problemstillinger ved gennemgangen af insolvensretten, herunder kreditorforfølgning:*** 
 
 
-<img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
 
 •	**Forskellen på individual- og universalforfølgning = vigtigt – herunder forskellen på tvangsauktion og konkurs**
 
-<br>
-<br>
+
 
 ---
 
@@ -31,38 +28,44 @@ Når én kreditor forsøger at fremkalde betaling af sit tilgodehavende hos en s
 
 De juridiske udfordringer for en individualforfølgning er:
 
-Udlægsgrundlag (eksekutionsgrundlag) – herunder betalingspåkrav, 
-retsplejelovens kapitel 44a og § 478
+Udlægsgrundlag (eksekutionsgrundlag) – herunder betalingspåkrav, retsplejelovens kapitel 44a og § 478.
   
 Udlæggets genstand (trangsbeneficiet m.m.), retsplejelovens § 
-507-515
+507-515.
+
+---
   
-•	**Universalforfølgning:**
+**Universalforfølgning:**
 
 Når kreditorerne går sammen for at inddrive deres krav (insolvensbehandling). Universalforfølgning afskærer individualforfølgning. 
+
 Eksempler på universalforfølgning er konkurs, tvangsakkord og gældssanering. Ligelighedsprincippet er centralt. 
 
-Der er desuden mulighed for omstødelse iht. konkursloven. Modsat: individualforfølgning.
+Der er desuden mulighed for omstødelse iht. konkursloven. 
+
+Modsat: individualforfølgning.
+
+---
 
 De juridiske udfordringer ved universalforfølgning:
 
 Hæftelse: Hæftelsestyper i enkeltmandsvirksomhed samt forskellige selskabsformer. 
 
-Emnet har relevans for opgørelse af aktivsiden i et   konkursbo samt kreditors evt. tab af restfordringen.  
+Emnet har relevans for opgørelse af aktivsiden i et konkursbo samt kreditors evt. tab af restfordringen.  
   
-Overordnet om rekonstruktion - anmodning, betingelser og retsvirkning 
+Overordnet om rekonstruktion - anmodning, betingelser og retsvirkning: 
   
 Konkursret – anmodning, 
   
-betingelser, KL § 17-21, 
+Betingelser, KL § 17-21, 
   
-fristdag, KL § 1 
+Fristdag, KL § 1 
 
-nærtstående, KL § 2, 
+Nærtstående, KL § 2, 
 
-konkursordenen, KL kapitel 10, 
+Konkursordenen, KL kapitel 10, 
   
-separatister  og underpanthavere, KL §§ 82 og 86, 
+Separatister  og underpanthavere, KL §§ 82 og 86, 
   
 omstødelse, KL kapitel 8 
 
@@ -72,21 +75,25 @@ omstødelse, KL kapitel 8
 
 **Retsplejeloven og Konkursloven regulerer:**
 
-* *Individualforfølgning:*
+*Individualforfølgning:*
 
-  +	Hver kreditor for sig, den kreditor, der kommer først, bliver først betalt af skyldner
++	Hver kreditor for sig, den kreditor, der kommer først, bliver først betalt af skyldner
   
-  +	Reguleret i Retsplejeloven (RPL; Lovbekendtgørelse nr. 1284 af 14. november 2018) og omfatter bl.a. udlæg, tvangsauktion og tvangsbeneficeret (retten til et beskedent hjem) 
-  
-* *Universalforfølgning:*
++	Reguleret i Retsplejeloven (RPL; Lovbekendtgørelse nr. 1284 af 14. november 2018) og omfatter bl.a. udlæg, tvangsauktion og tvangsbeneficeret (retten til et beskedent hjem).
 
-  +	Reguleret i konkursloven (KKL; Lovbekendtgørelse nr. 11 af 6. januar 2014), og omfatter konkurs, rekonstruktion og gældssanering
+---
   
-  +	Formålet er at stille kreditorerne lige i konkursboet
+*Universalforfølgning:*
+
++	Reguleret i konkursloven (KKL; Lovbekendtgørelse nr. 11 af 6. januar 2014), og omfatter konkurs, rekonstruktion og gældssanering
   
-  +	Kun hvis skyldner er insolvent, jf. KKL § 17:
++	Formålet er at stille kreditorerne lige i konkursboet
   
-  *”Er en skyldner insolvent, skal hans bo tages under konkursbehandling, når det begæres af skyldneren eller en fordringshaver. Stk. 2 En skyldner er insolvent, hvis han ikke kan opfylde sine forpligtelser, efterhånden som de forfalder, medmindre betalingsudygtigheden må antages blot at være forbigående”.*
++	Kun hvis skyldner er insolvent, jf. KKL § 17:
+  
+”Er en skyldner insolvent, skal hans bo tages under konkursbehandling, når det begæres af skyldneren eller en fordringshaver. 
+
+Stk. 2 En skyldner er insolvent, hvis han ikke kan opfylde sine forpligtelser, efterhånden som de forfalder, medmindre betalingsudygtigheden må antages blot at være forbigående”.
  
 
 
@@ -115,11 +122,11 @@ Ordet **”insolvent”**
 
 Der må ved afgørelsen om skyldnerens insolvens og dermed en konkursbehandling tages der hensyn til en række momenter i praksis:
 
-En rigtigt opgjort status er et vægtigt indicium om skyldnerens betalingsevne, jf. dommen U 2001 2592 Ø (skyldner, der siden 2000-02-10 ved (delvis) betaling havde afværget 15 konkursbegæringer, var insolvent, da han ikke kunne betale 50.798 kr. ifølge en udeblivelsesdom, og da han havde yderligere gældsposter). 
+En rigtigt opgjort status er et vægtigt indicium om skyldnerens betalingsevne, jf. dommen **U 2001 2592 Ø** (skyldner, der siden 2000-02-10 ved (delvis) betaling havde afværget 15 konkursbegæringer, var insolvent, da han ikke kunne betale 50.798 kr. ifølge en udeblivelsesdom, og da han havde yderligere gældsposter). 
 
 Det må kræves, at der består en fordring mod skyldneren, men ikke at den er forfalden. Fordringen må endvidere tilkomme den, der indleverer konkursbegæringen til skifteretten.
 
-At fordringen er genstand for en ikke afsluttet retssag, udelukker ikke i sig selv, at den kan tjene som grundlag for konkurs, se f.eks. dommen U 1973 673 H.
+At fordringen er genstand for en ikke afsluttet retssag, udelukker ikke i sig selv, at den kan tjene som grundlag for konkurs, se f.eks. dommen **U 1973 673 H**.
 
 Kreditor skal have en retlig interesse i konkursbehandlingen. 
 
@@ -169,7 +176,7 @@ Dette søges navnlig opnået ved en autorisationsordning for inkassofirmaer, ved
 
 Lovens formål søges også opnået ved regler om, at inkassovirksomhed skal udøves i overensstemmelse med god inkassoskik i forhold til både skyldnere og kunder, jf. inkassolovens § 9. 
 
- ---
+---
 
 <h3>Gode råd og gæld: Inkasso</h3>
 
@@ -177,7 +184,7 @@ Lovens formål søges også opnået ved regler om, at inkassovirksomhed skal ud�
 
 ---
 
-
+Inkassolovens indhold:
 
 Inkassolovens kap. 1 fastlægger anvendelsesområdet for loven.
 
@@ -207,17 +214,19 @@ Kap. 8 indeholder straffe- og ikrafttrædelsesbestemmelser.
 
 * Gælden sendes til inkasso, hvis skyldner ikke betaler, efter kreditor har sendt en eller flere rykkere
 
-* Inkasso kan foretages af:
+Inkasso kan foretages af:
 
-  +	Kreditor selv
-  +	Inkassofirma
-  +	Advokat
++	Kreditor selv
+
++	Inkassofirma
+
++	Advokat
   
-* Inkassobrev med diverse oplysninger sendes til skyldner
+Inkassobrev med diverse oplysninger sendes til skyldner.
 
-* Formålet med inkasso er at få betalt gælden eller opnå en afdragsordning, som kaldes et frivilligt forlig
+Formålet med inkasso er at få betalt gælden eller opnå en afdragsordning, som kaldes et frivilligt forlig.
 
-* Betaler skyldner stadig ikke, må kreditor overveje at fortsætte med tvangsinddrivelse
+Betaler skyldner stadig ikke, må kreditor overveje at fortsætte med tvangsinddrivelse.
 
 ---
 
@@ -251,9 +260,9 @@ Kap. 8 indeholder straffe- og ikrafttrædelsesbestemmelser.
 
 Ordet **”tvangsinddrivelse”:**
 
-* Kreditor kan via fogedretten få udlæg i skyldners aktiver og sælge dem på tvangsauktion
+Kreditor kan via fogedretten få udlæg i skyldners aktiver og sælge dem på tvangsauktion
 
-* Provenuet fra tvangsauktionen nedbringer skyldners gæld
+Provenuet fra tvangsauktionen nedbringer skyldners gæld
 
 ---
 
@@ -339,21 +348,21 @@ Der kan ikke foretages udlæg i små pengebeløb, sædvanligt indbo eller i andr
 
 **HR:** Kreditor kan få udlæg i alle skyldners aktiver, medmindre følgende undtagelser:
 
-* **U1:** Tredjemands rettigheder skal respekteres
+**U1:** Tredjemands rettigheder skal respekteres.
 
-* **U2:** Særlige indlån i pengeinstitut fx bil købt på afbetaling som et kreditkøb med ejendomsforbehold
+**U2:** Særlige indlån i pengeinstitut fx bil købt på afbetaling som et kreditkøb med ejendomsforbehold.
 
-* **U3:** Endnu ikke udbetalt løn, RPL § 511
+**U3:** Endnu ikke udbetalt løn, RPL § 511.
 
-* **U4:** Udbetalt erstatning fx fra ulykkesforsikring, RPL § 513 Erstatningen skal være holdt adskilt fra øvrige midler
+**U4:** Udbetalt erstatning fx fra ulykkesforsikring, RPL § 513 Erstatningen skal være holdt adskilt fra øvrige midler.
 
-* **U5:** Personlige aktiver med beskeden værdi, RPL § 515, stk. 1
+**U5:** Personlige aktiver med beskeden værdi, RPL § 515, stk. 1
 
-* **U6:** Personlige hjælpemidler, RPL § 515, stk. 2
+**U6:** Personlige hjælpemidler, RPL § 515, stk. 2
 
-* **U7:** Båndlagte gaver, RPL § 514
+**U7:** Båndlagte gaver, RPL § 514
 
-* **U8:** Trangsbeneficiet, RPL § 509
+**U8:** Trangsbeneficiet, RPL § 509
 
 ---
 
@@ -366,14 +375,13 @@ Der kan ikke foretages udlæg i små pengebeløb, sædvanligt indbo eller i andr
 
 *Trangsbeneficiet, jf. RPL § 509:*
 
-* Kreditor kan ikke få udlæg i aktiver omfattet af trangsbeneficiet
+Kreditor kan ikke få udlæg i aktiver omfattet af trangsbeneficiet.
 
-* Omfatter aktiver, der hører til et beskedent hjem, fx seng, bord, stol, sofa
+Omfatter aktiver, der hører til et beskedent hjem, fx seng, bord, stol, sofa.
 
-* Almindelig hvidevarer hører til et beskedent hjem, fx køleskab, fryser, almindeligt tv og almindelig computer
+Almindelig hvidevarer hører til et beskedent hjem, fx køleskab, fryser, almindeligt tv og almindelig computer.
 
-
-Smykker, malerier, smart TV eller fjernsyn med surround sound og subwoofer og andre værdifulde aktiver er ikke omfattet af trangsbeneficiet
+Smykker, malerier, smart TV eller fjernsyn med surround sound og subwoofer og andre værdifulde aktiver er ikke omfattet af trangsbeneficiet.
 
 Spørgsmål er i et hvilket omfan,g der kan foretages udlæg i følgende genstande og værdier: 
 
@@ -583,11 +591,14 @@ Boets aktiver (konkursmassen) omfatter:
 
 **HR:**	Alt hvad skyldner ejer ved konkursdekrets afsigelse og under konkursen tilfalder ham, jf. KL § 32
 
-**U1:**	Aktiver, som kreditor ikke kan få udlæg i, KL § 36 
+**U1:**	Aktiver, som kreditor ikke kan få udlæg i, KL § 36. 
 
-**U2:**	Skyldners arbejdsindtægter under konkursen 
+**U2:**	Skyldners arbejdsindtægter under konkursen. 
 
-**U3:**	Separatistkrav (fx aktiver solgt med ejendomsforbehold) Boets passiver omfatter:  
+**U3:**	Separatistkrav (fx aktiver solgt med ejendomsforbehold) 
+
+
+Boets passiver omfatter:  
 
 Alle kreditorer kan anmelde deres krav, uanset om kravet er forfaldent, jf. KL § 38
  
@@ -603,13 +614,15 @@ De vigtigste niveauer i konkursordenen er i rækkefølge Konkurslovens kap. 10:
  
 ### Konkursordenen
 
-Konkursordenen inddeler alle boets kreditorer i klasser
+Konkursordenen inddeler alle boets kreditorer i klasser.
 
-Hver konkursklasse bliver fyldestgjort fuldt ud, før der udloddes til næste klasse
+Hver konkursklasse bliver fyldestgjort fuldt ud, før der udloddes til næste klasse.
 
-Først dækkes omkostninger i forbindelse med konkursen (massekrav), og herefter de øvrige klasser
+Først dækkes omkostninger i forbindelse med konkursen (massekrav), og herefter de øvrige klasser.
 
 * Hvis der ikke er dækning til hele klassen, fx de simple krav, bliver der udloddet en dividende. Efterstående konkursklasser får ingen dækning.
+
+---
  
 ### Udlodning af dividende
 
@@ -617,17 +630,19 @@ En dividende på 10 % til simple krav betyder, at kreditor med et krav på 100.0
 
 **Udækket gæld:**
 
-Kreditor har stadig et restkrav på 90.000 kr. efter konkursen er afsluttet
+Kreditor har stadig et restkrav på 90.000 kr. efter konkursen er afsluttet.
 
-Kreditorernes udækkede gæld følger skyldner, hvis skyldner er en fysisk person
+Kreditorernes udækkede gæld følger skyldner, hvis skyldner er en fysisk person.
 
-Hvis skyldner er et selskab har kreditor ingen at rette kravet mod efter konkursen. Den udækkede gæld kan ikke blive fyldestgjort
+Hvis skyldner er et selskab har kreditor ingen at rette kravet mod efter konkursen. Den udækkede gæld kan ikke blive fyldestgjort.
 
 ---
  
 ###	Konkurskarantæne
 
 ![](img/karantane.jpg)
+
+---
 
 ### Hvad er en konkurskarantæne?
 
@@ -636,6 +651,7 @@ Konkurskarantæne betyder, at en person i en periode får et forbud mod at delta
 En person kan pålægges konkurskarantæne, hvis personen på grund af groft uforsvarlig forretningsførelse vurderes uegnet til at deltage i ledelsen af en erhvervsvirksomhed.
 
 
+---
 
 **Hvem kan blive pålagt konkurskarantæne?**
 
@@ -656,6 +672,8 @@ I den forbindelse kan karantænen udvides til et forbud mod deltagelse i enhver 
 En overtrædelse af karantænen kan også medføre, at personen hæfter personligt på objektivt grundlag for selskabets forpligtelser, hvis det går konkurs.
 
 Endvidere kan en overtrædelse af en konkurskarantæne straffes med bøde eller fængsel indtil 6 måneder efter straffelovens § 131.
+
+---
 
 **Hvem kan starte en sag om konkurskarantæne?**
 
@@ -703,14 +721,13 @@ Det er dagen hvor begæringen modtages, som er afgørende for fristdagen.
 
 ---
 
-![](img/Omstødelsesregler.png)
-(Kilde; Trojka)
+
 
 ```{r kaution, echo=FALSE,fig.height=5}
 
 mydf <- data.frame(
   S1 = c(
-"Omstødelse af",
+"Omstødelse",
 "Gaver" ,
 "Løn til nærtstående",
 "Betaling af gæld", 
@@ -728,7 +745,7 @@ mydf <- data.frame(
     "Ingen grænse"
 ),
   S3 = c(
-    "Hvis debitor er insolvent på tidspunktet for handlingens foretagelse, og handlingen er til fordel for en nærtstående, er fristen (regnet tilbage fra fristdagen):",
+    "Hvis debitor er insolvent på tidspunktet for handlingens foretagelse, og handlingen er til fordel for en nærtstående, regnes fristen tilbage fra fristdagen",
 "2 år",
 "2 år",
 "2 år",
@@ -764,11 +781,11 @@ library(timevis)
 
 data <- data.frame(
   id      = 1:5,
-  content = c("6 måneder fra 2019-08-02 til 2020-02-01", "Omstødelsesperiode<br>starter<br>2019-08-02",
-              "Overdragelse<br>af gave<br>2019-11-01", "Fristdag<br>2019-08-01","Konkursdekret<br>2019-08-22"),
-  start   = c("2019-08-02", "2019-08-02",
-              "2019-11-01", "2020-02-01","2020-02-25"),
-  end     = c("2020-02-01", NA, NA, NA,NA) )
+  content = c("6 måneder fra 2019-02-01 til 2019-08-01", "Omstødelsesperiode<br>starter<br>2019-02-01",
+              "Overdragelse<br>af gave<br>2019-05-01", "Fristdag<br>2019-08-01","Konkursdekret<br>2019-08-22"),
+  start   = c("2019-02-01", "2019-02-01",
+              "2019-05-01", "2019-08-01","2019-08-22"),
+  end     = c("2019-08-01", NA, NA, NA,NA) )
 timevis(data)%>%
   setOptions(list(editable = FALSE)) %>%
   setSelection("5") %>%
@@ -1153,10 +1170,9 @@ I Storkøbenhavn skal man indgive begæringen til Sø- og Handelsretten i Køben
 
 En begæring om rekonstruktion skal være skriftlig og indeholde:
 
-Navn og adresse på skyldneren, skyldnerens erhvervsgren og CVR-nr., og navnet hvorunder virksomheden drives
-forslag til, hvem der skal være rekonstruktør samt tillidsmand
+Navn og adresse på skyldneren, skyldnerens erhvervsgren og CVR-nr., og navnet hvorunder virksomheden drives forslag til, hvem der skal være rekonstruktør samt tillidsmand.
 
-Ved kreditorbegæringer de omstændigheder, som begæringen støttes på
+Ved kreditorbegæringer de omstændigheder, som begæringen støttes på.
 
 Hvis begæringen fremsættes af en kreditor og sendes med post, skal den indgives i to eksemplarer.
 
@@ -1254,7 +1270,13 @@ Er skyldneren fortsat insolvent ved rekonstruktionsbehandlingens ophør, indlede
 
 **Grosistens bekymringer**
 
-"Kineserhviskeren" kalder man Vagn Vig, i gave og indbo branchen. Allerede mens han gik på erhvervsakademiet i Kolding, var han blevet venner med nogle af de kinesiske medstuderende, senere havde han fået en kinesisk kæreste, havde tilegnet sig noget af sproget og havde rejst i Kina. Han havde en særlig evne til at kommunikere med kinesere, som han nu udnyttede til at importere en bred vifte af gaveartikler, nips og pynt til hjemmet, som han solgte til en lang række detaijlforretninger i Nordeuropa.
+![](img/kin.jpg)
+
+"Kineserhviskeren" kalder man Vagn Vig, i gave og indbo branchen. 
+
+Allerede mens han gik på erhvervsakademiet i Kolding, var han blevet venner med nogle af de kinesiske medstuderende, senere havde han fået en kinesisk kæreste, havde tilegnet sig noget af sproget og havde rejst i Kina. 
+
+Han havde en særlig evne til at kommunikere med kinesere, som han nu udnyttede til at importere en bred vifte af gaveartikler, nips og pynt til hjemmet, som han solgte til en lang række detailforretninger i Nordeuropa.
 
 Under en drøftelse med sin salgschef, Rikke Mortensen, om mulighederne for at markedsføre noget af sortimentet direkte til forbrugerne via en webshop, bemærker Vagn, at han har hørt noget om at sælgeren står rigtig dårligt over for køberen, hvis han ikke oplyser om fortrydelsesretten.
 
@@ -1345,7 +1367,9 @@ Begge pantformer er således en undtagelse til forbuddet mod tingsindbegreb og g
 
 Fordringspant oprettes ved tinglysning af et skadesløsbrev i personbogen jf. TL § 47 d, stk. 1 og 2. Virksomhedspant oprettes ved tinglysning af et skadesløsbrev eller et ejerpantebrev i personbogen jf. TL § 47 c, stk. 1 og 2. 
 
-Den største forskel ligger i hvilke aktiver, der er omfattet af pantet, og efter hvilke bestemmelser panterettighederne er tinglyst. Virksomhedspant kan indeholde følgende i henhold til TL § 47 c, stk. 3: Simple fordringer, der stammer fra salg af varer og tjenesteydelser, lagre af råvarer, halvfabrikata og færdigvarer, køretøjer som ikke er indregistreret, driftsinventar og driftsmateriel, drivmidler og andre hjælpestoffer, besætning, goodwill, domænenavne og rettigheder i henhold til patentloven m.v., indregistrerede køretøjer, hvis pantsætter driver virksomhed med køb og salg af disse. 
+Den største forskel ligger i hvilke aktiver, der er omfattet af pantet, og efter hvilke bestemmelser panterettighederne er tinglyst. Virksomhedspant kan indeholde følgende i henhold til TL § 47 c, stk. 3: 
+
+Simple fordringer, der stammer fra salg af varer og tjenesteydelser, lagre af råvarer, halvfabrikata og færdigvarer, køretøjer som ikke er indregistreret, driftsinventar og driftsmateriel, drivmidler og andre hjælpestoffer, besætning, goodwill, domænenavne og rettigheder i henhold til patentloven m.v., indregistrerede køretøjer, hvis pantsætter driver virksomhed med køb og salg af disse. 
 
 I fordringspant er kun kundefordringer indeholdt. Fordringspant kan ikke være tinglyst samtidig med virksomhedspant jf. TL § 47 e, stk. 2.
 
@@ -1604,14 +1628,6 @@ Hvis man under sagen får behov for at få sin egen advokat (ikke at forveksle m
 
 
 
----
-
-
-
-
-
-
-
 
 ---
 
@@ -1625,11 +1641,23 @@ Hvis man under sagen får behov for at få sin egen advokat (ikke at forveksle m
 
 19-årige Karl er en drømmer, og det er hans overbevisning, at han en dag nok skal vinde et stort beløb i Lotto – så han køber hver uge en lottokupon eller to, og en lørdag aften tjekker han ugens kupon og kan se, at han har så mange tal rigtige at han står til en gevinst på 1.245.324,00 kr.
 
-Karl ringer straks rundt til sine venner og inviterer dem i byen til en fejring af den store gevinst. Det bliver en vild omgang og Karl er gavmild, så regningen for fejringen lyder på 35.500 kr., som Karl har fået skrevet på det lokale diskotek ”Til den lyse morgen”, efter at have fortalt diskoteksejeren, Lone, om gevinsten.
+Karl ringer straks rundt til sine venner og inviterer dem i byen til en fejring af den store gevinst. 
 
-Søndag har Karl det meget dårligt efter fejringen, så han kommer ikke ud af sengen før mandag morgen og i stedet for at tage i skole tager han på indkøb. Karl køber sig en komplet garderobe hos butikken ”Når mænd er bedst”. Han betaler med sit dankort – regningen lyder på 84.000,00 kr., da det er ret dyre mærker Karl bedst kan lide. Der står ikke nogen penge på hans konto, så det bliver et overtræk, men det tænker Karl jo dækkes ind, når gevinsten udbetales. 
+Det bliver en vild omgang og Karl er gavmild, så regningen for fejringen lyder på 35.500 kr., som Karl har fået skrevet på det lokale diskotek ”Til den lyse morgen”, efter at have fortalt diskoteksejeren, Lone, om gevinsten.
 
-Karl føler også stor trang til at købe sig en passende bil – han tager derfor direkte fra ”Når mænd er bedst” til BMW forhandleren. Her forelsker han sig i en rigtig fin bil til 354.000,00 kr. Karl beslutter sig straks for købet og beder forhandleren klargøre bilen med det samme, så han kan komme ud at køre i løbet af et par dage. Han fortæller om gevinsten, og at han derfor ikke har brug for finansiering, og underskriver en købsaftale, hvorefter han skal betale hele beløbet inden 30 dage.
+Søndag har Karl det meget dårligt efter fejringen, så han kommer ikke ud af sengen før mandag morgen og i stedet for at tage i skole tager han på indkøb. 
+
+Karl køber sig en komplet garderobe hos butikken ”Når mænd er bedst”. Han betaler med sit dankort – regningen lyder på 84.000,00 kr., da det er ret dyre mærker Karl bedst kan lide. 
+
+Der står ikke nogen penge på hans konto, så det bliver et overtræk, men det tænker Karl jo dækkes ind, når gevinsten udbetales. 
+
+Karl føler også stor trang til at købe sig en passende bil – han tager derfor direkte fra ”Når mænd er bedst” til BMW forhandleren. 
+
+Her forelsker han sig i en rigtig fin bil til 354.000,00 kr. 
+
+Karl beslutter sig straks for købet og beder forhandleren klargøre bilen med det samme, så han kan komme ud at køre i løbet af et par dage. 
+
+Han fortæller om gevinsten, og at han derfor ikke har brug for finansiering, og underskriver en købsaftale, hvorefter han skal betale hele beløbet inden 30 dage.
 
 Onsdag tænker Karl, at han nok hellere må se at få talt med banken, og med Danske Spil om at få gevinsten udbetalt – desværre kan han ikke længere finde sin lottokupon.
 
@@ -1648,7 +1676,11 @@ Herefter skulle fogedretten kunne inddrive gælden.
 
 **Svar slut**
 
-Karl ringer til ”Når mænd er bedst” og siger, at han har fortrudt sit indkøb og gerne vil have sine penge tilbage. Af butikken får han at vide, at de gerne tager tøjet retur, men de giver ikke pengene tilbage – han kan få et tilgodebevis. Han beder om at tale med indehaveren, Jens, men han giver ham samme besked.
+Karl ringer til ”Når mænd er bedst” og siger, at han har fortrudt sit indkøb og gerne vil have sine penge tilbage. 
+
+Af butikken får han at vide, at de gerne tager tøjet retur, men de giver ikke pengene tilbage – han kan få et tilgodebevis. 
+
+Han beder om at tale med indehaveren, Jens, men han giver ham samme besked.
 
 Karl vil ikke have et tilgodebevis, så han går ikke ned i butikken for at aflevere tøjet.
 
@@ -1665,7 +1697,9 @@ Så når butikken her kun tilbyder bytte, så er det deres ret.
 Spørgsmålet er på kanten af pensum, og allerede fornuftige overvejelser i relation til emnet skal belønnes.
 
 
-Karl mener ikke længere, at de forudsætninger han havde for at købe bilen er til stede, og han siger derfor til BMW forhandleren, at han ikke ser sig bundet af købsaftalen. BMW forhandleren er ikke enig, specielt fordi bilen er ved at være klargjort med alle de lækre tilkøb som Karl har bestilt.
+Karl mener ikke længere, at de forudsætninger han havde for at købe bilen er til stede, og han siger derfor til BMW forhandleren, at han ikke ser sig bundet af købsaftalen. 
+
+BMW forhandleren er ikke enig, specielt fordi bilen er ved at være klargjort med alle de lækre tilkøb som Karl har bestilt.
 
 **Eksamensspørgsmål:**
 
@@ -1684,6 +1718,7 @@ Der ses heller ikke at være sådanne, eller andre, elementer ved aftalens indg�
 **Svar slut**
 
 BMW forhandleren fastholder, at købsaftalen er bindende, men bliver nervøs for, hvorvidt Karl kan betale for bilen i det lange løb, men han tænker, at han er sikret af det ejendomsforbehold, som står som standard i købsaftalen.
+
 Karl har ikke nogen penge at betale bilen med.
 
 
@@ -1762,7 +1797,9 @@ Det betyder at han med få undtagelser, hæfter med alt hvad han ejer, herunder 
 
 Læringsmål: Forståelse for grundlæggende selskabsret og hæftelsesformer samt betydningen af reglerne om tegningsret.
 
-**Svar**: Så havde der været begrænset hæftelse, således at selskabets kreditorer ville være henvist til kun at søge sig fyldestgjort i selskabets aktiver: Varelager, inventar, it-udstyr og varevogn, mens Jens hus og motorcykel ikke ville blive berørt.
+**Svar**: Så havde der været begrænset hæftelse, således at selskabets kreditorer ville være henvist til kun at søge sig fyldestgjort i selskabets aktiver: 
+
+Varelager, inventar, it-udstyr og varevogn, mens Jens hus og motorcykel ikke ville blive berørt.
 
 
 **Eksamensspørgsmål:**

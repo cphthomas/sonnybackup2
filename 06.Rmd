@@ -6,7 +6,6 @@
 ***Indledningsvis skal du som studerende være særlig opmærksom på følgende problemstillinger ved gennemgangen af "forbrugeraftaler og forbrugerbeskyttelse":***
 
 
-<img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 •	**Forbrugerbeskyttelse ved erhvervelse af fast ejendom; fortrydelsesret og tilbud, tilbagekaldelse og sælgers accept, LFFE kapitel 2** 
@@ -355,8 +354,8 @@ En manglende overholdelse af pligten, kan straffes med bøde.
 * 14 dage fra aftalens indgåelse, eller fra det tidspunkt 
   forbrugeren har modtaget oplysning om fortrydelsesret.
 
-<img src="img/pension.PNG"align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-* 30 dage ved aftaler om individuel pensionsordning, FBL § 19, stk. 1.
+
+* 30 dage ved aftaler om individuel pensionsordning, FBL § 19, stk. 1.<img src="img/pension.PNG"align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
   
 
 **Tilbagebetale**  
