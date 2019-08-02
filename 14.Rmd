@@ -37,7 +37,7 @@
 <!-- Figur 14.1. -->
 
 **Banklån**
-```{r almbank, echo=FALSE, result=TRUE,fig.cap=("Banklån er en kreditaftale om et lån indgået mellem en bank og en kunde")}
+```{r almbank, echo=FALSE, result=TRUE,fig.height=3,fig.cap=("Banklån er en kreditaftale om et lån indgået mellem en bank og en kunde")}
 
 nodes <- data.frame(id = 1:2, shape = c("box"),label = c("Bank"," Kunde"),font.size = c(25,25))
 edges <- data.frame(from = c(1,2), 
@@ -67,7 +67,7 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 <!-- (KIlde; Trojka) Figur 14.2. -->
 
 **Kreditkøb**
-```{r kredit, echo=FALSE, result=TRUE,fig.cap=("Kreditkøb, to parter i et kreditkøb")}
+```{r kredit, echo=FALSE, result=TRUE,fig.height=3,fig.cap=("Kreditkøb, to parter i et kreditkøb")}
 
 nodes <- data.frame(id = 1:2, shape = c("box"),label = c("Sælger"," Køber"),font.size = c(25,25))
 edges <- data.frame(from = c(1,2), 

@@ -45,7 +45,7 @@ Der er tre parter i kautionsforhold (Se figuren nedenfor):
 ![](img/kau1.png)
 (KIlde; Trojka) Fig. 15.1.
 **Parter i kautionsforhold**
-```{r, echo=FALSE, result=TRUE,fig.cap=("Forholdet mellem debitor, kreditor og kautionist")}
+```{r, echo=FALSE, result=TRUE,fig.height=3,fig.cap=("Forholdet mellem debitor, kreditor og kautionist")}
 nodes <- data.frame(id = 1:3,
                     level=c(2,1,1),
                     shape = c("box"),
@@ -92,7 +92,7 @@ Kautionisten har typisk en relation til låntager i forvejen:
   
 
   
-```{r network5, echo=FALSE, result=TRUE,fig.cap=("Eneanpartshaver stiller kaution overfor banken til sikkerhed for virksomhedens lån")}
+```{r network5, echo=FALSE, result=TRUE,fig.height=3,fig.cap=("Eneanpartshaver stiller kaution overfor banken til sikkerhed for virksomhedens lån")}
 nodes <- data.frame(id = 1:3, 
                     level=c(1,2,2),
                     shape = c("box"),
@@ -194,7 +194,7 @@ I vurderingen erhvervskaution eller privat kaution indgår følgendeparametre (S
 ![](img/kau2.png)
 (Kilde; Trojka) fig. 15.4.
 
-```{r kaution, echo=FALSE}
+```{r kaution, fig.height=3,echo=FALSE}
 
 mydf <- data.frame(
   S1 = c(
@@ -491,7 +491,7 @@ kautionstypen:
 (Se figuren nedenfor)
  
 
-```{r kautionsoversigt, echo=FALSE}
+```{r kautionsoversigt, fig.height=3,echo=FALSE}
 
 mydf <- data.frame(
   S1 = c("Kautionstype" ,"Simpel kaution", 
@@ -647,7 +647,7 @@ Hvis det er aftalt kan kautionisterne hæfte pro rata (Se figuren nedenfor).
 **Samkautionister** har efter betaling af gælden regresret mod de andre kautionister.
  
  
-```{r network6, echo=FALSE, result=TRUE,fig.cap=("Flere kautionister kan kautionere, enten som sam- eller medkautionister.")}
+```{r network6, echo=FALSE, fig.height=4,result=TRUE,fig.cap=("Flere kautionister kan kautionere, enten som sam- eller medkautionister.")}
 nodes <- data.frame(id = 1:6, 
                     level = c(2,3,3,3,1,3),
                     shape = c("box"),
@@ -678,7 +678,7 @@ visNetwork(nodes, edges, width = "100%") %>%
 
 
 
-```{r network11, echo=FALSE, result=TRUE,fig.cap=("Pro rata hæftelse.")}
+```{r network11, fig.height=4, echo=FALSE, result=TRUE,fig.cap=("Pro rata hæftelse.")}
 nodes <- data.frame(id = 1:5, 
                     level = c(2,3,3,3,1),
                     shape = c("box"),
@@ -709,7 +709,7 @@ visNetwork(nodes, edges, width = "100%") %>%
   
 
  
-```{r network7, echo=FALSE, result=TRUE,fig.cap=("Efterkaution.")}
+```{r network7, echo=FALSE,fig.height=3, result=TRUE,fig.cap=("Efterkaution.")}
 nodes <- data.frame(id = 1:4, shadow = TRUE,
                     shape = c("box"),
                     label = c("Kreditor","Hovedkautionist\nEneanpartshaver","Efterkautionist\nÆgtefælle","Debitor\nBank"),
@@ -777,7 +777,7 @@ Når kautionisten har betalt kreditor det skyldige beløb, har kautionisten regr
 (Kilde: Trojka) fig. 15.7.
 
 **Kautionistens regresret**
-```{r ,echo=FALSE, result=TRUE, fig.cap=("Kautionistens regresret over for låntager")}
+```{r ,echo=FALSE, result=TRUE, fig.height=4,fig.cap=("Kautionistens regresret over for låntager")}
 
 nodes <- data.frame(id = 1:5, 
                     shape = c("box"), 
@@ -1055,7 +1055,7 @@ Hvis der ikke er tale om et erhvervsforhold og kreditor er bank eller realkredit
   + Kautionen må ikke stå i misforhold til kautionistens økonomi
   
 
-```{r network12, echo=FALSE, result=TRUE,fig.cap=("Trediemandspant")}
+```{r network12, echo=FALSE,fig.height=3, result=TRUE,fig.cap=("Trediemandspant")}
 nodes <- data.frame(id = 1:4, shadow = TRUE,
                     shape = c("box"),
                     label = c("Pantsætter","Bank","Låntager\nSelskab","Kautionisten"))
@@ -1108,7 +1108,7 @@ Garantistillelse er en sikkerhedsstillelse for betaling på samme måde som kaut
 
 
  
-```{r ,echo=FALSE, result=TRUE, fig.cap=("Parterne i en garantistillelse")}
+```{r ,echo=FALSE, result=TRUE, fig.height=2,fig.cap=("Parterne i en garantistillelse")}
 
 nodes <- data.frame(id = 1:3, 
                     shape = c("box"), 

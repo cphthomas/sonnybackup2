@@ -2337,7 +2337,7 @@ Aftalelovens principper har betydning på hele aftaleområdet,^[Følgene bygger 
 ---
 
 
-```{r aftalelov,echo=FALSE, result=TRUE,fig.cap=("Oversigt over aftalelove")}
+```{r aftalelov,echo=FALSE,fig.height=4, result=TRUE,fig.cap=("Oversigt over aftalelove")}
 
 
 nodes <- data.frame(id = 1:7, 
@@ -2346,7 +2346,7 @@ nodes <- data.frame(id = 1:7,
                     font.size = c(50,25,25,25,25,25,25))
 edges <- data.frame(from = c(1,1,1,1,1,1), to = c(2,3,4,5,6,7),arrows = c("to"),length = rep(40,6))
 
-visNetwork(nodes, edges,  width = "100%") %>% 
+visNetwork(nodes, fig.width=4,edges,  width = "100%") %>% 
   visInteraction(dragNodes = TRUE, 
                  dragView = TRUE, 
                  zoomView = FALSE) %>%
@@ -2354,7 +2354,7 @@ visNetwork(nodes, edges,  width = "100%") %>%
                         border = "white",
                         highlight = "yellow"),
            shadow = list(enabled = TRUE, size = 30))  %>%
-  visHierarchicalLayout(direction = "LR",levelSeparation = 500) %>%
+  visHierarchicalLayout(direction = "LR",levelSeparation = 300) %>%
 visEdges(color = list(color = "lightgrey", highlight = "yellow") )
   # visLayout(randomSeed = 24) # to have always the same network
 
@@ -2435,7 +2435,7 @@ En kontrakt er skriftlig og kan påberåbes ved domstolene.
 
 
 
-```{r gensidigtloefte, echo=FALSE, result=TRUE,fig.cap=("Gensidigt løfte")}
+```{r gensidigtloefte, echo=FALSE, fig.height=4,result=TRUE,fig.cap=("Gensidigt løfte")}
 
 
 nodes <- data.frame(id = 1:2, shape = c("box"),label = c(" Sælger "," Køber "),font.size = c(30,30))
@@ -2455,7 +2455,10 @@ visNetwork(nodes, edges,  width = "100%") %>%
   visNodes(color = list(background = "white", 
                         border = "white",
                         highlight = "yellow"),
+           
            shadow = list(enabled = TRUE, size = 30))  %>%
+  visHierarchicalLayout(direction = "LR",levelSeparation = 300) %>%
+  
 visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 ```
 
@@ -2463,7 +2466,7 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 
 
 
-```{r faicon2, echo=FALSE, result=TRUE,fig.cap=("Ensidigt løfte")}
+```{r faicon2, echo=FALSE, fig.height=1,result=TRUE,fig.cap=("Ensidigt løfte")}
 
 nodes <- data.frame(id = 1:2, shape = c("box"),label = c(" Testator "," Arving "),font.size = c(30,30))
 edges <- data.frame(from = c(1), 
@@ -2472,7 +2475,7 @@ edges <- data.frame(from = c(1),
                     length = c(300),
                     font.size = c(15),
                     label=c(" ARV "),
-                    smooth = TRUE
+                    smooth = FALSE
                     )
  visNetwork(nodes, edges,  width = "100%") %>% 
    visInteraction(dragNodes = TRUE, 
@@ -2482,6 +2485,7 @@ edges <- data.frame(from = c(1),
                         border = "white",
                         highlight = "yellow"),
            shadow = list(enabled = TRUE, size = 30))  %>%
+   visHierarchicalLayout(direction = "LR",levelSeparation = 300) %>%
   visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 ```
 
@@ -2599,7 +2603,7 @@ Resultat: Der er indgået en juridisk bindende aftale
 ---
 
 
-```{r faicon3, echo=FALSE, result=TRUE,fig.cap=("Aftale sælgers initiativ")}
+```{r faicon3, echo=FALSE, result=TRUE,fig.height=4,fig.cap=("Aftale sælgers initiativ")}
 nodes <- data.frame(id = 1:2, shape = c("box"),label = c("Sælger \n tilbudsgiver ","Køber \n tilbudsmodtager "),font.size = c(15,15))
 edges <- data.frame(from = c(1), 
                     to = c(2),
@@ -2625,7 +2629,7 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 ---
 
 
-```{r faicon4, echo=FALSE, result=TRUE,fig.cap=("Aftale købers initiativ")}
+```{r faicon4, echo=FALSE,fig.height=4, result=TRUE,fig.cap=("Aftale købers initiativ")}
 nodes <- data.frame(id = 1:2, shape = c("box"),label = c("Sælger \n tilbudsmodtager ","Køber \n tilbudsgiver "),font.size = c(20,20))
 edges <- data.frame(from = c(1), 
                     to = c(2),
@@ -12828,7 +12832,7 @@ Det er dagen hvor begæringen modtages, som er afgørende for fristdagen.
 ![](img/Omstødelsesregler.png)
 (Kilde; Trojka)
 
-```{r kaution, echo=FALSE}
+```{r kaution, echo=FALSE,fig.height=5}
 
 mydf <- data.frame(
   S1 = c(
@@ -12881,7 +12885,7 @@ mydf %>%
 ![](img/omst1.png)
 (Kilde; Trojka)
 
-```{r, echo=FALSE, result=TRUE ,fig.cap=("Omstødelsesperiode for gaver")}
+```{r, echo=FALSE, result=TRUE ,fig.height=2.7,fig.cap=("Omstødelsesperiode for gaver")}
 library(timevis)
 
 data <- data.frame(
@@ -12903,7 +12907,7 @@ timevis(data)%>%
 ![](img/omst2.png)
 (Kilde; Trojka)
 
-```{r, echo=FALSE, result=TRUE ,fig.cap=("Modregning før fristdag")}
+```{r, echo=FALSE, result=TRUE ,fig.height=2,fig.cap=("Modregning før fristdag")}
 library(timevis)
 
 data <- data.frame(
@@ -12924,7 +12928,7 @@ timevis(data)%>%
 ![](img/omst3.png)
 (KIlde; Trojka)
 
-```{r, echo=FALSE, result=TRUE ,fig.cap=("Modregning mellem fristdag og konkursdekret")}
+```{r, echo=FALSE, result=TRUE ,fig.height=2,fig.cap=("Modregning mellem fristdag og konkursdekret")}
 library(timevis)
 
 data <- data.frame(
@@ -12945,7 +12949,7 @@ timevis(data)%>%
 ![](img/omst4.png)
 (KIlde; Trojka)
 
-```{r, echo=FALSE, result=TRUE ,fig.cap=("Modregning mellem fristdag og konkursdekret")}
+```{r, echo=FALSE, result=TRUE ,fig.height=2.5,fig.cap=("Modregning mellem fristdag og konkursdekret")}
 library(timevis)
 
 data <- data.frame(
@@ -13949,7 +13953,7 @@ Værdien af vognen kan derfor i det omfang den i øvrigt er ubehæftet, tjene ti
 <!-- Figur 14.1. -->
 
 **Banklån**
-```{r almbank, echo=FALSE, result=TRUE,fig.cap=("Banklån er en kreditaftale om et lån indgået mellem en bank og en kunde")}
+```{r almbank, echo=FALSE, result=TRUE,fig.height=3,fig.cap=("Banklån er en kreditaftale om et lån indgået mellem en bank og en kunde")}
 
 nodes <- data.frame(id = 1:2, shape = c("box"),label = c("Bank"," Kunde"),font.size = c(25,25))
 edges <- data.frame(from = c(1,2), 
@@ -13979,7 +13983,7 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 <!-- (KIlde; Trojka) Figur 14.2. -->
 
 **Kreditkøb**
-```{r kredit, echo=FALSE, result=TRUE,fig.cap=("Kreditkøb, to parter i et kreditkøb")}
+```{r kredit, echo=FALSE, result=TRUE,fig.height=3,fig.cap=("Kreditkøb, to parter i et kreditkøb")}
 
 nodes <- data.frame(id = 1:2, shape = c("box"),label = c("Sælger"," Køber"),font.size = c(25,25))
 edges <- data.frame(from = c(1,2), 
@@ -15151,7 +15155,7 @@ Der er tre parter i kautionsforhold (Se figuren nedenfor):
 ![](img/kau1.png)
 (KIlde; Trojka) Fig. 15.1.
 **Parter i kautionsforhold**
-```{r, echo=FALSE, result=TRUE,fig.cap=("Forholdet mellem debitor, kreditor og kautionist")}
+```{r, echo=FALSE, result=TRUE,fig.height=3,fig.cap=("Forholdet mellem debitor, kreditor og kautionist")}
 nodes <- data.frame(id = 1:3,
                     level=c(2,1,1),
                     shape = c("box"),
@@ -15198,7 +15202,7 @@ Kautionisten har typisk en relation til låntager i forvejen:
   
 
   
-```{r network5, echo=FALSE, result=TRUE,fig.cap=("Eneanpartshaver stiller kaution overfor banken til sikkerhed for virksomhedens lån")}
+```{r network5, echo=FALSE, result=TRUE,fig.height=3,fig.cap=("Eneanpartshaver stiller kaution overfor banken til sikkerhed for virksomhedens lån")}
 nodes <- data.frame(id = 1:3, 
                     level=c(1,2,2),
                     shape = c("box"),
@@ -15300,7 +15304,7 @@ I vurderingen erhvervskaution eller privat kaution indgår følgendeparametre (S
 ![](img/kau2.png)
 (Kilde; Trojka) fig. 15.4.
 
-```{r kaution, echo=FALSE}
+```{r kaution, fig.height=3,echo=FALSE}
 
 mydf <- data.frame(
   S1 = c(
@@ -15597,7 +15601,7 @@ kautionstypen:
 (Se figuren nedenfor)
  
 
-```{r kautionsoversigt, echo=FALSE}
+```{r kautionsoversigt, fig.height=3,echo=FALSE}
 
 mydf <- data.frame(
   S1 = c("Kautionstype" ,"Simpel kaution", 
@@ -15753,7 +15757,7 @@ Hvis det er aftalt kan kautionisterne hæfte pro rata (Se figuren nedenfor).
 **Samkautionister** har efter betaling af gælden regresret mod de andre kautionister.
  
  
-```{r network6, echo=FALSE, result=TRUE,fig.cap=("Flere kautionister kan kautionere, enten som sam- eller medkautionister.")}
+```{r network6, echo=FALSE, fig.height=4,result=TRUE,fig.cap=("Flere kautionister kan kautionere, enten som sam- eller medkautionister.")}
 nodes <- data.frame(id = 1:6, 
                     level = c(2,3,3,3,1,3),
                     shape = c("box"),
@@ -15784,7 +15788,7 @@ visNetwork(nodes, edges, width = "100%") %>%
 
 
 
-```{r network11, echo=FALSE, result=TRUE,fig.cap=("Pro rata hæftelse.")}
+```{r network11, fig.height=4, echo=FALSE, result=TRUE,fig.cap=("Pro rata hæftelse.")}
 nodes <- data.frame(id = 1:5, 
                     level = c(2,3,3,3,1),
                     shape = c("box"),
@@ -15815,7 +15819,7 @@ visNetwork(nodes, edges, width = "100%") %>%
   
 
  
-```{r network7, echo=FALSE, result=TRUE,fig.cap=("Efterkaution.")}
+```{r network7, echo=FALSE,fig.height=3, result=TRUE,fig.cap=("Efterkaution.")}
 nodes <- data.frame(id = 1:4, shadow = TRUE,
                     shape = c("box"),
                     label = c("Kreditor","Hovedkautionist\nEneanpartshaver","Efterkautionist\nÆgtefælle","Debitor\nBank"),
@@ -15883,7 +15887,7 @@ Når kautionisten har betalt kreditor det skyldige beløb, har kautionisten regr
 (Kilde: Trojka) fig. 15.7.
 
 **Kautionistens regresret**
-```{r ,echo=FALSE, result=TRUE, fig.cap=("Kautionistens regresret over for låntager")}
+```{r ,echo=FALSE, result=TRUE, fig.height=4,fig.cap=("Kautionistens regresret over for låntager")}
 
 nodes <- data.frame(id = 1:5, 
                     shape = c("box"), 
@@ -16161,7 +16165,7 @@ Hvis der ikke er tale om et erhvervsforhold og kreditor er bank eller realkredit
   + Kautionen må ikke stå i misforhold til kautionistens økonomi
   
 
-```{r network12, echo=FALSE, result=TRUE,fig.cap=("Trediemandspant")}
+```{r network12, echo=FALSE,fig.height=3, result=TRUE,fig.cap=("Trediemandspant")}
 nodes <- data.frame(id = 1:4, shadow = TRUE,
                     shape = c("box"),
                     label = c("Pantsætter","Bank","Låntager\nSelskab","Kautionisten"))
@@ -16214,7 +16218,7 @@ Garantistillelse er en sikkerhedsstillelse for betaling på samme måde som kaut
 
 
  
-```{r ,echo=FALSE, result=TRUE, fig.cap=("Parterne i en garantistillelse")}
+```{r ,echo=FALSE, result=TRUE, fig.height=2,fig.cap=("Parterne i en garantistillelse")}
 
 nodes <- data.frame(id = 1:3, 
                     shape = c("box"), 

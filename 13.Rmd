@@ -706,7 +706,7 @@ Det er dagen hvor begæringen modtages, som er afgørende for fristdagen.
 ![](img/Omstødelsesregler.png)
 (Kilde; Trojka)
 
-```{r kaution, echo=FALSE}
+```{r kaution, echo=FALSE,fig.height=5}
 
 mydf <- data.frame(
   S1 = c(
@@ -759,7 +759,7 @@ mydf %>%
 ![](img/omst1.png)
 (Kilde; Trojka)
 
-```{r, echo=FALSE, result=TRUE ,fig.cap=("Omstødelsesperiode for gaver")}
+```{r, echo=FALSE, result=TRUE ,fig.height=2.7,fig.cap=("Omstødelsesperiode for gaver")}
 library(timevis)
 
 data <- data.frame(
@@ -781,7 +781,7 @@ timevis(data)%>%
 ![](img/omst2.png)
 (Kilde; Trojka)
 
-```{r, echo=FALSE, result=TRUE ,fig.cap=("Modregning før fristdag")}
+```{r, echo=FALSE, result=TRUE ,fig.height=2,fig.cap=("Modregning før fristdag")}
 library(timevis)
 
 data <- data.frame(
@@ -802,7 +802,7 @@ timevis(data)%>%
 ![](img/omst3.png)
 (KIlde; Trojka)
 
-```{r, echo=FALSE, result=TRUE ,fig.cap=("Modregning mellem fristdag og konkursdekret")}
+```{r, echo=FALSE, result=TRUE ,fig.height=2,fig.cap=("Modregning mellem fristdag og konkursdekret")}
 library(timevis)
 
 data <- data.frame(
@@ -823,7 +823,7 @@ timevis(data)%>%
 ![](img/omst4.png)
 (KIlde; Trojka)
 
-```{r, echo=FALSE, result=TRUE ,fig.cap=("Modregning mellem fristdag og konkursdekret")}
+```{r, echo=FALSE, result=TRUE ,fig.height=2.5,fig.cap=("Modregning mellem fristdag og konkursdekret")}
 library(timevis)
 
 data <- data.frame(
