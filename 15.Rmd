@@ -193,7 +193,7 @@ I vurderingen erhvervskaution eller privat kaution indgår følgendeparametre (S
 
 
 
-```{r kaution, fig.height=3,echo=FALSE}
+```{r kaution2, fig.height=3,echo=FALSE}
 
 mydf <- data.frame(
   S1 = c(
