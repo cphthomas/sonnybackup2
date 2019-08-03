@@ -3,9 +3,7 @@
 
 ---
 
-***Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af fordringer og deres ophør:***
-
-<img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+***Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af fordringer og deres ophør i forhold til eksamen:***
 
 
 **Sondring mellem almindelige fordringer, simple gældsbreve og omsætningsgældsbreve – analog anvendelse af reglerne for simple gældsbreve jf. GBL § 26 på alm. fordringer (ved afprøvningen bør der være fokus på simple fordringer/gældsbreve og tinglyste negotiable dokumenter)**
@@ -239,10 +237,10 @@ Alle fristerne i forældelsesloven skal som hovedregel regnes fra det tidligste 
 
 Det følger af forældelseslovens § 2, som der dog også er undtagelser til.
 
-Forældelsesfrister (se tabel \@ref(tab:ophør1))
+Forældelsesfrister (se tabellen nedenfor)
 
 
-```{r ophør1, echo=FALSE}
+```{r ophør1,echo=FALSE}
 mydf <- data.frame(
   S1 = c("Forældelse 3 år HR alle krav fx." ,
          "Mangler fast ejendom", 

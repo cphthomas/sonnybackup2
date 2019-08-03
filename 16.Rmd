@@ -2,7 +2,7 @@
 # Gældsbreve, pantebreve og fordringer
 
 
-Her skal gennemgås de vigtige juridiske regler for fordringer, gældsbreve og pantebreve^[Herværende gennemgang af reglerne om fordringer, gældsbreve og pantebreve bygger bl.a. på oplysninger fra SKAT og **Lars Hedegaard Kristensen**: Elektroniske Karnovkommentar til gældsbrevsloven, samt illustrative figurer fra forlaget **Trojka** fra "Erhvervsret - Finans" samt "Erhvervsret - Dansk og International"].
+Her skal gennemgås de vigtige juridiske regler for fordringer, gældsbreve og pantebreve. Afsnittet er yderst relevant for eksamen.^[Herværende gennemgang af reglerne om fordringer, gældsbreve og pantebreve bygger bl.a. på oplysninger fra SKAT og **Lars Hedegaard Kristensen**: Elektroniske Karnovkommentar til gældsbrevsloven].
 
 ---
 
@@ -11,7 +11,7 @@ Her skal gennemgås de vigtige juridiske regler for fordringer, gældsbreve og p
 
 En fordring er et krav, som en person eller et selskab (kreditor) har mod en anden part (debitor). 
 
-En fordring består typisk i et pengebeløb, men den kan også bestå i andet  
+En fordring består typisk i et pengebeløb, men den kan også bestå i andet.  
 
 Den kan fx bestå i, at debitor skylder en arbejdsydelse, eller i at der skal leveres en ting. 
 
@@ -64,9 +64,7 @@ Det betyder kun, at der er et krav om, at man kan bevise, at fordringen eksister
 
 * lån af penge
 
-* koncerninterne skattekrav, fx et datterselskabs tilgodehavende hos 
-  administrationsselskabet i form af ikke-betalt skatteværdi af et 
-  udnyttet underskud 
+* koncerninterne skattekrav, fx et datterselskabs tilgodehavende hos administrationsselskabet i form af ikke-betalt skatteværdi af et udnyttet underskud 
   
 ---
 
@@ -204,9 +202,9 @@ Selvom der i så fald formelt foreligger en overdragelsessituation, kan der reel
 
 Flere skyldnere hæfter solidarisk, hvis ikke andet er aftalt, GBL § 2:
 
-1. Kreditor kan vælge at kræve hele gælden betalt af hver enkelt solidarisk skyldner
+1. Kreditor kan vælge at kræve hele gælden betalt af hver enkelt solidarisk skyldner.
 
-2. Har en solidarisk skyldner betalt hele gælden til kreditor, har skyldneren regresret mod de øvrige skyldnere
+2. Har en solidarisk skyldner betalt hele gælden til kreditor, har skyldneren regresret mod de øvrige skyldnere.
 
 ---
 
@@ -248,10 +246,9 @@ En betalingstransaktion med kort går gennem betalingsmodtagers bank og korthold
  
 ---
 
-* Bliver kortet brugt uberettiget skelnes mellem
+Bliver kortet brugt uberettiget skelnes mellem:
 
-+	Kortholders træk uden dækning (kortet kan måske spærres og 
-transaktionen kan evt. tilbageføres)
++	Kortholders træk uden dækning (kortet kan måske spærres og transaktionen kan evt. tilbageføres)
   
 +	Kortmisbrug begået af andre end kortholder
 
@@ -267,16 +264,17 @@ transaktionen kan evt. tilbageføres)
 
 ---
 
-Kortmisbrug her er, hvor kortholder ikke selv har brugt kortet.
+Kortmisbrug her er, hvor kortholder ikke selv har (mis-)brugt kortet.
 
 ---
 
 Betalerens eget misbrug reguleres derimod af aftalen mellem udbyderen og betaler og af de almindelige erstatningsregler. 
+
 Betaler kan i medfør af almindelige kontrakt- og erstatningsretlige regler således ifalde ansvar overfor sin udbyder, hvis betaler forsætligt eller ved grov uagtsomhed har medvirket til misbruget.  
 
 ---
 
-Ej heller tredjemands (misbrugerens) ansvar er reguleret af betalingslovens regler, men af straffelovens regler i kap. 18 om forbrydelser vedrørende penge, jf. §§ 166-170, se Lovbekendtgørelse nr. 1156 af 20. september 2018, se fx dommen **U 2003.432 V**, fængsel i 6 måneder for pengefalsk, samt **U 2003.251 Ø**, bedrageri med dankort for 139.500 kr. henført under straffelovens § 286, stk. 2.
+Ej heller tredjemands (misbrugerens) ansvar er reguleret af betalingslovens regler, men af straffelovens regler i kap. 18 om forbrydelser vedrørende penge, jf. §§ 166-170, se Lovbekendtgørelse nr. 1156 af 20. september 2018, se fx dommen **U 2003.432 V**, fængsel i 6 måneder for pengefalsk, samt dommen **U 2003.251 Ø**, bedrageri med dankort for 139.500 kr. henført under straffelovens § 286, stk. 2.
 
 ---
 
@@ -297,7 +295,7 @@ Tredjemandsbrug af kortholders betalingskort er reguleret af betalingsloven (for
 
 **U3:** Kortholder kan hæfte for op til 8.000 kr., jf. BTL § 100, stk. 4, hvis kort og pinkode har været brugt og:
 
-Kortet ikke er spærret med det samme (i praksis indenfor 1-2 timer efter man positiv er blevet opmærksom på, at man har mistet betalingskortet).
+Kortet ikke er spærret med det samme (i praksis indenfor 1-1,5 timer efter man positiv er blevet opmærksom på, at man har mistet betalingskortet).
 
 Kortholder selv har givet pinkoden til misbrugeren, og
 
@@ -307,57 +305,51 @@ Kortholder ved groft uforsvarlig (nærmest sløseri) adfærd har gjort misbruget
   
 Kortholder selv har oplyst koden til misbrugeren og
 
-Kortholder burde have indset risikoen for misbrug
+Kortholder burde have indset risikoen for misbrug, fx i en skilsmissesituation.
 
 ---
 
 ![](img/mis3.jpg)
  
 ---
- 
-![](img/ford3.png)
-(Kilde; Trojka) fig. 16.3.
-
----
 
 Efter kortet er spærret er banken ansvarlig for al misbrug af kortholders betalingskort.
 
----
+
 
 ```{r hæftelse, echo=FALSE}
 
 mydf <- data.frame(
   S1 = c("Hæftelse i kr" ,"0", 
-"0", 
-"375", 
-"Højst 8000", 
+"0 kr.", 
+"375,-kr.", 
+"Højst 8000,- kr.", 
 "Ubegrænset"
 ),
   S2 = c("Paragraf" ,
-  "BL S 100, stk. 8",
-"BL S 100, stk. 6",
-"BL S 100, stk. 3",
-"BL S 100, stk. 4",
-"BL S 100, stk. 5"),
+  "BL § 100, stk. 8",
+"BL § 100, stk. 6",
+"BL § 100, stk. 3",
+"BL § 100, stk. 4",
+"BL § 100, stk. 5"),
   S3 = c("Hændelse",
-         "Misbrug efter kortet er 
-spærret. ",
+         "Misbrug efter kortet er spærret. ",
          "Misbrug hvor kortet og 
           pinkoden er brugt. ",
          "Hæftelse hvis kortet og 
       den pinkoden er brugt. Kunden har som minimum har handlet simpelt uagtsomt. ",
-         "Misbrug af kortet, hvor pinkoden har været anvendt samt et af følgende:<br>1. Kunden har ikke oplyst at kortet er   mistet<br>
+         "Misbrug af kortet, hvor pinkoden har været anvendt samt et af følgende:<br>1. Kunden har ikke oplyst at kortet er mistet<br>
           2. Kunden selv har givet en anden kortet<br>
-          3. Kunden har haft en anden groft uforsvarlig adfærd",
-         "Misbrug af kort og pinkode, og kunden selv har udleveret kort og kode til misbrugeren samt at kunden              burde have indset at. der var risiko for misbrug."),
+          3. Kunden har udvist en grov uforsvarlig adfærd",
+         "Misbrug af kort og pinkode, og kunden selv har udleveret kort og pinkode til misbrugeren samt at kunden burde have indset at. der var risiko for misbrug."),
   S4 = c("Eksempel",
-         "En dame har tabt sit kort og 
+         "En kvinde har tabt sit kort og 
           spærret dette, så snart hun opdagede tabet.<br>Efter kortet blev 
           spærret blev kortet brugt til 
           køb på internettet.",
-          "En kunde har mistet sit kort
+          "En kortholder har mistet sit kort
           og pinkode, og der er 
-          intet at bebrejde kunden i 
+          intet at bebrejde kortholder i 
           forbindelse med tab og misbrug",
          "En fortravlet mand har glemt sit dankort 
           i en hæveautomat, inden kortet 
@@ -417,6 +409,7 @@ Banken kan dokumentere, at pin-koden er brugt ved alle hævninger.
 
 Andreas kan dokumentere, at han på hævningstidpunkteterne var sammen med en af sine kvindelige medstuderende hjemme hos hende. 
 
+
 **Eksamensspørgsmålet:**
 
 1. Giv en begrundet redegørelse for, hvordan tabet skal fordeles mellem Andreas og Sparekassen Pecunia (20%).
@@ -443,6 +436,8 @@ Andreas har derfor en hæftelse på 8.000 kr.
 ---
 
 **Quiz om betalingskort** 
+
+![](img/kort.jpg)
 
 <a href="https://www.forbrug.dk/quiz/betalingskort/?rn=43716" target="_blank">Test din viden i forbrug.dk’s quiz om betalingskort</a>  
 
@@ -498,18 +493,18 @@ Alle pengekrav og fordringer kan deles op i 5 slags:
 nodes <- data.frame(id = 1:7, 
                     level = c(1,2,2,3,3,3,3),
                     shape = c(rep("box",7)), 
-                    label = c("Gældsbrev?\nUnderskrevet ensidig\nubetinget skyldnererklæring",
-                              "Pantebrev?\nGælden er sikret ved pant i et aktiv",
-                              "Simpel fordring",
-                              "Omsætningsgældsbrev\nTilhører de 4 kategorier\nfra GBL §11 stk. 2",
-                              "Simpelt gældsbrev\nTilhører ikke de 4 kategorier\nfra GBL §11 stk. 2",
-                              "Simpelt pantebrev\nPant i andet end\nfast ejendom",
-                              "Negotiabelt pantebrev\nPant i fast ejendom"
+                    label = c("gældsbrev?\n er det underskrevet, ensidig,\nubetinget, skyldnererklæring",
+                              "pantebrev?\ngælden er sikret ved pant i et aktiv",
+                              "simpel fordring",
+                              "omsætningsgældsbrev\n en af de 4 kategorier\nfra GBL §11 stk. 2",
+                              "simpelt gældsbrev\n ikke en af de 4 kategorier\nfra GBL §11 stk. 2",
+                              "simpelt pantebrev\npant i andet end\nfast ejendom",
+                              "negotiabelt pantebrev\npant i fast ejendom"
                               ),
                     font.size = c(rep(8,7)))
           edges <- data.frame(from = c(1,1,2,2,2,2),
                               to = c(2,3,4,5,6,7),
-                              label = c("Ja","Nej","Nej","Nej","Ja","Ja"),
+                              label = c("ja","nej","nej","nej","ja","ja"),
                               # arrows = c(""),
                               # length = rep(10,6),
                               color = list(color = "lightgrey", highlight = "yellow"),
@@ -527,10 +522,6 @@ visNetwork(nodes, edges, height = "500px", width = "80%",avoidOverlap=2) %>%
 
 ```
 
----
-
-![](img/pant.png)
-(Kilde; Trojka) fig. 16.4.
 
 ---
 
@@ -542,13 +533,21 @@ Dette afsnit med beskriver nærmere reguleringen af simple gældsbreve og simple
 Afsnittet indeholder:   
 
 * Lovgrundlag
+
 * Sikringsakt
+
 * Legitimationsvirkning
+
 * Udlæg i borttransporterede fordringer, factoring
+
 * Udlæg i Dankort-betalinger
+
 * Udlæg i bankindeståender
+
 * Sikring af et udlæg i bankindeståender
+
 * Slutafregning
+
 * Legitimationsvirkning ved udlæg i bankindeståender 
 
 ---
@@ -570,7 +569,9 @@ Dette gælder dog ikke for:
 
 **Begrebet "sikringsakt":**
 
-Sikringsakten er den handling (akt), man skal foretage, for at ens pant er retsbeskyttet over for kreditorer eller aftaleerhververe. Sikringsakten kan være, at man skal give meddelelse (denunciere), jf. Gbl. § 31, eller sørge for tinglysning eller anden registrering eller foretage rådighedsberøvelse.
+Sikringsakten er den handling (akt), man skal foretage, for at ens pant er retsbeskyttet over for kreditorer eller aftaleerhververe. 
+
+Sikringsakten kan være, at man skal give meddelelse (denunciere), jf. Gbl. § 31, eller sørge for tinglysning eller anden registrering eller foretage rådighedsberøvelse.
 
 
 <img src="img/gb10.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
@@ -606,13 +607,15 @@ Sikringsakten består i, at fordringsskyldneren får besked om overdragelsen fra
  
 ---
 
-### Dobbeltoverdragelse af fordring    
+### Dobbeltoverdragelse af fordring
 
-I tilfælde af at en fordring bliver overdraget flere gange, er den erhverver, der først meddeler fordringsskyldneren om overdragelsen af fordringen, sikret retten til fordringen. 
+![](img/dobbelt.png)
 
-Det er under forudsætning af, at han var i god tro om, at der ikke var andre rettighedshavere ved underretningen til fordringsskyldneren. Se GBL § 31, stk. 2. 
+I tilfælde af at en fordring bliver overdraget flere gange af A, er den erhverver, der først meddeler fordringsskyldneren (D) om overdragelsen af fordringen, sikret retten til fordringen. 
 
-Dette gælder, selvom han først fik overdraget fordringen efter, at en anden havde erhvervet fordringen.
+Det er under forudsætning af, at erhververen var i god tro om, at der ikke var andre rettighedshavere ved underretningen til fordringsskyldneren. Se GBL § 31, stk. 2. 
+
+Dette gælder, selvom erhververen først fik overdraget fordringen efter, at en anden havde erhvervet fordringen.
 
 Ved overdragelse af simple gældsbreve eller simple fordringer får erhververen ikke bedre ret end overdrageren, hverken over for gældsbrevets eller fordringens skyldner eller over for en tidligere indehaver af fordringen. Se GBL § 27. 
 
@@ -643,7 +646,9 @@ Ordningen indebærer, at fakturaerne forsynes med en transportpåtegning om, at 
 Ordningen kan etableres med fx:  
 
 * et factoring-firma
+
 * virksomhedens sædvanlige pengeinstitut
+
 * et søster- eller datterselskab (såkaldt intern factoring).
 
 ---
@@ -710,15 +715,19 @@ Reglerne om omsætningsgældsbreve står herefter i følgende to love:
 
 **2**. Et tinglyst pantebrev, herunder et ejerpantebrev, der giver pant i motorkøretøjer er ikke negotiabelt, medmindre dette klart fremgår af pantebrevet, jf. TL § 42 c. Skadesløsbreve er ikke negotiable pantebreve, jf. TL § 42g, stk. 3, 2. og 3. pkt.  
 
-**3**. Et tinglyst pantebrev, herunder et ejerpantebrev, der giver pant i andele i andelsboligforeninger som nævnt i TL § 42 i, er ikke negotiabelt, medmindre dette klart fremgår af pantebrevet. Skadesløsbreve er ikke negotiable pantebreve: Se TL § 42m, stk. 2, 2. og 3. pkt.  
+**3**. Et tinglyst pantebrev, herunder et ejerpantebrev, der giver pant i andele i andelsboligforeninger som nævnt i TL § 42 i, er ikke negotiabelt, medmindre dette klart fremgår af pantebrevet. 
 
-**4**. Et tinglyst pantebrev, herunder et ejerpantebrev, der giver pant i løsøre, er ikke negotiabelt, medmindre dette klart fremgår af pantebrevet. Skadesløsbreve er ikke negotiable pantebreve: Se TL § 47, stk. 7, 2. og 3. pkt.  
+Skadesløsbreve er ikke negotiable pantebreve: Se TL § 42m, stk. 2, 2. og 3. pkt.  
+
+**4**. Et tinglyst pantebrev, herunder et ejerpantebrev, der giver pant i løsøre, er ikke negotiabelt, medmindre dette klart fremgår af pantebrevet. 
+
+Skadesløsbreve er ikke negotiable pantebreve: Se TL § 47, stk. 7, 2. og 3. pkt.  
 
 ---
 
 **Bemærk** 
 
-Hvis et gældsbrev ikke falder ind under definitionen i henholdsvis GBL eller TL, og det klart fremgår af gældsbrevet, at det ikke skal være negotiabelt, er det et simpelt gældsbrev: 
+Hvis et gældsbrev ikke falder ind under definitionen i henholdsvis GBL eller TL, og det klart fremgår af gældsbrevet, at det ikke skal være negotiabelt, er det som nævnt et simpelt gældsbrev: 
 
 Se GBL § 11, stk. 2 og TL § 27, stk. 2, § 42g, stk. 3, 2. og 3. pkt., § 42m, stk. 2, 2. og 3. pkt. og § 47, stk. 7, 2. og 3. pkt.  
 
@@ -775,8 +784,7 @@ Når man foretager udlæg i omsætningsgældsbreve, er sikringsakten forskellig,
 
 Nedenstående afsnit er derfor opdelt så sikringsakten for omsætningsgældsbreve, der ikke er pantebreve, beskrives først, og herefter beskrives sikringsakten ved udlæg i negotiable pantebreve.  
 
-
-Sikringsakt ved udlæg i omsætningsgældsbreve, der ikke også er pantebreve
+Sikringsakt ved udlæg i omsætningsgældsbreve, der ikke også er pantebreve.
 
 En aftaleerhververs ret til et omsætningsgældsbrev kan ikke anfægtes af andre, hvis aftaleerhververen har fået gældsbrevet i hænde og er i god tro om overdragerens ret. Se GBL § 14.  
 
@@ -834,19 +842,21 @@ Tilsvarende gælder for bilbogen (TL § 42g, stk. 3, 1. pkt., jf. TL § 27a, stk
 
 <img src="img/gb12.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Reglen om overdragelse af omsætningsgældsbreve og reglen om legitimationen over for skyldner bygger på GBL § 13. Se GBL § 14 og 19. 
+Reglen om overdragelse af omsætningsgældsbreve og reglen om legitimationen over for skyldner bygger på GBL § 13. Se også GBL § 14 og 19. 
 
 ---
 
 Når skyldneren betaler til den, der er legitimeret efter GBL § 13, frigøres skyldneren, såfremt skyldneren er i god tro. Se GBL § 19. 
 
-Betalingen har frigørende virkning, selv om ihændehaverens inkompetence skyldes, at han ikke har erhvervet ret til omsætningsgældsbrevet, eller at det var overdraget eller gjort til genstand for udlæg. 
+Betalingen har frigørende virkning, selv om ihændehaverens inkompetence skyldes, at denne ikke har erhvervet ret til omsætningsgældsbrevet, eller at det var overdraget eller gjort til genstand for udlæg. 
 
 Legitimationen omfatter også andre dispositioner end betaling, fx meddelelse af henstand eller ændring af betalingsvilkårene. 
 
 ---
 
-Hvad angår **tinglyste digitale pantebreve** er reglerne de samme, dog med den forskel, at der ikke er krav om, at man har pantebrevet, men derimod, at man har tinglyst det. Se TL § 27b. 
+![](img/ting.png)
+
+Hvad angår **tinglyste digitale pantebreve** er reglerne de samme, dog med den forskel, at der ikke er krav om, at man har pantebrevet i hånden, men derimod, at man har tinglyst det. Se TL § 27b. 
 
 Samme bestemmelse gælder også bilbogen (TL § 42g, stk. 3, 1. pkt.), andelsboligbogen (TL § 42m, stk. 2, 1. pkt.) og personbogen (TL § 47, stk. 7, 1. pkt.). 
 
@@ -858,7 +868,9 @@ Se RPL § 523, stk. 2 og TL § 27a. Reglen gælder også bilbogen, andelsboligbo
 
 ---
 
-Hvis et omsætningsgældsbrev er overdraget, men skyldneren har betalt forfaldne renter eller forfaldne, tidsfæstede afdrag til overdrageren, kan han gøre dette gældende over for en senere erhverver af omsætningsgældsbrevet. 
+![](img/gald3.jpg)
+
+Hvis et omsætningsgældsbrev er overdraget, men skyldneren har betalt forfaldne renter eller forfaldne, tidsfæstede afdrag til overdrageren, kan skyldneren gøre dette gældende over for en senere erhverver af omsætningsgældsbrevet. 
 
 Se GBL § 16. 
 
@@ -890,8 +902,17 @@ Gældsbrevsdebitor bliver ved betaling til udlægshaver frigjort under samme bet
 
 ### Oversigt over sikringsakter på fordringer, omsætningsgældsbreve og pantebreve
 
+**Hvad er en sikringsakt?**
 
-Sikringsakt foretages for at sikre erhververen mod overdragerens aftaleerhververe og kreditorer:
+
+En sikringsakt er den handling der skal til, for at man opnår sikkerhed mod rettigheder, der er stiftet efter ens rettigheder. 
+
+Handlingen skal altså til for, at man ikke mister sin ret til det aktiv, som fx fogedretten efter anmodning har foretage udlæg i.
+
+Det er typen af aktiv, der er afgørende for hvilken sikringsakt, der skal foretages. Hvis der f.eks. er tale om udlæg i livsforsikringspoler, skal der ske påtegning på policen.
+
+
+Sikringsakt foretages således for at sikre erhververen mod overdragerens aftaleerhververe og kreditorer:
 
 *  Simple fordringer – sikringsakten for overdragelse er **denunciation** (meddelelse)
 
@@ -905,7 +926,7 @@ Sikringsakt foretages for at sikre erhververen mod overdragerens aftaleerhverver
 
 
 
-***Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af fordringers overdragelse***:
+**Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af fordringers overdragelse**:
 
 
 <img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
@@ -984,15 +1005,15 @@ Det betyder kun, at der er et krav om, at man kan bevise, at fordringen eksister
 
 *Lovbekendtgørelse nr. 333 af 31. marts 2014 om gældsbreve*  
 
-```{r fordring2,echo=FALSE, result=TRUE, fig.cap=("Indsigelse over gældsforhold")}
+```{r fordring2,echo=FALSE, result=TRUE, fig.cap=("indsigelse over gældsforhold")}
 nodes <- data.frame(id = 1:2, 
                     shape = c("box"), 
                     level = c(1,2),
-                    label = c("Debitor\nSkyldner","Kreditor\nSælger"),
+                    label = c("debitor/\nskyldner","kreditor/\nsælger"),
                     font.size = c(15,15))
 edges <- data.frame(from = c(1), to = c(2),
                     arrows = c("to"),
-                    label = c("Debitor har en indsigelse overfor kreditor"),
+                    label = c("debitor har en indsigelse overfor kreditor"),
                     
                     shadow = TRUE)
 
@@ -1011,12 +1032,6 @@ visNetwork(nodes, edges, width = "80%") %>%
 
 Skyldner kan gøre alle indsigelser gældende overfor oprindelig kreditor, jf. GBL § 1, samt fx efter aftaleloven og købeloven:
 
----
-
-![](img/over1.png)
-(Kilde; Trojka) fig. 16.5.
-
----
 
 Skyldneren bevarer dermed over for kreditor indsigelser om mangler, manglende levering eller ugyldighed mv. i det retsforhold, som gav anledning til gældsbrevets udstedelse. 
 
@@ -1040,12 +1055,12 @@ Skyldnerens indsigelsen over for kreditor kan betyde, at skyldner skal betale mi
  
 ### Forholdet mellem overdrager og erhverver
 
-![](img/over2.png)
-(Kilde; Trojka) fig. 16.6
+
+
 
 ---
 
-Juridisk karakteriseret som **”det efterfølgende trepartsforhold”:** 
+Hvis kreditor overdrager fordringen på debitor til en erhverver bliver det juridisk karakteriseret som et **"efterfølgende trepartsforhold”:** 
 
 ---
  
@@ -1056,11 +1071,11 @@ Juridisk karakteriseret som **”det efterfølgende trepartsforhold”:**
 nodes <- data.frame(id = 1:3, 
                     shape = c("box"), 
                     level = c(1,2,2),
-                    label = c("Debitor\nSkyldner","Kreditor\nOverdrager","Erhverver"),
+                    label = c("debitor/\nskyldner","Kreditor/\nOverdrager","erhverver"),
                     font.size = c(15,15,15))
 edges <- data.frame(from = c(1,2,1), to = c(2,3,3),
                     arrows = c("to"),
-                    label = c("1. Kreditor har\nen fordring på debitor","2. Kreditor overdrager\ntil erhverver","3. Debitor skal nu\nbetale erhververen"),
+                    label = c("1. kreditor har\nen fordring på debitor","2. kreditor overdrager\n fordringen til erhververen","3. debitor skal nu\nbetale erhververen"),
                     length = c(100,300,100),
                     shadow = TRUE)
 
@@ -1103,22 +1118,17 @@ Fx kan købekontrakt med gyldigt ejendomsforbehold sælges til en anden kreditor
 
 ---
 
-![](img/over3.png)
-(Kilde; Trojka) fig. 16.7.
-
----
-
 ```{r fordring4,echo=FALSE, result=TRUE, fig.cap=("Salg af købekontrakt fx. bilkøb")}
 nodes <- data.frame(id = 1:3, 
                     shape = c("box"), 
                     level = c(1,2,2),
-                    label = c("Bilkøber\nDebitor\nSkyldner","Bilsælger\nKreditor\nOverdrager","Finansieringsselskab"),
+                    label = c("bilkøber/\ndebitor/\nskyldner","bilsælger/\nkreditor/\noverdrager","finansieringsselskab"),
                     font.size = c(10,10,10))
 edges <- data.frame(from = c(1,2,1,2,3), to = c(2,3,3,1,2),
                     arrows = c("to","to","to","to","to"),
                     font.size = c(10,10,10,10,10),
                     
-                    label = c("1. Bilsalg på\nkøbekontrakt","2. Bilsælger\nsælger\nkøbekontrakt\ntil finansieringsselskab","3. Debitor skal nu\nbetale\nfinansieringsselskabet","",""),
+                    label = c("1. bilsalg på\nkøbekontrakt","2. bilsælger\nsælger\nkøbekontrakt\ntil finansieringsselskab","3. debitor skal nu\nbetale\n til finansieringsselskabet","",""),
                     length = c(300,300,300,300,300),
                     shadow = TRUE
               
@@ -1142,7 +1152,11 @@ edges <- data.frame(from = c(1,2,1,2,3), to = c(2,3,3,1,2),
 
 **3**. Kunden (skyldneren) skal nu betale til finansieringsselskabet (erhververen), som har købt købekontrakten af bilsælgeren (overdrageren)
 
-**4**. Overdrager (bilsælgeren) indestår for, at fordringen består jf. GBL § 9. Bestemmelsen er gældsbrevslovens regel om overdragerens objektive ansvar for, at fordringen består, dvs. »nomen esse verum«. Det objektive ansvar gælder ikke når manglende betaling skyldes debitors manglende betalingsevne, dvs. »nomen esse bonum«, jf. GBL § 10.
+**4**. Overdrager (bilsælgeren) indestår for, at fordringen består jf. GBL § 9. 
+
+Bestemmelsen er gældsbrevslovens regel om overdragerens objektive ansvar for, at fordringen består, dvs. »nomen esse verum«. 
+
+Det objektive ansvar gælder ikke når manglende betaling skyldes debitors manglende betalingsevne, dvs. »nomen esse bonum«, jf. GBL § 10.
 
 
 ---
@@ -1235,10 +1249,6 @@ Overdragelse af fordringer kan ske til eje eller pant
 
 **Fakturabelåning er ofte overdragelse af enkelte (større) fordringer til en bank**:
 
----
-
-![](img/over6.png)
-(Kilde; Trojka) fig. 16.8.
 
 ---
 
@@ -1247,13 +1257,13 @@ Overdragelse af fordringer kan ske til eje eller pant
 nodes <- data.frame(id = 1:3, 
                     shape = c("box"), 
                     level = c(1,2,2),
-                    label = c("Rederi\nDebitor\nSkyldner","Skibsværft\nKreditor\nOverdrager","Bank"),
+                    label = c("rederi/\ndebitor/\nskyldner","skibsværft/\nkreditor\noverdrager","bank"),
                     font.size = c(10,10,10))
 edges <- data.frame(from = c(1,2,1,2,3), to = c(2,3,3,1,2),
                     arrows = c("to","to","to","to","to"),
                     font.size = c(10,10,10,10,10),
                     
-                    label = c("1. Skibsværft sælger\nskib og udsteder\nfaktura","2. Skibsværft\noverdrager\nfakturaen\ntil bank","3. Rederiet skal nu\nbetale\nbanken","",""),
+                    label = c("1. skibsværft sælger\nskib og udsteder\nfaktura","2. skibsværft\noverdrager\nfakturaen\n på skibet til banken","3. rederiet skal nu\nbetale\n til banken","",""),
                     length = c(300,300,300,300,300),
                     shadow = TRUE
               
@@ -1278,21 +1288,16 @@ Aftalen kan enten gå ud på, at factoringselskabet yder virksomheden et lån me
 
 ---
 
-![](img/over7.png)
-(Kilde; Trojka) fig. 16.9.
-
----
-
 ```{r fordring6,echo=FALSE, result=TRUE, fig.cap=("Factoringselskab køber udestående fakturaer")}
 nodes <- data.frame(id = 1:6, 
                     shape = c("box"), 
                     level = c(1,1,1,1,2,2),
-                    label = c("Debitor\nkøber varer\naf virksomhed","Debitor\nkøber varer\naf virksomhed","Debitor\nkøber varer\naf virksomhed","Debitor\nkøber varer\naf virksomhed","Virksomhed\nsælger varer","Factoringselskab\nErhverver fordring\nog modtager betaling"),
+                    label = c("debitor\nkøber varer\naf virksomhed","debitor\nkøber varer\naf virksomhed","debitor\nkøber varer\naf virksomhed","debitor\nkøber varer\naf virksomhed","virksomhed\nsælger varer","factoringselskab\nerhverver fordring\nog modtager betaling"),
                     font.size = c(12))
 edges <- data.frame(from = c(1,2,3,4,5,1,2,3,4), to = c(5,5,5,5,6,6,6,6,6),
                     arrows = c("from","from","from","from","to","to","to","to","to"),
                     font.size = c(10,10,10,10,10,10,10,10,10),
-                    label = c("1. Varesalg","1. Varesalg","1. Varesalg","1. Varesalg","2. Overdragelse\naf fordring\nfrigiver livkviditet\ntil virksomheden","\n\n\n      3. Betaling","\n\n\n    3. Betaling","3. Betaling","3. Betaling"),
+                    label = c("1. varesalg","1. varesalg","1. varesalg","1. varesalg","2. overdragelse\naf fordring\nfrigiver livkviditet\ntil virksomheden","\n\n\n      3. betaling","\n\n\n    3. betaling","3. betaling","3. betaling"),
                     length = c(100,100,100,100,600,100,100,100,100),
                     shadow = TRUE
               
@@ -1351,10 +1356,7 @@ Overdrager og erhverver skal denuntiere (give meddelelse) til skyldner, GBL § 3
 
 Betaling til erhverver er med frigørende virkning medmindre der er en stærk ugyldighedsgrund mellem overdrager og erhverver, jf. GBL § 30 (se figur \@ref(fig:fordring7))
 
----
 
-![](img/over8.png)
-(Kilde; Trojka) fig. 16.10.
 
 ---
 
@@ -1362,12 +1364,12 @@ Betaling til erhverver er med frigørende virkning medmindre der er en stærk ug
 nodes <- data.frame(id = 1:3, 
                     shape = c("box"), 
                     level = c(1,2,2),
-                    label = c("Debitor\nSkyldner","Kreditor\nOverdrager","Erhverver\nny kreditor"),
+                    label = c("debitor/\nskyldneren","kreditor/\noverdrageren","erhverver/\nny kreditor"),
                     font.size = c(10,10,10))
 edges <- data.frame(from = c(1,2), to = c(2,3),
                     arrows = c("to","to"),
                     font.size = c(10,10),
-                    label = c("Kreditor har\nfortsat krav","Stærk ugyldighedsgrund\nOverdrager har fortsat krav\nmod skyldner"),
+                    label = c("kreditor har\nfortsat krav","stærk ugyldighedsgrund\noverdrager har fortsat et betalingskrav\nmod skyldneren"),
                     length = c(300,300),
                     shadow = TRUE
               
@@ -1399,24 +1401,19 @@ Erhververen får som hovedregel ikke større ret end overdrageren havde, dvs. de
 
 Skyldner kan gøre samme indsigelser gældende overfor erhverver, som han eller hun kunne gøre gældende over for kreditor (overdrageren), jf. GBL § 27 (se figur \@ref(fig:fordring8))
 
----
-
-![](img/over9.png)
-
-(Kilde; Trojka) fig. 16.11.
 
 ---
 
-```{r fordring8,echo=FALSE, result=TRUE, fig.cap=("Hvem er skyldner i konflikt med? Hvilken §?")}
+```{r fordring8,echo=FALSE, result=TRUE, fig.cap=("Skyldnerens indsigelser: Hvem er skyldner er i konflikt afgører, hvilken bestemmelse, der skal anvendes")}
 nodes <- data.frame(id = 1:4, 
                     shape = c("box"), 
                     level = c(1,2,2,2),
-                    label = c("Debitor\nSkyldner","Kreditor\nOverdrager","Erhverver 1","Erhverver 2"),
+                    label = c("debitor/\nskyldner","kreditor/\noverdrager","erhverver 1","erhverver 2"),
                     font.size = c(10,10,10,10))
 edges <- data.frame(from = c(1,2,3,1,1), to = c(2,3,4,3,4),
                     arrows = c("to","to","to","to","to"),
                     font.size = c(12,12,12,12,12),
-                    label = c("GBL §1","Fordring\noverdrages","Fordring\noverdrages","GBL §27","GBL §27"),
+                    label = c("GBL §1","fordring\noverdrages","fordring\noverdrages","GBL §27","GBL §27"),
                     length = c(200,100,100,200,200),
                     shadow = TRUE
               
@@ -1442,7 +1439,7 @@ Overdragelse kan være afskåret eller begrænset ved aftale mellem skyldneren o
 
 Når skyldneren har betalt til erhververen, består der ikke længere nogen fordring, som der kan gøres indsigelse imod. 
 
-Opdager skyldneren eksempelvis efter betaling, at han eller hun kan gøre misligholdelsesbeføjelser gældende i anledning af kontraktsforholdet med overdrageren, kan sådanne misligholdelsesbeføjelser ikke som et pengekrav rettes mod erhververen efter GBL § 27.
+Opdager skyldneren eksempelvis efter betaling, at skyldneren kan gøre misligholdelsesbeføjelser gældende i anledning af kontraktsforholdet med overdrageren, kan sådanne misligholdelsesbeføjelser ikke som et pengekrav rettes mod erhververen efter GBL § 27.
 
 Med hensyn til skyldnerens indsigelser: 
 
@@ -1460,22 +1457,16 @@ Skyldner kan ikke kræve flere penge tilbage, end erhverver har modtaget, jf. n�
 
 Kædeoverdragelse (se figur \@ref(fig:fordring9))
 
-Erhverver ikke bedre ret end overdrager, jf. nærmere den 
-obligationsretlige grundsætning i GBL § 27.
-
----
-![](img/over10.png)
-(Kilde; Trojka) fig. 16.12.
-
+Erhververen får ikke en bedre ret end overdrageren, jf. nærmere den obligationsretlige grundsætning i GBL § 27.
 
 
 ---
 
-```{r fordring9,echo=FALSE, result=TRUE, fig.cap=("Kædeoverdragelse erhverver ikke bedre ret end overdrager")}
+```{r fordring9,echo=FALSE, result=TRUE, fig.cap=("Kædeoverdragelse erhververen får ikke en bedre ret end overdrageren")}
 nodes <- data.frame(id = 1:4, 
                     shape = c("box"), 
                     level = c(1,2,2,2),
-                    label = c("Debitor\nSkyldner","Kreditor\nOverdrager","Erhverver\nny kreditor","Erhverver\nseneste kreditor"),
+                    label = c("debitor/\nskyldner","kreditor/\noverdrager","erhverver\nny kreditor","erhverver\nseneste kreditor"),
                     font.size = c(10,10,10,10))
 edges <- data.frame(from = c(1,2,3), to = c(2,3,4),
                     arrows = c("to","to","to"),
@@ -1520,19 +1511,19 @@ edges <- data.frame(from = c(1,2,3), to = c(2,3,4),
 
 **Dobbeltoverdragelse af fordring:**  
 
-I tilfælde af at en fordring bliver overdraget flere gange, er den erhverver, der først meddeler fordringsskyldneren om overdragelsen af fordringen, sikret retten til fordringen. 
+I tilfælde af at en fordring bliver overdraget flere gange, er den erhverver, der først meddeler fordringsskyldneren (debitor) om overdragelsen af fordringen, sikret retten til fordringen. 
 
-Det er under forudsætning af, at han var i god tro om, at der ikke var andre rettighedshavere ved underretningen til fordringsskyldneren, jf. GBL § 31, stk. 2. 
+Det er under forudsætning af, at erhververen var i god tro om, at der ikke var andre rettighedshavere ved underretningen til fordringsskyldneren (debitor), jf. GBL § 31, stk. 2. 
 
-Dette gælder, selvom han først fik overdraget fordringen efter, at en anden havde erhvervet fordringen (se figur \@ref(fig:fordring10)). 
+Dette gælder, selvom erhververen først fik overdraget fordringen efter, at en anden havde erhvervet fordringen (se figur \@ref(fig:fordring10)). 
 
 ---
 
-```{r fordring10,echo=FALSE, result=TRUE, fig.cap=("Dobbeltoverdragelse af fordring")}
+```{r fordring10,echo=FALSE, result=TRUE, fig.cap=("Dobbeltoverdragelse af fordring: Først i tid bedst i ret og i god tro")}
 nodes <- data.frame(id = 1:4, 
                     shape = c("box"), 
                     level = c(1,2,3,3),
-                    label = c("Debitor\nSkyldner","Kreditor\nOverdrager\ndobbeltoverdrager","Erhverver\nkreditor","Erhverver\nkreditor"),
+                    label = c("debitor/\nskyldner","kreditor/\noverdrager\ndobbeltoverdrager","erhverver/\nkreditor","erhverver\nkreditor"),
                     font.size = c(10,10,10,10))
 edges <- data.frame(from = c(1,2,2), to = c(2,3,4),
                     arrows = c("to","to","to"),
@@ -1542,7 +1533,10 @@ edges <- data.frame(from = c(1,2,2), to = c(2,3,4),
                     shadow = TRUE
               
                     )
-  visNetwork(nodes, edges, width = "80%") %>% 
+  visNetwork(nodes, edges, width = "100%") %>% 
+    visInteraction(dragNodes = TRUE, 
+                 dragView = TRUE, 
+                 zoomView = FALSE) %>%
   visNodes(color = list(background = "white", 
                         border = "white",
                         highlight = "yellow"),
@@ -1701,11 +1695,11 @@ Svage indsigelser går tabt for skyldner, når gældsbrevet er overdraget, jf. G
 
 ---
 
-```{r fordring11,echo=FALSE, result=TRUE, fig.cap=("Skyldners indsigelser")}
+```{r fordring11,echo=FALSE, result=TRUE, fig.cap=("Skyldners indsigelser i forhold til hvem skyldneren er i konflikt med")}
 nodes <- data.frame(id = 1:4, 
                     shape = c("box"), 
                     level = c(1,2,2,2),
-                    label = c("Debitor\nSkyldner","Kreditor\nOverdrager","1. Erhverver\n kreditor","2. Erhverver\nseneste kreditor"),
+                    label = c("debitor/\nskyldner","kreditor/\noverdrager","1. erhverver/\n kreditor","2. erhverver/\nseneste kreditor"),
                     font.size = c(10,10,10,10))
 edges <- data.frame(from = c(1,2,2,1,1), to = c(2,3,4,3,4),
                     arrows = c("to","to","to","to","to"),
@@ -1715,7 +1709,10 @@ edges <- data.frame(from = c(1,2,2,1,1), to = c(2,3,4,3,4),
                     shadow = TRUE
               
                     )
-  visNetwork(nodes, edges, width = "80%") %>% 
+  visNetwork(nodes, edges, width = "100%") %>% 
+    visInteraction(dragNodes = TRUE, 
+                 dragView = TRUE, 
+                 zoomView = FALSE) %>%
   visNodes(color = list(background = "white", 
                         border = "white",
                         highlight = "yellow"),
@@ -1729,28 +1726,24 @@ edges <- data.frame(from = c(1,2,2,1,1), to = c(2,3,4,3,4),
 
 ### Konflikt mellem senere erhververe
 
----
 
-![](img/over15.png)
-(Kilde; Trojka)
-
----
-
-Kædeoverdragelse, jf. GBL § 14 
+Kædeoverdragelse, jf. GBL § 14: 
 
 En aftaleerhverver (ikke retsforfølgende kreditor) kan fortrænge en tidligere indsigelse, hvis aftaleerhverver:
 
 +	Er i god tro om indsigelsen
+
 +	Har fået gældsbrevet udleveret
+
 +	Har en berettiget forventning om at overdragelsen er gyldig
   
 ---
 
-```{r fordring12,echo=FALSE, result=TRUE, fig.cap=("Skyldners indsigelser")}
+```{r fordring12,echo=FALSE, result=TRUE, fig.cap=("Aftaleerhververens fortrængelse af tidligere indsigelser")}
 nodes <- data.frame(id = 1:4, 
                     shape = c("box"), 
                     level = c(1,2,2,2),
-                    label = c("Debitor\nSkyldner","Kreditor\nOverdrager","1. Erhverver\n kreditor","2. Erhverver\nseneste kreditor"),
+                    label = c("debitor/\nskyldner","kreditor/\noverdrager","1. erhverver\n kreditor","2. erhverver\nseneste kreditor"),
                     font.size = c(10,10,10,10))
 edges <- data.frame(from = c(1,2,3), to = c(2,3,4),
                     arrows = c("to","to","to"),
@@ -1760,7 +1753,10 @@ edges <- data.frame(from = c(1,2,3), to = c(2,3,4),
                     shadow = TRUE
               
                     )
-  visNetwork(nodes, edges, width = "80%") %>% 
+  visNetwork(nodes, edges, width = "100%") %>% 
+    visInteraction(dragNodes = TRUE, 
+                 dragView = TRUE, 
+                 zoomView = FALSE) %>%
   visNodes(color = list(background = "white", 
                         border = "white",
                         highlight = "yellow"),
@@ -1787,15 +1783,7 @@ Udlægshaver skal derfor ikke foretage nogen særlig sikringsakt i forhold til a
 
 ---
 
-
-
-
-Dobbeltoverdragelse, jf. GBL §14 ved salg samt GBL § 22 ved pant (se figur \@ref(fig:fordring13) og \@ref(fig:fordring13))
-
----
-
-![](img/over16.png)
-(Kilde; Trojka)
+Dobbeltoverdragelse, jf. GBL § 14 ved salg, samt GBL § 22 ved pant (se figur \@ref(fig:fordring13) og \@ref(fig:fordring13))
 
 
 ---
@@ -1818,21 +1806,24 @@ Dobbeltoverdragelse, jf. GBL §14 ved salg samt GBL § 22 ved pant (se figur \@r
 ---
 
 
-```{r fordring13,echo=FALSE, result=TRUE, fig.cap=("Dobbeltoverdragelse salg")}
+```{r fordring13,echo=FALSE, result=TRUE, fig.cap=("Dobbeltoverdragelse ved salg GBL § 14 i hånden og i god tro")}
 nodes <- data.frame(id = 1:4, 
                     shape = c("box"), 
                     level = c(1,2,3,3),
-                    label = c("Debitor\nSkyldner","Overdrager","1. kreditor","2. Kreditor"),
+                    label = c("debitor/\nskyldner","overdrager ved salg","1. kreditor","2. kreditor"),
                     font.size = c(10,10,10,10))
 edges <- data.frame(from = c(1,2,2), to = c(2,3,4),
                     arrows = c("to","to","to"),
                     font.size = c(10,10,10),
-                    label = c("","HR Først\ni tid bedst i ret","Senere kreditor"),
+                    label = c("","HR: I hænde/\n god tro, GBL § 14","Senere kreditor"),
                     length = c(100,100,100),
                     shadow = TRUE
               
                     )
-  visNetwork(nodes, edges, width = "80%") %>% 
+  visNetwork(nodes, edges, width = "100%") %>% 
+    visInteraction(dragNodes = TRUE, 
+                 dragView = TRUE, 
+                 zoomView = FALSE) %>%
   visNodes(color = list(background = "white", 
                         border = "white",
                         highlight = "yellow"),
@@ -1910,21 +1901,24 @@ Selv om GBL § 14's betingelser ikke er opfyldt, må man være opmærksom på, a
 
 ---
 
-```{r fordring14,echo=FALSE, result=TRUE, fig.cap=("Dobbeltoverdragelse pant")}
+```{r fordring14,echo=FALSE, result=TRUE, fig.cap=("Dobbeltoverdragelse pant - GBL § 22")}
 nodes <- data.frame(id = 1:4, 
                     shape = c("box"), 
                     level = c(1,2,3,3),
-                    label = c("Debitor\nSkyldner","Overdrager\nPantsætter","Panthaver","Kreditor"),
+                    label = c("debitor/\nskyldner","overdrager/\npantsætter","panthaver","kreditor"),
                     font.size = c(10,10,10,10))
 edges <- data.frame(from = c(1,2,2), to = c(2,3,4),
                     arrows = c("to","to","to"),
                     font.size = c(10,10,10),
-                    label = c("","Panthavers beskyttelse mod\npansætters kreditorer er\nreguleret i GBL §22","GBL §22"),
+                    label = c("","panthavers beskyttelse mod\npansætters kreditorer er\nreguleret i GBL §22","GBL §22"),
                     length = c(100,100,100),
                     shadow = TRUE
               
                     )
-  visNetwork(nodes, edges, width = "80%") %>% 
+  visNetwork(nodes, edges, width = "100%") %>% 
+    visInteraction(dragNodes = TRUE, 
+                 dragView = TRUE, 
+                 zoomView = FALSE) %>%
   visNodes(color = list(background = "white", 
                         border = "white",
                         highlight = "yellow"),
@@ -1989,26 +1983,24 @@ Kædeoverdragelse (se figur \@ref(fig:fordring15))
 
 ---
 
-![](img/over19.png)
-(Kilde; Trojka)
-
----
-
-```{r fordring15,echo=FALSE, result=TRUE, fig.cap=("Senere erhververe konflikt")}
+```{r fordring15,echo=FALSE, result=TRUE, fig.cap=("Overdragerens indsigelser over for senere erhverver - GBL § 27")}
 nodes <- data.frame(id = 1:4, 
                     shape = c("box"), 
                     level = c(1,2,2,2),
-                    label = c("Skyldner","Overdrager","Erhverver 1","Erhverver 2"),
+                    label = c("skyldner","overdrager","erhverver 1","erhverver 2"),
                     font.size = c(10,10,10,10))
 edges <- data.frame(from = c(1,2,3), to = c(2,3,4),
                     arrows = c("to","to","to"),
                     font.size = c(10,10,10),
-                    label = c("","Overdragers indsigelse\noverfor Erhverver 2\nreguleres af GBL §27","Overdragers indsigelse\noverfor Erhverver 2\nreguleres af GBL §27"),
+                    label = c("","overdragers indsigelse\noverfor senere erhverver 2\nreguleres af GBL §27","overdragers indsigelse\noverfor erhverver 2\nreguleres af GBL §27"),
                     length = c(100,200,200),
                     shadow = TRUE
               
                     )
-  visNetwork(nodes, edges, width = "80%") %>% 
+  visNetwork(nodes, edges, width = "100%") %>% 
+    visInteraction(dragNodes = TRUE, 
+                 dragView = TRUE, 
+                 zoomView = FALSE) %>%
   visNodes(color = list(background = "white", 
                         border = "white",
                         highlight = "yellow"),
@@ -2024,27 +2016,24 @@ Dobbeltoverdragelse (se figur \@ref(fig:fordring16)):
 
 ---
 
-![](img/over21.png)
-(Kilde; Trojka)
-
-
----
-
-```{r fordring16,echo=FALSE, result=TRUE, fig.cap=("Dobbeltoverdragelse pant")}
+```{r fordring16,echo=FALSE, result=TRUE, fig.cap=("Dobbeltoverdragelse pant - sikringsakt tinglysning")}
 nodes <- data.frame(id = 1:4, 
                     shape = c("box"), 
                     level = c(1,2,3,3),
-                    label = c("Debitor\nSkyldner","Overdrager\nPantsætter","1. Rettighedshaver","2. Rettighedshaver"),
+                    label = c("debitor/\nskyldner","overdrager/\npantsætter","1. rettighedshaver","2. rettighedshaver"),
                     font.size = c(10,10,10,10))
 edges <- data.frame(from = c(1,2,2), to = c(2,3,4),
                     arrows = c("to","to","to"),
                     font.size = c(10,10,10),
-                    label = c("","Panthaver skal tinglyse\nsin ret for at sikre sig mod\ndobbeltoverdragelse jvf. TL §1",""),
+                    label = c("","panthaver skal tinglyse\nsin ret for at sikre sig mod\ndobbeltoverdragelse jf. TL §1",""),
                     length = c(100,100,100),
                     shadow = TRUE
               
                     )
-  visNetwork(nodes, edges, width = "80%") %>% 
+  visNetwork(nodes, edges, width = "100%") %>% 
+    visInteraction(dragNodes = TRUE, 
+                 dragView = TRUE, 
+                 zoomView = FALSE) %>%
   visNodes(color = list(background = "white", 
                         border = "white",
                         highlight = "yellow"),
@@ -2140,8 +2129,8 @@ Betaling til den tinglyste kreditor, TL § 29, stk. 1
 
 Skyldner kan betale ordinære afdrag til overdrager, jf. TL § 29, stk. 2, hvis:
 
-  +	Skyldner er i god tro om overdragelse til erhverver og
-  +	Afdrag og evt. renter er forfaldne til betaling
++	Skyldner er i god tro om overdragelse til erhverver og
++	Afdrag og evt. renter er forfaldne til betaling
   
 Ved betaling af hele gælden kan skyldner krævet, at pantet skal aflyses, TL § 29a
 
@@ -2155,8 +2144,10 @@ Som ved omsætningsgældsbreve, jf. TL § 27a
 Svage indsigelser går tabt for skyldner, når gældsbrevet er overdraget, jf. nærmere GBL § 15 hvis:
 
 +	Overdragelsen er blevet tinglyst
+
 +	Erhverver er i god tro om indsigelsen
 +	Den gode tro er tilstede på det tidspunktet hvor erhverver får tinglyst sin ret, jf. nærmere TL § 5
+
 +	Overdragelsen til erhverver er fra den person, der havde ret til at disponere ifølge tingbogen
 
 Skyldner bevarer stærke indsigelser også over for en erhverver i god tro, jf. TL § 27a, stk. 2 og GBL § 17
@@ -2170,16 +2161,11 @@ Skyldner bevarer stærke indsigelser også over for en erhverver i god tro, jf. 
 
 ---
 
-![](img/over22.png)
-(Kilde; Trojka)
-
----
-
-```{r fordring17,echo=FALSE, result=TRUE, fig.cap=("Konflikt mellem skyldner og senere erhververe reguleres af TL §27b")}
+```{r fordring17,echo=FALSE, result=TRUE, fig.cap=("Konflikt mellem skyldneren og senere erhververe reguleres af TL §27b")}
 nodes <- data.frame(id = 1:4, 
                     shape = c("box"), 
                     level = c(1,2,2,2),
-                    label = c("Debitor\nSkyldner","Overdrager","1. Erhverver\nny kreditor","2. Erhverver\nseneste kreditor"),
+                    label = c("debitor/\nskyldner","overdrager","1. erhverver/\nny kreditor","2. erhverver\nseneste kreditor"),
                     font.size = c(10,10,10,10))
 edges <- data.frame(from = c(1,2,3), to = c(2,3,4),
                     arrows = c("to","to","to"),
@@ -2189,7 +2175,10 @@ edges <- data.frame(from = c(1,2,3), to = c(2,3,4),
                     shadow = TRUE
               
                     )
-  visNetwork(nodes, edges, width = "80%") %>% 
+  visNetwork(nodes, edges, width = "100%") %>% 
+    visInteraction(dragNodes = TRUE, 
+                 dragView = TRUE, 
+                 zoomView = FALSE) %>%
   visNodes(color = list(background = "white", 
                         border = "white",
                         highlight = "yellow"),
