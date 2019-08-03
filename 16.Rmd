@@ -1489,7 +1489,7 @@ Erhververen får ikke en bedre ret end overdrageren, jf. nærmere den obligation
 
 ---
 
-```{r fordring9,echo=FALSE,fig.height=3,fig.height=3 result=TRUE, fig.cap=("Kædeoverdragelse erhververen får ikke en bedre ret end overdrageren")}
+```{r fordring9,echo=FALSE,fig.height=3 result=TRUE, fig.cap=("Kædeoverdragelse erhververen får ikke en bedre ret end overdrageren")}
 nodes <- data.frame(id = 1:4, 
                     shape = c("box"), 
                     level = c(1,2,2,2),
