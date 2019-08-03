@@ -24,7 +24,7 @@
 <meta name="author" content="Sonny Kristoffersen" />
 
 
-<meta name="date" content="2019-08-02" />
+<meta name="date" content="2019-08-03" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -47,10 +47,13 @@
 
 
 
-<script src="libs/kePrint-0.0.1/kePrint.js"></script>
 <script src="libs/htmlwidgets-1.3/htmlwidgets.js"></script>
-<link href="libs/vis-4.16.1/vis.min.css" rel="stylesheet" />
-<script src="libs/vis-4.16.1/vis.min.js"></script>
+<script src="libs/tippyjs-2.5.2/tippy.all.min.js"></script>
+<script src="libs/tippy-binding-0.0.1/tippy.js"></script>
+<link href="libs/vis-4.20.1/vis.css" rel="stylesheet" />
+<script src="libs/vis-4.20.1/vis.min.js"></script>
+<script src="libs/visNetwork-binding-2.0.7/visNetwork.js"></script>
+<script src="libs/kePrint-0.0.1/kePrint.js"></script>
 <link href="libs/timeline-0.4/timevis.css" rel="stylesheet" />
 <script src="libs/timevis-binding-0.5/timevis.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -152,25 +155,40 @@
 <li class="chapter" data-level="3.3" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#eu-domstolen-og-dig-premium"><i class="fa fa-check"></i><b>3.3</b> <font color="red">EU-Domstolen og dig<sup> Premium </font></sup></a></li>
 <li class="chapter" data-level="3.4" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#sammenstning-premium-1"><i class="fa fa-check"></i><b>3.4</b> <font color="red">Sammensætning<sup> Premium </font></sup></a></li>
 <li class="chapter" data-level="3.5" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#de-forskellige-sagstyper-premium"><i class="fa fa-check"></i><b>3.5</b> <font color="red">De forskellige sagstyper<sup> Premium </font></sup></a><ul>
-<li class="chapter" data-level="3.5.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#annullationssgsmal-premium"><i class="fa fa-check"></i><b>3.5.1</b> <font color="red">Annullationssøgsmål<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.5.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#prjudicielle-forelggelser-premium"><i class="fa fa-check"></i><b>3.5.1</b> <font color="red">Præjudicielle forelæggelser<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.5.2" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#traktatbrudssgsmal-premium"><i class="fa fa-check"></i><b>3.5.2</b> <font color="red">Traktatbrudssøgsmål<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.5.3" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#annullationssgsmal-premium"><i class="fa fa-check"></i><b>3.5.3</b> <font color="red">Annullationssøgsmål<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.5.4" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#passivitetssgsmal-premium"><i class="fa fa-check"></i><b>3.5.4</b> <font color="red">Passivitetssøgsmål<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.5.5" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#appelsager-premium"><i class="fa fa-check"></i><b>3.5.5</b> <font color="red">Appelsager<sup> Premium </font></sup></a></li>
 </ul></li>
 <li class="chapter" data-level="3.6" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#sagsbehandling-premium"><i class="fa fa-check"></i><b>3.6</b> <font color="red">Sagsbehandling<sup> Premium </font></sup></a><ul>
 <li class="chapter" data-level="3.6.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#sagens-anlg-og-den-skriftlige-forhandling-premium"><i class="fa fa-check"></i><b>3.6.1</b> <font color="red">Sagens anlæg og den skriftlige forhandling<sup> Premium </font></sup></a></li>
 </ul></li>
-<li class="chapter" data-level="3.7" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#sagens-oplysning-premium"><i class="fa fa-check"></i><b>3.7</b> <font color="red">Sagens oplysning<sup> Premium </font></sup></a><ul>
-<li class="chapter" data-level="3.7.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#offentligt-retsmde-og-generaladvokatens-forslag-til-afgrelse-premium"><i class="fa fa-check"></i><b>3.7.1</b> <font color="red">Offentligt retsmøde og generaladvokatens forslag til afgørelse<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.7" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#prjudicielle-forelggelser-premium-1"><i class="fa fa-check"></i><b>3.7</b> <font color="red">Præjudicielle forelæggelser<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.8" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#direkte-sgsmal-og-appelsager-premium"><i class="fa fa-check"></i><b>3.8</b> <font color="red">Direkte søgsmål og appelsager<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.9" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#sagens-oplysning-premium"><i class="fa fa-check"></i><b>3.9</b> <font color="red">Sagens oplysning<sup> Premium </font></sup></a><ul>
+<li class="chapter" data-level="3.9.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#offentligt-retsmde-og-generaladvokatens-forslag-til-afgrelse-premium"><i class="fa fa-check"></i><b>3.9.1</b> <font color="red">Offentligt retsmøde og generaladvokatens forslag til afgørelse<sup> Premium </font></sup></a></li>
 </ul></li>
-<li class="chapter" data-level="3.8" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#dommene-premium"><i class="fa fa-check"></i><b>3.8</b> <font color="red">Dommene<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="3.9" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#srlige-rettergangsformer-premium"><i class="fa fa-check"></i><b>3.9</b> <font color="red">Særlige rettergangsformer<sup> Premium </font></sup></a><ul>
-<li class="chapter" data-level="3.9.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#sagsomkostninger-premium"><i class="fa fa-check"></i><b>3.9.1</b> <font color="red">Sagsomkostninger<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="3.9.2" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#sprogordning-premium"><i class="fa fa-check"></i><b>3.9.2</b> <font color="red">Sprogordning<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.10" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#dommene-premium"><i class="fa fa-check"></i><b>3.10</b> <font color="red">Dommene<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.11" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#srlige-rettergangsformer-premium"><i class="fa fa-check"></i><b>3.11</b> <font color="red">Særlige rettergangsformer<sup> Premium </font></sup></a><ul>
+<li class="chapter" data-level="3.11.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#den-forenklede-procedure-premium"><i class="fa fa-check"></i><b>3.11.1</b> <font color="red">Den forenklede procedure<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.11.2" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#den-fremskyndede-procedure-premium"><i class="fa fa-check"></i><b>3.11.2</b> <font color="red">Den fremskyndede procedure<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.11.3" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#den-prjudicielle-hasteprocedure-ppu-premium"><i class="fa fa-check"></i><b>3.11.3</b> <font color="red">Den præjudicielle hasteprocedure (PPU)<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.11.4" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#begring-om-forelbige-forholdsregler-premium"><i class="fa fa-check"></i><b>3.11.4</b> <font color="red">Begæring om foreløbige forholdsregler<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.11.5" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#sagsomkostninger-premium"><i class="fa fa-check"></i><b>3.11.5</b> <font color="red">Sagsomkostninger<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.11.6" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#sprogordning-premium"><i class="fa fa-check"></i><b>3.11.6</b> <font color="red">Sprogordning<sup> Premium </font></sup></a></li>
 </ul></li>
-<li class="chapter" data-level="3.10" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#oversigt-over-rettergangsmaden-premium"><i class="fa fa-check"></i><b>3.10</b> <font color="red">Oversigt over rettergangsmåden<sup> Premium </font></sup></a><ul>
-<li class="chapter" data-level="3.10.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#domstolen-i-den-europiske-unions-retsorden-premium"><i class="fa fa-check"></i><b>3.10.1</b> <font color="red">Domstolen i Den Europæiske Unions retsorden<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.12" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#oversigt-over-rettergangsmaden-premium"><i class="fa fa-check"></i><b>3.12</b> <font color="red">Oversigt over rettergangsmåden<sup> Premium </font></sup></a><ul>
+<li class="chapter" data-level="3.12.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#domstolen-i-den-europiske-unions-retsorden-premium"><i class="fa fa-check"></i><b>3.12.1</b> <font color="red">Domstolen i Den Europæiske Unions retsorden<sup> Premium </font></sup></a></li>
 </ul></li>
-<li class="chapter" data-level="3.11" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#grundstninger-fastslaet-i-retspraksis-premium"><i class="fa fa-check"></i><b>3.11</b> <font color="red">Grundsætninger fastslået i retspraksis<sup> Premium </font></sup></a><ul>
-<li class="chapter" data-level="3.11.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#domstolens-rolle-i-unionsborgerens-liv-premium"><i class="fa fa-check"></i><b>3.11.1</b> <font color="red">Domstolens rolle i unionsborgerens liv<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="3.11.2" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#unionsborgerskab-premium"><i class="fa fa-check"></i><b>3.11.2</b> <font color="red">Unionsborgerskab<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.13" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#grundstninger-fastslaet-i-retspraksis-premium"><i class="fa fa-check"></i><b>3.13</b> <font color="red">Grundsætninger fastslået i retspraksis<sup> Premium </font></sup></a><ul>
+<li class="chapter" data-level="3.13.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#domstolens-rolle-i-unionsborgerens-liv-premium"><i class="fa fa-check"></i><b>3.13.1</b> <font color="red">Domstolens rolle i unionsborgerens liv<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.13.2" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#frie-varebevgelser-premium"><i class="fa fa-check"></i><b>3.13.2</b> <font color="red">Frie varebevægelser<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.13.3" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#fri-bevgelighed-for-personer-premium"><i class="fa fa-check"></i><b>3.13.3</b> <font color="red">Fri bevægelighed for personer<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.13.4" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#fri-udveksling-af-tjenesteydelser-premium"><i class="fa fa-check"></i><b>3.13.4</b> <font color="red">Fri udveksling af tjenesteydelser<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.13.5" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#ligebehandling-og-sociale-rettigheder-premium"><i class="fa fa-check"></i><b>3.13.5</b> <font color="red">Ligebehandling og sociale rettigheder<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.13.6" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#grundlggende-rettigheder-premium"><i class="fa fa-check"></i><b>3.13.6</b> <font color="red">Grundlæggende rettigheder<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.13.7" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#unionsborgerskab-premium"><i class="fa fa-check"></i><b>3.13.7</b> <font color="red">Unionsborgerskab<sup> Premium </font></sup></a></li>
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="4" data-path="aftaleret.html"><a href="aftaleret.html"><i class="fa fa-check"></i><b>4</b> Aftaleret</a><ul>
@@ -260,10 +278,6 @@
 <li class="chapter" data-level="7.3.7" data-path="erstatningsreglerne-og-den-forsikringsmssige-afdkning.html"><a href="erstatningsreglerne-og-den-forsikringsmssige-afdkning.html#erhvervsevnetabserstatning"><i class="fa fa-check"></i><b>7.3.7</b> Erhvervsevnetabserstatning</a></li>
 <li class="chapter" data-level="7.3.8" data-path="erstatningsreglerne-og-den-forsikringsmssige-afdkning.html"><a href="erstatningsreglerne-og-den-forsikringsmssige-afdkning.html#ddsfald"><i class="fa fa-check"></i><b>7.3.8</b> Dødsfald</a></li>
 <li class="chapter" data-level="7.3.9" data-path="erstatningsreglerne-og-den-forsikringsmssige-afdkning.html"><a href="erstatningsreglerne-og-den-forsikringsmssige-afdkning.html#afdde-havde-forsrgerpligt"><i class="fa fa-check"></i><b>7.3.9</b> Afdøde havde forsørgerpligt</a></li>
-<li class="chapter" data-level="7.3.10" data-path="erstatningsreglerne-og-den-forsikringsmssige-afdkning.html"><a href="erstatningsreglerne-og-den-forsikringsmssige-afdkning.html#eksamenssprgsmal-indenfor-erstatningsretten-mv."><i class="fa fa-check"></i><b>7.3.10</b> Eksamensspørgsmål indenfor erstatningsretten mv.</a></li>
-<li class="chapter" data-level="7.3.11" data-path="erstatningsreglerne-og-den-forsikringsmssige-afdkning.html"><a href="erstatningsreglerne-og-den-forsikringsmssige-afdkning.html#eksamensopgave-og-lsning---om-ejendomsmglerens-erstatningsansvar-uden-for-kontrakt"><i class="fa fa-check"></i><b>7.3.11</b> Eksamensopgave og løsning - Om ejendomsmæglerens erstatningsansvar uden for kontrakt</a></li>
-<li class="chapter" data-level="7.3.12" data-path="erstatningsreglerne-og-den-forsikringsmssige-afdkning.html"><a href="erstatningsreglerne-og-den-forsikringsmssige-afdkning.html#eksamensopgave-og-lsning---om-erstatning-og-kaution"><i class="fa fa-check"></i><b>7.3.12</b> Eksamensopgave og løsning - Om erstatning og kaution</a></li>
-<li class="chapter" data-level="7.3.13" data-path="erstatningsreglerne-og-den-forsikringsmssige-afdkning.html"><a href="erstatningsreglerne-og-den-forsikringsmssige-afdkning.html#eksamensopgave-og-lsning---erstatning-uden-for-kontrakt-og-forbrugeraftaler"><i class="fa fa-check"></i><b>7.3.13</b> Eksamensopgave og løsning - Erstatning uden for kontrakt og forbrugeraftaler</a></li>
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="8" data-path="kb.html"><a href="kb.html"><i class="fa fa-check"></i><b>8</b> Køb</a><ul>
@@ -722,11 +736,13 @@
 <li class="chapter" data-level="23.4.2" data-path="familieret.html"><a href="familieret.html#beregn-formue"><i class="fa fa-check"></i><b>23.4.2</b> Beregn formue</a></li>
 <li class="chapter" data-level="23.4.3" data-path="familieret.html"><a href="familieret.html#fravigelse-af-ligedelingen"><i class="fa fa-check"></i><b>23.4.3</b> Fravigelse af ligedelingen</a></li>
 <li class="chapter" data-level="23.4.4" data-path="familieret.html"><a href="familieret.html#aktiver-der-ikke-indgar-i-formuedelingen"><i class="fa fa-check"></i><b>23.4.4</b> Aktiver, der ikke indgår i formuedelingen</a></li>
-<li class="chapter" data-level="23.4.5" data-path="familieret.html"><a href="familieret.html#regulering-og-misbrugskrav-efter-loven"><i class="fa fa-check"></i><b>23.4.5</b> Regulering og misbrugskrav efter loven</a></li>
-<li class="chapter" data-level="23.4.6" data-path="familieret.html"><a href="familieret.html#pensionskompensation"><i class="fa fa-check"></i><b>23.4.6</b> Pensionskompensation</a></li>
-<li class="chapter" data-level="23.4.7" data-path="familieret.html"><a href="familieret.html#rimelighedskompensation"><i class="fa fa-check"></i><b>23.4.7</b> Rimelighedskompensation</a></li>
-<li class="chapter" data-level="23.4.8" data-path="familieret.html"><a href="familieret.html#udtagelse-af-aktiver"><i class="fa fa-check"></i><b>23.4.8</b> Udtagelse af aktiver</a></li>
-<li class="chapter" data-level="23.4.9" data-path="familieret.html"><a href="familieret.html#formuedeling-ved-en-gteflles-dd"><i class="fa fa-check"></i><b>23.4.9</b> Formuedeling ved en ægtefælles død</a></li>
+</ul></li>
+<li class="chapter" data-level="23.5" data-path="familieret.html"><a href="familieret.html#derimod-omtales-muligheden-for-kompensation-efter-l-43-om-medvirken-ikke-i-motiverne."><i class="fa fa-check"></i><b>23.5</b> Derimod omtales muligheden for kompensation efter ÆL § 43 om medvirken ikke i motiverne.</a><ul>
+<li class="chapter" data-level="23.5.1" data-path="familieret.html"><a href="familieret.html#regulering-og-misbrugskrav-efter-loven"><i class="fa fa-check"></i><b>23.5.1</b> Regulering og misbrugskrav efter loven</a></li>
+<li class="chapter" data-level="23.5.2" data-path="familieret.html"><a href="familieret.html#pensionskompensation"><i class="fa fa-check"></i><b>23.5.2</b> Pensionskompensation</a></li>
+<li class="chapter" data-level="23.5.3" data-path="familieret.html"><a href="familieret.html#rimelighedskompensation"><i class="fa fa-check"></i><b>23.5.3</b> Rimelighedskompensation</a></li>
+<li class="chapter" data-level="23.5.4" data-path="familieret.html"><a href="familieret.html#udtagelse-af-aktiver"><i class="fa fa-check"></i><b>23.5.4</b> Udtagelse af aktiver</a></li>
+<li class="chapter" data-level="23.5.5" data-path="familieret.html"><a href="familieret.html#formuedeling-ved-en-gteflles-dd"><i class="fa fa-check"></i><b>23.5.5</b> Formuedeling ved en ægtefælles død</a></li>
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="24" data-path="arveretten.html"><a href="arveretten.html"><i class="fa fa-check"></i><b>24</b> Arveretten</a><ul>
@@ -1248,9 +1264,11 @@ Gode råd om gæld: Budget
 <p>Omstødelse medfører at den begunstigede skal betale det omstødelige beløb tilbage.</p>
 <p>Fristdagen er den dag Skifteretten har modtaget begæring om:</p>
 <ul>
-<li>Konkurs</li>
+<li>Konkurs
+<ul>
 <li>Rekonstruktion</li>
 <li>Gældssanering</li>
+</ul></li>
 </ul>
 <p>Beregning af omstødelsesperioden tager udgangspunkt i fristdagen</p>
 <p>En konkurs starter med, at konkursboet selv eller en kreditor indleverer begæring / konkursbegæring til skifteret.</p>
@@ -1344,14 +1362,14 @@ Ingen grænse
 <hr />
 <p><img src="img/omst1.png" />
 (Kilde; Trojka)</p>
-<div class="figure"><span id="fig:unnamed-chunk-1"></span>
-<div id="htmlwidget-106a122fbf5f691c832d" class="timevis html-widget" style="width:672px;height:259.2px;">
+<div class="figure"><span id="fig:unnamed-chunk-6"></span>
+<div id="htmlwidget-56f777902470cfa8da3b" class="timevis html-widget" style="width:672px;height:259.2px;">
 <div class="btn-group zoom-menu">
 <button type="button" class="btn btn-default btn-lg zoom-in" title="Zoom in">+</button>
 <button type="button" class="btn btn-default btn-lg zoom-out" title="Zoom out">-</button>
 </div>
 </div>
-<script type="application/json" data-for="htmlwidget-106a122fbf5f691c832d">{"x":{"items":[{"id":"1","content":"6 måneder fra 2019-08-02 til 2020-02-01","start":"2019-08-02","end":"2020-02-01"},{"id":"2","content":"Omstødelsesperiode<br>starter<br>2019-08-02","start":"2019-08-02"},{"id":"3","content":"Overdragelse<br>af gave<br>2019-11-01","start":"2019-11-01"},{"id":"4","content":"Fristdag<br>2019-08-01","start":"2020-02-01"},{"id":"5","content":"Konkursdekret<br>2019-08-22","start":"2020-02-25"}],"groups":null,"showZoom":true,"zoomFactor":0.5,"fit":true,"options":[],"height":null,"api":[{"method":"setOptions","options":{"editable":false}},{"method":"setSelection","itemId":"5"},{"method":"fitWindow","options":{"animation":true}}]},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-56f777902470cfa8da3b">{"x":{"items":[{"id":"1","content":"6 måneder fra 2019-02-01 til 2019-08-01","start":"2019-02-01","end":"2019-08-01"},{"id":"2","content":"Omstødelsesperiode<br>starter<br>2019-02-01","start":"2019-02-01"},{"id":"3","content":"Overdragelse<br>af gave<br>2019-05-01","start":"2019-05-01"},{"id":"4","content":"Fristdag<br>2019-08-01","start":"2019-08-01"},{"id":"5","content":"Konkursdekret<br>2019-08-22","start":"2019-08-22"}],"groups":null,"showZoom":true,"zoomFactor":0.5,"fit":true,"options":[],"height":null,"api":[{"method":"setOptions","options":{"editable":false}},{"method":"setSelection","itemId":"5"},{"method":"fitWindow","options":{"animation":true}}]},"evals":[],"jsHooks":[]}</script>
 <p class="caption">
 Figur 13.1: Omstødelsesperiode for gaver
 </p>
@@ -1359,14 +1377,14 @@ Figur 13.1: Omstødelsesperiode for gaver
 <hr />
 <p><img src="img/omst2.png" />
 (Kilde; Trojka)</p>
-<div class="figure"><span id="fig:unnamed-chunk-2"></span>
-<div id="htmlwidget-def8755ca75906ec909f" class="timevis html-widget" style="width:672px;height:192px;">
+<div class="figure"><span id="fig:unnamed-chunk-7"></span>
+<div id="htmlwidget-728ed6e9e7f9b03ac97a" class="timevis html-widget" style="width:672px;height:192px;">
 <div class="btn-group zoom-menu">
 <button type="button" class="btn btn-default btn-lg zoom-in" title="Zoom in">+</button>
 <button type="button" class="btn btn-default btn-lg zoom-out" title="Zoom out">-</button>
 </div>
 </div>
-<script type="application/json" data-for="htmlwidget-def8755ca75906ec909f">{"x":{"items":[{"id":"1","content":"Fristdag","start":"2019-08-02"},{"id":"2","content":"Skyldners (konkursboets hovedkrav på kreditor opstår","start":"2019-11-01"},{"id":"3","content":"Kreditors modkrav opstår","start":"2020-02-01"},{"id":"4","content":"Konkursdekret","start":"2020-02-25"}],"groups":null,"showZoom":true,"zoomFactor":0.5,"fit":true,"options":[],"height":null,"api":[{"method":"setOptions","options":{"editable":false}},{"method":"setSelection","itemId":"5"},{"method":"fitWindow","options":{"animation":true}}]},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-728ed6e9e7f9b03ac97a">{"x":{"items":[{"id":"1","content":"Fristdag","start":"2019-08-02"},{"id":"2","content":"Skyldners (konkursboets hovedkrav på kreditor opstår","start":"2019-11-01"},{"id":"3","content":"Kreditors modkrav opstår","start":"2020-02-01"},{"id":"4","content":"Konkursdekret","start":"2020-02-25"}],"groups":null,"showZoom":true,"zoomFactor":0.5,"fit":true,"options":[],"height":null,"api":[{"method":"setOptions","options":{"editable":false}},{"method":"setSelection","itemId":"5"},{"method":"fitWindow","options":{"animation":true}}]},"evals":[],"jsHooks":[]}</script>
 <p class="caption">
 Figur 13.2: Modregning før fristdag
 </p>
@@ -1374,14 +1392,14 @@ Figur 13.2: Modregning før fristdag
 <hr />
 <p><img src="img/omst3.png" />
 (KIlde; Trojka)</p>
-<div class="figure"><span id="fig:unnamed-chunk-3"></span>
-<div id="htmlwidget-d545c639c720bfbad5ea" class="timevis html-widget" style="width:672px;height:192px;">
+<div class="figure"><span id="fig:unnamed-chunk-8"></span>
+<div id="htmlwidget-f05d446e925cb0fb5140" class="timevis html-widget" style="width:672px;height:192px;">
 <div class="btn-group zoom-menu">
 <button type="button" class="btn btn-default btn-lg zoom-in" title="Zoom in">+</button>
 <button type="button" class="btn btn-default btn-lg zoom-out" title="Zoom out">-</button>
 </div>
 </div>
-<script type="application/json" data-for="htmlwidget-d545c639c720bfbad5ea">{"x":{"items":[{"id":"1","content":"Fristdag","start":"2019-08-02"},{"id":"2","content":"Skyldners (konkursboets hovedkrav på kreditor er opstået","start":"2019-11-01"},{"id":"3","content":"Kreditors modkrav er opstået","start":"2020-02-01"},{"id":"4","content":"Konkursdekret","start":"2020-02-25"}],"groups":null,"showZoom":true,"zoomFactor":0.5,"fit":true,"options":[],"height":null,"api":[{"method":"setOptions","options":{"editable":false}},{"method":"setSelection","itemId":"5"},{"method":"fitWindow","options":{"animation":true}}]},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-f05d446e925cb0fb5140">{"x":{"items":[{"id":"1","content":"Fristdag","start":"2019-08-02"},{"id":"2","content":"Skyldners (konkursboets hovedkrav på kreditor er opstået","start":"2019-11-01"},{"id":"3","content":"Kreditors modkrav er opstået","start":"2020-02-01"},{"id":"4","content":"Konkursdekret","start":"2020-02-25"}],"groups":null,"showZoom":true,"zoomFactor":0.5,"fit":true,"options":[],"height":null,"api":[{"method":"setOptions","options":{"editable":false}},{"method":"setSelection","itemId":"5"},{"method":"fitWindow","options":{"animation":true}}]},"evals":[],"jsHooks":[]}</script>
 <p class="caption">
 Figur 13.3: Modregning mellem fristdag og konkursdekret
 </p>
@@ -1389,14 +1407,14 @@ Figur 13.3: Modregning mellem fristdag og konkursdekret
 <hr />
 <p><img src="img/omst4.png" />
 (KIlde; Trojka)</p>
-<div class="figure"><span id="fig:unnamed-chunk-4"></span>
-<div id="htmlwidget-39ba84e357e4eab84b16" class="timevis html-widget" style="width:672px;height:240px;">
+<div class="figure"><span id="fig:unnamed-chunk-9"></span>
+<div id="htmlwidget-89594858b5278112df85" class="timevis html-widget" style="width:672px;height:240px;">
 <div class="btn-group zoom-menu">
 <button type="button" class="btn btn-default btn-lg zoom-in" title="Zoom in">+</button>
 <button type="button" class="btn btn-default btn-lg zoom-out" title="Zoom out">-</button>
 </div>
 </div>
-<script type="application/json" data-for="htmlwidget-39ba84e357e4eab84b16">{"x":{"items":[{"id":"1","content":"A får lavet køkken<br>Snedkers krav opstår","start":"2019-08-02"},{"id":"2","content":"Trælastens krav<br>på snedker opstår","start":"2019-11-01"},{"id":"3","content":"A køber<br>fordring","start":"2020-02-01"},{"id":"4","content":"3 måneder","start":"2020-02-01","end":"2020-02-25"},{"id":"5","content":"Fristdag","start":"2020-02-25"}],"groups":null,"showZoom":true,"zoomFactor":0.5,"fit":true,"options":[],"height":null,"api":[{"method":"setOptions","options":{"editable":false}},{"method":"setSelection","itemId":"5"},{"method":"fitWindow","options":{"animation":true}}]},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-89594858b5278112df85">{"x":{"items":[{"id":"1","content":"A får lavet køkken<br>Snedkers krav opstår","start":"2019-08-02"},{"id":"2","content":"Trælastens krav<br>på snedker opstår","start":"2019-11-01"},{"id":"3","content":"A køber<br>fordring","start":"2020-02-01"},{"id":"4","content":"3 måneder","start":"2020-02-01","end":"2020-02-25"},{"id":"5","content":"Fristdag","start":"2020-02-25"}],"groups":null,"showZoom":true,"zoomFactor":0.5,"fit":true,"options":[],"height":null,"api":[{"method":"setOptions","options":{"editable":false}},{"method":"setSelection","itemId":"5"},{"method":"fitWindow","options":{"animation":true}}]},"evals":[],"jsHooks":[]}</script>
 <p class="caption">
 Figur 13.4: Modregning mellem fristdag og konkursdekret
 </p>
@@ -1562,7 +1580,7 @@ Fiona, der havde været ansat som ejendomsmægler hos K3, blev i stedet ansat so
 <p>Med kravet om utilbørlighed er det markeret, at en kreditorbegunstigelse eller en forringende disposition kan savne det anstødelige præg, som er en betingelse for omstødelse.</p>
 <p>Ved denne bedømmelse må der dog også tages hensyn til, hvor kritisk skyldnerens situation er.</p>
 <p>Står konkursen for døren, indsnævres hans (og tredjemands) handlefrihed stærkt.</p>
-<p>Vides det, at konkursbegæring vil blive indgivet i løbet af de nærmeste dage, vil de fleste af de dispositioner, som efter begæringens indgivelse vil kunne rammes efter KL § 72, være omstødelige efter KL § 74.<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a></p>
+<p>Vides det, at konkursbegæring vil blive indgivet i løbet af de nærmeste dage, vil de fleste af de dispositioner, som efter begæringens indgivelse vil kunne rammes efter KL § 72, være omstødelige efter KL § 74.<a href="#fn15" class="footnote-ref" id="fnref15"><sup>15</sup></a></p>
 <hr />
 </div>
 </div>
@@ -1952,8 +1970,8 @@ Den studerende bør afveje udsigten til at modtage under 5% overfor håbet om at
 </div>
 <div class="footnotes">
 <hr />
-<ol start="1">
-<li id="fn1"><p>Jf. <strong>Lars Lindencrone Petersen</strong> elektroniske Karnovkommentar til konkursloven, note 414 KarnovGroup.<a href="insolvensret.html#fnref1" class="footnote-back">↩</a></p></li>
+<ol start="15">
+<li id="fn15"><p>Jf. <strong>Lars Lindencrone Petersen</strong> elektroniske Karnovkommentar til konkursloven, note 414 KarnovGroup.<a href="insolvensret.html#fnref15" class="footnote-back">↩</a></p></li>
 </ol>
 </div>
             </section>

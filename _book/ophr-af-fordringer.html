@@ -47,7 +47,20 @@
 
 
 
+<script src="libs/htmlwidgets-1.3/htmlwidgets.js"></script>
+<script src="libs/tippyjs-2.5.2/tippy.all.min.js"></script>
+<script src="libs/tippy-binding-0.0.1/tippy.js"></script>
+<link href="libs/vis-4.20.1/vis.css" rel="stylesheet" />
+<script src="libs/vis-4.20.1/vis.min.js"></script>
+<script src="libs/visNetwork-binding-2.0.7/visNetwork.js"></script>
 <script src="libs/kePrint-0.0.1/kePrint.js"></script>
+<link href="libs/timeline-0.4/timevis.css" rel="stylesheet" />
+<script src="libs/timevis-binding-0.5/timevis.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 
 
 
@@ -142,25 +155,40 @@
 <li class="chapter" data-level="3.3" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#eu-domstolen-og-dig-premium"><i class="fa fa-check"></i><b>3.3</b> <font color="red">EU-Domstolen og dig<sup> Premium </font></sup></a></li>
 <li class="chapter" data-level="3.4" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#sammenstning-premium-1"><i class="fa fa-check"></i><b>3.4</b> <font color="red">Sammensætning<sup> Premium </font></sup></a></li>
 <li class="chapter" data-level="3.5" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#de-forskellige-sagstyper-premium"><i class="fa fa-check"></i><b>3.5</b> <font color="red">De forskellige sagstyper<sup> Premium </font></sup></a><ul>
-<li class="chapter" data-level="3.5.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#annullationssgsmal-premium"><i class="fa fa-check"></i><b>3.5.1</b> <font color="red">Annullationssøgsmål<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.5.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#prjudicielle-forelggelser-premium"><i class="fa fa-check"></i><b>3.5.1</b> <font color="red">Præjudicielle forelæggelser<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.5.2" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#traktatbrudssgsmal-premium"><i class="fa fa-check"></i><b>3.5.2</b> <font color="red">Traktatbrudssøgsmål<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.5.3" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#annullationssgsmal-premium"><i class="fa fa-check"></i><b>3.5.3</b> <font color="red">Annullationssøgsmål<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.5.4" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#passivitetssgsmal-premium"><i class="fa fa-check"></i><b>3.5.4</b> <font color="red">Passivitetssøgsmål<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.5.5" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#appelsager-premium"><i class="fa fa-check"></i><b>3.5.5</b> <font color="red">Appelsager<sup> Premium </font></sup></a></li>
 </ul></li>
 <li class="chapter" data-level="3.6" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#sagsbehandling-premium"><i class="fa fa-check"></i><b>3.6</b> <font color="red">Sagsbehandling<sup> Premium </font></sup></a><ul>
 <li class="chapter" data-level="3.6.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#sagens-anlg-og-den-skriftlige-forhandling-premium"><i class="fa fa-check"></i><b>3.6.1</b> <font color="red">Sagens anlæg og den skriftlige forhandling<sup> Premium </font></sup></a></li>
 </ul></li>
-<li class="chapter" data-level="3.7" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#sagens-oplysning-premium"><i class="fa fa-check"></i><b>3.7</b> <font color="red">Sagens oplysning<sup> Premium </font></sup></a><ul>
-<li class="chapter" data-level="3.7.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#offentligt-retsmde-og-generaladvokatens-forslag-til-afgrelse-premium"><i class="fa fa-check"></i><b>3.7.1</b> <font color="red">Offentligt retsmøde og generaladvokatens forslag til afgørelse<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.7" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#prjudicielle-forelggelser-premium-1"><i class="fa fa-check"></i><b>3.7</b> <font color="red">Præjudicielle forelæggelser<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.8" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#direkte-sgsmal-og-appelsager-premium"><i class="fa fa-check"></i><b>3.8</b> <font color="red">Direkte søgsmål og appelsager<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.9" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#sagens-oplysning-premium"><i class="fa fa-check"></i><b>3.9</b> <font color="red">Sagens oplysning<sup> Premium </font></sup></a><ul>
+<li class="chapter" data-level="3.9.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#offentligt-retsmde-og-generaladvokatens-forslag-til-afgrelse-premium"><i class="fa fa-check"></i><b>3.9.1</b> <font color="red">Offentligt retsmøde og generaladvokatens forslag til afgørelse<sup> Premium </font></sup></a></li>
 </ul></li>
-<li class="chapter" data-level="3.8" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#dommene-premium"><i class="fa fa-check"></i><b>3.8</b> <font color="red">Dommene<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="3.9" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#srlige-rettergangsformer-premium"><i class="fa fa-check"></i><b>3.9</b> <font color="red">Særlige rettergangsformer<sup> Premium </font></sup></a><ul>
-<li class="chapter" data-level="3.9.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#sagsomkostninger-premium"><i class="fa fa-check"></i><b>3.9.1</b> <font color="red">Sagsomkostninger<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="3.9.2" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#sprogordning-premium"><i class="fa fa-check"></i><b>3.9.2</b> <font color="red">Sprogordning<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.10" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#dommene-premium"><i class="fa fa-check"></i><b>3.10</b> <font color="red">Dommene<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.11" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#srlige-rettergangsformer-premium"><i class="fa fa-check"></i><b>3.11</b> <font color="red">Særlige rettergangsformer<sup> Premium </font></sup></a><ul>
+<li class="chapter" data-level="3.11.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#den-forenklede-procedure-premium"><i class="fa fa-check"></i><b>3.11.1</b> <font color="red">Den forenklede procedure<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.11.2" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#den-fremskyndede-procedure-premium"><i class="fa fa-check"></i><b>3.11.2</b> <font color="red">Den fremskyndede procedure<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.11.3" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#den-prjudicielle-hasteprocedure-ppu-premium"><i class="fa fa-check"></i><b>3.11.3</b> <font color="red">Den præjudicielle hasteprocedure (PPU)<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.11.4" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#begring-om-forelbige-forholdsregler-premium"><i class="fa fa-check"></i><b>3.11.4</b> <font color="red">Begæring om foreløbige forholdsregler<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.11.5" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#sagsomkostninger-premium"><i class="fa fa-check"></i><b>3.11.5</b> <font color="red">Sagsomkostninger<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.11.6" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#sprogordning-premium"><i class="fa fa-check"></i><b>3.11.6</b> <font color="red">Sprogordning<sup> Premium </font></sup></a></li>
 </ul></li>
-<li class="chapter" data-level="3.10" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#oversigt-over-rettergangsmaden-premium"><i class="fa fa-check"></i><b>3.10</b> <font color="red">Oversigt over rettergangsmåden<sup> Premium </font></sup></a><ul>
-<li class="chapter" data-level="3.10.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#domstolen-i-den-europiske-unions-retsorden-premium"><i class="fa fa-check"></i><b>3.10.1</b> <font color="red">Domstolen i Den Europæiske Unions retsorden<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.12" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#oversigt-over-rettergangsmaden-premium"><i class="fa fa-check"></i><b>3.12</b> <font color="red">Oversigt over rettergangsmåden<sup> Premium </font></sup></a><ul>
+<li class="chapter" data-level="3.12.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#domstolen-i-den-europiske-unions-retsorden-premium"><i class="fa fa-check"></i><b>3.12.1</b> <font color="red">Domstolen i Den Europæiske Unions retsorden<sup> Premium </font></sup></a></li>
 </ul></li>
-<li class="chapter" data-level="3.11" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#grundstninger-fastslaet-i-retspraksis-premium"><i class="fa fa-check"></i><b>3.11</b> <font color="red">Grundsætninger fastslået i retspraksis<sup> Premium </font></sup></a><ul>
-<li class="chapter" data-level="3.11.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#domstolens-rolle-i-unionsborgerens-liv-premium"><i class="fa fa-check"></i><b>3.11.1</b> <font color="red">Domstolens rolle i unionsborgerens liv<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="3.11.2" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#unionsborgerskab-premium"><i class="fa fa-check"></i><b>3.11.2</b> <font color="red">Unionsborgerskab<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.13" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#grundstninger-fastslaet-i-retspraksis-premium"><i class="fa fa-check"></i><b>3.13</b> <font color="red">Grundsætninger fastslået i retspraksis<sup> Premium </font></sup></a><ul>
+<li class="chapter" data-level="3.13.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#domstolens-rolle-i-unionsborgerens-liv-premium"><i class="fa fa-check"></i><b>3.13.1</b> <font color="red">Domstolens rolle i unionsborgerens liv<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.13.2" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#frie-varebevgelser-premium"><i class="fa fa-check"></i><b>3.13.2</b> <font color="red">Frie varebevægelser<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.13.3" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#fri-bevgelighed-for-personer-premium"><i class="fa fa-check"></i><b>3.13.3</b> <font color="red">Fri bevægelighed for personer<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.13.4" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#fri-udveksling-af-tjenesteydelser-premium"><i class="fa fa-check"></i><b>3.13.4</b> <font color="red">Fri udveksling af tjenesteydelser<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.13.5" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#ligebehandling-og-sociale-rettigheder-premium"><i class="fa fa-check"></i><b>3.13.5</b> <font color="red">Ligebehandling og sociale rettigheder<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.13.6" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#grundlggende-rettigheder-premium"><i class="fa fa-check"></i><b>3.13.6</b> <font color="red">Grundlæggende rettigheder<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.13.7" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#unionsborgerskab-premium"><i class="fa fa-check"></i><b>3.13.7</b> <font color="red">Unionsborgerskab<sup> Premium </font></sup></a></li>
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="4" data-path="aftaleret.html"><a href="aftaleret.html"><i class="fa fa-check"></i><b>4</b> Aftaleret</a><ul>
@@ -429,11 +457,12 @@
 <li class="chapter" data-level="13.5.6" data-path="insolvensret.html"><a href="insolvensret.html#konkursmassen"><i class="fa fa-check"></i><b>13.5.6</b> Konkursmassen</a></li>
 <li class="chapter" data-level="13.5.7" data-path="insolvensret.html"><a href="insolvensret.html#konkursordenen"><i class="fa fa-check"></i><b>13.5.7</b> Konkursordenen</a></li>
 <li class="chapter" data-level="13.5.8" data-path="insolvensret.html"><a href="insolvensret.html#udlodning-af-dividende"><i class="fa fa-check"></i><b>13.5.8</b> Udlodning af dividende</a></li>
-<li class="chapter" data-level="13.5.9" data-path="insolvensret.html"><a href="insolvensret.html#hvad-er-en-konkurskarantne"><i class="fa fa-check"></i><b>13.5.9</b> Hvad er en konkurskarantæne?</a></li>
-<li class="chapter" data-level="13.5.10" data-path="insolvensret.html"><a href="insolvensret.html#overtrdelse-af-konkurskarantne"><i class="fa fa-check"></i><b>13.5.10</b> Overtrædelse af konkurskarantæne</a></li>
-<li class="chapter" data-level="13.5.11" data-path="insolvensret.html"><a href="insolvensret.html#konkurskarantneregistret"><i class="fa fa-check"></i><b>13.5.11</b> Konkurskarantæneregistret</a></li>
-<li class="chapter" data-level="13.5.12" data-path="insolvensret.html"><a href="insolvensret.html#omstdelse"><i class="fa fa-check"></i><b>13.5.12</b> Omstødelse</a></li>
-<li class="chapter" data-level="13.5.13" data-path="insolvensret.html"><a href="insolvensret.html#eksamensopgavest-i-konkurs-og-virksomhedsformer-mv."><i class="fa fa-check"></i><b>13.5.13</b> Eksamensopgavesæt i konkurs og virksomhedsformer mv.</a></li>
+<li class="chapter" data-level="13.5.9" data-path="insolvensret.html"><a href="insolvensret.html#konkurskarantne"><i class="fa fa-check"></i><b>13.5.9</b> Konkurskarantæne</a></li>
+<li class="chapter" data-level="13.5.10" data-path="insolvensret.html"><a href="insolvensret.html#hvad-er-en-konkurskarantne"><i class="fa fa-check"></i><b>13.5.10</b> Hvad er en konkurskarantæne?</a></li>
+<li class="chapter" data-level="13.5.11" data-path="insolvensret.html"><a href="insolvensret.html#overtrdelse-af-konkurskarantne"><i class="fa fa-check"></i><b>13.5.11</b> Overtrædelse af konkurskarantæne</a></li>
+<li class="chapter" data-level="13.5.12" data-path="insolvensret.html"><a href="insolvensret.html#konkurskarantneregistret"><i class="fa fa-check"></i><b>13.5.12</b> Konkurskarantæneregistret</a></li>
+<li class="chapter" data-level="13.5.13" data-path="insolvensret.html"><a href="insolvensret.html#omstdelse"><i class="fa fa-check"></i><b>13.5.13</b> Omstødelse</a></li>
+<li class="chapter" data-level="13.5.14" data-path="insolvensret.html"><a href="insolvensret.html#eksamensopgavest-i-konkurs-og-virksomhedsformer-mv."><i class="fa fa-check"></i><b>13.5.14</b> Eksamensopgavesæt i konkurs og virksomhedsformer mv.</a></li>
 </ul></li>
 <li class="chapter" data-level="13.6" data-path="insolvensret.html"><a href="insolvensret.html#rekonstruktion"><i class="fa fa-check"></i><b>13.6</b> Rekonstruktion</a><ul>
 <li class="chapter" data-level="13.6.1" data-path="insolvensret.html"><a href="insolvensret.html#hvad-er-en-rekonstruktion"><i class="fa fa-check"></i><b>13.6.1</b> Hvad er en rekonstruktion?</a></li>
@@ -707,11 +736,13 @@
 <li class="chapter" data-level="23.4.2" data-path="familieret.html"><a href="familieret.html#beregn-formue"><i class="fa fa-check"></i><b>23.4.2</b> Beregn formue</a></li>
 <li class="chapter" data-level="23.4.3" data-path="familieret.html"><a href="familieret.html#fravigelse-af-ligedelingen"><i class="fa fa-check"></i><b>23.4.3</b> Fravigelse af ligedelingen</a></li>
 <li class="chapter" data-level="23.4.4" data-path="familieret.html"><a href="familieret.html#aktiver-der-ikke-indgar-i-formuedelingen"><i class="fa fa-check"></i><b>23.4.4</b> Aktiver, der ikke indgår i formuedelingen</a></li>
-<li class="chapter" data-level="23.4.5" data-path="familieret.html"><a href="familieret.html#regulering-og-misbrugskrav-efter-loven"><i class="fa fa-check"></i><b>23.4.5</b> Regulering og misbrugskrav efter loven</a></li>
-<li class="chapter" data-level="23.4.6" data-path="familieret.html"><a href="familieret.html#pensionskompensation"><i class="fa fa-check"></i><b>23.4.6</b> Pensionskompensation</a></li>
-<li class="chapter" data-level="23.4.7" data-path="familieret.html"><a href="familieret.html#rimelighedskompensation"><i class="fa fa-check"></i><b>23.4.7</b> Rimelighedskompensation</a></li>
-<li class="chapter" data-level="23.4.8" data-path="familieret.html"><a href="familieret.html#udtagelse-af-aktiver"><i class="fa fa-check"></i><b>23.4.8</b> Udtagelse af aktiver</a></li>
-<li class="chapter" data-level="23.4.9" data-path="familieret.html"><a href="familieret.html#formuedeling-ved-en-gteflles-dd"><i class="fa fa-check"></i><b>23.4.9</b> Formuedeling ved en ægtefælles død</a></li>
+</ul></li>
+<li class="chapter" data-level="23.5" data-path="familieret.html"><a href="familieret.html#derimod-omtales-muligheden-for-kompensation-efter-l-43-om-medvirken-ikke-i-motiverne."><i class="fa fa-check"></i><b>23.5</b> Derimod omtales muligheden for kompensation efter ÆL § 43 om medvirken ikke i motiverne.</a><ul>
+<li class="chapter" data-level="23.5.1" data-path="familieret.html"><a href="familieret.html#regulering-og-misbrugskrav-efter-loven"><i class="fa fa-check"></i><b>23.5.1</b> Regulering og misbrugskrav efter loven</a></li>
+<li class="chapter" data-level="23.5.2" data-path="familieret.html"><a href="familieret.html#pensionskompensation"><i class="fa fa-check"></i><b>23.5.2</b> Pensionskompensation</a></li>
+<li class="chapter" data-level="23.5.3" data-path="familieret.html"><a href="familieret.html#rimelighedskompensation"><i class="fa fa-check"></i><b>23.5.3</b> Rimelighedskompensation</a></li>
+<li class="chapter" data-level="23.5.4" data-path="familieret.html"><a href="familieret.html#udtagelse-af-aktiver"><i class="fa fa-check"></i><b>23.5.4</b> Udtagelse af aktiver</a></li>
+<li class="chapter" data-level="23.5.5" data-path="familieret.html"><a href="familieret.html#formuedeling-ved-en-gteflles-dd"><i class="fa fa-check"></i><b>23.5.5</b> Formuedeling ved en ægtefælles død</a></li>
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="24" data-path="arveretten.html"><a href="arveretten.html"><i class="fa fa-check"></i><b>24</b> Arveretten</a><ul>
@@ -932,7 +963,7 @@ Han kan derfor ikke afvise erklæringen, og den har virkning, så snart den er k
 <p>Denne regel er dog suppleret med en lang række andre frister og udsættelsesmuligheder, der gælder for særlige situationer og særlige retsforhold.</p>
 <p>Alle fristerne i forældelsesloven skal som hovedregel regnes fra det tidligste tidspunkt, hvor fordringshaveren kunne kræve fordringen opfyldt.</p>
 <p>Det følger af forældelseslovens § 2, som der dog også er undtagelser til.</p>
-<p>Forældelsesfrister (se tabel @ref(tab:ophør1))</p>
+<p>Forældelsesfrister (se tabellen nedenfor)</p>
 <table class="table table-responsive table-bordered table-striped" style="font-size: 10px; margin-left: auto; margin-right: auto;">
 <caption style="font-size: initial !important;">
 <span id="tab:ophør1">Tabel 17.1: </span>Forældelse 3 og 10 år
