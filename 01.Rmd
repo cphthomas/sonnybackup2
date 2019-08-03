@@ -582,8 +582,8 @@ nodes <- data.frame(id = 1:8,
                     shape = c("box"), 
                     level = c(1,2,2,4,4,3,4,1),
                     label = c(" Højesteret ","Vestre \n Landsret","Østre \n Landsret","Sø og \n Handelsretten","Grønlandsdomstolen","Byretterne","Retten\npå Færøerne", " Procesbevillingsnævnet \n Den særlige klageret \n Dommerudnævnelsesrådet \n Bibeskæftigelsesnævnet"),
-                    font.size = c(25,18,18,rep(12,6)))
-edges <- data.frame(from = c(1,1,1,1,2,2,3,3,3), to = c(2,3,4,6,4,5,4,7,8),arrows = c(""),length = rep(100,9))
+                    font.size = c(25,18,18,rep(12,5)))
+edges <- data.frame(from = c(1,1,1,1,2,2,3,3), to = c(2,3,4,6,4,5,4,7),arrows = c(""),length = rep(100,8))
 
 visNetwork(nodes, edges,  width = "100%",avoidOverlap=2) %>% 
   visInteraction(dragNodes = TRUE, 
