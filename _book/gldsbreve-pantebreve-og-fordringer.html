@@ -24,7 +24,7 @@
 <meta name="author" content="Sonny Kristoffersen" />
 
 
-<meta name="date" content="2019-08-03" />
+<meta name="date" content="2019-08-04" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -63,6 +63,68 @@
 <script src="libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 
 
+<style type="text/css">
+a.sourceLine { display: inline-block; line-height: 1.25; }
+a.sourceLine { pointer-events: none; color: inherit; text-decoration: inherit; }
+a.sourceLine:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode { white-space: pre; position: relative; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+code.sourceCode { white-space: pre-wrap; }
+a.sourceLine { text-indent: -1em; padding-left: 1em; }
+}
+pre.numberSource a.sourceLine
+  { position: relative; left: -4em; }
+pre.numberSource a.sourceLine::before
+  { content: attr(data-line-number);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; pointer-events: all; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {  }
+@media screen {
+a.sourceLine::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 </head>
@@ -829,8 +891,13 @@
 <p>Den kan fx bestå i, at debitor skylder en arbejdsydelse, eller i at der skal leveres en ting.</p>
 <p>Et gaveløfte betyder, at man skal give den lovede gave, som fx kan være en ting.</p>
 <hr />
-<p><img src="img/ford1.png" />
-(Kilde; Trojka) fig. 16.1.</p>
+<div class="figure"><span id="fig:bankkrav"></span>
+<div id="htmlwidget-07aa3bfb7b7197baf01a" style="width:100%;height:288px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-07aa3bfb7b7197baf01a">{"x":{"nodes":{"id":[1,2],"shape":["box","box"],"label":["Skyldner\nKunde","Kreditor\nBank"],"font.size":[25,25]},"edges":{"from":[1,2],"to":[2,1],"arrows":["from","from"],"length":[100,100],"font.size":[20,20],"label":["Lån","Afdrag og renter"],"smooth":[true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":300,"direction":"LR"}},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
+<p class="caption">
+Figur 16.1: Kreditor (banken) har en fordring på skyldneren (kunden), fordringen betales tilbage med afdrag og renter
+</p>
+</div>
 <hr />
 <p><em>Bemærk</em></p>
 <p>I relation til retsplejelovens regler er en fordring et krav på betaling af en pengeydelse.</p>
@@ -965,8 +1032,13 @@
 (netbank, mobiltelefon mm.) er reguleret i betalingsloven (BTL)</p>
 <p>En betalingstransaktion med kort går gennem betalingsmodtagers bank og kortholders bank</p>
 <hr />
-<p><img src="img/ford2.png" />
-(Kilde; Trojka) Fig. 16.2.</p>
+<div class="figure"><span id="fig:transaktion"></span>
+<div id="htmlwidget-a4cc1b60cc42e128845e" style="width:100%;height:288px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-a4cc1b60cc42e128845e">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"label":["Betaler","Udbyder\nKøbers bank","Udbyder\nSælgers bank","Betalingsmodtager\nSælger cafe"],"font.size":[25,25,25,25],"level":[2,1,1,2]},"edges":{"from":[1,2,3],"to":[2,3,4],"arrows":["to","to","to"],"length":[100,400,100],"font.size":[20,20,20],"label":["","Nets",""],"smooth":[false,false,false]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":200,"direction":"UD"}},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
+<p class="caption">
+Figur 16.2: Transaktion, køber betaler sælger en cafe med dankort
+</p>
+</div>
 <hr />
 <p>Bliver kortet brugt uberettiget skelnes mellem:</p>
 <ul>
@@ -1168,10 +1240,10 @@ En pige låner en ven sit kort og pinkode, til trods for denne tidligere har mis
 <p>*<strong>Tinglyste simple pantebreve</strong> – typisk pantebrev med pant i andet end fast ejendom</p>
 <hr />
 <div class="figure"><span id="fig:network14"></span>
-<div id="htmlwidget-441d69f0230ed87f5bc3" style="width:100%;height:500px;" class="visNetwork html-widget"></div>
-<script type="application/json" data-for="htmlwidget-441d69f0230ed87f5bc3">{"x":{"nodes":{"id":[1,2,3,4,5,6,7],"level":[1,2,2,3,3,3,3],"shape":["box","box","box","box","box","box","box"],"label":["gældsbrev?\n er det underskrevet, ensidig,\nubetinget, skyldnererklæring","pantebrev?\ngælden er sikret ved pant i et aktiv","simpel fordring","omsætningsgældsbrev\n en af de 4 kategorier\nfra GBL §11 stk. 2","simpelt gældsbrev\n ikke en af de 4 kategorier\nfra GBL §11 stk. 2","simpelt pantebrev\npant i andet end\nfast ejendom","negotiabelt pantebrev\npant i fast ejendom"],"font.size":[8,8,8,8,8,8,8]},"edges":{"from":[1,1,2,2,2,2],"to":[2,3,4,5,6,7],"label":["ja","nej","nej","nej","ja","ja"],"color.color":["lightgrey","lightgrey","lightgrey","lightgrey","lightgrey","lightgrey"],"color.highlight":["yellow","yellow","yellow","yellow","yellow","yellow"],"font.size":[8,8,8,8,8,8]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":true}},"groups":null,"width":"100%","height":"500px","idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-293f6f4bd247cd53c71a" style="width:100%;height:500px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-293f6f4bd247cd53c71a">{"x":{"nodes":{"id":[1,2,3,4,5,6,7],"level":[1,2,2,3,3,3,3],"shape":["box","box","box","box","box","box","box"],"label":["gældsbrev?\n er det underskrevet, ensidig,\nubetinget, skyldnererklæring","pantebrev?\ngælden er sikret ved pant i et aktiv","simpel fordring","omsætningsgældsbrev\n en af de 4 kategorier\nfra GBL §11 stk. 2","simpelt gældsbrev\n ikke en af de 4 kategorier\nfra GBL §11 stk. 2","simpelt pantebrev\npant i andet end\nfast ejendom","negotiabelt pantebrev\npant i fast ejendom"],"font.size":[8,8,8,8,8,8,8]},"edges":{"from":[1,1,2,2,2,2],"to":[2,3,4,5,6,7],"label":["ja","nej","nej","nej","ja","ja"],"color.color":["lightgrey","lightgrey","lightgrey","lightgrey","lightgrey","lightgrey"],"color.highlight":["yellow","yellow","yellow","yellow","yellow","yellow"],"font.size":[8,8,8,8,8,8]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":true}},"groups":null,"width":"100%","height":"500px","idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
 <p class="caption">
-Figur 16.1: Typer af pengekrav og fordringer
+Figur 16.3: Typer af pengekrav og fordringer
 </p>
 </div>
 <hr />
@@ -1417,10 +1489,10 @@ Figur 16.1: Typer af pengekrav og fordringer
 <p><strong>Begreberne vindikation og ekstinktion skal anvendes</strong></p>
 <hr />
 <div class="figure"><span id="fig:fordring1"></span>
-<div id="htmlwidget-df5cc3bc2da7ada17535" style="width:100%;height:480px;" class="visNetwork html-widget"></div>
-<script type="application/json" data-for="htmlwidget-df5cc3bc2da7ada17535">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,3,4],"label":["Debitor\nSkyldner","Kreditor\nOverdrager","Erhverver","Erhverver"],"font.size":[15,15,15,15]},"edges":{"from":[1,2,3],"to":[2,3,4],"arrows":["to","to","to"],"label":["Kreditor har en fordring på debitor","Kreditor overdrager til erhverver 1","Erhverver 1 overdrager til erhverver 2"],"shadow":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-8f6e85d5e65bc8bc3bcc" style="width:100%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-8f6e85d5e65bc8bc3bcc">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,3,4],"label":["Debitor\nSkyldner","Kreditor\nOverdrager","Erhverver","Erhverver"],"font.size":[15,15,15,15]},"edges":{"from":[1,2,3],"to":[2,3,4],"arrows":["to","to","to"],"label":["Kreditor har en fordring på debitor","Kreditor overdrager til erhverver 1","Erhverver 1 overdrager til erhverver 2"],"shadow":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
 <p class="caption">
-Figur 16.2: Skyldner, kreditor og senere erhverver eller erhververe
+Figur 16.4: Skyldner, kreditor og senere erhverver eller erhververe
 </p>
 </div>
 <hr />
@@ -1442,10 +1514,10 @@ Figur 16.2: Skyldner, kreditor og senere erhverver eller erhververe
 <h3><span class="header-section-number">16.9.1</span> Skyldners indsigelser over for den oprindelige kreditor</h3>
 <p><em>Lovbekendtgørelse nr. 333 af 31. marts 2014 om gældsbreve</em></p>
 <div class="figure"><span id="fig:fordring2"></span>
-<div id="htmlwidget-b5e5f25839c3b78bfccd" style="width:100%;height:480px;" class="visNetwork html-widget"></div>
-<script type="application/json" data-for="htmlwidget-b5e5f25839c3b78bfccd">{"x":{"nodes":{"id":[1,2],"shape":["box","box"],"level":[1,2],"label":["debitor/\nskyldner","kreditor/\nsælger"],"font.size":[15,15]},"edges":{"from":[1],"to":[2],"arrows":["to"],"label":["debitor har en indsigelse overfor kreditor"],"shadow":[true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-b05e30b3a75056b1f20d" style="width:100%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-b05e30b3a75056b1f20d">{"x":{"nodes":{"id":[1,2],"shape":["box","box"],"level":[1,2],"label":["debitor/\nskyldner","kreditor/\nsælger"],"font.size":[15,15]},"edges":{"from":[1],"to":[2],"arrows":["to"],"label":["debitor har en indsigelse overfor kreditor"],"shadow":[true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
 <p class="caption">
-Figur 16.3: indsigelse over gældsforhold
+Figur 16.5: indsigelse over gældsforhold
 </p>
 </div>
 <hr />
@@ -1469,10 +1541,10 @@ Figur 16.3: indsigelse over gældsforhold
 <p>Hvis kreditor overdrager fordringen på debitor til en erhverver bliver det juridisk karakteriseret som et <strong>“efterfølgende trepartsforhold”:</strong></p>
 <hr />
 <div class="figure"><span id="fig:fordring3"></span>
-<div id="htmlwidget-de7ff1df235a626d46a4" style="width:100%;height:480px;" class="visNetwork html-widget"></div>
-<script type="application/json" data-for="htmlwidget-de7ff1df235a626d46a4">{"x":{"nodes":{"id":[1,2,3],"shape":["box","box","box"],"level":[1,2,2],"label":["debitor/\nskyldner","Kreditor/\nOverdrager","erhverver"],"font.size":[15,15,15]},"edges":{"from":[1,2,1],"to":[2,3,3],"arrows":["to","to","to"],"label":["1. kreditor har\nen fordring på debitor","2. kreditor overdrager\n fordringen til erhververen","3. debitor skal nu\nbetale erhververen"],"length":[100,300,100],"shadow":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-e13efb32199683fee4a6" style="width:100%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-e13efb32199683fee4a6">{"x":{"nodes":{"id":[1,2,3],"shape":["box","box","box"],"level":[1,2,2],"label":["debitor/\nskyldner","Kreditor/\nOverdrager","erhverver"],"font.size":[15,15,15]},"edges":{"from":[1,2,1],"to":[2,3,3],"arrows":["to","to","to"],"label":["1. kreditor har\nen fordring på debitor","2. kreditor overdrager\n fordringen til erhververen","3. debitor skal nu\nbetale erhververen"],"length":[100,300,100],"shadow":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
 <p class="caption">
-Figur 16.4: Kreditor overdrager fordring til erhverver
+Figur 16.6: Kreditor overdrager fordring til erhverver
 </p>
 </div>
 <hr />
@@ -1492,10 +1564,10 @@ Figur 16.4: Kreditor overdrager fordring til erhverver
 <p>Fx kan købekontrakt med gyldigt ejendomsforbehold sælges til en anden kreditor (erhverver):</p>
 <hr />
 <div class="figure"><span id="fig:fordring4"></span>
-<div id="htmlwidget-14545cb0ab0fb90179f8" style="width:100%;height:480px;" class="visNetwork html-widget"></div>
-<script type="application/json" data-for="htmlwidget-14545cb0ab0fb90179f8">{"x":{"nodes":{"id":[1,2,3],"shape":["box","box","box"],"level":[1,2,2],"label":["bilkøber/\ndebitor/\nskyldner","bilsælger/\nkreditor/\noverdrager","finansieringsselskab"],"font.size":[10,10,10]},"edges":{"from":[1,2,1,2,3],"to":[2,3,3,1,2],"arrows":["to","to","to","to","to"],"font.size":[10,10,10,10,10],"label":["1. bilsalg på\nkøbekontrakt","2. bilsælger\nsælger\nkøbekontrakt\ntil finansieringsselskab","3. debitor skal nu\nbetale\n til finansieringsselskabet","",""],"length":[300,300,300,300,300],"shadow":[true,true,true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-2e3fbd5140df7ec60d73" style="width:100%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-2e3fbd5140df7ec60d73">{"x":{"nodes":{"id":[1,2,3],"shape":["box","box","box"],"level":[1,2,2],"label":["bilkøber/\ndebitor/\nskyldner","bilsælger/\nkreditor/\noverdrager","finansieringsselskab"],"font.size":[10,10,10]},"edges":{"from":[1,2,1,2,3],"to":[2,3,3,1,2],"arrows":["to","to","to","to","to"],"font.size":[10,10,10,10,10],"label":["1. bilsalg på\nkøbekontrakt","2. bilsælger\nsælger\nkøbekontrakt\ntil finansieringsselskab","3. debitor skal nu\nbetale\n til finansieringsselskabet","",""],"length":[300,300,300,300,300],"shadow":[true,true,true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
 <p class="caption">
-Figur 16.5: Salg af købekontrakt fx. bilkøb
+Figur 16.7: Salg af købekontrakt fx. bilkøb
 </p>
 </div>
 <hr />
@@ -1570,10 +1642,10 @@ Figur 16.5: Salg af købekontrakt fx. bilkøb
 <p><strong>Fakturabelåning er ofte overdragelse af enkelte (større) fordringer til en bank</strong>:</p>
 <hr />
 <div class="figure"><span id="fig:fordring5"></span>
-<div id="htmlwidget-18eeabce4b038d0cd173" style="width:100%;height:480px;" class="visNetwork html-widget"></div>
-<script type="application/json" data-for="htmlwidget-18eeabce4b038d0cd173">{"x":{"nodes":{"id":[1,2,3],"shape":["box","box","box"],"level":[1,2,2],"label":["rederi/\ndebitor/\nskyldner","skibsværft/\nkreditor\noverdrager","bank"],"font.size":[10,10,10]},"edges":{"from":[1,2,1,2,3],"to":[2,3,3,1,2],"arrows":["to","to","to","to","to"],"font.size":[10,10,10,10,10],"label":["1. skibsværft sælger\nskib og udsteder\nfaktura","2. skibsværft\noverdrager\nfakturaen\n på skibet til banken","3. rederiet skal nu\nbetale\n til banken","",""],"length":[300,300,300,300,300],"shadow":[true,true,true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-c5a807c7355ff2462336" style="width:100%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-c5a807c7355ff2462336">{"x":{"nodes":{"id":[1,2,3],"shape":["box","box","box"],"level":[1,2,2],"label":["rederi/\ndebitor/\nskyldner","skibsværft/\nkreditor\noverdrager","bank"],"font.size":[10,10,10]},"edges":{"from":[1,2,1,2,3],"to":[2,3,3,1,2],"arrows":["to","to","to","to","to"],"font.size":[10,10,10,10,10],"label":["1. skibsværft sælger\nskib og udsteder\nfaktura","2. skibsværft\noverdrager\nfakturaen\n på skibet til banken","3. rederiet skal nu\nbetale\n til banken","",""],"length":[300,300,300,300,300],"shadow":[true,true,true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
 <p class="caption">
-Figur 16.6: Fakturabelåning bank får sikkerhed i udestående faktura
+Figur 16.8: Fakturabelåning bank får sikkerhed i udestående faktura
 </p>
 </div>
 <hr />
@@ -1582,10 +1654,10 @@ Figur 16.6: Fakturabelåning bank får sikkerhed i udestående faktura
 <p>Aftalen kan enten gå ud på, at factoringselskabet yder virksomheden et lån med sikkerhed i de nævnte tilgodehavender, såkaldt fakturabelåning, eller at factoringselskabet køber virksomhedens debitorportefølje og betaler et beløb til fuld og endelig afgørelse.</p>
 <hr />
 <div class="figure"><span id="fig:fordring6"></span>
-<div id="htmlwidget-cd8ab694ac51e0358c5a" style="width:100%;height:480px;" class="visNetwork html-widget"></div>
-<script type="application/json" data-for="htmlwidget-cd8ab694ac51e0358c5a">{"x":{"nodes":{"id":[1,2,3,4,5,6],"shape":["box","box","box","box","box","box"],"level":[1,1,1,1,2,2],"label":["debitor\nkøber varer\naf virksomhed","debitor\nkøber varer\naf virksomhed","debitor\nkøber varer\naf virksomhed","debitor\nkøber varer\naf virksomhed","virksomhed\nsælger varer","factoringselskab\nerhverver fordring\nog modtager betaling"],"font.size":[12,12,12,12,12,12]},"edges":{"from":[1,2,3,4,5,1,2,3,4],"to":[5,5,5,5,6,6,6,6,6],"arrows":["from","from","from","from","to","to","to","to","to"],"font.size":[10,10,10,10,10,10,10,10,10],"label":["1. varesalg","1. varesalg","1. varesalg","1. varesalg","2. overdragelse\naf fordring\nfrigiver livkviditet\ntil virksomheden","\n\n\n      3. betaling","\n\n\n    3. betaling","3. betaling","3. betaling"],"length":[100,100,100,100,600,100,100,100,100],"shadow":[true,true,true,true,true,true,true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":200,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-14f58132fa9910ee262e" style="width:100%;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-14f58132fa9910ee262e">{"x":{"nodes":{"id":[1,2,3,4,5,6],"shape":["box","box","box","box","box","box"],"level":[1,1,1,1,2,2],"label":["debitor\nkøber varer\naf virksomhed","debitor\nkøber varer\naf virksomhed","debitor\nkøber varer\naf virksomhed","debitor\nkøber varer\naf virksomhed","virksomhed\nsælger varer","factoringselskab\nerhverver fordring\nog modtager betaling"],"font.size":[12,12,12,12,12,12]},"edges":{"from":[1,2,3,4,5,1,2,3,4],"to":[5,5,5,5,6,6,6,6,6],"arrows":["from","from","from","from","to","to","to","to","to"],"font.size":[10,10,10,10,10,10,10,10,10],"label":["1. varesalg","1. varesalg","1. varesalg","1. varesalg","2. overdragelse\naf fordring\nfrigiver livkviditet\ntil virksomheden","\n\n\n      3. betaling","\n\n\n    3. betaling","3. betaling","3. betaling"],"length":[100,100,100,100,600,100,100,100,100],"shadow":[true,true,true,true,true,true,true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":200,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
 <p class="caption">
-Figur 16.7: Factoringselskab køber udestående fakturaer
+Figur 16.9: Factoringselskab køber udestående fakturaer
 </p>
 </div>
 <hr />
@@ -1611,13 +1683,13 @@ Figur 16.7: Factoringselskab køber udestående fakturaer
 <hr />
 <p>Overdrager og erhverver skal denuntiere (give meddelelse) til skyldner, GBL § 31</p>
 <hr />
-<p>Betaling til erhverver er med frigørende virkning medmindre der er en stærk ugyldighedsgrund mellem overdrager og erhverver, jf. GBL § 30 (se figur <a href="gldsbreve-pantebreve-og-fordringer.html#fig:fordring7">16.8</a>)</p>
+<p>Betaling til erhverver er med frigørende virkning medmindre der er en stærk ugyldighedsgrund mellem overdrager og erhverver, jf. GBL § 30 (se figur <a href="gldsbreve-pantebreve-og-fordringer.html#fig:fordring7">16.10</a>)</p>
 <hr />
 <div class="figure"><span id="fig:fordring7"></span>
-<div id="htmlwidget-bbb57276a26343d3beae" style="width:100%;height:288px;" class="visNetwork html-widget"></div>
-<script type="application/json" data-for="htmlwidget-bbb57276a26343d3beae">{"x":{"nodes":{"id":[1,2,3],"shape":["box","box","box"],"level":[1,2,2],"label":["debitor/\nskyldneren","kreditor/\noverdrageren","erhverver/\nny kreditor"],"font.size":[10,10,10]},"edges":{"from":[1,2],"to":[2,3],"arrows":["to","to"],"font.size":[10,10],"label":["kreditor har\nfortsat krav","stærk ugyldighedsgrund\noverdrager har fortsat et betalingskrav\nmod skyldneren"],"length":[300,300],"shadow":[true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-0ac199585853df87edb6" style="width:100%;height:288px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-0ac199585853df87edb6">{"x":{"nodes":{"id":[1,2,3],"shape":["box","box","box"],"level":[1,2,2],"label":["debitor/\nskyldneren","kreditor/\noverdrageren","erhverver/\nny kreditor"],"font.size":[10,10,10]},"edges":{"from":[1,2],"to":[2,3],"arrows":["to","to"],"font.size":[10,10],"label":["kreditor har\nfortsat krav","stærk ugyldighedsgrund\noverdrager har fortsat et betalingskrav\nmod skyldneren"],"length":[300,300],"shadow":[true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
 <p class="caption">
-Figur 16.8: Stærk ugyldighedsgrund
+Figur 16.10: Stærk ugyldighedsgrund
 </p>
 </div>
 <hr />
@@ -1629,13 +1701,13 @@ Figur 16.8: Stærk ugyldighedsgrund
 <h3><span class="header-section-number">16.10.2</span> Skyldners indsigelser</h3>
 <p>Hvad sker der med skyldners indsigelser, når kreditor har overdraget fordringen til erhverver?</p>
 <p>Erhververen får som hovedregel ikke større ret end overdrageren havde, dvs. der indtræder ikke ekstinktion (udslettelse) af indsigelser eller rettigheder</p>
-<p>Skyldner kan gøre samme indsigelser gældende overfor erhverver, som han eller hun kunne gøre gældende over for kreditor (overdrageren), jf. GBL § 27 (se figur <a href="gldsbreve-pantebreve-og-fordringer.html#fig:fordring8">16.9</a>)</p>
+<p>Skyldner kan gøre samme indsigelser gældende overfor erhverver, som han eller hun kunne gøre gældende over for kreditor (overdrageren), jf. GBL § 27 (se figur <a href="gldsbreve-pantebreve-og-fordringer.html#fig:fordring8">16.11</a>)</p>
 <hr />
 <div class="figure"><span id="fig:fordring8"></span>
-<div id="htmlwidget-2dbdda1e01e3addc038b" style="width:100%;height:288px;" class="visNetwork html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2dbdda1e01e3addc038b">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,2,2],"label":["debitor/\nskyldner","kreditor/\noverdrager","erhverver 1","erhverver 2"],"font.size":[10,10,10,10]},"edges":{"from":[1,2,3,1,1],"to":[2,3,4,3,4],"arrows":["to","to","to","to","to"],"font.size":[12,12,12,12,12],"label":["GBL §1","fordring\noverdrages","fordring\noverdrages","GBL §27","GBL §27"],"length":[200,100,100,200,200],"shadow":[true,true,true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-e4604da16192b9a92c9a" style="width:100%;height:288px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-e4604da16192b9a92c9a">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,2,2],"label":["debitor/\nskyldner","kreditor/\noverdrager","erhverver 1","erhverver 2"],"font.size":[10,10,10,10]},"edges":{"from":[1,2,3,1,1],"to":[2,3,4,3,4],"arrows":["to","to","to","to","to"],"font.size":[12,12,12,12,12],"label":["GBL §1","fordring\noverdrages","fordring\noverdrages","GBL §27","GBL §27"],"length":[200,100,100,200,200],"shadow":[true,true,true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
 <p class="caption">
-Figur 16.9: Skyldnerens indsigelser: Hvem er skyldner er i konflikt afgører, hvilken bestemmelse, der skal anvendes
+Figur 16.11: Skyldnerens indsigelser: Hvem er skyldner er i konflikt afgører, hvilken bestemmelse, der skal anvendes
 </p>
 </div>
 <p>Grundlæggende er formålet med reglerne om overdragelse af simple fordringer at undgå, at skylderens byrde øges ved overdragelse.</p>
@@ -1653,14 +1725,14 @@ Figur 16.9: Skyldnerens indsigelser: Hvem er skyldner er i konflikt afgører, hv
 </div>
 <div id="konflikt-mellem-senere-erhververe" class="section level3">
 <h3><span class="header-section-number">16.10.3</span> Konflikt mellem senere erhververe</h3>
-<p>Kædeoverdragelse (se figur <a href="gldsbreve-pantebreve-og-fordringer.html#fig:fordring9">16.10</a>)</p>
+<p>Kædeoverdragelse (se figur <a href="gldsbreve-pantebreve-og-fordringer.html#fig:fordring9">16.12</a>)</p>
 <p>Erhververen får ikke en bedre ret end overdrageren, jf. nærmere den obligationsretlige grundsætning i GBL § 27.</p>
 <hr />
 <div class="figure"><span id="fig:fordring9"></span>
-<div id="htmlwidget-c45cacd9b52d016379c7" style="width:100%;height:288px;" class="visNetwork html-widget"></div>
-<script type="application/json" data-for="htmlwidget-c45cacd9b52d016379c7">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,2,2],"label":["debitor/\nskyldner","kreditor/\noverdrager","erhverver\nny kreditor","erhverver\nseneste kreditor"],"font.size":[10,10,10,10]},"edges":{"from":[1,2,3],"to":[2,3,4],"arrows":["to","to","to"],"font.size":[10,10,10],"label":["","GBL §27","GBL §27"],"length":[100,200,200],"shadow":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-90c6ef00ad794dd08d93" style="width:100%;height:288px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-90c6ef00ad794dd08d93">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,2,2],"label":["debitor/\nskyldner","kreditor/\noverdrager","erhverver\nny kreditor","erhverver\nseneste kreditor"],"font.size":[10,10,10,10]},"edges":{"from":[1,2,3],"to":[2,3,4],"arrows":["to","to","to"],"font.size":[10,10,10],"label":["","GBL §27","GBL §27"],"length":[100,200,200],"shadow":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
 <p class="caption">
-Figur 16.10: Kædeoverdragelse erhververen får ikke en bedre ret end overdrageren
+Figur 16.12: Kædeoverdragelse erhververen får ikke en bedre ret end overdrageren
 </p>
 </div>
 <hr />
@@ -1680,13 +1752,13 @@ Figur 16.10: Kædeoverdragelse erhververen får ikke en bedre ret end overdrager
 <p><strong>Dobbeltoverdragelse af fordring:</strong></p>
 <p>I tilfælde af at en fordring bliver overdraget flere gange, er den erhverver, der først meddeler fordringsskyldneren (debitor) om overdragelsen af fordringen, sikret retten til fordringen.</p>
 <p>Det er under forudsætning af, at erhververen var i god tro om, at der ikke var andre rettighedshavere ved underretningen til fordringsskyldneren (debitor), jf. GBL § 31, stk. 2.</p>
-<p>Dette gælder, selvom erhververen først fik overdraget fordringen efter, at en anden havde erhvervet fordringen (se figur <a href="gldsbreve-pantebreve-og-fordringer.html#fig:fordring10">16.11</a>).</p>
+<p>Dette gælder, selvom erhververen først fik overdraget fordringen efter, at en anden havde erhvervet fordringen (se figur <a href="gldsbreve-pantebreve-og-fordringer.html#fig:fordring10">16.13</a>).</p>
 <hr />
 <div class="figure"><span id="fig:fordring10"></span>
-<div id="htmlwidget-a4419fcce4c2bbd4683b" style="width:100%;height:288px;" class="visNetwork html-widget"></div>
-<script type="application/json" data-for="htmlwidget-a4419fcce4c2bbd4683b">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,3,3],"label":["debitor/\nskyldner","kreditor/\noverdrager\ndobbeltoverdrager","erhverver/\nkreditor","erhverver\nkreditor"],"font.size":[10,10,10,10]},"edges":{"from":[1,2,2],"to":[2,3,4],"arrows":["to","to","to"],"font.size":[10,10,10],"label":["","GBL §31","GBL §31"],"length":[100,100,100],"shadow":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-aa273234f0c63c02c7e0" style="width:100%;height:288px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-aa273234f0c63c02c7e0">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,3,3],"label":["debitor/\nskyldner","kreditor/\noverdrager\ndobbeltoverdrager","erhverver/\nkreditor","erhverver\nkreditor"],"font.size":[10,10,10,10]},"edges":{"from":[1,2,2],"to":[2,3,4],"arrows":["to","to","to"],"font.size":[10,10,10],"label":["","GBL §31","GBL §31"],"length":[100,100,100],"shadow":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
 <p class="caption">
-Figur 16.11: Dobbeltoverdragelse af fordring: Først i tid bedst i ret og i god tro
+Figur 16.13: Dobbeltoverdragelse af fordring: Først i tid bedst i ret og i god tro
 </p>
 </div>
 <hr />
@@ -1778,10 +1850,10 @@ Figur 16.11: Dobbeltoverdragelse af fordring: Først i tid bedst i ret og i god 
 (Kilde; Trojka)</p>
 <hr />
 <div class="figure"><span id="fig:fordring11"></span>
-<div id="htmlwidget-b2287852ecff9e6b3cee" style="width:100%;height:288px;" class="visNetwork html-widget"></div>
-<script type="application/json" data-for="htmlwidget-b2287852ecff9e6b3cee">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,2,2],"label":["debitor/\nskyldner","kreditor/\noverdrager","1. erhverver/\n kreditor","2. erhverver/\nseneste kreditor"],"font.size":[10,10,10,10]},"edges":{"from":[1,2,2,1,1],"to":[2,3,4,3,4],"arrows":["to","to","to","to","to"],"font.size":[10,10,10,10,10],"label":["GBL §1","","","GBL §15-17","GBL §15-17"],"length":[100,100,100,100,100],"shadow":[true,true,true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-5b1e7f9b3ec05cee774c" style="width:100%;height:288px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-5b1e7f9b3ec05cee774c">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,2,2],"label":["debitor/\nskyldner","kreditor/\noverdrager","1. erhverver/\n kreditor","2. erhverver/\nseneste kreditor"],"font.size":[10,10,10,10]},"edges":{"from":[1,2,2,1,1],"to":[2,3,4,3,4],"arrows":["to","to","to","to","to"],"font.size":[10,10,10,10,10],"label":["GBL §1","","","GBL §15-17","GBL §15-17"],"length":[100,100,100,100,100],"shadow":[true,true,true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
 <p class="caption">
-Figur 16.12: Skyldners indsigelser i forhold til hvem skyldneren er i konflikt med
+Figur 16.14: Skyldners indsigelser i forhold til hvem skyldneren er i konflikt med
 </p>
 </div>
 <hr />
@@ -1797,10 +1869,10 @@ Figur 16.12: Skyldners indsigelser i forhold til hvem skyldneren er i konflikt m
 </ul>
 <hr />
 <div class="figure"><span id="fig:fordring12"></span>
-<div id="htmlwidget-2707e334c2b7f07f8c5a" style="width:100%;height:288px;" class="visNetwork html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2707e334c2b7f07f8c5a">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,2,2],"label":["debitor/\nskyldner","kreditor/\noverdrager","1. erhverver\n kreditor","2. erhverver\nseneste kreditor"],"font.size":[10,10,10,10]},"edges":{"from":[1,2,3],"to":[2,3,4],"arrows":["to","to","to"],"font.size":[10,10,10],"label":["","GBL §14","GBL §14"],"length":[100,200,200],"shadow":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-f7358e24674aef1aba1e" style="width:100%;height:288px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-f7358e24674aef1aba1e">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,2,2],"label":["debitor/\nskyldner","kreditor/\noverdrager","1. erhverver\n kreditor","2. erhverver\nseneste kreditor"],"font.size":[10,10,10,10]},"edges":{"from":[1,2,3],"to":[2,3,4],"arrows":["to","to","to"],"font.size":[10,10,10],"label":["","GBL §14","GBL §14"],"length":[100,200,200],"shadow":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
 <p class="caption">
-Figur 16.13: Aftaleerhververens fortrængelse af tidligere indsigelser
+Figur 16.15: Aftaleerhververens fortrængelse af tidligere indsigelser
 </p>
 </div>
 <hr />
@@ -1810,7 +1882,7 @@ Figur 16.13: Aftaleerhververens fortrængelse af tidligere indsigelser
 <p>Et udlæg i fordringer, herunder omsætningsgældsbreve, er beskyttet over for andre retsforfølgende kreditorer straks fra dets foretagelse.</p>
 <p>Udlægshaver skal derfor ikke foretage nogen særlig sikringsakt i forhold til andre kreditorer, jf. RPL § 526, stk. 1 og 2.</p>
 <hr />
-<p>Dobbeltoverdragelse, jf. GBL § 14 ved salg, samt GBL § 22 ved pant (se figur <a href="gldsbreve-pantebreve-og-fordringer.html#fig:fordring13">16.14</a> og <a href="gldsbreve-pantebreve-og-fordringer.html#fig:fordring13">16.14</a>)</p>
+<p>Dobbeltoverdragelse, jf. GBL § 14 ved salg, samt GBL § 22 ved pant (se figur <a href="gldsbreve-pantebreve-og-fordringer.html#fig:fordring13">16.16</a> og <a href="gldsbreve-pantebreve-og-fordringer.html#fig:fordring13">16.16</a>)</p>
 <hr />
 <p><img src="img/over17.png" />
 (Kilde; Trojka)</p>
@@ -1822,10 +1894,10 @@ Figur 16.13: Aftaleerhververens fortrængelse af tidligere indsigelser
 <p><strong>U2</strong>: Et udlæg i gældsbrevet er beskyttet mod andre kreditorer fra udlægget er foretaget.</p>
 <hr />
 <div class="figure"><span id="fig:fordring13"></span>
-<div id="htmlwidget-ad5acf6f6a2a867d46d2" style="width:100%;height:288px;" class="visNetwork html-widget"></div>
-<script type="application/json" data-for="htmlwidget-ad5acf6f6a2a867d46d2">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,3,3],"label":["debitor/\nskyldner","overdrager ved salg","1. kreditor","2. kreditor"],"font.size":[10,10,10,10]},"edges":{"from":[1,2,2],"to":[2,3,4],"arrows":["to","to","to"],"font.size":[10,10,10],"label":["","HR: I hænde/\n god tro, GBL § 14","Senere kreditor"],"length":[100,100,100],"shadow":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-ddd10a0a2801f670c2f3" style="width:100%;height:288px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-ddd10a0a2801f670c2f3">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,3,3],"label":["debitor/\nskyldner","overdrager ved salg","1. kreditor","2. kreditor"],"font.size":[10,10,10,10]},"edges":{"from":[1,2,2],"to":[2,3,4],"arrows":["to","to","to"],"font.size":[10,10,10],"label":["","HR: I hænde/\n god tro, GBL § 14","Senere kreditor"],"length":[100,100,100],"shadow":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
 <p class="caption">
-Figur 16.14: Dobbeltoverdragelse ved salg GBL § 14 i hånden og i god tro
+Figur 16.16: Dobbeltoverdragelse ved salg GBL § 14 i hånden og i god tro
 </p>
 </div>
 <hr />
@@ -1863,10 +1935,10 @@ Figur 16.14: Dobbeltoverdragelse ved salg GBL § 14 i hånden og i god tro
 <p>Selv om GBL § 14’s betingelser ikke er opfyldt, må man være opmærksom på, at erhververen altid får den ret, som overdrageren havde, og som han naturligvis kan videregive.</p>
 <hr />
 <div class="figure"><span id="fig:fordring14"></span>
-<div id="htmlwidget-0813a0167bf6aee7611d" style="width:100%;height:288px;" class="visNetwork html-widget"></div>
-<script type="application/json" data-for="htmlwidget-0813a0167bf6aee7611d">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,3,3],"label":["debitor/\nskyldner","overdrager/\npantsætter","panthaver","kreditor"],"font.size":[10,10,10,10]},"edges":{"from":[1,2,2],"to":[2,3,4],"arrows":["to","to","to"],"font.size":[10,10,10],"label":["","panthavers beskyttelse mod\npansætters kreditorer er\nreguleret i GBL §22","GBL §22"],"length":[100,100,100],"shadow":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-e6c05656b54664587726" style="width:100%;height:288px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-e6c05656b54664587726">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,3,3],"label":["debitor/\nskyldner","overdrager/\npantsætter","panthaver","kreditor"],"font.size":[10,10,10,10]},"edges":{"from":[1,2,2],"to":[2,3,4],"arrows":["to","to","to"],"font.size":[10,10,10],"label":["","panthavers beskyttelse mod\npansætters kreditorer er\nreguleret i GBL §22","GBL §22"],"length":[100,100,100],"shadow":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
 <p class="caption">
-Figur 16.15: Dobbeltoverdragelse pant - GBL § 22
+Figur 16.17: Dobbeltoverdragelse pant - GBL § 22
 </p>
 </div>
 <hr />
@@ -1906,27 +1978,27 @@ Figur 16.15: Dobbeltoverdragelse pant - GBL § 22
 </div>
 <div id="konflikt-mellem-senere-erhververe-2" class="section level3">
 <h3><span class="header-section-number">16.12.3</span> Konflikt mellem senere erhververe</h3>
-<p>Kædeoverdragelse (se figur <a href="gldsbreve-pantebreve-og-fordringer.html#fig:fordring15">16.16</a>)</p>
+<p>Kædeoverdragelse (se figur <a href="gldsbreve-pantebreve-og-fordringer.html#fig:fordring15">16.18</a>)</p>
 <ul>
 <li>Som et simpelt gældsbrev, jf. GBL § 26, stk. 2</li>
 <li>Erhverver ikke bedre ret end overdrager, jf. GBL § 27</li>
 </ul>
 <hr />
 <div class="figure"><span id="fig:fordring15"></span>
-<div id="htmlwidget-e1f10ec8edaa14f0f664" style="width:100%;height:288px;" class="visNetwork html-widget"></div>
-<script type="application/json" data-for="htmlwidget-e1f10ec8edaa14f0f664">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,2,2],"label":["skyldner","overdrager","erhverver 1","erhverver 2"],"font.size":[10,10,10,10]},"edges":{"from":[1,2,3],"to":[2,3,4],"arrows":["to","to","to"],"font.size":[10,10,10],"label":["","overdragers indsigelse\noverfor senere erhverver 2\nreguleres af GBL §27","overdragers indsigelse\noverfor erhverver 2\nreguleres af GBL §27"],"length":[100,200,200],"shadow":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-4ac76591f26d78b0e5e4" style="width:100%;height:288px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-4ac76591f26d78b0e5e4">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,2,2],"label":["skyldner","overdrager","erhverver 1","erhverver 2"],"font.size":[10,10,10,10]},"edges":{"from":[1,2,3],"to":[2,3,4],"arrows":["to","to","to"],"font.size":[10,10,10],"label":["","overdragers indsigelse\noverfor senere erhverver 2\nreguleres af GBL §27","overdragers indsigelse\noverfor erhverver 2\nreguleres af GBL §27"],"length":[100,200,200],"shadow":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
 <p class="caption">
-Figur 16.16: Overdragerens indsigelser over for senere erhverver - GBL § 27
+Figur 16.18: Overdragerens indsigelser over for senere erhverver - GBL § 27
 </p>
 </div>
 <hr />
-<p>Dobbeltoverdragelse (se figur <a href="gldsbreve-pantebreve-og-fordringer.html#fig:fordring16">16.17</a>):</p>
+<p>Dobbeltoverdragelse (se figur <a href="gldsbreve-pantebreve-og-fordringer.html#fig:fordring16">16.19</a>):</p>
 <hr />
 <div class="figure"><span id="fig:fordring16"></span>
-<div id="htmlwidget-186306732d524a4dada9" style="width:100%;height:288px;" class="visNetwork html-widget"></div>
-<script type="application/json" data-for="htmlwidget-186306732d524a4dada9">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,3,3],"label":["debitor/\nskyldner","overdrager/\npantsætter","1. rettighedshaver","2. rettighedshaver"],"font.size":[10,10,10,10]},"edges":{"from":[1,2,2],"to":[2,3,4],"arrows":["to","to","to"],"font.size":[10,10,10],"label":["","panthaver skal tinglyse\nsin ret for at sikre sig mod\ndobbeltoverdragelse jf. TL §1",""],"length":[100,100,100],"shadow":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-0fb4700fe4976d5def0d" style="width:100%;height:288px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-0fb4700fe4976d5def0d">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,3,3],"label":["debitor/\nskyldner","overdrager/\npantsætter","1. rettighedshaver","2. rettighedshaver"],"font.size":[10,10,10,10]},"edges":{"from":[1,2,2],"to":[2,3,4],"arrows":["to","to","to"],"font.size":[10,10,10],"label":["","panthaver skal tinglyse\nsin ret for at sikre sig mod\ndobbeltoverdragelse jf. TL §1",""],"length":[100,100,100],"shadow":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
 <p class="caption">
-Figur 16.17: Dobbeltoverdragelse pant - sikringsakt tinglysning
+Figur 16.19: Dobbeltoverdragelse pant - sikringsakt tinglysning
 </p>
 </div>
 <hr />
@@ -2007,14 +2079,14 @@ Svage indsigelser går tabt for skyldner, når gældsbrevet er overdraget, jf. n
 <h3><span class="header-section-number">16.13.3</span> Konflikt mellem senere erhververe</h3>
 <ul>
 <li>Som ved omsætningsgældsbrev, jf. TL § 27b</li>
-<li>Kædeoverdragelse (se figur <a href="gldsbreve-pantebreve-og-fordringer.html#fig:fordring17">16.18</a>)</li>
+<li>Kædeoverdragelse (se figur <a href="gldsbreve-pantebreve-og-fordringer.html#fig:fordring17">16.20</a>)</li>
 </ul>
 <hr />
 <div class="figure"><span id="fig:fordring17"></span>
-<div id="htmlwidget-ab43fa8bf0ccfde3ca71" style="width:100%;height:288px;" class="visNetwork html-widget"></div>
-<script type="application/json" data-for="htmlwidget-ab43fa8bf0ccfde3ca71">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,2,2],"label":["debitor/\nskyldner","overdrager","1. erhverver/\nny kreditor","2. erhverver\nseneste kreditor"],"font.size":[10,10,10,10]},"edges":{"from":[1,2,3],"to":[2,3,4],"arrows":["to","to","to"],"font.size":[10,10,10],"label":["","TL §27b","TL §27b"],"length":[100,200,200],"shadow":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-24a5ab2ee0cb7b90f4a2" style="width:100%;height:288px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-24a5ab2ee0cb7b90f4a2">{"x":{"nodes":{"id":[1,2,3,4],"shape":["box","box","box","box"],"level":[1,2,2,2],"label":["debitor/\nskyldner","overdrager","1. erhverver/\nny kreditor","2. erhverver\nseneste kreditor"],"font.size":[10,10,10,10]},"edges":{"from":[1,2,3],"to":[2,3,4],"arrows":["to","to","to"],"font.size":[10,10,10],"label":["","TL §27b","TL §27b"],"length":[100,200,200],"shadow":[true,true,true]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","color":{"background":"white","border":"white","highlight":"yellow"},"shadow":{"enabled":true,"size":30}},"manipulation":{"enabled":false},"interaction":{"dragNodes":true,"dragView":true,"zoomView":false},"layout":{"hierarchical":{"enabled":true,"levelSeparation":100,"direction":"UD"},"randomSeed":24},"edges":{"color":{"color":"lightgrey","highlight":"yellow"}}},"groups":null,"width":"100%","height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","tooltipStay":300,"tooltipStyle":"position: fixed;visibility:hidden;padding: 5px;white-space: nowrap;font-family: verdana;font-size:14px;font-color:#000000;background-color: #f5f4ed;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #808074;box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"},"evals":[],"jsHooks":[]}</script>
 <p class="caption">
-Figur 16.18: Konflikt mellem skyldneren og senere erhververe reguleres af TL §27b
+Figur 16.20: Konflikt mellem skyldneren og senere erhververe reguleres af TL §27b
 </p>
 </div>
 <hr />

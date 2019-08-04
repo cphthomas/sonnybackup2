@@ -28,9 +28,17 @@ Modregning bringer krav til ophør i det omfang, kravene dækker hinanden.
 
 ---
 
+<div style= "float:right;position: relative; top: -80px;">
 
 
+
+```{r}
+include_graphics("img/ophor.png")
+```
+</div>
+<div style= "float:right;position: relative; top: -80px;">
 ![](img/ophor.png)
+</div>
 (Kilde; Trojka) Fig. 17.1.
 
 ---

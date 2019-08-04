@@ -19,8 +19,33 @@ Et gaveløfte betyder, at man skal give den lovede gave, som fx kan være en tin
 
 ---
 
-![](img/ford1.png)
-(Kilde; Trojka) fig. 16.1.
+
+
+```{r bankkrav, echo=FALSE, result=TRUE,fig.height=3,fig.cap=("Kreditor (banken) har en fordring på skyldneren (kunden), fordringen betales tilbage med afdrag og renter")}
+
+nodes <- data.frame(id = 1:2, shape = c("box"),label  = c("Skyldner\nKunde","Kreditor\nBank"),font.size = c(25,25))
+edges <- data.frame(from = c(1,2), 
+                    to = c(2,1),
+                    arrows = c("from"),
+                    length = c(100,100),
+                    font.size = c(20,20),
+                    label=c("Lån","Afdrag og renter"),
+                    smooth = c(TRUE,TRUE)
+                    )
+ visNetwork(nodes, edges, width = "100%") %>% 
+   visInteraction(dragNodes = TRUE, 
+                 dragView = TRUE, 
+                 zoomView = FALSE) %>%
+  visNodes(color = list(background = "white", 
+                        border = "white",
+                        highlight = "yellow"),
+           shadow = list(enabled = TRUE, size = 30))  %>%
+  visHierarchicalLayout(direction = "LR",levelSeparation = 300) %>%
+visEdges(color = list(color = "lightgrey", highlight = "yellow") )
+```
+
+
+
 
 ---
 
@@ -241,10 +266,32 @@ En betalingstransaktion med kort går gennem betalingsmodtagers bank og korthold
 
 ---
 
-![](img/ford2.png)
- (Kilde; Trojka) Fig. 16.2.
- 
+
+```{r transaktion, echo=FALSE, result=TRUE,fig.height=3,fig.cap=("Transaktion, køber betaler sælger en cafe med dankort")}
+
+nodes <- data.frame(id = 1:4, shape = c("box"),label  = c("Betaler","Udbyder\nKøbers bank","Udbyder\nSælgers bank","Betalingsmodtager\nSælger cafe"),font.size = c(25,25,25,25),level = c(2,1,1,2))
+edges <- data.frame(from = c(1,2,3), 
+                    to = c(2,3,4),
+                    arrows = c("to"),
+                    length = c(100,400,100),
+                    font.size = c(20,20,20),
+                    label=c("","Nets",""),
+                    smooth = c(FALSE,FALSE,FALSE)
+                    )
+ visNetwork(nodes, edges, width = "100%") %>% 
+   visInteraction(dragNodes = TRUE, 
+                 dragView = TRUE, 
+                 zoomView = FALSE) %>%
+  visNodes(color = list(background = "white", 
+                        border = "white",
+                        highlight = "yellow"),
+           shadow = list(enabled = TRUE, size = 30))  %>%
+  visHierarchicalLayout(direction = "UD",levelSeparation = 200) %>%
+visEdges(color = list(color = "lightgrey", highlight = "yellow") )
+```
+
 ---
+
 
 Bliver kortet brugt uberettiget skelnes mellem:
 
