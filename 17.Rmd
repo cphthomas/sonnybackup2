@@ -28,15 +28,7 @@ Modregning bringer krav til ophør i det omfang, kravene dækker hinanden.
 
 ---
 
-<div style= "float:right;position: relative; top: -80px;">
 
-
-
-```{r}
-include_graphics("img/ophor.png")
-```
-</div>
-<div style= "float:right;position: relative; top: -80px;">
 ![](img/ophor.png)
 </div>
 (Kilde; Trojka) Fig. 17.1.
@@ -419,18 +411,25 @@ Deponeringsloven vedrører en debitors mulighed for med frigørende virkning at 
 
 Deponering betyder, at debitor betaler til en konto i en bank med frigørende virkning
 
+---
 
-**Deponering kan ske, når**:
+Deponering kan ske, når:
 
-   + Debitor ikke kan betale på grund af kreditors forhold, fx hvis kreditor er væk
++ Debitor ikke kan betale på grund af kreditors forhold, fx hvis kreditor er væk
    
-   + Kreditor ikke vil opfylde debitors betingelser, fx udlevere en kvittering
++ Kreditor ikke vil opfylde debitors betingelser, fx udlevere en kvittering
    
-   + Det er uvist, hvem der er rette kreditor
++ Det er uvist, hvem der er rette kreditor
    
-* Deponering kan ikke ske i andre tilfælde - heller ikke fx hvis debitor er utilfreds med huslejens størrelse
+* Deponering kan ikke ske i andre tilfælde - heller ikke fx hvis debitor er utilfreds med huslejens størrelse.
 
+---
 
+Lidt begreber:
+
+"Deponering":	En betaling, som er betinget af, at visse krav bliver opfyldt.
+
+"Depositar": Den person, der påtager sig at opbevare en værdi (ting såvel som penge) for en anden. Depositaren forpligter sig samtidig til at tilbagelevere den samme ting.
 
 
 ---

@@ -31,11 +31,11 @@ Dette indebærer, at lovens principper i mange henseender også finder anvendels
 
 ## Købeloven og dens begreber
 
-**Hovedregel**: Købeloven gælder for alle køb.
+Hovedregel: Købeloven gælder for alle køb.
 
-**Undtagelse**: Køb af fast ejendom og tjenesteydelser eller ved opførelse af bygning eller andet anlæg på fast ejendom, samt internationale køb (Den internationale købelov CISG -Convention on Contracts for the International Sale of Goods).  
+Undtagelse: Køb af fast ejendom og tjenesteydelser eller ved opførelse af bygning eller andet anlæg på fast ejendom, samt internationale køb (Den internationale købelov CISG -Convention on Contracts for the International Sale of Goods).  
  
-**Hovedregel: Købeloven er deklaratorisk i handelskøb**
+Hovedregel: Købeloven er deklaratorisk i handelskøb:
 
 * Kan fraviges ved aftale
 
@@ -44,17 +44,17 @@ Dette indebærer, at lovens principper i mange henseender også finder anvendels
 
 ![](img/orne.png)
 
-Se *U 1984.525 H – Den ufrugtbare orne: En leveret orne viste sig ufrugtbar, og der skete omlevering. Køberen rejste krav om erstatning for produktionstab, men ved erklæringer fra forskellige organisationer ansås godtgjort en sædvane inden for handelen med avlsorner for, at driftstab ikke kunne kræves erstattet.*
+Se **U 1984.525 H** – Den ufrugtbare orne: En leveret orne viste sig ufrugtbar, og der skete omlevering. Køberen rejste krav om erstatning for produktionstab, men ved erklæringer fra forskellige organisationer ansås godtgjort en sædvane inden for handelen med avlsorner for, at driftstab ikke kunne kræves erstattet.
 
 
 ---
 
 
-**Undtagelse**: Købeloven kan ikke fraviges i forbrugerkøb, medmindre fravigelsen er til forbrugerens fordel. 
+Undtagelse: Købeloven kan ikke fraviges i forbrugerkøb, medmindre fravigelsen er til forbrugerens fordel. 
 
 Dvs. forbrugeren bliver stillet bedre end, hvad der følger af købelovens ufravigelige forbrugerkøbsregler
  
-
+---
 
 ## Købelovens begreber ved handelskøb
  
@@ -78,13 +78,13 @@ Landbrug eller fiskeri konstituerer ikke handelskøb.
 
 Heller ikke aftaler, som indgås af erhvervsdrivende, som driver liberalt erhverv, f.eks. advokater, rådgivnings- og konsulentvirksomheder mv., anses for handelskøb.
 
-* Den handel, hvorved en forretningsdrivende etablerer sig ved køb af en forretning, er hverken et handelskøb eller et forbrugerkøb, men derimod et civilkøb, jf. dommen i U 1988.76 V:
+* Den handel, hvorved en forretningsdrivende etablerer sig ved køb af en forretning, er hverken et handelskøb eller et forbrugerkøb, men derimod et civilkøb, jf. dommen i **U 1988.76 V:**
 
 ---
 
 ![](img/restaurant.jpg)
 
-*U 1988.76 V: Forsinkelse med betaling af ydelse. Efter en i 1982 indgået kontrakt med ejendomsforbehold om salg af en restauration forfaldt restkøbesummen til betaling, hvis ydelser udeblev ud over 5 dage efter forfaldsdag. I juli 1986 videresolgtes restaurationen til K, der overtog gælden i henhold til købekontrakten, men ikke rettidigt betalte en den 1. august 1986 forfalden ydelse til den oprindelige ejer E. Efter at E den 12. august 1986 havde opsagt restgælden, betalte K dagen efter den forfaldne ydelse. - Da det ikke kunne udelukkes, at E, der havde været bekendt med salget til K, måtte have indset, at den manglende betaling af ydelsen måtte bero på en fejltagelse, havde forsinkelsen ikke berettiget E til at kræve restgælden betalt.*
+**U 1988.76 V:** Forsinkelse med betaling af ydelse. Efter en i 1982 indgået kontrakt med ejendomsforbehold om salg af en restauration forfaldt restkøbesummen til betaling, hvis ydelser udeblev ud over 5 dage efter forfaldsdag. I juli 1986 videresolgtes restaurationen til K, der overtog gælden i henhold til købekontrakten, men ikke rettidigt betalte en den 1. august 1986 forfalden ydelse til den oprindelige ejer E. Efter at E den 12. august 1986 havde opsagt restgælden, betalte K dagen efter den forfaldne ydelse. - Da det ikke kunne udelukkes, at E, der havde været bekendt med salget til K, måtte have indset, at den manglende betaling af ydelsen måtte bero på en fejltagelse, havde forsinkelsen ikke berettiget E til at kræve restgælden betalt.
 
 ---
 
@@ -116,6 +116,7 @@ Købeaftaler, som indgås mellem to ikke-erhvervsdrivende, er som udgangspunkt i
 
 Er ydelsen indkøbt mhp. anvendelse i *offentlig virksomhed*, f.eks. stat og kommune, er der ikke tale om forbrugerkøb.
 
+---
 
 **Både fysiske og (mindre) juridiske personer kan i dansk ret anses som forbrugere i lovens forstand**.
 
@@ -125,7 +126,7 @@ Er ydelsen indkøbt mhp. anvendelse i *offentlig virksomhed*, f.eks. stat og kom
 
 
 
-Som **»erhvervsdrivende«** i forbrugerkøbet anses personer, der udøver selvstændig, privat, økonomisk erhvervsvirksomhed inden for handel, industri, håndværk, transport, liberale erhverv, i den finansielle sektor mv., jf. også markedsføringslovens § 2, nr. 2. 
+Som *»erhvervsdrivende«* i forbrugerkøbet anses personer, der udøver selvstændig, privat, økonomisk erhvervsvirksomhed inden for handel, industri, håndværk, transport, liberale erhverv, i den finansielle sektor mv., jf. også markedsføringslovens § 2, nr. 2. 
 
 Det er ikke afgørende, om der er tale om en hoved- eller bibeskæftigelse, men aktiviteten skal have et erhvervsmæssigt præg, dvs. en fortsat karakter og et ikke helt ubetydeligt omfang. 
 
@@ -139,25 +140,25 @@ Det er ikke en forudsætning for at blive anset som erhvervsdrivende, at man har
 
 Det er heller ikke afgørende, om der med virksomheden tilstræbes en økonomisk gevinst. 
 
-Det kan være vejledende, men ikke afgørende, om vedkommende sælger er **momsregistreret**, bogføringspligtig, registreret i CVR-registeret, er omfattet af selskabsskatteloven eller foretager skattemæssige afskrivninger. 
+Det kan være vejledende, men ikke afgørende, om vedkommende sælger er *momsregistreret*, bogføringspligtig, registreret i CVR-registeret, er omfattet af selskabsskatteloven eller foretager skattemæssige afskrivninger. 
 
 Der kan desuden lægges vægt på, om den pågældende har en erhvervsmæssig markedsføring i form af annoncering, firmabrevpapir o.lign. 
 
 Foreninger, organisationer og sammenslutninger kan efter omstændighederne være erhvervsdrivende, hvis de udøver erhvervsprægede aktiviteter.
 
-**Organisationer, hvis formål udelukkende er velgørende, almennyttigt, politisk eller religiøst**, anses som udgangspunkt ikke for erhvervsdrivende, hvad angår deres indsamlingsaktiviteter. 
+*Organisationer, hvis formål udelukkende er velgørende, almennyttigt, politisk eller religiøst*, anses som udgangspunkt ikke for erhvervsdrivende, hvad angår deres indsamlingsaktiviteter. 
 
 Sådanne organisationer kan imidlertid anses som erhvervsdrivende for så vidt angår organisationernes kommercielle aktiviteter, f.eks. hvis der drives forlagsvirksomhed, arrangeres medlemsrejser, drives butikker mv.
 
-**Sportsklubber** vil ofte have karakter af almennyttige foreninger, men efter en konkret vurdering af klubbernes aktiviteter og omsætning kan de undertiden anses for erhvervsdrivende.
+*Sportsklubber* vil ofte have karakter af almennyttige foreninger, men efter en konkret vurdering af klubbernes aktiviteter og omsætning kan de undertiden anses for erhvervsdrivende.
 
-**Fagforeninger og a-kasser** er som udgangspunkt ikke omfattet af begrebet »erhvervsdrivende«, men sådanne organisationers aktiviteter kan efter en konkret vurdering anses for at være erhvervsmæssige.
+*Fagforeninger og a-kasser* er som udgangspunkt ikke omfattet af begrebet »erhvervsdrivende«, men sådanne organisationers aktiviteter kan efter en konkret vurdering anses for at være erhvervsmæssige.
 
-**Andelsbolig-, grundejer- og ejerlejlighedsforeninger, gårdlav, almennyttige boligforeninger, bofællesskaber, kolonihaveforeninger, kollegier o.lign**. anses som udgangspunkt ikke som erhvervsdrivende, hvad angår de dispositioner, som har til formål at varetage medlemmernes interesser i henhold til organisationens/foreningens formål. 
+*Andelsbolig-, grundejer- og ejerlejlighedsforeninger, gårdlav, almennyttige boligforeninger, bofællesskaber, kolonihaveforeninger, kollegier o.lign*. anses som udgangspunkt ikke som erhvervsdrivende, hvad angår de dispositioner, som har til formål at varetage medlemmernes interesser i henhold til organisationens/foreningens formål. 
 
-Se Forbrugerredegørelse 2002–2003 6.6.1 (en ejerlejlighedsforening, der fordelte varmeudgifterne mellem medlemmerne, ansås ikke for erhvervsdrivende). 
+Se afgørelsen i **Forbrugerredegørelse 2002–2003 6.6.1** (en ejerlejlighedsforening, der fordelte varmeudgifterne mellem medlemmerne, ansås ikke for erhvervsdrivende). 
 
-* Se under materialer om boligforeninger mv. og deres evt. status som forbrugere, jf. **Sonny Kristoffersen** i ET 2018 102 ff.
+* Se under e-bogens bibliotek se artiklen om boligforeninger mv. og deres evt. status som forbrugere, jf. **Sonny Kristoffersen** i ET 2018 102 ff.
 
 
 
@@ -206,21 +207,22 @@ Købelovens regler ved handelskøb er deklaratoriske dvs., de kan fraviges ved a
 
 ![](img/mona.jpg)
 
-* Køb af en individuelt bestemt genstand.
+Specieskøb er et køb af en individuelt bestemt genstand.
 
-* Genstanden kan være unik, og måske findes der kun den ene.
-* Der kan ikke ske omlevering med en tilsvarende vare, hvis den første vare går til grunde.
+Genstanden kan være unik, og måske findes der kun den ene.
 
-* Aftalen er indgået om en specificeret salgsgenstand eller specifikke genstande - et bestemt parti varer. Køber har valgt.
+Der kan ikke ske omlevering med en tilsvarende vare, hvis den første vare går til grunde.
 
-* Sælger har ikke valgfrihed med hensyn til, hvilken vare han vil levere til køber for at opfylde aftalen.
+Aftalen er indgået om en specificeret salgsgenstand eller specifikke genstande - et bestemt parti varer. Køber har valgt.
 
+Sælger har ikke valgfrihed med hensyn til, hvilken vare han vil levere til køber for at opfylde aftalen.
 
+---
 
  
 <img src="img/bride.png" align="right" width="15%" height="15%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 
-**Bestillingskøb/fremstillingskøb**:
+*Bestillingskøb/fremstillingskøb*:
 
 Et bestillingskøb kan også kaldes et fremstillingskøb, da købet vedrører bestilling af genstande, som først skal fremstilles, jf. KBL § 2, stk. 1. som indeholder et element af værksleje, nemlig aftaler, hvor den ene part har påtaget sig mod vederlag at fremstille en ny genstand (i modsætning til aftaler om f.eks. reparation af en allerede eksisterende genstand). 
 
@@ -233,7 +235,7 @@ Reparationer og tjenesteydelser er omfattet af forældelseslovens regler, jf. de
 
 <img src="img/fix.png" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 
-**Fixkøb:**
+*Fixkøb:*
 
 Betegnelsen fixkøb bruges om et køb, hvor køber har betinget sig, at levering sker på et helt bestemt tidspunkt, fx en fødselsdagsskage, der skal leveres om formiddagen den 3. august 2019.
   
@@ -243,28 +245,29 @@ Samtidighedsgrundsætningen: Sælgeren har ikke pligt til at levere salgsgenstan
 
 Modtages betaling ikke samtidig med levering, overgår købet fra kontantkøb til et kreditkøb.
  
-
-
-
 --- 
 
 #### Sælgers og købers forpligtelser under handelskøbet
  
  
-**Sælgers forpligtelser** består i at:
+*Sælgers forpligtelser* består i at:
 
 Levere den solgte vare i rette tid og på rette sted (leveringstidspunkt og leveringssted).
 
 Levere den solgte vare i rette stand (uden faktiske og retlige mangler).
 
-**Købers forpligtelser** består i modtage varen og at betale den aftalte købesum:
+---
+
+*Købers forpligtelser* består i modtage varen og at betale den aftalte købesum:
 
 * I rette tid
 
 * På rette sted
 
 * Med rette betalingsmiddel
- 
+
+
+--- 
 
 #### Levering og risikoens overgang ved handelskøbet
  
@@ -274,7 +277,7 @@ Indtil levering er sket, bærer sælgeren risikoen for salgsgenstandens hændeli
 
 Når levering har fundet sted overgår risikoen fra sælger til køber.
 
-NB! Levering kan ske inden salgsgenstanden er kommet i købers besiddelse
+NB! Levering kan ske inden salgsgenstanden er kommet i købers besiddelse.
 
 ---
 
@@ -295,7 +298,7 @@ Leveringstidspunktet og risikoens overgang er forskellig og afhænger af, om der
 
 ---
 
-**Afhentningskøb**
+*Afhentningskøb*
 
 Hvis intet er aftalt om levering, er det som hovedregel et afhentningskøb. 
 
@@ -314,13 +317,11 @@ Betingelse:
 Varerne skal være individualiseret/udskilte fra andre varer, som står hos sælger.
 
 
-
- 
 ---
 
-**Pladskøb og afsendelseskøb/forsendelseskøb**
+*Pladskøb og afsendelseskøb/forsendelseskøb*
 
-Pladskøb – udbringelseskøb: 
+*Pladskøb – udbringelseskøb*: 
 
 Levering inden for sælgers geografiske udbringningsområde. Ofte sælger egne folk der bringer varen ud.
 
@@ -342,9 +343,9 @@ Ved søtransport sker levering når varen er bragt inden for skibssiden.
 
 ---
 
-**Afsendelseskøb med klausuler**
+*Afsendelseskøb med klausuler*
 
-*Købelovens leveringsklausuler:*
+Købelovens leveringsklausuler:
 
 * FOB (Free on board), KBL § 62
 
@@ -362,9 +363,9 @@ Til internationale køb anvendes INCOTERMS 2010.
 
 Sælger kan som udgangspunkt misligholde en aftale på tre måder:
 
-* **Forsinkelse med levering** (afsnit 8.8.1.)
-* **Faktiske mangler - mangler ved den leverede vare** (afsnit 8.8.2.) 
-* **Retlige mangler – vanhjemmel** (afsnit 8.8.3.)
+* *Forsinkelse med levering* (afsnit 8.8.1.)
+* *Faktiske mangler - mangler ved den leverede vare* (afsnit 8.8.2.) 
+* *Retlige mangler – vanhjemmel* (afsnit 8.8.3.)
 
 ---
 
@@ -383,7 +384,7 @@ Er der anvendt udtryk som f.eks. »straks«, »omgående«, »prompte« eller »
 Hvis der er aftalt levering 1. oktober og levering sker senere, er der tale om misligholdelse i form af forsinkelse.
  
 
-**Hovedregel:** 
+*Hovedregel:*
 Leveres varen ikke i rette tid, er der tale om forsinkelse, og køber kan gøre misligholdelsesbeføjelser gældende, jf. KBL § 21, stk. 1.      
 
 KBL § 21, stk. 1 gælder for både genus- og specieskøb. 
@@ -397,7 +398,7 @@ Sælgeren har almindeligvis bevisbyrden for, at der er leveret rettidigt.
 * Leverer sælgeren før det aftalte leveringstidspunkt, kan køberen afvise at modtage genstanden og kræve fornyet levering i rette tid, hvis afvigelsen fra sælgerens frigørelsestid er væsentlig,
 
 
-**Undtagelser:** KBL § 21, stk. 1 gælder dog ikke:
+*Undtagelser:* KBL § 21, stk. 1 gælder dog ikke:
 
 * Hvis forsinkelsen skyldes købers forhold, fx fordringshavermora eller
 
@@ -415,8 +416,7 @@ Sælgeren har almindeligvis bevisbyrden for, at der er leveret rettidigt.
 * Kræve erstatning, jf. KBL § 23 (species) og § 24 (genus – et strengt ansvar) – eventuelt dækningskøb, jf. KBL § 25
 
 
-
-* *Sælgeren har bevisbyrden* for, at der foreligger ansvarsfritagende omstændigheder
+Sælgeren har bevisbyrden for, at der foreligger ansvarsfritagende omstændigheder
 
   
 Hvis køber vil fastholde købet, har køberen reklamationspligt, jf. KBL § 26.
@@ -445,15 +445,15 @@ Hvis sælger skal levere over flere gange (successiv levering), dvs. at sælgere
 
 Situation: Én leverance bliver forsinket
 
-* **HR:** Delvis ophævelse.
+HR: Delvis ophævelse.
 
 * Hver enkelt leverance behandles for sig.
 
 * Køber kan hæve købet vedrørende den ene forsinkede leverance. Køber kan ikke hæve de kommende leverancer, jf. KBL §§ 22, 1. pkt.
 
-* **U1:** Hæve kommende aftalte leverancer, hvis de senere leverancer også ventes at blive forsinkede, jf. KBL § 22, 2. pkt.
+U1: Hæve kommende aftalte leverancer, hvis de senere leverancer også ventes at blive forsinkede, jf. KBL § 22, 2. pkt.
 
-* **U2:** Købet kan hæves i sin helhed, hvis det er begrundet i sammenhængen mellem leveringerne, jf. KBL § 22, 2. pkt.
+U2: Købet kan hæves i sin helhed, hvis det er begrundet i sammenhængen mellem leveringerne, jf. KBL § 22, 2. pkt.
 
 ---
 
@@ -487,36 +487,44 @@ Køberen har bevisbyrden for, at salgsgenstanden er mangelfuld, jf. dog i forbru
 
 ---
 
-**Hvad er en mangel?:** 
+*Hvad er en mangel?:* 
 
 Se principperne i KBL § 76, § 75a, ved vurdering af kvalitetsmangel. 
 
 Varen skal være i overensstemmelse med, hvad der er blevet aftalt mellem køber og sælger.
  
 
-* *Køberen kan fastholde købet og kræve omlevering:*
+Køberen kan fastholde købet og kræve omlevering:
+
 
 * Specieskøb (kan i sagens natur ikke omleveres, da der kun er én)
 
 * Genuskøb, KBL § 43, stk. 1.
 
-* *Køberen kan fastholde og kræve forholdsmæssigt afslag/nedslag i købesummen:*
+
+Køberen kan fastholde og kræve forholdsmæssigt afslag/nedslag i købesummen:
+
 
 * Specieskøb, KBL § 42, stk. 1.
 
 * Genuskøb, KBL § 43, stk. 1.
 
-* *Køberen kan ophæve købet / annullere:*
+
+Køberen kan ophæve købet / annullere:
+
 
 * Specieskøb, KBL § 42, stk. 1 – Betingelse: Væsentlig mangel ved salgsgenstanden
 
 * Genuskøb, KBL § 43, stk. 1. – Betingelse: Væsentlig mangel ved salgsgenstanden
 
+
 Samt kræve erstatning for købers tab:
 
 * Specieskøb, KBL § 42, stk. 2.
+
 * Genuskøb, KBL § 43, stk. 3.
  
+---
 
 Sælger har ret til at omlevere eller at afhjælpe manglen, fx ved reparation, jf. KBL § 49, hvis:
 
@@ -527,19 +535,21 @@ Sælger har ret til at omlevere eller at afhjælpe manglen, fx ved reparation, j
 * Køber kan ikke hæve eller forlange prisnedslag hvis sælger tilbyder afhjælpning eller omlevering, jf. KBL § 78, stk. 3.
 
 * Køber kan forlange erstatning selvom der tilbydes afhjælpning eller omlevering, hvis erstatningsbetingelserne er opfyldt, jf. KBL § 80.
- 
 
-**Hvis sælger skal levere over flere gange**:
+--- 
+
+*Hvis sælger skal levere over flere gange*:
 
 Situation: Én leverance ud af en række er mangelfuld
 
-* **HR:** Delvis ophævelse.
+HR: Delvis ophævelse.
 
 * Hver enkelt leverance behandles for sig.
 * Køber kan hæve købet vedrørende den ene mangelfulde leverance. Køber kan ikke hæve de kommende leverancer, jf. KBL §§ 42,43 og 46.
 
-* **U1**: Hæve kommende aftalte leverancer, hvis de senere leverancer også ventes at blive mangelfulde, jf. KBL § 46, stk. 2
-* **U2**: Købet kan hæves i sin helhed, hvis det er begrundet i sammenhængen mellem leveringerne, jf. KBL § 46, stk. 2
+U1: Hæve kommende aftalte leverancer, hvis de senere leverancer også ventes at blive mangelfulde, jf. KBL § 46, stk. 2
+
+U2: Købet kan hæves i sin helhed, hvis det er begrundet i sammenhængen mellem leveringerne, jf. KBL § 46, stk. 2
  
 ---
 
@@ -560,9 +570,12 @@ Hvis køber vil hæve købet eller kræve efterlevering eller omlevering, skal h
 Når køber ikke opnår den forventede ejendomsret ved købet. Fx. hvis sælger ikke har ret til at sælge salgsgenstanden, fordi: 
 
 * genstanden tilhører tredjemand,
+
 * er pantsat, lånt, lejet,
+
 * købt med ejendomsforbehold mv, jf. kreditaftalelovens § 34, stk. 1.
  
+---
 
 *Fastholde købet*
 
@@ -578,6 +591,7 @@ Uanset om køber fastholder købet eller annullerer, kan han forlange erstatning
 
 Sælgers ansvarsgrundlag er objektivt ansvar over for køber, hvis køber er i god tro, dvs. hverken vidste eller burde vide, at der var retlige mangler.
  
+---
 
 #### Købers misligholdelse
 
@@ -585,18 +599,22 @@ Sælgers ansvarsgrundlag er objektivt ansvar over for køber, hvis køber er i g
 
 <img src="img/payment.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-**Købers forpligtelse:**
+*Købers forpligtelse:*
 
 *Køber skal modtage varen som aftalt betale den aftalte købesum til tiden.
 
-**Købers misligholdelse:**
+---
+
+*Købers misligholdelse:*
 
 * Forsinkelse med betaling af købesummen
+
 * Anteciperet (forventede) forsinkelse med betaling af købesummen
+
 * Fordringshavermora - Manglende modtagelse af varen (ikke en misligholdelse)
- 
 
 * Fastholde købet og forlange betaling, jf. KBL § 28, stk. 1
+
 * Hæve købet, jf. KBL § 28, stk. 1
 
 * Forsinkelsen skal være væsentlig. I handelskøb er enhver forsinkelse væsentlig.
@@ -607,13 +625,15 @@ Sælgers ansvarsgrundlag er objektivt ansvar over for køber, hvis køber er i g
 
 * Hvis sælger foretager et dækningssalg i rimelig tid efter ophævelsen, og salget indbringer færre penge, end det ville have gjort, hvis aftalen med den oprindelige køber var blevet opfyldt korrekt, kan sælger forlange differencebeløbet erstattet af køber, jf. KBL § 30, stk. 2.
  
+---
 
 Situation: Hvis sælger allerede har leveret uden at der samtidig er sket betaling
 
-* **Hovedregel:** Kreditkøb - ikke hæve og få det solgte tilbage
+Hovedregel: Kreditkøb - ikke hæve og få det solgte tilbage
+
 * Sælger må iværksætte inkasso og evt. tvangsinddrivelse
 
-* **Undtagelser**, fx hvis:
+Undtagelser, fx hvis:
 
 * Det solgte afvises af køber.
 
@@ -621,14 +641,17 @@ Situation: Hvis sælger allerede har leveret uden at der samtidig er sket betali
 
 * Hvis det solgte er leveret til en køber på et tidspunkt, hvor køber er taget under konkursbehandling, og konkursboet ikke indtræder i aftalen eller stiller sikkerhed for købesummens betaling.
  
+---
 
 Særligt om delleverancer, KBL § 29, jf. § 28
+
 Situation: Flere leverancer, og køber er forsinket med betaling af en enkelt leverance
 
 * Sælger kan hæve købet for de følgende leveringer, medmindre der ikke er grund til at frygte yderligere forsinkelser med betaling.
  
+---
 
-**Anteciperet forsinkelse, KBL §§ 39-41:**
+*Anteciperet forsinkelse, KBL §§ 39-41:*
 
 Situation: Endnu ikke forsinkelse, men sælger må forvente at forsinkelse vil opstå – fx hvis køber er insolvent, kommer under konkursbehandling, rekonstruktion mv.
 
@@ -666,7 +689,7 @@ Betragtes ikke som misligholdelse, men situationen udløser en række krav og va
 
 Retskilde: Købelovens forbrugerafsnit KBL §§ 72-87.
 
-**Købelovens regler om forbrugerkøb er beskyttelsespræceptiv:** 
+*Købelovens regler om forbrugerkøb er beskyttelsespræceptiv:* 
 
 Reglerne om forbrugerkøb kan ikke fraviges til skade for forbrugeren, men forbrugeren kan godt stilles bedre.
 
@@ -706,11 +729,11 @@ Forbrugerkøb: når en erhvervsdrivende som led i sit erhverv, sælger en vare, 
 
 Hvis intet er aftalt om levering, skal den erhvervsdrivende stille varen til rådighed for køber på den erhvervsdrivendes forretningssted – afhentningskøb, jf. KBL § 9, som er udtryk for hovedreglen, nemlig at leveringsstedet er hos sælgeren (eller der, hvor salgsgenstanden med parternes vidende befinder sig, jf. KBL § 9, stk. 2), dvs. at lovens udgangspunkt er, at der er tale om afhentningskøb - også i forbrugerkøb, jf. KBL § 1, stk. 2 e.c.
 
-**Afhentningskøb**: Køber henter varen på sælgers forretningssted eller bopæl, jf. KBL § 9. Risikoen for varen overgår fra sælger til køber, når varen er stillet til rådighed og klar til afhentning.
+*Afhentningskøb*: Køber henter varen på sælgers forretningssted eller bopæl, jf. KBL § 9. Risikoen for varen overgår fra sælger til køber, når varen er stillet til rådighed og klar til afhentning.
 
-**Udbringningskøb**: Varen bringes ud til køber. Levering sker og risikoen for varen overgår fra sælger til køber (forbrugeren), når forbrugeren har varen i sin besiddelse.
+*Udbringningskøb*: Varen bringes ud til køber. Levering sker og risikoen for varen overgår fra sælger til køber (forbrugeren), når forbrugeren har varen i sin besiddelse.
 
-**Forsendelseskøb**: Levering sker når, når varen er i købers besiddelse. Risikoen for varens forringelse eller hændelige undergang ligger hos sælger, indtil varen er i købers besiddelse, jf. KBL § 73: 
+*Forsendelseskøb*: Levering sker når, når varen er i købers besiddelse. Risikoen for varens forringelse eller hændelige undergang ligger hos sælger, indtil varen er i købers besiddelse, jf. KBL § 73: 
 
 Denne bestemmelse finder kun anvendelse, såfremt sælgeren ved aftalen har påtaget sig at sende salgsgenstanden til køberen. 
 
@@ -722,7 +745,7 @@ Levering er ikke sket, såfremt sælgeren f.eks., uden at køberen har anmodet h
 
 ### Sælgers misligholdelse af aftalen
 
-Sælger kan som udgangspunkt misligholde en aftale på tre måder:
+*Sælger kan som udgangspunkt misligholde en aftale på tre måder:*
 
 * Forsinkelse med levering af den aftalte vare
 
@@ -756,17 +779,15 @@ Sælger kan som udgangspunkt misligholde en aftale på tre måder:
 
 *Kvalitetsmangel*: Varen lever ikke op til, hvad køber kunne forvente i forhold til aftalen.
 
-**Hvornår skal der foreligge en mangel?** 
+*Hvornår skal der foreligge en mangel?* 
 
 Ved leveringen til køberen, dvs. på tidspunktet for risikoens overgang, jf. KBL § 77a.
 
-**Hvad er en mangel?** 
+---
+
+*Hvad er en mangel?* 
 
 Se grundprincipperne i KBL §§ 75a og 76.
-
-
-  
-
 
 ---
 
@@ -784,8 +805,10 @@ Se grundprincipperne i KBL §§ 75a og 76.
  
 Ophæve købet/annullere, jf. KBL § 78, stk. 1, nr. 4.
 
+---
 
-**Hvis manglen er væsentlig**
+
+*Hvis manglen er væsentlig*
 
 * Køber har reklameret med eller uden frist, jf. KBL §§ 81 og 83
 
@@ -794,7 +817,7 @@ Kræve erstatning for økonomisk tab ved en mangel
 * Skadeserstatning ved en mangel for et økonomisk tab, jf. KBL § 80
 
  
- 
+--- 
 
 
 **Undersøgelsespligt**
@@ -813,7 +836,9 @@ Den absolutte reklamationsfrist er 24 måneder fra salgsgenstandens overgivelse,
 
 ![](img/reklamation.png)  
 
-**Formodningsreglen, jf. købelovens § 77a, stk. 3**:
+---
+
+*Formodningsreglen, jf. købelovens § 77a, stk. 3*:
 
 Hvis en mangel viser sig i de første 6 måneder efter levering, formodes det, at genstanden var mangelfuld ved levering.
 
@@ -827,7 +852,7 @@ Hvis en mangel viser sig efter 6 måneder fra levering, og inden udløbet af den
 
 ### Købers misligholdelse med købesummens betaling
 
-**Sælgers misligholdelsesbeføjelser**
+*Sælgers misligholdelsesbeføjelser*
 
 * Fastholde købet og forlange betaling
 
@@ -853,7 +878,7 @@ Hvis en mangel viser sig efter 6 måneder fra levering, og inden udløbet af den
 
 ### Fordringshavermora - Køber modtager ikke den købte vare
 
-**Fordringshavermora**: 
+*Fordringshavermora*: 
 
 Købers forhold bevirker at sælger ikke kan levere varen til tiden
 
@@ -882,13 +907,19 @@ Sælger har omsorgspligt, og under visse betingelser salgspligt og ret til at s�
 
 ![](img/brugtvogn.jpg)
 
-Børge Johansen har i mange år haft skiftende jobs. Han har svært ved at fastholde sine jobs, da han bedst kan lide selv at bestemme arbejdstempo mv. Han interesserer sig meget for biler og er ret god til at reparere biler, da en del jobs har været på bilværksteder. 
+Børge Johansen har i mange år haft skiftende jobs. Han har svært ved at fastholde sine jobs, da han bedst kan lide selv at bestemme arbejdstempo mv. 
+
+Han interesserer sig meget for biler og er ret god til at reparere biler, da en del jobs har været på bilværksteder. 
 
 En af hans venner, Kasper har en 5 år gammel bil og Børge tilbyder at sælge den for ham. Børge sætter straks bilen til salg og får den solgt til den aftalte pris i løbet af 3 dage.
 
 Nu har Børge fundet sit nye job. Han vil til at sælge brugte biler. Han vil købe dem hos private, shine dem op og sælge dem videre. Børge lejer sig ind på et værksted i et industrikvarter. Han får hurtigt gang i salget, da han sælger bilerne til rimeligt lave priser. 
 
-Børge har bl.a. solgt en 10 år gammel bil til Merete for 15.000 kr. Hun har haft bilen i 5 dage, da den går i stykker, og nu vil Merete have sine penge tilbage. Børge afviser hende med den begrundelse, at der ikke er nogen reklamationsret da det er en ældre bil og da den er solgt som den er og forefindes og at Merete i øvrigt tog en prøvetur i bilen inden hun købte den. Da Merete fastholder sit krav tilbyder Børge, at han vil reparerer bilen, men så må hun også selv betale de nødvendige reservedele – hun skal nok få dem til indkøbspris.
+Børge har bl.a. solgt en 10 år gammel bil til Merete for 15.000 kr. Hun har haft bilen i 5 dage, da den går i stykker, og nu vil Merete have sine penge tilbage. 
+
+Børge afviser hende med den begrundelse, at der ikke er nogen reklamationsret da det er en ældre bil og da den er solgt som den er og forefindes og at Merete i øvrigt tog en prøvetur i bilen inden hun købte den. 
+
+Da Merete fastholder sit krav tilbyder Børge, at han vil reparerer bilen, men så må hun også selv betale de nødvendige reservedele – hun skal nok få dem til indkøbspris.
 
 Kaj har også købt en bil hos Børge - for 180.000 kr. Børge har ændret lidt i bilens papirer og det viser sig senere, at den er 2 år ældre end der står i papirerne. Børge lover at tage bilen tilbage, og så skal Kaj få sine penge tilbage. Men Børge kan ikke betale, da han har brugt alle sine penge på bil opkøb. 
 
@@ -897,12 +928,14 @@ Derudover har banken sendt et brev om, at der er overtræk på kassekreditten og
 ***Eksamensspørgsmålene***
 
 
-1.	Redegør for hvilke rettigheder – om nogen - Merete har?  
+1.	Redegør for hvilke rettigheder – om nogen - Merete har? 
+
 2.	Redegør for hvad Kaj kan gøre for at få sine penge?
+
 3.  Redegør for hvad kan banken gøre for at sikre kassekreditten?
 
 
-***Vejledende løsning***
+**Vejledende løsning:**
 
 
 1.	Redegør for hvilke rettigheder – om nogen - Merete har?  Hun har sædvanlige 2 års reklamationsret, jf. købelovens § 83, stk. 1, uanset brugt vare. Årsagen til problemet er afgørende, for bilen er jo 10 år gammel, så ingen forventning af ”ny-kvalitets-bil”, men reparation er OK, medmindre uforholdsmæssig dyr for Børge. Børge må dokumentere.
@@ -913,7 +946,7 @@ Derudover har banken sendt et brev om, at der er overtræk på kassekreditten og
 
 ---
   
-### Quizeer
+**Quizeer**
 
 ![](img/quisz.png)
 

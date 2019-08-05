@@ -225,10 +225,15 @@ Reklamer der forbydes efter markedsføringsloven og internationale markedsførin
 >Normdannelse og praksis i henhold til markedsføringslovens § 3
 
 >* Urimelige aftalevilkår
+
 * Farlige eller underlødige produkter Påtrængende, overrumplende, udnyttende, generende, krænkende eller besværliggørende markedsføringsforanstaltninger
+
 * Beskyttelse af den personlige integritet og privatlivets fred
+
 * Kønsdiskriminerende markedsføring
+
 * Racediskriminerende markedsføring 
+
 * Usømmelighed, manglende respekt for almen sikkerhed, mangel på social ansvarsfølelse i markedsføringen og samfundsinteresser
 
  
@@ -400,7 +405,9 @@ Der er ikke blot forbud mod at anvende vildledende og urigtige angivelser, men f
 
 Chikane skal forstås som bevidst, ondskabsfuldt drilleri eller forfølgelse.
 
-Markedsføring betragtes som værende aggressiv, hvis den i forhold til den faktuelle sammenhæng, hvori den indgår, ved chikane, tvang, herunder fysisk vold eller anden utilbørlig påvirkning er egnet til at indskrænke forbrugerens valgfrihed eller ændre forbrugerens økonomiske adfærd, så vedkommende udviser en adfærd, vedkommende ellers ikke ville have udvist. Ved vurderingen af, om der foreligger en aggressiv markedsføring, skal der tages hensyn til følgende omstændigheder:
+Markedsføring betragtes som værende aggressiv, hvis den i forhold til den faktuelle sammenhæng, hvori den indgår, ved chikane, tvang, herunder fysisk vold eller anden utilbørlig påvirkning er egnet til at indskrænke forbrugerens valgfrihed eller ændre forbrugerens økonomiske adfærd, så vedkommende udviser en adfærd, vedkommende ellers ikke ville have udvist. 
+
+Ved vurderingen af, om der foreligger en aggressiv markedsføring, skal der tages hensyn til følgende omstændigheder:
 
 a) Tidspunktet for markedsføringen og stedet hvor den har fundet sted. Det kan tillægges betydning, om den pågældende handelspraksis foregår i det offentlige rum eller i den erhvervsdrivendes forretningslokaler, hvorfra forbrugeren let kan fjerne sig, eller på steder, hvor man som forbruger som udgangspunkt ikke forventer at blive udsat for den pågældende handelspraksis, f.eks. på forbrugerens bopæl, arbejds- sted eller på andre steder, hvortil der ikke er offentlig adgang.
 
@@ -426,9 +433,10 @@ Som efter stk. 1 er det et krav, at markedsføringen har en kommerciel effekt, s
 
 ---
 
-*Se hertil U 2013 2396 SH (moderselskab til producent af isoleringsmateriale baseret på stenuld havde overtrådt markedsføringslovens §§ 1, 3 og 5 ved i to artikler i et nyhedsbrev at have omtalt brandfaren ved skumplastisolering med brug af bl.a. dramatiske ord- og billedvalg og et unødigt skræmmende tekstindhold med følelsesladede ord og udsagn).*
+Se hertil **U 2013 2396 SH** (moderselskab til producent af isoleringsmateriale baseret på stenuld havde overtrådt markedsføringslovens §§ 1, 3 og 5 ved i to artikler i et nyhedsbrev at have omtalt brandfaren ved skumplastisolering med brug af bl.a. dramatiske ord- og billedvalg og et unødigt skræmmende tekstindhold med følelsesladede ord og udsagn).
 
 ---
+
 Bilag 1 til markedsføringsloven kommer med en række ikke udtømmende eksempler:
 
 * Forbrugeren bringes til at tro, at vedkommende ikke kan forlade lokalerne, før en kontrakt er indgået.
@@ -447,11 +455,11 @@ Bilag 1 til markedsføringsloven kommer med en række ikke udtømmende eksempler
 
 <img src="img/mf11.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-**Hovedreglen**: Den erhvervsdrivende må ikke sende reklamer, tilbud og øvrigt markedsføringsmateriale via fjernkommunikation, dvs. ved brug af e-mail, sms, mms, fax og automatisk opkaldesystem med indtalt reklame, hvis modtager ikke har bedt om det. Det gælder uanset om modtager er en forbruger eller en erhvervsdrivende.
+Hovedreglen: Den erhvervsdrivende må ikke sende reklamer, tilbud og øvrigt markedsføringsmateriale via fjernkommunikation, dvs. ved brug af e-mail, sms, mms, fax og automatisk opkaldesystem med indtalt reklame, hvis modtager ikke har bedt om det. Det gælder uanset om modtager er en forbruger eller en erhvervsdrivende.
 
-* **Undtagelse 1**: Hvis modtageren af reklamen forudgående har accepteret eller anmodet om at få reklamen tilsendt på den måde.
+Undtagelse 1: Hvis modtageren af reklamen forudgående har accepteret eller anmodet om at få reklamen tilsendt på den måde.
 
-* **Undtagelse 2**: Hvis kunden tidligere har købt varer eller tjenesteydelser hos virksomheden, og kunden har givet sin e-mailadresse eller mobiltelefonnummer, og har accepteret at modtage nyhedsbreve og tilbud. 
+Undtagelse 2: Hvis kunden tidligere har købt varer eller tjenesteydelser hos virksomheden, og kunden har givet sin e-mailadresse eller mobiltelefonnummer, og har accepteret at modtage nyhedsbreve og tilbud. 
 
 MEN kunden skal have mulighed for at frabede sig yderligere henvendelser.
 
@@ -459,7 +467,7 @@ Adresseløse husstandsomdelte reklamer kan lovligt sendes.
 
 Ved direkte markedsføring/adresseret reklame til en person eller virksomhed, skal virksomheden sikre sig, at der ikke sendes materiale til personer, der er på Robinson-listen.
 
-**Robinson-listen**: Virksomheden må ikke rette direkte henvendelse til forbrugeren der er registreret på Robinson-listen.
+*Robinson-listen*: Virksomheden må ikke rette direkte henvendelse til forbrugeren der er registreret på Robinson-listen.
 
 ![](img/robin.png)
 
@@ -467,8 +475,9 @@ Undtagelse: Hvis forbrugeren selv har anmodet om henvendelsen
 
 Sammenhold med forbrugeraftalelov § 4, stk. 2.
 
+---
 
- 
+
 ## <font color="red">Mærkning (MFL § 12), dokumentation (MFL § 13) og priser (MFL § 14)<sup> Premium </font></sup>
 
 Forbud mod forkert brug af mærkning, fx øko-mærket, fair trade, svanemærket m.v.
@@ -476,88 +485,96 @@ Forbud mod forkert brug af mærkning, fx øko-mærket, fair trade, svanemærket 
 Den erhvervsdrivende er forpligtet til at dokumentere rigtigheden af faktuelle oplysninger om det produkt der markedsføres, fx miljømæssige påstande ”Denne vare er CO2-neutral
 
 
-	Anprisninger og salgsgas - tilladt og skal ikke dokumenteres
-	
-* Et udtryk, som skamroser et produkt på en sådan måde at forbrugeren godt kan gennemskue, at udsagnet ikke er dokumenterbart, fx ”Danmarks kønneste campingplads” eller ”byens bedste frisør.”
+Anprisninger og salgsgas - tilladt og skal ikke dokumenteres.
 
-* ”Vi udbyder Danmarks sikreste internetforbindelse” eller ”Hvert fjerde parforhold starter på netdating.dk” - skal kunne dokumenteres.
+Et udtryk, som skamroser et produkt på en sådan måde at forbrugeren godt kan gennemskue, at udsagnet ikke er dokumenterbart, fx ”Danmarks kønneste campingplads” eller ”byens bedste frisør.” ”Vi udbyder Danmarks sikreste internetforbindelse” eller ”Hvert fjerde parforhold starter på netdating.dk” - skal kunne dokumenteres.
+
+---
 
  
 ## <font color="red">Gebyrer (MFL § 16) og garantier (MFL § 17)<sup> Premium </font></sup>
 
-* Gebyrer skal være aftalt og senere ændringer i gebyrer skal varsles.
+Gebyrer skal være aftalt og senere ændringer i gebyrer skal varsles.
 
-* Ved brug af ord som ”garanti”, ”tilsikre”, ”vi indestår”, skal den erhvervsdrivende give forbrugeren en væsentlig bedre retsstilling, end forbrugeren ellers ville have haft uden ”garantien”, jf. MFL § 17.
+Ved brug af ord som ”garanti”, ”tilsikre”, ”vi indestår”, skal den erhvervsdrivende give forbrugeren en væsentlig bedre retsstilling, end forbrugeren ellers ville have haft uden ”garantien”, jf. MFL § 17.
 
-* Den erhvervsdrivende skal informere forbrugeren om garantiens indhold på klar og tydelig måde, fx:
+Den erhvervsdrivende skal informere forbrugeren om garantiens indhold på klar og tydelig måde, fx:
 
-* Om garantiens varighed, begrænsninger, garantigivers navn og adresse.
-* At forbrugerens ufravigelige rettigheder efter lovgivningen ikke berøres af garantien, fx ufravigelige regler i købeloven eller anden lovgivning.
-* Forbrugeren kan bede den erhvervsdrivende udlevere garantien skriftligt, og 
-* Vilkårene for garantien skal være affattet på dansk, såfremt markedsføringen er sket på dansk
+Om garantiens varighed, begrænsninger, garantigivers navn og adresse.
+
+At forbrugerens ufravigelige rettigheder efter lovgivningen ikke berøres af garantien, fx ufravigelige regler i købeloven eller anden lovgivning.
+
+Forbrugeren kan bede den erhvervsdrivende udlevere garantien skriftligt, og vilkårene for garantien skal være affattet på dansk, såfremt markedsføringen er sket på dansk.
+
+---
  
 ## <font color="red">Sammenlignelige reklamer, jf. MFL § 21<sup> Premium </font></sup>
 
 <img src="img/mf13.png" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 Definition: En reklame som direkte eller indirekte henviser til en konkurrent eller til varer og tjenesteydelser, som udbydes af en konkurrent.
 
-* Budskabet være korrekt og relevant, og det skal ske loyalt for at være lovligt.
-* Ikke kritisere, latterliggøre eller omtale konkurrentens produkter på en nedsættende måde (misrekommandering).
-* Betingelserne for en lovlig, sammenlignende reklame	- se MFL § 21
+Budskabet være korrekt og relevant, og det skal ske loyalt for at være lovligt.
 
+Det må ikke kritisere, latterliggøre eller omtale konkurrentens produkter på en nedsættende måde (misrekommandering).
+
+Betingelserne for en lovlig, sammenlignende reklame	- se MFL § 21
+
+---
 
 **Hvad er sammenlignende reklame?**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/hQvnE8iPuXw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
   
+---
 
 ## <font color="red">Standardoplysninger ved kreditaftaler, jf. MFL § 18<sup> Premium </font></sup>
 
 <img src="img/mf14.jpeg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-* Debitorrenten, herunder om den er fast eller variabel eller begge, samt oplysninger om omkostninger, der indgår i forbrugerens samlede omkostninger i forbindelse med kreditten.
+Standardoplysninger ved kreditaftaler er følgende:
 
-* Det samlede kreditbeløb.
+Debitorrenten, herunder om den er fast eller variabel eller begge, samt oplysninger om omkostninger, der indgår i forbrugerens samlede omkostninger i forbindelse med kreditten.
 
-* De årlige omkostninger i procent (ÅOP), som beregnet efter lov om kreditaftaler.
+Det samlede kreditbeløb.
 
-* Kreditaftalens løbetid.
+De årlige omkostninger i procent (ÅOP), som beregnet efter lov om kreditaftaler.
 
-* Kontantprisen og størrelsen af en eventuel forudbetaling ved kredit i form af henstand med betalingen for en specifik vare eller tjenesteydelse.
-* Det samlede beløb, som skal betales af forbrugeren, og ydelsernes størrelse.
+Kreditaftalens løbetid.
+
+Kontantprisen og størrelsen af en eventuel forudbetaling ved kredit i form af henstand med betalingen for en specifik vare eller tjenesteydelse.
+
+Det samlede beløb, som skal betales af forbrugeren, og ydelsernes størrelse.
 
  
-
-
-
- 
+---
 
 ## <font color="red">Standardoplysninger ved boligkreditaftaler, jf. MFL § 19<sup> Premium </font></sup>
 
 <img src="img/mf15.jpeg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-* Boligkreditgivers eller boligkreditformidlers identitet.
 
-* Det pant eller anden sikkerhed, som ligger til grund for boligkreditaftalen.
+Standardoplysninger ved boligkreditaftaler er følgende:
 
-* Debitorrenten, og hvorvidt den er fast eller variabel eller begge dele, tillige med oplysninger om de gebyrer, der indgår i omkostningerne i forbindelse med boligkreditaftalen.
+Boligkreditgivers eller boligkreditformidlers identitet.
 
-* Det samlede kreditbeløb.
+Det pant eller anden sikkerhed, som ligger til grund for boligkreditaftalen.
 
-* De årlige omkostninger i procent (ÅOP)
+Debitorrenten, og hvorvidt den er fast eller variabel eller begge dele, tillige med oplysninger om de gebyrer, der indgår i omkostningerne i forbindelse med boligkreditaftalen.
 
-* Boligkreditaftalens løbetid.
+Det samlede kreditbeløb.
 
-* Ydelsernes størrelse.
+De årlige omkostninger i procent (ÅOP)
 
-* Det samlede beløb og antallet af ydelser, der skal betales.
+Boligkreditaftalens løbetid.
 
-* Advarsel om, at eventuelle udsving i valutakursen kan påvirke det beløb, der skal betales, hvis der markedsføres lån i Danmark i en anden valuta end danske kroner.
+Ydelsernes størrelse.
 
+Det samlede beløb og antallet af ydelser, der skal betales.
 
+Advarsel om, at eventuelle udsving i valutakursen kan påvirke det beløb, der skal betales, hvis der markedsføres lån i Danmark i en anden valuta end danske kroner.
 
-
-
+---
  
 ## <font color="red">Forretningskendetegn (MFL § 22) og forretningshemmeligheder<sup> Premium </font></sup>
 
@@ -569,11 +586,9 @@ Erhvervsdrivende må ikke benytte forretningskendetegn og lignende, der ikke til
 
 En krænkelse kræver, at der er en vis forvekslingsrisiko,. Vurderes konkret fra sag til sag.
 
-**Se dommen U1997.253H om pølsemanden ”McAllan”.**
+Se dommen **U 1997.253 H** om pølsemanden ”McAllan”.
 
-
-
- 
+---
 
 ### <font color="red">En virksomheds forretningshemmeligheder er beskyttet mod misbrug og uberettiget benyttelse<sup> Premium </font></sup>
 
@@ -587,7 +602,7 @@ Reglerne, som beskytter virksomheder mod uberettiget benyttelse af deres forretn
 
 Loven indeholder et forbud (§ 4) mod, at en person (fysisk eller juridisk) ulovligt erhverver, bruger eller videregiver fortrolig viden om en virksomhed.
  
-
+---
  
 ### <font color="red">Hvad er en forretningshemmelighed?<sup> Premium </font></sup>
 
@@ -596,12 +611,18 @@ Loven indeholder et forbud (§ 4) mod, at en person (fysisk eller juridisk) ulov
 Der er 3 lovbetingelser, som alle skal være opfyldte for, at der er tale om en forretningshemmelighed. Oplysningerne skal iflg. Lovens § 2:
 
 1.	være hemmelige forstået på den måde, at de ikke er almindeligt kendt
+
 2.	have en handelsværdi, fordi de er hemmelige
+
 3.	være underlagt rimelige foranstaltninger til hemmeligholdelse
 
 En forretningshemmelighed kan fx være produktudvikling og opfindelser, kundeforhold, driftstekniske og produktionsmæssige forhold, kommercielle og strategiske forhold mv. 
 
+![](img/cola.jpg)
+
 Et godt eksempel er fx opskriften på Coca Cola eller en virksomheds kundekartotek.
+
+---
  
 Hvis en person (fysisk eller juridisk) ulovligt erhverver, bruger eller videregiver en forretningshemmelighed kan domstolene sanktionere overtrædelsen på følgende måde:
 
@@ -610,46 +631,61 @@ Hvis en person (fysisk eller juridisk) ulovligt erhverver, bruger eller videregi
 * Domstolene kan nedlægge et midlertidigt eller endeligt forbud eller påbud mod at bruge eller videregive forretningshemmeligheden.
  
 
-
+---
  
 ##  <font color="red">Forbrugerombudsmandens virksomhed, jf. MFL §§ 25-30<sup> Premium </font></sup>
 
-* FOBs tilsyn har særligt fokus på forbrugerinteresser, men kan dog også håndhæve almene samfundsmæssige interesser og erhvervsinteresser.
-* FOB fører bl.a. tilsyn med overholdelse af markedsføringsloven, tobaksreklameloven, forbrugeraftaleloven, e-handelsloven, købeloven, aftaleloven, kreditaftaleloven, betalingsloven, lov om juridisk rådgivning  mv.
+FOBs (Forbrugerombudsmandens)tilsyn har særligt fokus på forbrugerinteresser, men kan dog også håndhæve almene samfundsmæssige interesser og erhvervsinteresser.
 
-* FOB kan starte en sag på eget initiativ, som følge af en klage fra en forbruger, eller en klage fra en anden erhvervsdrivende.
+FOB fører bl.a. tilsyn med overholdelse af markedsføringsloven, tobaksreklameloven, forbrugeraftaleloven, e-handelsloven, købeloven, aftaleloven, kreditaftaleloven, betalingsloven, lov om juridisk rådgivning mv.
 
-* En afgørelse truffet af FOB, kan indbringes til bedømmelse ved domstolene.
+FOB kan starte en sag på eget initiativ, som følge af en klage fra en forbruger, eller en klage fra en anden erhvervsdrivende.
+
+En afgørelse truffet af FOB, kan indbringes til bedømmelse ved domstolene, jf. grundlovens § 63.
+
+---
  
 
 ### <font color="red">Forbrugerombudsmandens opgaver og beføjelser<sup> Premium </font></sup>
 
 <img src="img/mf18.png" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 
-* FOB kan i særlige tilfælde foretage *kontrolundersøgelser i en virksomhed*, jf. MFL § 27.
+FOB kan i særlige tilfælde foretage *kontrolundersøgelser i en virksomhed*, jf. MFL § 27.
 
-* *Forhandlingsprincippet*: FOB har adgang til gennem forhandling med de erhvervsdrivende, at forsøge at påvirke virksomhederne, jf. MFL § 28.
+"*Forhandlingsprincippet*": FOB har adgang til gennem forhandling med de erhvervsdrivende, at forsøge at påvirke virksomhederne, jf. MFL § 28.
 
-* Via relevante erhvervs- og forbrugerorganisationer at påvirke de erhvervsdrivendes adfærd gennem udarbejdelse af retningslinjer og vejledninger for markedsføring inden for væsentlige områder, jf. MFL § 29.
+Især via relevante erhvervs- og forbrugerorganisationer at påvirke de erhvervsdrivendes adfærd gennem udarbejdelse af retningslinjer og vejledninger for markedsføring inden for væsentlige områder, jf. MFL § 29.
 * Forhåndsbesked/vurdering til virksomheden om et planlagt, men endnu ikke lanceret markedsføringstiltag er lovligt, jf. MFL § 30.
+
+---
  
-7.14.2. Forbrugerombudsmanden (FOB) Sanktioner
+**Forbrugerombudsmanden (FOB) Sanktioner**
+
 <img src="img/mf19.png" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 
-* De fleste overtrædelser af markedsføringsloven straffes med bøde.
-* Retsforfølgning: Retssager kan anlægges af FOB. Der kan anlægges sag om forbud, påbud, erstatning og vederlag, jf. MFL § 32.
-* Forbud: Handlinger, som er i strid med MFL kan forbydes ved dom. Foreløbigt forbud mod et tiltag kan gennemføres hurtigere via fogedretten.
-* Påbud: FOB kan meddele et påbud, fx om at genoprette den tilstand, som var der inden den ulovlige handling blev foretaget, herunder tilintetgørelse eller tilbagekaldelse af produkter, udsende oplysninger der berigtiger forholdet osv.
-* Erstatning: Oftest en erhvervsdrivende, som har lidt et tab på grund af en anden erhvervsdrivendes utilbørlige opførsel. Den erhvervsdrivende anlægger retssagen uden om FOB.
+De fleste overtrædelser af markedsføringsloven straffes med bøde.
+
+*"Retsforfølgning*": Retssager kan anlægges af FOB. Der kan anlægges sag om forbud, påbud, erstatning og vederlag, jf. MFL § 32.
+
+*"Forbud*": Handlinger, som er i strid med MFL kan forbydes ved dom. Foreløbigt forbud mod et tiltag kan gennemføres hurtigere via fogedretten.
+
+*"Påbud*": FOB kan meddele et påbud, fx om at genoprette den tilstand, som var der inden den ulovlige handling blev foretaget, herunder tilintetgørelse eller tilbagekaldelse af produkter, udsende oplysninger der berigtiger forholdet osv.
+
+*"Erstatning"*: Oftest en erhvervsdrivende, som har lidt et tab på grund af en anden erhvervsdrivendes utilbørlige opførsel. Den erhvervsdrivende anlægger retssagen uden om FOB.
 
 ---
 
-#### <font color="red">Quiz: Markedsføringsloven<sup> Premium </font></sup>
+**Quiz: Markedsføringsloven**
+
+![](img/baby.jpg)
 
 Markedsføringsloven sætter rammerne for, hvornår og hvordan virksomheder må markedsføre sig over for dig som forbruger. <a href="https://www.forbrug.dk/quiz/markedsfoeringslov/?rn=43716" target="_blank">Men hvor godt kender du egentlig reglerne?</a>  
 
+---
 
-#### <font color="red">Quiz: Spam og reklamer<sup> Premium </font></sup>
+**Quiz: Spam og reklamer**
+
+![](img/tele2.jpg)
 
 Bliver du konstant kontaktet af telefonsælgere, eller er din indbakke ramt af spam? <a href="https://www.forbrug.dk/quiz/spam-og-reklamer/?rn=43716" target="_blank">Forbrug.dk sætter med denne quiz fokus på reglerne for spam og reklamer.</a>  
 
@@ -658,7 +694,8 @@ Bliver du konstant kontaktet af telefonsælgere, eller er din indbakke ramt af s
 ## <font color="red">E-Kursus: Regler for online handel og markedsføring<sup> Premium </font></sup>
 
 <img src="img/mf20.png" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
-Ekstra materiale som ikke er en del af pensum om advokatefteruddannelseskursus om ”Online handel og markedsføring ”  
+
+Ekstra materiale som ikke er en del af pensum fra et advokatefteruddannelseskursus om ”Online handel og markedsføring ”  
 
 
 

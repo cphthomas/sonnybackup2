@@ -11,11 +11,17 @@ Her skal gennemgås de vigtige juridiske regler for fordringer, gældsbreve og p
 
 En fordring er et krav, som en person eller et selskab (kreditor) har mod en anden part (debitor). 
 
+Debitor er blot en anden betegnelse for skyldner.
+
 En fordring består typisk i et pengebeløb, men den kan også bestå i andet.  
 
 Den kan fx bestå i, at debitor skylder en arbejdsydelse, eller i at der skal leveres en ting. 
 
 Et gaveløfte betyder, at man skal give den lovede gave, som fx kan være en ting.
+
+---
+
+"Debitorskifte": Når en ny debitor overtager gælden. Det kræver accept af kreditor.
 
 ---
 
@@ -43,7 +49,6 @@ edges <- data.frame(from = c(1,2),
   visHierarchicalLayout(direction = "LR",levelSeparation = 500) %>%
 visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 ```
-
 
 
 
@@ -269,7 +274,7 @@ En betalingstransaktion med kort går gennem betalingsmodtagers bank og korthold
 
 ```{r transaktion, echo=FALSE, result=TRUE,fig.height=3,fig.cap=("Transaktion, køber betaler sælger en cafe med dankort")}
 
-nodes <- data.frame(id = 1:4, shape = c("box"),label  = c("Betaler","Udbyder\nKøbers bank","Udbyder\nSælgers bank","Betalingsmodtager\nSælger cafe"),font.size = c(25,25,25,25),level = c(2,1,1,2))
+nodes <- data.frame(id = 1:4, shape = c("box"),label  = c("betaler","udbyder\nkøbers bank","udbyder\nsælgers bank","betalingsmodtager\nsælger cafe"),font.size = c(25,25,25,25),level = c(2,1,1,2))
 edges <- data.frame(from = c(1,2,3), 
                     to = c(2,3,4),
                     arrows = c("to"),
@@ -622,6 +627,12 @@ Dette gælder dog ikke for:
 Sikringsakten er den handling (akt), man skal foretage, for at ens pant er retsbeskyttet over for kreditorer eller aftaleerhververe. 
 
 Sikringsakten kan være, at man skal give meddelelse (denunciere), jf. Gbl. § 31, eller sørge for tinglysning eller anden registrering eller foretage rådighedsberøvelse.
+
+---
+
+"Denunciation": Betyder underretning - meddelelse. Er i nogle tilfælde en betingelse for at sikre sin ret efter en aftale overfor den anden parts kreditorer.
+
+---
 
 
 <img src="img/gb10.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
@@ -1024,6 +1035,18 @@ edges <- data.frame(from = c(1,2,3), to = c(2,3,4),
   visEdges(color = list(color = "lightgrey", highlight = "yellow"))
 
 ```
+
+---
+
+Lidt begreber, som vi jurister arbejder med:
+
+"Cedent":	Overdrager af en fordring.
+
+"Cession":	Overdragelse af en fordring.
+
+"Cessionar":	Erhverver af en fordring.
+
+"Cessus":	Skyldneren i fordring, der bliver overdraget.
 
 ---
 

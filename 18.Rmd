@@ -6,15 +6,11 @@
 
 ---
 
-***Som studerende skal du være særlig opmærksom på følgende forhold ved gennemlæsning af pensum om pant i fast ejendom, løsøre og virksomhedspant***:
+**Som studerende skal du være særlig opmærksom på følgende forhold ved gennemlæsning af pensum om pant i fast ejendom, løsøre og virksomhedspant i forhold til eksamen**:
 
 
 
-![](img/bog1.jpg)
-
-
-
-***Underpant i fast ejendom:***
+**Underpant i fast ejendom:**
 
 
 * **Stiftelse, TL § 1**
@@ -40,7 +36,7 @@
 
 ---
 
-***Underpant i løsøre:***
+**Underpant i løsøre:**
 
 
 * **Underpant i løsøre (inkl. motorkøretøjer m.m.)**
@@ -53,7 +49,7 @@
 
 ---
 
-***Virksomhedspant/fordringspant:***
+**Virksomhedspant/fordringspant:**
 
 * **Virksomhedspant TL § 47c - § 47f**
 
@@ -68,13 +64,13 @@
 ## Parter, regler og definitioner
 
 
-* Ejer af et aktiv har ejendomsretten
+Ejeren af et aktiv har ejendomsretten til aktivet.
 
-* Den der har ejendomsretten er rettighedshaver
+Den der har ejendomsretten er rettighedshaver.
 
-* Ejer kan give pant i aktivet til panthaver. Så bliver ejer pantsætter, og panthaver bliver også rettighedshaver
+Ejeren kan give pant i aktivet til panthaver. Så bliver ejer pantsætter, og panthaver bliver også rettighedshaver.
 
-* Pant reguleres i vidt omfang af reglerne i tinglysningsloven, jf. Lovbekendtgørelse nr. 1075 af 29. september 2014 om tinglysning
+Pant reguleres i vidt omfang af reglerne i tinglysningsloven, jf. Lovbekendtgørelse nr. 1075 af 29. september 2014 om tinglysning
 
 ---
 
@@ -139,17 +135,15 @@ Pantsætter (ejer) skal passe på det pantsatte aktiv.
 
 ---
 
-Pantsætter:
+Pantsætteren skal sørge for almindelig vedligeholdelse af det pantsatte aktiv.
 
-+ Skal sørge for almindelig vedligeholdelse
-
-+ Må ikke forringe pantets værdi ud over sædvanlig slid og ælde, fx:
+Der må ikke ske forringe pantets værdi ud over sædvanlig slid og ælde, fx:
    
 * Værdiforringende ændringer
 
 * Fjerne aktiver fra pantet
 
-+ Skal ofte sørge for at aktivet er forsikret mod tyveri og brand.
+Pantsætter skal ofte sørge for at aktivet er forsikret mod tyveri og brand.
    
 ---
 
@@ -159,19 +153,22 @@ Pantsætter:
 
 **Håndpant**
 
-+ Kræver rådighedsberøvelse
-+ Bruges ved omsætningsgældsbreve eller løsøre hvor der er fare for, at pantsætter vil forringe aktivet.
+Det kræver en rådighedsberøvelse af aktivet.
+
+Det bruges ved omsætningsgældsbreve eller løsøre (fx. kunst og smykker) hvor der er fare for, at pantsætter vil forringe aktivet eller pantsætter sælger aktivet.
 
 ---
 
    
 **Underpant**
 
-+ Det oftest anvendte, da pantsætter kan beholde rådigheden over aktivet (fx pantsætning af hus eller bil).
+Det oftest anvendte, da pantsætter kan beholde rådigheden over aktivet (fx pantsætning af hus eller bil)
 
 ---
    
 **Retspant** – fx udlæg
+
+---
 
 **Lovbestemt** pant – fx ejendomsskat
 
@@ -202,7 +199,7 @@ Afdrager boligejeren ikke på lånet som aftalt, kan panthaveren begære tvangsa
 ## Pantebreve og aftaler om pant
 
 
-***Typer af pantebreve***:  
+**Typer af pantebreve**:  
 
 Der findes følgende pantebrevsformer:
 
@@ -230,7 +227,9 @@ Tinglysningsafgiften vil normalt blive medfinansieret i lånet.
 
 Da de færreste boligkøbere har mulighed for at betale boligen kontant, skal der normalt optages lån i forbindelse med boligkøbet. 
 
-Som regel bliver der optaget realkreditlån, eventuelt suppleret med et banklån. Når realkreditinstitutter og banker yder lån, forudsættes det, at boligkøberen giver pant i boligen til sikkerhed for tilbagebetaling af lånet.
+Som regel bliver der optaget realkreditlån, eventuelt suppleret med et banklån. 
+
+Når realkreditinstitutter og banker yder lån, forudsættes det, at boligkøberen giver pant i boligen til sikkerhed for tilbagebetaling af lånet.
 
 Pantet stiftes ved at der tinglyses et pantebrev.
 
@@ -259,6 +258,8 @@ Al tinglysning foregår digitalt på hjemmesiden www.tinglysning.dk. Det er muli
 Alle, der har NemID, har adgang til den digitale tinglysning, men det er en god ide at gøre sig overvejelser omkring, om man har de juridiske forudsætninger for at tinglyse.
 
 I mapperne ovenfor finder man vejledninger til de digitale tingbøger samt generelle. Sidstnævnte kategori dækker over almengyldige vejledninger til tinglysningssystemet.
+
+---
 
 
 **Rent praktisk er tinglysningsprocessen delt i tre faser:**
@@ -372,33 +373,49 @@ scroll_box(width = "100%")
 
 ---
 
-**Formålet med sikringsakten er:**
+Formålet med sikringsakten er:
 
-*Prioritetskonstaterende virkning:* 
+**Prioritetskonstaterende virkning:** 
 
-Er der flere panthaver i samme aktiv opstår en prioritetsstilling.
+Er der flere panthaver i samme aktiv opstår en prioritetsstilling i mellem panthaverne.
+
+---
 
 **Offentliggørende virkning**:  
 
-Tinglysning af en rettighed medfører, at det bliver offentliggjort. Alle har ret til at slå op i tingbøgerne og se ejerskab, pant mv. 
+Tinglysning af en rettighed medfører, at det bliver offentliggjort. 
 
-*Rådighedsindskrænkende virkning:*  
+Alle har ret til at slå op i tingbøgerne og se ejerskab, pant mv. 
 
-Håndpantsætning medfører, at pantsætter ikke længere har adgang til aktivet. Andre pantformer indskrænker pantsætter ret til at råde over aktivet.  
+---
+
+**Rådighedsindskrænkende virkning:**  
+
+Håndpantsætning medfører, at pantsætter ikke længere har adgang til aktivet. 
+
+Andre pantformer indskrænker pantsætter ret til at råde over aktivet.  
 
 
+---
  
-## Hvilke aktiver kan kreditor få pant i?  
+## Aktiver kreditor kan få pant i  
 
 **Aktivtyper:**
 
 * Biler
+
 * Fast ejendom
+
 * Andelslejlighed
+
 * Løsøre
+
 * Virksomhedspant
+
 * Fordringer og fordringspant
+
 * Værdipapirer, aktier og anparter
+
 * Fly og skibe
  
 ---
@@ -446,6 +463,8 @@ mydf %>%
  
 ## Pant i fast ejendom
 
+![](img/amal.jpg)
+
 Pant i fast ejendom er en sikkerhed som bruges til opfyldelse af en forpligtelse. 
 
 Pant i fast ejendom bruges oftest til at stille sikkerhed for et lån via et pantebrev.
@@ -456,13 +475,15 @@ Ved udbetaling af et lån, hvor der stilles sikkerhed i den faste ejendom, blive
 
 Pant i fast ejendom kan både bruges som sikkerhed via et pantebrev til køb af bolig og dermed som sikkerhed for et boliglån samt ved at tage lån i friværdi.
 
-* Alle rettigheder over fast ejendom skal tinglyses
+---
+
+Alle rettigheder over fast ejendom skal tinglyses:
 
 * Tinglyses i Tingbogen med angivelse af et eller flere matrikelnumre
 
 * Adkomst – skøde tinglyses for at sikre ejendomsretten
 
-* Byrder/servitutter- fx en lejekontrakt, vejret, byggehøjde eller ægtepagt tinglyses for at sikre sig mod evt. køber
+* Byrder/servitutter - også kaldet en deklaration - fx en lejekontrakt, vejret, byggehøjde eller ægtepagt tinglyses for at sikre sig mod evt. køber
 
 * Hæftelser – pant og udlæg tinglyses for at sikre prioritet på evt. tvangsauktion  
 
@@ -498,27 +519,31 @@ Pant i fast ejendom kan både bruges som sikkerhed via et pantebrev til køb af 
 ---
 
 
-*Vigtigste dokumenter, der således kan tinglyses:*
+Vigtigste dokumenter, der således kan tinglyses:
 
-* Endeligt skøde: Ikke andre betingelser end købesummens betaling
+Endeligt skøde: Ikke andre betingelser end købesummens betaling
 
-* Betinget skøde: Endelig overdragelse er gjort betinget af andre forhold end købesummens betaling.
+Betinget skøde: Endelig overdragelse er gjort betinget af andre forhold end købesummens betaling.
 
-* Alm. pantebreve: Skal udfærdiges på standardblanket. Foranstående hæftelser skal angives.
+Alm. pantebreve: Skal udfærdiges på standardblanket. Foranstående hæftelser skal angives.
 
-* Skadesløsbreve/ejerpantebreve: Hvor der gives pant for et max. beløb, men skyldens størrelse fremgår ikke af selve pantebrevet, men af et under-liggende skyldforhold.
+Skadesløsbreve/ejerpantebreve: Hvor der gives pant for et max. beløb, men skyldens størrelse fremgår ikke af selve pantebrevet, men af et under-liggende skyldforhold.
 
-* Servitutter: Ex. servitut vedrørende lokalplaner, vejret.
+Servitutter: Ex. servitut vedrørende lokalplaner, vejret.
 
+---
 
-**Pantebrevslån som alternativ boligfinansiering:** 
+Pantebrevslån som alternativ boligfinansiering: 
 
 Et pantebrevslån er et privat lån, man tager uden om banken. Man kan tage et pantebrevslån, hvis man køber fast ejendom, og dermed stiller sikkerhed i den bolig man finansierer med lånet.  
 
+---
 
 ## Hvad omfatter pant i fast ejendom
 
-Hvad er omfattet af fast ejendom? Fast ejendom dækker både over jordarealer samt bygninger. 
+Hvad er omfattet af fast ejendom: 
+
+Fast ejendom dækker både over jordarealer samt bygninger. 
 
 Et stykke jord med tilhørende bygning anses som samme faste ejendom, og har derfor en samlet værdi. 
 
@@ -530,9 +555,11 @@ En bygning på en lejet grund kan i nogle tilfælde være særskilt fast ejendom
 
 * En del løsøre er tilbehør til fast ejendom og bliver en del af den samlede faste ejendom. Ejendomspant i løsøre beskrives af:
 
-   + Tilvækstlæren
-   + TL § 38 om indlagt løsøre
-   + TL § 37 om erhvervsløsøre
++ Tilvækstlæren
+
++ TL § 38 om indlagt løsøre
+
++ TL § 37 om erhvervsløsøre
    
 ---   
 
@@ -623,28 +650,27 @@ mydf %>%
 
 ---   
 
+Hvad betyder "tilvækstlæren"?
 
-* Omfatter løsøreaktiver, som ikke kan fjernes fra ejendommen uden at gøre skade på den
+Når en genstand anbringes i en ejendom på en sådan måde, at det beskadiger ejendommen at fjerne genstanden, kan genstanden blive omfattet af ejndommens pant.
 
-* Omfatter fx nedgravede kabler, kloaknet, vinduer, tag – alt der er ”vokset” ind i bygningen/ejendommen
+Tilvækstlæren omfatter således løsøreaktiver, som ikke kan fjernes fra ejendommen uden at gøre skade på den
 
-* Løsøre omfattet af tilvækstlæren er en del af ejendommen og ingen kan have en særskilt ret over det. 
+Det omfatter fx nedgravede kabler, kloaknet, vinduer, tag – alt der er ”vokset” ind i bygningen/ejendommen
+
+Løsøre omfattet af tilvækstlæren er en del af ejendommen og ingen kan have en særskilt ret over det. Det vokster så og sige ind i ejendommens pant. 
 
 Dette gælder også, selvom ejeren ikke selv har betalt for løsøret.
 
 ---
 
-  
-
-
 
 **TL § 38 – Indlagt løsøre**
 
 
-
 <img src="img/hårdehvidevare.jpg" align="right" width="40%" height="40%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
----
+
 
 Omfatter løsøreaktiver, som er:
 
@@ -662,7 +688,7 @@ Indlagt løsøre er omfattet af ejendomspantet og særskilt ret over det kan ikk
 
 TL § 38 har følgende ordlyd: 
 
-”Når en bygning er opført, helt eller delvis, og når ledninger, varmeanlæg, husholdningsmaskiner eller lignende er blevet indlagt i bygningen på ejerens bekostning til brug for bygningen, kan særskilt ret over bygningens materialer og over nævnte tilbehør ikke forbeholdes, være sig som ejendomsret eller på anden måde. Tinglyst pantebrev i en ejendom omfatter uden særlig vedtagelse også dette tilbehør” 
+”Når en bygning er opført, helt eller delvis, og når ledninger, varmeanlæg, husholdningsmaskiner eller lignende er blevet indlagt i bygningen på ejerens bekostning til brug for bygningen, kan særskilt ret over bygningens materialer og over nævnte tilbehør ikke forbeholdes, være sig som ejendomsret eller på anden måde. Tinglyst pantebrev i en ejendom omfatter uden særlig vedtagelse også dette tilbehør”. 
 
 ---
 
@@ -684,7 +710,7 @@ Formuleringen i TL 38: »når en bygning er opført, helt eller delvis« gælder
 
 ---
 
-**Domme**
+**Domme:**
 
 ![](img/gart.jpg)
 
@@ -692,9 +718,13 @@ Dommen **U 1934 167** (centrifugalpumpe ved brønd i det fri, der anvendtes til 
 
 Dommen **U 1932 603** (automatisk pumpe i ejendoms gård forbundet med rør til hovedbygning og stald omfattet af TL 38). 
 
+---
+
 ![](img/svin.jpg)
 
 Men dommen **VLT 1932 329** (pumpe anvendt i briketfabrik, anbragt i skur uden tilknytning til nogen bygning, ikke omfattet af TL § 38). Svinehuse, hønsehuse og mindre skure omfattes af TL § 38, selv om man ikke kan henregne dem til bygninger. 
+
+---
 
 ![](img/hons.jpg)
 
@@ -708,13 +738,15 @@ Det er tvivlsomt, i hvilket omfang vindmøller er omfattet af TL § 38, således
 
 Se dommen **U 1991 447/1** V (vindmølle, der udelukkende producerede el til videresalg og ikke forsynede den ejendom, hvorpå den var beliggende, ikke omfattet af pantet i ejendommen efter TL § 38; pantsætning måtte derfor ske efter reglerne for løsøre).
 
+---
+
 Der lægges der vægt på i TL § 38, om tilbehøret er **indlagt i »bygningen«**. Hermed er det understreget, at en genstand kun kan anses for omfattet af TL § 38, hvis den kan anses som et tilbehør til selve bygningen, jf. også ordene **"til brug for bygningen"**. 
 
 ---
 
 Det er således ikke tilstrækkeligt, at genstanden kan betragtes som tilbehør til en erhvervsvirksomhed, der drives i bygningen.  
 
-Tilbehør til grunden kan også være omfattet af TL § 38, jf. ordet »delvis«. 
+Tilbehør til grunden kan også være omfattet af TL § 38, jf. ordet **»delvis«**. 
 
 Med udtrykket »indlagt« er det bl.a. fremhævet, at der må være en vis rumlig forbindelse mellem bygning (grund) og tilbehør, selv om det ikke kræves, at anbringelsen er sket »mur- og nagelfast«. 
 
@@ -726,7 +758,7 @@ Se dommen **U 1987 854 V** (køleskabe, komfurer og elradiatorer, der var opstil
 
 ---
 
-Kravet om, at anskaffelsen skal være sket på ejerens bekostning. Udenfor falder herefter tilfælde, hvor anskaffelsen er bekostet af en lejer, idet det afgørende i denne henseende er, om vederlaget i realiteten betales af ejeren, ikke om betalingen formelt kommer fra ham, jf. dommen **U 1941 731 H**.
+Kravet om, at anskaffelsen skal være sket på ejerens bekostning. Udenfor falder herefter tilfælde, hvor anskaffelsen er bekostet af en lejer, idet det afgørende i denne henseende er, om vederlaget i realiteten betales af ejeren, ikke om betalingen formelt kommer fra ejeren, jf. dommen **U 1941 731 H**.
 
 Er en genstand anskaffet af ejendommens ejers ægtefælle, må udgangspunktet være, at den ikke omfattes af TL § 38, jf. dommene **U 1983 951 V** og **U 1985 227 V**. 
 
@@ -753,15 +785,17 @@ TL § 37, stk. 1 har følgende formulering;
 
 Hvis ejendommen er:
 
-*	En erhvervsejendom. I reglen skal indretningen fremgå af særlige bygningsforanstaltninger. 
+En erhvervsejendom. I reglen skal indretningen fremgå af særlige bygningsforanstaltninger. 
 
 Specielt inventar mv. kan i særlige tilfælde være tilstrækkeligt, medens faktisk anvendelse til erhverv ikke er nok. 
 
 Ikke hele ejendommen behøver at være indrettet med henblik på erhvervsvirksomheden, når den blot ikke spiller en kun ubetydelig rolle.
 
-*	Som er varigt indrettet. I tvivlstilfælde kan der ses hen til betydningen for pantesikkerheden, U 1934 352. 
+Som er varigt indrettet: I tvivlstilfælde kan der ses hen til betydningen for pantesikkerheden, jf. dommen i **U 1934 352**. 
 
 Det er uden betydning, om ejendommen først ved senere bygningsændring er blevet indrettet til erhvervsejendom
+
+---
 
 **Med en særlig erhvervsvirksomhed for øje**. 
 
@@ -773,9 +807,9 @@ Er driftsmateriel og driftsmidler omfattet af ejendomspantet.
 
 Altså - med undtagelse af biler, jf. stk. 3 - alle genstande, der varigt benyttes i driften som grundlag for denne (produktionsmidler), derimod (bortset fra landejendomme) ikke råvarer, halvfabrikata og færdige produkter:
 
-Se hertil **dommen U 1987 586 V** (køkkener, der midlertidigt var opstillet i en køkkenfabrikants detailforretninger for at fremme salget, og som var monteret på nogenlunde samme måde som i et privat hjem, men blev udskiftet ved modelskifte mv., var ikke omfattet af en panthavers panteret efter TL § 37 og TL § 47 b, stk. 2, idet køkkenerne i princippet måtte sidestilles med enhver anden form for demonstrations/udstillingsvare, der traditionelt henregnes til en virksomheds varelager), 
+Se hertil dommen **U 1987 586 V** (køkkener, der midlertidigt var opstillet i en køkkenfabrikants detailforretninger for at fremme salget, og som var monteret på nogenlunde samme måde som i et privat hjem, men blev udskiftet ved modelskifte mv., var ikke omfattet af en panthavers panteret efter TL § 37 og TL § 47 b, stk. 2, idet køkkenerne i princippet måtte sidestilles med enhver anden form for demonstrations/udstillingsvare, der traditionelt henregnes til en virksomheds varelager), 
 
-Dommen **U 1973 925 H** (et vaskeri drev også virksomhed med udlejning af arbejdstøj, duge og sengelinned mv.
+Se dommen **U 1973 925 H** (et vaskeri drev også virksomhed med udlejning af arbejdstøj, duge og sengelinned mv.
 
 Antaget, at disse genstande nærmest måtte sidestilles med et varelager og ikke kunne anses som driftsinventar eller driftsmateriel omfattet af TL § 37).
 
@@ -799,9 +833,13 @@ Hvis ejendommen er en landejendom omfatter pantet også:
 
 ![](img/heste.jpg)
 
+![](img/hons1.jpg)
+
 Dommen **U 1981 863 V** (heste i stutteri) og dommen **U 1969 961 V** (høns i hønseri). 
 
-Men se nu **dommen U 1987 807 H** (en ørredbestand på et dambrug kunne ikke anses for driftsmateriel) og 
+![](img/dam.jpg)
+
+Men se nu dommen **U 1987 807 H** (en ørredbestand på et dambrug kunne ikke anses for driftsmateriel) og 
 
 ![](img/mink.jpg)
 
@@ -813,27 +851,27 @@ Dommen **U 1935 561**, således også høns, smågrise og får,
 
 Dommen **VLT 1957 159** (ekstraordinært stort fårehold, uanset at besætningen ikke kunne ernæres af gårdens produkter), men ikke kaniner, pelsdyr, duer, bier og lignende. 
 
-Det må dog kræves, at dyrene har væsentlig betydning for ejendommen, hvorfor man snarere vil medtage høns ved husmandsbrug, **dommen U 1937 154, end ved større landejendomme, jf. dommen U 1935 373**.
+Det må dog kræves, at dyrene har væsentlig betydning for ejendommen, hvorfor man snarere vil medtage høns ved husmandsbrug, dommen **U 1937 154**, end ved større landejendomme, jf. dommen **U 1935 373**.
  
-* Gødning, afgrøder og andre frembringelser. En landbrugsejendoms mælkekvote er ikke omfattet af TL § 37, og det samme gælder et krav på godtgørelse for ophør med mælkeleverance, jf. **dommen U 1992 815 V**. 
+* Gødning, afgrøder og andre frembringelser. En landbrugsejendoms mælkekvote er ikke omfattet af TL § 37, og det samme gælder et krav på godtgørelse for ophør med mælkeleverance, jf. dommen **U 1992 815 V**. 
 
-Såvel den på roden værende som den indhøstede avl og afgrøde, **dommen U 1964 746 V**. 
+Såvel den på roden værende som den indhøstede avl og afgrøde, dommen **U 1964 746 V**. 
 
-Panthaverne i den faste ejendom må dog respektere høstpant stiftet i henhold til lov om høstpant. Om kartoffelleveringsrettigheder se **dommen U 1998 209/2 V og dommen U 2000 967 V**.
+Panthaverne i den faste ejendom må dog respektere høstpant stiftet i henhold til lov om høstpant. Om kartoffelleveringsrettigheder se dommen **U 1998 209/2 V** og dommen **U 2000 967 V**.
 
 * En landejendom er oftest en traditionel gård med jordbrug og besætning. 
 
-Der må være tale om en egentlig jordbrugsvirksomhed, **dommen U 1995 362 H** (minkfarm ikke omfattet), 
+Der må være tale om en egentlig jordbrugsvirksomhed, dommen **U 1995 362 H** (minkfarm ikke omfattet), 
 
-**Dommen U 1987 807 H** (dambrug ikke omfattet), 
+Dommen **U 1987 807 H** (dambrug ikke omfattet), 
 
-**Dommen U 1981 863 V** (en ejendom, der var noteret som landbrugsejendom, men som gennem lang tid udelukkende havde været drevet som stutteri og var indrettet specielt hertil, var ikke omfattet), 
+Dommen **U 1981 863 V** (en ejendom, der var noteret som landbrugsejendom, men som gennem lang tid udelukkende havde været drevet som stutteri og var indrettet specielt hertil, var ikke omfattet), 
 
-**Dommen U 1969 961 V** (hønseri ikke anset for landejendom), 
+Dommen **U 1969 961 V** (hønseri ikke anset for landejendom), 
 
-**Dommen U 1933 762** (ligeledes), 
+Dommen **U 1933 762** (ligeledes), 
 
-**Dommen VLT 1935 58** (pant i smedje med tilhørende areal af 1 td land antoges ikke at omfatte 1 hest, 1 ko og nogle smågrise, selv om stald var indrettet i husets ene ende). 
+Dommen **VLT 1935 58** (pant i smedje med tilhørende areal af 1 td land antoges ikke at omfatte 1 hest, 1 ko og nogle smågrise, selv om stald var indrettet i husets ene ende). 
 
 Det er uden betydning, om ejendommens jorder er beliggende i en landkommune eller ikke. 
 
@@ -843,11 +881,13 @@ Muligvis kan antallet af dyr på en ejendom være så stort, at der ikke er tale
 
 Det er derimod ikke nødvendigt, at opdræt af en besætning udelukkende baseres på ejendommens egen avl af foder.
 
+---
+
 **Uden for panteretten falder personlige brugsgenstande**
 
-jf. **dommen U 1975 323 Ø**. (udsmykningsgenstande, herunder en antik våbensamling, i restaurationsvirksomhed ikke anset for omfattet af TL § 37, hvorimod et farvefjernsyn efter sin placering og anvendelse måtte betragtes som driftsinventar i forretningen). 
+Se dommen **U 1975 323 Ø**. (udsmykningsgenstande, herunder en antik våbensamling, i restaurationsvirksomhed ikke anset for omfattet af TL § 37, hvorimod et farvefjernsyn efter sin placering og anvendelse måtte betragtes som driftsinventar i forretningen). 
 
-Personbiler er i almindelighed ikke omfattet, selv om de er anskaffet forud for 1993-06-01 og derfor ikke er undtaget efter TL § 37, stk. 3, jf. **dommene U 1979 411/1 V, U 1978 823 V og U 1973 354 V**.
+Personbiler er i almindelighed ikke omfattet, selv om de er anskaffet forud for 1993-06-01 og derfor ikke er undtaget efter TL § 37, stk. 3, jf. dommene **U 1979 411/1 V, U 1978 823 V og U 1973 354 V**.
 
 Er der tvivl om, hvorvidt genstande er omfattet af TL § 37 (eller TL § 38), kan de fremhæves udtrykkeligt i pantebrevet. Løsøregenstande, som ikke er omfattet af TL § 37, kan pantsættes særskilt efter TL § 47 (individualiserbart løsøre) eller efter TL § 47 c, virksomhedspant.
 
@@ -1012,88 +1052,110 @@ Reglerne om omstødelse ved konkurs og rekonstruktion sikrer Konkurslovens liged
 
 ## Pant i løsøre
 
-* Løsøre omfatter enkelte aktiver, fx cykel, maleri, smykker, båd eller andre genstande
+Løsøre omfatter enkelte aktiver, fx cykel, maleri, smykker, båd eller andre genstande.
 
-* Pant i løsøre kan tinglyses
+Pant i løsøre kan tinglyses.
 
-* Ejendomsret til løsøre registreres ikke i et officielt register på samme måde som fast ejendom
+Ejendomsret til løsøre registreres ikke i et officielt register på samme måde som fast ejendom.
 
-* Ejendomsretten sikres ved individualisering
+Ejendomsretten sikres ved individualisering.
+
+---
  
 ## Biler
 
 <img src="img/tinglysning9.jpg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-* Motorkøretøjer
+Motorkøretøjer er:
 
-Typisk: Personbiler, lastbiler, varebiler, busser, campingvogne, motorcykler, påhængs- og sættevogne Typisk ikke: Knallerter, traktorer, mejetærsker, sidevogne
+Typisk: Personbiler, lastbiler, varebiler, busser, campingvogne, motorcykler, påhængs- og sættevogne Typisk ikke: Knallerter, traktorer, mejetærsker, sidevogne.
 
-* Pant eller ejendomsforbehold tinglyses i Bilbogen med angivelse af stelnummer og bilens ejer
+Pant eller ejendomsforbehold tinglyses i Bilbogen med angivelse af stelnummer og bilens ejer.
 
-* Flere panthavere i samme bil – prioritetsstilling
+Flere panthavere i samme bil – medfører en prioritetsstilling.
 
-* Et pantebrev har som udgangspunkt oprykningsret, efterhånden som foranstående pantebrev bliver betalt
+Et pantebrev har som udgangspunkt oprykningsret, efterhånden som foranstående pantebrev bliver betalt.
 
-* Pantebrev slettes fra Bilbogen efter 10 år
-
- 
-## Pant i andet løsøre
-
-* Pant tinglyses i Personbogen med angivelse af, hvilken genstand pantet omfatter – en klar og tydelig beskrivelse anbefales
-
-* Flere panthavere i samme løsøre – prioritetsstilling
-
-* Ejendomsforbehold og udlæg kan ikke tinglyses i Personbogen
-
-* Pantebrev slettes fra Personbogen efter 10 år
-
- 
-## Flydende pant – TL § 47b, stk. 2 – pant
+Pantebrev slettes fra Bilbogen efter 10 år.
 
 ---
+
+## Pant i andet løsøre
+
+Pant tinglyses i Personbogen med angivelse af, hvilken genstand pantet omfatter – en klar og tydelig beskrivelse anbefales.
+
+Flere panthavere i samme løsøre – medfører en prioritetsstilling.
+
+Ejendomsforbehold og udlæg kan ikke tinglyses i Personbogen.
+
+Pantebrev slettes fra Personbogen efter 10 år.
+
+
+---
+
+## Flydende pant – TL § 47b, stk. 2 – pant
+
+
 
 Bestemmelsen i TL § 47b, stk. 2 har følgende formulering: 
 
-*”Når en erhvervsvirksomhed drives fra lejet ejendom, kan indehaveren uanset bestemmelsen i stk. 1 pantsætte det til virksomheden hørende driftsinventar og driftsmateriel - derunder maskiner og tekniske anlæg af enhver art - og ved landejendomme tillige den til ejendommen hørende besætning, gødning, afgrøder og andre frembringelser. Pantsætningen er ikke til hinder for, at de nævnte genstande udskilles ifølge en regelmæssig drift af virksomheden. Reglerne i 1. og 2. pkt. gælder ikke for de i § 42 c nævnte køretøjer.”*  
+”Når en erhvervsvirksomhed drives fra lejet ejendom, kan indehaveren uanset bestemmelsen i stk. 1 pantsætte det til virksomheden hørende driftsinventar og driftsmateriel - derunder maskiner og tekniske anlæg af enhver art - og ved landejendomme tillige den til ejendommen hørende besætning, gødning, afgrøder og andre frembringelser. Pantsætningen er ikke til hinder for, at de nævnte genstande udskilles ifølge en regelmæssig drift af virksomheden. Reglerne i 1. og 2. pkt. gælder ikke for de i § 42 c nævnte køretøjer.”  
 
 ---
 
-I lighed med hvad der gælder efter TL § 37, skal ejendommen være indrettet med erhvervsvirksomhed for øje, jf. U 1990 217 H. 
+I lighed med hvad der gælder efter TL § 37, skal ejendommen være indrettet med erhvervsvirksomhed for øje, jf. dommen i **U 1990 217 H**. 
 
 Det er en betingelse, at virksomheden virkelig kan siges at blive drevet fra lejet ejendom. 
 
-Hvis virksomheden primært drives fra egen ejendom, medens den lejede ejendom alene er at betragte som et accessorium hertil, kan løsøre, der befinder sig på den lejede ejendom, derfor ikke gyldigt pantsættes under ét i medfør af TL § 47 b, stk. 2, jf. U 1983 425 V og U 1984 829/1 V.  
+Hvis virksomheden primært drives fra egen ejendom, medens den lejede ejendom alene er at betragte som et accessorium hertil, kan løsøre, der befinder sig på den lejede ejendom, derfor ikke gyldigt pantsættes under ét i medfør af TL § 47 b, stk. 2, jf. dommen **U 1983 425 V** og **U 1984 829/1 V**.  
 
-Der kræves ligesom ved TL § 37 en stedlig tilknytning til ejendommen, jf. U 1990 217 H, jf. U 1988 745 Ø. 
+Der kræves ligesom ved TL § 37 en stedlig tilknytning til ejendommen, jf. dommene i **U 1990 217 H**, jf. **U 1988 745 Ø**. 
 
-Bestemmelsen i TL § 47b, stk. 2 giver ikke hjemmel til pantsætning af varelagre og lignende, bortset fra den særlige regel om landbrugsejendomme, jf. U 1971 616 H. 
+![](img/lager.jpg)
+
+Bestemmelsen i TL § 47b, stk. 2 giver ikke hjemmel til pantsætning af varelagre og lignende, bortset fra den særlige regel om landbrugsejendomme, jf. dommen i **U 1971 616 H**. 
+
+
+![](img/leje.jpg)
 
 Lejekontrakt og/eller goodwill kan pantsættes sammen med driftsinventar mv. 
 
-Se også U 1972 176 V (pantet omfattede også genstande erhvervet ved en lejekontrakt, der i et bo tilsidesattes som en omgåelse af afbetalingsloven).  
+Se også dommen i **U 1972 176 V** (pantet omfattede også genstande erhvervet ved en lejekontrakt, der i et bo tilsidesattes som en omgåelse af afbetalingsloven).  
 
-* En erhvervsvirksomhed, der drives fra lejede lokaler kan således give pant i: 
-
-   + Driftsmidler og driftsinventar
-   + Rettigheder efter lejekontrakten
-   + Evt. goodwill
-   
-* Hvis det er en landbrugsvirksomheds kan pantet også omfatte besætning og afgrøder mm.
-
-* Nye aktiver bliver automatisk omfattet af pantet
-
-* Aktiver kan udskilles ifølge regelmæssig drift, se U 1972 1058 V (køberen af en opslåningsmaskine fra et bageri burde have indset, at der ikke forelå udskillelse ifølge regelmæssig drift, og dømtes til at erstatte panthaveren maskinens værdi).
- 
- 
-## Virksomhedspant – TL § 47
 
 ---
 
+En erhvervsvirksomhed, der drives fra lejede lokaler kan således give pant i: 
+
++ Driftsmidler og driftsinventar.
+
++ Rettigheder efter lejekontrakten.
+
++ Evt. i goodwill.
+
+---
+   
+Hvis det er en landbrugsvirksomheds kan pantet også omfatte besætning og afgrøder mm.
+
+Nye aktiver bliver automatisk omfattet af pantet.
+
+![](img/op.jpg)
+
+Aktiver kan udskilles ifølge regelmæssig drift, se dommen i **U 1972 1058 V** (køberen af en opslåningsmaskine fra et bageri burde have indset, at der ikke forelå udskillelse ifølge regelmæssig drift, og dømtes til at erstatte panthaveren maskinens værdi).
+ 
+---
+
+## Virksomhedspant – TL § 47
+
+![](img/virk.jpg)
+
+Virksomhedspant er et panteretligt redskab der skal lette virksomheders adgang til finansiering, ved pantsætning af forskellige aktivkategorier.
+
 Bestemmelsen har følgende ordlyd i TL § 47, stk. 1-2:  
 
-**“Underpant i løsøre, som ikke er nævnt i § 42 c, skal tinglyses for at opnå beskyttelse mod aftaler, der i god tro indgås med pantets ejer, og mod retsforfølgning.**
+“Underpant i løsøre, som ikke er nævnt i § 42 c, skal tinglyses for at opnå beskyttelse mod aftaler, der i god tro indgås med pantets ejer, og mod retsforfølgning.
 
-**Stk. 2.  Underpant i ejerpantebreve, der giver pant i løsøre, skal tinglyses for at opnå beskyttelse mod aftaler, der i god tro indgås om pantebrevet, og mod aftaler om eller retsforfølgning mod løsøret.”**
+Stk. 2.  Underpant i ejerpantebreve, der giver pant i løsøre, skal tinglyses for at opnå beskyttelse mod aftaler, der i god tro indgås om pantebrevet, og mod aftaler om eller retsforfølgning mod løsøret.”
 
 ---
 
@@ -1101,43 +1163,69 @@ Sikringsakten er således registrering i form af tinglysning, jf. TL § 47, stk.
 
 TL § 47 omfatter ikke pantebreve, der giver underpant i biler mv., idet rettigheder over biler mv. er reguleret i kap. 6 a. 
 
-Vedrørende underpant i andet løsøre som ikke er omfattet af TL § 47, bemærkes der følgende:  
+
+---
+
+Vedrørende underpant i andet løsøre som ikke er omfattet af TL § 47, bemærkes der følgende:
+
+
+![](img/skibe.jpg)
+
+![](img/sas.jpg)
 
 * a) **Skibe** på over 5 BRT og fly:  
    
 Panterettigheder i skibe på over 5 BRT og panterettigheder i fly kan ikke tinglyses efter § 47, men skal for at opnå beskyttelse registreres i skibsregistret, henholdsvis rettighedsregistret for luftfartøjer, jf. sølovens kap. 2, og lov om registrering af rettigheder over luftfartøjer § 1. 
 
-Disse love indeholder tillige nærmere regler om bl.a. panterettens omfang og forholdet mellem flere panthavere (stort set svarende til § 40). Med henblik på afgørelse af, om pantsætning af et skib kan ske efter § 47, kan tinglysningsdommeren forlange fremlæggelse af målebrev, jf. U 1985 443 V.  
+Disse love indeholder tillige nærmere regler om bl.a. panterettens omfang og forholdet mellem flere panthavere (stort set svarende til § 40). Med henblik på afgørelse af, om pantsætning af et skib kan ske efter § 47, kan tinglysningsdommeren forlange fremlæggelse af målebrev, jf. dommen i **U 1985 443 V**. 
+
+---
 
 * b) **Forbud mod generalpant og pant i tingsindbegreb**: 
 
-Se TL §§ 47 a og 47 b. Se også TL § 47 c om virksomhedspant.  
+Se TL §§ 47 a og 47 b. Se også TL § 47 c om virksomhedspant. 
+
+---
 
 * c) **Pantsætning efter § 47 af formuegoder, der ikke har karakter af løsøre**: 
 
-Genstande, der skal pantsættes efter reglerne om fast ejendom, kan ikke pantsættes efter TL § 47, jf. U 1962 894/1 V (træsommerhus på lejet grund bestemt til forbliven på stedet), jf. U 1966 608/2 V (tilsvarende afgørelse, selv om der i pantebrevet var angivet, at huset ikke var bestemt til varig forbliven på stedet).  
+Genstande, der skal pantsættes efter reglerne om fast ejendom, kan ikke pantsættes efter TL § 47, jf. dommen i **U 1962 894/1 V** (træsommerhus på lejet grund bestemt til forbliven på stedet), jf. dommen i **U 1966 608/2 V** (tilsvarende afgørelse, selv om der i pantebrevet var angivet, at huset ikke var bestemt til varig forbliven på stedet). 
 
-**Patenter, varemærker og mønstre** kan pantsættes efter TL§ 47. Efter varemærkelovens § 41 kan en pantsætning af et varemærke registreres i varemærkeregisteret, men dette har ikke betydning som sikringsakt.
+---
 
-I dommen U 1993 543 V, hvorefter en panteret i goodwill antoges at omfatte et varemærke samt mønstre og modeller m.m. Vedr. pantsætning efter TL § 47 af edb - produktionsretten, maskinel og/eller programmel, domænenavne m.v.  
+**Patenter, varemærker og mønstre** kan pantsættes efter TL§ 47. 
+
+![](img/patent.png)
+
+![](img/vare.jpg)
+
+Efter varemærkelovens § 41 kan en pantsætning af et varemærke registreres i varemærkeregisteret, men dette har ikke betydning som sikringsakt.
+
+I dommen **U 1993 543 V**, hvorefter en panteret i goodwill antoges at omfatte et varemærke samt mønstre og modeller m.m. Vedr. pantsætning efter TL § 47 af edb - produktionsretten, maskinel og/eller programmel, domænenavne m.v.  
 
 **Domænenavne og rettigheder** i henhold til patentloven, varemærkeloven, designloven, brugsmodelloven, mønsterloven, ophavsretsloven og lov om beskyttelse af halvlederprodukters udformning kan pantsættes ved virksomhedspant, jf. TL § 47 c, stk. 3, nr. 7.  
 
 Der kan tinglyses underpant i løsøre købt med ejendomsforbehold (retten til at blive ejer).  
 
-I forbindelse med pantsætning af en løsøregenstand kan tillige pant i lejeindtægter af genstanden tinglyses efter TL § 47, jf. dommene U 1986 858 H og U 1984 1009 V, men anderledes U 1984 131/2 V. I mangel af udtrykkelig bestemmelse herom er indtægter ikke omfattet af pantet, jf. U 1983 423 V.  
+I forbindelse med pantsætning af en løsøregenstand kan tillige pant i lejeindtægter af genstanden tinglyses efter TL § 47, jf. dommene **U 1986 858 H** og **U 1984 1009 V**, men anderledes med dommen i **U 1984 131/2 V**. 
+
+I mangel af udtrykkelig bestemmelse herom er indtægter ikke omfattet af pantet, jf. dommen i **U 1983 423 V**.  
 
 Den der driver virksomhed fra egen ejendom, kan pantsætte den til virksomheden knyttede goodwill efter TL § 47, og at den, der driver virksomhed fra lejede lokaler, kan pantsætte den til virksomheden knyttede goodwill efter TL § 47, selv om det ikke sker i forbindelse med pantsætning af en overdragelig lejekontrakt, og selv om lejekontrakten ikke er overdragelig. 
 
 Der må herefter ved forskellige pantebreve kunne ske pantsætning af henholdsvis goodwill efter TL § 47 og driftsinventar og -materiel efter TL § 47 b, stk. 2, men der kan også fortsat foretages en fælles pantsætning af goodwill samt driftsinventar og -materiel. 
 
-Der kan ved pantsætning af goodwill næppe kræves anden specifikation end en tydelig angivelse af, til hvilken virksomhed den pågældende goodwill er knyttet, sammenlign her U 1993 543 V.  
+Der kan ved pantsætning af goodwill næppe kræves anden specifikation end en tydelig angivelse af, til hvilken virksomhed den pågældende goodwill er knyttet, sammenlign her dommen i **U 1993 543 V**.  
+
+---
 
 * d) **Specifikation af det pantsatte**:
 
 Bortset fra de særlige undtagelser fra forbuddet mod underpant i tingsindbegreb - herunder navnlig TL § 47 b, stk. 2, § 47 c og § 47 d, er det en forudsætning for tinglysning af et pantebrev, der giver underpant i løsøre, og for beskyttelsen over for tredjemand, at pantebrevet i tilstrækkelig grad specificerer (individualiserer) det pantsatte. 
 
 Det vil kræve, at de pantsatte genstande klart adskilles fra andre genstande tilhørende pantsætteren, således at denne ikke er i stand til at underskyde ikke-pantsatte genstande under aftalen og dermed skade de øvrige kreditorer. 
+
+Rent praksis kunne det være stelnummer på de knallerter der er omfattet af pantet
 
 ---
 
@@ -1197,10 +1285,15 @@ mydf %>%
 **Eksamensopgavesæt og løsning om pant i fast ejendom og løsøre, samt erstatning, kaution, ertatningsbetingelserne og huseftersynsordningen, mv.**
 
 
+**Musik med problemer**
 
-***Musik med problemer***
+![](img/musik.jpg)
 
-Johan Tuxen-Brahe bor og driver sit pladeselskab, SoundNeed ApS, fra en tidligere landejendom syd for København. Han bor i det gamle stuehus og lejer de tidligere produktionsbygninger ud til virksomheden, der har indrettet studie, lager og administration mv. Både banken og realkreditinstituttet har pant i ejendommen.
+Johan Tuxen-Brahe bor og driver sit pladeselskab, SoundNeed ApS, fra en tidligere landejendom syd for København. 
+
+Han bor i det gamle stuehus og lejer de tidligere produktionsbygninger ud til virksomheden, der har indrettet studie, lager og administration mv. 
+
+Både banken og realkreditinstituttet har pant i ejendommen.
 
 Den 12. september 2014, er han til møde med sin bankrådgiver fra Køge Kapitalbank vedrørende finansiering af nye initiativer.
 
@@ -1328,7 +1421,9 @@ Der skal her indgå en drøftelse af, hvorvidt det findes rimeligt at den ansatt
 
 Til Ejendommen hørte en tidligere aftægtsbolig, som Johan aldrig har haft brug for, og længe har ønsket solgt. Det har nu endelig ført til, at ejendommen via ejendomsmægler Groth, er blevet solgt til folkepensionisten Mia Andersen, der har tegnet ejerskifteforsikring. 
 
-Desværre viser det sig, at tilstandsrapporten, ikke har medtaget en ellers oplagt sætningsskade på en skillevæg mellem stuen og køkkenet. Samtidig har det vist sig, at der ved slagregn og vind fra en ganske bestemt retning, trænger vand ind under tagkonstruktionen.
+Desværre viser det sig, at tilstandsrapporten, ikke har medtaget en ellers oplagt sætningsskade på en skillevæg mellem stuen og køkkenet. 
+
+Samtidig har det vist sig, at der ved slagregn og vind fra en ganske bestemt retning, trænger vand ind under tagkonstruktionen.
 
 **Eksamensspørgsmålet**:
 
@@ -1367,17 +1462,16 @@ Der lægges ved bedømmelsen vægt på den studerendes argumentation og forståe
  
 ## Fordringspant for udestående og fremtidige fordringer -  TL § 47d
 
----
 
 Fordringspant er et såkaldt flydende pant – TL § 47d og har følgende formulering:
 
-**”Indehaveren af en erhvervsvirksomhed kan ved anvendelse af skadesløsbrev underpantsætte virksomhedens udestående og fremtidige simple fordringer hidrørende fra salg af varer og tjenesteydelser (fordringspant).**
+”Indehaveren af en erhvervsvirksomhed kan ved anvendelse af skadesløsbrev underpantsætte virksomhedens udestående og fremtidige simple fordringer hidrørende fra salg af varer og tjenesteydelser (fordringspant).
 
-**Stk. 2. Fordringspant skal tinglyses for at opnå beskyttelse mod aftaler, der i god tro indgås med pantets ejer, og mod retsforfølgning.  Skadesløsbreve som nævnt i stk. 1 kan ikke overdrages særskilt.”**
+Stk. 2. Fordringspant skal tinglyses for at opnå beskyttelse mod aftaler, der i god tro indgås med pantets ejer, og mod retsforfølgning.  Skadesløsbreve som nævnt i stk. 1 kan ikke overdrages særskilt.”
 
 ---
 
-TL § 47d giver således en adgang til fordringspant - dvs. samlet underpantsætning af udestående og fremtidige fordringer som tingsindbegreb ved tinglysning i personbogen. 
+TL § 47 d giver således en adgang til fordringspant - dvs. samlet underpantsætning af udestående og fremtidige fordringer som tingsindbegreb ved tinglysning i personbogen. 
 
 Reglen supplerer gældsbrevslovens bestemmelser om pantsætning af simple gældsbreve, der anvendes analogt på andre simple fordringer.  
 
@@ -1403,7 +1497,7 @@ Det følger af disse principper, at den panteret eller retsforfølgning, der ska
 
 Udlæg i fordringer er dog sikret ved udlæggets foretagelse. Erhververen ifølge aftale om underpant skal endvidere være i god tro på tidspunktet for aftalens anmeldelse til tinglysning.  
 
-* TL § 47d omfatter udelukkende fordringer, som stammer fra salg af varer eller tjenesteydelser
+TL § 47d omfatter udelukkende fordringer, som stammer fra salg af varer eller tjenesteydelser
 
 * Kan omfatte fakturakrav, betaling for rådgivning, lejebetaling, leasingydelse mm.
 
@@ -1529,9 +1623,17 @@ Jonas er også nødsaget til at anskaffe en ny varevogn til selskabet. Handlen g
 
 Der findes også elektriske radiatorer af ældre dato, i et par af de andre bygninger på grunden, som nu endelig udskiftes med moderne varmepumper, der også finansieres med kredit sikret med ejendomsforbehold.
 
-Branden og nogle uheldige forretningsdispositioner fører imidlertid til store økonomiske problemer, og det kniber med at svare en hver sit. En af Hansen Tæppers vigtigste leverandører truer med at gøre udlæg, hvis han ikke modtager et anseeligt afdrag på den forfaldne gæld. På ejendommen har der tidligere været en porcelænsfabrikation, og Jonas skaffer hurtigt nogle ekstra penge ved at sælge to porcelænsovne, der er efterladt fra denne aktivitet, og trækker samtidig det sidste på kassekreditten, hvorefter han betaler afdraget d. 16. februar.
+Branden og nogle uheldige forretningsdispositioner fører imidlertid til store økonomiske problemer, og det kniber med at svare en hver sit. 
 
-Jonas håber hermed at have klaret skærende, men da forsikringssagen trækker ud og banken ikke vil forstrække ham yderligere, må han smide håndklædet i ringen. Efter et møde med revisoren d. 13. april, indgiver han således dagen efter rekonstruktionsbegæring, hvilket skifteretten imødekommer den 18. april. Rekonstruktionen viser sig dog hurtigt udsigtsløs, hvorefter virksomheden overgår til konkurs.
+En af Hansen Tæppers vigtigste leverandører truer med at gøre udlæg, hvis han ikke modtager et anseeligt afdrag på den forfaldne gæld. 
+
+På ejendommen har der tidligere været en porcelænsfabrikation, og Jonas skaffer hurtigt nogle ekstra penge ved at sælge to porcelænsovne, der er efterladt fra denne aktivitet, og trækker samtidig det sidste på kassekreditten, hvorefter han betaler afdraget d. 16. februar.
+
+Jonas håber hermed at have klaret skærende, men da forsikringssagen trækker ud og banken ikke vil forstrække ham yderligere, må han smide håndklædet i ringen. 
+
+Efter et møde med revisoren d. 13. april, indgiver han således dagen efter rekonstruktionsbegæring, hvilket skifteretten imødekommer den 18. april. 
+
+Rekonstruktionen viser sig dog hurtigt udsigtsløs, hvorefter virksomheden overgår til konkurs.
 
 
 **Eksamensspørgsmålet:**
@@ -1661,6 +1763,7 @@ Se nærmere kapitel 17 om regulering af dobbeltoverdragelser, jf. kapitalmarkeds
 
 
 
+---
 
 ## Om værdipapircentralen  
 
@@ -1687,6 +1790,6 @@ På den måde er man som investor altid sikret imod, at bank eller børsmægler 
 Går banken ned, så overfører værdipapircentralen blot værdipapirerne til en anden udbyder.  
 
 
-
+---
 
  

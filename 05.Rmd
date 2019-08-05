@@ -105,7 +105,7 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow"))
 
 *Fuldmagt:* Aftaleloven afsnit II, jf. aftalelovens §§ 10-27 ^[Følgende bygger tildels på *Torsten Iversens og Lars Hedegaard Kristensen* karnovkommentar til aftaleloven om fuldmagtsforhold]
 
-**HR:** Fuldmagtsgiver bliver bundet af de aftaler, som fuldmægtigen indgår på fuldmagtsgivers vegne, jf. aftalelovens § 10, stk. 1:  
+HR: Fuldmagtsgiver bliver bundet af de aftaler, som fuldmægtigen indgår på fuldmagtsgivers vegne, jf. aftalelovens § 10, stk. 1:  
 
 *”Den, som har givet en anden fuldmagt til at foretage en retshandel, bliver umiddelbart berettiget og forpligtet overfor tredjemand ved retshandel, som fuldmægtigen foretager i fuldmagtsgiverens navn og indenfor fuldmagtens grænser”*.
 
@@ -139,9 +139,9 @@ En aftale kan i nogle tilfælde rammes af ugyldighed, hvis der er handlet i stri
 
 Aftaleloven sondrer mellem på den ene side **»legitimation«** og på den anden side **»beføjelse«**. 
 
-Ved *»fuldmagt«* forstås således den magt eller kompetence (**legitimation**), fuldmægtigen har til inden for visse grænser at foretage retshandler med bindende virkning for fuldmagtsgiveren. <img src="img/Bemyndigelse vs. legitimation.png" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+Ved *»fuldmagt«* forstås således den magt eller kompetence (legitimation), fuldmægtigen har til inden for visse grænser at foretage retshandler med bindende virkning for fuldmagtsgiveren. <img src="img/Bemyndigelse vs. legitimation.png" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Ved **»beføjelse«** (**bemyndigelse**) den ret eller tilladelse, fuldmægtigen iht. det mellem ham og fuldmagtsgiveren bestående retsforhold har til at optræde på dennes vegne:
+Ved **»beføjelse«** (bemyndigelse) den ret eller tilladelse, fuldmægtigen iht. det mellem ham og fuldmagtsgiveren bestående retsforhold har til at optræde på dennes vegne:
 
 * *Bemyndigelse/beføjelse:* Er således den interne instruks mellem fuldmagtsgiver og fuldmægtig. Indholdet af denne instruks er som udgangspunkt ikke kendt for omverdenen.
 
@@ -171,7 +171,7 @@ Ved **»beføjelse«** (**bemyndigelse**) den ret eller tilladelse, fuldmægtige
 
 
 
-Der findes to fuldmagtsformer
+Der findes som nævnt to fuldmagtsformer:
 
 1. Fuldmagt med særlig ttilværelse
 
@@ -189,7 +189,8 @@ Der findes to fuldmagtsformer
 
 + Skriftlig fuldmagt/forevisningsfuldmagt, jf. aftalelovens § 16, stk. 1
 
-### Fuldmagt uden særlig tilværelse
+
+**Fuldmagt uden særlig tilværelse**
 
 
 
@@ -207,11 +208,7 @@ Kaldes også **§ 18-fuldmagt**
 
 ### Stillingsfuldmagt, jf. aftalelovens § 10, stk. 2:
 
-> *”Indtager nogen ifølge aftale med en anden en stilling, som efter lov eller sædvane medfører beføjelse for ham til indenfor visse grænser at handle på den andens vegne, anses han befuldmægtiget til at foretage retshandler, som falder indenfor disse grænser”.* 
-
-
-
-
+*”Indtager nogen ifølge aftale med en anden en stilling, som efter lov eller sædvane medfører beføjelse for ham til indenfor visse grænser at handle på den andens vegne, anses han befuldmægtiget til at foretage retshandler, som falder indenfor disse grænser”.* 
 
 
 ---
@@ -226,38 +223,37 @@ Kaldes også **§ 18-fuldmagt**
 
 
 
-Når du (fuldmagtsgiver) giver en anden (fuldmægtig) fuldmagt til at handle på dine vegne, bliver du som hovedregel bundet af den aftale din fuldmægtig indgår med tredjemand. 
+Når man som (fuldmagtsgiver) giver en anden (fuldmægtig) fuldmagt til at handle på ens vegne, bliver man som hovedregel bundet af den aftale ens fuldmægtig indgår med tredjemand. 
 
-Der er kun tale om en stillingsfuldmagt i § 10’s forstand, når du efter aftale med en anden (fuldmagtsgiver/arbejdsgiveren) indtager en stilling, dvs. er ansat hos den pågældende. 
+Der er kun tale om en stillingsfuldmagt i § 10’s forstand, når man efter aftale med en anden (fuldmagtsgiver/arbejdsgiveren) indtager en stilling, dvs. er ansat hos den pågældende. 
 
-Stillingsfuldmagten stiftes ved, at du efter aftale med fuldmagtsgiver indtager en vis stilling og faktisk indtager denne fx, at du er ansat i en bank, ejendomsmæglerkæde eller i et forsikringsselskab. 
+Stillingsfuldmagten stiftes ved, at man efter aftale med fuldmagtsgiver indtager en vis stilling og faktisk indtager denne fx, at man er ansat i en bank, ejendomsmæglerkæde eller i et forsikringsselskab. 
 
 Deraf følger så, at en advokat ikke har en stillingsfuldmagt for sin klient, og en tilsynsførende arkitekt eller ingeniør ingen stillingsfuldmagt fra bygherren. 
 
 Tredjemand fx kunden kan påberåbe sig stillingsfuldmagten, selv om han ikke kender til ansættelsen af fuldmægtigen hos fuldmagtsgiveren.
 
-* En ansat, har således via sin stilling, fuldmagt til at handle på vegne af fuldmagtsgiver (arbejdsgiver).
+En ansat, har således via sin stilling, fuldmagt til at handle på vegne af fuldmagtsgiver (arbejdsgiver).
 
-* Fuldmægtigen (den ansatte) har udadtil fuldmagt til at handle inden for stillingens grænser, dvs. den ansatte kan indgå de aftaler med tredjemand, som er sædvanlige for stillingen, fx en ejendomsmægler kan indgå en formidlingsaftale med en sælger af et hus.
+Fuldmægtigen (den ansatte) har udadtil fuldmagt til at handle inden for stillingens grænser, dvs. den ansatte kan indgå de aftaler med tredjemand, som er sædvanlige for stillingen, fx en ejendomsmægler kan indgå en formidlingsaftale med en sælger af et hus.
 
-* En kunderådgiver i en bank kan i sagens natur indgå aftaler om lån fra banken, men hun kan ikke indgå aftaler med et reklamebureau om ny markedsføringskampagne af bankens lån, medmindre hun har fået en udvidet bemyndigelse/særlig tilladelse fra fuldmagtsgiver fx hendes områdechef.
+En kunderådgiver i en bank kan i sagens natur indgå aftaler om lån fra banken, men hun kan ikke indgå aftaler med et reklamebureau om ny markedsføringskampagne af bankens lån, medmindre hun har fået en udvidet bemyndigelse/særlig tilladelse fra fuldmagtsgiver fx hendes områdechef.
 
 Situation: Fuldmægtigen indgår en aftale med tredjemand, der overskrider bemyndigelsen (den interne instruks fra fuldmagtsgiver).
 
-* Fuldmagtsgiver er bundet af de aftaler fuldmægtigen indgår med tredjemand i strid med den interne instruks, hvis tredjemand var i god tro, jf. aftalelovens § 11, stk. 1.
+Fuldmagtsgiver er bundet af de aftaler fuldmægtigen indgår med tredjemand i strid med den interne instruks, hvis tredjemand var i god tro, jf. aftalelovens § 11, stk. 1.
 
-**God tro:** Hvis det vurderes at tredjemand ikke indså eller burde have indset, at fuldmægtigen indgik en aftale der lå uden for sine beføjelser (den interne instruks).
+*God tro*: Hvis det vurderes at tredjemand ikke indså eller burde have indset, at fuldmægtigen indgik en aftale der lå uden for sine beføjelser (den interne instruks).
 
 Situation: Fuldmægtigen indgår en aftale med tredjemand, der ligger uden for legitimationen (stillingsfuldmagtens sædvanlige grænser).
 
-* Fuldmagtsgiver er ikke bundet af de aftaler fuldmægtigen indgår med tredjemand, hvis de ligger uden for stillingens grænser, uanset tredjemands gode tro, fx at bankrådgiveren til en bankkunde giver tilsagn om et privat forbrugslån uden at lånet er bliver forrentet og uden stiftelsesomkostninger.
+Fuldmagtsgiver er ikke bundet af de aftaler fuldmægtigen indgår med tredjemand, hvis de ligger uden for stillingens grænser, uanset tredjemands gode tro, fx at bankrådgiveren til en bankkunde giver tilsagn om et privat forbrugslån uden at lånet er bliver forrentet og uden stiftelsesomkostninger.
 
 Stillingsfuldmagtens særlige tilværelse viser sig bl.a. derved, at fuldmagtsgiver bliver bundet over for en tredjemand i god tro, selv om fuldmagtsgiver ved konkret tilkendegivelse til fuldmægtigen har indskrænket dennes bemyndigelse, idet fuldmægtigen desuagtet stadig besidder den fuldmagt, der ifølge lov eller sædvane er forbundet med den stilling, fuldmægtigen besidder. 
 
 Vil fuldmagtsgiveren indskrænke stillingsfuldmagten, må han degradere fuldmægtigen, dvs. afskedige ham fra stillingen og give ham en stilling med en mindre vidtgående stillingsfuldmagt, og dette må være kendeligt for omverdenen.
 
-
-
+---
 
 <img src="img/lawyer-free-stock-photos-justice-1080x721.jpg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
@@ -274,40 +270,43 @@ En bankdirektør har en mere vidererækkende stillingsfuldmagt end en områdekun
 
 **Erstatning**: Hvis fuldmagtsgiver lider et dokumenteret økonomisk tab, fordi fuldmægtigen har handlet groft uagtsom eller forsætligt, kan fuldmægtigen i sjældne grove tilfælde blive erstatningsansvarlig over for arbejdsgiveren/fuldmagtsgiveren, jf. – erstatningsansvarslovens § 23, stk. 1:
 
-**Erstatning, som en arbejdsgiver har måttet udrede som følge af en arbejdstagers uforsvarlige adfærd, kan kun kræves betalt af denne i det omfang, det findes rimeligt  under hensyn til den udviste skyld, arbejdstagerens stilling og omstændighederne i øvrigt.**
+*"Erstatning, som en arbejdsgiver har måttet udrede som følge af en arbejdstagers uforsvarlige adfærd, kan kun kræves betalt af denne i det omfang, det findes rimeligt  under hensyn til den udviste skyld, arbejdstagerens stilling og omstændighederne i øvrigt."*
 
-De vigtigste momenter i vurderingen af, om og i hvilket omfang arbejdsgiveren kan gøre regres mod arbejdstageren, er skyldgraden (normalt ikke regres ved skader, der er forvoldt ved simpel uagtsomhed; i modsætning til erstatningsansvarslovens § 19, stk. 3, indebærer forsæt eller især grov uagtsomhed dog ikke nødvendigvis fuldt ansvar for arbejdstageren, **se herved U 2016 3069 V (regres ved betydelig uagtsomhed) og U 2006 356 V om regres ved en forsætligt forvoldt skade) og arbejdstagerens stilling (indtagelse af en overordnet stilling med ledelsesfunktioner vil f.eks. kunne tale for regres)**.
+---
 
+De vigtigste momenter i vurderingen af, om og i hvilket omfang arbejdsgiveren kan gøre regres mod arbejdstageren, er skyldgraden (normalt ikke regres ved skader, der er forvoldt ved simpel uagtsomhed; i modsætning til erstatningsansvarslovens § 19, stk. 3, indebærer forsæt eller især grov uagtsomhed dog ikke nødvendigvis fuldt ansvar for arbejdstageren, se herved **U 2016 3069 V** (regres ved betydelig uagtsomhed) og **U 2006 356 V** om regres ved en forsætligt forvoldt skade) og arbejdstagerens stilling (indtagelse af en overordnet stilling med ledelsesfunktioner vil f.eks. kunne tale for regres).
+
+---
 
 **Ophør af fuldmagtsforholdet:**
 
-* En stillingsfuldmagt ophører og tilbagekaldes ved at fuldmægtigen fjernes fra stillingen, fx opsiges eller bortvises.
+En stillingsfuldmagt ophører og tilbagekaldes ved at fuldmægtigen fjernes fra stillingen, fx opsiges eller bortvises.
 
-* Arbejdsgiveren bliver bundet af de aftaler  den opsagte indgår med tredjemand i opsigelsesperioden.
+Arbejdsgiveren bliver bundet af de aftaler  den opsagte indgår med tredjemand i opsigelsesperioden.
 
-* I en opsigelsesperiode bør fuldmagtsgiver tage stilling til om fuldmægtigen stadig skal have  fuldmagt til at indgå de samme aftaler udadtil, eller der skal laves en ændring frem til fratrædelsestidspunktet.
+I en opsigelsesperiode bør fuldmagtsgiver tage stilling til om fuldmægtigen stadig skal have  fuldmagt til at indgå de samme aftaler udadtil, eller der skal laves en ændring frem til fratrædelsestidspunktet.
 
 ---    
 
 ### Specialfuldmagt, jf. aftalelovens § 13:  
 
-”En fuldmagt, som er bragt til tredjemands kundskab ved en til ham særskilt rettet erklæring fra fuldmagtsgiveren, er tilbagekaldt, når særskilt erklæring om, at fuldmagten ikke længere skal gælde, er kommet frem til tredjemand”
+”*En fuldmagt, som er bragt til tredjemands kundskab ved en til ham særskilt rettet erklæring fra fuldmagtsgiveren, er tilbagekaldt, når særskilt erklæring om, at fuldmagten ikke længere skal gælde, er kommet frem til tredjemand*”
 
-* Kaldes også for legitimationsfuldmagt
+Det Kaldes også for legitimationsfuldmagt.
 
-* Fuldmagten er en særskilt erklæring, der meddeles direkte fra fuldmagtsgiver til tredjemand
+Fuldmagten er en særskilt erklæring, der meddeles direkte fra fuldmagtsgiver til tredjemand.
   
-* Tredjemand får direkte besked om fuldmagtens indhold
+Tredjemand får direkte besked om fuldmagtens indhold.
   
-* Erklæringens form er ligegyldig
+Erklæringens form er ligegyldig.
 
-* Kan være både mundtlig og skriftlig
+Kan være både mundtlig og skriftlig.
 
-* Erklæringens fremkomst kan bevises, og dets indhold om tilbagekaldelse er klart
+Erklæringens fremkomst kan bevises, og dets indhold om tilbagekaldelse er klart.
   
-* En specialfuldmagt ophører/tilbagekaldes på samme måde som den blev stiftet
+En specialfuldmagt ophører/tilbagekaldes på samme måde som den blev stiftet.
   
-* Tilbagekaldelsen får virkning når den er kommet   frem – behøver ikke komme til tredjemands kundskab.
+Tilbagekaldelsen får virkning når den er kommet frem – behøver ikke komme til tredjemands kundskab.
  
 ---
 
@@ -322,11 +321,13 @@ Bestemmelsen har følgende ordlyd:
 
 *Stk. 3. Fuldmagten anses ikke som offentlig bekendtgjort, fordi den er tinglæst”.*
 
-* Offentlig bekendtgjort fuldmagt - fx kuratorfuldmagt, der får fuldmagt til at behandle et konkursbo og varetage boets interesser eller udstedelse af prokura om at kunne handle på vegne af fx et selskab eller en forening.
+Offentlig bekendtgjort fuldmagt - fx kuratorfuldmagt, der får fuldmagt til at behandle et konkursbo og varetage boets interesser eller udstedelse af prokura om at kunne handle på vegne af fx et selskab eller en forening.
 
+---
 
+### Skriftlig fuldmagt/forevisningsfuldmagt, 
 
-### Skriftlig fuldmagt/forevisningsfuldmagt, jf. aftalelovens § 16:
+Se aftalelovens § 16:
 
 *”En skriftlig fuldmagt, som er overgivet fuldmægtigen, og som må anses bestemt til at være i hans besiddelse og at forevises for tredjemand, tilbagekaldes derved, at den på fuldmagtsgiverens forlangende tilbagegives ham eller tilintetgøres*.
 
@@ -340,7 +341,9 @@ Ophører når fuldmagten tilbagegives til fuldmagtsgiver eller fuldmagten tilint
 
 ---
 
-## Fuldmagt uden særlig tilværelse, jf. aftalelovens § 18
+## Fuldmagt uden særlig tilværelse, 
+
+Se aftalelovens § 18.
 
 Denne type fuldmagt er kendetegnet ved, at den ikke er kendt eller synlig for omverdenen.
 
@@ -370,8 +373,9 @@ En tilbagekaldelse får virkning når den er kommet frem – behøver ikke at ko
 
 ---
 
-## Aftalelovens § 25 – erstatning til tredjemand:
+## Erstatning til tredjemand:
 
+Aftalelovens § 25.
 
 Bestemmelsen har følgende ordlyd:
 
@@ -381,9 +385,9 @@ Bestemmelsen har følgende ordlyd:
 
 ---
 
-* Den der udadtil optræder som fuldmægtig for en anden, indestår for, at han rent faktisk har fornøden fuldmagt til at handle og indgå aftaler på vegne af fuldmagtsgiver.
+Den der udadtil optræder som fuldmægtig for en anden, indestår for, at han rent faktisk har fornøden fuldmagt til at handle og indgå aftaler på vegne af fuldmagtsgiver.
 
-* Fuldmægtigen er ved aftalens indgåelse garant for at:
+Fuldmægtigen er ved aftalens indgåelse garant for at:
 
 * Fuldmagten eksisterer,
 
@@ -395,11 +399,11 @@ Bestemmelsen har følgende ordlyd:
 
 Aftalelovens § 25 – erstatning til tredjemand (fortsat):
 
-**HR:** Hvis fuldmægtigen ikke havde den fornødne fuldmagt til at handle, og aftalen derfor falder til jorden, kan tredjemand forlange erstatning hos fuldmægtigen, hvis han lider et økonomisk tab.
+HR: Hvis fuldmægtigen ikke havde den fornødne fuldmagt til at handle, og aftalen derfor falder til jorden, kan tredjemand forlange erstatning hos fuldmægtigen, hvis han lider et økonomisk tab.
 
-**U1:** Erstatning kan ikke komme på tale, hvis tredjemand vidste eller burde vide, at fuldmægtigen ikke havde den fornødne fuldmagt.
+U1: Erstatning kan ikke komme på tale, hvis tredjemand vidste eller burde vide, at fuldmægtigen ikke havde den fornødne fuldmagt.
 
-**U2:** Erstatning kan ikke komme på tale, hvis fuldmægtigen indgår aftaler, og ikke ved at fuldmagten i mellemtiden er blevet tilbagekaldt.
+U2: Erstatning kan ikke komme på tale, hvis fuldmægtigen indgår aftaler, og ikke ved at fuldmagten i mellemtiden er blevet tilbagekaldt.
 
 ---
 
@@ -413,7 +417,7 @@ Fuldmægtigen er altså i almindelighed ubetinget erstatningsansvarlig (objektiv
 
 Dette stemmer med de almindelige regler om ansvaret i vanhjemmelslignende tilfælde af misligholdelse. 
 
-Hvis fuldmægtigen er umyndig, kan et sådant ansvar ikke pålægges ham, men han kan ifalde erstatningspligt efter den almindelige culparegel, og medkontrahenten kan i så fald kræve erstatning for den **negative kontraktsinteresse** (det tab, han lider ved at stole på kontrakten), hvis fuldmægtigen har skuffet ham med forsæt eller uagtsomhed.
+Hvis fuldmægtigen er umyndig, kan et sådant ansvar ikke pålægges ham, men han kan ifalde erstatningspligt efter den almindelige culparegel, og medkontrahenten kan i så fald kræve erstatning for den *negative kontraktsinteresse* (det tab, han lider ved at stole på kontrakten), hvis fuldmægtigen har skuffet ham med forsæt eller uagtsomhed.
 
 Aftalelovens § 25 indebærer, at tredjemand ikke selv behøver at undersøge fuldmagtens eksistens eller at forlange udtrykkelig garanti for, at fornøden fuldmagt foreligger, idet han er berettiget til at gå ud fra, at den, der optræder som fuldmægtig, også har den fornødne fuldmagt.
 
@@ -425,11 +429,6 @@ Aftalelovens § 25 indebærer, at tredjemand ikke selv behøver at undersøge fu
 
 
 ---
-
-
-
-
-
 
 
 Fuldmægtigen skal erstatte tredjemand den positive opfyldelsesinteresse, dvs. tredjemand skal stilles som om aftalen var blevet indgået og ikke alene den negative kontraktsinteresse, dvs. stilles som om aftalen ikke var blevet indgået. <img src="img/mj-s-71657-unsplash.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
@@ -452,11 +451,13 @@ Hvis den opgivne fuldmagtgiver er kommet under konkurs, følger det af det anfø
 **Eksamensopgave og løsning om fuldmagt/mellemmandsaftaler og ansættelsesret**
 
 
-***Eksamensopgave - Fix og Hjem***  
+**Eksamensopgave - jem og fix**  
+
+![](img/jem.jpg)
 
 
 
-Kim er ansat i firmaet Fix og Hjem i Odense. Han blev ansat som salgsassistent den 1. januar 2013. 
+Kim er ansat i firmaet jem og fix i Odense. Han blev ansat som salgsassistent den 1. januar 2013. 
 
 Han er meget dygtig og meget omhyggelig med sit arbejde og bliver efterhånden meget vellidt af kunderne - både de lokale håndværkere og de private kunder. 
 
@@ -464,13 +465,13 @@ Den 1. januar 2014 bliver Kim forfremmet til butikschef for afdelingen i Odense.
 
 En af hans gamle klassekammerater Andreas er flyttet til Odense, hvor han har købt et helt nyt hus og skal til at etablere haven. 
 
-Andreas kommer til Fix og Hjem og møder Kim. De får snakket om gamle dage, og Andreas afgiver en ordre på fliser til en stor terrasse, materialer til et flot plankeværk og et sæt havemøbler i træ til 8 personer.
+Andreas kommer til jem og fix og møder Kim. De får snakket om gamle dage, og Andreas afgiver en ordre på fliser til en stor terrasse, materialer til et flot plankeværk og et sæt havemøbler i træ til 8 personer.
 
 Andreas mener, at Kim må give en god rabat på sådan en stor ordre. Andreas får forhandlet sig frem til 25 % i rabat. 
 
 Kim er egentlig ikke så glad bagefter, for han har en aftale med hovedkontoret om, at der max. må gives 10 % i rabat.
 
-Andreas har lige startet sit eget firma, Swim der sælger havebassiner. Andreas præsenterer Kim for produkterne, og han får solgt 5 stk. havebassiner til Fix og Hjem til en samlet pris på 15.000 kr. 
+Andreas har lige startet sit eget firma, Swim der sælger havebassiner. Andreas præsenterer Kim for produkterne, og han får solgt 5 stk. havebassiner til jem og fix til en samlet pris på 15.000 kr. 
 
 Kim må ellers slet ikke købe varer ind, da det skal foregå centralt.
 
@@ -502,21 +503,20 @@ Af erfaring ved Kim, at der er meget travlt.
 
 **Eksamensspørgsmålene:**
 
-1.	Er Fix og Hjem bundet af de aftaler som Kim 
-    har indgået med Andreas?
-2.	Hvilke muligheder har Fix og Hjem for at 
-    opsige Karina?
-3.	Har Sanne krav på at holde ferie så hun kan 
-    komme til Paris? 
+1.	Er jem og fix bundet af de aftaler som Kim har indgået med Andreas?
+
+2.	Hvilke muligheder har jem og fix for at opsige Karina?
+
+3.	Har Sanne krav på at holde ferie så hun kan komme til Paris? 
     
 
 **Vejledende løsning fyld gerne selv på**:
 
-1. Er Fix og Hjem bundet af de aftaler som Kim har indgået med Andreas? Rabatten er Fix & Hjem bundet af, da inden for stillingsfuldmagten, men udenfor bemyndigelsen, men Andreas i god tro. De 5 havebassiner er måske også indenfor stillingsfuldmagten, men udenfor bemyndigelsen, og spørgsmålet er om Andreas er i god eller ond tro. Næppe OK.
+1. Er jem og fix bundet af de aftaler som Kim har indgået med Andreas? Rabatten er jem og fix bundet af, da inden for stillingsfuldmagten, men udenfor bemyndigelsen, men Andreas i god tro. De 5 havebassiner er måske også indenfor stillingsfuldmagten, men udenfor bemyndigelsen, og spørgsmålet er om Andreas er i god eller ond tro. Næppe OK.
 
 ---
 
-2.	Hvilke muligheder har Fix og Hjem for at opsige Karina? Sygdom er jo lovligt forfald, men er de utilfredse med hende, bør hun have skriftlig advarsel, og hvis forholdene ikke forbedres, kan hun afskediges senere. Hvis hun afskediges nu, er hun formentligt berettiget til funktionærlovens § 2b-godtgørelse + 3 mdrs. opsigelsesvarsel. 
+2.	Hvilke muligheder har jem og fix for at opsige Karina? Sygdom er jo lovligt forfald, men er de utilfredse med hende, bør hun have skriftlig advarsel, og hvis forholdene ikke forbedres, kan hun afskediges senere. Hvis hun afskediges nu, er hun formentligt berettiget til funktionærlovens § 2b-godtgørelse + 3 mdrs. opsigelsesvarsel. 
 
 ---
 
