@@ -60,11 +60,10 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 
 ---
 
-<!-- ![](img/kre.png) -->
-<!-- (KIlde; Trojka) Figur 14.2. -->
+
 
 **Kreditkøb**
-```{r kredit, echo=FALSE, result=TRUE,fig.height=3,fig.cap=("Kreditkøb, to parter i et kreditkøb")}
+```{r , echo=FALSE, result=TRUE,fig.height=3,fig.cap=("Kreditkøb, to parter i et kreditkøb")}
 
 nodes <- data.frame(id = 1:2, shape = c("box"),label = c("Sælger"," Køber"),font.size = c(25,25))
 edges <- data.frame(from = c(1,2), 
@@ -119,8 +118,28 @@ De finansielle institutioners udlån til forbrugere er derfor omfattet af loven 
 
 **Hvad er kreditformidling?**
 
-![](img/kre1.png)
-(Kilde; Trojka) Figur 14.3.
+```{r , echo=FALSE, result=TRUE,fig.height=4,fig.cap=("Kreditkøb, to parter i et kreditkøb")}
+
+nodes <- data.frame(id = 1:3, shape = c("box"),label = c("Autoforhandler\nsælger\nkreditformidler","Køber/låntager","Finansieringsselskab\nkreditgiver"),font.size = c(25,25,25))
+edges <- data.frame(from = c(1,2,3,3), 
+                    to = c(2,3,1,2),
+                    arrows = c("to"),
+                    length = c(100,200,50,50),
+                    font.size = c(20,20,20,20),
+                    label=c("Vare ","Afdrag\nrenter","Købesum","Kreditaftale"),
+                    smooth = TRUE
+                    )
+ visNetwork(nodes, edges, width = "100%") %>% 
+   visInteraction(dragNodes = TRUE, 
+                 dragView = TRUE, 
+                 zoomView = FALSE) %>%
+  visNodes(color = list(background = "white", 
+                        border = "white",
+                        highlight = "yellow"),
+           shadow = list(enabled = TRUE, size = 30))  %>%
+  visHierarchicalLayout(direction = "UD",levelSeparation = 300) %>%
+visEdges(color = list(color = "lightgrey", highlight = "yellow") )
+```
 
 ---
   
@@ -705,9 +724,28 @@ Kreditaftaleloven indeholder en række bestemmelser, som skal beskytte forbruger
 ### Oprindeligt trepartsforhold
 
 
+```{r , echo=FALSE, result=TRUE,fig.height=4,fig.cap=("Oprindeligt trepartsforhold")}
 
-![](img/trep.png)
-(kilde; Trojka) Figur 14.4.
+nodes <- data.frame(id = 1:3, shape = c("box"),level = c(1,1,2),label = c("Sælger\nkreditformidler","Køber/låntager","Finansieringsselskab\nkreditgiver\nTrediemand"),font.size = c(25,25,25))
+edges <- data.frame(from = c(1,2,2,3,3,1), 
+                    to = c(2,1,3,2,1,3),
+                    arrows = c("to"),
+                    length = c(700,100,100,100,100,100),
+                    font.size = c(20,20,20,20,20,20),
+                    label=c("2. Vare\n3. Købesum","","3. Lån\n4. Omkostninger","","1. Aftale",""),
+                    smooth = c(FALSE,FALSE,FALSE,FALSE,FALSE,FALSE)
+                    )
+ visNetwork(nodes, edges, width = "100%") %>% 
+   visInteraction(dragNodes = TRUE, 
+                 dragView = TRUE, 
+                 zoomView = FALSE) %>%
+  visNodes(color = list(background = "white", 
+                        border = "white",
+                        highlight = "yellow"),
+           shadow = list(enabled = TRUE, size = 30))  %>%
+  visHierarchicalLayout(direction = "UD",levelSeparation = 300) %>%
+visEdges(color = list(color = "lightgrey", highlight = "yellow") )
+```
 
 ---
 
@@ -730,8 +768,29 @@ Fogedretten har statueret oprindeligt trepartsforhold, selv om skyldner havde ha
 
 ### Efterfølgende trepartsforhold
 
-![](img/trep1.png)
-(kilde; Trojka) Figur 14.5.
+
+```{r , echo=FALSE, result=TRUE,fig.height=4,fig.cap=("Efterfølgende trepartsforhold")}
+
+nodes <- data.frame(id = 1:3, shape = c("box"),level = c(1,1,2),label = c("Autoforhandler\nkreditformidler","Køber/låntager","Finansieringsselskab"),font.size = c(25,25,25))
+edges <- data.frame(from = c(1,2,2,3,1), 
+                    to = c(2,1,3,1,3),
+                    arrows = c("to"),
+                    length = c(900,100,100,100,100),
+                    font.size = c(20,20,20,20,20),
+                    label=c("Vare\nLåneaftale","","Afdrag\nRenter","Overdragelse af låneaftale\nBetaling for overdragelse",""),
+                    smooth = c(FALSE,FALSE,FALSE,FALSE,FALSE)
+                    )
+ visNetwork(nodes, edges, width = "100%") %>% 
+   visInteraction(dragNodes = TRUE, 
+                 dragView = TRUE, 
+                 zoomView = FALSE) %>%
+  visNodes(color = list(background = "white", 
+                        border = "white",
+                        highlight = "yellow"),
+           shadow = list(enabled = TRUE, size = 30))  %>%
+  visHierarchicalLayout(direction = "UD",levelSeparation = 300) %>%
+visEdges(color = list(color = "lightgrey", highlight = "yellow") )
+```
 
 ---
 
@@ -751,8 +810,28 @@ Forholdet mellem sælgeren/kreditgiveren i det oprindelige trepartsforhold og tr
 
 ### Fritstående lån i forhold til det oprindelige trepartsforhold
 
-![](img/frit.png)
-(Kilde; Trojka) Figur 14.6.
+```{r , echo=FALSE, result=TRUE,fig.height=4,fig.cap=("Fritstående lån, køber finansierer købet med lån i banken")}
+
+nodes <- data.frame(id = 1:3, shape = c("box"),level = c(1,1,2),label = c("Sælger","Køber/låntager","Bank"),font.size = c(25,25,25))
+edges <- data.frame(from = c(1,2,2,3), 
+                    to = c(2,1,3,2),
+                    arrows = c("to"),
+                    length = c(900,100,100,100),
+                    font.size = c(20,20,20,20),
+                    label=c("Vare\nKøbesum","","Banklån\nAfdrag/Renter/Gebyrer","")
+                    # smooth = c(FALSE,FALSE,FALSE,FALSE)
+                    )
+ visNetwork(nodes, edges, width = "100%") %>% 
+   visInteraction(dragNodes = TRUE, 
+                 dragView = TRUE, 
+                 zoomView = FALSE) %>%
+  visNodes(color = list(background = "white", 
+                        border = "white",
+                        highlight = "yellow"),
+           shadow = list(enabled = TRUE, size = 30))  %>%
+  visHierarchicalLayout(direction = "UD",levelSeparation = 300) %>%
+visEdges(color = list(color = "lightgrey", highlight = "yellow") )
+```
 
 ---
 
@@ -824,8 +903,31 @@ Dette gælder ikke, hvis den oprindelige kreditgiver efter aftale med erhververe
 
 I tilfælde af kreditorskifte (ved det efterfølgende trepartsforhold) er reglen en gentagelse af princippet i gældsbrevslovens § 27, men reglen kan – i modsætning til gældsbrevslovens § 27 – ikke fraviges ved aftale. 
 
-![](img/kre2.png)
-(Kilde; Trojka) Figur 14.7.
+**efterfølgende trepartsforhold**
+
+
+```{r , echo=FALSE, result=TRUE,fig.height=4,fig.cap=("Efterfølgende trepartsforhold, køber kan gøre samme indsigelser overfor både sælger og finansieringsselskab.")}
+
+nodes <- data.frame(id = 1:3, shape = c("box"),level = c(1,1,2),label = c("Sælger","Køber","Finansieringsselskab"),font.size = c(25,25,25))
+edges <- data.frame(from = c(1,2,2,1), 
+                    to = c(2,1,3,3),
+                    arrows = c("to"),
+                    length = c(900,100,100,100),
+                    font.size = c(20,20,20,20),
+                    label=c("Kreditkøb\nKøbers indsigelser","","Afdrag\nRenter","Salg af købekontrakt")
+                    # smooth = c(FALSE,FALSE,FALSE,FALSE,FALSE)
+                    )
+ visNetwork(nodes, edges, width = "100%") %>% 
+   visInteraction(dragNodes = TRUE, 
+                 dragView = TRUE, 
+                 zoomView = FALSE) %>%
+  visNodes(color = list(background = "white", 
+                        border = "white",
+                        highlight = "yellow"),
+           shadow = list(enabled = TRUE, size = 30))  %>%
+  visHierarchicalLayout(direction = "UD",levelSeparation = 300) %>%
+visEdges(color = list(color = "lightgrey", highlight = "yellow") )
+```
 
 ---
 
@@ -895,8 +997,29 @@ Ejendomsforbehold kan være en del af kreditaftalen, men sælger kan også vælg
 
 I aftaler om kreditkøb er det udelukkende muligt at bruge ejendomsforbehold, der kan ikke tages underpant i varen
 
-![](img/eje.png)
-(KIlde; Trojka) Figur 14.6.
+
+```{r , echo=FALSE, result=TRUE,fig.height=4,fig.cap=("Konflikten mellem Amalies ret efter ejendomsforbeholdet og Cecilies ret til den købte vare.")}
+
+nodes <- data.frame(id = 1:3, shape = c("box"),label = c("A. Amalie","B. Bent","C. Cecilie"),font.size = c(25,25,25))
+edges <- data.frame(from = c(1,2,3), 
+                    to = c(2,3,1),
+                    arrows = c("to"),
+                    length = c(400,100,300),
+                    font.size = c(20,20,20),
+                    label=c("Ejendomsforbehold\ntil sælger","",""),
+                    smooth = c(FALSE,FALSE,TRUE)
+                    )
+ visNetwork(nodes, edges, width = "100%") %>% 
+   visInteraction(dragNodes = TRUE, 
+                 dragView = TRUE, 
+                 zoomView = FALSE) %>%
+  visNodes(color = list(background = "white", 
+                        border = "white",
+                        highlight = "yellow"),
+           shadow = list(enabled = TRUE, size = 30))  %>%
+  visHierarchicalLayout(direction = "UD",levelSeparation = 300) %>%
+visEdges(color = list(color = "lightgrey", highlight = "yellow") )
+```
 
 ---
 
@@ -1191,7 +1314,7 @@ Har køber misligholdt aktivet eller lagt hindringer i vejen for tilbagetagelsen
 
 **U:** Fogedretten kan henvise sælger til at tage det solgte tilbage
 
-<img src="img/kredit15.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 
 
 
