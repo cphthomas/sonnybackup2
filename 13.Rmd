@@ -773,8 +773,6 @@ mydf %>%
 
 ---
 
-![](img/omst1.png)
-(Kilde; Trojka)
 
 ```{r, echo=FALSE, result=TRUE ,fig.height=2.7,fig.cap=("Omstødelsesperiode for gaver")}
 library(timevis)
@@ -795,8 +793,8 @@ timevis(data)%>%
 
 ---
 
-![](img/omst2.png)
-(Kilde; Trojka)
+
+
 
 ```{r, echo=FALSE, result=TRUE ,fig.height=2,fig.cap=("Modregning før fristdag")}
 library(timevis)
@@ -816,8 +814,6 @@ timevis(data)%>%
 
 ---
 
-![](img/omst3.png)
-(KIlde; Trojka)
 
 ```{r, echo=FALSE, result=TRUE ,fig.height=2,fig.cap=("Modregning mellem fristdag og konkursdekret")}
 library(timevis)
@@ -837,8 +833,7 @@ timevis(data)%>%
 
 ---
 
-![](img/omst4.png)
-(KIlde; Trojka)
+
 
 ```{r, echo=FALSE, result=TRUE ,fig.height=2.5,fig.cap=("Modregning mellem fristdag og konkursdekret")}
 library(timevis)

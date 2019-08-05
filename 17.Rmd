@@ -29,9 +29,32 @@ Modregning bringer krav til ophør i det omfang, kravene dækker hinanden.
 ---
 
 
-![](img/ophor.png)
-</div>
-(Kilde; Trojka) Fig. 17.1.
+```{r ,echo=FALSE,fig.height=3, result=TRUE, fig.cap=("Modkrav og hovedkrav, skyldner på hovedkravet Bonnie vil modregne")}
+nodes <- data.frame(id = 1:2, 
+                    shape = c("box"), 
+                    level = c(1,2),
+                    label = c("Anne\nskyldner","Bonnie\nskyldner på hovedkravet"),
+                    font.size = c(20,20))
+edges <- data.frame(from = c(1,2), to = c(2,1),
+                    arrows = c("to","to"),
+                    font.size = c(15,15),
+                    label = c("Bonnie låner 100 kr. af Anne\nAnne har hovedkrav på 100 kr.\nBonnie betaler 50 kr. for Anne\nBonnie modregner sit modkrav på 50 kr. i Annes hovedkrav.",""),
+                    length = c(100,100),
+                    shadow = TRUE
+              
+                    )
+  visNetwork(nodes, edges, width = "100%") %>% 
+   visInteraction(dragNodes = TRUE, 
+                 dragView = TRUE, 
+                 zoomView = FALSE) %>%
+  visNodes(color = list(background = "white", 
+                        border = "white",
+                        highlight = "yellow"),
+           shadow = list(enabled = TRUE, size = 30))  %>%
+      visHierarchicalLayout(direction = "LR",levelSeparation = 700)  %>%
+      visLayout(randomSeed = 24) %>%
+  visEdges(color = list(color = "lightgrey", highlight = "yellow"))
+```
 
 ---
 
@@ -227,7 +250,22 @@ Det fremgår af forældelseslovens § 3, stk. 1.
 
 ---
 
-![](img/for.png)
+
+
+```{r, echo=FALSE, result=TRUE ,fig.height=2,fig.cap=("Forældelsesfrister i forældelsesloven")}
+library(timevis)
+
+data <- data.frame(
+  id      = 1:3,
+  content = c("Krav blev fremsat",
+              "Forældelsesperiode på 3 år", "Krav forældes"),
+  start   = c("2019-01-01","2019-01-01","2022-01-01"),
+  end     = c( NA, "2022-01-01", NA) )
+timevis(data)%>%
+  setOptions(list(editable = FALSE)) %>%
+  setSelection("5") %>%
+  fitWindow(list(animation = TRUE))
+```
 
 ---
 

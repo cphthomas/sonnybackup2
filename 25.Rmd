@@ -1,5 +1,5 @@
 
-# Forsikring, pension og ankenævn  
+# <font color="red">Forsikring, pension og ankenævn  <sup> Premium </font></sup>
 
 
 
@@ -53,8 +53,8 @@
 
 ---
 
-## Indgåelse af en forsikringsaftale
 
+## <font color="red">Indgåelse af en forsikringsaftale <sup> Premium </font></sup>
 
 
 
@@ -90,8 +90,8 @@ Ved en forbrugerforsikring forstås en forsikringsaftale, hvor forsikringstagere
  
 ---
 
-### Bevisbyrderegler
 
+### <font color="red">Bevisbyrderegler <sup> Premium </font></sup>
 
 
 Forsikringsselskabet har bevisbyrden for, at en forsikringsaftale ikke er en forbrugerforsikring. Dette er svarende til, hvad der gælder efter bl.a. aftaleloven, købeloven og forbrugeraftaleloven.  
@@ -131,7 +131,8 @@ Ofte er forsikringstager og forsikrede samme person.
 
 ---
 
-### Har man pligt til at tegne forsikring?
+### <font color="red">Har man pligt til at tegne forsikring? <sup> Premium </font></sup>
+
 
 Der er en lovbestemt pligt til at tegne forsikringer inden for en række retsområder. 
 
@@ -200,8 +201,8 @@ Begrundelsen skal efter anmodning være skriftlig.
 
 Hvis man graver længere ind i forsikringsretten kommer det tydeligt frem, hvilke rettigheder og forpligelser forsikringstageren og hhv. Forsikringsselskabet har efter forsikringsaftaleloven (FAL):
 
-
-#### Forsikringsselskabets begrundelsespligt
+#### <font color="red">Forsikringsselskabets begrundelsespligt <sup> Premium </font></sup>
+ 
 
 Begrundelsespligten ved forsikringsselskabets afslag på at tegne en forsikring omfatter således i første række tilfælde, hvor selskabet helt afviser at tegne en forsikring. 
 
@@ -273,7 +274,8 @@ Finanstilsynet vil dog i almindelighed ikke behandle konkrete tvister mellem et 
 
 ---
 
-#### Urigtige oplysninger ved forsikringsaftalens indgåelse
+#### <font color="red">Urigtige oplysninger ved forsikringsaftalens indgåelse <sup> Premium </font></sup>
+
 
 Forsikringsselskabets vurdering af, om det vil tegne en forsikring, afhænger i vidt omfang af de risikooplysninger, som selskabet modtager fra forsikringstageren. 
 
@@ -355,8 +357,8 @@ Den resterende del af policen er forsikringsbetingelserne – som oftest fortryk
 
 Sagt med andre ord: De nøjagtige regler, som er gældende mellem forsikringstageren og forsikringsselskabet.  
 
-
-#### Fortrydelsesret, ved tegning af forsikring 
+#### <font color="red">Fortrydelsesret, ved tegning af forsikring <sup> Premium </font></sup>
+####  
 
 Når man køber en ny forsikring, kan man fortryde købet af forsikringen. Det gælder også, selv om forsikringstiden er startet. *"Forsikringstid“* er det tidsrum, forsikringen er aftalt for.
 
@@ -419,6 +421,7 @@ Det er for sent, at forsikringsselskabet først modtager henvendelse den 19. feb
 <div class="video-container"><iframe src="https://www.youtube.com/embed/gsK8tssPiZ0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
+
 
 #### Indtrædelse af forsikringsselskabets ansvar
 
