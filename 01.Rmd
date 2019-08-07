@@ -839,9 +839,9 @@ Supplerende værneting, er f.eks.:
 
 
 text_tbl <- data.frame(
-  Paragraf = c("§239", "§240", "§241","§242","§243","§244","§246"),
-  Indhold = c(
-    "Regioner og kommuner har hjemting i den retskreds, hvor hovedkontoret ligger.",
+  S1 = c("Paragraf","§239", "§240", "§241","§242","§243","§244","§246"),
+  S2 = c(
+    "Indhold","Regioner og kommuner har hjemting i den retskreds, hvor hovedkontoret ligger.",
     
     "Sager mod staten: Staten har hjemting i den retskreds, hvor den myndighed, som stævnes på statens vegne, har kontor.", 
     
@@ -864,12 +864,13 @@ Godsværneting: Stk. 3: Sager vedrørende formueretsforhold mod de i stk. 1 næv
 
   )
 )
-
-kable(text_tbl,caption="Værneting") %>%
-  kable_styling(full_width = T,bootstrap_options = c( "hover","responsive","bordered","striped")) %>%
+names(text_tbl) <- NULL
+text_tbl%>%
+  kable("html", escape = FALSE, caption = "Værneting") %>%
+   kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
   column_spec(1, bold = T, border_right = T,color = "black",background = "lightgrey") %>%
   column_spec(2) %>%
-  column_spec(2,  bold = T, color = "white", background = "darkgrey")
+  column_spec(2,  bold = T, color = "black", background = "lightgrey")
 # add_header_above(c( "Koncipistreglen" = 2),italic = TRUE)
 ```
 

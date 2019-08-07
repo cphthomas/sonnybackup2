@@ -774,7 +774,7 @@ mydf %>%
 ---
 
 
-```{r, echo=FALSE, result=TRUE ,fig.height=2.7,fig.cap=("Omstødelsesperiode for gaver")}
+```{r, echo=FALSE, result=TRUE ,fig.height=5,fig.cap=("Omstødelsesperiode for gaver")}
 library(timevis)
 
 data <- data.frame(
@@ -796,7 +796,7 @@ timevis(data, showZoom = FALSE)%>%
 
 
 
-```{r, echo=FALSE, result=TRUE ,fig.height=2,fig.cap=("Modregning før fristdag")}
+```{r, echo=FALSE, result=TRUE ,fig.height=3,fig.cap=("Modregning før fristdag")}
 library(timevis)
 
 data <- data.frame(
@@ -806,7 +806,7 @@ data <- data.frame(
   start   = c("2019-08-02",
               "2019-11-01", "2020-02-01","2020-02-25"),
   end     = c( NA, NA, NA,NA) )
-timevis(data)%>%
+timevis(data, showZoom = FALSE)%>%
   setOptions(list(editable = FALSE)) %>%
   setSelection("5") %>%
   fitWindow(list(animation = TRUE))
@@ -815,7 +815,7 @@ timevis(data)%>%
 ---
 
 
-```{r, echo=FALSE, result=TRUE ,fig.height=2,fig.cap=("Modregning mellem fristdag og konkursdekret")}
+```{r, echo=FALSE, result=TRUE ,fig.height=3,fig.cap=("Modregning mellem fristdag og konkursdekret")}
 library(timevis)
 
 data <- data.frame(
@@ -825,7 +825,7 @@ data <- data.frame(
   start   = c("2019-08-02",
               "2019-11-01", "2020-02-01","2020-02-25"),
   end     = c( NA, NA, NA,NA) )
-timevis(data)%>%
+timevis(data, showZoom = FALSE)%>%
   setOptions(list(editable = FALSE)) %>%
   setSelection("5") %>%
   fitWindow(list(animation = TRUE))
@@ -835,7 +835,7 @@ timevis(data)%>%
 
 
 
-```{r, echo=FALSE, result=TRUE ,fig.height=2.5,fig.cap=("Modregning mellem fristdag og konkursdekret")}
+```{r, echo=FALSE, result=TRUE ,fig.height=4,fig.cap=("Modregning mellem fristdag og konkursdekret")}
 library(timevis)
 
 data <- data.frame(
@@ -845,7 +845,7 @@ data <- data.frame(
   start   = c("2019-08-02",
               "2019-11-01", "2020-02-01","2020-02-01","2020-02-25"),
   end     = c( NA, NA, NA,"2020-02-25",NA) )
-timevis(data)%>%
+timevis(data, showZoom = FALSE)%>%
   setOptions(list(editable = FALSE)) %>%
   setSelection("5") %>%
   fitWindow(list(animation = TRUE))

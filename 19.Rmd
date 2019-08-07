@@ -370,7 +370,7 @@ Hvis man er i tvivl om, hvordan man får en rettighed tinglyst, bør man søge p
 
 **Oplysninger fra Bilbogen?**
 
-![](img/bil3.jpg)
+<!-- ![](img/bil3.jpg) -->
 
 Forespørgsler i Bilbogen skal ske via www.tinglysning.dk.
 

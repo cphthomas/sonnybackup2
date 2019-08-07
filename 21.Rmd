@@ -1379,9 +1379,8 @@ Skjulte fejl og mangler ved overdragelse af fast ejendom reguleres af forældels
 
 **Video: Tilstandsrapport og energimærke**
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/EToKhmr8XFo" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<!-- <div class="video-container"><iframe src="https://www.youtube.com/embed/EToKhmr8XFo" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div> -->
 
----
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/dsA2EXsZVsg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
