@@ -252,7 +252,7 @@ Det fremgår af forældelseslovens § 3, stk. 1.
 
 
 
-```{r, echo=FALSE, result=TRUE ,fig.height=2,fig.cap=("Forældelsesfrister i forældelsesloven")}
+```{r, echo=FALSE, result=TRUE ,fig.height=3,fig.cap=("Forældelsesfrister i forældelsesloven")}
 library(timevis)
 
 data <- data.frame(
@@ -261,7 +261,7 @@ data <- data.frame(
               "Forældelsesperiode på 3 år", "Krav forældes"),
   start   = c("2019-01-01","2019-01-01","2022-01-01"),
   end     = c( NA, "2022-01-01", NA) )
-timevis(data)%>%
+timevis(data, showZoom = FALSE)%>%
   setOptions(list(editable = FALSE)) %>%
   setSelection("5") %>%
   fitWindow(list(animation = TRUE))
