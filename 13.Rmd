@@ -784,7 +784,7 @@ data <- data.frame(
   start   = c("2019-02-01", "2019-02-01",
               "2019-05-01", "2019-08-01","2019-08-22"),
   end     = c("2019-08-01", NA, NA, NA,NA) )
-timevis(data)%>%
+timevis(data, showZoom = FALSE)%>%
   setOptions(list(editable = FALSE)) %>%
   setSelection("5") %>%
   fitWindow(list(animation = TRUE))

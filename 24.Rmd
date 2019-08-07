@@ -321,15 +321,31 @@ Undtagelsen er, hvis arvelader er gift og/eller har børn, er testationskompeten
 
 Tvangsarven er som udgangspunkt ¼ af arveladers formue.
 
+**Testationskompetence**
+
+```{r pie,echo=FALSE, message=FALSE,result=TRUE, fig.cap=("En fjerdedel af testators formue er tvangsarv hvis der er børn eller ægtefælle")}
+library("chartjs")
+chartjs(height = "300px") %>%
+  cjsPie(labels = c("Tvangsarv 25%","Friarv 75%")) %>%
+  cjsSeries(data = c(0.25,0.75))%>%
+cjsLegend(position = "top")
+```
 
 
-![](img/testa.png)
-(kilde; Trojka) Fig. 24.1.
 
 ---
 
-![](img/tvangsa.png)
-(kilde; Trojka) Fig. 24.2.
+
+**Eksempel: Tvangsarv med ægtefælle og 2 børn, formue: 1.200.000,-**
+
+```{r pie2,echo=FALSE, message=FALSE,result=TRUE, fig.cap=("Formuen 1.200.000,- Ægtefællen arver 50% af 25% af formuen  i tvangsarv, børnene hver 25% af 25% af formuen i tvangsarv")}
+library("chartjs")
+chartjs(height = "300px") %>%
+  cjsPie(labels = c("Ægtefælle: 12.5%","Barn 1: 6.25%","Barn 2: 6.25%","Friarv: 75%")) %>%
+  cjsSeries(data = c(150000,75000,75000,900000))%>%
+cjsLegend(position = "top")
+```
+
 
 ---
 
