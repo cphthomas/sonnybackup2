@@ -1043,7 +1043,7 @@ Disse er relevante, fordi også en begrænset risiko er grundlag for, at virksom
 
 ---
 
-##### <font color="red">Fondsmæglervirksomheder<sup> Premium </font></sup>
+#### <font color="red">Fondsmæglervirksomheder<sup> Premium </font></sup>
 
 For **fondsmæglervirksomheder**, kan nedenstående eksempel illustrere en konkret vurdering. 
 
@@ -1063,7 +1063,7 @@ Dette produkt vil som udgangspunkt vurderes til at være begrænset risiko, men 
 
 ---
 
-##### <font color="red">Finansiel leasing<sup> Premium </font></sup>
+#### <font color="red">Finansiel leasing<sup> Premium </font></sup>
  
 For virksomheder, der udbyder **finansiel leasing**, kan nedenstående eksempel illustrere en konkret vurdering. 
 
@@ -1081,7 +1081,7 @@ En faktor, der kan indikere en begrænset risiko ved leasing af produkter/tjenes
 
 ---
 
-##### <font color="red">Liv- og pensionsvirksomheder<sup> Premium </font></sup>
+#### <font color="red">Liv- og pensionsvirksomheder<sup> Premium </font></sup>
 
 For **virksomheder, der udbyder pensionsordninger**, kan nedenstående eksempel illustrere en konkret vurdering: Pensionsordninger oprettet som led i ansættelsen oprettes altid via arbejdsgiver. 
 
@@ -1107,7 +1107,7 @@ Dette sammenholdt med en mulig kortere løbetid gør, at ordningen kan være mer
 
 ---
 
-##### <font color="red">Livsforsikring<sup> Premium </font></sup>
+#### <font color="red">Livsforsikring<sup> Premium </font></sup>
 
 For virksomheder, der udbyder livsforsikringer, kan nedenstående eksempel illustrere en konkret vurdering: 
 
@@ -1224,7 +1224,9 @@ Det skal derfor som minimum altid sikres, at medarbejdere ikke er involveret i u
 
 ---
 
-### Politikker 
+### <font color="red">Politikker<sup> Premium </font></sup> 
+
+
 
 *Virksomhedens politikker* på hvidvaskområdet skal indeholde *identifikation, vurdering og afgrænsning af virksomhedens risikofaktorer* som konklusion på virksomhedens risikovurdering, samt de overordnede strategiske mål til forebyggelse af hvidvask og finansiering af terrorisme for virksomhedens identificerede risici.
 
@@ -1263,7 +1265,9 @@ Virksomhedens politikker kan skrives i et eller flere dokumenter.
 
 ---
 
-### Procedurer
+### <font color="red">Procedurer<sup> Premium </font></sup>
+
+
 
 *Procedurer* på hvidvaskområdet består af en beskrivelse af de aktiviteter, som virksomheden udfører med henblik på at sikre, at lovgivningen bliver overholdt, samt at virksomhedens politikker og retningslinjer efterleves. 
 
@@ -1288,7 +1292,9 @@ Det er et krav, at dokumentationen af procedurerne (f.eks. forretningsgange) er 
 
 ---
 
-##### Risikostyring 
+### <font color="red">Risikostyring<sup> Premium </font></sup> 
+
+
 
 Virksomhedens risikostyring på hvidvaskområdet skal tage udgangspunkt i virksomhedens forretningsmodel og de risici, som virksomheden har fundet frem til i sin risikovurdering. 
 
@@ -1302,17 +1308,19 @@ I risikostyring ligger der også, at virksomheden skal følge risikoudviklingen 
 
 ---
 
-##### Screening af medarbejdere 
+### <font color="red">Screening af medarbejdere<sup> Premium </font></sup> 
+
+
 
 Virksomheden skal forebygge, at ansatte kan misbruge deres stilling til hvidvask og finansiering af terrorisme eller medvirken hertil. 
 
-**Screening af ansatte består af to dele:** 
+*Screening af ansatte består af to dele:* 
 
-**1) Sikre at den ansatte ikke er dømt for et strafbart forhold, der øger risiciene for, at personen kan misbruge sin stilling.** 
+*1) Sikre at den ansatte ikke er dømt for et strafbart forhold, der øger risiciene for, at personen kan misbruge sin stilling.* 
 
-**2) Sikre at den ansatte har tilstrækkelige kvalifikationer på hvidvaskområdet til at varetage stillingen.**
+*2) Sikre at den ansatte har tilstrækkelige kvalifikationer på hvidvaskområdet til at varetage stillingen.*
 
-**Ad. 1)** Screening af ansatte, hvor der er en risiko for misbrug af stillingen til hvidvask eller finansiering af terrorisme, herunder medvirken hertil, skal ske forud for ansættelsen. 
+*Ad. 1)* Screening af ansatte, hvor der er en risiko for misbrug af stillingen til hvidvask eller finansiering af terrorisme, herunder medvirken hertil, skal ske forud for ansættelsen. 
 
 Virksomheden kan f.eks. kontrollere dette ved at bede den ansatte om at indlevere sin private straffeattest. 
 
@@ -1366,7 +1374,9 @@ Sikring mod, at en ansat kan misbruge sin stilling, skal yderligere indarbejdes 
 
 ---
 
-##### Intern kontrol 
+### <font color="red">Intern kontrol<sup> Premium </font></sup> 
+
+
 
 Virksomheden skal etablere intern kontrol, hvilket betyder at virksomheden skal sikre, at der foretages kontrol af, om virksomheden overholder lovens krav på hvidvaskområdet. 
 
@@ -1429,7 +1439,9 @@ Det betyder, at hvis et datterselskab ikke er omfattet af hvidvaskloven, er der 
 Kravene i § 9 gælder ikke for koncerner, hvor kun datterselskaber er omfattet af hvidvaskloven.
 
 
-### Udveksling af oplysninger i koncerner 
+### <font color="red">Udveksling af oplysninger i koncerner<sup> Premium </font></sup>
+
+
 
 Virksomheder i koncerner skal have tilstrækkelige: 
 
@@ -1445,7 +1457,9 @@ Procedurer for udveksling af oplysninger i en koncern skal udarbejdes i overenss
 
 ---
 
-### Koncernfælles risikovurdering, politikker og procedurer 
+### <font color="red">Koncernfælles risikovurdering, politikker og procedurer<sup> Premium </font></sup> 
+
+
 
 Risikovurdering, politikker og procedurer i et moderselskab skal dække hele koncernen. 
 
@@ -1494,7 +1508,9 @@ I det følgende kapitel er de forskellige ansvarlige personer og funktioner besk
 
 ---
 
-### Hvidvaskansvarlig - den § 7,2-udpegede person 
+### <font color="red">Hvidvaskansvarlig - den § 7,2-udpegede person<sup> Premium </font></sup> 
+
+
 
 Den daglige ledelse, som oftest er virksomhedens direktion, skal udpege en ansat, der har fuldmagt til at træffe beslutninger på virksomhedens vegne om godkendelse af virksomheden politikker, procedurer og kontroller og vedrørende godkendelse af særlige kundeforhold. 
 
@@ -1536,7 +1552,9 @@ Det er vigtigt, at personen, for at kunne varetage ansvaret, har adgang til virk
 
 ---
 
-### Den hvidvaskansvarliges ansvarsområder
+### <font color="red">Den hvidvaskansvarliges ansvarsområder<sup> Premium </font></sup>
+
+
 
 Den hvidvaskansvarlige skal: 
 
@@ -1562,7 +1580,9 @@ Det er virksomhedens complianceansvarlige, i virksomheder, der er pålagt at hav
 
 ---
 
-### Uddelegering
+### <font color="red">Uddelegering<sup> Premium </font></sup>
+
+
 
 Den hvidvaskansvarlige har mulighed for at uddelegere de opgaver, der følger af bestemmelsen, til en eller flere medarbejdere med tilstrækkeligt kendskab til virksomhedens risikoprofil i forhold til hvidvask og finansiering af terrorisme. 
 
@@ -1586,7 +1606,9 @@ Fordi ansvaret altid ligger hos den hvidvaskansvarlige, vil der ved uddelegering
 
 ---
 
-### Complianceansvarlig § 8, stk. 3
+### <font color="red">Complianceansvarlig § 8, stk. 3<sup> Premium </font></sup>
+
+
 
 Hvis en virksomhed i forbindelse med anden lovgivning er forpligtet til at have en compliancefunktion, skal virksomheden udpege en complianceansvarlig på ledelsesniveau. 
 
@@ -1624,7 +1646,9 @@ Det kan også være den complianceansvarlige i egenskab af sin uafhængighed af 
 **Bekendtgørelse nr. 1026 af 30. juni 2016 om ledelse og styring af pengeinstitutter m.fl. og** 
 **bekendtgørelse nr. 1723 af 16. december 2015 om ledelse og styring af forsikringsselskaber m.v.**
 
-### Ansvarligt direktionsmedlem § 8, stk. 5 
+### <font color="red">Ansvarligt direktionsmedlem § 8, stk. 5<sup> Premium </font></sup> 
+
+
 
 Virksomheder skal, hvor det er vurderes relevant, udpege et medlem af direktionen, der er ansvarlig for gennemførelse af kravene i hvidvaskloven og regler udstedt i medfør heraf. 
 
@@ -1657,7 +1681,9 @@ Hvis en dansk virksomhed har filialer i udlandet, skal de være opmærksomme på
 
 ---
 
-### Intern revision § 8, stk. 4 
+### <font color="red">Intern revision § 8, stk. 4<sup> Premium </font></sup> 
+
+
 
 Hvis en virksomhed har en *intern revision*, skal bestyrelsen i virksomheden sikre, at den interne revision vurderer, om virksomhedens politikker, procedurer og kontroller på hvidvaskområdet er tilrettelagt og fungerer på betryggende vis. 
 
@@ -1677,7 +1703,9 @@ Kravet gælder følgende virksomheder, hvis de har en intern revision:
 
 ---
 
-### Intern audit 
+### <font color="red">Intern audit<sup> Premium </font></sup> 
+
+
 
 En *intern auditfunktion* i en virksomhed er ikke direkte omfattet af forpligtelsen i hvidvasklovens § 8, stk. 4. 
 
@@ -1847,7 +1875,9 @@ I tilfælde hvor der fremsendes materiale til advokaten vil advokaten typisk skr
 
 ---
 
-### Hvornår skal virksomheden gennemføre kundekendskabsprocedurer
+### <font color="red">Hvornår skal virksomheden gennemføre kundekendskabsprocedurer<sup> Premium </font></sup>
+
+
 
 
 Hvidvasklovens § 10 beskriver, hvornår en virksomhed skal gennemføre kundekendskabsprocedurer:
@@ -1863,7 +1893,9 @@ I de følgende afsnit vil de forskellige oplistede situationer blive nærmere be
 
 ---
 
-#### Etablering af en forretningsforbindelse 
+### <font color="red">Etablering af en forretningsforbindelse<sup> Premium </font></sup> 
+
+
 
 Det er udgangspunktet, at en virksomhed etablerer en forretningsforbindelse, når virksomheden udfører en ydelse eller sælger et produkt til en kunde. 
 
@@ -1879,7 +1911,8 @@ Der må ikke oprettes anonyme konti eller konti under falske navne, og derfor er
 
 ---
 
-#### En kundes relevante omstændigheder ændrer sig 
+### <font color="red">En kundes relevante omstændigheder ændrer sig<sup> Premium </font></sup> 
+
 
 Hvis der er tale om en etableret forretningsforbindelse, og kundens relevante omstændigheder ændrer sig, skal kundeskabsprocedurerne gennemføres igen. 
 
@@ -1889,7 +1922,9 @@ Virksomheden skal i disse situationer ud fra en risikovurdering tage stilling ti
 
 ---
 
-#### Kundekendskabsprocedurer ved passende tidspunkter 
+### <font color="red">Kundekendskabsprocedurer ved passende tidspunkter<sup> Premium </font></sup>
+
+Baggrund
 
 Når der er tale om en etableret forretningsforbindelse, skal virksomheden gennemføre kundekendskabsprocedurerne med passende intervaller i kundeforholdet. 
 
@@ -1920,7 +1955,9 @@ Hvis der er tale om et kundeforhold med en juridisk person, kan det for eksempel
 
 ---
 
-#### Enkeltstående transaktioner 
+### <font color="red">Enkeltstående transaktioner<sup> Premium </font></sup> 
+
+
 
 Udgangspunktet er, at en virksomhed etablerer en forretningsforbindelse, når den udfører transaktioner for en kunde, og der dermed skal gennemføres kundekendskabsprocedurer. 
 
@@ -1986,7 +2023,9 @@ Dette krav gælder, selvom virksomheden ikke er forpligtet til at gennemføre ku
 ---
 
 
-#### Enkeltstående aktiviteter, der ikke er transaktioner (rådgivningsopgaver)
+### <font color="red">Enkeltstående aktiviteter, der ikke er transaktioner (rådgivningsopgaver)<sup> Premium </font></sup>
+
+
 
 Hvis en virksomhed udfører en enkeltstående aktivitet, der ikke er en transaktion, kan kravene i hvidvasklovens § 11 om indhentning og kontrol af identitetsoplysninger på kunden undlades på baggrund af en risikovurdering. 
 
@@ -2013,7 +2052,9 @@ Hvis der er mistanke om hvidvask eller finansiering af terrorisme, skal der alti
 
 ---
 
-#### Udbud af spil, hvor indsatsen eller udbetalingen er over et vist beløb 
+### <font color="red">Udbud af spil, hvor indsatsen eller udbetalingen er over et vist beløb<sup> Premium </font></sup> 
+
+
 
 Virksomheder, som udbyder spil, enten selv eller igennem en forhandler, skal gennemføre kundekendskabsprocedurer, når der gøres en indsats, udbetales en gevinst eller begge dele på mindst 2.000 euro. 
 
@@ -2030,7 +2071,8 @@ Virksomheden skal uanset være opmærksom på, om der etableres en fast forretni
 
 ---
 
-#### Mistanke om hvidvask eller finansiering af terrorisme 
+### <font color="red">Mistanke om hvidvask eller finansiering af terrorisme<sup> Premium </font></sup> 
+
 
 Virksomheden skal altid gennemføre kundekendskabsprocedurer, når virksomheden har viden eller mistanke om hvidvask eller finansiering af terrorisme. 
 
@@ -2047,7 +2089,9 @@ Virksomheden skal i disse tilfælde foretage en underretning med de oplysninger,
 
 ---
 
-#### Tidligere indhentede oplysninger om kunden 
+### <font color="red">Tidligere indhentede oplysninger om kunden<sup> Premium </font></sup> 
+
+
 
 Virksomheden skal gennemføre kundekendskabsprocedurer, hvis der er tvivl om, hvorvidt de indhentede oplysninger om kundens identitet mv. er korrekte og/eller tilstrækkelige. 
 
@@ -2085,7 +2129,9 @@ Se afsnittet "om risikovurdering - kundekendskabsprocedurer".
 
 ---
 
-### Indholdet af kundekendskabsprocedurer 
+### <font color="red">Indholdet af kundekendskabsprocedurer<sup> Premium </font></sup>
+
+
 
 Hvidvasklovens § 11 fastsætter de almindelige krav til kundekendskabsprocedurer. 
 
@@ -2100,7 +2146,9 @@ Der ligger i kravene i § 11, at virksomheden skal
 
 ---
 
-#### Indhentning af identitetsoplysninger
+### <font color="red">Indhentning af identitetsoplysninger<sup> Premium </font></sup>
+
+
 
 Virksomheder skal altid indhente identitetsoplysninger om kunden. 
 
@@ -2174,7 +2222,8 @@ Hvis kunden ikke har et cvr-nr. eller lignende, er det et krav, at virksomheden 
 
 ---
 
-#### Kontrol af identitetsoplysninger 
+#### <font color="red">Kontrol af identitetsoplysninger<sup> Premium </font></sup>
+
 
 De identitetsoplysninger, som virksomheden har indhentet på en kunde, skal kontrolleres ved dokumenter, data eller oplysninger, der er indhentet fra en pålidelig og uafhængig kilde. 
 
@@ -2204,7 +2253,9 @@ Virksomheden skal således vurdere, hvilke procedurer den vil benytte for at sik
 
 ---
 
-#### Eksempler på kontrol ved en pålidelig og uafhængig kilde
+#### <font color="red">Eksempler på kontrol ved en pålidelig og uafhængig kilde<sup> Premium </font></sup>
+
+
 
 En kontrol ved en pålidelig og uafhængig kilde kan f.eks. være en søgning i et pålideligt og uafhængigt register eller database eller et dokument udstedt af en offentlig myndighed. 
 
@@ -2251,7 +2302,8 @@ Når kunden er en juridisk person, skal virksomheden være opmærksom på, krave
 
 ---
 
-##### Praktiske eksempler:
+#### <font color="red">Praktiske eksempler<sup> Premium </font></sup>
+
 
 Uanset nedenstående eksempler er det altid en konkret vurdering i det enkelte kundeforhold, hvilke oplysninger der skal indhentes fra kunden, og hvornår disse er tilstrækkeligt kontrolleret ved uafhængige og pålidelige kilde(r). 
 
@@ -2291,7 +2343,8 @@ I tvivlstilfælde om f.eks. gyldigheden af opholdstilladelsen for arbejdstagere 
 
 ---
 
-#### Distancekunder 
+#### <font color="red">Distancekunder<sup> Premium </font></sup> 
+
 
 Der er bedre mulighed for, at virksomheden kan sikre sig, at kunden er den person, som kunden udgiver sig for at være, når virksomheden møder kunden fysisk. 
 
@@ -2307,7 +2360,9 @@ Et eksempel på et mitigerende tiltag kan eksempelvis være, at virksomheden sen
 
 ---
 
-#### Brug af NemID 
+#### <font color="red">Brug af NemID<sup> Premium </font></sup> 
+
+
 
 *NemID* kan bruges i forbindelse med kontrol af kundens identitetsoplysninger ved brug af PID cpr-match til kontrol af cpr-nr. og offentlig digital signatur (OCES) til kontrol af navn. 
 
@@ -2338,9 +2393,10 @@ Virksomhedens kundekendskabsprocedurer og herunder kontrollen af identitetsoplys
 
 ---
 
-#### Reelle ejere 
+#### <font color="red">Reelle ejere<sup> Premium </font></sup> 
 
-Begrebet reelle ejere anvendtes i den tidligere hvidvasklovgivning, og anvendes nu både i hvidvasklovgivningen og i regelsættet om registrering af reelle ejere. 
+
+Begrebet *reelle ejere* anvendtes i den tidligere hvidvasklovgivning, og anvendes nu både i hvidvasklovgivningen og i regelsættet om registrering af reelle ejere. 
 
 Begrebet i de to lovgivninger har nu samme baggrund i 4. hvidvaskdirektiv, og der er dermed tale om et fælles begreb. 
 
@@ -2364,7 +2420,9 @@ Virksomheden skal:
 
 ---
 
-##### Definition af reelle ejer 
+##### <font color="red">Definition af reelle ejer<sup> Premium </font></sup>
+
+
 
 En kundes reelle ejer er den eller de fysiske personer, der i sidste ende ejer eller kontrollerer kunden, eller den eller de fysiske personer, på hvis vegne en transaktion eller aktivitet gennemføres. 
 
@@ -2404,7 +2462,8 @@ I situationer, hvor kundens ejerandele handles på et sådan et marked, skal vir
 
 ---
 
-##### Indhentelse af identitetsoplysninger 
+##### <font color="red">Indhentelse af identitetsoplysninger<sup> Premium </font></sup> 
+
 
 Der skal altid indhentes oplysninger om den eller de reelle ejeres identitet (bortset fra ejere af børsnoterede selskaber). 
 
@@ -2418,7 +2477,8 @@ Det beror på en konkret vurdering, hvordan og hvilke oplysninger, som virksomhe
 
 ---
 
-##### Kontrol af reelle ejeres identitetsoplysninger 
+##### <font color="red">Kontrol af reelle ejeres identitetsoplysninger<sup> Premium </font></sup> 
+
 
 Kontrollen af de indhentede identitetsoplysninger skal foretages ud fra en risikovurdering. 
 
@@ -2444,7 +2504,8 @@ Her kan der være behov for, at den eller de reelle ejeres identitet kontrollere
 
 ---
 
-##### Klarlæggelse af ejer- og kontrolstruktur
+##### <font color="red">Klarlæggelse af ejer- og kontrolstruktur<sup> Premium </font></sup>
+
 
 Når kunden er en juridisk person, skal virksomheden altid klarlægge den juridiske persons ejer- og kontrolstruktur. 
 
@@ -2572,7 +2633,8 @@ Ved identifikation af, hvem der er reel ejer i andre typer juridiske personer mv
 
 ---
 
-#### Forretningsforbindelsens formål og tilsigtede beskaffenhed 
+#### <font color="red">Forretningsforbindelsens formål og tilsigtede beskaffenhed<sup> Premium </font></sup> 
+
 
 Virksomheden skal vurdere forretningsforbindelsens formål og tilsigtede beskaffenhed. 
 
@@ -2620,7 +2682,8 @@ Hvis virksomheden vurderer, at det er relevant at indhente oplysninger om den ti
 
 ---
 
-#### Løbende overvågning af forretningsforbindelsen 
+#### <font color="red">Løbende overvågning af forretningsforbindelsen<sup> Premium </font></sup> 
+
 
 Virksomheden skal løbende overvåge den etablerede forretningsforbindelse. Kravet gælder både i forhold til overvågning af de transaktioner, som kunden foretager, og i forhold til andre aktiviteter, som f.eks. den almindelige kontakt med kunden, generelt betegnet kundens adfærd. 
 
@@ -2679,7 +2742,7 @@ Det kan f.eks. være aktuelt i forbindelse med et pengeinstituts overvågning af
 
 ---
 
-#### Løbende ajourføring af oplysninger om kunden 
+#### <font color="red">Løbende ajourføring af oplysninger om kunden<sup> Premium </font></sup> 
 
 Oplysninger, dokumenter og data, der er indhentet om en kunde, skal løbende ajourføres med henblik på, at virksomheden kan vurdere, om forretningsforbindelsens risiko er ændret. 
 
@@ -2696,7 +2759,7 @@ Se afsnittene "om en kundes relevante omstændigheder ændrer sig" og "om kundek
 
 ---
 
-### Når en person handler på vegne af en kunde
+### <font color="red">Når en person handler på vegne af en kunde<sup> Premium </font></sup>
 
 Når en person handler på vegne af en kunde eller når der er tvivl om, hvorvidt en person handler på egne vegne skal virksomheden:
 
@@ -2738,7 +2801,7 @@ Kravet til, at virksomheden sikrer, at den fysiske eller juridiske person, der h
 
 ---
 
-### Begunstigede ved livs- og pensionsforsikringer 
+### <font color="red">Begunstigede ved livs- og pensionsforsikringer<sup> Premium </font></sup> 
 
 Ved livs- og pensionsforsikringer skal der indhentes identitetsoplysninger på den, der er begunstiget i forhold til policen. 
 
@@ -2773,7 +2836,7 @@ Det betyder, at kontrollen af identitetsoplysninger kan vente med at blive genne
 
 ---
 
-### Korrespondentforbindelser 
+### <font color="red">Korrespondentforbindelser<sup> Premium </font></sup> 
 
 Indgåelse af en korrespondentforbindelse med en respondent, der er del af Den Europæiske Union (EU) og/eller af Det Europæiske Økonomiske Samarbejdsområde (EØS), er omfattet af hvidvaskloven. 
 
@@ -2783,7 +2846,7 @@ En korrespondentforbindelse, der indgås med en respondent i EU/EØS kan derfor 
 
 ---
 
-#### Grænseoverskridende korrespondentforbindelse 
+#### <font color="red">Grænseoverskridende korrespondentforbindelse<sup> Premium </font></sup> 
 
 Inden virksomheder omfattet af hvidvasklovens § 1, stk. 1, nr. 1-13 og 19 etablerer en grænseoverskridende korrespondentforbindelse, dvs. hvor respondenten er etableret i et land, der ikke er del af EU/EØS, skal virksomheden gennemføre en række skærpede foranstaltninger ud over de almindelige kundekendskabskrav. 
 
@@ -2815,7 +2878,8 @@ Virksomheden skal have klare procedurer for dette, herunder for hvordan det sikr
 
 ---
 
-#### Korrespondentens forpligtelser: 
+#### <font color="red">Korrespondentens forpligtelser<sup> Premium </font></sup>
+
 
 Hvis en korrespondent, f.eks. et pengeinstitut eller en pengeoverførselsvirksomhed i Danmark, skal etablere en forretningsforbindelse med en respondent fra et land, som ikke er et EU- eller EØS-land, skal korrespondenten: 
 
@@ -2870,7 +2934,7 @@ Virksomheder, der indgår korrespondentforbindelser, kan bl.a. søge vejledning 
 
 ---
 
-#### Gennemstrømningskonti: 
+#### <font color="red">Gennemstrømningskonti<sup> Premium </font></sup>
 
 Hvis respondentforbindelsens kunde har direkte adgang til at disponere over midler indestående på en konto hos korrespondentforbindelsen, skal korrespondenten sikre sig, at respondenten gennemfører kundekendskabsprocedurer, samt at respondenten kan udlevere kundekendskabsoplysninger efter anmodning fra korrespondenten. 
 
@@ -2890,7 +2954,8 @@ Disse krav betyder, at korrespondenter i Danmark er ansvarlige for respondentfor
 
 ---
 
-#### Virksomheden må ikke have en korrespondentforbindelse med et tomt selskab 
+#### <font color="red">Virksomheden må ikke have en korrespondentforbindelse med et tomt selskab<sup> Premium </font></sup>
+
 
 Et tomt selskab er i hvidvasklovens forstand et selskab, der driver samme type virksomhed som de i hvidvaskloven § 1, stk. 1, nr. 1-13 og 19, nævnte virksomheder og personer, der ikke er til stede i det land, hvor selskabet har hjemsted, ikke ledes eller administreres i det pågældende land, og som ikke indgår i en reguleret finansiel koncern. 
 
@@ -2913,7 +2978,8 @@ Virksomheden må derfor f.eks. ikke oprette en korrespondentforbindelse før, vi
 
 ---
 
-### Risikovurdering – kundekendskabsprocedurer
+### <font color="red">Risikovurdering – kundekendskabsprocedurer<sup> Premium </font></sup>
+
 
 Virksomheden skal gennemføre kundekendskabsprocedurer i alle forretningsforbindelser. 
 
@@ -2985,7 +3051,9 @@ Dette er relevant for, at virksomheden kan vurdere, om der i forhold til den enk
 
 ---
 
-### Skærpede kundekendskabsprocedurer
+### <font color="red">Skærpede kundekendskabsprocedurer<sup> Premium </font></sup>
+
+
 
 Skærpede kundekendskabsprocedurer skal anvendes ud over de almindelige kundekendskabsprocedurer. 
 
@@ -3058,7 +3126,8 @@ Hvis virksomheden i ovenstående eller andre tilfælde vurderer, at kunden har h
 
 ---
 
-### Lempede kundekendskabsprocedurer 
+### <font color="red">Lempede kundekendskabsprocedurer<sup> Premium </font></sup>
+
 
 Virksomheden kan ud fra en risikovurdering anvende lempede kundekendskabsprocedurer i forhold til de forretningsforbindelser, der vurderes at have en begrænset risiko for hvidvask og finansiering af terrorisme. 
 
@@ -3115,7 +3184,7 @@ Grænsen i nr. 2 forhøjes til 500 euro for betalingsinstrumenter, som udelukken
 
 ---
 
-### Tidspunkt for gennemførelse af kundekendskabsprocedurer 
+### <font color="red">Tidspunkt for gennemførelse af kundekendskabsprocedurer<sup> Premium </font></sup> 
 
 Virksomheden skal altid identificere og kontrollere kunden og eventuelle reelle ejere inden, at virksomheden etablerer forretningsforbindelsen til kunden eller gennemfører en enkeltstående transaktion. 
 
@@ -3142,7 +3211,8 @@ Virksomheden har mulighed for ved begrænset risiko, at gennemføre dele af kund
 Virksomhedens kundekendskabsprocedurer skal altid gennemføres på baggrund af en risikovurdering. 
 
 
-### Kontrol af identitetsoplysninger under etablering af forretningsforbindelsen 
+### <font color="red">Kontrol af identitetsoplysninger under etablering af forretningsforbindelsenforbindelse<sup> Premium </font></sup> 
+
 
 Kravet til, at virksomheden altid foretager identifikation og kontrol af en kunde, inden forretningsforbindelsen etableres eller inden en enkeltstående transaktion gennemføres, kan undtagelsesvist fraviges. 
 
@@ -3175,7 +3245,8 @@ Det er en ufravigelig betingelse, at forretningsforbindelsen er begrænset risik
 
 ---
 
-### Transaktioner med værdipapirer for en kunde 
+### <font color="red">Transaktioner med værdipapirer for en kunde<sup> Premium </font></sup>
+
 
 Der er en særlig undtagelse til kravet om, at identitetsoplysninger indhentes og kontrolleres, inden en forretningsforbindelse etableres, når det vedrører oprettelse af konto, depot eller lignende, der tillader transaktioner i værdipapirer for en kunde. 
 
@@ -3189,7 +3260,7 @@ Det er en betingelse for undtagelsen, at der ikke gennemføres transaktioner, f�
 **Henvisning til 4. hvidvaskdirektiv: Artikel 10, stk. 1 og 14, stk. 4.**
 
 
-### Utilstrækkelige oplysninger eller oplysninger, der ikke kan ajourføres
+### <font color="red">Utilstrækkelige oplysninger eller oplysninger, der ikke kan ajourføres<sup> Premium </font></sup>
 
 Hvis virksomheden bliver bekendt med, at de indhentede oplysninger er utilstrækkelige og ikke kan ajourføres, skal virksomheden træffe passende foranstaltninger for at imødegå risikoen for hvidvask og finansiering af terrorisme, herunder skal virksomheden overveje, om forretningsforbindelsen skal afvikles. 
 
@@ -3225,7 +3296,8 @@ Se afsnittet nedenfor "om virksomheders pligt til at afbryde eller afvikle et ku
 ---
 
 
-### Virksomhedens pligt til at afbryde eller afvikle et kundeforhold 
+### <font color="red">Virksomhedens pligt til at afbryde eller afvikle et kundeforhold<sup> Premium </font></sup> 
+
 
 Virksomheden har kun hjemmel på hvidvaskområdet til at afbryde eller afvikle en forretningsforbindelse, hvis virksomheden har udtømt alle muligheder for at gennemføre kundekendskabsprocedurer, og virksomheden på denne baggrund kan konkludere, at det ikke er muligt at gennemføre kundekendskabsprocedurerne i forhold til den konkrete forretningsforbindelse. 
 
@@ -3265,7 +3337,7 @@ Advokaten har samme pligt til at forsøge at gennemføre kundekendskabsprocedure
 ---
 
 
-### Behandling af personoplysninger 
+### <font color="red">Behandling af personoplysninger<sup> Premium </font></sup> 
 
 Behandling af personoplysninger, der er indhentet i henhold til at opfylde kravene i hvidvaskloven, må kun behandles med henblik på at forebygge hvidvask og finansiering af terrorisme. 
 
@@ -3288,7 +3360,7 @@ Virksomheden skal dog være opmærksom på eventuelle oplysningsforpligtelser i 
 
 ---
 
-### Beskyttelse af medarbejderen
+### <font color="red">Beskyttelse af medarbejderen<sup> Premium </font></sup>
 
 Hvidvaskdirektivet indeholder i art. 61 en bestemmelse om beskyttelse af medarbejdere hos de personer og virksomheder, der er omfattet af direktivet, mod trusler og repressalier, når de indberetter mistanke om hvidvask og terrorfinansiering. 
 
@@ -3308,7 +3380,7 @@ Imidlertid fremgår det af »Aktuel Orientering«, at den medarbejder, der har f
 
 ---
 
-### Hvad er Hvidvasksekretariatet?
+### <font color="red">Hvad er Hvidvasksekretariatet?<sup> Premium </font></sup>
 
 Hvidvasksekretariatet hører under Statsadvokaten for Særlig Økonomisk og International Kriminalitet (SØIK) og er oprettet i 1993. 
 

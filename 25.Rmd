@@ -1,19 +1,24 @@
 # <font color="red">Forsikring, pension og ankenævn  <sup> Premium </font></sup>
 
 ```{r, echo=FALSE, results='asis'}
-cat(readLines('npp.html'))
+# cat(readLines('npp.html'))
 ```
 
-## Rettigheder og forpligtelser i forsikringsretten
+## <font color="red">Rettigheder og forpligtelser i forsikringsretten<sup> Premium </font></sup>
+
+
 
 ![](img/forsikringsaftalelov.jpg)
 
-Hvis man graver længere ind i forsikringsretten kommer det tydeligt frem, hvilke rettigheder og forpligelser forsikringstageren og hhv. Forsikringsselskabet har efter forsikringsaftaleloven (FAL):^[Følgende afsnit bygger især på **Sonny Kristoffersen:** Introduktion til forsikringsreglerne, 2019, Hans Reitzels Forlag, jf. link: https://hansreitzel.dk/products/introduktion-til-forsikringsreglerne-bog-47916-9788741272849, samt materialer og afgørelser fra Ankenævnet for Forsikring og informationer fra Forsikringsoplysningen og domme fra UfR og FED udgivet af KarnovGroup.]  
+Hvis man graver længere ind i forsikringsretten kommer det tydeligt frem, hvilke rettigheder og forpligelser forsikringstageren og hhv. Forsikringsselskabet har efter forsikringsaftaleloven (FAL):^[Følgende afsnit bygger især på **Sonny Kristoffersen:** Introduktion til forsikringsreglerne, 2019, Hans Reitzels Forlag, jf. link: https://hansreitzel.dk/products/introduktion-til-forsikringsreglerne-bog-47916-9788741272849, samt materialer og afgørelser fra Ankenævnet for Forsikring og informationer fra Forsikringsoplysningen og domme fra UfR og FED udgivet af KarnovGroup.] 
+
+
+![](img/intro.png)
 
 ---
 
-## Forsikringsselskabets begrundelsespligt 
- 
+## <font color="red">Forsikringsselskabets begrundelsespligt<sup> Premium </font></sup> 
+
 
 Begrundelsespligten ved forsikringsselskabets afslag på at tegne en forsikring omfatter således i første række tilfælde, hvor selskabet helt afviser at tegne en forsikring. 
 
@@ -85,7 +90,7 @@ Finanstilsynet vil dog i almindelighed ikke behandle konkrete tvister mellem et 
 
 ---
 
-## Urigtige oplysninger ved forsikringsaftalens indgåelse 
+## <font color="red">Urigtige oplysninger ved forsikringsaftalens indgåelse<sup> Premium </font></sup> 
 
 
 Forsikringsselskabets vurdering af, om det vil tegne en forsikring, afhænger i vidt omfang af de risikooplysninger, som selskabet modtager fra forsikringstageren. 
@@ -116,7 +121,7 @@ Det synes uafklaret, i hvilket omfang selskabet kan påberåbe sig svig, som kun
 
 Forsikringsselskabet har bevisbyrden for, at forsikringstageren har udvist svig, og at den udviste svig er af betydning for forsikringsselskabet. 
 
-Svigsbegrebet er ikke helt det samme som i den almindelige aftaleret. 
+*Svigsbegrebet er ikke helt det samme som i den almindelige aftaleret*. 
 
 Forsikringstageren kan være i en situation, hvor det er menneskeligt forståeligt og juridisk acceptabelt, at han giver urigtige oplysninger.
 
@@ -142,6 +147,8 @@ Det følger af FAL § 7, at forsikringstagerens undladelse af at give oplysning 
 
 **Domme om fortolkningen af FAL §§ 4-7**  
 
+![](img/ren.jpg)
+
 **U 1973.616 Ø:** Forsikringstagers godtroende stillingsangivelse som »husmoder« afskar ikke erstatning for skade opstået på vej til deltids rengøringsjob. Har forsikringstageren, uden at forholdet omfattet af ovenstående forhold, givet urigtig oplysning, er forsikringsselskabet fri for ansvar, hvis det kan antages ikke at ville have overtaget forsikringen, om det rette forhold havde været oplyst. I denne situation har forsikringstageren handlet uagtsomt i forbindelse med afgivelse af oplysninger på forsikringsbegæringen til forsikringsselskabet ved forsikringstegning, jf. FAL § 6.
 
 
@@ -157,8 +164,7 @@ Det følger af FAL § 7, at forsikringstagerens undladelse af at give oplysning 
 
 ---
 
-## Police og forsikringsbetingelserne
-
+## <font color="red">Police og forsikringsbetingelserne<sup> Premium </font></sup>
 
 
 Forsikringstageren police er et forsikringsdokument, der indeholder de generelle og specielle vilkår for en indgået forsikringsaftale. 
@@ -177,20 +183,18 @@ Sagt med andre ord: De nøjagtige regler, som er gældende mellem forsikringstag
 
 ---
 
-## Fortrydelsesret ved tegning af forsikring 
+## <font color="red">Fortrydelsesret ved tegning af forsikring<sup> Premium </font></sup> 
 
 
-Når man køber en ny forsikring, kan man fortryde købet af forsikringen. Det gælder også, selv om forsikringstiden er startet. *"Forsikringstid“* er det tidsrum, forsikringen er aftalt for.
+Når man køber en ny forsikring, kan man fortryde købet af forsikringen. Det gælder også, selv om forsikringstiden er startet. 
+
+*"Forsikringstid“* er det tidsrum, forsikringen er aftalt for.
 
 Ved forsikringsaftaler, der er indgået ved fjernsalg (dvs. aftaler, der bliver indgået uden, at parterne fysisk mødes), bliver ens fortrydelsesfrist på 14 dage regnet fra det seneste af følgende tidspunkter:  
 
-* den dag, hvor forsikringstageren og forsikringsselskabet indgår  
-  aftalen eller
+* den dag, hvor forsikringstageren og forsikringsselskabet indgår aftalen eller
   
-* den dag, hvor forsikringstageren har modtaget de oplysninger, som  
-  forsikringsselskabet, efter reglerne om oplysningspligt (jf. FAL §§ 34   
-  d-34f), har pligt til at give forsikringstageren på papir eller 
-  andet varigt medium.  
+* den dag, hvor forsikringstageren har modtaget de oplysninger, som  forsikringsselskabet, efter reglerne om oplysningspligt (jf. FAL §§ 34 d-34f), har pligt til at give forsikringstageren på papir eller andet varigt medium.  
 
 For livsforsikring og individuel pensionsordning er fristen dog 30 dage. 
 
@@ -226,6 +230,8 @@ Det gælder heller ikke for rejse- eller bagageforsikringer eller lignende forsi
 
 *Eksempel:*
 
+![](img/ulykke.png)
+
 Man køber en ulykkesforsikring, der skal gælde fra den 1. februar. 
 
 Da man modtager policen forsikringsbetingelserne den 4. februar, ønsker man alligevel ikke forsikringen. 
@@ -245,7 +251,9 @@ Det er for sent, at forsikringsselskabet først modtager henvendelse den 19. feb
 ---
 
 
-## Indtrædelse af forsikringsselskabets ansvar
+## <font color="red">Indtrædelse af forsikringsselskabets ansvar<sup> Premium </font></sup>
+
+![](img/ins.jpg)
 
 Er forsikringsaftale sluttet, uden at det er bestemt, når ansvaret skal begynde, anses forsikringsselskabets ansvar at indtræde allerede på det tidspunkt, da selskabet eller forsikringstageren afsender meddelelse om, at den anden parts tilbud antages.
 
@@ -259,7 +267,8 @@ Se fra sager fra praksis:
 
 ---
 
-## Præmien (betalingen) for forsikringen
+## <font color="red">Præmien (betalingen) for forsikringen<sup> Premium </font></sup>
+
 
 Præmiens størrelse og hvornår den skal betales af forsikringstageren fastlægges i overensstemmelse med den enkelte forsikringsaftale, hvor det f.eks. kan bestemmes, at præmien forfalder til betaling hvert år den 1. januar, således at forsikringsselskabet kan kræve præmien betalt pr. denne dato. 
 
@@ -269,7 +278,9 @@ Betales præmien ikke rettidigt, kan forsikringsselskabet opsige forsikringsafta
 
 Forsikringsselskabet kan påberåbe sig manglende betaling af præmien, uanset om den manglende betaling beror på undskyldelige forhold hos forsikringstageren. 
 
-Forsikringsselskabet kan opsige forsikringen ved for sen betaling af præmien. Forsikringstagerens manglende præmiebetaling kan i sig selv, dvs. uden at opsigelse er nødvendig, medføre, at forsikringsselskabets ansvar og dermed forsikringsdækningen ophører. 
+Forsikringsselskabet kan opsige forsikringen ved for sen betaling af præmien. 
+
+Forsikringstagerens manglende præmiebetaling kan i sig selv, dvs. uden at opsigelse er nødvendig, medføre, at forsikringsselskabets ansvar og dermed forsikringsdækningen ophører. 
 
 ---
 
@@ -301,7 +312,8 @@ Hvis forsikringsselskabet ikke overholder disse betingelser i forsikringsaftalen
 
 ---
 
-## Opsigelse af forsikringen
+## <font color="red">Opsigelse af forsikringen<sup> Premium </font></sup>
+
 
 Der er flere måder, man kan opsige sine private forsikringer på. 
 
@@ -313,8 +325,7 @@ Har man haft forsikringen i mere end 1 år, vil gebyret være omkring 50 kroner.
 
 Har man derimod haft forsikringen i mindre end 1 år, kan gebyret være væsentlig højere, f.eks. 500 kroner. 
 
-Grunden til, at der er et gebyr,
-er, at forsikringsselskaberne har haft udgifter, da de oprettede forsikringen. 
+Grunden til, at der er et gebyr, er, at forsikringsselskaberne har haft udgifter, da de oprettede forsikringen. 
 
 Det er altid gratis at opsige sin forsikring til det normale udløb ved hovedforfald. 
 
@@ -328,7 +339,9 @@ Denne skriftlige opsigelse kan først laves efter, at man har lavet en skriftlig
 
 ---
 
-## Begrebet "forsikringstid“
+## <font color="red">Begrebet "forsikringstid“<sup> Premium </font></sup>
+
+
 
 Forsikringstiden er den periode, i hvilken forsikringsselskabet er ansvarlig for betaling af dine eller andres skader, enten fordi årsagen til skaden er indtrådt i forsikringstiden, fordi virkningen af skaden har vist sig i forsikringstiden, eller fordi kravet er rejst i forsikringstiden. 
 
@@ -344,7 +357,8 @@ Eksempel fra retspraksis:
 
 ---
 
-## Forsikringstagerens pligter over for forsikringsselskabet
+## <font color="red">Forsikringstagerens pligter over for forsikringsselskabet<sup> Premium </font></sup>
+
 
 Man har i visse situationer pligt til at tegne forsikring, enten i henhold til lov, obligatoriske vedtægter eller i henhold til en aftale. 
 
@@ -352,7 +366,9 @@ F.eks. er der pligt til at tegne ansvarsforsikring for motordrevne køretøjer, 
 
 ---
 
-## Fareforøgelse
+## <font color="red">Fareforøgelse<sup> Premium </font></sup>
+
+
 
 Forsikringens vilkår og præmie er bestemt ud fra de risikooplysninger, der er givet ved forsikringens tegning. 
 
@@ -378,13 +394,16 @@ Hvis forsikringsselskabet ikke ville have fortsat forsikringen, hvis det havde k
 
 Se retspraksis:
 
+![](img/hest.png)
+
 **U 1996 294 H:** En bestemmelse i en hesteforsikring om, at der skulle gives meddelelse om, hvis der skete ændringer i de forsikrede dyrs forhold, opstaldning og anvendelse, opfyldte ikke kravet for så vidt angik en knælidelse, som den forsikrede hest pådrog sig. 
 
 En hyppigste fareforøgelse forekommer i forhold til ulykkesforsikringer, hvor sikrede skifter erhverv, jf. **Forsikringsankenævnet sagsnr.: 73227, 71829, 71784, 70448, 68172, 68550 og 67175**. 
 
 ---
 
-## Forsikringsselskabets pligter
+**Forsikringsselskabets pligter**
+
 
 Forsikringsselskabets pligt eller modydelse kaldes forsikringsydelsen. 
 
@@ -392,7 +411,7 @@ Dvs. erstatningen skal udbetales af selskabet, når der er indtrådt en erstatni
 
 ---
 
-## Anmeldelse af forsikringsbegivenheden
+**Anmeldelse af forsikringsbegivenheden**
 
 Af forsikringsbetingelserne fremgår, at man skal anmelde enhver skade så hurtigt som muligt til forsikringsselskabet. 
 
@@ -402,7 +421,8 @@ Det kan også være, at skadede genstande bør „sikres“, så det senere er u
 
 ---
 
-## Urigtige risikooplysninger
+## <font color="red">Urigtige risikooplysninger<sup> Premium </font></sup>
+
 
 Ved forsikringsaftalens indgåelse skal man afgive risikooplysninger, således at forsikringsselskabet kan vurdere risikoen og fastsætte præmie og vilkår. 
 
@@ -434,7 +454,7 @@ Se retspraksis:
 
 ---
 
-## Risikoforøgelse skal anmeldes til forsikringsselskabet
+**Risikoforøgelse skal anmeldes til forsikringsselskabet**
 
 Præmien for en forsikring beregnes ud fra risikoforholdene på tidspunktet for forsikringens tegning. 
 
@@ -444,7 +464,8 @@ Manglende anmeldelse af ændringer kan derfor resultere i, at der enten – hvis
 
 ---
 
-## Overholdelse af sikkerhedsforskrifter
+## <font color="red">Overholdelse af sikkerhedsforskrifter<sup> Premium </font></sup>
+
 
 Hvis forsikringsselskabet i forsikringstiden har betinget sig, at forsikringstageren skal iagttage visse forholdsregler, der skal forebygge risikoen for skade eller formindske en eventuel skades omfang, foreligger der en *sikkerhedsforskrift*. 
 
@@ -458,7 +479,8 @@ En sikkerhedsforskrift skal være præcist bekrevet i policen, og såfremt forsi
 
 ---
 
-## Betalingsproceduren omkring forsikringspræmien
+## <font color="red">Betalingsproceduren omkring forsikringspræmien<sup> Premium </font></sup>
+
 
 I forsikringsvilkårene vil det være aftalt, at forsikringsselskabet skal sende et påkrav (typisk fremsendelse af et girokort) til den betalingsadresse, man har opgivet til selskabet. 
 
@@ -480,7 +502,7 @@ Er der tale om en nytegnet forsikring, kan det være aftalt, at forsikringsaftal
 
 ---
 
-## Generelle forhold mellem forsikringstageren og forsikringsselskabet
+## <font color="red">Generelle forhold mellem forsikringstageren og forsikringsselskabet<sup> Premium </font></sup>
 
 Udbetaler forsikringsselskabet ikke erstatning til forsikringstageren inden 14 dage efter, at selskabet har modtaget de nødvendige oplysninger til at afgøre forsikringstagerens krav, skal selskabet betale renter af erstatningen fra denne dato. 
 
@@ -510,7 +532,9 @@ Forsikringsselskabet kan altså ikke tilbageholde hele erstatningen, fordi der s
 
 ---
 
-## Sikkerhedsforholdsregler/sikkerhedsforskrifter
+## <font color="red">Sikkerhedsforholdsregler/sikkerhedsforskrifter<sup> Premium </font></sup>
+
+
 
 Police og forsikringsbetingelser kan indeholde krav om, at forsikringstageren skal modvirke/forebygge, at der sker skade på hans eller hendes ting. 
 
@@ -585,7 +609,8 @@ Står dette tydeligt i forsikringstagerens forsikringsbetingelser, får forsikri
 
 ---
 
-## Risikooplysninger og urigtige oplysninger
+## <font color="red">Risikooplysninger og urigtige oplysninger<sup> Premium </font></sup>
+
 
 Når man tegner en forsikring, skal man som tidligere nævnt normalt give forsikringsselskabet en række oplysninger, så selskabet kan vurdere, hvor stor en risiko det løber ved at forsikre én. 
 
@@ -641,7 +666,8 @@ I **sagsnr.: 78797** kunne selskabet ikke bevise, at klageren telefonisk havde a
 
 ---
 
-## Erstatning og renter
+## <font color="red">Erstatning og renter<sup> Premium </font></sup>
+
 
 Udbetaler forsikringsselskabet ikke erstatning til forsikringstageren inden 14 dage efter, at selskabet har modtaget de nødvendige oplysninger til at afgøre ens krav, skal selskabet betale renter af erstatningen fra denne dato. Det fremgår af FAL § 24.  
 
@@ -669,7 +695,8 @@ Genforsikringsaftaler involverer endvidere betaling af provision fra genforsikri
 
 ---
 
-## Under- og dobbeltforsikring
+## <font color="red">Under- og dobbeltforsikring<sup> Premium </font></sup>
+
 
 Forsikringssummen på ens forsikring skal altid mindst svare til forsikringsværdien af f.eks. indboet. 
 
@@ -698,7 +725,9 @@ Forsikringsselskabet betaler i den situation alene erstatning for ens skade og i
 
 ---
 
-## Forældelse af forsikringskrav
+## <font color="red">Forældelse af forsikringskrav<sup> Premium </font></sup>
+
+
 
 ![](img/for4.jpg)
 
@@ -732,7 +761,8 @@ Dog kan selskabet gyldigt aftale en anmeldelsesfrist i forbindelse med forsikrin
 
 ---
 
-## Klage over forsikringsselskabets afgørelse
+## <font color="red">Klage over forsikringsselskabets afgørelse<sup> Premium </font></sup>
+
 
 *Ankenævnet for Forsikring* er et privat klagenævn oprettet i 1975 af Forbrugerrådet Tænk og brancheforeningen Forsikring & Pension. 
 
@@ -831,9 +861,13 @@ Konkurrence- og Forbrugerstyrelsen/Forbrugerklagenævnet eller i den sidste ende
 
 ---
 
-## Andre finansielle tvistløsningsorganer
+## <font color="red">Andre finansielle tvistløsningsorganer<sup> Premium </font></sup>
 
-## Det finansielle ankenævn
+
+
+### <font color="red">Det finansielle ankenævn<sup> Premium </font></sup>
+
+
 
 **1. Hvad er Det finansielle ankenævn?**
 
@@ -1026,7 +1060,8 @@ og to medlemmer fra forbrugersiden. (paritetsprincippet; lige mange repræsentan
 
 ---
 
-## Forsikringsoplysningen  
+## <font color="red">Forsikringsoplysningen<sup> Premium </font></sup>  
+
 
 https://www.forsikringogpension.dk/presse/publikationer/  
 
@@ -1078,7 +1113,8 @@ Vil forsikringstageren klage over forsikringsselskabers tilsidesættelse af god 
 
 ---
 
-## Finanstilsynet  
+## <font color="red">Finanstilsynet<sup> Premium </font></sup>
+
 
 Finanstilsynet kan tage sager vedrørende overholdelsen af god skik og de udstedte bekendtgørelser op af egen drift, f.eks. i forbindelse med inspektionsbesøg eller temaundersøgelser. 
 
@@ -1119,7 +1155,9 @@ Det kan anbefales, at du tilmelder dig Finanstilsynets nyhedsbreve!
 **Der følger nu en gennemgang af nogle udvalgte forsikringstyper:**
 
 
-## Ansvarsforsikring
+## <font color="red">Ansvarsforsikring<sup> Premium </font></sup>
+
+
 
 
 Følgende betragtninger og oplysninger om det private ansvar, husejeransvaret, ansvaret for ens hund, skader på arbejdet samt skader ved udøvelse af sportsaktiviteter bygger hovedsageligt på Forsikringsankenævnets oplysninger i ankenævnets ”klageguide” samt Forsikringsankenævnets praksis, herunder på retspraksis, samt viden fra Forsikringsoplysningen.
@@ -1249,7 +1287,8 @@ Og ankenævnet vil ofte lægge betydelig vægt på de forklaringer, som forsikri
 
 ---
 
-## Uagtsom, forsætlig og hændelig skade samt gæstebudsskade
+## <font color="red">Uagtsom, forsætlig og hændelig skade samt gæstebudsskade<sup> Premium </font></sup>
+
 
 Privatansvarsforsikringen dækker som nævnt, hvis forsikringstageren juridisk set har pådraget sig et erstatningsansvar. 
 
@@ -1259,7 +1298,9 @@ Denne såkaldte culparegel står ikke skrevet i nogen lov, men er udviklet genne
 
 ---
 
-## Uagtsom
+## <font color="red">Uagtsom<sup> Premium </font></sup>
+
+
 
 Man har handlet uagtsomt, hvis man har handlet anderledes en almindelig, fornuftig person, dvs man har handlet i strid med almindelige normer for adfærd i den pågældende situation. 
 
@@ -1271,7 +1312,8 @@ Ligeledes er Forsikringsankenævnets **sag 88426** om en 12-årig dreng, der sku
 
 ---
 
-## Forsætlig
+## <font color="red">Forsætlig<sup> Premium </font></sup>
+
 
 <img src="img/stupid.jpg" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
@@ -1327,7 +1369,8 @@ Et eksempel på en forsætlig skade er Forsikringsankenævnets **sag 86048**, hv
 
 ---
 
-## Hændelig
+## <font color="red">Hændelig<sup> Premium </font></sup>
+
 
 Forvolder man en skade hændeligt, dækker ens ansvarsforsikring heller ikke. At det er hændeligt, betyder, at skaden indtræffer tilfældigt, og uden at det skyldes uagtsomhed eller forsømmelse fra ens side. I den situation bliver man ikke juridisk erstatningsansvarlig efter dansk ret. 
 
@@ -1349,7 +1392,8 @@ Af relevante sager kan nævnes Forsikringssankenævnets **sag 86248**, hvor en k
 
 ---
 
-## Gæstebudsskade
+## <font color="red">Gæstebudsskade<sup> Premium </font></sup>
+
 
 Forvolder man skaden under almindeligt privat samvær – typisk af selskabelig karakter – dækker ansvarsforsikringen i en række situationer, hvor domstolene vil være tilbageholdende med at pålægge en et juridisk erstatningsansvar. Disse skader kaldes normalt for *“gæstebudsskader”.* 
 
@@ -1426,7 +1470,8 @@ Der er ligeledes erstatningsansvar, hvis man har forvoldt skaden forsætligt, me
 
 ---
 
-## Ansvarsforsikringens undtagelser
+## <font color="red">Ansvarsforsikringens undtagelser<sup> Premium </font></sup>
+
 
 Privatansvarsforsikringen indeholder en række undtagelser, hvor ansvarsforsikringen ikke dækker. 
 
@@ -1471,11 +1516,12 @@ Lignende sager ses i Forsikringsankenævnet i **sagerne 39930 og 60013**:
 
 ---
 
-## Ansvar i kontraktforhold
+## <font color="red">Ansvar i kontraktforhold<sup> Premium </font></sup>
+
 
 Hvis man bliver erstatningsansvarlig, fordi man ikke overholder en aftale eller en kontrakt, dækker ansvarsforsikringen ikke.
 
-**Ansvar for ting, der er i ens varetægt**
+*Ansvar for ting, der er i ens varetægt*
 
 Ofte dækker ansvarsforsikringen ikke ansvar for skade på ting, som man har til låns, leje eller opbevaring, afbenyttelse, befordring, eller som af andre grunde befinder sig i ens varetægt. 
 
@@ -1525,7 +1571,9 @@ Sådanne skader dækkes ikke, og man skal således købe en autoansvarsforsikrin
 </a>
 
 
-## Pensionsforsikringer
+## <font color="red">Pensionsforsikringer<sup> Premium </font></sup>
+
+
 
 
 ---
@@ -1549,7 +1597,7 @@ Sådanne skader dækkes ikke, og man skal således købe en autoansvarsforsikrin
 
 ---
  
-## Det danske pensionssystem består af tre dele  
+**Det danske pensionssystem består af tre dele:**  
 
 * Sociale ordninger
 
@@ -1566,7 +1614,8 @@ Her er der tale om pensionsordninger, man selv kan oprette i forsikringsselskabe
  
 ---
 
-## Generelt for de tre dele i pensionssystemet
+## <font color="red">Generelt for de tre dele i pensionssystemet<sup> Premium </font></sup>
+
 
 For alle tre dele gælder, at man typisk er sikret i forbindelse med dødsfald, invaliditet og ved pensionering. 
 
@@ -1576,7 +1625,9 @@ Arbejdsmarkedspensionerne skal sikre et rimeligt forhold mellem det, man kan få
  
 ---
 
-## Pension og erhvervsevnetab
+## <font color="red">Pension og erhvervsevnetab<sup> Premium </font></sup>
+
+.
  
 Følgende afdækning af pension og erhvervsevnetab bygger især på Forsikringsankenævnets informative oplysninger, herunder Ankenævnets praksis på området for pension og erhvervsevnetab.  
 
@@ -1615,8 +1666,9 @@ Kontakt derfor forsikringsselskabet, hvis arbejdsgiver ophører med at indbetale
  
 ---
 
-## Nævnspraksis og fortolkninger af erhvervsevnetab
- 
+## <font color="red">Nævnspraksis og fortolkninger af erhvervsevnetab<sup> Premium </font></sup>
+
+
 Nogle forsikringsselskaber kræver, at ens erhvervsevne ikke må være nedsat med den fastsatte brøkdel, når man optages i ordningen. 
 
 Det vil være en konkret vurdering, om ens erhvervsevne allerede på optagelsestidspunktet er nedsat i en sådan grad, at man ikke kan få dækning ved erhvervsevnetab. 
@@ -1753,7 +1805,9 @@ Har man afgivet urigtige oplysninger til forsikringsselskabet ved tegningen af f
 
 ---
 
-##	Hvordan oplyses sagen i forsikringsselskabet, og hvilke forhold der indgår i deres vurdering
+##	<font color="red">Hvordan oplyses sagen i forsikringsselskabet, og hvilke forhold der indgår i deres vurdering<sup> Premium </font></sup>
+
+
 
 Det er mange forskellige oplysninger, der indgår i forsikringsselskabets vurdering af ens erhvervsevne. 
 
@@ -1788,7 +1842,9 @@ Bevilling af fleksjob vil typisk være baseret på ens helbredsoplysninger samt 
 Formålet med arbejdsprøvningerne er at finde ud af, i hvilke funktioner man kan arbejde, og hvor meget man kan arbejde. Fleksjob kan tilkendes med ned til ganske få timer om ugen.  
 
 
-## Nævnspraksis om erhvervsevnetabsforsikringen 
+## <font color="red">Nævnspraksis om erhvervsevnetabsforsikringen<sup> Premium </font></sup>
+
+
 
 Det forhold, at man bevilges fleksjob med eksempelvis 10 timer om ugen, medfører ikke automatisk, at ens erhvervsevnetabsforsikring vil vurdere, at ens erhvervsevne er nedsat med mere end 2/3. 
 
@@ -1796,21 +1852,21 @@ Det skyldes, at forsikringsselskabet foretager en konkret og selvstændig vurder
 
 ---
 
-*Se f.eks. klagesagerne fra Forsikringsankenævnet i sagsnr.: 86746 (8 timers fleksjob, erhvervsevne var ikke nedsat med 2/3)*, 
+**Se f.eks. klagesagerne fra Forsikringsankenævnet i sagsnr.: 86746 (8 timers fleksjob, erhvervsevne var ikke nedsat med 2/3)**: 
 
-*Sagsnr.: 85017 (10 timers fleksjob, erhvervsevne nedsat med mindst 1/2)*, 
+**Sagsnr.: 85017** (10 timers fleksjob, erhvervsevne nedsat med mindst 1/2), 
 
-*Sagsnr.: 87666 (12 timers fleksjob, erhvervsevne ikke nedsat med mindst 1/2)* og 
+**Sagsnr.: 87666** (12 timers fleksjob, erhvervsevne ikke nedsat med mindst 1/2) og 
 
-*Sagsnr.: 86639 (12 timers fleksjob, erhvervsevne var nedsat med 2/3)*, 
+**Sagsnr.: 86639** (12 timers fleksjob, erhvervsevne var nedsat med 2/3), 
 
-*Sagsnr.: 86746: Klager over afslag på dækning ved tab af erhvervsevne. Klager, der blev født i 1965 og var kontoruddannet, var involveret i et trafikuheld, hvor hun som passager i en bil blev påkørt bagfra med ca. 40 km/t. Hun havde efterfølgende gener i form af hovedpine, koncentrationsbesvær og svimmelhed. Efter kommunale praktikforløb blev hun godkendt til fleksjob, med 12-15 timer ugentligt. Pr. 1/1 2014 blev hun ansat i fleksjob med 8 timer ugentligt på sin tidligere arbejdsplads. Med henvisning til bl.a. begrænsede objektive fund ved lægelige undersøgelser samt klagers sociale forhold afviste selskabet at yde dækning. Efter en gennemgang af sagen fandt nævnet ikke grundlag for at kritisere selskabets afgørelse. Selskab medhold.*
+**Sagsnr.: 86746:** Klager over afslag på dækning ved tab af erhvervsevne. Klager, der blev født i 1965 og var kontoruddannet, var involveret i et trafikuheld, hvor hun som passager i en bil blev påkørt bagfra med ca. 40 km/t. Hun havde efterfølgende gener i form af hovedpine, koncentrationsbesvær og svimmelhed. Efter kommunale praktikforløb blev hun godkendt til fleksjob, med 12-15 timer ugentligt. Pr. 1/1 2014 blev hun ansat i fleksjob med 8 timer ugentligt på sin tidligere arbejdsplads. Med henvisning til bl.a. begrænsede objektive fund ved lægelige undersøgelser samt klagers sociale forhold afviste selskabet at yde dækning. Efter en gennemgang af sagen fandt nævnet ikke grundlag for at kritisere selskabets afgørelse. Selskab medhold.
 
-*Sagsnr.: 85017: Klager over afslag på erhvervsevnetabsdækning. Klageren var den 31/12 2011 udsat for en faldulykke, hvor han pådrog sig et knusningsbrud i skinnebenet. Selskabet ydede midlertidig dækning for erhvervsevnetab i perioden mellem den 1/4 2011 og den 31/5 2012, hvorefter selskabet overgik til vurdering af klagers generelle erhvervsevne og standsede ydelserne med henvisning til, at denne ikke var nedsat i dækningsberettigende grad. Efter sin gennemgang af sagen fandt nævnet, at klagers erhvervsevne var nedsat med mindst halvdelen efter den 1/6 2012. Nævnet havde bl.a. lagt vægt på, at der var vedvarende smerter og nedsat bevægelighed i klagers fod, og at der opstod daglige hævelser i hans underben, også når han forholdt sig i ro. Nævnet lagde endvidere vægt på, at klager til trods for en række skånehensyn kun magtede 10 ugentlige arbejdstimer i sit eksterne virksomhedspraktikforløb. Klager medhold.*  
+**Sagsnr.: 85017:** Klager over afslag på erhvervsevnetabsdækning. Klageren var den 31/12 2011 udsat for en faldulykke, hvor han pådrog sig et knusningsbrud i skinnebenet. Selskabet ydede midlertidig dækning for erhvervsevnetab i perioden mellem den 1/4 2011 og den 31/5 2012, hvorefter selskabet overgik til vurdering af klagers generelle erhvervsevne og standsede ydelserne med henvisning til, at denne ikke var nedsat i dækningsberettigende grad. Efter sin gennemgang af sagen fandt nævnet, at klagers erhvervsevne var nedsat med mindst halvdelen efter den 1/6 2012. Nævnet havde bl.a. lagt vægt på, at der var vedvarende smerter og nedsat bevægelighed i klagers fod, og at der opstod daglige hævelser i hans underben, også når han forholdt sig i ro. Nævnet lagde endvidere vægt på, at klager til trods for en række skånehensyn kun magtede 10 ugentlige arbejdstimer i sit eksterne virksomhedspraktikforløb. Klager medhold.  
 
-*Sagsnr.: 87666: Klager over afslag på udbetaling af erhvervsevnetabsydelser efter den 1/4 2015. Klager havde smerter i højre del af overkroppen. Han fik bl.a. stillet diagnoserne dobbeltsidig tennisalbue og myofascielt syndrom. Han arbejdede 12 timer om ugen i flexjob med maskinbetjening. Nævnets flertal fandt efter en samlet vurdering, at klager ikke havde bevist, at hans generelle erhvervsevne var nedsat med mindst halvdelen efter den 1/4 2015. Flertallet lagde vægt på, at han ikke var blevet arbejdsprøvet i en funktion, hvor hans skånehensyn blev varetaget tilstrækkeligt. Mindretallet fandt, at klagers erhvervsevne var nedsat med halvdelen. Selskab medhold.* 
+**Sagsnr.: 87666:** Klager over afslag på udbetaling af erhvervsevnetabsydelser efter den 1/4 2015. Klager havde smerter i højre del af overkroppen. Han fik bl.a. stillet diagnoserne dobbeltsidig tennisalbue og myofascielt syndrom. Han arbejdede 12 timer om ugen i flexjob med maskinbetjening. Nævnets flertal fandt efter en samlet vurdering, at klager ikke havde bevist, at hans generelle erhvervsevne var nedsat med mindst halvdelen efter den 1/4 2015. Flertallet lagde vægt på, at han ikke var blevet arbejdsprøvet i en funktion, hvor hans skånehensyn blev varetaget tilstrækkeligt. Mindretallet fandt, at klagers erhvervsevne var nedsat med halvdelen. Selskab medhold.
 
-*Sagsnr.: 86639: Klager over afslag på at udbetale invaliderente samt fritagelse for betaling af præmie ved tab af erhvervsevne. Klager fik endeligt konstateret Parkinsons i 2013 efter symptomer og behandling herfor siden 2011. Han blev sygemeldt i 2013 og fik i 2014 et fastholdelsesfleksjob som chauffør på 16 timer om ugen, 12 timers effektiv arbejdstid, og ansøgte selskabet om udbetaling af invaliderente samt fritagelse for betaling af præmie. Selskabet afslog anmodningen og henviste til, at klagers erhvervsevne ikke var nedsat med mindst 2/3. Selskabet lagde blandt andet vægt på, at klagers fleksjob var på 16 timer om ugen, og at han ikke var søgt arbejdsprøvet i mindre fysisk krævende stillinger. Nævnet fandt, at klagers erhvervsevne var nedsat med 2/3. Nævnet lagde blandt andet vægt på, at Parkinsonslidelsen havde forværret klagers tilstand gennem årene, og at nedtrapningen i arbejdstid blandt andet skete efter forslag fra hans læger. Derudover fandt nævnet, at det ikke kunne antages, at han kunne tjene mere i en anden stilling og lagde herved vægt på, at fleksjobbet fremstod med betydelig fleksibilitet og ikke kunne anses for at være fysisk krævende. Endelig har nævnet lagt vægt på, at klager i fleksjobbet har en effektiv arbejdstid på 12 timer ugentligt. Selskabet havde derfor ikke været berettiget til at afslå anmodningen om udbetaling af invaliderente og præmiefritagelse. Klager medhold.*
+**Sagsnr.: 86639:** Klager over afslag på at udbetale invaliderente samt fritagelse for betaling af præmie ved tab af erhvervsevne. Klager fik endeligt konstateret Parkinsons i 2013 efter symptomer og behandling herfor siden 2011. Han blev sygemeldt i 2013 og fik i 2014 et fastholdelsesfleksjob som chauffør på 16 timer om ugen, 12 timers effektiv arbejdstid, og ansøgte selskabet om udbetaling af invaliderente samt fritagelse for betaling af præmie. Selskabet afslog anmodningen og henviste til, at klagers erhvervsevne ikke var nedsat med mindst 2/3. Selskabet lagde blandt andet vægt på, at klagers fleksjob var på 16 timer om ugen, og at han ikke var søgt arbejdsprøvet i mindre fysisk krævende stillinger. Nævnet fandt, at klagers erhvervsevne var nedsat med 2/3. Nævnet lagde blandt andet vægt på, at Parkinsonslidelsen havde forværret klagers tilstand gennem årene, og at nedtrapningen i arbejdstid blandt andet skete efter forslag fra hans læger. Derudover fandt nævnet, at det ikke kunne antages, at han kunne tjene mere i en anden stilling og lagde herved vægt på, at fleksjobbet fremstod med betydelig fleksibilitet og ikke kunne anses for at være fysisk krævende. Endelig har nævnet lagt vægt på, at klager i fleksjobbet har en effektiv arbejdstid på 12 timer ugentligt. Selskabet havde derfor ikke været berettiget til at afslå anmodningen om udbetaling af invaliderente og præmiefritagelse. Klager medhold.
 
 ---
 
@@ -1844,7 +1900,8 @@ Højesteret har i en dom i Ugeskrift for Retsvæsen **U 2011.2223 H** taget stil
 
 ---
 
-##	Lidelser, der er opstået, før erhvervsevnetabsforsikringen trådte i kraft
+##	<font color="red">Lidelser, der er opstået, før erhvervsevnetabsforsikringen trådte i kraft<sup> Premium </font></sup>
+
 
 Det fremgår ofte af forsikringsbetingelserne, at man ikke har ret til erhvervstabsdækning, hvis ens erhvervsevne allerede var nedsat med den relevante brøkdel, da man blev omfattet af forsikringen.  
 
@@ -1867,7 +1924,9 @@ I sidstnævnte tilfælde vil det være en konkret vurdering, om ens erhvervsevne
 I nogle ordninger gælder det dog, at et dækningsforbehold – som generelt gælder for de lidelser, man havde, da man indtrådte i pensionsordningen –	bortfalder 10 år efter, at man er indtrådt.  
 
 
-## Forsikringsselskabets muligheder for at standse udbetalingerne 
+## <font color="red">Forsikringsselskabets muligheder for at standse udbetalingerne<sup> Premium </font></sup>
+
+
 
 Dækningen for tab af erhvervsevne ydes løbende af forsikringsselskabet. 
 
@@ -1898,7 +1957,8 @@ Om forsikringsselskabet må standse dækningen, afhænger af en konkret vurderin
 ---
 
 
-## Helbredsoplysninger
+## <font color="red">Helbredsoplysninger<sup> Premium </font></sup>
+
 
 Nogle forsikringsselskaber kræver, at man afgiver helbredsoplysninger, når man tegner en forsikring mod erhvervsevnetab. 
 
@@ -1933,7 +1993,8 @@ Hvis man afgiver urigtige oplysninger til forsikringsselskabet ved tegningen af 
 
 
 
-## Livsforsikringer
+## <font color="red">Livsforsikringer<sup> Premium </font></sup>
+
 
 
 Man kan tegne en livsforsikring, hvis man ønsker at sikre sine efterladte økonomisk. 
@@ -1962,7 +2023,8 @@ Det er primært for at beskytte borgerne mod et helt ufiltreret samarbejde, men 
 Herudover er der et væsentligt element af forbrugerbeskyttelse, så der ikke indhentes oplysninger uden den forsikredes samtykke, og at man har ret til at fortryde forsikringsaftalen i op til 14 dage – for visse forsikringer 1 måned.  
 
 
-## Når man skal give oplysninger om ens helbred 
+## <font color="red">Når man skal give oplysninger om ens helbred<sup> Premium </font></sup> 
+
 
 Tegner man en privat livsforsikring, skal man besvare en række spørgsmål om sit helbred. 
 
@@ -1990,7 +2052,8 @@ Det er ens eget ansvar, at svarene er korrekte og fyldestgørende. En bevidst un
 
 ---
 
-## Udbetaling af forsikringer 
+## <font color="red">Udbetaling af forsikringer<sup> Premium </font></sup> 
+
 
 Hvem får pengene udbetalt, hvis man dør uventet? 
 
