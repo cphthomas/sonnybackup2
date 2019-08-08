@@ -1,7 +1,7 @@
 # <font color="red">Bekæmpelse af hvidvask og terrorfinansiering<sup> Premium </font></sup>
 
 ```{r, echo=FALSE, results='asis'}
-cat(readLines('np.html'))
+cat(readLines('npp.html'))
 ```
 
 
@@ -32,7 +32,7 @@ Hvidvasklovens formål er at sikre, at Danmark bidrager til den internationale k
 ---
 
 
-### Begrebet "hvidvask"
+### <font color="red">Begrebet "hvidvask"<sup> Premium </font></sup>
 
 ---
 
@@ -130,7 +130,7 @@ footnote(general = "Hvidvasksekretariatet",general_title = "Kilde: ")
 
 ---
 
-### Kontantforbud
+### <font color="red">Kontantforbud<sup> Premium </font></sup>
 
 Hvidvaskloven viderefører det tidligere gældende kontantforbud, jf. lovens § 5. 
 
@@ -156,7 +156,7 @@ Hvis der derimod er tale om ratevis betaling, eksempelvis i forbindelse med køb
 ---
 
 
-### Falskmøntneri
+### <font color="red">Falskmøntneri<sup> Premium </font></sup>
 
 ![](img/falsk.jpg)
 
@@ -685,7 +685,7 @@ Kravet kan ikke fraviges, heller ikke for kunder med begrænset risiko for hvidv
 
 ---
 
-### Kravet skal gennemføres på et risikobaseret grundlag 
+### <font color="red">Kravet skal gennemføres på et risikobaseret grundlag<sup> Premium </font></sup> 
 
 Intervallet kan dermed fastsættes ud fra en risikovurdering, og der kan differentieres mellem kunder med begrænset og øget risiko, jf. hvidvasklovens § 11, stk. 4. 
 
@@ -718,7 +718,7 @@ Efter hvidvasklovens § 7, stk. 1 fremgår følgende risikovurdering der skal fo
 
 ---
 
-### Baggrund og begrundelse for en risikovurdering
+### <font color="red">Baggrund og begrundelse for en risikovurdering<sup> Premium </font></sup>
  
 Virksomheder og personer omfattet af hvidvaskloven (i det følgende virksomheder) skal således foretage en risikovurdering af virksomhedens iboende risiko for hvidvask og finansiering af terrorisme.  
 
@@ -791,7 +791,7 @@ Målet er, at vurderingen kan fungere som et operationelt og anvendeligt værkt�
 ...
 
 
-### Metode og dokumentation 
+### <font color="red">Metode og dokumentation<sup> Premium </font></sup>
 
 Virksomheden skal identificere sine risikofaktorer og vurdere hver enkelt af disse og den sammenhæng, der er mellem risikofaktorerne. 
 
@@ -855,7 +855,7 @@ Virksomheden kan f.eks. i sin vurdering, af hvorledes et produkt indebærer en r
 
 ---
 
-### Risikofaktorer 
+### <font color="red">Risikofaktorer<sup> Premium </font></sup>
 
 Når virksomheden vurderer sine risikofaktorer, kan virksomheden bl.a. søge hjælp til at foretage vurderingerne i hvidvasklovens bilag 2 og 3, som opremser situationer, der kan være indikation for henholdsvis begrænset og høj risiko. Bilagene er ikke udtømmende. 
 
@@ -863,7 +863,7 @@ Virksomheden kan vurdere sine risikofaktorer som uddybet i det følgende. Uanset
 
 ---
 
-#### Kundetyper
+#### <font color="red">Kundetyper<sup> Premium </font></sup>
 
 Virksomheden skal vurdere sine kundetyper som en af virksomhedens risikofaktorer. 
 
@@ -902,7 +902,7 @@ Ovenstående undersøgelsespunkter er en inspiration til risikovurderingen og er
 
 ---
 
-#### Produkter, tjenesteydelser og transaktioner
+#### <font color="red">Produkter, tjenesteydelser og transaktioner<sup> Premium </font></sup>
 
 Når virksomheden skal risikovurdere sine produkter, tjenesteydelser og/eller transaktioner, kan virksomheden bl.a. afdække, om de kan tænkes at blive brugt til hvidvask eller terrorfinansiering, herunder: 
 
@@ -965,7 +965,7 @@ For yderligere eksempler henvises til bilag 3 til hvidvaskloven, ligesom de nati
 
 ---
 
-#### Leveringskanaler
+#### <font color="red">Leveringskanaler<sup> Premium </font></sup>
 
 Virksomhedens transaktions- og leveringskanaler har også afgørende betydning for virksomhedens risikovurdering. 
 
@@ -996,7 +996,7 @@ For yderligere eksempler se bilag 2 til hvidvaskloven.
 
 ---
 
-#### Lande og geografiske områder
+#### <font color="red">Lande og geografiske områder<sup> Premium </font></sup>
 
 Virksomheden skal vurdere de risici, som kan være forbundet med lande eller geografiske områder, hvortil virksomheden har en tilknytning. 
 
@@ -1033,7 +1033,7 @@ Når virksomheden skal vurdere landets regler og tilsynsmyndigheders effektivite
 
 ---
 
-#### Sektorspecifikke eksempler fra den finansielle sektor
+#### <font color="red">Sektorspecifikke eksempler fra den finansielle sektor<sup> Premium </font></sup>
 
 Dette afsnit beskriver nogle konkrete eksempler. 
 
@@ -1043,7 +1043,7 @@ Disse er relevante, fordi også en begrænset risiko er grundlag for, at virksom
 
 ---
 
-##### Fondsmæglervirksomheder 
+##### <font color="red">Fondsmæglervirksomheder<sup> Premium </font></sup>
 
 For **fondsmæglervirksomheder**, kan nedenstående eksempel illustrere en konkret vurdering. 
 
@@ -1063,7 +1063,7 @@ Dette produkt vil som udgangspunkt vurderes til at være begrænset risiko, men 
 
 ---
 
-##### Finansiel leasing
+##### <font color="red">Finansiel leasing<sup> Premium </font></sup>
  
 For virksomheder, der udbyder **finansiel leasing**, kan nedenstående eksempel illustrere en konkret vurdering. 
 
@@ -1081,7 +1081,7 @@ En faktor, der kan indikere en begrænset risiko ved leasing af produkter/tjenes
 
 ---
 
-##### Liv- og pensionsvirksomheder
+##### <font color="red">Liv- og pensionsvirksomheder<sup> Premium </font></sup>
 
 For **virksomheder, der udbyder pensionsordninger**, kan nedenstående eksempel illustrere en konkret vurdering: Pensionsordninger oprettet som led i ansættelsen oprettes altid via arbejdsgiver. 
 
@@ -1107,7 +1107,7 @@ Dette sammenholdt med en mulig kortere løbetid gør, at ordningen kan være mer
 
 ---
 
-##### Livsforsikring
+##### <font color="red">Livsforsikring<sup> Premium </font></sup>
 
 For virksomheder, der udbyder livsforsikringer, kan nedenstående eksempel illustrere en konkret vurdering: 
 
@@ -1123,7 +1123,7 @@ Det samme gør sig gældende for arbejdsmarkedspensionsordninger/firmapensionsor
 
 ---
 
-### Opdatering af risikovurderingen
+### <font color="red">Opdatering af risikovurderingen<sup> Premium </font></sup>
 
 Virksomhedens risikovurdering skal løbende holdes opdateret. Det betyder, at den skal afspejle virksomhedens aktuelle risikoprofil. 
 
@@ -1168,7 +1168,7 @@ Virksomheden skal være opmærksom på, at hvis der sker ændringer i virksomhed
 
  
 
-### Baggrund
+### <font color="red">Baggrund<sup> Premium </font></sup>
 
 Hvidvasklovens § 8 stiller krav om, at virksomheden skal udarbejde skriftlige politikker, procedurer og kontroller. 
 
