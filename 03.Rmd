@@ -1,8 +1,8 @@
-```{r, echo=FALSE, results='asis'}
-# cat(readLines('npp.html'))
-```
-
 # <font color="red">EU-Domstolen<sup> Premium </font></sup>
+
+```{r, echo=FALSE, results='asis'}
+cat(readLines('npp.html'))
+```
 
 *(afsnittet kan læses i hovedtræk for de interesserede og er ikke en del af pensum)*
 
