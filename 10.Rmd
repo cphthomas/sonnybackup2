@@ -1,8 +1,8 @@
-
-
 # <font color="red">Databeskyttelse<sup> Premium </font></sup>
 
-
+```{r, echo=FALSE, results='asis'}
+cat(readLines('npp.html'))
+```
 
 ![](img/data.jpg)
 http://samfundslitteratur.dk/bog/kend-databeskyttelsesreglerne^[Følgende afsnit om databeskyttelsesreglerne bygger på *Sonny Kristoffersen*: ”Kend databeskyttelsesreglerne”, 2019, Samfundslitteratur.]  

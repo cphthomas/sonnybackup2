@@ -1,8 +1,8 @@
-```{r, echo=FALSE, results='asis'}
-# cat(readLines('np.html'))
-```
-
 # Aftaleret
+
+```{r, echo=FALSE, results='asis'}
+cat(readLines('np.html'))
+```
 
 ![](img/aftale.jpg)
 

@@ -1,7 +1,8 @@
-
 # <font color="red">Bekæmpelse af hvidvask og terrorfinansiering<sup> Premium </font></sup>
 
-
+```{r, echo=FALSE, results='asis'}
+cat(readLines('np.html'))
+```
 
 
 ![](img/hvidvask.jpg)

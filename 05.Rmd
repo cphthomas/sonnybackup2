@@ -1,6 +1,9 @@
 
 # Fuldmagter og mellemmænd
 
+```{r, echo=FALSE, results='asis'}
+cat(readLines('np.html'))
+```
 
 <script async src="https://widget.spreaker.com/widgets.js"></script>
 

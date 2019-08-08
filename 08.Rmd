@@ -1,5 +1,11 @@
-
 # Køb
+
+```{r, echo=FALSE, results='asis'}
+cat(readLines('np.html'))
+```
+
+
+---
 
 ***Kapitel 8 om køb skal kun læses i hovedtræk***
 

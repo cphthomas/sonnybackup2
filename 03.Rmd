@@ -4,7 +4,9 @@
 cat(readLines('npp.html'))
 ```
 
-*(afsnittet kan læses i hovedtræk for de interesserede og er ikke en del af pensum)*
+
+
+<!-- *(afsnittet kan læses i hovedtræk for de interesserede og er ikke en del af pensum)* -->
 
 
 <img src="img/eudomstolen2.png" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 

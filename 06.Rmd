@@ -1,6 +1,11 @@
 
 # Forbrugeraftaler og forbrugerbeskyttelse
 
+```{r, echo=FALSE, results='asis'}
+cat(readLines('np.html'))
+```
+
+
 ---
 
 **Indledningsvis skal du som studerende være særlig opmærksom på følgende problemstillinger ved gennemgangen af "forbrugeraftaler og forbrugerbeskyttelse":**

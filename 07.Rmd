@@ -1,6 +1,8 @@
-
 # Erstatningsreglerne og den forsikringsmæssige afdækning
 
+```{r, echo=FALSE, results='asis'}
+cat(readLines('np.html'))
+```
 
 
 

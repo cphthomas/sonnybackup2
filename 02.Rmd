@@ -4,8 +4,12 @@
 cat(readLines('np.html'))
 ```
 
+---
 
 ***Kapitel 2 skal kun læses i hovedtræk*** 
+
+---
+
 
 ## Retskilderne
 
