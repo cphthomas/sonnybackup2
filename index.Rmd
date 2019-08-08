@@ -16,11 +16,9 @@ favicon: "favicon.ico"
 
 #    {-}
 
-<br>
-```{r, echo=FALSE, results='asis'}
-cat(readLines('fp.html'))
-```
-<br>
+
+
+
 
 				
 
@@ -71,7 +69,9 @@ Det var i hvert fald de to ting jeg støttede mig op af, da jeg læste til eksam
 
 
 
-
+```{r, echo=FALSE, results='asis'}
+cat(readLines('fp.html'))
+```
  
 
 ---
