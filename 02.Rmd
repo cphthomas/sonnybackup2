@@ -1,3 +1,6 @@
+```{r, echo=FALSE, results='asis'}
+cat(readLines('np.html'))
+```
 
 # Retskilderne
 

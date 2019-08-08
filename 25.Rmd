@@ -103,7 +103,7 @@ Se fra retspraksis:
 
 ---
 
-Svig i forsikringsretlig forstand forudsætter, at forsikringstageren **bevidst har afgivet urigtige oplysninger** for at opnå forsikringen eller opnå denne på mere fordelagtige vilkår. 
+Svig i forsikringsretlig forstand forudsætter, at forsikringstageren *bevidst har afgivet urigtige oplysninger* for at opnå forsikringen eller opnå denne på mere fordelagtige vilkår. 
 
 Den udviste svig skal være relevant, dvs. at den skal være af betydning for forsikringsselskabet. 
 
@@ -270,9 +270,21 @@ Forsikringsselskabet kan opsige forsikringen ved for sen betaling af præmien. F
 
 ---
 
+Forsikringsteknisk udtryk:
+
+*Combined ratio*, der også betegnes erstatnings- og omkostningsprocent, er et udtryk for forholdet mellem på den ene side summen af driftsomkostninger og erstatningsudgifter og på den anden side præmieindtægter. 
+
+Combined ratio svarer derfor til summen af erstatningsprocenten og omkostningsprocenten. 
+
+Udgør et forsikringsselskabs combined ratio eksempelvis 100 %, betyder det, at forsikringsselskabet anvender samtlige præmieindtægter til enten erstatningsudbetalinger eller til driftsomkostninger. 
+
+Combined ratio kan beregnes brutto eller for egen regning.
+
+---
+
 En typisk forbrugerforsikring som Familiens Basisforsikring indeholder f.eks. følgende vilkår:   
 
-*"Påkrav om betaling sendes til den opgivne betalingsadresse. Ændres betalingsadressen, skal selskabet straks underrettes. Betales præmien ikke, sender selskabet en påmindelse om betaling af præmien. Påmindelsen fremsendes tidligst 14 dage efter forfaldsdagen. Denne påmindelse indeholder oplysning om, at forsikringens dækning ophører, hvis præmien ikke er blevet betalt senest 14 dage efter afsendelsen af påmindelsen. Hvis selskabet har udsendt en sådan påmindelse, er det berettiget til at opkræve et ekspeditionsgebyr«.*
+"Påkrav om betaling sendes til den opgivne betalingsadresse. Ændres betalingsadressen, skal selskabet straks underrettes. Betales præmien ikke, sender selskabet en påmindelse om betaling af præmien. Påmindelsen fremsendes tidligst 14 dage efter forfaldsdagen. Denne påmindelse indeholder oplysning om, at forsikringens dækning ophører, hvis præmien ikke er blevet betalt senest 14 dage efter afsendelsen af påmindelsen. Hvis selskabet har udsendt en sådan påmindelse, er det berettiget til at opkræve et ekspeditionsgebyr«.
 
 ---
 
@@ -636,13 +648,27 @@ Betaler man derimod selv eksempelvis håndværkeren, og selskabet skal erstatte 
 
 Forsikringsselskabet skal udbetale aconto-erstatning til forsikringstageren, hvis en del af erstatningen kan opgøres, og det er sikkert, at selskabet under alle omstændigheder skal udbetale dette beløb i erstatning til forsikringstageren. 
 
-Selskabet kan altså ikke tilbageholde hele erstatningen, fordi der stadig er genstande, hvor erstatningen ikke kan fastsættes. Det fremgår af FAL § 24, stk. 1, og § 25  
+Selskabet kan altså ikke tilbageholde hele erstatningen, fordi der stadig er genstande, hvor erstatningen ikke kan fastsættes. Det fremgår af FAL § 24, stk. 1, og § 25.
+
+---
+
+*Genforsikring*
+
+Forsikringsselskabet tager ikke altid hele risikoen selv, men kan vælge at foretage en såkaldt genforsikring, dvs. risikoen bliver fordelt på flere forsikringsselskaber. 
+
+Udtrykket genforsikring betegner således , at et forsikringsselskabs forsikringsmæssige risici delvis videregives eller afgives til et andet forsikringsselskab, der betegnes genforsikringsselskab eller reassurandør. 
+
+Nogle forsikringsselskaber er specialiseret i genforsikring og beskæftiger sig udelukkende med at drive genforsikringsvirksomhed (indirekte forsikring), mens andre forsikringsselskaber driver både direkte og indirekte forsikring. Genforsikring involverer betaling af præmie (afgivne præmier) fra det direkte tegnende forsikringsselskab til genforsikringsselskabet. 
+
+Til gengæld modtager det direkte tegnede forsikringsselskab delvis dækning for sine erstatningsudgifter fra genforsikringsselskabet (modtagen genforsikringsdækning). 
+
+Genforsikringsaftaler involverer endvidere betaling af provision fra genforsikringsselskabet til det direkte tegnende selskab, og aftalen kan indebære overskudsdeling, således at genforsikringsselskabet betaler en gevinstandel til det direkte tegnende forsikringsselskab
 
 ---
 
 ## Under- og dobbeltforsikring
 
-Forsikringssummen på dens forsikring skal altid mindst svare til forsikringsværdien af f.eks. indboet. 
+Forsikringssummen på ens forsikring skal altid mindst svare til forsikringsværdien af f.eks. indboet. 
 
 Dvs. hvad det vil koste at genanskaffe alt dit indbo i tilfælde af en totalskade – fx en brand. 
 
@@ -670,6 +696,8 @@ Forsikringsselskabet betaler i den situation alene erstatning for ens skade og i
 ---
 
 ## Forældelse af forsikringskrav
+
+![](img/for4.jpg)
 
 For at man kan få fyldestgjort sit krav, skal man fremsætte det, inden det er forældet. 
 
@@ -703,7 +731,7 @@ Dog kan selskabet gyldigt aftale en anmeldelsesfrist i forbindelse med forsikrin
 
 ## Klage over forsikringsselskabets afgørelse
 
-**Ankenævnet for Forsikring** er et privat klagenævn oprettet i 1975 af Forbrugerrådet Tænk og brancheforeningen Forsikring & Pension. 
+*Ankenævnet for Forsikring* er et privat klagenævn oprettet i 1975 af Forbrugerrådet Tænk og brancheforeningen Forsikring & Pension. 
 
 Ankenævnet er godkendt af Erhvervsministeren og derfor "autoriseret" til at behandle forsikringsklager udenretligt.  
 
@@ -1157,6 +1185,8 @@ I **sag 86059** fandt Forsikringsnævnet eksempelvis, at klageren havde handlet 
 
 **Sag 86059:** Klager over afvisning af dækning for en knæskade, som klagers datters veninde (12 år) pådrog sig under et hop på klagers trampolin den 3/6 2013. Selskabet afviste dækning med henvisning til, at der var tale om et hændeligt uheld, og at klager ikke var ansvarlig for den skete skade. Nævnet fandt, at klager havde handlet ansvarspådragende ved at lade datterens veninde benytte en trampolin med et sikkerhedsnet, der ikke var monteret korrekt. Nævnet fandt det godtgjort, at den mangelfulde montering af sikkerhedsnettet var medvirkende årsag til, at venindens fod satte sig fast, så hun kom til skade. Selskabet skulle derfor anerkende, at klager var ansvarlig for de skader, som veninden måtte have pådraget sig. Det forhold, at skadelidte og skadelidtes mor var bekendt med sikkerhedsnettets tilstand, kunne ikke føre til andet resultat. Klager medhold.
 
+
+![](img/hul.jpg)
 
 **Sag 85472:** Klager over afvisning af dækning for en ansvarsskade over en familieforsikring. Klager havde etableret et stort hul i gulvet i sin ejerlejlighed med henblik på at opsætte vindeltrappe. En maler faldt ned gennem hullet og kom til skade. Selskabet afviste ansvarsdækning med henvisning til, at der var tale om et grundejeransvar, som ikke var dækket af forsikringen. Nævnets flertal fandt, klagers eventuelle ansvar var et culpaansvar uden for kontrakt, og at han havde ageret som privatperson. Det eventuelle ansvar var derfor dækningsberettigende. Betingelsernes punkt 8.1.4 vedrørende grundejeransvar kunne alene anses for et tillæg til, og ikke en indskrænkning af, den dækning, der ydedes efter hovedreglen i punkt 8.1.1 om ansvar som privatperson. Mindretallet fandt, at betingelsernes 8.1.4 udtømmende gjorde op med dækningen for grundejeransvar, og at den anmeldte skade ikke kunne henføres herunder. Mindretallet bemærkede, at klager kunne have tegnet en entrepriseforsikring. Klager medhold.*
 

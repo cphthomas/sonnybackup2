@@ -15,30 +15,15 @@ favicon: "favicon.ico"
 
 
 #    {-}
-					
 
+<br>
+```{r, echo=FALSE, results='asis'}
+cat(readLines('fp.html'))
+```
+<br>
 
-<h3>***Vigtigt bemærk***</h3>
+				
 
-***Bemærk bogen er gratis indtil videre, så man skal ikke logge ind endnu***		
-
-***Dette materiale er kun til personligt brug. Alle rettigheder forbeholdes. Fotografering, kopiering eller anden gengivelse af dette materiale, er uden forfatterens skriftlige samtykke,  forbudt, ifølge dansk lov om ophavsret.***
-
-
-***E-bogens videoer og quizer er ikke at betragte som en del af pensum, men er et supplement til pensum for at fremme din yderligere forståelse for Erhvervs- og Finansjuraen***
-
-***Der er mulighed for selv at tilføje sine egne noter i e-bogen.***
-
-***Om konstaterede fejl og mangler, samt spørgsmål til e-bogens indhold kan henvendelse ske på følgende e-mail:***
-
-***sk@bkhlaw.dk***
-
-***De bedste hilsener***
-
-***Advokat Sonny Kristoffersen, Ph.D.***
-
-
-<br><br>
 
 
 <h3>***Anmeldelser***</h3>
@@ -67,18 +52,32 @@ Det var i hvert fald de to ting jeg støttede mig op af, da jeg læste til eksam
 <br><br>
 
 
-<br>
-```{r, echo=FALSE, results='asis'}
-cat(readLines('fp.html'))
-```
-<br>
+<h3>***Vigtigt bemærk***</h3>
+
+***Dette materiale er kun til personligt brug. Alle rettigheder forbeholdes. Fotografering, kopiering eller anden gengivelse af dette materiale, er uden forfatterens skriftlige samtykke,  forbudt, ifølge dansk lov om ophavsret.***
+
+***E-bogens videoer og quizer er ikke at betragte som en del af pensum, men er et supplement til pensum for at fremme din yderligere forståelse for Erhvervs- og Finansjuraen***
+
+***Der er mulighed for selv at tilføje sine egne noter i e-bogen.***
+
+***Om konstaterede fejl og mangler, samt spørgsmål til e-bogens indhold kan henvendelse ske på følgende e-mail:***
+
+***sk@bkhlaw.dk***
+
+***De bedste hilsener***
+
+***Advokat Sonny Kristoffersen, Ph.D.***
+
+
+
+
 
  
 
 ---
 
 
-<h3>Video sådan køber du adgang.</h3>
+<h3>Video sådan køber du adgang til onlinebøger på www.tepedu.dk.</h3>
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/283118599' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
   <br>
   <br>
@@ -87,7 +86,7 @@ cat(readLines('fp.html'))
 
   <br>
   <br>
-<h3>Video sådan logger du ind.</h3>
+<h3>Video sådan logger du ind i onlinebøger på www.tepedu.dk.</h3>
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/283117974' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 

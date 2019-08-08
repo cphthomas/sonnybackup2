@@ -1,4 +1,6 @@
-
+```{r, echo=FALSE, results='asis'}
+cat(readLines('npp.html'))
+```
 
 # <font color="red">EU-Domstolen<sup> Premium </font></sup>
 
