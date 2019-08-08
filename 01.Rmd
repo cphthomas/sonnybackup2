@@ -1,9 +1,15 @@
+---
+output: 
+  html_document: 
+    css: style.css
+    df_print: kable
+---
+
+
+
 ```{r, echo=FALSE, results='asis'}
 cat(readLines('np.html'))
 ```
-
-
-
 
 
 
