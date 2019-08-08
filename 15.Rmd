@@ -1,6 +1,8 @@
 # Kautionsforhold
 
-
+```{r, echo=FALSE, results='asis'}
+cat(readLines('np.html'))
+```
 
 <!-- ![](img/kau9.jpg) -->
 

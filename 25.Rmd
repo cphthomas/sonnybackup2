@@ -1,5 +1,8 @@
-
 # <font color="red">Forsikring, pension og ankenævn  <sup> Premium </font></sup>
+
+```{r, echo=FALSE, results='asis'}
+cat(readLines('npp.html'))
+```
 
 ## Rettigheder og forpligtelser i forsikringsretten
 

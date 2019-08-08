@@ -1,6 +1,8 @@
-
 # Pant i fast ejendom, løsøre og virksomhedspant
 
+```{r, echo=FALSE, results='asis'}
+cat(readLines('np.html'))
+```
 
 ![](img/tinglysning7.jpg)
 

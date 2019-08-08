@@ -1,7 +1,8 @@
-
 # Insolvensret
 
-
+```{r, echo=FALSE, results='asis'}
+cat(readLines('np.html'))
+```
 
 
 ![](img/insol1.jpg)

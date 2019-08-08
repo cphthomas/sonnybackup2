@@ -1,6 +1,8 @@
-
-
 # Eksamen samt en vejledning til løsning af juridiske eksamensopgaver på finansøkonomstudiet
+
+```{r, echo=FALSE, results='asis'}
+cat(readLines('np.html'))
+```
 
 ---
 

@@ -1,6 +1,8 @@
-
 # <font color="red">Bibliotek<sup> Premium </font></sup>
 
+```{r, echo=FALSE, results='asis'}
+cat(readLines('npp.html'))
+```
 
 ![](img/bog11.jpg)
 

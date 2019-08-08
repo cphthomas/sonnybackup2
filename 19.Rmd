@@ -1,5 +1,8 @@
- 
 # <font color="red">Tinglysningssystemet<sup> Premium </font></sup>  
+
+```{r, echo=FALSE, results='asis'}
+cat(readLines('npp.html'))
+```
 
 ![](img/tinglysning5.jpg)
 

@@ -1,5 +1,8 @@
-
 # Lovsamling (Retsinformation)
+
+```{r, echo=FALSE, results='asis'}
+cat(readLines('np.html'))
+```
 
 **(Der kan også henvises til Karnovs Lovsamling)**
 
