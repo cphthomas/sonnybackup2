@@ -1,0 +1,827 @@
+# <font color="red">God skik for den finansielle virksomhed og erstatningsansvaret<sup> Premium </font></sup>
+
+```{r, echo=FALSE, results='asis'}
+cat(readLines('npp.html'))
+```
+  
+
+## <font color="red">God skik for finansielle virksomheder<sup> Premium </font></sup>
+
+
+
+**Lov om finansiel virksomhed § 43**
+
+
+Efter lovbestemmelsen i § 43 i lov om finansiel virksomhed^[Lovbekendtgørelse nr. 1140 af 26. september 2017 om finansiel virksomhed.] (FIL), så skal finansiel virksomhed drives i overensstemmelse med redelig forretningsskik og god praksis inden for virksomhedsområdet^[Følgende afsnit om god skik for finansielle virksomheder bygger på *Sonny Kristoffersen*: Introduktion til forsikringsreglerne, 2019, Hans Reitzels Forslag.]. 
+
+![](img/finans.jpg)
+
+Finanstilsynet kan tage sager vedrørende overholdelsen af god skik og de udstedte bekendtgørelser for god skik for finansielle virksomheder op af egen drift. 
+
+Finanstilsynet kan endvidere tage sager op efter anmodning fra Forbrugerombudsmanden. 
+
+
+<img src="img/FO.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+
+Finanstilsynet modtager tillige henvendelser direkte fra forbrugere, der imidlertid normalt henvises til bl.a. de private godkendte finansielle ankenævn (tvistløsningsorganger), såsom Det Finansielle Ankenævn og Forsikringsankenævnet, hvis klagen også vedrører civilretlige spørgsmål om erstatning eller tilbagebetaling af uretmæssigt opkrævede beløb. Erhvervsdrivende henvises til domstolene, da de ikke har selvstændig klageadgang til de private godkendte forbrugerklagesystem.^[Det skaber en retssikkerhedsmæssig processuel ubalance i klagesystemet mellem forbrugere og erhvervsdrivende, jf. nærmere *Sonny Kristoffersens* Ph.D. afhandling: Det offentligretlige forbrugerklagesystem i et retssikkerhedsmæssigt perspektiv, 2019, Samfundslitteratur.]   
+
+Finanstilsynet træffer en traditionel forvaltningsretlig afgørelse med mulighed for administrativ rekurs, og Finanstilsynet har ikke en direkte søgsmålskompetence til domstolene. 
+
+Såfremt en sag om god skik har vidtrækkende eller principiel betydning, skal Finanstilsynet forelægge sagen for Tilsynets bestyrelse, jf. Lov om finansiel virksomhed § 345, stk. 7, nr. 4.  
+
+Forbrugerombudsmanden er også tillagt beføjelser på området for god skik. Finanstilsynets og Forbrugerombudsmandens kompetence på området er reguleret i lov om finansiel virksomhed §§ 348 og 348 a.  
+
+Om markedsføringslovens anvendelse på finansielle virksomheder og Forbrugerombudsmandens kompetence til at tage sager op af egen drift eller efter klage, se nærmere markedsføringslovens^[Jf. Lov nr. 426 af 3. maj 2017 om markedsføring.]  § 1, stk. 2. 
+
+Forbrugerombudsmanden kan således håndhæve markedsføringslovens strafbelagte bestemmelser om vildledning og utilbørlig markedsføring, købsopfordringer samt markedsføring af kreditter. 
+
+Markedsføringslovens bestemmelser i § 3 om god markedsføringsskik, i § 4 om god erhvervsskik, § 9 om former for handelspraksis og § 14 om oplysningsforpligtelser vedrørende priser mv. er ikke gældende for finansielle virksomheder, i det omfang, der af erhvervsministeren er udstedt særlige regler herom.
+
+---
+
+Se et forsikringsselskabs overtrædelse af markedsføringslovens § 10, stk. 4:
+
+**Forsikringsselskab dømt for at ringe til forbrugere på Robinsonlisten**
+**31. juli 2019**
+
+![](img/ring.jpg)
+
+Retten i Hjørring har idømt Forsikringsselskabet Vendsyssel A/S en bøde på 50.000 kroner for at have ringet til syv forbrugere, som alle stod registreret på Robinsonlisten.
+
+Forsikringsselskabet Vendsyssel skal betale en bøde på 50.000 kroner for at have ringet til syv forbrugere, der stod registreret på Robinsonlisten.
+
+Selvom forsikringsselskaber som udgangspunkt gerne må ringe til forbrugere og sælge forsikringer, gælder det ikke, hvis forbrugeren er registreret på Robinsonlisten.
+
+Robinsonlisten er et register, hvor man kan frabede sig uanmodede henvendelser med markedsføring. Man kan tilmelde sig Robinsonlisten på borger.dk, som administreres af CPR-kontoret og opdateres hvert kvartal. Virksomheder skal tjekke Robinsonlisten, før de udsender reklamer med navn og adresse eller ringer forbrugere op.
+
+I sagen havde syv forbrugere tilmeldt sig Robinsonlisten, og de havde ikke givet Forsikringsselskabet Vendsyssel særskilt samtykke til at ringe. Men det gjorde Forsikringsselskabet Vendsyssel alligevel, hvilket nu har resulteret i en bøde til selskabet, efter at Forbrugerombudsmanden gik ind i sagen.
+
+Forbrugerombudsmand Christina Toftegaard Nielsen, siger:
+
+”Når en forbruger tilmelder sig Robinsonlisten, ønsker han eller hun at blive fri for enhver form for telefonsalg. Det skal virksomhederne respektere.”
+
+”Vi modtager mange klager over telefonsalg fra forbrugere, som er tilmeldt Robinsonlisten, men som alligevel bliver kontaktet, fordi virksomhederne ignorerer listen. Derfor er det et vigtigt signal, at retten har fastslået, at virksomhederne risikerer store bøder ved at ignorere Robinsonlisten.”
+
+MARKEDSFØRINGSLOVENS § 10, STK. 4:
+
+Efter markedsføringslovens § 10, stk. 4, må ingen erhvervsdrivende ringe til en bestemt fysisk person, fx en forbruger, der er tilmeldt Robinsonlisten, eller som har frabedt sig opkald fra virksomheden. Reglen gælder også for opkald til indehavere af enkeltmandsvirksomheder.
+
+---
+
+God skik-reglerne er såkaldte offentligretlige regler. 
+
+En overtrædelse af reglerne om god skik indebærer således ikke uden videre, at den konkrete aftale mellem finansiel virksomhed og kunden er ugyldig eller uvirksom. 
+
+Manglende overholdelse vil dog kunne have en afsmittende virkning på visse civilretlige forhold, jf. fx. i forhold til aftalelovens §§ 38c, jf. 36. 
+
+Disse spørgsmål afgøres af de private finansielle ankenævn, og i den sidste ende af domstolene.
+
+![](img/dom.jpg)
+
+---
+
+### <font color="red">Bekendtgørelse om god skik for finansielle virksomheder<sup> Premium </font></sup>
+
+
+
+Af Bekendtgørelsen om god skik for finansielle virksomheder følgende regler for god skik for finansielle virksomheder (herefter; godskik-bekendtgørelsen):^[I medfør af § 43, stk. 2, og § 373, stk. 4, i lov om finansiel virksomhed, jf. Lovbekendtgørelse nr. 1140 af 26. september 2017, er fastsat: Bekendtgørelse nr. 330 af 7. april 2016 om god skik for finansielle virksomheder.]   
+
+---
+
+### <font color="red">Den finansielle virksomhed skal handle redeligt og loyalt og ikke vildlede kunderne<sup> Premium </font></sup> 
+
+
+
+![](img/godskik.jpg)
+
+Efter godskik-bekendtgørelsens §§ 3-4 skal en finansiel virksomhed handle redeligt og loyalt over for sine kunder. 
+
+En finansiel virksomhed, som et forsikringsselskab, må ikke anvende vildledende eller urigtige angivelser eller udelade væsentlige informationer, hvis dette er egnet til mærkbart at forvride kundernes økonomiske adfærd på markedet.   
+
+Markedsføring, som i sit indhold, sin form eller den anvendte fremgangsmåde er vildledende, aggressiv eller udsætter kunderne for en utilbørlig påvirkning, og som er egnet til mærkbart at forvride deres økonomiske adfærd, er ikke tilladt. 
+
+![](img/agre.jpg)
+
+---
+
+![](img/ICC.jpg)
+
+---
+
+Rigtigheden af angivelser om faktiske forhold skal kunne dokumenteres. De former for adfærd, der er opregnet i godskik-bekendtgørelsens bilag 1, anses under alle omstændigheder for at være urimelige i private kundeforhold, og er ikke tilladt:  
+
+**VILDLEDENDE MARKEDSFØRING**  
+
+1)	Den finansielle virksomhed hævder at have underskrevet en adfærdskodeks, selv om det ikke er tilfældet.
+
+2)	Den finansielle virksomhed fremviser kvalitetscertificering, kvalitetsmærke eller tilsvarende uden at have opnået den nødvendige tilladelse.
+
+3)	Den finansielle virksomhed hævder, at en adfærdskodeks er godkendt af en offentlig myndighed eller anden myndighed, selv om det ikke er tilfældet.
+
+4)	Den finansielle virksomhed hævder, at en erhvervsdrivende (herunder dennes handelspraksis) eller et produkt er blevet godkendt eller tilladt af en offentlig eller privat instans, selv om det ikke er tilfældet, eller fremsætter en sådan påstand uden at opfylde betingelserne for godkendelse eller tilladelse.
+
+5)	Det angives i modstrid med sandheden, at produktet kun vil være tilgængeligt i meget begrænset tid, eller at det kun vil være tilgængeligt på visse betingelser i meget begrænset tid, for at fremkalde en umiddelbar afgørelse og fratage kunderne tilstrækkelig mulighed for eller tid til at træffe en informeret beslutning.
+
+6)	Det angives, eller der gives på anden måde indtryk af, at et produkt kan sælges lovligt, selv om dette ikke er tilfældet.
+
+7)	Rettigheder, som kunden har efter loven, fremstilles som et særligt kendetegn ved den finansielle virksomheds tilbud.
+
+8)	Der promoveres et produkt, der ligner et andet produkt fremstillet af en bestemt producent, på en sådan måde, at kunden med overlæg forledes til at tro, at produktet er fremstillet af samme producent, uden at dette er tilfældet.
+
+9)	Etablering, drift eller promovering af en salgsfremmende pyramideordning, hvor forbrugeren erlægger et vederlag og til gengæld stilles kompensation i udsigt, som hovedsageligt er afhængig af, om han har introduceret andre for ordningen og i mindre grad af salg eller forbrug af produkter, medmindre forholdet er omfattet af § 5 a i lov om offentlige indsamlinger og pyramidespil.
+
+10)	 Det hævdes, at lukning af den finansielle virksomhed eller flytning til andre lokaler er forestående, selv om det ikke er tilfældet.
+
+11)	 Det hævdes, at produkter kan gøre det lettere at vinde i hasardspil.
+
+12)	 Der gives faktuelt ukorrekte oplysninger om markedsvilkår eller om muligheden for at finde produktet med henblik på at få forbrugeren til at erhverve produktet på ringere vilkår end de  normale markedsvilkår.
+
+13)	Det hævdes som led i handelspraksis, at der afholdes en konkurrence eller et salgsfremstød med præmier, men uden de omtalte præmier eller andre rimeligt tilsvarende uddeles.
+
+14)	Et produkt omtales som »gratis«, »vederlagsfrit«, »uden betaling« eller lignende, selv om kunden skal betale andet end de uundgåelige udgifter, der er forbundet med at reagere på den pågældende handelspraksis, samt afhentning eller betaling for levering af produktet.
+
+15)	I markedsføringsmaterialet indgår en faktura eller et lignende dokument, der opfordrer til betaling, og som giver kunden indtryk af, at han allerede har bestilt det produkt, der markedsføres, selv om det ikke er tilfældet.
+
+16)	En repræsentant for den finansielle virksomhed, i modstrid med sandheden, hævder eller giver indtryk af, at han ikke handler som led i sit erhverv eller han, i modstrid med sandheden, udgiver sig for at være kunde. 
+
+---
+
+![](img/agre1.jpg)
+
+**Aggressiv markedsføring**
+
+17)	Kunden bringes til at tro, at han ikke kan forlade lokalerne, før en kontrakt er indgået.
+
+18)	Der aflægges personlige besøg, der ikke er omfattet af forbuddet i forbrugeraftalelovens § 4, på kundens bopæl, uden at kundens ønske om, at en repræsentant for den finansielle virksomhed skal forlade stedet eller blive væk, respekteres, idet der dog gælder en undtagelse for besøg med henblik på at håndhæve en kontraktlig forpligtelse under omstændigheder og i et omfang, der er berettiget i henhold til lovgivningen.
+
+19)	Der foretages vedholdende og uønskede henvendelser pr. telefon, der ikke er omfattet af forbuddet i forbrugeraftalelovens § 4, eller pr. telefax, e-mail eller andre fjernkommunikationsmedier, idet der dog gælder en undtagelse for henvendelser med henblik på at håndhæve en kontraktlig forpligtelse under omstændigheder og i et omfang, der er berettiget i henhold til national lovgivning.
+
+20)	Den finansielle virksomhed kræver, at en kunde, som ønsker at anmelde en fordring i henhold til en forsikringspolice, skal fremlægge dokumenter, som ikke med rimelighed kan anses for at være relevante i forhold til fordringens gyldighed, eller den systematisk undlader at svare på korrespondance vedrørende sagen, i den hensigt at afholde kunden fra at udøve sine kontraktlige rettigheder.
+
+21)	Der skabes det fejlagtige indtryk, at kunden allerede har vundet, vil vinde eller ved udførelse af en bestemt handling vil vinde en præmie eller et andet tilsvarende gode, selv om faktum er, at der enten
+
+a)	ikke findes nogen præmie eller et andet tilsvarende gode, eller
+b)	at den handling, som skal udføres for at indløse præmien eller et andet tilsvarende gode indebærer, at kunden skal betale et pengebeløb eller på anden måde påtage sig udgifter”.
+
+![](img/agre2.jpg)
+
+---
+
+Ved en opfordring til køb rettet mod private kunder skal en finansiel virksomhed efter godskik-bekendtgørelsens § 5 give følgende oplysninger, medmindre de allerede fremgår tydeligt af sammenhængen:
+
+1.	Produktets væsentligste karakteristika. 
+
+2.	Den finansielle virksomheds navn og adresse.
+
+3.	Forhold vedrørende betaling og gennemførelse af aftalen, i det omfang disse forhold afviger fra, hvad der er sædvanligt i branchen.
+
+4.	Den finansielle virksomheds fremgangsmåde i forbindelse med klagesagsbehandling, i det omfang den afviger fra, hvad der er sædvanligt i branchen.
+
+5.	Fortrydelsesret, hvis kunden har en sådan ret.
+
+6.	Prisen inklusive afgifter.  
+
+---
+
+Medfører produktets art, at prisen ikke med rimelighed kan beregnes på forhånd, angives den måde, hvorpå prisen beregnes. 
+
+Ved en opfordring til køb forstås en kommerciel kommunikation, hvori produktets karakteristika og pris er angivet på en måde, som er passende i forhold til det anvendte kommercielle kommunikationsmiddel, og hvorved kunden sættes i stand til at foretage et køb.  
+
+En finansiel virksomhed skal indgå eller bekræfte alle væsentlige aftaler med sine kunder i papirformat eller på andet varigt medium, jf. godskik-bekendtgørelsens § 6. 
+
+En aftale skal indeholde en beskrivelse af parternes væsentlige rettigheder og pligter samt af de finansielle ydelser, der er omfattet af aftalen. 
+
+Er der i forbindelse med aftalens indgåelse ydet individuel rådgivning, skal væsentlige forudsætninger for rådgivningen nedfældes i aftalen eller fremgå af bilag til aftalen i enten papirformat eller på andet varigt medium.  
+
+Vilkår, der indgår i aftalen, kan fremgå ved en henvisning til separate dokumenter, herunder den finansielle virksomheds almindelige forretningsbetingelser.   
+
+Vilkår om ændringer i løbende kundeforhold af renter, gebyrer, eller andet vederlag skal være klart fremhævet i aftalen og skal indeholde en angivelse af de forhold, der kan udløse en ændring, og må ikke give den finansielle virksomhed en vilkårlig adgang til at foretage ændringer.  
+
+---
+
+I løbende kundeforhold kan ændringer til ugunst for kunden af renter, gebyrer, eller andet vederlag ikke finde sted uden et forudgående varsel, der ikke må være kortere end en måned, og som indeholder en begrundelse for ændringen. 1. pkt. gælder dog ikke ændringer, der er begrundet i udefrakommende forhold, som den finansielle virksomhed ikke har indflydelse på. 
+
+Ved væsentlige ændringer i andet vederlag eller ved opkrævning af et nyt vederlag, skal varslingen ske til kunden ved individuel kommunikation, inden ændringen får virkning. 
+
+Såfremt kunden har ret til at opsige aftalen, skal dette fremgå af varslingen samt under hvilke betingelser, kunden kan opsige aftalen. 
+
+Denne bestemmelse finder ikke anvendelse for varsling af ændringer i skades- og livsforsikringsprodukter.  
+
+Opsiger en finansiel virksomhed en aftale indgået med en kunde, skal opsigelsen være sagligt begrundet og ske i papirformat eller på andet varigt medium.  
+
+---
+
+### <font color="red">Rådgivning og markedsføring rettet mod børn og unge<sup> Premium </font></sup>
+
+
+
+![](img/agre3.jpg)
+
+Markedsføring og rådgivning rettet mod børn og unge skal være udformet med særlig hensyntagen til børn og unges manglende erfaring og kritiske sans, som bevirker, at de er lette at påvirke og nemme at præge, jf. godskik-bekendtgørelsens § 7.
+
+---
+
+### <font color="red">Rådgivning<sup> Premium </font></sup>
+
+
+
+![](img/finans4.jpg)
+
+Ved rådgivning forstås anbefalinger, vejledninger, herunder oplysninger om risici forbundet med en disposition, og oplysninger om umiddelbare konsekvenser af kundens valgmuligheder, jf. godskik-bekendtgørelsens § 8.  
+
+En finansiel virksomhed skal yde rådgivning, hvis kunden anmoder herom. 
+
+Endvidere skal virksomheden af egen drift yde rådgivning, hvor omstændighederne tilsiger, at der er behov herfor.  
+
+Rådgivningen skal tilgodese kundens interesser og give kunden et godt grundlag for at træffe sin beslutning. 
+
+Rådgivningen skal være relevant, retvisende og fyldestgørende. 
+
+Den finansielle virksomhed skal orientere om de risici, der er relevante for kunden.  
+
+En finansiel virksomhed, der yder rådgivning, skal oplyse kunden om, at rådgivningen ikke er uafhængig, og at rådgivningen kun omfatter de produkter, som den finansielle virksomhed udbyder. 
+
+Dette gælder dog ikke, hvis den finansielle virksomhed kan dokumentere, at rådgivningen er uafhængig.  
+
+En finansiel virksomhed kan udbyde produkter med standardiseret information med lille eller ingen tilknyttet individuel rådgivning. 
+
+I så fald skal den finansielle virksomhed gøre særskilt opmærksom på dette. Bestemmelsen gælder ikke for lån med sikkerhed i fast ejendom.  
+
+![](img/roskilde.jpg)
+
+---
+
+Før en finansiel virksomhed rådgiver, skal virksomheden anmode kunden om at oplyse om sin økonomiske situation, sin erfaring med de relevante finansielle ydelser, sit formål med at få ydelsen leveret samt om sin risikovillighed, jf. godskik-bekendtgørelsens § 9. 
+
+Omfanget og karakteren af de oplysninger, der indhentes, kan afpasses efter den viden, som kunden besidder og de oplysninger, som den finansielle virksomhed allerede har modtaget. 
+
+Den finansielle virksomhed kan lægge kundens oplysninger til grund, medmindre de er åbenbart urigtige.  
+
+---
+
+![](img/finans2.jpg)
+
+Rådgivning skal tage udgangspunkt i relevante oplysninger indhentet i henhold til bekendtgørelsens § 9 og det kendskab, den finansielle virksomhed i øvrigt har til kundens forhold, jf. godskikbekendtgørelsens § 10.  
+
+En finansiel virksomhed skal anmode kunden om at opdatere oplysninger indhentet i henhold til godskik-bekendtgørelsens § 9, i det omfang det er nødvendigt for at kunne yde kunden rådgivning i løbende kundeforhold.  
+
+En finansiel virksomhed skal give tilstrækkelig information om egne produkter og ydelser, herunder om forskelle i priser og vilkår for alternative produkter, der kan dække kundens behov. 
+
+---
+
+![](img/finans5.jpg)
+
+For lån skal der oplyses om de årlige omkostninger i procent (ÅOP) på rådgivningstidspunktet, jf. godskik-bekendtgørelsens § 11. 
+
+(Årlige omkostninger i procent (ÅOP) viser de samlede årlige udgifter ved et lån i forhold til det lånte beløb. 
+
+Alle udgifter i forbindelse med lånet regnes med - oprettelsesomkostninger, rente og løbende omkostninger. ÅOP skal oplyses, hver gang du får et lån eller en kredit.)
+
+Hvis der mellem kunderne for en given ydelse er generelle forskelle i fastsættelsen af renter, bidrag eller andet vederlag til den finansielle virksomhed, skal den finansielle virksomhed oplyse en kunde herom, forinden der indgås aftale om levering af ydelsen. 
+
+På forespørgsel fra kunden skal der oplyses om hvilke forhold hos kunden, der kan være bestemmende for dennes indplacering inden for den givne prisdifferentiering.  
+
+En finansiel virksomhed skal på grundlag af sit generelle markedskendskab informere kunden om relevante produkttyper på markedet. 
+
+Informationen skal dog ikke indeholde oplysninger om konkurrerende produkter eller konkrete priser.
+
+---
+
+![](img/finans6.jpg)
+
+Har den finansielle virksomhed eller dens medarbejder/rådgiver i rådgivningssituationen en særlig interesse i rådgivningens resultat ud over den almindelige indtjening, skal virksomheden inden rådgivningen informere kunden om arten og omfanget af den særlige interesse, jf. godskik-bekendtgørelsens § 12.  
+
+Modtager den finansielle virksomhed provision eller andet vederlag som følge af formidlingen af produkter eller ydelser, skal kunden gøres opmærksom herpå. 
+
+Det samme gælder, hvis den ekspederende medarbejder/rådgiver modtager provision eller andet vederlag, og der er en direkte sammenhæng mellem konkrete salg af ydelser eller produkter og vedkommendes aflønning.  
+
+En finansiel virksomhed skal som led i sin rådgivning oplyse om konsekvenser af de skatteregler, som er relevante for kunden i forhold til de produkter og ydelser, som rådgivningen omfatter. 
+
+---
+
+Hvis den finansielle virksomhed er eller bliver opmærksom på andre skatteretlige spørgsmål, skal den finansielle virksomhed henvise kunden til anden rådgivning herom, såfremt den ikke rådgiver om disse spørgsmål, jf. godskik-bekendtgørelsens § 13.  
+
+Hvis en finansiel virksomhed rådgiver om forhold, som kan være af væsentlig økonomisk betydning for kundens muligheder for at modtage offentlige tilskud eller andre økonomiske fordele, og den finansielle virksomhed er eller burde være opmærksom herpå, skal dette medtages i rådgivningen, eller kunden skal henvises til anden rådgivning.  
+
+Hvis et forsikringsselskab ikke har kendskab til den enkelte kundes identitet, eller hvor der i en forsikringsordning er en bemyndiget, kan de krævede oplysninger udleveres til den fysiske eller juridiske person, der er bemyndiget til at modtage dette materiale.  
+
+En finansiel virksomhed skal oplyse en kunde om de sikkerhedsforanstaltninger, der bør iagttages ved et givent produkt eller ydelse, herunder hvilke sikkerhedsmæssige krav kunden skal efterleve, og hvilket ansvar kunden kan ifalde ved tredjemands misbrug, jf. godskik-bekendtgørelsens § 14.  
+
+---
+
+## <font color="red">Særlige god skik regler for pengeinstitutterne<sup> Premium </font></sup>
+
+
+![](img/finans7.png)
+
+
+I godskik-bekendtgørelsens kapitel 5 er fastsat nærmere særlige regler for pengeinstitutter om god skik:  
+
+Efter godskik-bekendtgørelsens § 15 kan et pengeinstitut ikke uden en individuel og saglig begrundelse nægte at oprette en basal indlånskonto til en privatkunde. 
+
+Begrundelsen skal på anmodning gives i papirformat eller på andet varigt medium.
+
+---
+
+![](img/finans8.jpg)
+
+En basal indlånskonto skal som minimum omfatte følgende funktioner:  
+
+*	Mulighed for at indsætte og hæve kontanter.
+
+*	Mulighed for at gennemføre betalingstransaktioner med et debetkort med saldokontrol.
+
+*	Mulighed for indgående kredittransaktioner.
+
+---
+
+Hvis indsættelse og hævning af kontanter, gennemføres ved personlig henvendelse i pengeinstituttets forretningslokale kan instituttet begrænse antallet af ekspeditioner til én om ugen.  
+
+Pengeinstitutter skal tilbyde en basal indlånskonto vederlagsfrit eller mod et gebyr, der højest må udgøre 180 kr. om året, uanset antallet af transaktioner på kontoen. 
+
+Gebyret reguleres én gang årligt pr. 10. januar efter udviklingen i Danmarks Statistiks nettoprisindeks. Beløbet afrundes til nærmeste hele kronebeløb. Første regulering finder sted med virkning fra den 1. februar 2016.
+
+---
+
+Et pengeinstitut må ikke knytte et progressivt fordelsprogram til besiddelse af aktier i pengeinstituttet, indskud af garantkapital eller indskud af andelskapital, jf. god skik-bekendtgørelsens § 16.  
+
+Såfremt besiddelse af aktier, indskud af garantkapital eller indskud af andelskapital gøres til et krav for at opnå kundefordele, må pengeinstituttet maksimalt stille krav om en aktiebesiddelse med en kursværdi på 30.000 kr. eller et indskud af garantkapital på 30.000 kr. på tidspunktet for kundens indtræden i fordelsprogrammet.  
+
+---
+
+### <font color="red">Finanstilsynets fortolkning af begrebet god skik i forhold til pengeinstitutter<sup> Premium </font></sup>
+
+
+**Finanstilsynet har truffet bl.a. følgende afgørelser om god skik i forhold til pengeinstitutterne:**
+
+
+
+**Afgørelse af 24. april 2003:** Et pengeinstituts markedsføring var i strid med god skik, jf. markedsføringslovens § 3. Pengeinstituttet havde markedsført et obligationsbaseret investeringsprodukt ved indrykning af annoncer i forskellige aviser. I annoncen brugtes bl.a. udtryk som »garanti mod kurstab«, »investering uden risiko« og »fuld mulighed for gevinst«.  
+
+---
+
+**Afgørelse af 30. september 2003:** En praksis, hvorefter et pengeinstituts kunder som udgangspunkt kun kan få udbetalt 10.000 kr. kontant pr. ekspedition, var ikke i strid med god skik. Afgørelsen lagde vægt på, at der var foretaget tilstrækkelig information af kunderne, forinden ændringen blev gennemført.  
+
+---
+
+**Afgørelse af 28. april 2004:** Pengeinstituts markedsføring af lån med tilknyttet obligatorisk gruppelivsforsikring blev fundet i strid med reglerne om god skik, når instituttet ikke gjorde kunden tydeligt opmærksom på, dels at forsikringen ikke ved død blev udbetalt til nærmeste pårørende, dels at der var begrænsninger i dækningsomfanget, og endvidere ikke havde oplyst kunden om muligheder for rådgivning.  
+
+---
+
+**Afgørelse af 24. juni 2004:** Tilsynet påbød et pengeinstitut at ophæve eller ændre en ansvarsfraskrivelsesklausul vedrørende rådgivning i instituttets handelsaftaler, idet klausulerne fandtes at stride mod reglerne om god skik. 
+
+---
+
+**Afgørelse af 25. februar 2005:** En banks fremsendelse af en e-mail til kunderne med besked om, at kunden kunne hente den årlige engagementsoversigt på bankens internetbaserede handelsplatform, var ikke i strid med god skik. Afgørelsen lagde bl.a. vægt på, at banken i en e-mail underrettede kunderne om, at engagementsoversigten var tilgængelig på handelsplatformen, og at banken samtidig tilbød kunderne at få tilsendt en fysisk version af oversigten, hvis kunden måtte ønske det.  
+
+---
+
+**Afgørelse af 27. maj 2005:** Et pengeinstituts vilkår om uvarslede ændringer af renter og gebyrer var ikke i strid med reglerne om god skik. Afgørelsen lagde vægt på, at de uvarslede ændringer af renter og gebyrer til ugunst for kunderne skyldes udefrakommende omstændigheder, som lå uden for pengeinstituttets kontrol.  
+
+---
+
+**Afgørelse af 19. oktober 2006:** Det var i strid med § 3 i bekendtgørelse om god skik, at en bank stillede krav om, at kunder skulle give samtykke til at modtage markedsføring fra banken som betingelse for at indgå en aftale om et finansielt produkt.  
+
+---
+
+**Afgørelse af 19. september 2008:** I strid med god skik, at den tidligere bank efter overførslen af en NemKonto til en anden bank ændrede NemKontoen tilbage uden kundens samtykke. Se også Finanstilsynets afgørelse af 13. juni 2012.  
+
+---
+
+**Afgørelse af 1. april 2009:** Bank skulle i markedsføringsmateriale ophøre med at reklamere med en vis høj indlånsrente på en konto, når denne indlånsrente først gjaldt efter et vist højt minimumsindskud. Henvisning til bankens hjemmeside hvoraf de nærmere oplysninger om renteberegningen fremgik, var ikke tilstrækkeligt til at opfylde god skik (forbuddet mod vildledende eller urigtige angivelser eller undlade væsentlige informationer).  
+
+---
+
+**Afgørelse af 1. april 2009:** Bank skulle i markedsføringsmateriale ophøre med at reklamere med hævefrihed på en konto, hvis det kun var muligt at hæve et vist antal gange om året.  
+
+---
+
+**Afgørelse af 27. februar 2009:** Mangelfuld markedsføring af kreditkort. I markedsføringsmateriale havde banken skrevet, at den gerne ville forsøde kundernes juletid med lidt ekstra, og at kunderne derfor kunne få tilsendt en check på op til 15.000 kr. dog højst det beløb, kunderne havde på deres kreditkortkonto. Det fremgik ikke af brevet, at beløbet blev hævet på kundens konto, og at der derfor alene var tale om, at kunderne kunne spare et gebyr ved brug af kortet.  
+
+---
+
+**Erhvervsankenævnets kendelse af 19. marts 2010:** Bank påbudt at undlade at ændre principperne for rentefastsættelsen på et lån, hvor det fremgår af låneaftalen, at renten varierer med en referencerentesats, som banken ikke selv har indflydelse på, samt et eventuelt rentetillæg. I et sådant tilfælde kan principperne for rentefastsættelsen kun ændres, hvis banken i selve låneaftalen har taget et udtrykkeligt forbehold for at kunne ændre rentefastsættelsen. En generel henvisning til bankens almindelige forretningsbetingelser kan ikke udgøre et udtrykkeligt forbehold om at kunne ændre principperne for, hvorledes renten fastsættes. 
+
+---
+
+**Afgørelse af 19. januar 2012:** Bank fandtes i sin markedsføring af et højrenteprodukt ved ikke at oplyse om, at højrentekontoen var forbundet med en større produktpakke, som kunden skulle aftage, at have handlet i strid med § 4, stk. 1, i bkg 2011 769 om god skik, hvorefter en finansiel virksomhed ikke må udelade væsentlige informationer, hvis dette er egnet til mærkbart at forvride kundens økonomiske adfærd på markedet.  
+
+---
+
+**Afgørelse af 23. november 2012:** I strid med (dagældende) § 3 i bkg 2011 769 om god skik at anføre i bankens generelle vilkår, at kunden er ansvarlig for overholdelse af de til enhver tid gældende regler om anbringelse af midler. 
+
+---
+
+**Afgørelse af 5. august 2013:** I strid med (dagældende) § 3 i bkg 2013 928 om god skik ikke at oplyse om, at der lægges et tillæg på 0,4 % til den kurs, der oplyses i bankens »mobilbank valutaberegner«.  
+
+---
+
+**Afgørelse af 10. februar 2015:** Påbud til bank efter (dagældende) god skik bekendtgørelsens § 35, stk. 1, jf. § 3, om ikke at kræve indsendelse af økonomioplysninger for lån, der er optaget inden 2012-09-01, med hjemmel i forretningsbetingelsernes pkt. 11, litra f, medmindre det allerede følger af aftalegrundlaget med den enkelte kunde, at sådanne oplysninger kan indhentes.
+
+---
+
+**Afgørelse af 27. oktober 2016:** Påtale til pengeinstitut for i strid med reglerne om kombinationssalg i § 24, stk. 2, i den dagældende bekendtgørelse om god skik for boligkredit i en periode at have stillet krav om, at kunden etablerede et helkundeforhold med banken som betingelse for at yde et prioritetslån. Finanstilsynet har over tid forholdt sig til spørgsmålet om afvisning af adgang til en basal indlånskonto, herunder i forhold til kunder registreret i RKI, kunder med anden betalingskonto og kunder, der ikke har fast adresse eller dansk cpr-nummer. En række af disse forhold er nu reguleret i lov om betalingskonti, L 2016 375, som i kapitel 4 indeholder generelle bestemmelser om adgang til en basal betalingskonto, medmindre det vil føre til overtrædelse af hvidvaskreglerne, eller forbrugeren har udøvet strafbare handlinger mod pengeinstituttet, eller forbrugeren har optrådt anstødeligt eller til gene for bankens øvrige kunder eller ansatte. Lov om betalingskonti suppleres af kravet i god skik- bekendtgørelsen (bkg 2018 1581). Lov om betalingskonti indeholder i øvrigt i § 13 vilkårene for, at en rammeaftale for en basal indlånskonto kan opsiges, herunder hvis forbrugeren ikke længere har lovligt ophold i et land inden for EU eller et land, som Unionen har ondgået aftale med på det finansielle område.  
+
+---
+
+**Afgørelse af 30. januar 2017:** Finanstilsynet påtalte, at en bank i en periode havde handlet i strid med § 24, stk. 2, i bekendtgørelse om god skik for boligkredit ved at have stillet krav om, at kunden etablerede et helkundeforhold med banken som betingelse for at yde et prioritetslån.  
+
+---
+
+**Afgørelse af 10. oktober 2017:** Finanstilsynet vurderede, at en banks aftalegrundlag for lån med referencerente ikke var i overensstemmelse med reglerne i god skik-bekendtgørelsens § 6, stk. 1, og påbød på den baggrund banken at sikre, at aftalegrundlaget for lån med referencerente indeholder fyldestgørende rentevilkår, at betingelserne for lånet har en retvisende ikrafttrædelsesdato, samt at kunden oplyses om lånets referencerente og rentetillæg i låneaftalen.  
+
+---
+
+**Afgørelse af 18. december 2017:** Påtale af, at pengeinstitut havde handlet i strid med § 3 i bekendtgørelse nr. 330 af 7. april 2016 om god skik for finansielle virksomheder, ved ikke at foretage kreditværdighedsvurderinger af forbrugere forud for fremsendelse af forhåndsgodkendte og uopfordrede lånetilbud.  
+
+---
+
+
+## <font color="red">Særlige god skik regler for investeringsforvaltningsselskaber<sup> Premium </font></sup>
+
+![](img/finans10.jpg)
+
+Et investeringsforvaltningsselskab skal på kundens anmodning give supplerende oplysninger om den aktuelle status vedrørende de forhold, der er omfattet af § 6, nr. 3, 8-10 og 12, i bekendtgørelse om oplysninger i prospekter for danske UCITS.
+
+Investeringsforvaltningsselskabet skal endvidere give oplysninger om den seneste udvikling for risici og afkast for de vigtigste kategorier af instrumenter, hvis kunden anmoder herom, jf. godskik-bekendtgørelsens § 17.  
+
+---
+
+### <font color="red">Principielle god skik afgørelser på hele det finansielle område<sup> Premium </font></sup>
+
+
+
+
+
+**Finanstilsynet har truffet følgende retningsgivne afgørelser uden for området for pengeinstitutter:**  
+
+**Afgørelse af 27. november 2006:** Et fondsmæglerselskab handlede i strid med redelig forretningsskik og god praksis, da selskabet udsendte markedsføringsmateriale om salg af svenske præmieobligationer, som efter en samlet vurdering måtte betegnes som uigennemskueligt og egnet til at bibringe forbrugere en fejlagtig opfattelse af, at de er særligt udvalgt til at vinde en milliongevinst.  
+
+---
+
+**Afgørelse af 7. januar 2005:** Markedsføringen af en hedgeforening var i strid med reglerne om god skik, idet oplysning i salgsbrochuren om, at investorerne når som helst kunne gå ind og ud af foreningen, var urigtig og vildledende. 
+
+---
+
+**Afgørelse af 1. april 2004:** Ikke i strid med reglerne om god skik, at et fondsmæglerselskab lader kunderne indgå en aftale om, at tvister skal afgøres ved voldgift, såfremt kunden får oplysninger om, at en eventuel klage kan indbringes for Klagenævnet for Fondsmæglerselskaber.  
+
+---
+
+**Afgørelse af 4. oktober 2004:** Det var i strid med § 9, stk. 2, i bkg 2004 1046 kun at oplyse om medarbejdernes provision m.v. på den finansielle virksomheds hjemmeside, idet virksomheden ikke hermed sikrede, at alle kunder fik den efter bestemmelsen krævede information.  
+
+---
+
+**Afgørelse af 4. april 2006:** Det var i strid med god skik, dels at et realkreditinstitut uden kundernes accept refinansierede et lån til en anden type end oprindelig aftalt, dels at realkreditinstituttet tilsidesatte den aftalte pligt til at forestå refinansiering til samme låntype.  
+
+---
+
+**Afgørelse af 15. september 2008:** Vilkår i almindelige forretningsbetingelser, hvorefter gebyrsatser kan ændres, såfremt markedsmæssige forhold tilsiger det, ikke i overensstemmelse med § 6, stk. 3, i god skik-bekendtgørelsen. Det følger heraf, at vilkår om ændringer skal indeholde en angivelse af de forhold, der kan udløse en ændring og ikke må give den finansielle virksomhed en vilkårlig adgang til at foretage ændringer.  
+
+---
+
+**Afgørelse af 9. oktober 2008:** I strid med god skik at rette uanmodet henvendelse til aktionærer.  
+
+---
+
+**Afgørelse af 26. februar 2009:** Medlemmer af pensionskasse ikke oplyst på redelig og loyal måde når informationsmateriale om overgang til ny pensionsordning ikke oplyser om, at forudsætningen for at give en tillægspension på 4,25 pct. beror på, at egenkapitalen kan give disse udlodninger, og at fremtidige bestyrelser beslutter at gøre dette.  
+
+---
+
+**Afgørelse af 29. november 2010:** Der var ikke tilstrækkeligt grundlag for at fastslå, at en pensionskasse havde handlet i strid med § 3 i god skik-bekendtgørelsen ved at afskaffe ydelsesgarantien ved en aftale med aftaleparterne i stedet for at give den enkelte kunde mulighed for at træffe dette valg som led i et omvalg. Samme i afgørelse den 23. august 2011. 
+
+---
+
+**Afgørelse af 19. maj 2011:** I strid med god skik at kræve samtykke fra kunden til at modtage markedsføringsmateriale som betingelse for at indgå en aftale - her fuld adgang til sit pensionsprodukt.  
+
+---
+
+**Afgørelse af 21. maj 2013:** I strid med § 3 i bkg 2012 1406 om god skik at udsende breve med anbefalinger, som modtageren kan opfatte som værende baseret på en konkret individuel vurdering af dennes forhold, hvis der reelt er tale om standardbreve.  
+
+---
+
+**Afgørelse af 22. maj 2013:** I strid med § 3 i den dagældende god skik-bekendtgørelse, at pensionsforsikringsselskab i et brev, hvori kunderne blev opfordret til at flytte til et andet pensionsforsikringsselskab, ikke angav, at flytningen ville betyde en overgang fra et garanteret gennemsnitsrentemiljø til et ugaranteret markedsrentemiljø.  
+
+---
+
+**Afgørelse af 19. august 2013:** I strid med § 43 og § 3 i bkg 2013 928 om god skik at anvende bindinger i forbindelse med tilbud om omvalg fra pensionsordninger med rentegarantier til markedsrenteprodukter. Afgørelsen har været forelagt Det Finansielle Råd.  
+
+---
+
+**Afgørelse af 16. september 2013:** I strid med § 3 i bkg 2013 928 om god skik at afkræve kunderne deres vurdering af, om den rådgivning, som vedkommende havde modtaget, havde været tilstrækkelig. I den konkrete sag indeholdt en sparekasses kvittering for tegning af garantkapital, som kunden underskrev, en standarderklæring, hvor kunden bekræftede at være rådgivet om de karakteristika, der knyttede sig til garantbeviser, og om de risici der var forbundet med placering af midler i garantkapital.  
+
+---
+
+**Finanstilsynets bestyrelses afgørelse af 19. maj 2015:** Finanstilsynet fandt ikke, at pensionskasse i forbindelse med fusion med en anden pensionskasse ville handle i strid med § 3 i den dagældende bekendtgørelse om god skik for finansielle virksomheder (bkg 2015 1094), hvis pensionskassen på en generalforsamling besluttede, at pensionskassens gennemsnitsrentekunder med betingede garantier uden individuelt omvalg ved en fusion overgik til et markedsrenteprodukt, idet Finanstilsynet vurderede, at beslutningen var sagligt begrundet ud fra hensynet til medlemmerne og ikke er til ugunst for nogen medlemsgrupper.  
+
+---
+
+**Afgørelse af 27. juni 2016:** Efter modtagelse af en række klager fra forbrugere over en bidragsforhøjelse gennemgik Finanstilsynet instituttets aftalegrundlag og fandt, at vilkårene heri for ændring af bidrag, gebyrer og andet vederlag ikke indeholdt vilkårlig ændringsadgang, jf. § 7, stk. 3, i god skik-bekendtgørelsen. Finanstilsynet fandt endvidere, at beskrivelsen af muligheden for at ændre bidraget i selve låneaftalen opfyldte kravet om, at vilkår om ændringer af bl.a. bidrag skal være klart fremhævet i låneaftalen, jf. § 7, stk. 3. For så vidt angik spørgsmålet om begrundelseskravet i § 7, stk. 4, tog Finanstilsynet instituttets redegørelser til efterretning og fandt ikke anledning til at foretage sig yderligere i anledning af bidragsforhøjelsen.  
+
+---
+
+**Afgørelse af 17. oktober 2016:** Påbud til pensionskasse om i medfør af § 29 i bekendtgørelse om god skik for finansielle virksomheder at tilrette selskabets informations- og markedsføringsmateriale om KundeKapital, så materialet giver en afbalanceret beskrivelse af fordele og ulemper ved KundeKapital, og ikke er egnet til at vildlede og påvirke kundernes adfærd på markedet i strid med bestemmelsen i bekendtgørelse om god skik for finansielle virksomheder § 4, stk. 1. 
+
+---
+
+**Afgørelse af 28. maj 2018:** Påbud til pensionskasse om 1) at efterleve §§ 3 og 4 i bekendtgørelse om god skik for finansielle virksomheder ved at tilrette sit medlemsmateriale, herunder prognoser, pensionsoversigter, hjemmeside, årsoversigter mv., så det tydeligt fremgår, at pensionskassen har en strategi om, at udbetalingsprofilerne i de enkelte investeringsprofiler skal være faldende eller stigende, herunder så det gøres klart for medlemmerne, hvad en faldende pensionsydelse konkret betyder, 2) at tilrette sit medlemsmateriale specifikt om invalideydelserne, således at både raske og invalidepensionister får oplyst, at invalideydelsen ændrer sig, når levetidsforudsætninger og forudsætningerne for beregningsrente ændres, og således at det fremgår, at invalideydelserne har samme risici for negativt afkast og ændrede levetidsforudsætninger som alderspensionerne, og at der dermed er risiko for, at ydelserne kan falde. 
+
+---
+
+**Afgørelse af 29. maj 2018:** Påtale til pensionskasse i forbindelse med information om lån i de individuelle særlige bonushensættelser (K-faktoren) i strid med § 3 og § 4 i bekendtgørelse om god skik for finansielle virksomheder.  
+
+---
+
+
+## <font color="red">Særlige god skik regler for forsikringsselskaber<sup> Premium </font></sup>
+
+
+
+![](img/fors.jpg)
+
+
+### <font color="red">Oplysningsforpligtelser for et forsikringsselskab<sup> Premium </font></sup>
+
+
+
+Af kapitel 6 i Bekendtgørelse nr. 455 af 30/04/2018 om god skik for forsikringsdistributører (benævnt; forsikringsbekendtgørelsen) fremgår følgende oplysningsforpligtelser for et forsikringsselskab (også benævnt; ”forsikringsdistributør”) 
+
+---
+
+![](img/finans11.png)
+
+Efter § 12 i forsikringsbekendtgørelsen, skal et forsikringsselskab skal i forbindelse med markedsføring til forbrugere af en forsikringsaftale tegnet i et skadesforsikringsselskab oplyse om:  
+
+1) selskabets hjemland, og
+
+2) om selskabet er omfattet af en garantiordning, der dækker kundens krav i tilfælde af selskabets konkurs, og navnet på denne garantiordning.
+
+---
+
+Efter forsikringsbekendtgørelsens § 12, stk. 2, skal et forsikringsselskabet på sin hjemmeside på dansk oplyse,
+
+1) om en skadesforsikringsaftale til forbrugere, tegnet i et skadesforsikringsselskab, er omfattet af en garantiordning og indholdet af denne garantiordning, jf. stk. 1, nr. 2, og
+
+2) forsikringsselskabets navn og adresse.
+
+---
+
+Efter forsikringsbekendtgørelsens § 13, skal en forsikringsformidlere og accessoriske forsikringsformidlere i forbindelse med markedsføring til forbrugere af en skadesforsikringsaftale tegnet i et skadesforsikringsselskab oplyse,
+
+1) i hvilket forsikringsselskab forsikringen tegnes,
+
+2) forsikringsselskabets hjemland, og
+
+3) om forsikringsselskabet er omfattet af en garantiordning, der dækker kundens krav i tilfælde af forsikringsselskabets konkurs, og navnet på denne garantiordning.
+
+---
+
+Forsikringsformidlere og accessoriske forsikringsformidlere skal på deres hjemmeside på dansk oplyse:
+
+1) om en skadesforsikringsaftale til forbrugere tegnet i et skadesforsikringsselskab er omfattet af en garantiordning, og indholdet af denne garantiordning, og
+
+2) forsikringsselskabets navn og adresse.
+
+---
+
+Efter forsikringsbekendtgørelsens § 14, skal en forsikringsformidler i god tid inden indgåelse af en forsikringsaftale give kunden følgende oplysninger:
+
+1) Forsikringsformidlerens navn og adresse, samt oplysning om, at den pågældende er forsikringsformidler.
+
+2) Om forsikringsformidleren yder rådgivning om de solgte forsikringsprodukter.
+
+3) Oplysning om, hvordan kunden kan klage over forsikringsformidleren.
+
+4) Hvilket register forsikringsformidleren er optaget i, og angivelse af, hvordan det kan kontrolleres, at forsikringsformidleren er registreret.
+
+5) Om forsikringsformidleren repræsenterer kunden eller handler på vegne af et forsikringsselskab.
+
+6) Om forsikringsformidleren har en direkte eller indirekte andel på 10 pct. eller mere af stemmerettighederne eller kapitalen i et bestemt forsikringsselskab.
+
+7) Om et bestemt forsikringsselskab eller moderselskabet til et bestemt forsikringsselskab har en direkte eller indirekte andel på 10 pct. eller mere af stemmerettighederne eller kapitalen i en forsikringsformidler.
+
+8) Om forsikringsformidleren i forbindelse med den aftale, der foreslås eller rådgives om,
+
+a) yder rådgivning på basis af en objektiv og personlig analyse,
+
+b) har en kontraktretlig forpligtelse til udelukkende at benytte et eller flere forsikringsselskaber, og i givet fald meddele kunden navnene på disse forsikringsselskaber, eller
+
+c) ikke har en kontraktretlig forpligtelse til udelukkende at benytte et eller flere forsikringsselskaber til sin forsikringsdistributionsvirksomhed og ikke yder rådgivning på basis af en objektiv og personlig analyse; i så fald skal forsikringsformidleren meddele navnene på de forsikringsselskaber, som forsikringsformidleren kan benytte og faktisk benytter.
+
+9) Hvilken form for aflønning, der modtages i forbindelse med forsikringsaftalen.
+
+10) Om forsikringsformidleren i forhold til forsikringsaftalen arbejder på basis af
+
+a) et honorar, som er den aflønning, kunden betaler direkte,
+
+b) en form for provision, som er den aflønning, der indgår i forsikringspræmien,
+
+c) enhver anden form for aflønning, herunder en form for økonomisk fordel, som tilbydes eller gives i forbindelse med forsikringsaftalen, eller
+
+d) en kombination af enhver form for aflønning i a, b eller c.
+
+11) Om navn og adresse på det forsikringsselskab, hvori forsikringen tegnes.
+
+12) Om hvorvidt skadesforsikringsselskabet, når der er tale om en skadesforsikringsaftale til forbrugere, er omfattet af en garantiordning, der dækker kundens krav i tilfælde af selskabets konkurs, og navnet på denne garantiordning.
+
+Skal kunden betale honoraret direkte, oplyser forsikringsformidlere kunden om honorarets størrelse eller, hvis dette ikke er muligt, metoden til beregning af honoraret.
+
+---
+
+Efter forsikringsbekendtgørelsens § 15, skal et forsikringsselskab i god tid inden indgåelse af en forsikringsaftale give kunden følgende oplysninger:
+
+1) Forsikringsselskabets navn og adresse.
+
+2) Det er et forsikringsselskab.
+
+3) Om forsikringsselskabet yder rådgivning om de solgte forsikringsprodukter.
+
+4) Hvordan kunden kan klage over forsikringsselskabet.
+
+5) Den lovgivning, der skal finde anvendelse på aftalen, hvis det er aftalt, at der skal anvendes anden lovgivning end dansk.
+
+6) Hvilken form for aflønning dets ansatte modtager i forbindelse med forsikringsaftalen.
+
+---
+
+Uanset om der ydes rådgivning, og uanset om forsikringsproduktet er en del af en pakke, jf. forsikringsbekendtgørelsens § 23, skal forsikringsdistributøren inden aftalens indgåelse give kunden de relevante oplysninger om forsikringsproduktet i en form, som er forståelig og tilpasset forsikringsproduktets kompleksitet og den enkelte kundetype, så kunden kan træffe en informeret beslutning, jf. forsikringsbekendtgørelsens § 16, stk. 1. 
+
+---
+
+![](img/finans13.jpg)
+
+Efter forsikringsbekendtgørelsens § 16, stk. 2, skal dokumentet med oplysninger om forsikringsproduktet opfylde følgende:  
+
+1) Være et kort og selvstændigt dokument.
+
+2) Udformes og opstilles således, at det er klart og let læseligt, med brug af en læsevenlig skriftstørrelse.
+
+3) Være lige så forståeligt, hvis det oprindeligt er affattet i farver, men udskrives eller fotokopieres i sort-hvid.
+
+4) Affattes på de officielle sprog eller på et af de officielle sprog, der anvendes i den del af medlemslandet, hvor forsikringsproduktet tilbydes, eller på et andet sprog, hvis forbrugeren og distributøren enes herom.
+
+5) Være nøjagtigt og ikke vildledende.
+
+6) Indeholde titlen »dokument med oplysninger om forsikringsproduktet« øverst på første side.
+
+7) Indeholde en meddelelse om, at fuldstændige prækontraktlige og kontraktlige oplysninger om produktet findes i andre dokumenter.  
+
+---
+
+![](img/finans14.jpg)
+
+Dokumentet med oplysninger om forsikringsproduktet skal indeholde følgende oplysninger:  
+
+1) Oplysninger om formen for forsikring.
+
+2) En sammenfatning af forsikringsdækningen, herunder de vigtigste forsikrede risici, den forsikrede sum og, hvor det er relevant, det geografiske anvendelsesområde og en sammenfatning af de ikke-medtagne risici.
+
+3) Betingelser for indbetaling af præmier, herunder over hvor lang tid indbetalingerne skal ske.
+
+4) De vigtigste undtagelser, hvor der ikke kan indgives skadesanmeldelser.
+
+5) Forpligtelser ved aftalens begyndelse.
+
+6) Forpligtelser i løbet af aftalens varighed.
+
+7) Forpligtelser i tilfælde af, at der indgives en skadesanmeldelse.
+
+8) Aftalens varighed herunder datoerne for aftalens begyndelse og udløb.
+
+9) Betingelserne for opsigelse af aftalen.
+
+---
+
+### <font color="red">Regler om indgåelse og fornyelse af forsikringsaftaler<sup> Premium </font></sup>
+
+
+
+![](img/finans15.jpg)
+
+Kapitel 7 i forsikringsbekendtgørelsen indeholder regler om indgåelse og fornyelse af forsikringsaftaler:  
+
+Efter forsikringsbekendtgørelsens § 18, skal en forsikringsdistributør indgå eller bekræfte alle væsentlige aftaler med forbrugere på papir eller på andet varigt medium. 
+
+En aftale skal indeholde en beskrivelse af parternes væsentlige rettigheder og pligter samt af de finansielle ydelser, der er omfattet af aftalen. 
+
+Er der i forbindelse med aftalens indgåelse ydet rådgivning, skal væsentlige forudsætninger for rådgivningen nedfældes i aftalen eller fremgå af bilag til aftalen enten på papir eller på andet varigt medium.  
+
+Vilkår, der indgår i aftalen, kan fremgå ved en henvisning til separate dokumenter, herunder forsikringsdistributørens almindelige forretningsbetingelser. 
+
+---
+
+Efter forsikringsbekendtgørelsens § 19, skal et forsikringsselskab senest 30 dage inden forsikringsperiodens udløb varsle enhver væsentlig ændring af forsikringsaftalen, der er til ugunst for forbrugeren. 
+
+Varslet skal meddeles på papir eller på andet varigt medium.  
+
+Varslet skal indeholde oplysning om de væsentligste karakteristika ved ændringen samt angive, hvordan forbrugeren kan opsige forsikringen.  
+
+En ændring, der sker i henhold til anden lovgivning eller er i overensstemmelse med vilkår om ændring, der klart fremgår af forsikringsaftalen, skal ikke varsles.
+
+---
+
+
+### <font color="red">Regulering af kundens krav og behov<sup> Premium </font></sup>
+
+
+
+Kapitel 8 i forsikringsbekendtgørelsen regulerer kundens krav og behov:  
+Efter forsikringsbekendtgørelsens § 20: 
+
+Inden en forsikringsaftale indgås, skal forsikringsdistributøren på baggrund af oplysninger fra kunden, fastlægge kundens krav og behov. 
+
+Forsikringsdistributøren skal give kunden objektive oplysninger om forsikringsproduktet på en forståelig måde, så kunden kan træffe en informeret beslutning.  
+
+Alle forsikringsaftaler, der foreslås kunden, skal være i overensstemmelse med kundens forsikringskrav og -behov.  
+
+---
+
+Når en forsikringsdistributør yder rådgivning, inden en forsikringsaftale indgås, skal forsikringsdistributøren give en individuel anbefaling, der forklarer, hvorfor et bestemt produkt bedst opfylder kundens forsikringskrav og –behov, jf. forsikringsbekendtgørelsens § 21. 
+
+---
+
+### <font color="red">Regler i det løbende aftaleforhold<sup> Premium </font></sup>
+
+
+Kapitel 10 i forsikringsbekendtgørelsen fastsætter regler i det løbende aftaleforhold:  
+
+Et skadesforsikringsselskab skal årligt oplyse forbrugeren om de skadesforsikringer, som forbrugeren har hos selskabet. 
+
+---
+
+Selskabet skal i oversigten på tydelig måde gøre opmærksom på, at der kan være behov for ændringer, jf. forsikringsbekendtgørelsens § 24.  
+
+---
+
+Anmeldes en skade på papir eller på andet varigt medium, skal forsikringsselskabet, hvis der gives helt eller delvis afslag på forsikringsdækning, meddele dette på papir eller på andet varigt medium, medmindre det klart fremgår af omstændighederne, at afslag kan meddeles på anden måde, jf. forsikringsbekendtgørelsens § 25.  
+
+Anmeldes en skade på anden måde, har anmelderen efter anmodning krav på afslag i papirformat eller på andet varigt medium. Forbrugeren skal informeres om denne adgang.  
+
+---
+
+### <font color="red">Krav til uafhængige forsikringsformidlere<sup> Premium </font></sup>
+
+
+
+![](img/finans16.jpg)
+
+Kapitel 11 i forsikringsbekendtgørelsen fastsætter supplerende krav til uafhængige forsikringsformidlere.  
+
+Når en uafhængig forsikringsformidler, jf. § 16 i lov om forsikringsformidling^[Lov nr. 41 af 22. januar 2018 om forsikringsformidling.],  indhenter tilbud på forsikringsaftaler for kunden hos en eller flere forsikringsdistributører (forsikringsselskaber), skal den uafhængige forsikringsformidler samtidig give de informationer til forsikringsdistributøren, der er nødvendige for, at forsikringsdistributøren kan fastsætte prisen på forsikringen, jf. forsikringsbekendtgørelsens § 26.  
+
+---
+
+I pensionsordninger omfattet af pensionsbeskatningslovens afsnit I skal den uafhængige forsikringsformidler i forbindelse med indhentelse af tilbud oplyse forsikringsdistributøren om størrelsen af det honorar, der er aftalt mellem kunden og den uafhængige forsikringsformidler. 
+
+Den uafhængige forsikringsformidler skal samtidig oplyse forsikringsdistributøren om længden af den periode, hvori kunden og den uafhængige forsikringsformidler har aftalt, at honoraret skal indregnes i forsikringspræmien. 
+
+Perioden må ikke overstige tre år. Forsikringsdistributøren skal indregne dette honorar i forsikringspræmien og betale honoraret til den uafhængige forsikringsformidler, jf. forsikringsbekendtgørelsens § 27.   
+
+---
+
+### <font color="red">Forsikringsformidlerens aftalevilkår for samarbejdet med kunden<sup> Premium </font></sup>
+
+
+
+![](img/finans18.jpg)
+
+Om samarbejdsaftale og fuldmagt, jf. forsikringsbekendtgørelsens §§ 29 og 30:  
+
+Inden en konkret forsikringsaftale indgås, skal en uafhængig forsikringsformidler aftalevilkår for samarbejdet med kunden på papir eller andet varigt medium.  
+
+Vilkårene skal som minimum indeholde oplysning om,  
+
+1) hvilke ydelser den uafhængige forsikringsformidler skal levere,
+
+2) størrelsen af det beløb, som kunden eller ejere af en forsikringsordning hos kunden skal betale for den uafhængige forsikringsformidlers ydelser,
+
+3) aftalens løbetid, herunder frist for parternes opsigelse, og
+
+4) i hvilket omfang den uafhængige forsikringsformidlers ansvarsforsikring ikke dækker de aftalte ydelser.
+
+---
+
+Opsiger den uafhængige forsikringsformidler samarbejdet med en kunde, skal opsigelsen ske på papir eller andet varigt medium. 
+
+Den uafhængige forsikringsformidler skal samtidig underrette kunden om eventuelle konsekvenser af opsigelsen.  
+
+I det omfang en uafhængig forsikringsformidler har modtaget fuldmagt fra kunden, skal fuldmagten udfærdiges på papir eller andet varigt medium. Fuldmagten skal gennemgås med kunden.  
+
+---
+
+Fuldmagten skal som minimum indeholde oplysning om,  
+
+1) hvilke forsikringstyper fuldmagten omfatter,
+
+2) i hvilket omfang den uafhængige forsikringsformidler er bemyndiget til at handle på kundens vegne, herunder om den uafhængige forsikringsformidler kan opsige eksisterende forsikringsaftaler,
+
+3) at oplysninger afgivet af den uafhængige forsikringsformidler sidestilles med oplysninger afgivet af kunden selv, og
+
+4) at fuldmagten til enhver tid af kunden kan tilbagekaldes på samme måde, som den er indgået, og at fuldmagten ophører senest samtidig med samarbejdsaftalens ophør.
+
+Fuldmagten kan, på samme måde som den er indgået, til enhver tid tilbagekaldes af kunden og ophører senest samtidig med samarbejdsaftalens ophør.  
+
+Kapitel 12 indeholder supplerende regler for distribution af forsikringsbaserede investeringsprodukter.
+
+---
+

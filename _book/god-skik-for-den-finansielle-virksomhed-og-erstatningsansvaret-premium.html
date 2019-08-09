@@ -47,7 +47,24 @@
 
 
 
+<script src="libs/htmlwidgets-1.3/htmlwidgets.js"></script>
+<script src="libs/tippyjs-2.5.2/tippy.all.min.js"></script>
+<script src="libs/tippy-binding-0.0.1/tippy.js"></script>
+<link href="libs/vis-4.20.1/vis.css" rel="stylesheet" />
+<script src="libs/vis-4.20.1/vis.min.js"></script>
+<script src="libs/visNetwork-binding-2.0.7/visNetwork.js"></script>
 <script src="libs/kePrint-0.0.1/kePrint.js"></script>
+<link href="libs/timeline-0.4/timevis.css" rel="stylesheet" />
+<script src="libs/timevis-binding-0.5/timevis.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="libs/Moment.js-2.13.0/moment-with-locales.min.js"></script>
+<script src="libs/Chart.js-2.1.0/Chart.min.js"></script>
+<link href="libs/chartjs-0.3.3/chartjs.css" rel="stylesheet" />
+<script src="libs/chartjs-binding-0.3.3.9000/chartjs.js"></script>
 
 
 
@@ -143,25 +160,40 @@
 <li class="chapter" data-level="3.3" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#eu-domstolen-og-dig-premium"><i class="fa fa-check"></i><b>3.3</b> <font color="red">EU-Domstolen og dig<sup> Premium </font></sup></a></li>
 <li class="chapter" data-level="3.4" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#sammenstning-premium-1"><i class="fa fa-check"></i><b>3.4</b> <font color="red">Sammensætning<sup> Premium </font></sup></a></li>
 <li class="chapter" data-level="3.5" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#de-forskellige-sagstyper-premium"><i class="fa fa-check"></i><b>3.5</b> <font color="red">De forskellige sagstyper<sup> Premium </font></sup></a><ul>
-<li class="chapter" data-level="3.5.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#annullationssgsmal-premium"><i class="fa fa-check"></i><b>3.5.1</b> <font color="red">Annullationssøgsmål<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.5.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#prjudicielle-forelggelser-premium"><i class="fa fa-check"></i><b>3.5.1</b> <font color="red">Præjudicielle forelæggelser<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.5.2" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#traktatbrudssgsmal-premium"><i class="fa fa-check"></i><b>3.5.2</b> <font color="red">Traktatbrudssøgsmål<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.5.3" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#annullationssgsmal-premium"><i class="fa fa-check"></i><b>3.5.3</b> <font color="red">Annullationssøgsmål<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.5.4" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#passivitetssgsmal-premium"><i class="fa fa-check"></i><b>3.5.4</b> <font color="red">Passivitetssøgsmål<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.5.5" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#appelsager-premium"><i class="fa fa-check"></i><b>3.5.5</b> <font color="red">Appelsager<sup> Premium </font></sup></a></li>
 </ul></li>
 <li class="chapter" data-level="3.6" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#sagsbehandling-premium"><i class="fa fa-check"></i><b>3.6</b> <font color="red">Sagsbehandling<sup> Premium </font></sup></a><ul>
 <li class="chapter" data-level="3.6.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#sagens-anlg-og-den-skriftlige-forhandling-premium"><i class="fa fa-check"></i><b>3.6.1</b> <font color="red">Sagens anlæg og den skriftlige forhandling<sup> Premium </font></sup></a></li>
 </ul></li>
-<li class="chapter" data-level="3.7" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#sagens-oplysning-premium"><i class="fa fa-check"></i><b>3.7</b> <font color="red">Sagens oplysning<sup> Premium </font></sup></a><ul>
-<li class="chapter" data-level="3.7.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#offentligt-retsmde-og-generaladvokatens-forslag-til-afgrelse-premium"><i class="fa fa-check"></i><b>3.7.1</b> <font color="red">Offentligt retsmøde og generaladvokatens forslag til afgørelse<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.7" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#prjudicielle-forelggelser-premium-1"><i class="fa fa-check"></i><b>3.7</b> <font color="red">Præjudicielle forelæggelser<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.8" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#direkte-sgsmal-og-appelsager-premium"><i class="fa fa-check"></i><b>3.8</b> <font color="red">Direkte søgsmål og appelsager<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.9" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#sagens-oplysning-premium"><i class="fa fa-check"></i><b>3.9</b> <font color="red">Sagens oplysning<sup> Premium </font></sup></a><ul>
+<li class="chapter" data-level="3.9.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#offentligt-retsmde-og-generaladvokatens-forslag-til-afgrelse-premium"><i class="fa fa-check"></i><b>3.9.1</b> <font color="red">Offentligt retsmøde og generaladvokatens forslag til afgørelse<sup> Premium </font></sup></a></li>
 </ul></li>
-<li class="chapter" data-level="3.8" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#dommene-premium"><i class="fa fa-check"></i><b>3.8</b> <font color="red">Dommene<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="3.9" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#srlige-rettergangsformer-premium"><i class="fa fa-check"></i><b>3.9</b> <font color="red">Særlige rettergangsformer<sup> Premium </font></sup></a><ul>
-<li class="chapter" data-level="3.9.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#sagsomkostninger-premium"><i class="fa fa-check"></i><b>3.9.1</b> <font color="red">Sagsomkostninger<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="3.9.2" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#sprogordning-premium"><i class="fa fa-check"></i><b>3.9.2</b> <font color="red">Sprogordning<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.10" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#dommene-premium"><i class="fa fa-check"></i><b>3.10</b> <font color="red">Dommene<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.11" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#srlige-rettergangsformer-premium"><i class="fa fa-check"></i><b>3.11</b> <font color="red">Særlige rettergangsformer<sup> Premium </font></sup></a><ul>
+<li class="chapter" data-level="3.11.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#den-forenklede-procedure-premium"><i class="fa fa-check"></i><b>3.11.1</b> <font color="red">Den forenklede procedure<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.11.2" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#den-fremskyndede-procedure-premium"><i class="fa fa-check"></i><b>3.11.2</b> <font color="red">Den fremskyndede procedure<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.11.3" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#den-prjudicielle-hasteprocedure-ppu-premium"><i class="fa fa-check"></i><b>3.11.3</b> <font color="red">Den præjudicielle hasteprocedure (PPU)<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.11.4" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#begring-om-forelbige-forholdsregler-premium"><i class="fa fa-check"></i><b>3.11.4</b> <font color="red">Begæring om foreløbige forholdsregler<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.11.5" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#sagsomkostninger-premium"><i class="fa fa-check"></i><b>3.11.5</b> <font color="red">Sagsomkostninger<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.11.6" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#sprogordning-premium"><i class="fa fa-check"></i><b>3.11.6</b> <font color="red">Sprogordning<sup> Premium </font></sup></a></li>
 </ul></li>
-<li class="chapter" data-level="3.10" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#oversigt-over-rettergangsmaden-premium"><i class="fa fa-check"></i><b>3.10</b> <font color="red">Oversigt over rettergangsmåden<sup> Premium </font></sup></a><ul>
-<li class="chapter" data-level="3.10.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#domstolen-i-den-europiske-unions-retsorden-premium"><i class="fa fa-check"></i><b>3.10.1</b> <font color="red">Domstolen i Den Europæiske Unions retsorden<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.12" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#oversigt-over-rettergangsmaden-premium"><i class="fa fa-check"></i><b>3.12</b> <font color="red">Oversigt over rettergangsmåden<sup> Premium </font></sup></a><ul>
+<li class="chapter" data-level="3.12.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#domstolen-i-den-europiske-unions-retsorden-premium"><i class="fa fa-check"></i><b>3.12.1</b> <font color="red">Domstolen i Den Europæiske Unions retsorden<sup> Premium </font></sup></a></li>
 </ul></li>
-<li class="chapter" data-level="3.11" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#grundstninger-fastslaet-i-retspraksis-premium"><i class="fa fa-check"></i><b>3.11</b> <font color="red">Grundsætninger fastslået i retspraksis<sup> Premium </font></sup></a><ul>
-<li class="chapter" data-level="3.11.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#domstolens-rolle-i-unionsborgerens-liv-premium"><i class="fa fa-check"></i><b>3.11.1</b> <font color="red">Domstolens rolle i unionsborgerens liv<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="3.11.2" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#unionsborgerskab-premium"><i class="fa fa-check"></i><b>3.11.2</b> <font color="red">Unionsborgerskab<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.13" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#grundstninger-fastslaet-i-retspraksis-premium"><i class="fa fa-check"></i><b>3.13</b> <font color="red">Grundsætninger fastslået i retspraksis<sup> Premium </font></sup></a><ul>
+<li class="chapter" data-level="3.13.1" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#domstolens-rolle-i-unionsborgerens-liv-premium"><i class="fa fa-check"></i><b>3.13.1</b> <font color="red">Domstolens rolle i unionsborgerens liv<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.13.2" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#frie-varebevgelser-premium"><i class="fa fa-check"></i><b>3.13.2</b> <font color="red">Frie varebevægelser<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.13.3" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#fri-bevgelighed-for-personer-premium"><i class="fa fa-check"></i><b>3.13.3</b> <font color="red">Fri bevægelighed for personer<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.13.4" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#fri-udveksling-af-tjenesteydelser-premium"><i class="fa fa-check"></i><b>3.13.4</b> <font color="red">Fri udveksling af tjenesteydelser<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.13.5" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#ligebehandling-og-sociale-rettigheder-premium"><i class="fa fa-check"></i><b>3.13.5</b> <font color="red">Ligebehandling og sociale rettigheder<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.13.6" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#grundlggende-rettigheder-premium"><i class="fa fa-check"></i><b>3.13.6</b> <font color="red">Grundlæggende rettigheder<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="3.13.7" data-path="eu-domstolen-premium.html"><a href="eu-domstolen-premium.html#unionsborgerskab-premium"><i class="fa fa-check"></i><b>3.13.7</b> <font color="red">Unionsborgerskab<sup> Premium </font></sup></a></li>
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="4" data-path="aftaleret.html"><a href="aftaleret.html"><i class="fa fa-check"></i><b>4</b> Aftaleret</a><ul>
@@ -439,11 +471,12 @@
 <li class="chapter" data-level="13.5.6" data-path="insolvensret.html"><a href="insolvensret.html#konkursmassen"><i class="fa fa-check"></i><b>13.5.6</b> Konkursmassen</a></li>
 <li class="chapter" data-level="13.5.7" data-path="insolvensret.html"><a href="insolvensret.html#konkursordenen"><i class="fa fa-check"></i><b>13.5.7</b> Konkursordenen</a></li>
 <li class="chapter" data-level="13.5.8" data-path="insolvensret.html"><a href="insolvensret.html#udlodning-af-dividende"><i class="fa fa-check"></i><b>13.5.8</b> Udlodning af dividende</a></li>
-<li class="chapter" data-level="13.5.9" data-path="insolvensret.html"><a href="insolvensret.html#hvad-er-en-konkurskarantne"><i class="fa fa-check"></i><b>13.5.9</b> Hvad er en konkurskarantæne?</a></li>
-<li class="chapter" data-level="13.5.10" data-path="insolvensret.html"><a href="insolvensret.html#overtrdelse-af-konkurskarantne"><i class="fa fa-check"></i><b>13.5.10</b> Overtrædelse af konkurskarantæne</a></li>
-<li class="chapter" data-level="13.5.11" data-path="insolvensret.html"><a href="insolvensret.html#konkurskarantneregistret"><i class="fa fa-check"></i><b>13.5.11</b> Konkurskarantæneregistret</a></li>
-<li class="chapter" data-level="13.5.12" data-path="insolvensret.html"><a href="insolvensret.html#omstdelse"><i class="fa fa-check"></i><b>13.5.12</b> Omstødelse</a></li>
-<li class="chapter" data-level="13.5.13" data-path="insolvensret.html"><a href="insolvensret.html#eksamensopgavest-i-konkurs-og-virksomhedsformer-mv."><i class="fa fa-check"></i><b>13.5.13</b> Eksamensopgavesæt i konkurs og virksomhedsformer mv.</a></li>
+<li class="chapter" data-level="13.5.9" data-path="insolvensret.html"><a href="insolvensret.html#konkurskarantne"><i class="fa fa-check"></i><b>13.5.9</b> Konkurskarantæne</a></li>
+<li class="chapter" data-level="13.5.10" data-path="insolvensret.html"><a href="insolvensret.html#hvad-er-en-konkurskarantne"><i class="fa fa-check"></i><b>13.5.10</b> Hvad er en konkurskarantæne?</a></li>
+<li class="chapter" data-level="13.5.11" data-path="insolvensret.html"><a href="insolvensret.html#overtrdelse-af-konkurskarantne"><i class="fa fa-check"></i><b>13.5.11</b> Overtrædelse af konkurskarantæne</a></li>
+<li class="chapter" data-level="13.5.12" data-path="insolvensret.html"><a href="insolvensret.html#konkurskarantneregistret"><i class="fa fa-check"></i><b>13.5.12</b> Konkurskarantæneregistret</a></li>
+<li class="chapter" data-level="13.5.13" data-path="insolvensret.html"><a href="insolvensret.html#omstdelse"><i class="fa fa-check"></i><b>13.5.13</b> Omstødelse</a></li>
+<li class="chapter" data-level="13.5.14" data-path="insolvensret.html"><a href="insolvensret.html#eksamensopgavest-i-konkurs-og-virksomhedsformer-mv."><i class="fa fa-check"></i><b>13.5.14</b> Eksamensopgavesæt i konkurs og virksomhedsformer mv.</a></li>
 </ul></li>
 <li class="chapter" data-level="13.6" data-path="insolvensret.html"><a href="insolvensret.html#rekonstruktion"><i class="fa fa-check"></i><b>13.6</b> Rekonstruktion</a><ul>
 <li class="chapter" data-level="13.6.1" data-path="insolvensret.html"><a href="insolvensret.html#hvad-er-en-rekonstruktion"><i class="fa fa-check"></i><b>13.6.1</b> Hvad er en rekonstruktion?</a></li>
@@ -674,42 +707,6 @@
 <li class="chapter" data-level="22.4.4" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#regler-i-det-lbende-aftaleforhold-premium"><i class="fa fa-check"></i><b>22.4.4</b> <font color="red">Regler i det løbende aftaleforhold<sup> Premium </font></sup></a></li>
 <li class="chapter" data-level="22.4.5" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#krav-til-uafhngige-forsikringsformidlere-premium"><i class="fa fa-check"></i><b>22.4.5</b> <font color="red">Krav til uafhængige forsikringsformidlere<sup> Premium </font></sup></a></li>
 <li class="chapter" data-level="22.4.6" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#forsikringsformidlerens-aftalevilkar-for-samarbejdet-med-kunden-premium"><i class="fa fa-check"></i><b>22.4.6</b> <font color="red">Forsikringsformidlerens aftalevilkår for samarbejdet med kunden<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="22.4.7" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#forebyggelse-af-interessekonflikter-premium"><i class="fa fa-check"></i><b>22.4.7</b> <font color="red">Forebyggelse af interessekonflikter<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="22.4.8" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#oplysningskrav-ved-distribution-af-forsikringsbaserede-investeringsprodukter-premium"><i class="fa fa-check"></i><b>22.4.8</b> <font color="red">Oplysningskrav ved distribution af forsikringsbaserede investeringsprodukter<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="22.4.9" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#finanstilsynets-fortolkning-af-begrebet-god-skik-i-forhold-til-forsikringsselskaber-premium"><i class="fa fa-check"></i><b>22.4.9</b> <font color="red">Finanstilsynets fortolkning af begrebet god skik i forhold til forsikringsselskaber<sup> Premium </font></sup></a></li>
-</ul></li>
-<li class="chapter" data-level="22.5" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#god-skik-ved-boligkredit-premium"><i class="fa fa-check"></i><b>22.5</b> <font color="red">God skik ved boligkredit<sup> Premium </font></sup></a><ul>
-<li class="chapter" data-level="22.5.1" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#radgivningspligt-ved-boligkredit-premium"><i class="fa fa-check"></i><b>22.5.1</b> <font color="red">Rådgivningspligt ved boligkredit<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="22.5.2" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#vejledningspligt-ved-boligkredit-premium"><i class="fa fa-check"></i><b>22.5.2</b> <font color="red">Vejledningspligt ved boligkredit<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="22.5.3" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#afgrelse-fra-finanstilsynet-om-boligkredit-premium"><i class="fa fa-check"></i><b>22.5.3</b> <font color="red">Afgørelse fra Finanstilsynet om boligkredit<sup> Premium </font></sup></a></li>
-</ul></li>
-<li class="chapter" data-level="22.6" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#investorbeskyttelse-ved-handel-med-vrdipapirer-premium"><i class="fa fa-check"></i><b>22.6</b> <font color="red">Investorbeskyttelse ved handel med værdipapirer<sup> Premium </font></sup></a><ul>
-<li class="chapter" data-level="22.6.1" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#oplysningspligten-for-vrdipapirhandleren"><i class="fa fa-check"></i><b>22.6.1</b> <font color="red">Oplysningspligten for værdipapirhandleren</a></li>
-</ul></li>
-<li class="chapter" data-level="22.7" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#kend-din-kunde-princippet-premium"><i class="fa fa-check"></i><b>22.7</b> <font color="red">”Kend din kunde-princippet”<sup> Premium </font></sup></a><ul>
-<li class="chapter" data-level="22.7.1" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#kundekategorisering-premium"><i class="fa fa-check"></i><b>22.7.1</b> <font color="red">Kundekategorisering<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="22.7.2" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#egnethedstest-og-egnethedserklring-mv.-premium"><i class="fa fa-check"></i><b>22.7.2</b> <font color="red">Egnethedstest og egnethedserklæring mv.<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="22.7.3" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#typer-af-investeringsservice-premium"><i class="fa fa-check"></i><b>22.7.3</b> <font color="red">Typer af investeringsservice<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="22.7.4" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#vrdipapirhandleres-udfrelse-af-ordrer-premium"><i class="fa fa-check"></i><b>22.7.4</b> <font color="red">Værdipapirhandleres udførelse af ordrer<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="22.7.5" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#afgrelser-fra-finanstilsynet-vedrrende-investorbekendtgrelsen-premium"><i class="fa fa-check"></i><b>22.7.5</b> <font color="red">Afgørelser fra Finanstilsynet vedrørende investorbekendtgørelsen<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="22.7.6" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#bekendtgrelse-om-risikomrkning-af-investeringsprodukter-premium"><i class="fa fa-check"></i><b>22.7.6</b> <font color="red">Bekendtgørelse om risikomærkning af investeringsprodukter<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="22.7.7" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#bekendtgrelse-om-kompetencekrav-til-ansatte-der-yder-investeringsradgivning-og-formidler-information-om-visse-investeringsprodukter-premium"><i class="fa fa-check"></i><b>22.7.7</b> <font color="red">Bekendtgørelse om kompetencekrav til ansatte, der yder investeringsrådgivning og formidler information om visse investeringsprodukter<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="22.7.8" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#hvem-der-er-omfattet-af-kompetencekravene-premium"><i class="fa fa-check"></i><b>22.7.8</b> <font color="red">Hvem der er omfattet af kompetencekravene<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="22.7.9" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#kompetencekrav-til-de-ansatte-premium"><i class="fa fa-check"></i><b>22.7.9</b> <font color="red">Kompetencekrav til de ansatte<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="22.7.10" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#dokumentation-premium"><i class="fa fa-check"></i><b>22.7.10</b> <font color="red">Dokumentation<sup> Premium </font></sup></a></li>
-</ul></li>
-<li class="chapter" data-level="22.8" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#erstatningsansvaret-for-fejlagtig-radgivning-premium"><i class="fa fa-check"></i><b>22.8</b> <font color="red">Erstatningsansvaret for fejlagtig rådgivning<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="22.9" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#professionsansvaret-premium"><i class="fa fa-check"></i><b>22.9</b> <font color="red">Professionsansvaret<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="22.10" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#fintech---i-en-compliancemssig-belysning-premium"><i class="fa fa-check"></i><b>22.10</b> <font color="red">Fintech - i en compliancemæssig belysning<sup> Premium </font></sup></a><ul>
-<li class="chapter" data-level="22.10.1" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#de-traditionelle-finansielle-services-premium"><i class="fa fa-check"></i><b>22.10.1</b> <font color="red">De traditionelle finansielle services<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="22.10.2" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#hvad-er-fintech-premium"><i class="fa fa-check"></i><b>22.10.2</b> <font color="red">Hvad er fintech?<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="22.10.3" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#hvorfor-er-fintech-vigtigt-premium"><i class="fa fa-check"></i><b>22.10.3</b> <font color="red">Hvorfor er fintech vigtigt<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="22.10.4" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#lovgivningen-om-fintech-premium"><i class="fa fa-check"></i><b>22.10.4</b> <font color="red">Lovgivningen om fintech<sup> Premium </font></sup></a></li>
-</ul></li>
-<li class="chapter" data-level="22.11" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#god-skik-og-fintech-premium"><i class="fa fa-check"></i><b>22.11</b> <font color="red">God skik og fintech<sup> Premium </font></sup></a><ul>
-<li class="chapter" data-level="22.11.1" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#hvidvask-og-fintech-premium"><i class="fa fa-check"></i><b>22.11.1</b> <font color="red">Hvidvask og fintech<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="22.11.2" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#fintech-i-danmark-i-dag-premium"><i class="fa fa-check"></i><b>22.11.2</b> <font color="red">Fintech i Danmark i dag<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="22.11.3" data-path="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html"><a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#get-fokus-pa-fintech-fra-lovgivers-side-premium"><i class="fa fa-check"></i><b>22.11.3</b> <font color="red">Øget fokus på fintech fra lovgivers side<sup> Premium </font></sup></a></li>
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="23" data-path="familieret.html"><a href="familieret.html"><i class="fa fa-check"></i><b>23</b> Familieret</a><ul>
@@ -729,11 +726,13 @@
 <li class="chapter" data-level="23.4.2" data-path="familieret.html"><a href="familieret.html#beregn-formue"><i class="fa fa-check"></i><b>23.4.2</b> Beregn formue</a></li>
 <li class="chapter" data-level="23.4.3" data-path="familieret.html"><a href="familieret.html#fravigelse-af-ligedelingen"><i class="fa fa-check"></i><b>23.4.3</b> Fravigelse af ligedelingen</a></li>
 <li class="chapter" data-level="23.4.4" data-path="familieret.html"><a href="familieret.html#aktiver-der-ikke-indgar-i-formuedelingen"><i class="fa fa-check"></i><b>23.4.4</b> Aktiver, der ikke indgår i formuedelingen</a></li>
-<li class="chapter" data-level="23.4.5" data-path="familieret.html"><a href="familieret.html#regulering-og-misbrugskrav-efter-loven"><i class="fa fa-check"></i><b>23.4.5</b> Regulering og misbrugskrav efter loven</a></li>
-<li class="chapter" data-level="23.4.6" data-path="familieret.html"><a href="familieret.html#pensionskompensation"><i class="fa fa-check"></i><b>23.4.6</b> Pensionskompensation</a></li>
-<li class="chapter" data-level="23.4.7" data-path="familieret.html"><a href="familieret.html#rimelighedskompensation"><i class="fa fa-check"></i><b>23.4.7</b> Rimelighedskompensation</a></li>
-<li class="chapter" data-level="23.4.8" data-path="familieret.html"><a href="familieret.html#udtagelse-af-aktiver"><i class="fa fa-check"></i><b>23.4.8</b> Udtagelse af aktiver</a></li>
-<li class="chapter" data-level="23.4.9" data-path="familieret.html"><a href="familieret.html#formuedeling-ved-en-gteflles-dd"><i class="fa fa-check"></i><b>23.4.9</b> Formuedeling ved en ægtefælles død</a></li>
+</ul></li>
+<li class="chapter" data-level="23.5" data-path="familieret.html"><a href="familieret.html#derimod-omtales-muligheden-for-kompensation-efter-l-43-om-medvirken-ikke-i-motiverne."><i class="fa fa-check"></i><b>23.5</b> Derimod omtales muligheden for kompensation efter ÆL § 43 om medvirken ikke i motiverne.</a><ul>
+<li class="chapter" data-level="23.5.1" data-path="familieret.html"><a href="familieret.html#regulering-og-misbrugskrav-efter-loven"><i class="fa fa-check"></i><b>23.5.1</b> Regulering og misbrugskrav efter loven</a></li>
+<li class="chapter" data-level="23.5.2" data-path="familieret.html"><a href="familieret.html#pensionskompensation"><i class="fa fa-check"></i><b>23.5.2</b> Pensionskompensation</a></li>
+<li class="chapter" data-level="23.5.3" data-path="familieret.html"><a href="familieret.html#rimelighedskompensation"><i class="fa fa-check"></i><b>23.5.3</b> Rimelighedskompensation</a></li>
+<li class="chapter" data-level="23.5.4" data-path="familieret.html"><a href="familieret.html#udtagelse-af-aktiver"><i class="fa fa-check"></i><b>23.5.4</b> Udtagelse af aktiver</a></li>
+<li class="chapter" data-level="23.5.5" data-path="familieret.html"><a href="familieret.html#formuedeling-ved-en-gteflles-dd"><i class="fa fa-check"></i><b>23.5.5</b> Formuedeling ved en ægtefælles død</a></li>
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="24" data-path="arveretten.html"><a href="arveretten.html"><i class="fa fa-check"></i><b>24</b> Arveretten</a><ul>
@@ -793,12 +792,14 @@
 <li class="chapter" data-level="25.34" data-path="forsikring-pension-og-ankenvn-premium.html"><a href="forsikring-pension-og-ankenvn-premium.html#generelt-for-de-tre-dele-i-pensionssystemet-premium"><i class="fa fa-check"></i><b>25.34</b> <font color="red">Generelt for de tre dele i pensionssystemet<sup> Premium </font></sup></a></li>
 <li class="chapter" data-level="25.35" data-path="forsikring-pension-og-ankenvn-premium.html"><a href="forsikring-pension-og-ankenvn-premium.html#pension-og-erhvervsevnetab-premium"><i class="fa fa-check"></i><b>25.35</b> <font color="red">Pension og erhvervsevnetab<sup> Premium </font></sup></a></li>
 <li class="chapter" data-level="25.36" data-path="forsikring-pension-og-ankenvn-premium.html"><a href="forsikring-pension-og-ankenvn-premium.html#nvnspraksis-og-fortolkninger-af-erhvervsevnetab-premium"><i class="fa fa-check"></i><b>25.36</b> <font color="red">Nævnspraksis og fortolkninger af erhvervsevnetab<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="25.37" data-path="forsikring-pension-og-ankenvn-premium.html"><a href="forsikring-pension-og-ankenvn-premium.html#nvnspraksis-om-erhvervsevnetabsforsikringen-premium"><i class="fa fa-check"></i><b>25.37</b> <font color="red">Nævnspraksis om erhvervsevnetabsforsikringen<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="25.38" data-path="forsikring-pension-og-ankenvn-premium.html"><a href="forsikring-pension-og-ankenvn-premium.html#forsikringsselskabets-muligheder-for-at-standse-udbetalingerne-premium"><i class="fa fa-check"></i><b>25.38</b> <font color="red">Forsikringsselskabets muligheder for at standse udbetalingerne<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="25.39" data-path="forsikring-pension-og-ankenvn-premium.html"><a href="forsikring-pension-og-ankenvn-premium.html#helbredsoplysninger-premium"><i class="fa fa-check"></i><b>25.39</b> <font color="red">Helbredsoplysninger<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="25.40" data-path="forsikring-pension-og-ankenvn-premium.html"><a href="forsikring-pension-og-ankenvn-premium.html#livsforsikringer-premium"><i class="fa fa-check"></i><b>25.40</b> <font color="red">Livsforsikringer<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="25.41" data-path="forsikring-pension-og-ankenvn-premium.html"><a href="forsikring-pension-og-ankenvn-premium.html#nar-man-skal-give-oplysninger-om-ens-helbred-premium"><i class="fa fa-check"></i><b>25.41</b> <font color="red">Når man skal give oplysninger om ens helbred<sup> Premium </font></sup></a></li>
-<li class="chapter" data-level="25.42" data-path="forsikring-pension-og-ankenvn-premium.html"><a href="forsikring-pension-og-ankenvn-premium.html#udbetaling-af-forsikringer-premium"><i class="fa fa-check"></i><b>25.42</b> <font color="red">Udbetaling af forsikringer<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="25.37" data-path="forsikring-pension-og-ankenvn-premium.html"><a href="forsikring-pension-og-ankenvn-premium.html#hvordan-oplyses-sagen-i-forsikringsselskabet-og-hvilke-forhold-der-indgar-i-deres-vurdering-premium"><i class="fa fa-check"></i><b>25.37</b> <font color="red">Hvordan oplyses sagen i forsikringsselskabet, og hvilke forhold der indgår i deres vurdering<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="25.38" data-path="forsikring-pension-og-ankenvn-premium.html"><a href="forsikring-pension-og-ankenvn-premium.html#nvnspraksis-om-erhvervsevnetabsforsikringen-premium"><i class="fa fa-check"></i><b>25.38</b> <font color="red">Nævnspraksis om erhvervsevnetabsforsikringen<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="25.39" data-path="forsikring-pension-og-ankenvn-premium.html"><a href="forsikring-pension-og-ankenvn-premium.html#lidelser-der-er-opstaet-fr-erhvervsevnetabsforsikringen-tradte-i-kraft-premium"><i class="fa fa-check"></i><b>25.39</b> <font color="red">Lidelser, der er opstået, før erhvervsevnetabsforsikringen trådte i kraft<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="25.40" data-path="forsikring-pension-og-ankenvn-premium.html"><a href="forsikring-pension-og-ankenvn-premium.html#forsikringsselskabets-muligheder-for-at-standse-udbetalingerne-premium"><i class="fa fa-check"></i><b>25.40</b> <font color="red">Forsikringsselskabets muligheder for at standse udbetalingerne<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="25.41" data-path="forsikring-pension-og-ankenvn-premium.html"><a href="forsikring-pension-og-ankenvn-premium.html#helbredsoplysninger-premium"><i class="fa fa-check"></i><b>25.41</b> <font color="red">Helbredsoplysninger<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="25.42" data-path="forsikring-pension-og-ankenvn-premium.html"><a href="forsikring-pension-og-ankenvn-premium.html#livsforsikringer-premium"><i class="fa fa-check"></i><b>25.42</b> <font color="red">Livsforsikringer<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="25.43" data-path="forsikring-pension-og-ankenvn-premium.html"><a href="forsikring-pension-og-ankenvn-premium.html#nar-man-skal-give-oplysninger-om-ens-helbred-premium"><i class="fa fa-check"></i><b>25.43</b> <font color="red">Når man skal give oplysninger om ens helbred<sup> Premium </font></sup></a></li>
+<li class="chapter" data-level="25.44" data-path="forsikring-pension-og-ankenvn-premium.html"><a href="forsikring-pension-og-ankenvn-premium.html#udbetaling-af-forsikringer-premium"><i class="fa fa-check"></i><b>25.44</b> <font color="red">Udbetaling af forsikringer<sup> Premium </font></sup></a></li>
 </ul></li>
 <li class="chapter" data-level="26" data-path="lovsamling-retsinformation.html"><a href="lovsamling-retsinformation.html"><i class="fa fa-check"></i><b>26</b> Lovsamling (Retsinformation)</a></li>
 <li class="chapter" data-level="27" data-path="bibliotek-premium.html"><a href="bibliotek-premium.html"><i class="fa fa-check"></i><b>27</b> <font color="red">Bibliotek<sup> Premium </font></sup></a></li>
@@ -861,16 +862,16 @@ Please Wait…
 <div id="god-skik-for-finansielle-virksomheder-premium" class="section level2">
 <h2><span class="header-section-number">22.1</span> <font color="red">God skik for finansielle virksomheder<sup> Premium </font></sup></h2>
 <p><strong>Lov om finansiel virksomhed § 43</strong></p>
-<p>Efter lovbestemmelsen i § 43 i lov om finansiel virksomhed<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a> (FIL), så skal finansiel virksomhed drives i overensstemmelse med redelig forretningsskik og god praksis inden for virksomhedsområdet<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a>.</p>
+<p>Efter lovbestemmelsen i § 43 i lov om finansiel virksomhed<a href="#fn34" class="footnote-ref" id="fnref34"><sup>34</sup></a> (FIL), så skal finansiel virksomhed drives i overensstemmelse med redelig forretningsskik og god praksis inden for virksomhedsområdet<a href="#fn35" class="footnote-ref" id="fnref35"><sup>35</sup></a>.</p>
 <p><img src="img/finans.jpg" /></p>
 <p>Finanstilsynet kan tage sager vedrørende overholdelsen af god skik og de udstedte bekendtgørelser for god skik for finansielle virksomheder op af egen drift.</p>
 <p>Finanstilsynet kan endvidere tage sager op efter anmodning fra Forbrugerombudsmanden.</p>
 <p><img src="img/FO.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/></p>
-<p>Finanstilsynet modtager tillige henvendelser direkte fra forbrugere, der imidlertid normalt henvises til bl.a. de private godkendte finansielle ankenævn (tvistløsningsorganger), såsom Det Finansielle Ankenævn og Forsikringsankenævnet, hvis klagen også vedrører civilretlige spørgsmål om erstatning eller tilbagebetaling af uretmæssigt opkrævede beløb. Erhvervsdrivende henvises til domstolene, da de ikke har selvstændig klageadgang til de private godkendte forbrugerklagesystem.<a href="#fn3" class="footnote-ref" id="fnref3"><sup>3</sup></a></p>
+<p>Finanstilsynet modtager tillige henvendelser direkte fra forbrugere, der imidlertid normalt henvises til bl.a. de private godkendte finansielle ankenævn (tvistløsningsorganger), såsom Det Finansielle Ankenævn og Forsikringsankenævnet, hvis klagen også vedrører civilretlige spørgsmål om erstatning eller tilbagebetaling af uretmæssigt opkrævede beløb. Erhvervsdrivende henvises til domstolene, da de ikke har selvstændig klageadgang til de private godkendte forbrugerklagesystem.<a href="#fn36" class="footnote-ref" id="fnref36"><sup>36</sup></a></p>
 <p>Finanstilsynet træffer en traditionel forvaltningsretlig afgørelse med mulighed for administrativ rekurs, og Finanstilsynet har ikke en direkte søgsmålskompetence til domstolene.</p>
 <p>Såfremt en sag om god skik har vidtrækkende eller principiel betydning, skal Finanstilsynet forelægge sagen for Tilsynets bestyrelse, jf. Lov om finansiel virksomhed § 345, stk. 7, nr. 4.</p>
 <p>Forbrugerombudsmanden er også tillagt beføjelser på området for god skik. Finanstilsynets og Forbrugerombudsmandens kompetence på området er reguleret i lov om finansiel virksomhed §§ 348 og 348 a.</p>
-<p>Om markedsføringslovens anvendelse på finansielle virksomheder og Forbrugerombudsmandens kompetence til at tage sager op af egen drift eller efter klage, se nærmere markedsføringslovens<a href="#fn4" class="footnote-ref" id="fnref4"><sup>4</sup></a> § 1, stk. 2.</p>
+<p>Om markedsføringslovens anvendelse på finansielle virksomheder og Forbrugerombudsmandens kompetence til at tage sager op af egen drift eller efter klage, se nærmere markedsføringslovens<a href="#fn37" class="footnote-ref" id="fnref37"><sup>37</sup></a> § 1, stk. 2.</p>
 <p>Forbrugerombudsmanden kan således håndhæve markedsføringslovens strafbelagte bestemmelser om vildledning og utilbørlig markedsføring, købsopfordringer samt markedsføring af kreditter.</p>
 <p>Markedsføringslovens bestemmelser i § 3 om god markedsføringsskik, i § 4 om god erhvervsskik, § 9 om former for handelspraksis og § 14 om oplysningsforpligtelser vedrørende priser mv. er ikke gældende for finansielle virksomheder, i det omfang, der af erhvervsministeren er udstedt særlige regler herom.</p>
 <hr />
@@ -897,7 +898,7 @@ Please Wait…
 <hr />
 <div id="bekendtgrelse-om-god-skik-for-finansielle-virksomheder-premium" class="section level3">
 <h3><span class="header-section-number">22.1.1</span> <font color="red">Bekendtgørelse om god skik for finansielle virksomheder<sup> Premium </font></sup></h3>
-<p>Af Bekendtgørelsen om god skik for finansielle virksomheder følgende regler for god skik for finansielle virksomheder (herefter; godskik-bekendtgørelsen):<a href="#fn5" class="footnote-ref" id="fnref5"><sup>5</sup></a></p>
+<p>Af Bekendtgørelsen om god skik for finansielle virksomheder følgende regler for god skik for finansielle virksomheder (herefter; godskik-bekendtgørelsen):<a href="#fn38" class="footnote-ref" id="fnref38"><sup>38</sup></a></p>
 <hr />
 </div>
 <div id="den-finansielle-virksomhed-skal-handle-redeligt-og-loyalt-og-ikke-vildlede-kunderne-premium" class="section level3">
@@ -1284,7 +1285,7 @@ Efter forsikringsbekendtgørelsens § 20:</p>
 <h3><span class="header-section-number">22.4.5</span> <font color="red">Krav til uafhængige forsikringsformidlere<sup> Premium </font></sup></h3>
 <p><img src="img/finans16.jpg" /></p>
 <p>Kapitel 11 i forsikringsbekendtgørelsen fastsætter supplerende krav til uafhængige forsikringsformidlere.</p>
-<p>Når en uafhængig forsikringsformidler, jf. § 16 i lov om forsikringsformidling<a href="#fn6" class="footnote-ref" id="fnref6"><sup>6</sup></a>, indhenter tilbud på forsikringsaftaler for kunden hos en eller flere forsikringsdistributører (forsikringsselskaber), skal den uafhængige forsikringsformidler samtidig give de informationer til forsikringsdistributøren, der er nødvendige for, at forsikringsdistributøren kan fastsætte prisen på forsikringen, jf. forsikringsbekendtgørelsens § 26.</p>
+<p>Når en uafhængig forsikringsformidler, jf. § 16 i lov om forsikringsformidling<a href="#fn39" class="footnote-ref" id="fnref39"><sup>39</sup></a>, indhenter tilbud på forsikringsaftaler for kunden hos en eller flere forsikringsdistributører (forsikringsselskaber), skal den uafhængige forsikringsformidler samtidig give de informationer til forsikringsdistributøren, der er nødvendige for, at forsikringsdistributøren kan fastsætte prisen på forsikringen, jf. forsikringsbekendtgørelsens § 26.</p>
 <hr />
 <p>I pensionsordninger omfattet af pensionsbeskatningslovens afsnit I skal den uafhængige forsikringsformidler i forbindelse med indhentelse af tilbud oplyse forsikringsdistributøren om størrelsen af det honorar, der er aftalt mellem kunden og den uafhængige forsikringsformidler.</p>
 <p>Den uafhængige forsikringsformidler skal samtidig oplyse forsikringsdistributøren om længden af den periode, hvori kunden og den uafhængige forsikringsformidler har aftalt, at honoraret skal indregnes i forsikringspræmien.</p>
@@ -1318,1002 +1319,19 @@ Efter forsikringsbekendtgørelsens § 20:</p>
 <p>Fuldmagten kan, på samme måde som den er indgået, til enhver tid tilbagekaldes af kunden og ophører senest samtidig med samarbejdsaftalens ophør.</p>
 <p>Kapitel 12 indeholder supplerende regler for distribution af forsikringsbaserede investeringsprodukter.</p>
 <hr />
-</div>
-<div id="forebyggelse-af-interessekonflikter-premium" class="section level3">
-<h3><span class="header-section-number">22.4.7</span> <font color="red">Forebyggelse af interessekonflikter<sup> Premium </font></sup></h3>
-<p><img src="img/finans19.jpg" /></p>
-<p>En forsikringsformidler eller et forsikringsselskab, der udøver distribution af forsikringsbaserede investeringsprodukter, skal have effektive organisatoriske og administrative ordninger med henblik på at træffe alle rimelige forholdsregler til forebyggelse af, at interessekonflikter, jf. forsikringsbekendtgørelsens §§ 32 og 33, skader kundens interesser, jf. § forsikringsbekendtgørelsens 31.</p>
-<p>Ordningerne skal være forholdsmæssigt afpasset den udførte virksomhed, de solgte forsikringsprodukter og typen af distributør.</p>
-<hr />
-<p>Forsikringsformidlere og forsikringsselskaber træffer alle relevante forholdsregler for at kunne påvise interessekonflikter mellem dem, herunder deres ledere og ansatte eller enhver anden person, der direkte eller indirekte er tilknyttet forsikringsformidleren eller forsikringsselskabet, og deres kunder, eller mellem kunderne indbyrdes, som opstår ved udøvelsen af forsikringsdistributionsvirksomhed, jf. forsikringsbekendtgørelsens § 32.</p>
-<hr />
-<p>Hvis de organisatoriske eller administrative ordninger, jf. forsikringsbekendtgørelsens § 30, ikke er tilstrækkelige til med rimelig sikkerhed at kunne forebygge risikoen for, at kunders interesser skades, skal forsikringsformidleren eller forsikringsselskabet klart oplyse kunden om interessekonflikternes generelle karakter eller årsager i god tid inden indgåelsen af en forsikringsaftale, jf. forsikringsbekendtgørelsens § 32, stk. 2.</p>
-<hr />
-<p>Oplysningerne i forsikringsbekendtgørelsens § 32, stk. 2, skal</p>
-<ol style="list-style-type: decimal">
-<li><p>gives på et varigt medium, og</p></li>
-<li><p>være tilstrækkelig detaljerede afhængig af kundetypen, så kunden kan træffe en informeret beslutning inden indgåelse af en aftale med en forsikringsdistributionsvirksomhed omfattet af forsikringsbekendtgørelsens § 32, stk. 2.</p></li>
-</ol>
-<hr />
-</div>
-<div id="oplysningskrav-ved-distribution-af-forsikringsbaserede-investeringsprodukter-premium" class="section level3">
-<h3><span class="header-section-number">22.4.8</span> <font color="red">Oplysningskrav ved distribution af forsikringsbaserede investeringsprodukter<sup> Premium </font></sup></h3>
-<p>Supplerende oplysningskrav, jf. forsikringsbekendtgørelsens § 34</p>
-<p>Inden indgåelsen af en aftale om distribution af forsikringsbaserede investeringsprodukter, skal der mindst gives følgende oplysninger:</p>
-<ol style="list-style-type: decimal">
-<li><p>Forsikringsformidlere og forsikringsselskaber, der yder rådgivning, skal oplyse, om de giver kunden en periodisk vurdering af de anbefalede forsikringsbaserede investeringsprodukters egnethed, jf. forsikringsbekendtgørelsens §§ 36-39.</p></li>
-<li><p>Relevant vejledning og relevante advarsler om de risici, der er forbundet med de forsikringsbaserede investeringsprodukter eller i forbindelse med særlige foreslåede investeringsstrategier.</p></li>
-<li><p>Alle omkostninger og tilknyttede gebyrer i forbindelse med distributionen af det forsikringsbaserede investeringsprodukt, herunder udgifterne til rådgivning, og hvor det er relevant, udgifter til det forskningsbaserede investeringsprodukt, som anbefales eller afsættes til kunden, og oplysninger om, hvordan kunden kan betale for det, herunder eventuelle tredjemandsbetalinger.</p></li>
-</ol>
-<hr />
-<p>Oplysningerne om alle omkostninger og gebyrer, herunder omkostninger og gebyrer i forbindelse med distribution af det forsikringsbaserede investeringsprodukt, som ikke skyldes tilstedeværelsen af underliggende markedsrisici, skal foreligge i sammenfattet form, så kunden får et overblik over de samlede omkostninger og den samlede effekt på afkastet af investeringen og, hvis kunden måtte anmode herom, skal en specificeret opgørelse af omkostningerne og gebyrerne leveres.</p>
-<p>Sådanne oplysninger leveres i givet fald regelmæssigt og mindst én gang om året for kunden under investeringens livscyklus.</p>
-<p>Oplysningerne skal gives i en form, som er forståelig på en sådan måde, at kunder eller potentielle kunder i rimeligt omfang kan forstå det tilbudte forsikringsbaserede investeringsprodukts art og risici og dermed træffe informerede investeringsbeslutninger. Disse oplysninger kan gives i et standardiseret format.</p>
-<hr />
-<p>Efter forsikringsbekendtgørelsens § 35 kan forsikringsformidlere eller forsikringsselskaber betale eller modtage honorarer, provisioner, eller naturalieydelser i forbindelse med distribution af et forsikringsbaseret investeringsprodukt eller en accessorisk tjenesteydelse, til eller fra andre parter end kunden eller en person, som handler på vegne af kunden, hvis betalingen eller ydelsen</p>
-<ol style="list-style-type: decimal">
-<li><p>ikke har en skadelig indvirkning på kvaliteten af den pågældende tjenesteydelse til kunden, og</p></li>
-<li><p>ikke hindrer forsikringsformidlerens eller forsikringsselskabets opfyldelse af pligten til at handle ærligt, redeligt og professionelt i overensstemmelse med kundens bedste interesse.</p></li>
-</ol>
-<hr />
-<p>Om egnethedstest, jf. forsikringsbekendtgørelsens § 36:</p>
-<p>Når en forsikringsformidler eller et forsikringsselskab yder rådgivning om et forsikringsbaseret investeringsprodukt, skal formidleren eller selskabet indhente de nødvendige oplysninger om kundens kendskab til og erfaring på det investeringsområde, som er relevant for den specifikke form for produkt eller tjenesteydelse, samt for kundens finansielle situation, herunder den pågældende persons evne til at bære et tab, investeringsmål, og den pågældende persons risikovillighed, så forsikringsformidleren eller forsikringsselskabet kan anbefale kunden de forsikringsbaserede investeringsprodukter, der egner sig for vedkommende.</p>
-<p>Hvis et forsikringsbaseret investeringsprodukt indgår i en pakke af tjenesteydelser eller produkter sammensat i henhold til forsikringsbekendtgørelsens § 23 skal vurderingen af, om produktet egner sig for kunden, omfatte den samlede pakke.</p>
-<hr />
-<p>Om <em>hensigtsmæssighedstest</em>, jf. forsikringsbekendtgørelsens § 37:</p>
-<p>Når en forsikringsformidler eller et forsikringsselskab distribuerer et forsikringsbaseret investeringsprodukt uden at yde rådgivning, skal formidleren eller forsikringsselskabet udbede sig oplysninger fra kunden om dennes kendskab til og erfaring på det investeringsområde, som er relevant for den specifikke form for produkt eller tjenesteydelse, der udbydes eller efterspørges.</p>
-<p>På baggrund af oplysningerne skal forsikringsformidleren eller forsikringsselskabet vurdere, om den påtænkte forsikringsydelse eller det påtænkte forsikringsprodukt er hensigtsmæssigt for kunden.</p>
-<hr />
-<p>Udelukkende ordreudførelse (execution only), jf. forsikringsbekendtgørelsens § 38</p>
-<p>Når en forsikringsformidler eller et forsikringsselskab ikke yder rådgivning om forsikringsbaserede investeringsprodukter (execution only), kan formidleren eller selskabet undlade at opfylde forpligtelserne i forsikringsbekendtgørelsens § 37, stk. 1, når følgende betingelser er opfyldt:</p>
-<ol style="list-style-type: decimal">
-<li>Virksomheden vedrører et af følgende forsikringsbaserede investeringsprodukter:</li>
-</ol>
-<ol style="list-style-type: lower-alpha">
-<li><p>Aftaler, som kun medfører investeringseksponering over for finansielle instrumenter, der anses for at være ikke-komplekse i henhold til bekendtgørelse om investorbeskyttelse ved værdipapirhandel og ikke indebærer en struktur, som gør det vanskeligt for kunden at forstå de involverede risici.</p></li>
-<li><p>Andre ikke-komplekse forsikringsbaserede investeringer.</p></li>
-</ol>
-<ol start="2" style="list-style-type: decimal">
-<li><p>Forsikringsdistributionsvirksomheden udøves på kundens foranledning.</p></li>
-<li><p>Kunden er blevet oplyst om, at forsikringsformidleren eller forsikringsselskabet ikke ved ydelsen af denne forsikringsdistributionsvirksomhed er forpligtet til at vurdere, hvorvidt det forsikringsbaserede investeringsprodukt, der leveres eller tilbydes, er hensigtsmæssigt, og at kunden ikke nyder godt af den tilsvarende beskyttelse i henhold til de relevante regler om god forretningsskik. Denne information kan gives i et standardiseret format.</p></li>
-<li><p>Forsikringsformidleren eller forsikringsselskabet opfylder forpligtelserne i forsikringsbekendtgørelsens §§ 31-33.</p></li>
-</ol>
-<hr />
-<p>Rapportering til kunder efter forsikringsbekendtgørelsens § 39:</p>
-<p>Forsikringsformidleren eller forsikringsselskabet forelægger kunden fyldestgørende rapporter om den leverede tjenesteydelse på et varigt medium.</p>
-<p>Rapporterne skal omfatte periodiske meddelelser til kunden, hvori der tages hensyn til de involverede forsikringsbaserede investeringsprodukters form og kompleksitet og karakteren af den tjenesteydelse, der er leveret til kunden.</p>
-<p>Hvor det er relevant, skal rapporterne desuden omfatte omkostninger i forbindelse med de transaktioner og tjenesteydelser, der er gennemført for kundens regning.</p>
-<p>Ved ydelse af rådgivning om et forsikringsbaseret investeringsprodukt giver forsikringsformidleren eller forsikringsselskabet inden indgåelse af aftalen kunden en egnethedserklæring på et varigt medium, hvori den ydede rådgivning specificeres, og det specificeres, hvordan denne rådgivning opfylder kundens præferencer, mål og andre karakteristika. forsikringsbekendtgørelsens § 3, stk. 1 og 2, finder tilsvarende anvendelse, jf. forsikringsbekendtgørelsens § 39, stk. 2.</p>
-<p>Indgås aftalen telefonisk eller på anden måde, hvor kunden ikke umiddelbart kan få oplysninger omfattet af stk. 2, kan forsikringsformidleren eller forsikringsselskabet afgive egnethedserklæringen på et varigt medium umiddelbart efter, at kunden er bundet af en aftale, såfremt begge følgende betingelser er opfyldt:</p>
-<ol style="list-style-type: decimal">
-<li><p>Kunden har indvilliget i at modtage egnethedserklæringen uden unødig forsinkelse efter indgåelsen af aftalen.</p></li>
-<li><p>Forsikringsformidleren eller forsikringsselskabet har givet kunden mulighed for at udskyde indgåelsen af aftalen for at modtage egnethedserklæringen forud for indgåelsen af aftalen.</p></li>
-</ol>
-<p>Hvis en forsikringsformidler eller et forsikringsselskab har underrettet kunden om, at formidleren eller selskabet vil gennemføre en periodisk vurdering af egnetheden, skal den periodiske rapport indeholde en ajourført erklæring om, hvordan det forsikringsbaserede investeringsprodukt opfylder kundens præferencer og mål og andre af kundens karakteristika.</p>
-<hr />
-</div>
-<div id="finanstilsynets-fortolkning-af-begrebet-god-skik-i-forhold-til-forsikringsselskaber-premium" class="section level3">
-<h3><span class="header-section-number">22.4.9</span> <font color="red">Finanstilsynets fortolkning af begrebet god skik i forhold til forsikringsselskaber<sup> Premium </font></sup></h3>
-<p>Når Finanstilsynet træffer en afgørelse om, at en finansiel virksomhed har overtrådt reglerne om god skik på virksomhedsområdet, vil Finanstilsynet pålægge finansiel virksomhed at berigtige forholdet.</p>
-<p>Dette indebærer, at finansiel virksomhed tilkendegiver over for Finanstilsynet snarest muligt at ændre den kritisable handlemåde, og at finansiel virksomhed indretter fremtidig praksis i overensstemmelse med Finanstilsynets afgørelse, jf. Lov om finansiel virksomhed § 348, stk. 2. Undladelse heraf er sanktioneret med bøde, jf. Lov om finansiel virksomhed § 373, stk. 3.</p>
-<hr />
-<p><strong>Fra Finanstilsynets praksis om forsikrings- og pensionsselskaber kan nævnes følgende afgørelser:</strong></p>
-<p><strong>Finanstilsynets afgørelse af 11. marts 2003:</strong> Det var ikke i strid med god skik, at et forsikringsselskab havde en politik om kun at betjene dansktalende personer, specielt herunder når der er tale om en praktisk foranstaltning som i det foreliggende tilfælde, hvor man ikke havde ressourcer til at ansætte personer, der var forsikringskyndige i andre sprog end dansk.</p>
-<hr />
-<p><strong>Finanstilsynets afgørelse af 27. december 2004:</strong> Det var i strid med reglerne om god skik, at et forsikringsselskab uopfordret sendte breve til kunder med garanterede fripolicer med tilbud om flytning af deres pensionsordninger uden flyttegebyr, idet der ikke var givet oplysninger om de økonomiske konsekvenser ved at ophæve den eksisterende ordning, ligesom brevet ikke indeholdt en opfordring til kunderne om at søge yderligere information eller rådgivning.</p>
-<hr />
-<p><strong>Finanstilsynets afgørelse af 3. august 2006:</strong> Finanstilsynet har i en række sager vurderet, at et forsikringsselskab ikke må afvise at tegne lovpligtige hundeansvarsforsikringer med følgende begrundelser: At vedkommende ikke har en fast bopælsadresse, at kunden ikke har den lovpligtige forsikring tilknyttet betalingsservice, at de pågældende selskaber fortrinsvis tegner forsikringer for specielle kundegrupper. Derimod fandt tilsynet, at et forsikringsselskab kan forlange, at de forsikringssøgende enten møder op på selskabet adresse, eller at selskabet beder de forsikringssøgende oplyse en c/o-adresse eller poste restante-adresse, hvis finansiel virksomhed skal kunne tilbyde at tegne lovpligtige hundeansvarsforsikringer. Endelig tilkendegav tilsynet, at det er lovligt, når forsikringsselskaber, som kun tegner forsikringer i lokalområder af landet, afviser kunder, som ikke er tilknyttet de pågældende områder. Tilknytningen kan for hjemløse eksempelvis være en sagsbehandler i en kommune, som er inden for finansiel virksomheds område.</p>
-<hr />
-<p>**Finanstilsynets afgørelse af 10. oktober 2006:* Et forsikringsselskab handlede ikke i strid med god skik, da det meddelte kunder, som havde tegnet forsikring via to forsikringsagenter, at de ikke kunne fortsætte forsikringen, hvis ikke de gav samtykke til at finansiel virksomhed videregiver fortrolige oplysninger til brug for administration og rådgivning til forsikringsagenten.</p>
-<hr />
-<p><strong>Finanstilsynets afgørelse af 10. juli 2009:</strong> Påbud til forsikringsselskab om at træffe afgørelse, når der anmeldes skader, selv om kunden ikke ønsker at give samtykke til, at selskabet selv indhenter helbredsoplysninger.</p>
-<hr />
-<p><strong>Finanstilsynets afgørelse af 25. februar 2008:</strong> Forsikringsselskab kan ikke nægte at acceptere fuldmagter, som finansiel virksomheds kunder har givet til en forsikringsmægler.</p>
-<hr />
-<p><strong>Finanstilsynets afgørelse af 4. april 2008:</strong> Et forsikringsselskab blev påbudt at ændre sin markedsføring af et produkt på internettet, så det ikke fremstod som et produkt fra et andet selskab.</p>
-<hr />
-<p><strong>Finanstilsynets afgørelse af 26. februar 2009:</strong> Medlemmer af pensionskasse ikke oplyst på redelig og loyal måde når informationsmateriale om overgang til ny pensionsordning ikke oplyser om, at forudsætningen for at give en tillægspension på 4,25 pct. beror på, at egenkapitalen kan give disse udlodninger, og at fremtidige bestyrelser beslutter at gøre dette.</p>
-<hr />
-<p><strong>Finanstilsynets afgørelse af 29. november 2010:</strong> ”Der var ikke tilstrækkelig grundlag for at fastslå, at en pensionskasse havde handlet i strid med § 3 i god skik-bekendtgørelsen ved at afskaffe ydelsesgarantien ved en aftale med aftaleparterne i stedet for at give den enkelte kunde mulighed for at træffe dette valg som led i et omvalg”.</p>
-<hr />
-<p><strong>Finanstilsynets afgørelse af 22. maj 2013:</strong> I strid med § 3 i den dagældende god skik-bekendtgørelse, at pensionsforsikringsselskab i et brev, hvori kunderne blev opfordret til at flytte til et andet pensionsforsikringsselskab, ikke angav, at flytningen ville betyde en overgang fra et garanteret gennemsnitsrentemiljø til et ugaranteret markedsrentemiljø.</p>
-<p><strong>Finanstilsynets afgørelse af 26. marts 2019:</strong> Truffet to afgørelser om, at Arkitekternes Pensionskasse og Pensionskassen for Jordbrugsakademikere og Dyrlæger vil handle i strid med § 4 i bekendtgørelse nr. 445 af 30. april 2018 om god skik for forsikringsdistributører, hvis pensionskasserne beslutter, at medlemmer med et betinget garanteret gennemsnitsrenteprodukt uden individuelt omvalg overgår til et markedsrentebaseret livscyklusprodukt.</p>
-<hr />
-<p>Se afgørelse af Pensionskunder skal altid have korrekt og saglig information Pensionskunder, der ønsker at skifte selskab, må ikke udsættes for vildledende information fra det selskab, de ønsker at forlade. Det understreger Finanstilsynet på baggrund af en konkret sag.</p>
-<hr />
-</div>
-</div>
-<div id="god-skik-ved-boligkredit-premium" class="section level2">
-<h2><span class="header-section-number">22.5</span> <font color="red">God skik ved boligkredit<sup> Premium </font></sup></h2>
-<p>Bekendtgørelsen om god skik for boligkredit fastsætter regler for, hvordan finansielle virksomheder her i landet skal yde rådgivning i forbindelse med ydelse af lån med sikkerhed i fast ejendom.</p>
-<p>Her gælder bekendtgørelse nr. 1581 af 17 af december 2018 om god skik for boligkredit (herefter benævnt; boligkreditbekendtgørelsen).</p>
-<p>Den finansielle virksomhed er omfattet af boligkreditbekendtgørelsens regler, hvis den finansielle virksomhed yder lån til en forbruger mod pant i fast ejendom og andelsbolig.</p>
-<p>Boligkreditbekendtgørelsen gælder ved markedsføring og alle indgåelser af boligkreditaftaler.</p>
-<p>Boligkreditbekendtgørelsen regulerer detaljeret hvilke oplysninger, forbrugeren skal have i forbindelse med markedsføring og indgåelse af en boligkreditaftale.</p>
-<p>Det er fx fordele og ulemper i forhold til kundens situation, årlige omkostninger i procent, opsigelses- og indfrielsesvilkår, omkostninger ved omlægning og førtidig indfrielse, evt. forskelle i renter, bidrag eller andet vederlag mv.</p>
-<p>Desuden regulerer boligkreditbekendtgørelsen, hvilken rådgivning der skal ydes i forbindelse med indgåelse af aftalen.</p>
-<p>Boligkreditbekendtgørelsen definerer endvidere standardforudsætninger, som skal anvendes som repræsentativt eksempel.</p>
-<p>Ligeledes skal kunden kunne godkendes til at optage et 30-årigt lån med fast rente uden afdragsfrihed, før et lån med variabel rente og/eller afdragsfrihed kan tilbydes.</p>
-<hr />
-<p>I bilag 1, 2 og 3 til boligkreditbekendtgørelsen kan man finde tjeklister for hhv.</p>
-<ol style="list-style-type: decimal">
-<li><p>Former for adfærd, som under alle omstændigheder anses for urimelige i private kundeforhold,</p></li>
-<li><p>Dokumentation for rådgivning om en boligkreditaftale</p></li>
-<li><p>Standardforudsætninger</p></li>
-</ol>
-<hr />
-<div id="radgivningspligt-ved-boligkredit-premium" class="section level3">
-<h3><span class="header-section-number">22.5.1</span> <font color="red">Rådgivningspligt ved boligkredit<sup> Premium </font></sup></h3>
-<p>Efter boligkreditbekendtgørelsens § 17, skal en boligkreditgiver eller boligkreditformidler inden indgåelse af en boligkreditaftale udtrykkeligt meddele låntageren, hvorvidt der ydes eller kan ydes rådgivning til låntageren.</p>
-<p>En boligkreditgiver eller boligkreditformidler skal inden ydelsen af rådgivning eller i givet fald inden indgåelsen af en aftale om ydelse af rådgivning på varigt medium give låntageren følgende oplysninger:</p>
-<ol style="list-style-type: decimal">
-<li><p>hvorvidt rådgivningen udelukkende ydes på grundlag af eget produktudvalg i overensstemmelse med boligkreditbekendtgørelsens § 17, stk. 4, nr. 2, eller på grundlag af andre produkter på markedet i overensstemmelse med boligkreditbekendtgørelsens § 17, stk. 5, så låntageren kan forstå grundlaget for anbefalingen, og</p></li>
-<li><p>størrelsen på det gebyr, låntageren eventuelt skal betale for rådgivningen eller, hvis beløbet ikke kan fastlægges på meddelelsestidspunktet, den anvendte metode til beregningen heraf.</p></li>
-</ol>
-<p>Oplysningerne kan gives til låntageren i form af yderligere oplysninger forud for aftaleindgåelsen.</p>
-<hr />
-<p>En boligkreditgiver eller boligkreditformidler, der yder rådgivning, skal:</p>
-<ol style="list-style-type: decimal">
-<li>Indhente de nødvendige oplysninger om låntagerens personlige og finansielle situation samt låntagerens præferencer og målsætninger for således at kunne anbefale egnede boligkreditaftaler.</li>
-</ol>
-<p>Sådanne overvejelser baseres på oplysninger, der er aktuelle på det pågældende tidspunkt, og tager højde for rimelige antagelser med hensyn til risici for låntagerens situation i den foreslåede boligkreditaftales løbetid.</p>
-<ol start="2" style="list-style-type: decimal">
-<li>Tage et tilstrækkeligt stort antal boligkreditaftaler i deres produktudvalg i betragtning og anbefale den eller de bedst egnede kreditaftaler blandt deres produktudvalg i forhold til låntagernes behov, finansielle situation og personlige forhold.</li>
-</ol>
-<p>En ikke-bunden boligkreditformidler skal tage et tilstrækkeligt stort antal boligkreditaftaler på markedet i betragtning og anbefale den eller de egnede boligkreditaftaler på markedet i forhold til låntagernes behov, finansielle situation og personlige forhold.</p>
-<hr />
-<p>En boligkreditgiver eller boligkreditformidler skal handle i låntagerens interesse ved at:</p>
-<ol style="list-style-type: decimal">
-<li><p>holde sig underrettet om låntagerens behov og forhold,</p></li>
-<li><p>anbefale egnede boligkreditaftaler i overensstemmelse med boligkreditbekendtgørelsens § 17, stk. 4-5, og</p></li>
-<li><p>forsyne låntageren med en kopi af den fremsatte anbefaling på papir eller andet varigt medium.</p></li>
-</ol>
-<hr />
-</div>
-<div id="vejledningspligt-ved-boligkredit-premium" class="section level3">
-<h3><span class="header-section-number">22.5.2</span> <font color="red">Vejledningspligt ved boligkredit<sup> Premium </font></sup></h3>
-<p>Den finansielle virksomhed har en vejledningspligt efter boligkreditbekendtgørelsens § 16 overfor en kunde, som vil optage et boliglån.</p>
-<p>Efter boligkreditbekendtgørelsens § 16 skal en boligkreditgiver eller boligkreditformidler skal give låntageren vejledning om den foreslåede boligkreditaftale samt om eventuelle accessoriske tjenesteydelser, sådan at låntageren kan vurdere, om det foreslåede produkt passer til dennes behov og finansielle situation.</p>
-<p>En boligkreditgiver eller boligkreditformidler skal, hvis låntageren kan få råderet over udstedte realkreditobligationer og selv forestå salget heraf, oplyse låntageren herom, og vejlede om risici forbundet hermed.</p>
-<hr />
-<p>Vejledningen i stk. 1 skal blandt andet indeholde:</p>
-<ol style="list-style-type: decimal">
-<li><p>oplysningerne som følger af kreditaftalelovens § 7 a for så vidt angår boligkreditgivere og kreditaftalelovens § 7 a og denne bekendtgørelses § 12 for så vidt angår boligkreditformidlere,</p></li>
-<li><p>de væsentlige karakteristika ved det foreslåede produkt,</p></li>
-<li><p>de specifikke konsekvenser, som det foreslåede produkt kan have for låntageren, herunder betydningen af låntagerens betalingsmisligholdelse, og</p></li>
-<li><p>oplysning om hvorvidt hver komponent kan afvikles separat og konsekvenserne herved for låntageren, hvis accessoriske tjenesteydelser indgår i en pakke med kreditaftalen.</p></li>
-</ol>
-<hr />
-<p>Vejledningen består således i at bringe et boliglånsprodukt i forslag, som passer på kundens behov og finansielle situation.</p>
-<p>Der må ikke give en personlig anbefaling.</p>
-<p>Der er et krav om skriftlighed i boligkreditbekendtgørelsens § 10, hvorefter væsentlige aftaler bekræftes skriftligt:</p>
-<p>”En boligkreditgiver eller boligkreditformidler skal indgå eller bekræfte alle væsentlige aftaler med låntagere i papirformat eller på andet varigt medium. En aftale skal indeholde en beskrivelse af parternes væsentlige rettigheder og pligter samt af de finansielle ydelser, der er omfattet af aftalen”</p>
-<p>Krav om vurdering af kundens kreditværdighed, se boligkreditbekendtgørelsens §§ 18 og 19:</p>
-<p>En boligkreditgiver skal før indgåelse af en boligkreditaftale foretage en grundig vurdering af låntagerens kreditværdighed, og heri inddrage de relevante oplysninger for at fastslå sandsynligheden for, at låntageren har vilje og evne til at opfylde sine forpligtelser i henhold til boligkreditaftalen.</p>
-<p>En boligkreditgiver må alene indgå en boligkreditaftale med en låntager, hvis resultatet af kreditværdighedsvurderingen sandsynliggør at låntageren kan overholde boligkreditaftalen.</p>
-<hr />
-<p>Vurderingen af kreditværdighed foretages på grundlag af oplysninger om låntagerens indtægter og udgifter og andre finansielle og økonomiske forhold, der er nødvendige, tilstrækkelige og forholdsmæssigt afpassede.</p>
-<p>Oplysninger skal indhentes fra relevante kilder, herunder fra låntageren. Boligkreditgiveren gør låntageren opmærksom på, at retsvirkningen af utilstrækkelige oplysninger, som indebærer, at kreditværdighedsvurderingen ikke kan foretages, er, at boligkreditten ikke kan bevilges.</p>
-<p>Kreditværdighedsvurderingen må ikke basere sig alene på værdien af en fast ejendom.</p>
-<p>En boligkreditgiver skal forud for indgåelse af boligkreditaftalen underrette låntageren, hvis der i forbindelse med kreditværdighedsvurderingen vil blive foretaget søgning i en database, jf. boligkreditbekendtgørelsens § 22, stk. 1, 2. pkt.</p>
-<p>Krav til budget/rådighedsbeløb og til passende udbetaling ved boligkøb, se boligkreditbekendtgørelsens § 20, stk. 1: § 20.</p>
-<p>En boligkreditgiver må som udgangspunkt kun tilbyde boligkreditaftaler med pant i fast ejendom med variabel rente til låntagere, der har en økonomi, som efter boligkreditgiverens vurdering medfører, at låntageren kan godkendes til at optage et 30-årigt lån med fast rente uden afdragsfrihed. 1. pkt. finder tilsvarende anvendelse på lån med afdragsfrihed.</p>
-<hr />
-</div>
-<div id="afgrelse-fra-finanstilsynet-om-boligkredit-premium" class="section level3">
-<h3><span class="header-section-number">22.5.3</span> <font color="red">Afgørelse fra Finanstilsynet om boligkredit<sup> Premium </font></sup></h3>
-<p>Se Finanstilsynets afgørelse om påtale for manglende overholde af regler om kombinationssalg i dagældende boligkreditbekendtgørelsens § 24, stk. 2 (nu § 29, stk. 2):</p>
-<p><strong>Afgørelse</strong></p>
-<p><em>&quot;Finanstilsynet påtaler, at Jyske Bank har handlet i strid med § 24, stk. 2, i bekendtgørelse om god skik for boligkredit ved i perioden fra den 9. maj 2016 til den 7. november 2016 at have stillet krav om, at kunden etablerede et helkundeforhold med banken som betingelse for at yde et prioritetslån (Jyske Bankboliglån).</em></p>
-<p><strong>Baggrund</strong><br />
-<em>Finanstilsynet modtog den 28. september 2016 en klage fra en forbruger over, at Jyske Bank krævede, at klager skulle flytte alle sine bankforretninger til Jyske Bank som betingelse for at yde et Jyske Bankboliglån.</em>
-<em>Finanstilsynet bad på denne baggrund den 27. oktober 2016 Jyske Bank om en redegørelse.</em>
-<em>Finanstilsynet modtog den 17. november 2016 Jyske Banks redegørelse 2016 og modtog yderligere oplysninger fra banken i sagen den 1. december 2016 og 12. januar 2017. </em>
-<em>Det fremgår af oplysningerne, at Jyske Bank var opmærksom på de nye regler om kombinationssalg i bekendtgørelsen om god skik for boligkredit, og at forretningsgangene for prioritetslån (også kaldet Jyske Bankboliglån) nu var blevet tilrettet i overensstemmelse hermed. </em>
-<em>Tilretningen af forretningsgangen og orientering af rådgiverne skete imidlertid først i forbindelse med en nødvendig udvikling af it-systemerne i banken. Løsningen var derfor først klar til implementering i forhold til bankens rådgivere den 7. november 2016. Det fremgår nu af den gældende forretningsgang, at prioritetslånene kan tilbydes til såvel hel- som delkunder på de vilkår, som er beskrevet i forretningsgangen. </em>
-<em>I perioden fra den 9. maj 2016 til 7. november 2016 stillede Jyske Bank i henhold til sin forretningsgang krav om etablering af et helkundeforhold som betingelse for at yde et prioritetslån (Jyske Bankboliglån). </em></p>
-<p><strong>Retlig grundlag</strong><br />
-<em>Det følger af bekendtgørelse nr. 332 af 7. april 2016 om god skik for boligkredit § 24, stk. 2, at en boligkreditgiver ikke må udbyde produkter gennem kombinationssalg, dog med de undtagelser der følger af § 24, stk. 3-5.</em>
-<em>Ved kombinationssalg forstås, jf. samme bekendtgørelses § 3, nr. 8, et tilbud om eller salg af en boligkreditaftale i en pakke med andre særskilte finansielle produkter eller tjenesteydelser, hvor boligkreditaftalen ikke stilles individuelt til rådighed for forbrugeren.</em></p>
-<p><strong>Finanstilsynets vurdering</strong><br />
-<em>Efter det oplyste må det lægges til grund, at Jyske Bank først efter den 7. november 2016 har haft it-systemer og forretningsgange, som har sikret at prioritetslån (Jyske Bankboliglån) også kan tilbydes til delkunder. Før denne dato fremgik det af forretningsgangene, at der skulle være et helkundeforhold mellem Jyske Bank og kunden for, at banken kunne yde et prioritetslån (Jyske Bankboliglån). Ligeledes har Finanstilsynet modtaget en klage, der viser at kravet om helkundeforhold, også er blevet stillet overfor potentielle kunder.</em>
-<em>Det er Finanstilsynets vurdering, at Jyske Bank ved i perioden fra den 9. maj 2016 til den 7. november 2016 at have betinget ydelsen af Jyske Bankboliglån af, at kunden etablerer et helkundeforhold med banken, og ved at Jyske Bankboliglån ikke før efter den 7. november 2016, jf. bankens forretningsgange, kunne ydes til delkunder, har overtrådt forbuddet mod kombinationssalg i § 24, stk. 2, i bekendtgørelsen om god skik for boligkredit. Finanstilsynet har vurderet, at ingen af undtagelserne til forbuddet mod kombinationssalg i § 24, stk. 3-5, er relevante i forbindelse med vurderingen af, om der er sket en overtrædelse af § 24, stk. 2. </em>
-<em>På baggrund af dette påtaler Finanstilsynet, at Jyske Bank har handlet i strid med § 24, stk. 2, i bekendtgørelse om god skik for boligkredit ved i perioden fra den 9. maj 2016 til den 7. november 2016 at have stillet krav om, at kunden etablerede et helkundeforhold med banken som betingelse for at yde et prioritetslån.</em>
-<em>Finanstilsynet har vurderet, at Jyske Bank efter den 7. november 2016 har tilrettet sine it-systemer og forretningsgange således, at Jyske Bankboliglån tilbydes til såvel helkunder som delkunder, og at ydelsen af lånet derfor ikke længere betinges af et helkundeforhold i banken”.</em></p>
-<hr />
-</div>
-</div>
-<div id="investorbeskyttelse-ved-handel-med-vrdipapirer-premium" class="section level2">
-<h2><span class="header-section-number">22.6</span> <font color="red">Investorbeskyttelse ved handel med værdipapirer<sup> Premium </font></sup></h2>
-<p>Investorbeskyttelse ved handel med værdipapirer reguleres af Bekendtgørelse nr. 1580 af 17. december 2018 om investorbeskyttelse ved værdipapirhandel (herefter investorbekendtgørelsen)</p>
-<p>En kort bagrund for reglerne om investorbeskyttelse ved værdipapirhandel:</p>
-<ul>
-<li><p>Uheldige rådgivningssager</p></li>
-<li><p>MIFID (2), som er nye EU-regler, som skaber:</p></li>
-<li><p>Højere investorbeskyttelse, mere gennemsigtighed og fælles spilleregler på tværs af grænserne</p></li>
-<li><p>Nye bekendtgørelsesregler for investeringsrådgivning</p></li>
-<li><p>Større krav til hvordan der rådgives om investeringer</p></li>
-</ul>
-<hr />
-<p><strong>MiFID (the Markets in Financial Instruments Directive)</strong> er et EU-direktiv, som regulerer handel med værdipapirer på tværs af landegrænserne. EU-direktivet har bl.a. til formål at øge gennemsigtigheden for de forskellige investeringsprodukter, sikre en højere beskyttelse af investorer samt standardisere reglerne for god rådgivning.</p>
-<p>Reglerne er implementeret i hele EU.</p>
-<p>”Bekendtgørelse om investorbeskyttelse ved værdipapirhandel” (”investorbekendtgørelsen”) gennemfører EU-direktivet i Danmark.</p>
-<hr />
-<p>En kort oversigt over god skik og informationskrav til værdipapirhandleren:</p>
-<ul>
-<li><p>Værdipapirhandleren skal handle ærligt, redeligt og professionelt og i sine kunders bedste interesse. Det følger af generalklausulen i investorbekendtgørelsens § 3.</p></li>
-<li><p>Al kommunikation med kunderne skal være tydelig, ikke- vildledende og forståelig. Informationen skal kunne forstås af en almindelig forbruger.</p></li>
-<li><p>Information om investeringsprodukter/investeringsstrategi, skal have særlig fokus på risici og ikke kun fokusere på mulighed for gevinst.</p></li>
-</ul>
-<hr />
-<p><strong>Kort oversigt over ”risikomærkningsordningen”</strong></p>
-<ul>
-<li><p>Som et supplement til informationskravene i investorbekendtgørelsen skal detailkunder desuden i forbindelse med investeringsrådgivning have nærmere oplysninger om risikomærkningen af det produkt, der investeres i:</p></li>
-<li><p>Grøn: Risiko for at tabe hele det investerede beløb er lille</p></li>
-<li><p>Gul: Risiko for at tabe hele det investerede beløb, men produktet er gennemskueligt</p></li>
-<li><p>Rød: Risiko for at tabe mere end det investerede beløb eller vanskeligt at gennemskue produktet</p></li>
-</ul>
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-<table class="table table-responsive table-bordered table-striped" style="font-size: 10px; margin-left: auto; margin-right: auto;">
-<caption style="font-size: initial !important;">
-<span id="tab:invest1">Tabel 22.1: </span>Sikringsakter for aktiver
-</caption>
-<tbody>
-<tr>
-<td style="text-align:left;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;">
-Kategori
-</td>
-<td style="text-align:left;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;">
-Beskrivelse
-</td>
-<td style="text-align:left;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;">
-Produkt
-</td>
-</tr>
-<tr>
-<td style="text-align:left;font-weight: bold;color: white !important;background-color: green !important;font-size: 10px;">
-<ol style="list-style-type: decimal">
-<li>Grøn
-</td>
-<td style="text-align:left;font-weight: bold;color: white !important;background-color: green !important;font-size: 10px;">
-Investeringsprodukter, hvor risikoen for at tabe hele det investerede beløb må betragtes som meget lille. Produkttypen er ikke vanskelig at gennemskue.
-</td>
-<td style="text-align:left;font-weight: bold;color: white !important;background-color: green !important;font-size: 10px;">
-Danske statsobligationer udstedt i DKK og EUR<br>
-Skatkammerbeviser<br>
-Statsobligationer udstedt af eurolande i EUR og DKK<br>
-Realkreditobligationer udstedt af danske realkreditinstitutter<br>
-Særligt dækkede realkreditobligationer (SDRO) udstedt af danske realkreditinstitutter<br>
-Særligt dækkede obligationer (SDO) udstedt af danske penge- og realkreditinstitutter<br>
-Junior covered bonds og seniorgæld udstedt af danske penge- og realkreditinstitutter til finansiering af supplerende kapital til dækning af SDO’er og SDRO’er<br>
-Skibskreditobligationer og kasseobligationer udstedt af et skibsfinansieringsinstitut<br>
-Obligationer udstedt af Kommunekredit
-</td>
-</tr>
-<tr>
-<td style="text-align:left;font-weight: bold;color: black !important;background-color: yellow !important;font-size: 10px;">
-<ol start="2" style="list-style-type: decimal">
-<li>Gul
-</td>
-<td style="text-align:left;font-weight: bold;color: black !important;background-color: yellow !important;font-size: 10px;">
-Investeringsprodukter, hvor der er risiko for at det investerede beløb kan tabes helt eller delvist. Produkttypen er ikke vanskelig at gennemskue.
-</td>
-<td style="text-align:left;font-weight: bold;color: black !important;background-color: yellow !important;font-size: 10px;">
-Andelsbeviser<br>
-Aktier, der er optaget til handel på et reguleret marked<br>
-ADR’er (American depositary receipt), ADS’er, GDR’er og andre depot-/aktiebeviser, som er optaget til handel på et reguleret marked<br>
-Erhvervsobligationer, der er handlet på et reguleret marked<br>
-Certifikater, hvor der ikke kan tabes mere end det investerede beløb<br>
-Exchange Traded Notes, hvor der ikke kan tabes mere end det investerede beløb<br>
-Statsobligationer udstedt i andre valutaer end DKK og EUR<br>
-Udenlandske realkreditobligationer<br>
-Investeringsforeningsbeviser (UCITS)<br>
-Exchange Traded Funds (ETF’er), som er UCITS-godkendte<br>
-Specialforeningsbeviser<br>
-Tegningsretter på investeringsprodukter i gul kategori
-</td>
-</tr>
-<tr>
-<td style="text-align:left;font-weight: bold;color: white !important;background-color: red !important;font-size: 10px;">
-<ol start="3" style="list-style-type: decimal">
-<li>Rød
-</td>
-<td style="text-align:left;font-weight: bold;color: white !important;background-color: red !important;font-size: 10px;">
-Investeringsprodukter, hvor der er risiko for at tabe mere end det investerede beløb, eller produkttyper, som er vanskelige at gennemskue.
-</td>
-<td style="text-align:left;font-weight: bold;color: white !important;background-color: red !important;font-size: 10px;">
-Hedgefondbeviser uanset det underliggende investeringsprodukt<br>
-Aktier, som ikke er optaget til handel på et reguleret marked (herunder handel på multilaterale handelsfaciliteter (MHF) og alternative markedspladser)<br>
-ADR’er (American depositary receipt), ADS’er, GDR’er og andre depot-/aktiebeviser, som ikke er optaget til handel på et reguleret marked<br>
-Erhvervsobligationer, som ikke er handlet på et reguleret marked (herunder handel på multilaterale handelsfaciliteter (MHF) og alternative markedspladser)<br>
-Non-UCITS<br>
-Strukturerede obligationer<br>
-Optioner, futures, og terminsforretninger på fx: valuta, aktier, obligationer, andre værdipapirer, afkast, renter, indeks og råvarer<br>
-Exchange Traded Funds (ETF’er), som ikke er UCITS-godkendte<br>
-Tegningsretter på investeringsprodukter i rød kategori
-</td>
-</tr>
-</tbody>
-</table>
-</div></li>
-</ol></li>
-</ol></li>
-</ol>
-<hr />
-<div id="oplysningspligten-for-vrdipapirhandleren" class="section level3">
-<h3><span class="header-section-number">22.6.1</span> <font color="red">Oplysningspligten for værdipapirhandleren</h3>
-<p>Rådgivning<sup> Premium </font></sup></p>
-<p>En værdipapirhandler skal give kunden relevante oplysninger om værdipapirhandleren og dennes tjenesteydelser.</p>
-<p>Når en værdipapirhandler yder investeringsrådgivning, skal værdipapirhandleren i god tid inden rådgivningen oplyse kunden om følgende efter investorbekendtgørelsens § 6:</p>
-<p><strong>”En værdipapirhandler skal give kunden relevante oplysninger om værdipapirhandleren og dennes tjenesteydelser.</strong></p>
-<p><strong>Stk. 2. Når en værdipapirhandler yder investeringsrådgivning, skal værdipapirhandleren i god tid inden rådgivningen oplyse kunden om følgende:</strong></p>
-<p><strong>Om rådgivningen ydes på et uafhængigt grundlag eller ej, jf. § 2, nr. 4, i bekendtgørelse om tredjepartsbetalinger m.v.</strong></p>
-<p><strong>Om rådgivningen er baseret på en generel eller på en mere begrænset analyse af forskellige typer finansielle instrumenter, herunder om udvalget er begrænset til finansielle instrumenter, der udstedes eller leveres af juridiske enheder, der har nære forbindelser til værdipapirhandleren eller andre juridiske eller økonomiske forbindelser, der kan svække det uafhængige grundlag for rådgivningen.</strong></p>
-<p><strong>Om værdipapirhandleren periodisk vil vurdere egnetheden af de finansielle instrumenter, som kunden er blevet anbefalet.</strong></p>
-<p><strong>Stk. 3. En værdipapirhandler skal i god tid inden en aftale indgås oplyse kunden om de finansielle instrumenter og de investeringsstrategier, som værdipapirhandleren tilbyder, herunder:</strong></p>
-<p><strong>1. give relevant vejledning og advarsler om de risici, der er forbundet med investering i de pågældende finansielle instrumenter og særlige investeringsstrategier, og</strong></p>
-<p><strong>2. oplyse om det finansielle instrument er målrettet detailkunder eller professionelle kunder, jf. § 4 i bekendtgørelse om produktgodkendelsesprocedurer.</strong></p>
-<p><strong>Stk. 4. Oplysningerne i stk. 1-3 skal gives på en forståelig måde, der sætter kunder i stand til at forstå tjenesteydelsens og den specifikke type finansielle instruments art og risici. Oplysningerne kan gives på en standardiseret måde”.</strong></p>
-<hr />
-<p>Se følgende afgørelse som har været forelagt Det Finansielle Råd. Finanstilsynets beslutning af 23. oktober 2013:</p>
-<p>Finanstilsynet har efter forelæggelse for Det Finansielle Råd politianmeldt Danske Andelskassers Bank for i mindst 12 tilfælde at have lånefinansieret kunders køb af bankens aktier.</p>
-<p>Det er forbudt for et pengeinstitut at yde lån til køb af aktier i pengeinstituttet.</p>
-<hr />
-<p>Finanstilsynet har i forbindelse med en undersøgelse i banken – blandt andet på baggrund af henvendelser fra kunder og omtale i presse – fundet en række sammenfald mellem kunders køb af aktier og ydelse af lån.</p>
-<p>I minimum 12 tilfælde er det Finanstilsynets vurdering, at banken har lånefinansieret kunders køb af DAB-aktier. Banken har overfor Finanstilsynet tilkendegivet, at man enten er enig i tilsynets vurdering, eller at man ikke kan afvise, at der er tale om overtrædelser af lånefinanisieringsforbuddet.</p>
-<p>Danske Andelskassers Bank foretog i juni 2011 en aktieemission som led i en fusion mellem Sammenslutningen af Danske Andelskasser, Omdannelsesselskabet DAB A/S /SDA Bank A/S og Danske Andelskassers Bank og gennemførte i den forbindelse en omfattende markedsføringskampagne af aktien overfor primært eksisterende kunder og andelshavere.</p>
-<hr />
-</div>
-</div>
-<div id="kend-din-kunde-princippet-premium" class="section level2">
-<h2><span class="header-section-number">22.7</span> <font color="red">”Kend din kunde-princippet”<sup> Premium </font></sup></h2>
-<p>Reglerne om investorbeskyttelse i <em>MiFID II</em> indeholder krav om, at en værdipapirhandler skal kende sin kunde, når værdipapirhandleren yder investeringsrådgivning eller porteføljepleje, eller før værdipapirhandleren gennemfører ordrer for en kunde.<a href="#fn7" class="footnote-ref" id="fnref7"><sup>7</sup></a></p>
-<hr />
-<p><em>Lidt om regelsættet:</em></p>
-<p>Europa-Parlamentets og Rådets direktiv 2014/65/EU om markeder for finansielle instrumenter (MiFID II) blev vedtaget den 15. maj 2014.</p>
-<p>Reglerne i direktivet blev implementeret i dansk ret den 3. juli 2017, og finder anvendelse fra den 3. januar 2018.</p>
-<p>Det tidligere direktiv om markeder for finansielle instrumenter, direktiv 2004/39/EF (MiFID I), blev ophævet den 3. januar 2018.</p>
-<p>Europa-Parlamentets og Rådets forordning (EU) nr. 600/2014 om markeder for finansielle instrumenter (MiFIR) blev vedtaget den 15. maj 2014.</p>
-<p>Reglerne finder dog anvendelse fra den 3. januar 2018.</p>
-<p>MiFID II og MiFIR indebærer en lang række vidtgående krav til handlen med finansielle instrumenter i EU. Der er dermed tale om en betydelig udvidelse af regelsættet i forhold til MiFID I.</p>
-<p>Formålet med MiFID II og MiFIR er at øge de finansielle markeders sikkerhed og effektivitet ved at øge handelsgennemsigtigheden og regelharmoniseringen, forstærke investorbeskyttelsen og udbedre de mangler, som MiFID I ansås for at have.</p>
-<p>Mange af reglerne i MiFID II og MiFIR skal ses i lyset af begivenhederne under den finansielle krise, der blev indledt med Lehman Brothers’ konkurs i 2008.</p>
-<p>De skal også ses i lyset af den seneste teknologiske udvikling med blandt andet lynhurtige handler foretaget af computere, der kan give anledning til voldsomme prisudsving inden for kort tid, som f.eks. under ”lynkrakket” i USA i maj 2010.</p>
-<hr />
-<p><strong>Hvad er formålet med ”Kend din kunde” – egnethedstest og hensigtsmæssighedstest?</strong></p>
-<p>Reglerne betyder i praksis, at værdipapirhandleren skal indhente oplysninger om kundens forhold, så værdipapirhandleren kan vurdere, om handlen er egnet til eller hensigtsmæssig for kunden.</p>
-<p>Hvis værdipapirhandleren udøver investeringsrådgivning eller porteføljepleje, skal værdipapirhandleren gennemføre en egnethedstest af kunden.</p>
-<p>Til egnethedstesten skal værdipapirhandleren indhente oplysninger, der gør det muligt at vurdere kundens kendskab til og erfaring med de produkter, rådgivningen omhandler, samt at vurdere kundens finansielle situation og investeringsformål.</p>
-<p><strong>Hvad er indholdet i ”Kend din kunde” – egnethedstest og hensigtsmæssighedstest?</strong></p>
-<p>MiFID II indfører også krav om, at værdipapirhandleren skal udarbejde en erklæring om egnethed.</p>
-<p>Kunden skal have egnethedserklæringen, inden den enkelte transaktion udføres.</p>
-<p>I egnethedserklæringen skal værdipapirhandleren oplyse kunden om typen af den investeringsrådgivning, der er ydet, og hvordan rådgivningen stemmer overens med kundens præferencer, mål og andre karakteristika.</p>
-<p>Hvis værdipapirhandleren ikke udøver investeringsrådgivning, men blot gennemfører handler for en detailkunde, skal værdipapirhandleren gennemføre en hensigtsmæssighedstest af kunden.</p>
-<p>Med hensigtsmæssighedstesten skal værdipapirhandleren vurdere, om kundens kendskab til og erfaring med det ønskede produkt er tiltrækkeligt til, at det er hensigtsmæssigt for kunden at investere i produktet.</p>
-<p>Værdipapirhandleren kan undlade at gennemføre hensigtsmæssighedstesten og foretage handlen som execution only, hvis værdipapirhandleren gennemfører ordrer, der udelukkende vedrører ikkekomplekse produkter.</p>
-<p>Det kan f.eks. være aktier, der er optaget til handel på et reguleret marked, investeringsforeningsbeviser mv.</p>
-<p>Med MiFID II opdateres listen over ikke-komplekse produkter. Disse fremgår af § 13 i bekendtgørelse nr. 747 af 7. juni 2017 om investorbeskyttelse ved værdipapirhandel.</p>
-<hr />
-<div id="kundekategorisering-premium" class="section level3">
-<h3><span class="header-section-number">22.7.1</span> <font color="red">Kundekategorisering<sup> Premium </font></sup></h3>
-<p>Investeringskunder skal efter investorbekendtgørelsens § 4 samt dennes bilag opdeles i følgende 3 kategorier:</p>
-<ul>
-<li><p>Godkendte modparter (andre finansielle virksomheder fx pensionsinstitut)</p></li>
-<li><p>Professionelle kunder (større virksomheder)</p></li>
-<li><p>Detailkunder (resten – dvs. de fleste kunder – både virksomheder og privatpersoner)</p></li>
-</ul>
-<hr />
-</div>
-<div id="egnethedstest-og-egnethedserklring-mv.-premium" class="section level3">
-<h3><span class="header-section-number">22.7.2</span> <font color="red">Egnethedstest og egnethedserklæring mv.<sup> Premium </font></sup></h3>
-<p><img src="img/finans20.png" /></p>
-<p>Det følger af investorbekendtgørelsens § 10, at når en værdipapirhandler yder investeringsrådgivning eller porteføljepleje, skal værdipapirhandleren indhente de nødvendige oplysninger om en kundes:</p>
-<p>Kendskab til og erfaring på det investeringsområde, som er relevant for det specifikke type produkt eller tjenesteydelse, finansielle situation, herunder kundens evne til at bære tab, og investeringsformål, herunder kundens risikovillighed.</p>
-<p>Når en værdipapirhandler yder investeringsrådgivning og porteføljepleje skal værdipapirhandleren, med udgangspunkt i de i § 10, stk. 1 nævnte oplysninger, anbefale kunden den tjenesteydelse og de finansielle instrumenter, der egner sig for kunden og som er i overensstemmelse med vedkommendes risikovillighed og evne til at bære et tab.</p>
-<p>Når en værdipapirhandler yder investeringsrådgivning, som munder ud i en anbefaling om krydssalg, skal værdipapirhandleren sikre, at den samlede pakke af tjenesteydelser eller produkter er egnet for kunden.</p>
-<p>Det følger af investorbekendtgørelsens § 11, at når en værdipapirhandler udøver investeringsrådgivning til en detailkunde, skal værdipapirhandleren, inden transaktionen foretages, udarbejde en erklæring om egnethed, hvoraf det fremgår, hvilken type investeringsrådgivning der er ydet, og hvordan denne rådgivning stemmer overens med kundens præferencer, mål og andre karakteristika.</p>
-<hr />
-<p>Erklæringen skal gives på et varigt medium.</p>
-<p>Når en aftale om at købe eller sælge et finansielt instrument indgås ved hjælp af fjernkommunikation, som forhindrer en forudgående afgivelse af en erklæring om egnethed, kan værdipapirhandleren afgive den skriftlige erklæring om egnethed på et varigt medium umiddelbart efter, at kunden er bundet af en aftale, forudsat at følgende betingelser er opfyldt:</p>
-<p>Kunden har indvilliget i at modtage erklæringen om egnethed uden unødig forsinkelse efter gennemførelsen af transaktionen.
-Investeringsselskabet har givet kunden mulighed for at udskyde transaktionen for at modtage erklæringen om egnethed på forhånd.</p>
-<hr />
-<p><strong>Hensigtsmæssighedstest:</strong></p>
-<p><img src="img/finans21.jpg" /></p>
-<p>Når en værdipapirhandler udfører eller formidler ordrer for en detailkunde uden at yde investeringsrådgivning eller porteføljepleje, skal værdipapirhandleren udbede sig oplysninger fra kunden om dennes kendskab til og erfaring på det investeringsområde, som er relevant for den type produkt eller tjenesteydelse, der udbydes eller efterspørges, jf. investorbekendtgørelsens. § 12.</p>
-<hr />
-<p>På baggrund af oplysningerne skal værdipapirhandleren vurdere, om det påtænkte produkt eller den påtænkte tjenesteydelse er hensigtsmæssig for kunden, jf. dog investorbekendtgørelsens § 13.</p>
-<p>Ved krydssalg, jf. investorbekendtgørelsens § 7, skal værdipapirhandleren vurdere den samlede hensigtsmæssighed for kunden af de tjenesteydelser eller produkter, der indgår i pakken.</p>
-<p>Finder værdipapirhandleren på grundlag af de oplysninger, som er modtaget i medfør af stk. 1, at produktet eller tjenesteydelsen ikke er hensigtsmæssig for kunden, skal kunden gøres udtrykkeligt opmærksom herpå.</p>
-<p>Hvis kunden giver utilstrækkelige oplysninger om sit kendskab og sine erfaringer, jf. investorbekendtgørelsens § 12, stk. 1, skal kunden gøres udtrykkeligt opmærksom på, at værdipapirhandleren på grund af den mangelfulde information ikke kan afgøre, om produktet eller tjenesteydelsen er hensigtsmæssig for vedkommende.</p>
-<p>Informationen i investorbekendtgørelsens § 12 kan gives på en standardiseret måde.</p>
-<hr />
-<p><strong>Udelukkende ordreudførelse (»execution only«)</strong></p>
-<p><img src="img/finans22.jpg" /></p>
-<p>Når en værdipapirhandler alene modtager, formidler eller udfører en kundes ordrer med eller uden accessoriske tjenesteydelser, dog med undtagelse af kredit- eller långivning, jf. Bilag 4, afsnit b, nr. 2, i lov om finansiel virksomhed, der ikke omfatter eksisterende kreditgrænser for lån, løbende konti og kassekreditter for kunder, kan værdipapirhandleren undlade at opfylde forpligtelserne i § 12 hvis betingelserne i nr. 1-4 er opfyldt:</p>
-<hr />
-<p><strong>Tjenesteydelsen skal vedrøre:</strong></p>
-<p>Aktier, der er optaget til handel på et reguleret marked eller i en multilateral handelsfacilitet (MHF) her i landet, i andre lande inden for Den Europæiske Union</p>
-<p>eller lande, som Fællesskabet har indgået aftale med på det finansielle område.</p>
-<p>eller på et tilsvarende tredjelandsmarked, med undtagelse af aktier i institutter for kollektiv investering, som ikke er UCITS, og aktier, som omfatter et afledt instrument, pengemarkedsinstrumenter som ikke omfatter et afledt instrument</p>
-<p>eller en struktur, som gør det vanskeligt for kunden at forstå den involverede risiko, gældsinstrumenter, der er optaget til handel på et reguleret marked</p>
-<p>eller i en multilateral handelsfacilitet (MHF) her i landet, i andre lande inden for Den Europæiske Union</p>
-<p>eller lande, som Fællesskabet har indgået aftale med på det finansielle område,</p>
-<p>eller på et tilsvarende tredjelandsmarked, der ikke omfatter et afledt instrument</p>
-<p>eller en struktur, som gør det vanskeligt for kunden at forstå den involverede risiko, andele i investeringsforeninger</p>
-<p>eller tilsvarende investeringsinstitutter omfattet af lov om investeringsforeninger (UCITS), bortset fra strukturerede investeringsinstitutter som omhandlet i artikel 36, stk. 1, 2. afsnit, i forordning (EU) nr. 583/2010, strukturerede indlån, bortset fra dem, der omfatter en struktur, som gør det vanskeligt for kunden at forstå afkastrisikoen eller omkostningerne forbundet med opsigelse af produktet før tid,</p>
-<p>eller andre ikke-komplekse finansielle instrumenter.</p>
-<hr />
-<p><strong>Tjenesteydelsen skal ydes på kundens initiativ:</strong></p>
-<p>Kunden er underrettet om, at værdipapirhandleren ikke har pligt til at vurdere det leverede eller tilbudte instruments eller den ydede eller tilbudte tjenesteydelses hensigtsmæssighed, og at kunden derfor ikke nyder godt af beskyttelsen efter reglerne i § 12.</p>
-<p>Denne information kan gives på en standardiseret måde.</p>
-<p>Værdipapirhandleren opfylder forpligtelserne i § 72, stk. 2, nr. 2, i lov om finansiel virksomhed, samt bekendtgørelser udstedt i medfør af § 72, stk. 5, i lov om finansiel virksomhed.</p>
-<hr />
-</div>
-<div id="typer-af-investeringsservice-premium" class="section level3">
-<h3><span class="header-section-number">22.7.3</span> <font color="red">Typer af investeringsservice<sup> Premium </font></sup></h3>
-<p><img src="img/finans23.jpg" /></p>
-<ul>
-<li><p><strong>Investeringsrådgivning</strong></p></li>
-<li>Anbefaling rettet til en kunde personligt om transaktioner i specifikke finansielle instrumenter og baseret på kundens individuelle forhold</li>
-<li><p><em>Medfører pligt til at udarbejde investeringsprofil og udføre en egnethedstest</em></p></li>
-</ul>
-<hr />
-<ul>
-<li><p>Porteføljepleje</p></li>
-<li>Fuldmagt til at foretage investeringer på kundens vegne</li>
-<li><p>Medfører pligt til at udarbejde investeringsprofil og udføre en egnethedstest</p></li>
-<li><p>Udførelse/formidling af ordrer for detailkunder</p></li>
-</ul>
-<hr />
-<ul>
-<li><p>Værdipapirhandel uden personlig investeringsrådgivning</p></li>
-<li><p><em>Medfører pligt til at udarbejde investeringsprofil og udføre en hensigtsmæssighedstest</em></p></li>
-</ul>
-<hr />
-<ul>
-<li><p>Execution only transaktioner for detailkunder</p></li>
-<li><p>En undtagelse til ”udførelse og formidling af ordre”.</p></li>
-</ul>
-<p>Kan kun anvendes hvis følgende er opfyldt:</p>
-<ol style="list-style-type: lower-alpha">
-<li><p>Ikke komplekse værdipapirer</p></li>
-<li><p>Kunden tager selv initiativ til at investere</p></li>
-<li><p>Kunden oplyses om, at hensigtsmæssighedstest ikke udføres</p></li>
-<li><p>Værdipapirhandler opfylder interessekonfliktregler.</p></li>
-</ol>
-<ul>
-<li><em>Der skal ikke fastlægges en investeringsprofil eller udføres test</em></li>
-</ul>
-<hr />
-</div>
-<div id="vrdipapirhandleres-udfrelse-af-ordrer-premium" class="section level3">
-<h3><span class="header-section-number">22.7.4</span> <font color="red">Værdipapirhandleres udførelse af ordrer<sup> Premium </font></sup></h3>
-<p>Der opstilles krav til gennemførelse af værdipapirhandlerne. Det kaldes for ”Best Execution” (bedste udførelse af ordrer).</p>
-<hr />
-<p><strong>Video: Hvad er #Best Execution?&quot;</strong></p>
-<div class="video-container">
-<iframe src="https://www.youtube.com/embed/hNMi-bqPvvM" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen">
-</iframe>
-</div>
-<hr />
-<p>Der er krav om, at en værdipapirhandler skal etablere og anvende effektive forretningsgange og systemer til at overholde sin best executionforpligtelse, herunder opstille og anvende en ordreudførelsespolitik.</p>
-<p>Ordreudførelsespolitikken skal indeholde oplysninger om vægtning af faktorer, handelssteder mv.</p>
-<p>En værdipapirhandler skal indhente sine kunders forudgående samtykke til ordreudførelsespolitikken.</p>
-<hr />
-<p><strong>Hvad indebærer nærmere best execution-forpligtelsen?</strong></p>
-<ul>
-<li><p>Værdipapirhandler skal træffe alle rimelige foranstaltninger for at opnå det efter omstændighederne bedst mulige resultat i overensstemmelse med ordreudførelsespolitikken</p></li>
-<li><p>Værdipapirhandler skal blandt andet ved valg af handelssted inddrage følgende faktorer:</p></li>
-<li>Pris</li>
-<li>Omkostninger</li>
-<li>Hurtighed</li>
-<li><p>Gennemførelses- og afregningssandsynlighed</p></li>
-</ul>
-<hr />
-<ul>
-<li><p>Værdipapirhandler skal lægge vægt på følgende kriterier:</p></li>
-<li><p>Kundens karakteristika, herunder detail- eller professionel kunde</p></li>
-<li><p>Kundeordrens karakteristika</p></li>
-<li><p>De finansielle instrumenters karakteristika</p></li>
-<li><p>Handelsstedernes karakteristika</p></li>
-</ul>
-<hr />
-</div>
-<div id="afgrelser-fra-finanstilsynet-vedrrende-investorbekendtgrelsen-premium" class="section level3">
-<h3><span class="header-section-number">22.7.5</span> <font color="red">Afgørelser fra Finanstilsynet vedrørende investorbekendtgørelsen<sup> Premium </font></sup></h3>
-<p><strong>Finanstilsynets afgørelse af 15. maj 2009: Bekendtgørelse om investorbeskyttelse ved værdipapirhandel (dagældende) § 8 om påtale for vildledende markedsføring - Formuepleje A/S Fondsmæglerselskab:</strong></p>
-<hr />
-<p><strong>”Afgørelse</strong><br />
-Formuepleje A/S Fondsmæglerselskab har fået en påtale af Finanstilsynet for en bestemt form for markedsføring, som Finanstilsynet finder vildledende.<br />
-Finanstilsynet modtog i april 2009 en klage over Formuepleje A/S Fondsmæglerselskabs markedsføring af aktier i investeringsselskab, herunder Formuepleje A/S Fondsmæglerselskabs annonce med ordlyden:<br />
-“Få 8 % udbytte på investering i danske obligationer”.</p>
-<p>Finanstilsynet finder efter en samlet vurdering, at Formuepleje A/S Fondsmæglerselskabs markedsføring af investeringsproduktet har været i strid med § 8 i bekendtgørelse nr. 809 af 29. juni 2007 om investorbeskyttelse ved værdipapirhandel. Finanstilsynet vurderer, at markedsføringsmaterialet ikke giver investorerne et afbalanceret indtryk af potentielle afkast og tab. Finanstilsynet lægger i vurderingen vægt på, at Formuepleje A/S Fondsmæglerselskab ikke kan garantere et årligt udbytte på 8 %. Dette bør derfor oplyses i umiddelbar forlængelse heraf i annoncer og salgsbrochure. Ligeledes burde det i salgsmaterialet have været fremhævet, at der er tale om en gearet investering, hvor investorerne kan risikere, at miste hele det beløb de investerer”.</p>
-<hr />
-<p><strong>Finanstilsynets afgørelse af 26. september 2008: Bekendtgørelse om investorbeskyttelse ved værdipapirhandel (dagældende) § 8 - Østjydsk Bank A/S får påtale for vildledende markedsføring:</strong></p>
-<p>”Østjydsk Bank A/S har fået en påtale af Finanstilsynet for en bestemt form for markedsføring, som Finanstilsynet finder vildledende. Endvidere har Østjydsk Bank A/S fået en påtale for, at banken ved anprisningen af kursudvikling de senere år undladt at medtage oplysninger om afkast for de fem foregående år, ligesom banken har undladt at gøre opmærksom på, at tallene er historiske, og at tidligere afkast ikke kan anvendes som en pålidelig indikator for fremtidige afkast.
-Finanstilsynet fik den 10. september 2008 henledt opmærksomheden på Østjydsk Bank A/S’ hjemmeside, hvorpå der var mulighed for at købe Østjydsk Bank aktier ved at udfylde en bestillingskupon. Endvidere fremgik samme sted, at aktionærer i Østjydsk Bank A/S de senere år er blevet belønnet med særdeles store afkast, ligesom banken er inde i en meget positiv udvikling, som ser ud til at fortsætte. Endelig fremgik det, at man kunne få del i denne udvikling, herunder i form af fremtidige stigninger i aktiekursen samt eventuelt aktieudbytte.<br />
-En anprisning af bankens meget positive udvikling, herunder at udviklingen ser ud til at fortsætte, finder Finanstilsynet sker på en sådan måde, som er egnet til at forskyde kundens fokus fra aktiekøbet, så kunden ikke er så opmærksom på de risici, der er forbundet med en aktieinvestering, fordi opmærksomheden fuldt ud er rettet mod de fordele, kunden kan opnå ved at købe aktierne. Det er Finanstilsynets vurdering, at en sådan forskydning af fokus er i strid med § 8, stk. 1 i bekendtgørelse om investorbeskyttelse ved værdipapirhandel.<br />
-En angivelse af, at aktionærer i Østjydsk Bank A/S de senere år er blevet belønnet med særdeles store afkast uden oplysninger om de foregående 5 års afkast og uden angivelse af, at dette ikke kan anvendes som en pålidelig indikator for fremtidige afkast, vurderes at være i strid med reglerne i § 8, stk. 3, nr. 1 og 3 i bekendtgørelse om investorbeskyttelse ved værdipapirhandel”.</p>
-<hr />
-<p><strong>Finanstilsynets afgørelse af 26. juni 2013. Bekendtgørelse om investorbeskyttelse § 16, stk. 1 - Salg af kapitalbeviser i form af hybrid kernekapital - Totalbanken A/S</strong></p>
-<p>”Finanstilsynet har undersøgt Totalbanken A/S’ efterlevelse af reglerne for investorbeskyttelse i forbindelse med, at banken har rådgivet om og solgt kapitalbeviser i form af hybrid kernekapital til sine kunder. I undersøgelsen har Finanstilsynet bl.a. vurderet bankens markedsførings- og rådgivningsmateriale, og derudover er 20 tilfældigt udvalgte kundemapper blevet gennemgået.<br />
-Finanstilsynet konkluderer, at Totalbanken ikke i tilstrækkeligt omfang har sikret sig, at der er sket en opdatering af investorernes egnethedstests i forbindelse med, at banken har ydet investeringsrådgivning om produktet. Banken kan derved ikke dokumentere, at have afdækket om investeringen var egnet for kunden inden banken har anbefalet kunden at investere i kapitalbeviserne. Dette er i strid med investorbeskyttelsesbekendtgørelsens § 16, stk. 1, og Finanstilsynet påbyder Totalbanken at indføre procedurer, der sikrer, at kundernes egnethedstest opdateres, når det er relevant.
-Finanstilsynet fandt derudover, at der i flere tilfælde tilsyneladende er blevet solgt kapitalbeviser til kunder, uden at kunderne havde fået rådgivning inden. Dette er et brud på bankens interne instruks til medarbejderne, og Finanstilsynet påbyder derfor Totalbanken at indføre procedurer til at sikre, at ledelsens instrukser til de ansatte efterleves i praksis.<br />
-Endelig kunne Finanstilsynet konstatere, at Totalbanken ikke i tilstrækkeligt omfang havde gennemført hensigtsmæssighedstest af de kunder, som har ønsket at investere i produktet uden at modtage rådgivning. Dette er et brud på § 17, stk. 1 i investorbeskyttelsesbekendtgørelsen, og Finanstilsynet har derfor påbudt Totalbanken at tilpasse sine procedurer, så dette imødegås fremadrettet”.</p>
-<hr />
-<p><strong>Påtale til Danske Bank for mangler vedr. investorbeskyttelse i digital investeringsløsning (June) af 26. april 2018:</strong></p>
-<p>”Finanstilsynet har gennemført en undersøgelse af investeringsrådgivningen og gennemførelsen af egnethedstesten i Danske Banks digitale investeringsløsning June. Finanstilsynet påtaler, at banken på fire punkter ikke har efterlevet reglerne om investorbeskyttelse.<br />
-Undersøgelsen er gennemført på baggrund af, at der sker stor udvikling af nye digitale løsninger på det finansielle område, herunder også investeringsløsninger. Finanstilsynet lægger i forhold til digitale rådgivningsløsninger vægt på, at de regler, der gælder for rådgivning, også bliver overholdt, når rådgivningen sker på en digital platform.
-Finanstilsynet har påtalt følgende fire forhold:<br />
-Banken havde ikke i tilstrækkelig grad indhentet pålidelige oplysninger om kundens investeringshorisont og havde ikke i tilstrækkelig grad sikret, at June var egnet til at indsamle disse kundeoplysninger.
-Banken havde ikke indhentet de nødvendige oplysninger om kundens kendskab til det relevante investeringsområde og havde ikke inddraget dette i vurderingen af, hvilken investeringsanbefaling kunden skulle have.
-Banken havde ikke sikret pålideligheden af de oplysninger, som banken modtog fra kunderne i June, herunder havde banken ikke tilstrækkelige procedurer, der kunne identificere relevante åbenlyse unøjagtigheder.
-Banken havde ikke foretaget en vurdering af, om det finansielle instrument, der blev anbefalet, var egnet for kunden ud fra kundens individuelle forhold.
-Danske Bank har overfor Finanstilsynet redegjort for, at der er rettet op på manglerne”.</p>
-<hr />
-<p><strong>Påbud til Saxo Bank A/S for utilstrækkelig oplysning om provisionsbetalinger i strid med § 7, stk. 2, i bekendtgørelse om investorbeskyttelse:</strong></p>
-<p>”Finanstilsynet har den 22. juni 2017 meddelt påbud til Saxo Bank at ændre deres oplysninger om provisionsbetaling, idet banken hidtil havde givet kunder utilstrækkelige oplysninger om præmieringens størrelse i strid med § 7, stk. 2, i bekendtgørelse nr. 623 af 24. april 2016.<br />
-Saxo Bank A/S har en henvisningsaftale med Blue Screen Media, hvor banken løbende betaler et beløb pr. henvist kunde. Henvisningshonoraret er afhængig af bankens indtjening på kunden i de første 24 måneder af kundeforholdet.<br />
-Banken oplyste kunderne om, at de modtog en henvisningsprovision, når de registrerede sig som kunder i banken, men banken oplyste ikke kunderne om størrelsen på henvisningshonoraret med mindre kunden anmodede om det, og banken oplyste heller ikke umiddelbart om, at størrelsen på honoraret var afhængig af banken indtjening på kunden.<br />
-Det følger af § 7, stk. 2 i investorbeskyttelsesbekendtgørelsen, at en bank kun må modtage præmiering, hvis det ikke berører dennes forpligtelse til at handle i overensstemmelse med kunden bedste interesse, og hvis kunde er blevet oplyst om præmieringens eksistens, større og karakter forud for aftalens opfyldelse. Hvis ikke man kan oplyse størrelsen på præmieringen skal beregningsmetoden oplyses.<br />
-Finanstilsynet vurderede, at Saxo Bank A/S sumariske oplysninger om henvisningshonoraret også skal opfatte en angivelse af størrelsen på præmieringen, så kunderne kan få et rimeligt indtryk af niveauet for præmieringen og, der med i hvilken grad denne virker incitamentsskabende for banken og /eller Blue Screen Media”.</p>
-<hr />
-</div>
-<div id="bekendtgrelse-om-risikomrkning-af-investeringsprodukter-premium" class="section level3">
-<h3><span class="header-section-number">22.7.6</span> <font color="red">Bekendtgørelse om risikomærkning af investeringsprodukter<sup> Premium </font></sup></h3>
-<p>Bekendtgørelse nr. 553 af 1. juni 2016 om risikomærkning af investeringsprodukter:</p>
-<p>Skemaet nedenfor fordeler typer af investeringsprodukter i de tre mærkningskategorier grøn, gul og rød.</p>
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-<table class="table table-responsive table-bordered table-striped" style="font-size: 10px; margin-left: auto; margin-right: auto;">
-<caption style="font-size: initial !important;">
-<span id="tab:invest2">Tabel 22.2: </span>Risikomærkningsordningen
-</caption>
-<tbody>
-<tr>
-<td style="text-align:left;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;">
-Kategori
-</td>
-<td style="text-align:left;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;">
-Beskrivelse
-</td>
-<td style="text-align:left;font-weight: bold;font-style: italic;color: white !important;background-color: darkgrey !important;font-size: 12px;">
-Investeringsprodukter
-</td>
-</tr>
-<tr>
-<td style="text-align:left;font-weight: bold;color: white !important;background-color: green !important;font-size: 10px;">
-<ol style="list-style-type: decimal">
-<li>Grøn
-</td>
-<td style="text-align:left;font-weight: bold;color: white !important;background-color: green !important;font-size: 10px;">
-Investeringsprodukter, hvor risikoen for at tabe hele det investerede beløb må betragtes som meget lille. Produkttypen er ikke vanskelig at gennemskue.
-</td>
-<td style="text-align:left;font-weight: bold;color: white !important;background-color: green !important;font-size: 10px;">
-Danske statsobligationer udstedt i DKK og EUR.
-Junior covered bonds og seniorgæld udstedt af danske penge- og realkreditinstitutter til finansiering af supplerende kapital til dækning af RO’er, SDO’er og SDRO’er.
-Obligationer udstedt af Kommune Kredit.<br>
-Danske statsobligationer udstedt i DKK og EUR.<br>
-Junior covered bonds og seniorgæld udstedt af danske penge- og realkreditinstitutter til finansiering af supplerende kapital til dækning af RO’er, SDO’er og SDRO’er.
-Obligationer udstedt af Kommune Kredit.<br>
-Obligationer udstedt af multilaterale udviklingsbanker i DKK og EUR, som har nulvægt ved opgørelsen af eksponeringens risiko efter standardmetoden, jf. kapitaldækningsbekendtgørelsens bilag 3, okt. 5.<br>
-Realkreditobligationer udstedt af danske realkreditinstitutter.<br>
-Skatkammerbeviser.<br>
-Skibskreditobligationer og kasseobligationer udstedt af et skibsfinansieringsinstitut.
-Statsgaranterede erhvervsobligationer, garanteret af et euroland med bruttogæld på mindre end 110 procent af landets BNP.<br>
-Statsobligationer udstedt af EU-lande i EUR og DKK med en bruttogæld på mindre end 110 procent af landets BNP.<br>
-Særligt dækkede obligationer (SDO) udstedt af danske penge- og realkreditinstitutter.<br>
-Særligt dækkede realkreditobligationer (SDRO) udstedt af danske realkreditinstitutter.
-</td>
-</tr>
-<tr>
-<td style="text-align:left;font-weight: bold;color: black !important;background-color: yellow !important;font-size: 10px;">
-<ol start="2" style="list-style-type: decimal">
-<li>Gul
-</td>
-<td style="text-align:left;font-weight: bold;color: black !important;background-color: yellow !important;font-size: 10px;">
-Investeringsprodukter, hvor der er risiko for at det investerede beløb kan tabes helt eller delvist. Produkttypen er ikke vanskelig at gennemskue.
-</td>
-<td style="text-align:left;font-weight: bold;color: black !important;background-color: yellow !important;font-size: 10px;">
-Aktier, der er optaget til handel på et reguleret marked eller en alternativ markedsplads.<br>
-Andele i kapitalforeninger, som investerer i henhold til investeringsbegrænsningerne i medfør af §§ 157 a og 157 b i lov om finansiel virksomhed.<br>
-Andele i kollektive investeringsordninger (herunder Exchange Traded Funds (ETF’er)) der er godkendt efter UCITS direktivet.<br>
-Andele i udenlandske investeringsinstitutter, som investerer i henhold til investeringsbegrænsningerne i medfør af §§ 157 a og 157 b i lov om finansiel virksomhed.<br>
-Andelsbeviser.<br>
-Erhvervsobligationer, der er handlet på et reguleret marked eller en alternativ markedsplads.<br>
-Garantbeviser.<br>
-Obligationer udstedt af multilaterale udviklingsbanker i andre valutaer end DKK og EUR, som har nulvægt ved opgørelsen af eksponeringens risiko efter standardmetoden, jf. kapitaldækningsbekendtgørelsens bilag 3, okt. 5.<br>
-Statsgaranterede erhvervsobligationer, garanteret af et Euroland med en bruttogæld på 110 procent og derover af landets BNP.<br>
-Statsobligationer udstedt i andre valutaer end DKK og EUR.<br>
-Statsobligationer udstedt i EUR og DKK af EU-lande med en bruttogæld på 110 procent og derover af landets BNP.<br>
-Strukturerede indlån der hverken har en kompleks afkaststruktur eller vanskeligt gennemskuelige omkostninger forbundet med førtidig opsigelse.<br>
-Tegningsretter på investeringsprodukter i gul kategori.<br>
-Udenlandske realkreditobligationer.<br>
-</td>
-</tr>
-<tr>
-<td style="text-align:left;font-weight: bold;color: white !important;background-color: red !important;font-size: 10px;">
-<ol start="3" style="list-style-type: decimal">
-<li>Rød
-</td>
-<td style="text-align:left;font-weight: bold;color: white !important;background-color: red !important;font-size: 10px;">
-Investeringsprodukter, hvor der er risiko for at tabe mere end det investerede beløb, eller produkttyper, som er vanskelige at gennemskue.
-</td>
-<td style="text-align:left;font-weight: bold;color: white !important;background-color: red !important;font-size: 10px;">
-Aktier, som ikke er optaget til handel på et reguleret marked (herunder handel på multilaterale handelsfaciliteter (MHF)).<br>
-Aktieswaps og swaps på aktieindeks.<br>
-Andele i alternative investeringsfonde (AIF’er).<br>
-Andele i kapitalforeninger, som ikke investerer i henhold til investeringsbegrænsningerne i medfør af § 157 a og 157 b i lov om finansiel virksomhed
-Andele i udenlandske investeringsinstitutter, som ikke investerer i henhold til investeringsbegrænsning-erne i medfør af §§ 157 a og 157 b i lov om finansiel virksomhed.<br>
-Anparter i eksempelvis skibe, ejendomsprojekter m.v.<br>
-Certifikater.<br>
-Contingent convertibles (CoCo’s).<br>
-Contract For Difference (CFD’er).<br>
-Credit Default Swap (CDS’er).<br>
-Enhver anden derivataftale, som vedrører klimatiske variabler, fragtrater, emissionstilladelser eller inflationsrater eller andre økonomiske statistikker.<br>
-Erhvervsobligationer, som ikke er handlet på et reguleret marked (herunder handel på multilaterale handelsfaciliteter (MHF)).<br>
-Ethvert andet instrument omfattet af bilag 5, nr. 4)- nr. 11) i lov om finansiel virksomhed.<br>
-Andele i kollektive investeringsordninger (herunder Exchange Traded Funds (ETF’er)), der ikke er godkendt efter UCITS direktivet.<br>
-Exchange Traded Notes.<br>
-Fremtidige renteaftaler (FRA’er).<br>
-Inflationsswaps.<br>
-Strukturerede indlån, der enten har en kompleks afkaststruktur og/eller vanskeligt gennemskuelige omkostninger forbundet med førtidig opsigelse.<br>
-Optioner, futures, og terminsforretninger på f. eks. : valuta, aktier, obligationer, andre værdipapirer, afkast, renter, indeks og råvarer.<br>
-Pantebreve.<br>
-Renteswaps.<br>
-Repo’er.<br>
-Råvareswaps.<br>
-Strukturerede obligationer.<br>
-Strukturerede UCITS.<br>
-Swaptioner.<br>
-Tegningsretter på investeringsprodukter i rød kategori.<br>
-Total Return Swaps.<br>
-Valutaswaps (udveksling af betalinger i forskellige valutaer).<br>
-Warrents.
-</td>
-</tr>
-</tbody>
-</table>
-</div></li>
-</ol></li>
-</ol></li>
-</ol>
-<hr />
-</div>
-<div id="bekendtgrelse-om-kompetencekrav-til-ansatte-der-yder-investeringsradgivning-og-formidler-information-om-visse-investeringsprodukter-premium" class="section level3">
-<h3><span class="header-section-number">22.7.7</span> <font color="red">Bekendtgørelse om kompetencekrav til ansatte, der yder investeringsrådgivning og formidler information om visse investeringsprodukter<sup> Premium </font></sup></h3>
-<p>Reguleres efter Bekendtgørelse nr. 864 af 23. juni 2017 om kompetencekrav til ansatte, der yder investeringsrådgivning og formidler information om visse investeringsprodukter (også kaldet ”Certificeringsordningen”).</p>
-<hr />
-</div>
-<div id="hvem-der-er-omfattet-af-kompetencekravene-premium" class="section level3">
-<h3><span class="header-section-number">22.7.8</span> <font color="red">Hvem der er omfattet af kompetencekravene<sup> Premium </font></sup></h3>
-<p>Bekendtgørelsen finder anvendelse på pengeinstitutter og fondsmæglerselskaber her i landet, som yder følgende til detailkunder:</p>
-<ul>
-<li><p>Investeringsrådgivning om investeringsprodukter eller porteføljer af investeringsprodukter, jf. dog stk. 3.</p></li>
-<li><p>Rådgivning om puljer, jf. § 2, stk. 1, nr. 3, i bekendtgørelse om visse skattebegunstigende opsparingsformer i pengeinstitutter.</p></li>
-<li><p>Formidling af information om investeringsprodukter.</p></li>
-</ul>
-<hr />
-<p>Ved <em>investeringsprodukt</em> forstås:</p>
-<ul>
-<li><p>Instrumenter jf. bilag 5 i lov om finansiel virksomhed</p></li>
-<li><p>Strukturerede indlånsprodukter</p></li>
-<li><p>Garantbeviser</p></li>
-<li><p>Andelsbeviser</p></li>
-<li><p>Pantebreve</p></li>
-</ul>
-<hr />
-</div>
-<div id="kompetencekrav-til-de-ansatte-premium" class="section level3">
-<h3><span class="header-section-number">22.7.9</span> <font color="red">Kompetencekrav til de ansatte<sup> Premium </font></sup></h3>
-<p>Den ansatte skal have 6 måneders dokumenteret fuldtidserfaring med ydelsen af den tjenesteydelse, som den ansatte yder og kompetencer inden for følgende områder:</p>
-<ul>
-<li><p>Relevant lovgivning</p></li>
-<li><p>Bekendtgørelse om investorbeskyttelse ved værdipapirhandel med vejledning</p></li>
-<li><p>Bekendtgørelse om værdipapirhandleres udførelse af ordrer med vejledning</p></li>
-<li><p>Bekendtgørelse om god skik for finansielle virksomheder med vejledning</p></li>
-<li><p>Bekendtgørelse om risikomærkning med vejledning</p></li>
-<li><p>Udvalgte dele af lov om værdipapirhandel i form af et overordnet kendskab til reglerne om markedsmisbrug</p></li>
-<li><p>Udvalgte dele af lov om finansiel virksomhed i form af kendskab til, hvilke finansielle instrumenter, som er omfattet af loven, jf. bilag 5.</p></li>
-<li><p>Investeringsprodukter</p></li>
-<li><p>Økonomisk forståelse</p></li>
-</ul>
-<p>Virksomheden skal sikre, at de af dens ansatte, der yder investeringsrådgivning, rådgivning om puljer eller formidler information om investeringsprodukter.</p>
-<hr />
-</div>
-<div id="dokumentation-premium" class="section level3">
-<h3><span class="header-section-number">22.7.10</span> <font color="red">Dokumentation<sup> Premium </font></sup></h3>
-<p>Virksomheden skal udarbejde en forretningsgang for et systematisk uddannelsesforløb, der sikrer, at alle virksomhedens ansatte, der yder investeringsrådgivning om investeringsprodukter, har de kompetencer som der kræves.</p>
-<p>Virksomhederne skal sikre, at disse ansatte har gennemgået dette uddannelsesforløb, inden de begynder at yde investeringsrådgivning eller rådgivning om puljer.</p>
-<p>Ved udarbejdelsen af forretningsgangen for et systematisk uddannelsesforløb, skal virksomheden endvidere sikre, at alle virksomhedens ansatte, der formidler information om investeringsprodukter, har de fornødne kompetencer.</p>
-<p>Virksomhederne skal sikre, at disse ansatte har gennemgået dette uddannelsesforløb, inden de begynder at formidle information om investeringsprodukter.</p>
-<p>Med tre års mellemrum skal den ansatte bestå en ny prøve, der dokumenterer, at den ansatte fortsat besidder de fornødne kompetencer.</p>
-<hr />
-</div>
-</div>
-<div id="erstatningsansvaret-for-fejlagtig-radgivning-premium" class="section level2">
-<h2><span class="header-section-number">22.8</span> <font color="red">Erstatningsansvaret for fejlagtig rådgivning<sup> Premium </font></sup></h2>
-<p><img src="img/finans24.jpg" /></p>
-<p>En professionel rådgiver kan pådrage sig et professionsansvar – inden for alle finansielle brancher.</p>
-<p>Det samme er tilfældet med en ejendomsmægler og ejendomsadministrationsbranchen.</p>
-<p>Der er ikke resultatansvar men et bestræbelsesansvar.</p>
-<p>Dvs. risikoen for at opnå et bestemt resultat er kundens.</p>
-<p>Hvis rådgiveren har tilsikret (garanteret) et bestemt resultat, er rådgiveren resultatansvarlig.</p>
-<p><img src="img/finans25.jpg" /></p>
-<p>For det ansvar er der i praksis statuereret et skærpet culpa-bedømmelse, der skal derfor ikke meget til før rådgiveren begår erstatningspådragende fejl over for kunden og sammenligningsgrundlag er ”den gode rådgiver”, som følger nidkært branchenormen (god pengeinstitutpraksis, god ejendomsmæglerskik, god revisorskik og advokatskik osv.).</p>
-<hr />
-<p>Det har indflydelse på culpabedømmelsen, om god-skik regler er overholdt – men det er ikke afgørende efter praksis.</p>
-<p>Der skal være sammenhæng (kausalitet) mellem den mangelfulde rådgivning og det økonomiske tab. Det skal være muligt for rådgiveren at forudse det økonomiske tab.</p>
-<p>Rådgiveren pådrager sig efter praksis ikke et erstatningsretligt ansvar, hvis kunden udviser egen skyld, så kan erstatningen nedsættes eller helt bortfalde, eller, hvis kunden let selv kunne have set en regnefejl, eller hvis kunden ikke har kontrolleret sit kontoudtog eller udtrykkeligt har bedt rådgiveren om den mest risikofyldte investering.</p>
-<hr />
-<p>En af betingelserne for erstatningsansvar for rådgiveren er, at skadelidte kunde skal have lidt et realiserbart økonomisk tab.</p>
-<p>Dette tab kan opgøres som:</p>
-<ul>
-<li><p>positiv opfyldelsesinteresse – skadelidte kunde stilles som om der var givet rigtig rådgivning</p></li>
-<li><p>Negativ kontraktsinteresse – skadelidte kunde stilles som før rådgivningen fandt sted</p></li>
-</ul>
-<hr />
-<p>Der er ingen erstatning for skuffede forventninger i den finansielle branche fx:</p>
-<ul>
-<li><p>Forventninger om et bestemt låneprovenu (kunden skulle have lånt et større beløb for at få det ønskede provenu)</p></li>
-<li><p>Forventninger om et bestemt rådighedsbeløb (kunden har ikke fået<br />
-færre penge af det manglende rådighedsbeløb)</p></li>
-<li><p>Forventninger til, at værdipapirernes kurs stiger</p></li>
-</ul>
-<p>Men hvis fx bankrådgiveren har garanteret et bestemt rådighedsbeløb, vil bankkunden have lidt et økonomisk tab</p>
-<p>…</p>
-<p>Ejendomsmægler kan være ansvarlig for skuffede forventninger, således at der kan rejses et godtgørelseskrav over for ejendomsmægleren, uagtet der ikke er lidt noget økonomisk tab, jf. Lov nr. 526 28. maj 2014 om formidling af fast ejendom m.v se her § 47:</p>
-<p>”Er der til skade for forbrugeren foretaget en forkert beregning af provenu ved salg, jf. § 38, stk. 3, og er forbrugeren i god tro, har forbrugeren krav på godtgørelse af forskellen mellem den forkerte og den korrekte beregning.</p>
-<p>Er der til skade for forbrugeren foretaget en forkert beregning af ejerudgift ved køb, jf. § 39, stk. 1, og er forbrugeren i god tro, har forbrugeren krav på en rimelig godtgørelse af forskellen mellem den forkerte og den korrekte beregning. Har forbrugeren i god tro handlet i tillid til rigtigheden af en værdiansættelse, og afviger denne væsentligt fra en korrekt værdiansættelse, har forbrugeren krav på en rimelig godtgørelse af forskellen.”</p>
-<hr />
-<p>*FED1996.1322**: Ejendomsmægler ikke ansvarlig for sælgers skuffede forventninger til salgsbudget, i hvilket mægleren havde lagt en forkert indfrielseskurs på et pantebrev til grund. Ejendomsmægleren blev frakendt salæret.</p>
-<hr />
-</div>
-<div id="professionsansvaret-premium" class="section level2">
-<h2><span class="header-section-number">22.9</span> <font color="red">Professionsansvaret<sup> Premium </font></sup></h2>
-<p>Professionsansvar, ansvar for skader, der er forvoldt af personer med særlig faglig uddannelse, fx håndværkere, advokater, ejendomsmæglere, revisorer, ingeniører og læger.</p>
-<p>Ansvarsgrundlaget er culpa, men ved bedømmelsen af, om der er handlet ansvarspådragende, indgår de forskrifter og sædvaner, der gælder for faget.</p>
-<p>Hvor der ikke foreligger forskrifter eller sædvaner, er vurderingsgrundlaget fagets dygtige, veluddannede udøvere.</p>
-<p>Den professionelle fagudøver er forpligtet til at præstere en god faglig indsats, dvs. opfylde de krav, der kan stilles til en sagkyndig på området.</p>
-<p>Erstatningsansvar for rådgivning kræver at almindelige erstatningsansvarsbetingelser er opfyldt,</p>
-<p>Hvis en rådgiver nogle af reglerne har det indflydelse på vurderingen af ansvarsgrundlaget, jf. FIL § 43a.^[FIL; Lov om finansiel virksomhed.</p>
-<p>Aktuelt er der udstedt bkg 2016 330 om god skik for finansielle virksomheder, bkg 2018 1581 om god skik for boligkredit og bkg 2017 747 om investorbeskyttelse ved værdipapirhandel.]</p>
-<p>Manglende overholdelse af reglerne betyder ikke nødvendigvis, at rådgiveren er erstatningsansvarlig. Manglende overholdelse af reglerne vil have en afsmittende effekt på culpa-bedømmelsen.</p>
-<p>Det vil sige, at de almindelige erstatningsretlige betingelser skal være opfyldt.</p>
-<p>Den finansielle virksomhed eller finansielle rådgiver skal således have optrådt uagtsomt (culpøst).</p>
-<p>Kunden skal have lidt et økonomisk tab, der skal være årsagssammenhæng (kausalitet) mellem den culpøse adfærd og det lidte tab, ligesom tabet skal være påregneligt (adækvat), og den skadelidte kunde skal ikke have udvist egen skyld.</p>
-<p>Bestemmelsen i FIL § 43a har betydning for vurderingen af, om det fornødne ansvarsgrundlag er til stede, men berører derimod ikke de øvrige erstatningsretlige betingelser.</p>
-<p>Bestemmelsen i FIL § 43a berører ikke mulighederne for at anvende aftaleretlige sanktioner ved overtrædelse af de omfattede regler, såfremt betingelserne herfor er opfyldt.</p>
-<p>Hvorvidt en handling i strid med den de udstedte bekendtgørelser medfører aftaleretlige konsekvenser, afhænger således af dansk rets almindelige aftaleretlige regler, herunder aftalelovens § 36 og § 38 c.</p>
-<p>Spørgsmålet om ansvarsgrundlagets tilstedeværelse er alene aktuelt i de situationer, hvor regler, der har private interesser som beskyttelsesformål, er overtrådt, eksempelvis de formelle krav til bekræftelse af alle væsentlige aftaler i papirformat eller på andet varigt medium, krav til rådgivning samt dokumentation herfor, gennemførelse af en hensigtsmæssighedstest m.v.</p>
-<p>Det vil næppe i sig selv kunne medføre erstatningsansvar, hvis overtrædelsen vedrører en regel, der må betragtes som en ren ordensforskrift.</p>
-<p>Det beror på en konkret vurdering hos domstolene eller ved de finansielle ankenævn, om en overtrædelse af reglerne i god skik bekendtgørelserne medfører erstatningsansvar.</p>
-<hr />
-</div>
-<div id="fintech---i-en-compliancemssig-belysning-premium" class="section level2">
-<h2><span class="header-section-number">22.10</span> <font color="red">Fintech - i en compliancemæssig belysning<sup> Premium </font></sup></h2>
-<p><img src="img/fin.jpg" /></p>
-<p><strong>Indledning</strong></p>
-<p>Siden finanskrisen i 2008 har teknologi været en katalysator for at revolutionere den finansielle sektor.</p>
-<p>Ved anvendelse af højteknologiske, innovative løsninger, markedsføres og afsættes der i større og større omfang serviceydelser inden for den finansielle industri baseret på teknologi.<a href="#fn8" class="footnote-ref" id="fnref8"><sup>8</sup></a></p>
-<p>Fintech er ikke længere blot et ‘hype’, men en helt ny måde at levere finansielle tjenesteydelser på, som er kommet for at blive.</p>
-<p>En undersøgelse i fintech-industrien fra 2017 viser således, at gennemsnitligt 50,2 % af kunder globalt køber finansielle services af en “utraditionel virksomhed”, dvs. en finansiel virksomhed, som ikke har drevet forretning i mindst fem år og ikke har en større, etableret kundebase .</p>
-<p>Selvom fintech i dag er almindeligt anerkendt som en fast del af den finansielle industri, er fintech stadigvæk i eksplosiv udvikling, og der investeres flere og flere penge i at skabe flere og flere smarte, teknologiske løsninger til fordel for virksomheder og forbrugere.</p>
-<p>I 2016 blev der globalt foretaget venture capital investeringer i fintech for DKK 122.000.000.000, hvilket var en stigning på 10,9 % fra 2015 . For at sætte væksten inden for fintech i større perspektiv blev der investeret mindre end DKK 6.500.000.000 globalt i fintech i 2008.</p>
-<p>Den hurtige teknologiske udvikling og øgede interesse i fintech har betydelig indflydelse på den eksisterende “analoge” finansielle sektor.</p>
-<p>En nyere undersøgelse viser f.eks., at omkring 60 % af finansansatte forventer, at hele eller del af deres arbejde vil blive automatiseret gennem ny teknologi .</p>
-<p>Står denne forventning til trone, vil det indebære, at den traditionelle finansielle sektor står over for en stor og hurtig omvæltning, hvor ny teknologi vil blive implementeret på bekostning af arbejdspladser, men med effektivisering og vækst som konsekvens.</p>
-<p>Herværende afsnit beskriver den udvikling, som fintech har gennemgået, og hvilket potentiale teknologien fortsat besidder.</p>
-<p>Med afsæt heri beskrives fintech-miljøet i Danmark i dag samt visse udfordringer, fintech-iværksættere står over for, når de vil etablere sig som fintech-virksomhed i Danmarks finansielle sektor.</p>
-<p>Der vil blive inddraget regulatoriske elementer, når dette er fundet relevant.</p>
-<hr />
-<div id="de-traditionelle-finansielle-services-premium" class="section level3">
-<h3><span class="header-section-number">22.10.1</span> <font color="red">De traditionelle finansielle services<sup> Premium </font></sup></h3>
-<p>Finansielle services er økonomiske tjenesteydelser, som leveres af finansielle virksomheder.</p>
-<p>Tjenesteydelserne er mangeartede, men de kan overordnet siges at falde ind under forretningsformålet at administrere eller håndtere penge, herunder rådgive herom.</p>
-<p>Finansielle services leveres traditionelt af pengeinstitutter, realkreditinstitutter, fondsmæglerselskaber (værdipapirhandlere), betalingsinstitutter, investeringsforeninger, investeringsrådgivere, forsikringsselskaber, pensionskasser mv.</p>
-<p>Eftersom finansielle services typisk indebærer, at erhvervsdrivende behandler eller rådgiver om brugen af andres penge, er industrien tæt reguleret af såvel dansk regler som regler udstedt af den Europæiske Union (EU).</p>
-<p>Finansielle virksomheder reguleres mest nævneværdigt af lov om finansielle virksomheder, men der findes også anden lovgivning inden for industrien, f.eks. lov om værdipapirhandel, lov om betalingstjenester, hvidvaskloven, databeskyttelsesloven, m.fl., som kan finde anvendelse på en finansiel virksomhed.</p>
-<hr />
-</div>
-<div id="hvad-er-fintech-premium" class="section level3">
-<h3><span class="header-section-number">22.10.2</span> <font color="red">Hvad er fintech?<sup> Premium </font></sup></h3>
-<p><img src="img/fin7.jpg" /></p>
-<p><strong>DEFINITION</strong></p>
-<p>Fintech er teknologi, der anvendes til at levere finansielle services (fintech er en sammenlægning af de engelske ord “financial” og “techonology”).</p>
-<p>Fintech-virksomheder er finansielle virksomheder, der leverer alternative løsninger til den etablerede finansielle industri.</p>
-<p>Processer og workflow, der tidligere blev håndteret i manuelle eller analoge processer, tilbydes og gennemføres nu i større og større omfang via digitale interfaces – fintech.</p>
-<hr />
-<p><strong>DEN MODERNE UDVIKLING AF FINTECH</strong></p>
-<p><img src="img/fin6.jpg" /></p>
-<p>Fintech er som selvstændig industri eksploderet inden for det seneste årti.</p>
-<p>Væksten har sine rødder i forlængelse af den økonomiske krise i 2008, hvor bankernes omdømme faldt, ligesom eksperter og forbrugere begyndte at stille spørgsmål til fremtiden for traditionel bankforretning.</p>
-<p>Ikke længe efter blev de første af hvad vi kender til moderne fintech-virksomheder stiftet, og ikke overraskende leverede mange af virksomhederne tjenesteydelser eller software inden for ikke-traditionelle former for finansiering, som typisk formindskede bankers involvering i finansielle transaktioner.</p>
-<p>Udviklingen af fintech har medført en “forkælelse” af virksomheder og navnlig forbrugere.</p>
-<p>Hvis man har lyst til at overføre DKK 2.000 kl. 1:00 om natten, opdatere sin investeringsprofil, eller bare købe et produkt, tager vi det i 2017 som en selvfølge, at man har mulighed herfor på sin smartphone eller tablet.</p>
-<p>Innovationen af fintech-produkter, båret af den teknologiske udvikling, er vokset stødt siden 2008, og teknologiske løsninger samt supplementer har bredt sig til alle finansielle services.</p>
-<p>Fælles for næsten alle fintech-virksomheder er, at de som følge af, at deres tjenesteydelser falder inden for den finansielle sektor, defineres som finansielle virksomheder i lovgivningen med den følge, at disse mindre teknologivirksomheder er underlagt samme strenge regulering som de traditionelle finansielle virksomheder, dvs. banker, forsikringsselskaber, mv., hvilket kan være svært overkommeligt for disse unge og ofte mindre virksomheder .</p>
-<p>Under udviklingen af fintech har markedet været af den opfattelse, at den traditionelle finansielle industri ville blive revet fra hinanden.</p>
-<p>I dag ser man i stedet, at fintech er blevet et supplement til de traditionelle finansielle services.</p>
-<p>Banker, pensionskasser og forsikringsselskaber er selv hoppet med på moden – hvilket de også har været nødt til.</p>
-<p>Alene de fire største amerikanske og engelske banker har siden finanskrisen reduceret deres antal medarbejdere med knap 350.000, og mange forlader den traditionelle industri til fordel for teknologiske virksomheder.</p>
-<p>Banker, pensionskasser og forsikringsselskaber har nu investeret, og investerer stadigvæk, store summer i egne teknologiske afdelinger med fokus på udvikling af fintech-løsninger.</p>
-<hr />
-<p><strong>FINTECH-ØKOSYSTEMET I DAG</strong></p>
-<p>De områder af den finansielle sektor, der har set stor opmærksomhed i relation til fintech, kan opdeles som illustreret her:</p>
-<p><img src="img/fin2.jpg" /></p>
-<p>(Kilde: BI Intelligence, The Fintech Ecosystem, 2016/Pinterest.com)</p>
-<p>De typer af fintech-virksomheder, der hidtil har været meget fokus på, og som udgør fintech “økosystemet”, er inden for betalings- og overførelsestjenester, långivning og finansiering, detailbankforretning, økonomistyring og markedspladser.</p>
-<p>Velkendte betalingstjenester i Danmark er naturligvis de respektive bankers netbanksløsninger.</p>
-<p>Herudover findes der tjenester som MobilePay og Swipp, som muliggør hurtig overførsel af penge på navnlig smartphones og tablets.</p>
-<p>Långivning og finansiering er for forbrugere blevet nemmere, og lån kan nu optages hurtigt og ved få indtastninger på computer og telefon.</p>
-<p>Ikke kun lån og finansiering fra banker og andre erhvervsdrivende långivere er blevet liberaliseret af teknologien.</p>
-<p>Også såkaldt <em>peer-to-peer</em> lending (formidling af lån mellem en flerhed af privatpersoner og/eller virksomheder, som långiver, og en privatperson eller virksomhed, som låntager) og <em>equity crowdfunding/investeringscrowdfunding</em> (formidling af lån eller egenkapital mellem en flerhed af privatpersoner og/eller virksomheder, som investor, og en kapitalsøgende virksomhed) er blevet udbredte fænomener.</p>
-<p>Disse finansielle services tilbydes typisk via elektroniske platforme, der muliggør formidling af penge og kontakt mellem långiver og låntager.</p>
-<p>Inden for økonomistyring optræder en lang række services lige fra at tilbyde et register, hvorfra ens investeringer kan overvåges, til algoritmer, der anbefaler, hvilke værdipapirer, der skal investeres i i forhold til brugerens investeringsprofil.</p>
-<p>Detailbankforretningen bliver mere og mere digital og automatiseret, og pengeinstitutter kan i stigende omfang tilbyde traditionelle bankløsninger uden personlige og fysiske bankrådgivere.</p>
-<p>Afslutningsvist skyder der flere og flere elektroniske markedspladser op i takt med, at penge og pengesubstitutter hurtigere og hurtigere skifter hænder. Disse markedspladser anvendes til at handle med ikke mindst værdipapirer, men også f.eks. fordringer og valutaer, herunder <em>bitcoin</em>.</p>
-<hr />
-<p><strong>DET FREMTIDIGE FINTECH-ØKOSYSTEM</strong></p>
-<p>Fintech-industrien er i rivende udvikling, og nye kategorier skyder frem hele tiden, herunder f.eks. regtech og insurtech, som senest har tiltrukket sig en del opmærksomhed .</p>
-<p><em>Regtech</em> er teknologi til sikring af overholdelse af regler, og <em>insurtech</em> er teknologi inden for forsikringsvirksomhed.</p>
-<p>I en McKinsey rapport fra 2016 vurderes det, at cirka 30 nye grene er vokset ud af det oprindelige fokus inden for betalingsservices, långivning og overførelsesvirksomhed, ligesom at fokus fremover vil flyttes fra frontend mod hele værdikæden.</p>
-<p><img src="img/kunst.jpg" /></p>
-<p>De teknologier, der i den nærmeste fremtid forventes at ændre den finansielle sektor mest, er inden for <em>kunstig intelligens og blockchain</em>.</p>
-<p><img src="img/block.jpg" /></p>
-<p>Med <em>kunstig intelligens</em> menes computere, der kan “tænke selv” og således udføre opgaver, der normal kræver menneskelig intelligens.</p>
-<p>Kunstig intelligens anvendes i dag mest inden for adfærdsgenkendelse.</p>
-<p>Google anvender f.eks. en algoritme til at spore besøgendes adfærd på Internettet, hvormed søgemaskinen kan vise resultater, der umiddelbart er mest relevante eller ønskværdige for brugeren.</p>
-<p>I kraft med at computeres analyseevner bliver bedre og bedre, kan teknologien anvendes mere og mere i den finansielle sektor i form af f.eks. computergenereret investeringsrådgivning og screening for svindel, som der gives eksempler på nedenfor.</p>
-<p><em>Blockchain</em> er i forhold til kunstig intelligent et nyt fænomen.</p>
-<p>Blockchain er i essensen et samlet offentligt register over transaktioner.</p>
-<p>Hver gennemført transaktion registreres med et tidstempel og et link til den forrige udførte transaktion med det aktiv, der overføres, og med angivelse af de involverede parter.</p>
-<p>Registreret føres af personer på tusinder af computere online rundt omkring i verden efter fastsatte matematiske principper og formler.</p>
-<p>Dette vanskeliggør svindel med registrerede transaktioner, herunder sikrer ejerskab til et aktiv i registeret, da et forsøg på at påvirke registeret ét sted, vil medføre, at registeret ikke stemmer overens med den kopi af registeret, som føres de øvrige steder i verden.</p>
-<p>Blockchain er særligt interessant for den finansielle industri, da det er teknologien, som kryptovaluta, herunder bitcoin, bygger på.</p>
-<p><img src="img/bit.jpg" /></p>
-<p><em>Bitcoin</em> er en kryptovaluta og et betalingssystem.</p>
-<p>Mange associerer fortsat bitcoin med et digitalt betalingsmiddel, der anvendes som betalingsmiddel på sorte markeder og til køb af ulovlige varer.</p>
-<p>Sikkerheden bag bitcoin og andre kryptovalutaer stiger dog, og i 2016 blev den første transaktion med Bitcoin foretaget.</p>
-<p>En bitcoin kan traditionelt opdeles i 100.000.000 dele, som hver kan indkodes med hvilket som helst aktiv, hvad end det er 1 krone eller en aktie i et selskab.</p>
-<p>Derfor kan de fleste transaktioner foretages med bitcoins (eller “satoshis”, som en 100 milliontedel af en bitcoin populært kaldes, der er den mindste nuværende opdeling svarende til 0,00000001 BTC).</p>
-<p>Det er fortsat uvist, hvor stor betydning en udvikling i brugen af kryptovaluater kommer til at få for den finansielle industri.</p>
-<p>I dag foretages der kun et begrænset antal transaktioner med kryptovalutaer.</p>
-<p>Selvom det er meget usandsynligt, at kryptovalutaer kommer til at erstatte nationale eller internationale valutaer, eftersom disse ikke er centraliserede fra stater eller banker, og der således ikke kan betales f.eks. skat med valutaerne, er der risiko for, at udvidet brug af kryptovalutaer kan ramme den finansielle sektor hårdt.</p>
-<p>Kendetegnet ved kryptovalutaer og blockchain er, at man skærer en mellemmand ud, som man med gængse valutaer normalt vil anvende til at verificere eller bistå med transaktionens gennemførsel, f.eks. en bank, revisor, advokat eller notar.</p>
-<p>Denne proces foretages i stedet af parterne selv, og de mange personer, som fører den identiske blockchain rundt omkring i verden .</p>
-<p>Brugen af kunstig intelligens og blockchain giver en masse udfordringer for samfundet, herunder lovgiver.</p>
-<p>De beskrevne teknologier kan svært siges at indeholdes i den eksisterende finansielle regulering, der i en høj grad bygger på kontrol og bevågenhed af den finansielle virksomhed samt beskyttelse af kundernes konkrete behov.</p>
-<p>Det er dog ikke kun inden for den finansielle regulering, der kan opstå udfordringer.</p>
-<p>Adgangen til hurtigere og nemmere transaktioner, som teknologien åbner op for, kommer også hurtigt til at udfordre aktualiteten af f.eks. <em>skatte-, persondata- og hvidvaskreglerne, erstatningsreglerne og god skik-reglerne</em>.</p>
-<hr />
-</div>
-<div id="hvorfor-er-fintech-vigtigt-premium" class="section level3">
-<h3><span class="header-section-number">22.10.3</span> <font color="red">Hvorfor er fintech vigtigt<sup> Premium </font></sup></h3>
-<p><img src="img/fin8.jpg" /></p>
-<p><strong>GLOBAL INTERESSE</strong></p>
-<p>Efterspørgslen for entreprenører inden for fintech er høj og har været det lige siden finanskrisen, hvor utilfredsheden med de store banker startede.</p>
-<p>Over 10 år efter krisen, er entreprenører tilsyneladende ikke længere helt så bange for at starte nye virksomheder, og investorer er heller ikke så tilbageholdende med at investere.</p>
-<p>Med digitaliseringens udvikling bliver vi mere og mere forbundne, herunder især online.</p>
-<p>Mere og mere information kan flyttes på få øjeblikke over hele verden, og hermed menes ikke alene korrespondance, men også data.</p>
-<p>Billige og endda gratis forretningsværktøjer er tilgængelig online, herunder til opbevaring, programmering og analyse.</p>
-<p>Vi bliver også mere og mere komfortable med at håndtere vores penge og forretning online og forventer endda efterhånden disse services fra vores finansielle virksomheder mere og mere .</p>
-<p>Disse omstændigheder er med til at danne grund for et stort vækstpotentiale inden for fintech-produkter, som både kan henvende sig til forbrugere og erhvervsdrivende.</p>
-<p>Set i lyset af udbredelsen af traditionelle finansielle services globalt har fintech-industrien et væsentligt kommercielt potentiale, hvilket industrielle investorer og kapitalfonde har fået øjnene op for.</p>
-<p>Fintech-virksomheder etableres dagligt for at redefinere næsten alle eksisterende finansielle aktiviteter – også indenfor rammerne af de eksisterende finansielle virksomheder .</p>
-<p>Som beskrevet i indledningen, blev der investeret mindre end 6.5 milliarder kroner i fintech i 2008 , mens der i 2016 blev investeret omkring 122 milliarder kroner gennem venture capital. Dette er en stigning på cirka 1.877 %.</p>
-<p>Stigningen fra 2015 til 2016 alene var på 10,9 %. Det er herudover anslået, at der i de næste 3 – 5 år globalt vil blive investeret mere end 1.050 milliarder kroner i fintech, hvorfor der stadigvæk er betydeligt interesse og vækstpotentiale i fintech.</p>
-<p>Fintech-industrien kan som en af de få industrier også prale med at være med til at vækste sig selv.</p>
-<p>Nye fintech løsninger inden for långivning og finansiering, f.eks. crowdfunding (f.eks. crowdinvest.dk), gør, at kapitalsøgende virksomheder får nem og hurtig adgang til kontakt med investorer.</p>
-<p>Når virksomheder får mulighed for at søge kapital hos flere tusinde investorer ad gangen, så øges sandsynligheden for at lykkedes med sin kapitalsøgning.</p>
-<hr />
-<p><strong>POTENTIALET I DANMARK</strong></p>
-<p>Danmark bliver ofte hyldet som et af de mest digitaliserede lande i både Europa og resten af verden.</p>
-<p>Blandt andet optræder Danmark på lister over de lande, der rangerer højest inden for brug af digitale penge.</p>
-<p>Dette indebærer, at der bruges mange ressourcer på at vedligeholde og udvikle teknologien, så det bliver fortsat nemmere og mere sikkert at overføre penge.</p>
-<p>Den teknologiske viden, som opbygges herhjemme for at holde egne krav til teknologien ved lige, kan med fordel skaleres og således overføres til udlandet, hvor teknologien ikke har fundet sin plads i samme grad.</p>
-<p>Fintech er netop ikke begrænset af landegrænser, særlige brancher eller (i princippet) af lovgivning.</p>
-<p>Fintech-løsninger er også dukket op og under udvikling til almindelige administrative opgaver såsom varetagelse og overvågning af bankkonti, betalingskort, investeringer, lån mv. (Mint.com), bogføring (Wave) eller datahåndtering (Feedzal – en løsning som anvendes mod svindel i eCommerce).</p>
-<p>I Danmark er der således ikke blot højt potentiale for lokal vækst, men også eksportmuligheder på tværs af landegrænser.</p>
-<p>Fintech-industrien kan således have væsentlig betydning for Danmarks konkurrenceevne og medvirke til at skabe eksport og arbejdspladser.</p>
-<p>Dette fokus i form af kapital og kommercielt potentiale berettiger spørgsmål om tilstrækkeligheden af og (uhensigtsmæssige) hindringer for fintech-virksomheder, herunder den finansielle regulering.</p>
-<hr />
-</div>
-<div id="lovgivningen-om-fintech-premium" class="section level3">
-<h3><span class="header-section-number">22.10.4</span> <font color="red">Lovgivningen om fintech<sup> Premium </font></sup></h3>
-<p>De muligheder for vækst, der ligger i fintech-industrien, kræver bevågenhed fra samfundet – ikke blot for at kunne udnytte potentialet, men også for at sikre et bæredygtigt, sundt og ikke mindst lovligt miljø for fintech-virksomheder, herunder startups.</p>
-<p>Der skal være større fokus på fintech hos virksomheder, investorer, på uddannelsesinstitutionerne og hos regeringen.</p>
-<p>Fintech er ikke særskilt reguleret i Danmark, men virksomhederne, som tilbyder fintech-ydelser, reguleres følgelig forskelligt alt afhængig af den type tjenesteydelse, de leverer.</p>
-<p>Reguleringen er bl.a. den finansielle lovgivning, som er meget stringent, omfattende, og som stiller høje krav til virksomhedernes kapital og løbende drift, herunder medarbejdernes uddannelse.</p>
-<p>Af udvalgte krav, som lovgivningen stiller til finansielle virksomheder, kan nævnes:</p>
-<hr />
-<p><strong>Tilladelse:</strong></p>
-<p>Til lov om finansiel virksomhed er 8 bilag, som oplister et bredt udsnit af forretningsmæssige aktiviteter.</p>
-<p>Såfremt man ønsker at drive virksomheder med en eller flere af disse aktiviteter, driver man finansiel virksomhed som f.eks. pengeinstitut, realkreditinstitut, forsikringsselskab eller værdipapirhandler, mv.</p>
-<p>Udøvelse af disse aktiviteter kræver som udgangspunkt tilladelse fra Finanstilsynet, der er tilsynsførende myndighed med finansielle virksomheder.</p>
-<p>En tilladelse gives på baggrund af en ansøgning.</p>
-<p>Ansøgningen skal bl.a. indeholde:</p>
-<p>En beskrivelse af selskabets forretningsmodel,diagram over selskabets organisation samt en liste over selskabets ansatte med angivelse af den enkelte ansattes funktion i fondsmæglerselskabet, samt oplysning om den enkelte ansattes uddannelse og tidligere ansættelsesforhold, selskabets forretningsgange for hvert af de områder, der søges om tilladelse til, samt forretningsgange for opgørelse af den tilstrækkelige basiskapital for compliancefunktionen, interne regler om forebyggelse af hvidvask af udbytte og terrorfinansiering, budgetmateriale for de første tre år på månedsbasis og med angivelse af budgetteret kapital under forvaltning.</p>
-<p>I tillæg til ovenstående skal der indsendes sådanne oplysninger, som Finanstilsynet finder nødvendige for at vurdere, om virksomheden opfylder kravene for at få en tilladelse til at drive finansiel virksomhed.</p>
-<p>Hvis virksomheden opfylder kravene, er Finanstilsynet forpligtet til at meddele tilladelsen, men Finanstilsynet har i dets vurdering et vist råderum til skøn .</p>
-<p>Finanstilsynet har som udgangspunkt seks måneder til at træffe afgørelse om, hvorvidt der skal gives tilladelse eller ej.</p>
-<hr />
-<p><strong>Kapitalkrav:</strong></p>
-<p>En finansiel virksomhed skal have en vis minimumkapital til rådighed både på tidspunktet for tilladelsen og under virksomhedens drift.</p>
-<p>Et pengeinstitut og et realkreditinstitut skal have en startkapital på minimum EUR 5 millioner.</p>
-<p>Et fondsmæglerselskab skal have en startkapital på EUR 730.000, EUR 125.000 eller EUR 50.000 afhængig af hvilke aktiviteter, virksomheden vil udøve.</p>
-<p>De fondsmæglerselskaber, som skal have en startkapital på minimum EUR 50.000, kan dog vælge i stedet at have en erhvervsansvarsforsikring eller anden tilsvarende garanti, som dækker hele EU, mod erstatningskrav som følge af pligtforsømmelse med en dækning på mindst EUR 1.000.000 for hvert erstatningskrav og samlet mindst EUR 1.500.000 i alt om året for alle krav eller kombination af startkapital og en erhvervsansvarsforsikring med nævnte dækning.</p>
-<p>Ud over startkapital skal finansielle virksomheder også løbende have et særligt kapitalgrundlag.</p>
-</div>
-</div>
-<div id="god-skik-og-fintech-premium" class="section level2">
-<h2><span class="header-section-number">22.11</span> <font color="red">God skik og fintech<sup> Premium </font></sup></h2>
-<p>Alle finansielle virksomheder skal overholde god skik og praksis inden for virksomhedsområdet. God skik-reglerne er mangeartede, og det er uden for artiklens formål at gennemgå dem.</p>
-<p>Fælles for dem alle er dog, at reglerne har til hensigt at beskytte de finansielle virksomheders kunder ved at påbyde dem oplysningsforpligtelser, løbende overvågning over kundernes behov og sætte uddannelsesmæssige krav til de finansielle virksomheders medarbejdere.</p>
-<p>De finansielle virksomheder skal udarbejde skriftlige forretningsgange med henblik på at overholde disse krav, og forretningsgange skal løbende evalueres og eventuelt opdateres, når der sker relevante ændringer i f.eks. virksomheden og kundekredsen.</p>
-<hr />
-<p><strong>Ledelse:</strong></p>
-<p>I tillæg til de uddannelsesmæssige krav til medarbejderne fastlægger lov om finansiel virksomhed krav, som medlemmer af ledelsen i finansielle virksomheder – og således en langt overvejende andel af alle finansielle fintech-virksomheder – skal opfylde til egnethed og hæderlighed.</p>
-<p>Et medlem af bestyrelsen eller direktionen skal til enhver tid have tilstrækkelig viden, faglig kompetence og erfaring til at kunne udøve sit hverv eller varetage sin stilling i den pågældende virksomhed.</p>
-<p>Herudover skal hvert ledelsesmedlem til enhver tid have et tilstrækkelig godt omdømme og udvise hæderlighed, integritet og uafhængighed for effektivt at kunne vurdere og anfægte afgørelser truffet af den daglige ledelse.</p>
-<p>Ligeledes opstiller loven en række mere specifikke krav, som ledelsesmedlemmerne skal opfylde. Ved vurderingen af, om et ledelsesmedlem lever op til kravene, skal der lægges vægt på hensynet til at opretholde tilliden til den finansielle sektor.</p>
-<hr />
-<div id="hvidvask-og-fintech-premium" class="section level3">
-<h3><span class="header-section-number">22.11.1</span> <font color="red">Hvidvask og fintech<sup> Premium </font></sup></h3>
-<p><img src="img/fin5.jpg" /></p>
-<p>Hvidvask og finansiel terrorisme har på global plan haft stor bevågenhed af medier og tilsynsførende myndigheder de seneste år, og det forventes, at bevågenheden øges, samt at de regulatoriske krav bliver strengere fremover.</p>
-<p>Formålet med reguleringen er overordnet set at bekæmpe kriminalitet, herunder terrorisme, ved at begrænse muligheden for at anvende det finansielle system til samme, samt at lette politiets efterforskning.</p>
-<p>Hvidvaskloven gælder stort set for alle finansielle virksomheder og er derfor også relevant for fintech-virksomheder.</p>
-<p>Loven stiller krav om, at virksomhederne skal have en række skriftlige retningslinjer, herunder om kundelegitimation, intern kontrol, risikovurdering, risikostyring, ledelseskontrol og kommunikation, opmærksomhedspligt, undersøgelsespligt, noteringspligt, indberetningspligt samt opbevaring af registreringer.</p>
-<p>Det er et grundlæggende princip i reguleringen, at virksomhederne skal kende sine kunder (populært kaldet “KYC”, der er en forkortelse for Know Your Customer), se nærmere ovenfor for gennemgangen i kapitel 11.</p>
-<p>Virksomhederne skal også udfærdige og gennemføre uddannelses- og instruktionsprogrammer til medarbejdere i selskabet alt med det formål at sikre lovens overholdelse.</p>
-<p>Ovenstående regler er langt fra en udtømmende gennemgang af de krav, lovgivningen stiller til driften af en finansiel virksomhed.</p>
-<p>Men gennemgangen støtter, at det er kompliceret og administrativt meget ressourcekrævende at drive en finansiel virksomhed – særligt for en nyopstartet fintech-virksomhed.</p>
-<p>Kravene i den finansielle lovgivning er ikke altid forenelige med det at drive en fintech-virksomhed. Fintech-virksomheder starter typisk som alle andre teknologivirksomheder i det små og med få eller ingen penge.</p>
-<p>Virksomhedens produkt er typisk software, som ikke kræver produktionsanlæg eller mange medarbejdere, men alene en idé og en computer.</p>
-<p>Der er derfor behov for et større fokus fra lovgivers side på at sikre, at den finansielle lovgivning ikke bliver en hæmsko for iværksætteri inden for fintech, og således en forældet barriere for at anvende den teknologi, der ønskes udviklet og markedsført.</p>
-<hr />
-</div>
-<div id="fintech-i-danmark-i-dag-premium" class="section level3">
-<h3><span class="header-section-number">22.11.2</span> <font color="red">Fintech i Danmark i dag<sup> Premium </font></sup></h3>
-<p><img src="img/fin4.jpg" /></p>
-<p>Flere initiativer er etableret til at støtte op omkring den blomstrende danske fintech-industri, herunder <em>Dansk CrowdFunding Forening</em>, Copenhagen FinTech, m.fl., bl.a. med det formål at give Danmark mulighed for at påvirke eller sætte dagsordenen i fremtidens digitale agenda.</p>
-<p>Det danske fintech-miljø inspirerer i stigende grad unge IT-iværksættere med vidensdeling og arrangementer, hvor iværksættere har mulighed for at komme i kontakt med rådgivere, kollegaer og potentielle investorer.</p>
-<p>De etablerede finansielle virksomheder er selv opmærksomme på det potentiale, som fintech har, men ikke alle virksomheder har det nødvendige fokus på udvikling af fintech.</p>
-<p>Selvom f.eks. de fleste banker investerer betydelige beløb i fintech-løsninger, kræver det en betydelig indsats at lave nye produkter.</p>
-<p>Årsagen er, at nye produkter i ældre banker er en stor omstilling fra bankernes ældre platforme, som svært taler sammen med nye og eksterne systemer .</p>
-<p>Det er en væsentlig faktor for udviklingen af fintech, at de etablerede, større finansielle virksomheder, lægger de fornødne ressourcer, ikke kun finansielle, men også menneskelige og politiske, i fintech-industrien.</p>
-<p>Banker og forsikringsselskaber har en betydelig rolle i samfundet og har derfor også politikernes øre, og må involvere sig i fintech for at fremme industrien.</p>
-<hr />
-</div>
-<div id="get-fokus-pa-fintech-fra-lovgivers-side-premium" class="section level3">
-<h3><span class="header-section-number">22.11.3</span> <font color="red">Øget fokus på fintech fra lovgivers side<sup> Premium </font></sup></h3>
-<p>De lovgivningsmæssige krav skal som altovervejende regel være opfyldt under hele den finansielle virksomheds drift, og hvis et eller flere krav svigtes, kan den finansielle virksomheds tilladelse inddrages af Finanstilsynet.</p>
-<p>De lovgivningsmæssige krav er omfattende samt komplicerede, og kan derfor være uoverskuelige for fintech-iværksættere at navigere i.</p>
-<p>Iværksættere vil typisk ikke have væsentlig fokus på, eller have afsat ressourcer til, overholdelse af kompleks detaillovgivning.</p>
-<p>Lovgivningen kan derfor virke som en hæmsko for fintech-startups og være med til at begrænse udviklingen af denne væsentlige industri i Danmark.</p>
-<p>De nye kapitalkrav for fondsmæglerselskaber er et skridt i den rigtige retning for at skabe konkurrencedygtige danske fintech-virksomheder i Europa, men lovgivningen er fortsat omfattende og svært overskuelig.</p>
-<p>Således gælder der også forordninger vedtaget i EU, som er umiddelbart gyldige i Danmark, og selvom f.eks. lov om finansiel virksomhed gentager visse forordningsbestemmelser af praktiske hensyn, gentages alle ikke.</p>
-<p>Fintech-virksomheder skal derfor ikke alene navigere i dansk ret, men også i supranational EU-ret.</p>
-<p>Regeringens muligheder for at lave en mere liberal lovgivning for fintech-virksomheder er af samme årsager i vidt omfanget begrænset.</p>
-<p>Meget af den finansielle lovgivning er netop baseret på EU retsakter, som Danmark er forpligtede til at overholde.</p>
-<p>Regeringen vil derfor ikke kunne lave en mere lempelig finansiel lovgivning alene for fintech-virksomheder uden at krænke EU-retten.</p>
-<hr />
 
 </div>
 </div>
 </div>
 <div class="footnotes">
 <hr />
-<ol start="1">
-<li id="fn1"><p>Lovbekendtgørelse nr. 1140 af 26. september 2017 om finansiel virksomhed.<a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#fnref1" class="footnote-back">↩</a></p></li>
-<li id="fn2"><p>Følgende afsnit om god skik for finansielle virksomheder bygger på <em>Sonny Kristoffersen</em>: Introduktion til forsikringsreglerne, 2019, Hans Reitzels Forslag.<a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#fnref2" class="footnote-back">↩</a></p></li>
-<li id="fn3"><p>Det skaber en retssikkerhedsmæssig processuel ubalance i klagesystemet mellem forbrugere og erhvervsdrivende, jf. nærmere <em>Sonny Kristoffersens</em> Ph.D. afhandling: Det offentligretlige forbrugerklagesystem i et retssikkerhedsmæssigt perspektiv, 2019, Samfundslitteratur.<a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#fnref3" class="footnote-back">↩</a></p></li>
-<li id="fn4"><p>Jf. Lov nr. 426 af 3. maj 2017 om markedsføring.<a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#fnref4" class="footnote-back">↩</a></p></li>
-<li id="fn5"><p>I medfør af § 43, stk. 2, og § 373, stk. 4, i lov om finansiel virksomhed, jf. Lovbekendtgørelse nr. 1140 af 26. september 2017, er fastsat: Bekendtgørelse nr. 330 af 7. april 2016 om god skik for finansielle virksomheder.<a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#fnref5" class="footnote-back">↩</a></p></li>
-<li id="fn6"><p>Lov nr. 41 af 22. januar 2018 om forsikringsformidling.<a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#fnref6" class="footnote-back">↩</a></p></li>
-<li id="fn7"><p>Følgende afsnit om MIFID bygger på oplysninger fra Finanstilsynet.<a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#fnref7" class="footnote-back">↩</a></p></li>
-<li id="fn8"><p>Følgende afsnit om fintech bygger på en artikel i RR.4.2017.28 fra mine arbejdskollegaer advokaterne <em>Søren Brinkmann</em> og <em>Stefan Westh Wiencken</em>: “Finansielle services i en digital tidsalder” fra advokatfirmaet Brinkmann Kronborg Henriksen.<a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#fnref8" class="footnote-back">↩</a></p></li>
+<ol start="34">
+<li id="fn34"><p>Lovbekendtgørelse nr. 1140 af 26. september 2017 om finansiel virksomhed.<a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#fnref34" class="footnote-back">↩</a></p></li>
+<li id="fn35"><p>Følgende afsnit om god skik for finansielle virksomheder bygger på <em>Sonny Kristoffersen</em>: Introduktion til forsikringsreglerne, 2019, Hans Reitzels Forslag.<a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#fnref35" class="footnote-back">↩</a></p></li>
+<li id="fn36"><p>Det skaber en retssikkerhedsmæssig processuel ubalance i klagesystemet mellem forbrugere og erhvervsdrivende, jf. nærmere <em>Sonny Kristoffersens</em> Ph.D. afhandling: Det offentligretlige forbrugerklagesystem i et retssikkerhedsmæssigt perspektiv, 2019, Samfundslitteratur.<a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#fnref36" class="footnote-back">↩</a></p></li>
+<li id="fn37"><p>Jf. Lov nr. 426 af 3. maj 2017 om markedsføring.<a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#fnref37" class="footnote-back">↩</a></p></li>
+<li id="fn38"><p>I medfør af § 43, stk. 2, og § 373, stk. 4, i lov om finansiel virksomhed, jf. Lovbekendtgørelse nr. 1140 af 26. september 2017, er fastsat: Bekendtgørelse nr. 330 af 7. april 2016 om god skik for finansielle virksomheder.<a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#fnref38" class="footnote-back">↩</a></p></li>
+<li id="fn39"><p>Lov nr. 41 af 22. januar 2018 om forsikringsformidling.<a href="god-skik-for-den-finansielle-virksomhed-og-erstatningsansvaret-premium.html#fnref39" class="footnote-back">↩</a></p></li>
 </ol>
 </div>
             </section>
