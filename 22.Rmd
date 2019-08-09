@@ -344,7 +344,7 @@ Gebyret reguleres én gang årligt pr. 10. januar efter udviklingen i Danmarks S
 
 ---
 
-Et pengeinstitut må ikke knytte et progressivt fordelsprogram til besiddelse af aktier i pengeinstituttet, indskud af garantkapital eller indskud af andelskapital, jf. godskik-bekendtgørelsens § 16.  
+Et pengeinstitut må ikke knytte et progressivt fordelsprogram til besiddelse af aktier i pengeinstituttet, indskud af garantkapital eller indskud af andelskapital, jf. god skik-bekendtgørelsens § 16.  
 
 Såfremt besiddelse af aktier, indskud af garantkapital eller indskud af andelskapital gøres til et krav for at opnå kundefordele, må pengeinstituttet maksimalt stille krav om en aktiebesiddelse med en kursværdi på 30.000 kr. eller et indskud af garantkapital på 30.000 kr. på tidspunktet for kundens indtræden i fordelsprogrammet.  
 
@@ -433,7 +433,7 @@ Såfremt besiddelse af aktier, indskud af garantkapital eller indskud af andelsk
 
 ---
 
-**Afgørelse af 18. december 2017:* Påtale af, at pengeinstitut havde handlet i strid med § 3 i bekendtgørelse nr. 330 af 7. april 2016 om god skik for finansielle virksomheder, ved ikke at foretage kreditværdighedsvurderinger af forbrugere forud for fremsendelse af forhåndsgodkendte og uopfordrede lånetilbud.  
+**Afgørelse af 18. december 2017:** Påtale af, at pengeinstitut havde handlet i strid med § 3 i bekendtgørelse nr. 330 af 7. april 2016 om god skik for finansielle virksomheder, ved ikke at foretage kreditværdighedsvurderinger af forbrugere forud for fremsendelse af forhåndsgodkendte og uopfordrede lånetilbud.  
 
 ---
 
@@ -1998,7 +1998,8 @@ Der vil blive inddraget regulatoriske elementer, når dette er fundet relevant.
 
 ---
 
-### De traditionelle finansielle services
+### <font color="red">De traditionelle finansielle services<sup> Premium </font></sup>
+
 
 Finansielle services er økonomiske tjenesteydelser, som leveres af finansielle virksomheder. 
 
@@ -2012,7 +2013,9 @@ Finansielle virksomheder reguleres mest nævneværdigt af lov om finansielle vir
 
 ---
 
-### Hvad er fintech?
+### <font color="red">Hvad er fintech?<sup> Premium </font></sup>
+
+![](img/fin7.jpg)
 
 **DEFINITION**
 
@@ -2025,6 +2028,8 @@ Processer og workflow, der tidligere blev håndteret i manuelle eller analoge pr
 ---
 
 **DEN MODERNE UDVIKLING AF FINTECH**
+
+![](img/fin6.jpg)
 
 Fintech er som selvstændig industri eksploderet inden for det seneste årti.
 
@@ -2044,7 +2049,9 @@ Under udviklingen af fintech har markedet været af den opfattelse, at den tradi
 
 I dag ser man i stedet, at fintech er blevet et supplement til de traditionelle finansielle services. 
 
-Banker, pensionskasser og forsikringsselskaber er selv hoppet med på moden – hvilket de også har været nødt til. Alene de fire største amerikanske og engelske banker har siden finanskrisen reduceret deres antal medarbejdere med knap 350.000 , og mange forlader den traditionelle industri til fordel for teknologiske virksomheder. 
+Banker, pensionskasser og forsikringsselskaber er selv hoppet med på moden – hvilket de også har været nødt til. 
+
+Alene de fire største amerikanske og engelske banker har siden finanskrisen reduceret deres antal medarbejdere med knap 350.000, og mange forlader den traditionelle industri til fordel for teknologiske virksomheder. 
 
 Banker, pensionskasser og forsikringsselskaber har nu investeret, og investerer stadigvæk, store summer i egne teknologiske afdelinger med fokus på udvikling af fintech-løsninger.
 
@@ -2089,7 +2096,11 @@ Fintech-industrien er i rivende udvikling, og nye kategorier skyder frem hele ti
 
 I en McKinsey rapport fra 2016 vurderes det, at cirka 30 nye grene er vokset ud af det oprindelige fokus inden for betalingsservices, långivning og overførelsesvirksomhed, ligesom at fokus fremover vil flyttes fra frontend mod hele værdikæden.
 
-De teknologier, der i den nærmeste fremtid forventes at ændre den finansielle sektor mest, er inden for kunstig intelligens og blockchain . 
+![](img/kunst.jpg)
+
+De teknologier, der i den nærmeste fremtid forventes at ændre den finansielle sektor mest, er inden for *kunstig intelligens og blockchain*. 
+
+![](img/block.jpg)
 
 Med *kunstig intelligens* menes computere, der kan “tænke selv” og således udføre opgaver, der normal kræver menneskelig intelligens. 
 
@@ -2110,6 +2121,8 @@ Registreret føres af personer på tusinder af computere online rundt omkring i 
 Dette vanskeliggør svindel med registrerede transaktioner, herunder sikrer ejerskab til et aktiv i registeret, da et forsøg på at påvirke registeret ét sted, vil medføre, at registeret ikke stemmer overens med den kopi af registeret, som føres de øvrige steder i verden. 
 
 Blockchain er særligt interessant for den finansielle industri, da det er teknologien, som kryptovaluta, herunder bitcoin, bygger på.
+
+![](img/bit.jpg)
 
 *Bitcoin* er en kryptovaluta og et betalingssystem. 
 
@@ -2137,11 +2150,13 @@ De beskrevne teknologier kan svært siges at indeholdes i den eksisterende finan
 
 Det er dog ikke kun inden for den finansielle regulering, der kan opstå udfordringer. 
 
-Adgangen til hurtigere og nemmere transaktioner, som teknologien åbner op for, kommer også hurtigt til at udfordre aktualiteten af f.eks. *skatte-, persondata- og hvidvaskreglerne, erstatningsreglerne og godskik-reglerne*.
+Adgangen til hurtigere og nemmere transaktioner, som teknologien åbner op for, kommer også hurtigt til at udfordre aktualiteten af f.eks. *skatte-, persondata- og hvidvaskreglerne, erstatningsreglerne og god skik-reglerne*.
 
 ---
 
-### Hvorfor er fintech vigtigt
+### <font color="red">Hvorfor er fintech vigtigt<sup> Premium </font></sup>
+
+![](img/fin8.jpg)
 
 **GLOBAL INTERESSE**
 
@@ -2197,11 +2212,14 @@ Dette fokus i form af kapital og kommercielt potentiale berettiger spørgsmål o
 
 ---
 
-### LOVGIVNINGEN OM FINTECH
+### <font color="red">Lovgivningen om fintech<sup> Premium </font></sup>
+
 
 De muligheder for vækst, der ligger i fintech-industrien, kræver bevågenhed fra samfundet – ikke blot for at kunne udnytte potentialet, men også for at sikre et bæredygtigt, sundt og ikke mindst lovligt miljø for fintech-virksomheder, herunder startups. 
 
-Der skal være større fokus på fintech hos virksomheder, investorer, på uddannelsesinstitutionerne og hos regeringen. Fintech er ikke særskilt reguleret i Danmark, men virksomhederne, som tilbyder fintech-ydelser, reguleres følgelig forskelligt alt afhængig af den type tjenesteydelse, de leverer. 
+Der skal være større fokus på fintech hos virksomheder, investorer, på uddannelsesinstitutionerne og hos regeringen. 
+
+Fintech er ikke særskilt reguleret i Danmark, men virksomhederne, som tilbyder fintech-ydelser, reguleres følgelig forskelligt alt afhængig af den type tjenesteydelse, de leverer. 
 
 Reguleringen er bl.a. den finansielle lovgivning, som er meget stringent, omfattende, og som stiller høje krav til virksomhedernes kapital og løbende drift, herunder medarbejdernes uddannelse.
 
@@ -2245,7 +2263,8 @@ Ud over startkapital skal finansielle virksomheder også løbende have et særli
 
 
 
-**God skik:**
+## <font color="red">God skik og fintech<sup> Premium </font></sup>
+
 
 Alle finansielle virksomheder skal overholde god skik og praksis inden for virksomhedsområdet. God skik-reglerne er mangeartede, og det er uden for artiklens formål at gennemgå dem. 
 
@@ -2267,7 +2286,9 @@ Ligeledes opstiller loven en række mere specifikke krav, som ledelsesmedlemmern
 
 ---
 
-**Hvidvask:**
+### <font color="red">Hvidvask og fintech<sup> Premium </font></sup>
+
+![](img/fin5.jpg)
 
 Hvidvask og finansiel terrorisme har på global plan haft stor bevågenhed af medier og tilsynsførende myndigheder de seneste år, og det forventes, at bevågenheden øges, samt at de regulatoriske krav bliver strengere fremover. 
 
@@ -2277,7 +2298,7 @@ Hvidvaskloven gælder stort set for alle finansielle virksomheder og er derfor o
 
 Loven stiller krav om, at virksomhederne skal have en række skriftlige retningslinjer, herunder om kundelegitimation, intern kontrol, risikovurdering, risikostyring, ledelseskontrol og kommunikation, opmærksomhedspligt, undersøgelsespligt, noteringspligt, indberetningspligt samt opbevaring af registreringer. 
 
-Det er et grundlæggende princip i reguleringen, at virksomhederne skal kende sine kunder (populært kaldet “KYC”, der er en forkortelse for Know Your Customer), se nærmere gennemgangen i kapitel 11. 
+Det er et grundlæggende princip i reguleringen, at virksomhederne skal kende sine kunder (populært kaldet “KYC”, der er en forkortelse for Know Your Customer), se nærmere ovenfor for gennemgangen i kapitel 11. 
 
 Virksomhederne skal også udfærdige og gennemføre uddannelses- og instruktionsprogrammer til medarbejdere i selskabet alt med det formål at sikre lovens overholdelse.
 
@@ -2293,7 +2314,9 @@ Der er derfor behov for et større fokus fra lovgivers side på at sikre, at den
 
 ---
 
-**Fintech i Danmark i dag**
+### <font color="red">Fintech i Danmark i dag<sup> Premium </font></sup>
+
+![](img/fin4.jpg)
 
 Flere initiativer er etableret til at støtte op omkring den blomstrende danske fintech-industri, herunder *Dansk CrowdFunding Forening*, Copenhagen FinTech, m.fl., bl.a. med det formål at give Danmark mulighed for at påvirke eller sætte dagsordenen i fremtidens digitale agenda. 
 
@@ -2311,79 +2334,28 @@ Banker og forsikringsselskaber har en betydelig rolle i samfundet og har derfor 
 
 ---
 
-**Danmark som fintech hub**
+### <font color="red">Øget fokus på fintech fra lovgivers side<sup> Premium </font></sup>
 
-I dag er Danmark ikke et fintech-midtpunkt på hverken global eller europæisk plan. Dog vurderes især København at have dette potentiale.
 
-Københavns, og Danmarks, potentiale som fintech-centrum, blev blandt andet understreget i 2016, da København var udvalgt som værtsby for verdens største betalingskonference Money 20/20, der afholdte sit europæiske event i foråret 2016.
-
-Københavns potentiale som nordisk fintech-centrum bekræftes også af rapporten CPH FinTech Hub – Study and recommendation for making Copenhagen a Nordic FinTech hub fra ultimo 2015. Rapporten blev bestilt af Københavns Kommune med Finansforbundet, Finansrådet, Nets, Saxo Bank, DJØF, BEC, TRYG og Copenhagen Fintech for at undersøge Københavns potentiale for at blive et nordisk centrum for fintech. Rapporten konkluderer, at København, på grund af en god digital infrastruktur, høj villighed og beredskab inden for teknologi samt lave leve- og medarbejderomkostninger i forhold til navnlig Silicon Valley, New York og London, som udgør andre teknologi “hot spots”, har potentiale til at blive et centrum for fintech i Norden. Rapporten peger også på Danmarks eksisterende ry for at have en veletableret digital finansiel industri, som også nævnt ovenfor.
-
-Rapporten, som blev udfærdiget af Oxford Researd og RainmakinInnovation, påpeger dog også Københavns svagheder i forhold til at blive et nordisk fintech-centrum. Rapporten peger således på, at København har et forholdsvist spredt fintech-økosystem, hvor spillerne (startups, investorer, etablerede finansielle virksomheder og offentlige institutioner) ikke samarbejder tilstrækkeligt. Den største svaghed er dog Københavns beskedne startup scene, og denne er netop resultatet af den manglende fokus på fintech, som vi har i dag fra ovennævnte spillere, hvilket kan virke besynderligt taget den eksponentielle vækst og det fortsatte potentiale i fintech, der er. Det understreges, at selvom rapporten undersøger Københavns mulighed for at blive et fintech-centrum, er de udfordringer, som byen står over for, overordnet set også gældende for resten af Danmark.
-
-Øget fokus på fintech fra regeringen
 De lovgivningsmæssige krav skal som altovervejende regel være opfyldt under hele den finansielle virksomheds drift, og hvis et eller flere krav svigtes, kan den finansielle virksomheds tilladelse inddrages af Finanstilsynet.
 
-De lovgivningsmæssige krav er omfattende samt komplicerede, og kan derfor være uoverskuelige for fintech-iværksættere at navigere i. Iværksættere vil typisk ikke have væsentlig fokus på, eller have afsat ressourcer til, overholdelse af kompleks detaillovgivning. Lovgivningen kan derfor virke som en hæmsko for fintech-startups og være med til at begrænse udviklingen af denne væsentlige industri i Danmark.
+De lovgivningsmæssige krav er omfattende samt komplicerede, og kan derfor være uoverskuelige for fintech-iværksættere at navigere i. 
 
-Der er til dels fokus på dette skisma fra regeringens side. Per 1. januar 2017 trådte nye mere lempelige startkapitalkrav i kraft for fondsmæglerselskaber . Et fondsmæglerselskab skulle tidligere have en aktiekapital på mindst EUR 300.000 henholdsvis EUR 1.000.000, afhængig af de aktiviteter som fondsmæglerselskabet påtænkte at udøve. Såfremt fondsmæglerselskabet ønskede at blive medlem af et reguleret marked, en værdipapircentral eller en clearingscentral, hvor selskabet ville deltage i clearing og afvikling, eller ønskede at udføre en eller flere af de aktiviteter, som er opregnet i bilag 4, afsnit A, nr. 3, 6, 8 og 9, og afsnit B, nr. 2, (bl.a. forretninger for egen regning med finansielle instrumenter, placering af finansielle instrumenter uden fast forpligtelse, samt opbevaring og forvaltning for investorers regning i forbindelse med finansielle instrumenter), skulle fondsmæglerselskabet have en aktiekapital på EUR 1.000.000. Andre fondsmæglerselskaber skulle have en aktiekapital på mindst EUR 300.000. Aktiekapitalen skulle være fuldt indbetalt. Med aktiekapital menes det indskud, som ejerne har indskudt og som deres hæftelse er begrænset til. Den mindst mulige aktiekapital for aktieselskaber er i henhold til selskabsloven DKK 500.000. I modsætning til fondsmæglerselskaber (og andre finansielle virksomheder), kan øvrige aktieselskaber generelt nøjes med at have indbetalt ned til 25 pct., eller DKK 125.000, af den påkrævede mindste aktiekapital, mens det resterende beløb kan kræves indbetalt af bestyrelsen på anfordring.
+Iværksættere vil typisk ikke have væsentlig fokus på, eller have afsat ressourcer til, overholdelse af kompleks detaillovgivning. 
 
-Kravet på EUR 300.000 henholdsvis EUR 1.000.000 stammer fra fondsmæglerselskabsloven , der blandt andet havde til formål at implementere kapitalkravsdirektivet af 1993. Kapitalkravsdirektivets stillede krav om, at fondsmæglerselskaber skulle have en startkapital på minimum EUR 50.000, EUR 125.000 eller EUR 730.000 afhængig af dets aktiviteter. Folketinget fandt dog ikke kravene forenelige med udøvelse af investeringsservice i Danmark, hvorfor de forhøjede kapitalkrav på henholdsvis EUR 300.000 og EUR 1.000.000 blev foreslået og vedtaget i 1995. Danmark overimplementerede således EU's kapitalkrav til fondsmæglerselskaber allerede i 1995, og disse er først med ændringen af lov om finansiel virksomhed per 1. januar 2017 nedsat til EU niveau.
+Lovgivningen kan derfor virke som en hæmsko for fintech-startups og være med til at begrænse udviklingen af denne væsentlige industri i Danmark.
 
-De nye kapitalkrav for fondsmæglerselskaber er et skridt i den rigtige retning for at skabe konkurrencedygtige danske fintech-virksomheder i Europa, men lovgivningen er fortsat omfattende og svært overskuelig. Således gælder der også forordninger vedtaget i EU, som er umiddelbart gyldige i Danmark, og selvom f.eks. lov om finansiel virksomhed gentager visse forordningsbestemmelser af praktiske hensyn, gentages alle ikke. Fintech-virksomheder skal derfor ikke alene navigere i dansk ret, men også i supranational EU-ret.
+De nye kapitalkrav for fondsmæglerselskaber er et skridt i den rigtige retning for at skabe konkurrencedygtige danske fintech-virksomheder i Europa, men lovgivningen er fortsat omfattende og svært overskuelig. 
 
-Regeringens muligheder for at lave en mere liberal lovgivning for fintech-virksomheder er af samme årsager i vidt omfanget begrænset. Meget af den finansielle lovgivning er netop baseret på EU retsakter, som Danmark er forpligtede til at overholde. Regeringen vil derfor ikke kunne lave en mere lempelig finansiel lovgivning alene for fintech-virksomheder uden at krænke EU-retten.
+Således gælder der også forordninger vedtaget i EU, som er umiddelbart gyldige i Danmark, og selvom f.eks. lov om finansiel virksomhed gentager visse forordningsbestemmelser af praktiske hensyn, gentages alle ikke. 
 
-Men der findes måske snart mulighed for, at fintech-iværksættere “på prøve” kan teste deres produkter og idéer over for forbrugere. Således har Erhvervsministeren bekræftet, at ministeriet arbejder på at etablere en “sandkasse” for fintech-virksomheder – en såkaldt “Regulatory Sandbox” – hos Finanstilsynet . Idéen kommer fra England, der har etableret en sådan Regulatory Sandbox som led i Financial Conduct Authoritys (Englands regulatoriske og tilsynsførende myndighed med finansielle virksomheder) Project Innovate. Idéen med Englands Regulatory Sandbox er bl.a. at skabe et sikkert sted for fintech-produkter, hvor produkterne kan testes for potentiale og lovlighed, inden fintech-virksomheden bruger de mange ressourcer, der er nødvendige for at opnå og vedligeholde en tilladelse til at drive en finansiel virksomhed. For at blive lukket ind i sandkassen, skal man have et produkt, der er innovativt, umiddelbart til gavn for forbrugere, der er nødvendig at teste, og klar til at blive testet i Regulatory Sandbox. Optages fintech-virksomheden i Englands Regulatory Sandbox, får virksomheden, med begrænsninger, lov til at teste dens idéer og modtage rådgivning fra Financial Conduct Authority. Hvis fintech-virksomheden efterfølgende ønsker at søsætte deres produkt i det almindelige marked, skal virksomheden søge om sædvanlig tilladelse.
+Fintech-virksomheder skal derfor ikke alene navigere i dansk ret, men også i supranational EU-ret.
 
-Regulatory Sandbox-konceptet er hurtigt blevet populært, og der er allerede foretaget skridt til at etablere lignende koncepter i Australien, Singapore, Thailand og USA – udover Danmark .
+Regeringens muligheder for at lave en mere liberal lovgivning for fintech-virksomheder er af samme årsager i vidt omfanget begrænset. 
 
-Udsigt
-Hvordan sandbox-konceptet kommer til at blive udformet i Danmark, vides endnu ikke. Det kræver formentlig et større lovgivningsmæssigt arbejde at få etableret en dansk Regulatory Sandbox, der både kan tilgodese de behov og muligheder, der gælder for fintech-virksomheder, og som samtidig kan indeholdes inden for den EU-retlige finansielle lovgivning, som Danmark ikke uden tilladelse kan fravige. Herudover er det værd at bemærke, at Englands Regulatory Sandbox er særlig i den forstand, at Financial Conduct Authority har forholdsmæssigt vide beføjelser til, og har intentioner om til brug for deres Regulatory Sandbox, at fravige visse regler i Englands finansielle lovgivning for fintech-virksomhederne, såfremt dette tilgodeser fintech-virksomhederne og kunderne (men naturligvis kun hvis muligt i forhold til netop EU-retten). Finanstilsynet i Danmark har ikke umiddelbart samme beføjelser til at fravige den finansielle lovgivning, som Financial Conduct Authority har i England. Det bliver derfor spændende at se, hvordan regeringen håndterer dette, muligvis vigtige, aspekt i en eventuel dansk Regulatory Sandbox.
+Meget af den finansielle lovgivning er netop baseret på EU retsakter, som Danmark er forpligtede til at overholde. 
 
-Etablering af et dansk Regulatory Sandbox og ændring af startkapitalen for fondsmæglerselskaber, således at de nedsættes til EU's minimumsbeløb, er et tegn på, at regeringen har fokus på fintech-industrien. Hvorvidt Regulatory Sandbox bliver succesfuldt, vides naturligvis ikke. Ej heller er der endnu succeshistorier for de førnævnte andre landes Regulatory Sandbox, da konceptet fortsat er for nyt.
+Regeringen vil derfor ikke kunne lave en mere lempelig finansiel lovgivning alene for fintech-virksomheder uden at krænke EU-retten.
 
-Ligeledes kan der sættes spørgsmålstegn ved, om ændring af startkapitalen for fondsmæglerselskaber styrker Danmarks konkurrenceevne i Europa for etablering af fondsmæglerselskaber, som lovgiver ønsker. Når finansielle virksomheder i EU får en tilladelse til at drive finansiel virksomhed i ét EU land, har virksomheden ret til at drive samme virksomhed i de øvrige EU lande, selvom de måske ikke opfylder samme krav i de øvrige lande, som i tilladelseslandet. Med lovændringen håber lovgiver, at bl.a. fintech-iværksættere starter sin virksomhed op i Danmark frem for at vælge et landet land at drive i virksomhed i samt at benytte tilladelsen i Danmark.
-
-Det er dog usikkert, om Danmarks konkurrenceevnen på området forbedres af den grund. Der er som nævnt fortsat mange lovgivningsmæssige barrierer ud over den høje startkapital, som gør det kompleks og krævende at drive finansiel virksomhed i Danmark.
-
-Det er ligeledes værd at bemærke, at det i lov om finansiel virksomhed fortsat er et krav, at fondsmæglerselskaber skal være aktieselskaber. Herudover skal aktiekapitalen i alle finansielle virksomheder, herunder fondsmæglerselskaber, som nævnt indbetales fuldt ud. Dette betyder, at danske fintech-iværksætterne, uanset det EU-tilsvarende kapitalkrav på EUR 50.000, skal indbetale selskabslovens mindsteaktiekapital på DKK 500.000 svarede til EUR 66.667. Fintech-iværksætterne kan derfor ikke anvende en dækningstype med en erhvervsansvarsforsikring med henblik på at undgå at indskyde en lavere aktiekapital. Selvom dette måske i absolutte tal ikke er (eller bør være) en større hindring, når vi taler etablering af finansielle virksomheder, er det desuagtet en konkurrencehindring i forhold til etablering i andre medlemsstater.
-
-Regeringens stigende fokus på fintech-industrien er dog positivt og kærkomment, og det forventes, at ændringen af startkapitalen for fondsmæglerselskaber vil opfylde dets formål, således, at fintech-virksomheder inden for værdipapirhandel fremover ikke fraflytter eller fravælger Danmark alene af denne årsag.
-
-Danmark er med lovændringen bragt på højde med EU's regler og dermed de øvrige medlemsstaters regulering af denne type af fintech-virksomheder. Fremover kan Danmark således fokusere på at konkurrere med de andre EU-medlemsstater om at tiltrække nyetablering af fintech-virksomheder på lige regulatoriske vilkår, og unge IT iværksættere kan konkurrere om produkter, services og løsninger fremfor på hjemlandets regulering.
-
-Det forventes, at der fremover fra EU's side er fokus på, at EU-lovgivningen bliver mere lempelig for fintech-virksomheder, således at medlemsstaterne, herunder Danmark, kan vedtage en mere fleksibel finansiel lovgivning for fintech-virksomhederne. Europa-Kommissionen nedsatte ultimo 2016 en fintech-taskforce (den såkaldte Financial Technology Task Force – eller FTTF) med henblik på at hjælpe fintech-virksomheder til at udnytte deres fulde potentiale. Task-forcens mål er at formulere lovgivningsmæssige forslag og tiltag i løbet af 2017 .
-
-Fintech-industrien i Danmark står dog fortsat over for en række udfordringer, som bl.a. skitseres godt i nævnte rapport (CPH FinTech Hub – Study and recommendation for making Copenhagen a Nordic FinTech hub). Uanset om man ønsker Danmark, eller nærmere København, som et fremtidigt fintech-centrum i Europa eller blot Norden, taler det øgede fokus og de eksponentielle investeringer i fintech for, at der i Danmark skal afsættes flere ressourcer af til at tilpasse den finansielle industri og lovgivningen heraf, så den tilgodeser og fremmer fintech. Dette er utvivlsomt en nødvendighed for at kunne operere med funktionelle finansielle services i en fortsat mere globaliseret og teknologibaseret verden.
-
-Danmark brug for flere start-ups for at kunne udvikle teknologi og også fintech-industrien. Ud over teknologiske færdigheder kræver et start-up miljø bl.a. åben dialog og tilgængelig dialog med offentlige myndigheder for bl.a. at kunne navigere i en jungle af lovgivning, ligesom der er behov for adgang til risikovillig kapital.
-
-Begge faktorer udvikles positivt, men der er behov for større fokus på fintech i Danmark, hvis vi skal styrke udviklingen af moderne finansiel teknologi til forbrugere og virksomheder, samt udnytte det meget store potentiale, som fintech-industrien har.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
