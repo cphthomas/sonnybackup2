@@ -63,7 +63,7 @@ Reglen har praktisk betydning f.eks. ved trafikulykker, hvor ægtefæller omkomm
 
 Et barn, som er avlet forinden dødsfaldet og senere fødes levende, har også arveret. Den gravide kvindes foster er således arveberettiget.  
 
-Det siges, at **"arven er faldet"**, når kravet på arv kan overføres ved aftale, tilegnes af arvingens kreditorer, falde i arv ved arvingens død eller indgå i arvingens eventuelle separations- eller skilsmissebo. 
+Det siges, at *"arven er faldet"*, når kravet på arv kan overføres ved aftale, tilegnes af arvingens kreditorer, falde i arv ved arvingens død eller indgå i arvingens eventuelle separations- eller skilsmissebo. 
 
 Dette tidspunkt indtræder som regel ved arveladers død. 
 
@@ -99,7 +99,7 @@ Arvinger kan inddeles i tre hovedgrupper: slægtninge, ægtefæller og testament
  
 ## Arvens fordeling til arveklasser
 
-![](img/arv3.jpg)
+![](img/arv4.png)
 
 Arven fordeles til arveklasse 1, 2 eller 3. Er der ingen arvinger i arveklasse 1 går man videre til arveklasse 2, og er der ingen arvinger i arveklasse 2, arver arveklasse 3.  
 
@@ -112,8 +112,6 @@ Er der ingen arvinger efter arvelov eller testamente tilfalder arven statskassen
 ---
 
 ### Arveklasse 1 
-
-![](img/arv4.png)
 
 Arveklasse 1 er livsarvinger, som er børn, børnebørn, oldebørn osv., jf. AL § 1. 
 
@@ -143,7 +141,6 @@ På tilsvarende måde arver fjernere livsarvinger (oldebørn mv.).
 
 ### Arveklasse 2 
 
-![](img/arv5.jpg)
 
 Arveklasse 2 er arveladers forældre, jf. AL § 2. Forældrene arver lige. 
 
@@ -164,7 +161,7 @@ Lever begge arveladerens forældre, arver de hver halvdelen.
 
 ### Arveklasse 3
 
-![](img/arv6.jpg)
+
 
 Arveklasse 3 er arveladers bedsteforældre, jf. AL § 3. 
 

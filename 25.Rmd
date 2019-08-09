@@ -1,7 +1,7 @@
 # <font color="red">Forsikring, pension og ankenævn  <sup> Premium </font></sup>
 
 ```{r, echo=FALSE, results='asis'}
-# cat(readLines('npp.html'))
+cat(readLines('npp.html'))
 ```
 
 ## <font color="red">Rettigheder og forpligtelser i forsikringsretten<sup> Premium </font></sup>
@@ -544,14 +544,11 @@ Reglerne findes i FAL § 51. Det er forsikringsselskabets bevisbyrde, hvis selsk
 
 *Eksempler på sikkerhedsforholdsregler, som nævnes af Forsikringsankenævnet, kan være:*
 
-* Krav i familie-/indboforsikringen om, at ens bolig skal være  
-  forsvarligt aflåst, for at man har ret til erstatning efter  
-  reglerne om indbrudstyveri.  
+* Krav i familie-/indboforsikringen om, at ens bolig skal være forsvarligt aflåst, for at man har ret til erstatning efter reglerne om indbrudstyveri.  
   
 * Krav i bygningsforsikringen om, at bygningen skal være forsvarligt   vedligeholdt. 
 
-* Krav i motorkøretøjsforsikringen om, at føreren skal have gyldigt  
-  kørekort.  
+* Krav i motorkøretøjsforsikringen om, at føreren skal have gyldigt kørekort.  
   
 ---
 
@@ -561,7 +558,10 @@ Reglerne findes i FAL § 51. Det er forsikringsselskabets bevisbyrde, hvis selsk
 
 ---
 
-*Se praksis fra Forsikringsankenævnet og retspraksis omkring FAL § 51:*  
+*Se praksis fra Forsikringsankenævnet og retspraksis omkring FAL § 51:*
+
+
+![](img/lost.jpg)
 
 **FED 1994 52.** (Krav om aflåsning kunne ikke anses som krav om vedvarende aflåsning. Dækning af tyveri fra skab trods uaflåst hoveddør). Den manglende aflåsning skal kunne tilregnes den pågældende som en forsømmelse.
 
@@ -891,8 +891,7 @@ Man kan klage over et finansieringsselskab, der ikke er ejet af et pengeinstitut
 
 Ankenævnet behandler ikke klager over finansielle institutters datterselskaber, der er et forsikringsselskab.
 
-Hvis man ønsker at klage over et forsikringsselskab, kan man
-klage til Ankenævnet for Forsikring, www.ankeforsikring.dk.
+Hvis man ønsker at klage over et forsikringsselskab, kan man klage til Ankenævnet for Forsikring, www.ankeforsikring.dk.
 
 Ankenævnet kan imidlertid behandle ens klage, hvis den vedrører et instituts rådgivning om forsikringer.
 
@@ -1156,8 +1155,6 @@ Det kan anbefales, at du tilmelder dig Finanstilsynets nyhedsbreve!
 
 
 ## <font color="red">Ansvarsforsikring<sup> Premium </font></sup>
-
-
 
 
 Følgende betragtninger og oplysninger om det private ansvar, husejeransvaret, ansvaret for ens hund, skader på arbejdet samt skader ved udøvelse af sportsaktiviteter bygger hovedsageligt på Forsikringsankenævnets oplysninger i ankenævnets ”klageguide” samt Forsikringsankenævnets praksis, herunder på retspraksis, samt viden fra Forsikringsoplysningen.

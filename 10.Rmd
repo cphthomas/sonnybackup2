@@ -22,6 +22,8 @@ Personoplysninger er alle oplysninger, der vedrører en identificeret eller iden
 
 Den, der behandles personoplysninger om, kaldes som regel *"den registrerede"*, mens den, der behandler personoplysninger om andre, er den *"dataansvarlige*  eller *"databehandleren"*, alt efter hvilken rolle vedkommende har i behandlingen af persondata. 
 
+---
+
 Den registrerede har en række rettigheder over for den dataansvarlige. 
 
 Det er den registreredes rettigheder, der skal beskyttes, og den dataansvarlige og databehandleren, der har ansvaret for denne beskyttelse. 
@@ -33,7 +35,6 @@ Herudover giver rettighederne den registrerede kontrol over sine egne personoply
 Den dataansvarlige skal sikre sig, at behandlingen af personoplysninger er i overensstemmelse med en række grundprincipper, ligesom der skal være et lovligt grundlag til at behandle oplysningerne. 
 
 Reglerne på databeskyttelsesområdet indebærer også, at den dataansvarlige skal foretage en række mere generelle vurderinger og overvejelser i forhold til selve beskyttelsen af de oplysninger.
-
 
 Når du som registreret stiller spørgsmålstegn ved en behandling af oplysninger om dig, eller du påberåber dig dine rettigheder over for den dataansvarlige, skal den dataansvarlige reagere på henvendelsen.
 
@@ -81,7 +82,7 @@ Omvendt får den, der behandles oplysninger om (den registrerede) en række rett
 
 ---
 
-**Video: Intro Databeskyttelsesloven**
+**Video: Introduktion til databeskyttelsesloven**
 
 
 
@@ -118,18 +119,31 @@ Hvis oplysninger om fysiske personer er fuldstændig anonymiserede, er der ikke 
 Ifølge databeskyttelsesforordningens artikel 4, nr. 2, skal begrebet *”behandling”* forstås som enhver aktivitet eller række af aktiviteter - med eller uden brug af automatisk behandling - som personoplysninger eller en samling af personoplysninger gøres til genstand for, f.eks.: 
 
 * indsamling, 
-* registrering, 
-* organisering, 
-* systematisering, 
+
+* registrering,
+
+* organisering,
+
+* systematisering,
+
 * opbevaring, 
+
 * tilpasning eller ændring, 
+
 * genfinding, 
+
 * søgning, 
+
 * brug, 
+
 * videregivelse ved transmission, 
+
 * formidling eller enhver anden form for overladelse, 
-* sammenstilling eller samkøring, 
+
+* sammenstilling eller samkøring,
+
 * begrænsning, 
+
 * sletning eller tilintetgørelse.
 
 ---
@@ -151,17 +165,25 @@ Anderledes med *fansider på Facebook*, hvor Facebook og administratoren af en f
 Behandlingsbegrebet skal forstås meget bredt og dækker over enhver form for håndtering af personoplysninger, såsom:  
 
 * Indsamling
+
 * Registrering
+
 * Systematisering
+
 * Opbevaring
+
 * Søgning
+
 * Tilpasning
+
 * Sletning
+
 * Videregivelse
  
 ---
 
 ## <font color="red">Opdelingen af personoplysningerne<sup> Premium </font></sup>
+
 
 
 
@@ -523,7 +545,9 @@ Medlemmerne anses for at have et reelt og frit valg, så længe et nægtet samty
 
 ---
 
-### Tjekliste for samtykke
+### <font color="red">Tjekliste for samtykke<sup> Premium </font></sup>
+
+
 
 Datatilsynet og Justitsministeriet har udarbejdet følgende nedenstående tjekliste, herunder kan den liste tjene som en rettesnor for, om man som dataansvarlig er på linje med kravene i databeskyttelsesforordningen eller ej:^[Jf. Datatilsynets og Justitsministeriets pjece om vejledning om Samtykke, november 2017, s. 18.]
 
@@ -587,7 +611,9 @@ Som registreret har man således blandt andet følgende persondatarettigheder.
 
 ---
 
-### Ret til indsigt  
+### <font color="red">Ret til indsigt<sup> Premium </font></sup>
+
+
 
 ![](img/tv.jpg)
 
@@ -600,14 +626,18 @@ Dette omfatter registreredes ret til indsigt i deres helbredsoplysninger, f.eks.
 ---
 
 
-### Ret til berigtigelse 
+### <font color="red">Ret til berigtigelse<sup> Premium </font></sup>
+
+![](img/data11.jpg)
 
 Den registrerede har ret til at få urigtige/forkerte personoplysninger om sig rettet. 
 
 
 ---
 
-### Ret til sletning eller "retten til at blive glemt"
+### <font color="red">Ret til sletning eller "retten til at blive glemt"<sup> Premium </font></sup>
+
+
 
 ![](img/glemt.jpg)
 
@@ -632,7 +662,9 @@ Det fremgår desuden, at den registrerede bør kunne udøve denne rettighed, uan
 
 ---
 
-### Ret til begrænsning af behandling
+### <font color="red">Ret til begrænsning af behandling<sup> Premium </font></sup>
+
+
   
 Den registrerede har ret til at få begrænset behandlingen af sine personoplysninger, hvis én af en række betingelser er opfyldt:
 
@@ -651,7 +683,9 @@ d) Den registrerede har gjort indsigelse mod din behandling. Den dataansvarlige 
 
 ---
 
-### Ret til dataportabilitet 
+### <font color="red">Ret til dataportabilitet<sup> Premium </font></sup>
+
+
 
 ![](img/data8.jpg)
 
@@ -677,13 +711,16 @@ Retten til dataportabilitet finder ikke anvendelse på behandling, der er nødve
 
 ---
 
-### Ret til indsigelse 
+### <font color="red">Ret til indsigelse<sup> Premium </font></sup>
+
+
 
 Den registrerede har ret til at gøre indsigelse mod en ellers lovlig behandling af sine personoplysninger. 
 
 ---
 
-### Ret til ikke at være genstand for en automatisk afgørelse
+### <font color="red">Ret til ikke at være genstand for en automatisk afgørelse<sup> Premium </font></sup>
+
 
 Den registrerede har ret til ikke at være genstand for en automatisk afgørelse udelukkende baseret på automatisk behandling, herunder profilering, jf. nærmere databeskyttelsesforordningens artikel 22, stk. 1.
 
@@ -691,17 +728,25 @@ Det er Datatilsynet, som påser at virksomhederne overholder reglerne i databesk
 
 Derudover udsteder Datatilsynet retningslinjer og anbefalinger for behandling og beskyttelse af persondata.
 
----
-
-Video: 
 
 ---
 
-### Dataansvarlig og databehandler
+### <font color="red">Dataansvarlig og databehandler<sup> Premium </font></sup>  
+
+---
+
+![](img/data10.png)
+
 
 ---
 
 **Video: Dataansvarlig og databehandler**
+
+  
+
+
+
+
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/L49BE_nqLKU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -786,6 +831,540 @@ Udstedelse af administrative bødeforelæg kan også tænkes anvendt i sager om 
  
 ---
 
+## <font color="red">Spørgsmål og svar på databeskyttelsesreglerne<sup> Premium </font></sup>
+
+
+Ofte stillede spørgsmål til datatilsynet:^[Følgende afsnit om spørgsmål og svar, jf. Datatilsynets hjemmeside: https://www.datatilsynet.dk/generelt-om-databeskyttelse/ofte-stillede-spoergsmaal/.]
+
+---
+
+**Generelt:**
+
+*Betragtes et billede som en personoplysning?*
+
+Ja, hvis det drejer sig om et billede af en genkendelig person, vil der være tale om en personoplysning omfattet af databeskyttelsesreglerne.
+
+---
+
+*Skal jeg have Datatilsynets tilladelse til at behandle personoplysninger?*
+
+Oftest nej.
+
+I nogle meget få tilfælde skal private virksomheder mv. dog indhente Datatilsynets tilladelse, inden behandlingen påbegyndes.
+
+---
+
+*Hvem er den dataansvarlige?*
+
+Databeskyttelsesforordningen definerer ”den dataansvarlige” som den fysiske eller juridiske person, offentlige myndighed, institution mv., der alene eller sammen med andre afgør, til hvilket formål og med hvilke hjælpemidler der må foretages behandling af oplysninger.
+
+Det afgørende er, hvem der faktisk afgør, hvordan oplysningerne skal behandles.
+
+---
+
+*Har jeg efter de databeskyttelsesretlige regler pligt til at udlevere oplysninger om mig?*
+
+Nej, databeskyttelsesreglerne handler kun om, hvornår en offentlig myndighed, privat virksomhed mv. kan og må behandle personoplysninger.
+
+Reglerne fastslår ikke, hvornår en offentlig myndighed, privat virksomhed mv. har krav på at få oplysninger om dig.
+
+Du skal imidlertid være opmærksom på, at det i en konkret situation kan følge af anden lovgivning, at du har pligt til at udlevere oplysninger om dig, og hvilke konsekvenser det har, hvis du ikke ønsker at udlevere oplysningerne.
+
+---
+
+*Jeg er blevet opmærksom på, at diverse hjemmesider har oplysninger om mig, fx om min bil eller min bolig. Hvad gør jeg?*
+
+Private virksomheder mv. kan som udgangspunkt lovligt indsamle, registrere, bearbejde og videregive personoplysninger, der er indhentet fra et eller flere offentligt tilgængelige registre såsom Statstidende, CVR, Bilbogen, Motorregistret og lignende.
+
+Der findes ingen specifikke regler i databeskyttelsesforordningen og databeskyttelsesloven om private virksomheders mv. behandling af sådanne oplysninger, men Datatilsynet har i konkrete tilfælde tidligere vurderet lovligheden af sådanne behandlinger ud fra den såkaldte interesseafvejningsregel, hvor tilsynet har lagt særlig vægt på, at oplysningerne stammer fra offentligt tilgængelige kilder.
+
+Du har ret til at gøre indsigelse over for den private virksomhed mv. mod dennes behandling af oplysninger om dig.
+
+Det skal dog bemærkes, at idet behandlingen af sådanne oplysninger som udgangspunkt er lovlig, vil din indsigelse kun blive anset for berettiget, hvis særligt tungtvejende grunde, der vedrører din særlige situation, taler for, at behandlingen af dine oplysninger (alligevel) ikke må finde sted.
+
+---
+
+*Kan jeg få erstatning, hvis oplysninger om mig er blevet behandlet i strid med de databeskyttelsesretlige regler?*
+
+Hvis du har lidt et økonomisk tab ved en behandling, der er sket i strid med databeskyttelsesreglerne, kan det være, at du har ret til erstatning.
+
+Økonomisk tab som følge af overtrædelser af databeskyttelsesreglerne kan bl.a. forekomme ved ukorrekt databehandling i forbindelse med kreditoplysning, e-handel og i ansættelsessituationer.
+
+Datatilsynet kan dog ikke hjælpe dig, hvis du mener, at du har krav på erstatning. Du skal i stedet indbringe sagen for domstolene.
+
+---
+
+*Kan man blive straffet, hvis man ikke overholder den databeskyttelsesretlige lovgivning?*
+
+Ja. Du kan blive straffet med bøde eller fængsel i indtil 6 måneder, hvis du overtræder visse af databeskyttelsesreglerne.
+
+--- 
+
+**Foreninger**
+
+*Jeg sidder i bestyrelsen for en lille forening. Er vi omfattet af den databeskyttelsesretlige lovgivning?*
+
+Ja. Databeskyttelsesreglerne gælder for behandling af personoplysninger, uanset størrelsen af den organisation eller virksomhed, der foretager behandlingen.
+
+---
+
+*Hvilke oplysninger må man registrere om foreningens medlemmer?*
+
+Foreningers registrering af oplysninger om medlemmerne er omfattet af databeskyttelsesreglerne.
+
+Det er i orden, at en forening registrerer almindelige oplysninger som f.eks. indmeldelsesdato, id-oplysninger, evt. tillids- eller hvervsposter m.m. 
+
+En forening vil som udgangspunkt også kunne registrere oplysninger af mere speciel karakter som f.eks. oplysninger om et medlems bedste score, golfhandicap, certifikat niveau m.m.
+
+---
+
+*Må jeg videregive oplysninger om, hvem der er medlem af foreningen?*
+
+Du må som udgangspunkt gerne videregive sådanne oplysninger internt i foreningen, fx i form af en medlemsliste i et medlemsblad, der alene distribueres internt i foreningen, eller på en lukket internetside, hvor kun foreningens medlemmer har adgang.
+
+Det kræver dog et samtykke fra det enkelte medlem, hvis du ønsker at offentliggøre en medlemsliste på det åbne internet.
+
+Efter Datatilsynets opfattelse er et medlemskab af en forening, uanset at denne måtte være en ukontroversiel, fx en sportsforening, en privat sag.
+
+---
+
+*Skal jeg være opmærksom på noget, når jeg sender e-mails til foreningens medlemmer?*
+
+Hvis du masseudsender en e-mail med informationer mv. til alle foreningens medlemmer, skal du være opmærksom på, hvor du angiver modtagernes e-mailadresser.
+
+E-mailadresser på modtagere af en sådan masseudsendelse bør ikke fremgå af selve e-mailen, og du bør derfor placere modtagernes e-mailadresser i e-mailens bcc-felt, således at modtagerne ikke kan se hinandens e-mailadresser.
+
+---
+
+**Forskning**
+
+*Hvem er dataansvarlig for et forskningsprojekt?*
+
+Ved afgørelsen af hvem der er dataansvarlig for personoplysninger i et forskningsprojekt, kan der bl.a. lægges vægt på:
+
+Hvem har taget initiativ til projektet?
+
+Hvem finansierer projektet?
+
+Aflønnes forskeren af f.eks. den offentlige myndighed?
+
+På hvilket it-udstyr vil der ske behandling af forskningsoplysningerne?
+
+Hvem har instruktionsbeføjelser i projektet?
+
+Hvad vil der ske, hvis forskeren finder et nyt job – vil den pågældende fortsætte projektet efterfølgende?
+
+Hvem kan tage skridt til sletning?
+
+Hvem deltager i projektet?
+
+Hvor længe skal forskningsprojektet forløbe?
+
+---
+
+*Må jeg anvende oplysninger fra et forskningsprojekt til andre formål, fx sagsbehandling eller markedsføring?*
+
+Nej. Oplysninger, der behandles med henblik på at udføre en undersøgelse af væsentlig samfundsmæssig betydning (forskningsdata), må ikke senere behandles i andet end statistisk eller videnskabeligt øjemed.
+
+Det betyder, at oplysningerne ikke kan anvendes til fx markedsføring, sagsbehandling eller patientbehandling.
+
+---
+
+*Må vi videregive personoplysninger til et forskningsprojekt?*
+
+Oftest ja. Videregivelse af personoplysninger forudsætter dog, at databeskyttelsesreglerne overholdes, herunder at der er hjemmel til videregivelsen, og at de grundlæggende behandlingsregler om saglighed, nødvendighed og proportionalitet er overholdt.
+
+Har vi som privat virksomhed, offentlig myndighed mv. pligt til at videregive personoplysninger til et forskningsprojekt?
+Nej, databeskyttelsesreglerne fastlægger kun, hvornår offentlige myndigheder, private virksomheder mv. kan og må behandle personoplysninger.
+
+Reglerne siger ikke noget om, hvornår en offentlig myndighed, privat virksomhed mv. er forpligtet til at udlevere personoplysninger til andre.
+
+---
+
+*Må vi indhente oplysninger fra patientjournaler til et forskningsprojekt?*
+
+Der findes særlige regler om videregivelse af oplysninger fra patientjournaler mv. til en forsker til brug for et konkret sundhedsvidenskabeligt forskningsprojekt i sundhedsloven.
+
+Styrelsen for Patientsikkerhed skal under visse omstændigheder godkende en videregivelse fra patientjournaler mv.
+
+Du bedes kontakte Styrelsen for Patientsikkerhed, hvis du har spørgsmål herom.
+
+---
+
+*Hvad gælder for multinationale forskningsprojekter?*
+
+Databeskyttelsesreglerne skal overholdes i forbindelse med gennemførelse af multinationale forskningsprojekter.
+
+Oftest er det afgørende at få afklaret, hvor dataansvaret er placeret, samt hvorvidt der anvendes databehandlere.
+
+---
+
+*Hvornår skal oplysningerne i et projekt slettes?*
+
+Oplysningerne i et projekt skal slettes, når det ikke længere er nødvendigt at behandle oplysningerne i personhenførbar form i forhold til projektets gennemførelse.
+
+Oplysningerne skal senest slettes ved undersøgelsens afslutning, eller når en statistik er udarbejdet. 
+
+Alternativt kan oplysningerne anonymiseres, så det ikke længere er muligt at identificere de registrerede personer, eller overføres til arkiv efter arkivlovens regler.
+
+---
+
+**Internet og apps**
+
+*Kan jeg kræve, at oplysninger om mig bliver slettet fra en hjemmeside?*
+
+Du kan gøre indsigelse mod behandling, fx en offentliggørelse, af oplysninger om dig.
+
+Du skal i første omgang gøre indsigelse over for den private virksomhed, privatperson, offentlige myndighed mv., som har offentliggjort oplysninger om dig på en hjemmeside.
+
+Hvis du har svært ved at finde ud af, hvem der står bag en hjemmeside, kan du eventuelt slå hjemmesiden op i DK Hostmasters WHOIS-database. 
+
+Det er en database over alle registrerede, danske hjemmesider. Du kan finde den her.
+
+Hvis den private virksomhed mv. ikke vil slette oplysningerne, kan du klage til Datatilsynet.
+
+---
+
+*Kan jeg kræve, at forkerte oplysninger om mig bliver rettet eller slettet?*
+
+Efter databeskyttelsesreglerne har du krav på, at forkerte oplysninger om dig bliver rettet eller slettet.
+
+Hvis du mener, at der er registreret forkerte oplysninger om dig hos en privat virksomhed, offentlig myndighed mv., skal du i første omgang kontakte virksomheden, myndigheden mv.
+
+Hvis den private virksomhed, offentlige myndighed mv. ikke vil rette eller slette oplysningerne om dig, kan du klage til Datatilsynet. 
+
+Der gælder dog særlige regler for det offentlige. Kommuner og andre offentlige myndigheder er normalt forpligtet til at opbevare sagsoplysninger sådan, at en sags forløb kan dokumenteres. 
+
+Datatilsynet har afgjort en række sager, hvor det har betydet, at oplysninger hos en offentlig myndighed ikke kunne kræves slettet.
+
+Myndigheden skal notere dine protester ned, så det ses i sagen, at du har en anden opfattelse end myndigheden.
+
+Må jeg lægge billeder af andre op på internettet uden deres samtykke?
+Det afhænger af billedet. 
+
+Ved offentliggørelse af billeder på internettet skelnes overordnet set mellem situationsbilleder og portrætbilleder.
+
+Som altovervejende udgangspunkt kræver det personens samtykke at offentliggøre et portrætbillede af vedkommende på internettet.
+
+Et situationsbillede kan som udgangspunkt offentliggøres uden samtykke, hvis det er harmløst.
+
+Her kan du læse mere om, hvornår et billede betragtes som et situations- eller portrætbillede, og hvad du i øvrigt skal være opmærksom på, når du offentliggør billeder på internettet:
+
+https://www.datatilsynet.dk/emner/internet-og-apps/billeder-paa-internettet/
+
+---
+
+*Er der oplysninger om andre, som jeg ikke må offentliggøre på internettet?*
+
+Ja. Visse oplysninger anses som følsomme oplysninger. 
+
+Det kan fx være at en anden person lider af en bestemt sygdom, eller at en anden person har en bestemt politisk overbevisning.
+
+Du må normalt kun offentliggøre den slags oplysninger, hvis du har et klart og tydeligt samtykke fra den person, som oplysningerne vedrører, eller hvis oplysningerne tidligere er blevet offentliggjort af personen selv.
+
+Oplysninger om race eller etnisk oprindelse, politisk, religiøs eller filosofisk overbevisning eller fagforeningsmæssigt tilhørsforhold, helbredsoplysninger eller oplysninger om seksuelle forhold eller seksuel orientering betragtes som følsomme personoplysninger. 
+
+Tilsvarende betragtes genetisk og biometrisk data med det formål entydigt at identificere en fysisk person som følsomme personoplysninger.
+
+Vær i øvrigt opmærksom på, at hvis det, du skriver, er meget krænkende, kan det være, at du overtræder straffeloven.
+
+---
+
+**Klagemuligheder**
+
+*Hvordan kan jeg klage?*
+
+Datatilsynet fører tilsyn med, at offentlige myndigheder, private virksomheder mv. behandler personoplysninger i overensstemmelse med databeskyttelsesforordningen og databeskyttelsesloven.
+
+Det er som udgangspunkt i første omgang op til den ansvarlige virksomhed, myndighed mv. at vurdere, hvorvidt behandling af oplysninger sker inden for rammerne af databeskyttelsesreglerne.
+
+Hvis du mener, at en offentlig myndighed, privat virksomhed eller lignende behandler oplysninger om dig i strid med databeskyttelsesreglerne, bør du derfor i første omgang rette henvendelse til dem, få deres forklaring på sagen og bede dem om at tage stilling til din henvendelse.
+
+Hvis det drejer sig om personoplysninger i forbindelse med et opslag på Facebook eller et andet socialt medie eller en debattråd på et debatforum, bør du kontakte den pågældende person, der står bag opslaget, få deres syn på sagen og bede dem om at slette eller fjerne oplysningerne.
+
+Efterfølgende kan du overveje, om du fortsat har brug for at få Datatilsynets vurdering af sagen.
+
+Du kan kun klage over behandling af oplysninger om dig selv og ikke om andre. 
+
+Du kan dog altid lade en anden klage på dine vegne, hvis du giver vedkommende en fuldmagt, ligesom du kan klage på en andens vegne, hvis du har en fuldmagt fra vedkommende.
+
+Du kan finde Datatilsynets kontaktoplysninger og telefontider her:
+
+https://www.datatilsynet.dk/kontakt/
+
+---
+
+*Hvordan klager jeg over et opslag på et socialt medie?*
+
+Hvis du ønsker at klage over behandling af personoplysninger i forbindelse med et opslag på Facebook eller et andet socialt medie eller en debattråd på et debatforum, bør du kontakte den pågældende person, der står bag opslaget, få deres syn på sagen og bede dem om at slette eller fjerne oplysningerne.
+
+Efterfølgende kan du overveje, om du fortsat har brug for at få Datatilsynets vurdering af sagen.
+
+Du kan kontakte Datatilsynet telefonisk, per e-mail eller brevpost, hvis du ønsker at blive vejledt om dine muligheder eller ønsker at klage over en behandling af personoplysninger om dig.
+
+Du finder Datatilsynets kontaktoplysninger og telefontider:
+
+https://www.datatilsynet.dk/kontakt/
+
+---
+
+*Kan jeg klage over oplysninger om mig i medierne?*
+
+Mediernes behandling af personoplysninger er i vidt omfang undtaget fra databeskyttelsesreglerne og Datatilsynets tilsynskompetence.
+
+I nogle tilfælde kan Pressenævnet behandle en klage. Du kan læse mere herom på Pressenævnets hjemmeside:
+
+https://www.pressenaevnet.dk/
+
+
+---
+
+*Hvem skal jeg kontakte, hvis mit hemmelige telefonnummer er blevet offentliggjort af en nummeroplysningstjeneste?*
+
+Hvis en nummeroplysningstjeneste, fx De Gule Sider, Krak mv., offentliggør oplysninger om hemmeligt telefonnummer, skal du rette henvendelse til dit teleselskab eller den pågældende nummeroplysningstjeneste, hvis du vil have stoppet offentliggørelsen.
+
+Hvis du har spørgsmål til eller ønsker at klage over en nummeroplysningstjeneste, skal du rette henvendelse til Energistyrelsen.
+
+Du finder Energistyrelsens kontaktinformation her:
+
+https://ens.dk/
+
+---
+
+*Hvem skal jeg kontakte vedrørende helbredsoplysninger i patientjournaler?*
+
+Hvis du ønsker at klage over en sag om aktindsigt (indsigt) eller videregivelse af helbredsoplysninger efter reglerne i sundhedsloven, kan du kontakte Styrelsen for Patientsikkerhed.
+
+Du kan læse mere om mulighederne for at klage til Styrelsen for Patientsikkerhed her:
+
+https://stps.dk/
+
+---
+
+*Mine oplysninger er blevet brugt i forbindelse med en sag ved domstolene**.
+
+Hvis du har spørgsmål til domstolenes behandling af personoplysninger kan du kontakte Domstolsstyrelsen for at høre nærmere.
+
+Du kan læse mere på Domstolsstyrelsens hjemmeside:
+
+http://www.domstol.dk/OM/ORGANISATION/DOMSTOLSSTYRELSEN/Pages/default.aspx
+
+---
+
+*Jeg er blevet udsat for identitetstyveri. Kan I hjælpe?*
+
+Hvis du har været udsat for identitetstyveri, fx ved at en anden person har misbrugt dit navn eller personnummer til at optage et lån, kan Datatilsynet ikke hjælpe dig. Du bør i stedet anmelde forholdet til politiet.
+
+Du kan læse mere om identitetstyveri på www.borger.dk, hvor du også kan se 10 gode råd til, hvordan du minimerer risikoen for identitetstyveri.
+
+---
+
+**Personnummer**
+
+*Skal jeg oplyse mit personnummer (CPR) til en privat virksomhed, hvis de beder om det?*
+
+Private må efter databeskyttelsesloven bl.a. behandle oplysninger om personnummer (CPR), når det følger af lov eller bestemmelser fastsat i henhold til lov, eller når den registrerede har givet sit udtrykkelige samtykke hertil.
+
+Du kan bede virksomheden oplyse, hvad der er grunden til, at du bliver bedt om personnummer, herunder om brugen af dit personnummer har et relevant og sagligt formål, eller om det er lovgivning, som kræver, at virksomheden registrerer dit personnummer.
+
+Databeskyttelsesregler bestemmer dog kun, om private må registrere dit personnummer. Reglerne bestemmer ikke, hvornår en virksomhed har krav på at få dit personnummer.
+
+Datatilsynet kan derfor ikke sige, om det i en konkret situation har konsekvenser, at du ikke ønsker at give samtykke til registrering af dit personnummer.
+
+---
+
+*Må en virksomhed påføre mit personnummer i deres brevpost til mig?*
+
+Det anses almindeligvis for at være en tilstrækkelig sikker fremgangsmåde at fremsende oplysninger per brevpost.
+
+Det er derfor ikke i strid med databeskyttelsesreglerne, at et brev indeholder et personnummer, medmindre det kan læses, fx i brevruden.
+
+Det er i øvrigt strafbart efter straffeloven at bryde brevhemmeligheden.
+
+---
+
+**Rettigheder**
+
+*Kan jeg få indsigt i, hvilke oplysninger en offentlig myndighed, privat virksomhed mv. behandler om mig?*
+
+Du har ret til at få oplyst, hvilke oplysninger en offentlig myndighed, privat virksomhed mv. har registreret om dig elektronisk.
+
+Du har krav på at få oplyst bl.a. hvilke oplysninger om dig, der behandles, formålet med behandlingen, kategorierne af modtagere af oplysningerne og tilgængelig information om, hvor oplysningerne kommer fra.
+
+Du kan læse meget mere om emnet i Datatilsynets vejledning om de registreredes rettigheder:
+
+https://www.datatilsynet.dk/media/6893/registreredes-rettigheder.pdf
+
+---
+
+*Hvordan kan jeg bede om indsigt?*
+
+Der gælder ingen regler for, hvordan du skal bede om indsigt. Det kan både gøres telefonisk, per brev eller per e-mail.
+
+---
+
+*Hvad gør jeg, hvis en offentlig myndighed, privat virksomhed mv. behandler forkert oplysninger om mig?*
+
+Hvis du mener, der er registreret forkerte oplysninger om dig, kan du kontakte den offentlige myndighed, private virksomhed mv., som efter din opfattelse behandler forkerte oplysninger.
+
+Det vil være en god idé tydeligt at skrive, hvilke oplysninger, du mener, er forkerte – og hvorfor.
+
+Du kan både henvende dig telefonisk, per brev eller per e-mail.
+
+Når den offentlige myndighed, private virksomhed mv. har modtaget din henvendelse, skal de vurdere, om oplysningerne skal slettes, blokeres eller rettes.
+
+Hvis de ikke vil slette, blokere eller rette oplysningerne, kan du klage til Datatilsynet.
+
+Blokering er en særlig markering af oplysningerne, som indebærer, at man fortsat må opbevare oplysningerne, men ikke behandle eller bruge oplysningerne i øvrigt. Blokering bruges dog sjældent.
+
+Normalt kan oplysninger hos offentlige myndigheder dog ikke slettes på grund af særlige regler i offentlighedsloven og arkivloven.
+
+---
+
+**Samtykke**
+
+*Kan der ske behandling af personoplysninger uden et samtykke?*
+
+Ja. Behandling af oplysninger kan ske på en række andre grundlag end den registreredes samtykke. 
+
+Det konkrete grundlag afhænger af, hvilken type oplysninger, der ønskes behandlet.
+
+---
+
+*Kan jeg tilbagekalde mit samtykke?*
+
+Ja, et samtykke kan til enhver tid tilbagekaldes.
+
+Hvis et samtykke tilbagekaldes, skal behandlingen af oplysninger om den registrerede ophøre, hvis oplysningerne ikke kan behandles på et andet grundlag.
+
+En tilbagekaldelse af et samtykke har ikke tilbagevirkende kraft, og tilbagekaldelsen påvirker derfor ikke den behandling af oplysninger, der er sket forud for tilbagekaldelsen.
+
+Udgangspunktet er, at den dataansvarlige skal ophøre med at behandle oplysningerne så hurtigt som muligt, hvis den registrerede tilbagekalder sit samtykke.
+
+Det er vigtigt at være opmærksom på, at opbevaring af den registreredes oplysninger også er en behandling, som derfor skal ophøre ved tilbagekaldelsen. 
+
+Det gælder dog kun de oplysninger, der er behandlet på grundlag af samtykket, men derimod ikke oplysninger, hvor behandlingsgrundlaget er et andet end samtykke – eksempelvis en kontrakt mellem den dataansvarlige og den registrerede. 
+ 
+Den registrerede har ret til at få oplysninger om sig selv slettet, når et samtykke er tilbagekaldt. 
+
+Selvom den registrerede ikke selv anmoder om det, bør den dataansvarlige tage stilling til spørgsmålet om at slette oplysningerne, hvis behandlingen alene hviler på samtykke, idet der ikke længere er et lovligt grundlag i forhold til opbevaring af den registreredes oplysninger. 
+ 
+I nogle tilfælde vil det dog være muligt at fortsætte en behandling, selvom den registrerede har tilbagekaldt sit samtykke.  
+ 
+En fortsat behandling må således kunne finde sted, hvis den er rimelig i forhold til den registrerede. 
+
+Vælger den dataansvarlige at fortsætte behandlingen, kan den registreredes uvilje tale imod at anse den dataansvarliges interesse for at være berettiget, og en afvejning af de modstridende interesser vil derfor kunne falde ud til den registreredes fordel. 
+ 
+Har den dataansvarlige et andet lovligt grundlag for behandling end samtykke med et selvstændigt formål – eksempelvis opbevaring af oplysninger af hensyn til overholdelse af reglerne om bogføring – vil denne behandling endvidere fortsat kunne finde sted. 
+ 
+Fortsættes behandlingen på et andet grundlag, skal den registrerede have information om behandlingsgrundlag, formål mv.
+
+Du kan læse mere om emnet i Datatilsynets vejledning om samtykke:
+
+https://www.datatilsynet.dk/media/6562/samtykke.pdf
+
+---
+
+**Tv-overvågning**
+
+*Må jeg som privatperson opsætte tv-overvågning?*
+
+Det kommer først og fremmest an på, hvilke områder, du ønsker at tv-overvåge.
+
+Private må ikke foretage tv-overvågning af områder, der benyttes til almindelig færdsel. Det står i tv-overvågningsloven.
+
+For andre områder regulerer loven derimod ikke, hvornår tv-overvågning er tilladt. For sådanne områder har tv-overvågningsloven kun betydning for, om der er pligt til at oplyse om, at der sker tv-overvågning.
+
+Derudover skal tv-overvågningsbilleder opbevares, slettes mv. i overensstemmelse med databeskyttelsesreglerne. Databeskyttelsesreglerne gælder dog ikke for private personer, der foretager tv-overvågning som led i rent personlige eller familiemæssige aktiviteter.  
+
+Som eksempel på en rent personlig eller familiemæssig aktivitet kan nævnes:
+
+Efter gentagne indbrud vil en familie for at få billeder af tyvene sætte kameraer op i haven og i indkørslen til deres parcelhus. 
+
+Tv-overvågningen er lovlig, da der ikke er tale om områder, som benyttes til almindelig færdsel. 
+
+Kameraerne skal sættes op, så de ikke filmer uden for grunden, f.eks. fortovet. Familiens opbevaring af optagelserne er undtaget fra databeskyttelsesreglerne.
+
+Det er dog vigtigt at være opmærksom på, at tv-overvågningen ikke længere vil være som led i rent personlige eller familiemæssige aktiviteter, hvis familien deler tv-overvågningsbillederne med andre end politiet.
+
+OBS: Datatilsynet er ikke tilsynsmyndighed i forhold til tv-overvågningsloven. Hvis du mener, at der er tale om overtrædelse af tv-overvågningslovens regler, kan henvendelse ske til politiet.
+
+---
+
+*Kan en arbejdsgiver opsætte tv-overvågning på arbejdspladsen?*
+
+Der gælder visse begrænsninger i arbejdsgiverens adgang til at indføre kontrolforanstaltninger, herunder tv-overvågning af ansatte. De vigtigste begrænsninger er:
+
+Der skal foreligge et driftsmæssigt formål.
+
+Det må ikke være krænkende for de ansatte.
+
+Der skal søges opnået en aftale med de ansatte.
+
+Enkeltmandskontorer må ikke tv-overvåges uden den ansattes samtykke. Det følger af straffeloven.
+
+Den, der foretager tv-overvågning af en arbejdsplads, skal ved skiltning eller på anden tydelig måde oplyse om, at området er tv-overvåget. Det følger af tv-overvågningsloven.
+
+Udover tv-overvågningslovens krav om skiltning mv. skal arbejdsgiveren sørge for at give medarbejdere og andre med regelmæssig gang på arbejdspladsen, fx rengøringspersonale, oplysninger som påkrævet efter databeskyttelsesreglerne. 
+
+De ansatte skal bl.a. oplyses om formålet med tv-overvågningen og om, i hvilke tilfælde optagelserne vil blive gennemgået og videregivet til politiet. Oplysningerne kan fx gives i retningslinjer for arbejdspladsen eller i en personalehåndbog.
+
+Informationen skal være forudgående, så f.eks. nyansatte skal have besked i forbindelse med deres ansættelse, eller når de begynder at arbejde i tv-overvågede lokaler.
+
+OBS: Datatilsynet er ikke tilsynsmyndighed i forhold til tv-overvågningsloven. Hvis du mener, at der er tale om overtrædelse af tv-overvågningslovens regler, kan henvendelse ske til politiet.
+
+---
+
+*Skal der informeres om, at et område er tv-overvåget?*
+
+Offentlige myndigheder, private virksomheder mv., der foretager tv-overvågning af steder eller lokaler, hvortil der er almindelig adgang, eller af arbejdspladser, skal ved skiltning eller på anden tydelig vis give oplysning herom. Det følger af tv-overvågningsloven.
+
+Uanset en eventuel skiltning gælder databeskyttelsesforordningens regler om oplysningspligt. 
+
+Det betyder, at selv om den offentlige myndighed, private virksomhed mv. informerer om tv-overvågning ved at opsætte skilte herom, så skal de også være opmærksomme på i fornødent omfang at give oplysninger som krævet i databeskyttelsesforordningen.
+
+OBS: Datatilsynet er ikke tilsynsmyndighed i forhold til tv-overvågningsloven. Hvis du mener, at der er tale om overtrædelse af tv-overvågningslovens regler, kan henvendelse ske til politiet.
+
+---
+
+*Må man optage lyd i forbindelse med tv-overvågning?*
+
+Straffeloven forbyder bl.a. hemmelig aflytning eller optagelse af samtaler mellem andre.
+
+Forbuddet gælder overalt og altså også fx på områder, som benyttes til almindelig færdsel (vej, sti, plads mv.), i butikker og befordringsmidler mv., på kontorer og arbejdspladser og i private hjem.
+
+Straffeloven indebærer, at det normalt vil være forbudt i tilknytning til en tv-overvågning også at aflytte eller optage lyd, medmindre aflytningen eller optagelsen sker med samtykke fra mindst en af deltagerne i den samtale, der aflyttes eller optages.
+
+---
+
+**Whistleblowerordninger**
+
+*Hvad er en whistleblowerordning?*
+
+En whistleblowerordning har til formål, at personer med tilknytning til virksomheden kan orientere en virksomhed hurtigt og fortroligt om alvorlige forseelser – eller mistanke herom – der kan få betydning for virksomheden som helhed eller enkeltpersoners liv eller helbred.
+
+---
+
+*Er det lovpligtigt at oprette en whistleblowerordning?*
+
+Det er lovpligtigt for nogle virksomheder at oprette en whistleblowerordning, mens det for andre virksomheder er frivilligt.
+
+Visse typer af finansielle virksomheder skal efter lov om finansiel virksomhed have en whistleblowerordning. 
+
+Tilsvarende gælder for visse revisionsvirksomheder efter lov om godkendte revisorer og revisionsvirksomheder.
+
+Derudover er visse erhvervsdrivende efter den nye hvidvasklov, der trådte i kraft den 26. juni 2017, forpligtet til at oprette en whistleblowerordning.
+
+Ovenstående er blot eksempler på lovpligtige whistleblowerordninger, og Datatilsynet henviser herudover til den øvrige særlovgivning.
+
+---
+
+*Kræver det en tilladelse fra Datatilsynet, hvis en virksomhed vil oprette en whistleblowerordning?*
+
+Nej. Tidligere krævedes det Datatilsynet tilladelse, når man ønskede at behandle følsomme personoplysninger i forbindelse med en whistleblowerordning, men det er ikke længere tilfældet efter databeskyttelsesforordningen og databeskyttelsesloven.
+
+---
+
 **Video: Resumé af databeskyttelsesreglerne**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/cnPsjUIThK8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -809,6 +1388,73 @@ Udstedelse af administrative bødeforelæg kan også tænkes anvendt i sager om 
 *Sonny Kristoffersen*: Kend databeskyttelsesreglerne (2019), *Henrik Waaben* og *Kristian Korfits Nielsen*: Lov om behandling af personoplysninger med kommentarer, 3. udg. (2015), *Peter Blume*: Den nye persondataret – persondataforordningen (2016), og samme: Databeskyttelsesret, 4. udg. (2013), *Peter Blume* og *Jens Kristiansen*: Persondataret i ansættelsesforhold (2011), samt – med særlig henblik på behandling af personoplysninger i den offentlige forvaltning – kapitel 8 i *Niels Fenger*, Forvaltningsloven med kommentarer (2013).
 
 
+
+
 ---
+
+## <font color="red">Podcasts databeskyttelse<sup> Premium </font></sup>
+
+---
+
+**Spam Podcastserie #1 - Den nye spamvejledning og forhåndsafkrydsning(med Forbrugerombudsmanden)**
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/558812247&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+---
+
+**Spam Podcastserie #2 - Den nye spamvejledning, SoMe og tilsvarende varer (med Forbrugerombudsmanden)**
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/563799759&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+---
+
+
+**Geo-blocking podcast #1 - Praktiske råd om forordningen (med Dansk Erhverv)**
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/535689081&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+---
+
+**GDPR Podcastserie #1 - Bliv 100 metermester i GDPR på "10 minutter"**
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/434422440&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+
+---
+
+**GDPR Podcastserie #2 - Op og ned om databehandleraftaler (i og uden for EU)**
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/434422758&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+---
+
+**GDPR Podcastserie #3 - Videregivelse og opbevaring af informationer om dine kunder**
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/439222899&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+---
+
+**GDPR Podcastserie #4 - GDPR ift. brugeranmeldelser, nyhedsbreve og SOME**
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/444258768&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+---
+
+**GDPR Podcastserie #5 - Retten til at blive ”glemt”**
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/448490415&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+---
+
+
+**GDPR Podcastserie #6 – Den store opsamling**
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/518638341&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+---
+
+
+
 
  
