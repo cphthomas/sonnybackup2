@@ -1,4 +1,4 @@
-# Indledning og retsstaten  
+# Retsstaten  
 
 ```{r, echo=FALSE, results='asis'}
 cat(readLines('np.html'))
@@ -399,7 +399,6 @@ Folketingsvalg skal afholdes mindst én gang hvert 4. år.
 
 Det står i grundloven. Statsministeren kan dog til enhver tid udskrive folketingsvalg, så der kan sagtens gå mindre end 4 år mellem hvert valg.
 
-
 Når valget er slut og mandaterne fordelt, er det nye Folketing fundet. 
 
 Så skal man i gang med at finde ud af, hvem der skal være statsminister og danne regering.
@@ -410,7 +409,9 @@ Så skal man i gang med at finde ud af, hvem der skal være statsminister og dan
 ### Negativ parlamentarisme
 
 
-Den siddende statsminister fortsætter, hvis der ikke er et flertal imod ham eller hende - dvs. 90 eller flere ud af de 179 folketingsmedlemmer. Det kaldes negativ parlamentarisme.
+Den siddende statsminister fortsætter, hvis der ikke er et flertal imod ham eller hende - dvs. 90 eller flere ud af de 179 folketingsmedlemmer. 
+
+Det kaldes negativ parlamentarisme.
 
 Taber regeringen valget, skal der findes en ny statsminister og en ny regering.
 
@@ -419,9 +420,13 @@ Taber regeringen valget, skal der findes en ny statsminister og en ny regering.
 ### Dronningen udnævner formelt den nye regering
 
 
-Den siddende statsminister skal, i samarbejde med dronningen, finde ud af, hvilken statsministerkandidat der har den bredeste opbakning hos det nye folketingsmedlemmer. Det kaldes en dronningerunde.Der kan også udnævnes af dronningen en "kongelig undersøgere", som ikke nødvendigvis er den siddeende statsminister, se f.eks. udnævelsen af Mette Frderiksen som kongelig undersøger efter folketingsvalget i  2019.
+Den siddende statsminister skal, i samarbejde med dronningen, finde ud af, hvilken statsministerkandidat der har den bredeste opbakning hos det nye folketingsmedlemmer. Det kaldes en dronningerunde.
 
-Når statsministeren har fundet sine ministre, udnævner dronningen formelt regeringen på Amalienborg. Regeringen kommer bagefter ud på slotspladsen. Her præsenterer statsministeren sin nye regering for danskerne.
+Der kan også udnævnes af dronningen en "kongelig undersøgere", som ikke nødvendigvis er den siddeende statsminister, se f.eks. udnævelsen af Mette Frderiksen som kongelig undersøger efter folketingsvalget i  2019.
+
+Når statsministeren har fundet sine ministre, udnævner dronningen formelt regeringen på Amalienborg. Regeringen kommer bagefter ud på slotspladsen. 
+
+Her præsenterer statsministeren sin nye regering for danskerne.
 
 ---
 
@@ -439,11 +444,13 @@ Regeringen har stor indflydelse på de love, der vedtages i Folketinget, da det 
 ### Regeringen fremsætter lovforslagene
 
 
-Den udøvende magt ligger hos regeringen. 
+Den udøvende magt ligger hos regeringen. Det står i grundloven. 
 
-Det står i grundloven. Regeringen har ret og pligt til at gennemføre de regler og love, som Folketinget vedtager, så lovene bliver til virkelighed i samfundet. 
+Regeringen har ret og pligt til at gennemføre de regler og love, som Folketinget vedtager, så lovene bliver til virkelighed i samfundet. 
 
-Lovgivningsarbejdet har regeringen også stor indflydelse på. Det er regeringen, der forbereder og foreslår langt de fleste nye love og ændringer i eksisterende love. 
+Lovgivningsarbejdet har regeringen også stor indflydelse på. 
+
+Det er regeringen, der forbereder og foreslår langt de fleste nye love og ændringer i eksisterende love. 
 
 Regeringen er ansvarlig for hele processen med forberedelse af lovforslagene inden de når til Folketinget, herunder at lægge de overordnede planer, drive de politiske forhandlinger, skrive lovudkast og sende det i høring.
 
@@ -469,7 +476,9 @@ Lovkataloget kan findes på Statsministeriets hjemmeside og giver et pejlemærke
 
 Den formelle baggrund for lovkataloget er, at der i grundlovens § 38 står beskrevet, at statsministeren skal lave en åbningsredegørelse, når et nyt folketingsår starter. 
 
-Åbningsredegørelsen består både af en mundtlig og en skriftlig del. Den mundtlige del er åbningstalen, som statsministeren holder på åbningsdagen, mens den skriftlige del er lovkataloget.
+Åbningsredegørelsen består både af en mundtlig og en skriftlig del. 
+
+Den mundtlige del er åbningstalen, som statsministeren holder på åbningsdagen, mens den skriftlige del er lovkataloget.
 
 ---
 
@@ -483,7 +492,9 @@ Statsministen er regeringens chef. Det er statsministeren, der bestemmer, hvem d
 
 ### Statsministeren har stor magt
 
-Statsministerposten er landets højeste ministerpost. En statsminister har en særlig stor magt og et særlig stort ansvar. Det er f.eks. kun statsministeren, der kan bestemme: 
+Statsministerposten er landets højeste ministerpost. En statsminister har en særlig stor magt og et særlig stort ansvar. 
+
+Det er f.eks. kun statsministeren, der kan bestemme: 
 
 
 *	hvem der skal være minister
@@ -603,7 +614,9 @@ Domstolenes uafhængighed er bestemt i den danske grundlov. ``r tippy(indeks[1,1
 
 
 *	den lovgivende magt (Folketinget)
+
 *	den udøvende magt (regeringen)
+
 *	den dømmende magt (domstolene)
 
 
@@ -629,15 +642,9 @@ De almindelige domstole behandler civile sager og straffesager.
 
 
 
-*	Civile sager er sager, som anlægges ved domstolene for at få afgjort en 
-  uenighed mellem 2 parter. Som eksempler på civile sager kan nævnes sager om 
-  mangler ved fast ejendom, opsigelse af en arbejdstager, boligretssager, 
-  ægteskabssager, faderskabssager og sager om adoption.
+*	Civile sager er sager, som anlægges ved domstolene for at få afgjort en uenighed mellem 2 parter. Som eksempler på civile sager kan nævnes sager om mangler ved fast ejendom, opsigelse af en arbejdstager, boligretssager, ægteskabssager, faderskabssager og sager om adoption.
 
-*	Straffesager er først og fremmest sager, hvor retten skal træffe beslutning, om en person 
-  skal straffes for en overtrædelse af loven. Afgørelser, der træffes i forbindelse med 
-  politiets efterforskning, er også straffesager. Det kan f.eks. være afgørelser om 
-  varetægtsfængsling, beslaglæggelse og ransagning.
+*	Straffesager er først og fremmest sager, hvor retten skal træffe beslutning, om en person skal straffes for en overtrædelse af loven. Afgørelser, der træffes i forbindelse med politiets efterforskning, er også straffesager. Det kan f.eks. være afgørelser om varetægtsfængsling, beslaglæggelse og ransagning.
 
 *	Byretterne behandler ligeledes skiftesager, foged- og auktionssager.
 
@@ -652,11 +659,14 @@ Alle sager kan som udgangspunkt behandles ved 2 retsinstanser, f.eks. ved byret 
 ### Højesteret   
 
 
-Danmark har én højesteret. Den ligger ved Christiansborg Slot i København. Højesteret er den øverste domstol i Danmark. Her afgøres f.eks. sager, der har betydning for, hvordan lignende sager skal afgøres, eller sager, der har særlig samfundsmæssig interesse. 
+Danmark har én højesteret. Den ligger ved Christiansborg Slot i København. 
+
+Højesteret er den øverste domstol i Danmark. Her afgøres f.eks. sager, der har betydning for, hvordan lignende sager skal afgøres, eller sager, der har særlig samfundsmæssig interesse. 
 
 Højesteret er en appeldomstol, som behandler domme og kendelser, der er afsagt af Østre Landsret, Vestre Landsret eller Sø- og Handelsretten. 
 
 Man kan altså ikke anlægge sag direkte ved Højesteret.
+
 Højesteret behandler både civile sager og straffesager og fungerer som tredje instans i skifte-, foged- og tinglysningssager. 
 
 Ved Højesteret behandles også sager, som Procesbevillingsnævnet har tilladt indbragt for retten. Det drejer sig om sager af særlig principiel betydning, f.eks. sager, som kan have betydning for afgørelse af en række andre sager, eller om sager af særlig samfundsmæssig interesse.

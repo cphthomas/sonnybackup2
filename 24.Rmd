@@ -17,7 +17,7 @@ cat(readLines('np.html'))
 
 ## Introduktion til arveretten
 
-Med arvelovsrevisionen er der blevet gennemført en styrkelse af den længstlevende ægtefælles retsstilling. 
+Med arvelovsrevisionen er der blevet gennemført en styrkelse af den længstlevende ægtefælles retsstilling.^[Følgende afsnit om arveretten bygger især på **Linda Nielsens** Karnovkommentar til arveloven, KarnovGroup.] 
 
 Ægtefæller vil typisk have et ønske om, at længstlevende så vidt muligt kan fortsætte sin livsførelse. 
 
@@ -75,25 +75,25 @@ Arvinger kan inddeles i tre hovedgrupper: slægtninge, ægtefæller og testament
 
 ## Oversigt over arveloven
 
-**KAP. 1 SLÆGTNINGES ARVERET**  
+*KAP. 1 SLÆGTNINGES ARVERET*  
 
-**KAP. 2 ÆGTEFÆLLENS ARVERET**  
+*KAP. 2 ÆGTEFÆLLENS ARVERET*  
 
-**KAP. 3 SVOGERSKABSARV EFTER EN LÆNGSTLEVENDE ÆGTEFÆLLE**
+*KAP. 3 SVOGERSKABSARV EFTER EN LÆNGSTLEVENDE ÆGTEFÆLLE*
 
-**KAP. 4 USKIFTET BO**  
+*KAP. 4 USKIFTET BO*  
 
-**KAP. 7 AFTALE OM ARV SAMT ARVEFORSKUD**  
+*KAP. 7 AFTALE OM ARV SAMT ARVEFORSKUD*  
 
-**KAP. 8 UDELUKKELSE OG BORTFALD AF ARVERET** 
+*KAP. 8 UDELUKKELSE OG BORTFALD AF ARVERET* 
 
-**KAP. 9 TESTAMENTARISK BESTEMMELSE OVER TVANGSARV**  
+*KAP. 9 TESTAMENTARISK BESTEMMELSE OVER TVANGSARV*  
 
-**KAP. 10 TESTAMENTARISK BESTEMMELSE OVER FRIARV**  
+*KAP. 10 TESTAMENTARISK BESTEMMELSE OVER FRIARV*  
 
-**Kap. 11 OPRETTELSE OG TILBAGEKALDELSE AF TESTAMENTE** 
+*Kap. 11 OPRETTELSE OG TILBAGEKALDELSE AF TESTAMENTE* 
 
-**Kap. 12 TESTAMENTES UGYLDIGHED OG ANFÆGTELSE**  
+*Kap. 12 TESTAMENTES UGYLDIGHED OG ANFÆGTELSE*  
 
 ---
  
@@ -101,7 +101,9 @@ Arvinger kan inddeles i tre hovedgrupper: slægtninge, ægtefæller og testament
 
 ![](img/arv4.png)
 
-Arven fordeles til arveklasse 1, 2 eller 3. Er der ingen arvinger i arveklasse 1 går man videre til arveklasse 2, og er der ingen arvinger i arveklasse 2, arver arveklasse 3.  
+Arven fordeles til arveklasse 1, 2 eller 3. 
+
+Er der ingen arvinger i arveklasse 1 går man videre til arveklasse 2, og er der ingen arvinger i arveklasse 2, arver arveklasse 3.  
 
 Ægtefælle har også legal arveret. 
 
@@ -127,13 +129,15 @@ Børnelinjen omfatter børn, børnebørn, oldebørn osv. Slægtskab foreligger m
 
 Det er en forudsætning at faderskabet er fastslået inden dødsfaldet eller efterfølgende bliver det. arver lige.  
 
-Er et barn død, træder dets børn i dets sted og arver indbyrdes lige. På tilsvarende måde arver fjernere livsarvinger. 
+Er et barn død, træder dets børn i dets sted og arver indbyrdes lige. 
 
-Denne såkaldte stirpal-grundsætning betyder, at arven inden for hver arveklasse fordeles i »stammer« og ikke efter »hoveder«. 
+På tilsvarende måde arver fjernere livsarvinger. 
+
+Denne såkaldte stirpal-grundsætning betyder, at arven inden for hver arveklasse fordeles i *»stammer«* og ikke efter *»hoveder«*. 
 
 Børnebørn arver således ikke, så længe barnet lever. 
 
-Når børnebørnene arver, må de »deles« om det afdøde barns arv - det såkaldte »repræsentationsprincip«. 
+Når børnebørnene arver, må de »deles« om det afdøde barns arv - det såkaldte *»repræsentationsprincip«*. 
 
 På tilsvarende måde arver fjernere livsarvinger (oldebørn mv.).   
 
@@ -175,7 +179,7 @@ Arveklasse 3 er ikke tvangsarvinger.
 
 Lever alle 4 bedsteforældre deles arven i 4 portioner. 
 
-Er en af bedsteforældrene død, træder dennes børn i stedet efter repræsentationsprincippet. 
+Er en af bedsteforældrene død, træder dennes børn i stedet efter *repræsentationsprincippet*. 
 
 Arveladers farbrødre, fastre, mostre og morbrødre kan således være legale arvinger. Er farfaren død og efterlader sig to børn, arver disse således 1/8. 
 
@@ -308,6 +312,7 @@ Den pågældende kan således f.eks. stille sikkerhed, sælge aktiver hørende t
 
 Når længstlevende dør, skal arven fordeles til begge ægtefællers livsarvinger, men der regnes ikke arv til ægtefællen, jf. AL § 28.  
 
+---
 
 ## Arveladers testationskompetence
 
@@ -320,6 +325,8 @@ Hovedreglen er, at arvelader kan ved testamente råde over hele sin formue.
 Undtagelsen er, hvis arvelader er gift og/eller har børn, er testationskompetencen begrænset af tvangsarven, jf. AL § 50.
 
 Tvangsarven er som udgangspunkt ¼ af arveladers formue.
+
+---
 
 **Testationskompetence**
 
@@ -384,22 +391,22 @@ Reglen vil derfor også i praksis blive påberåbt af en længstlevende ægtefæ
 
 *	At testamentet opfylder kravene til:
 
-*	**Notartestamente**
+*	*Notartestamente*
 
-*	**Vidnetestamente**
+*	*Vidnetestamente*
 
-*	**Nødtestamente**
+*	*Nødtestamente*
 
 ---
 
 ### Notartestamente, jf. AL § 63
 
 
-*	Notaren (i Byretten) påtegner testamentet og kontrollerer testators identitet, fornuft, mv.
+Notaren (i Byretten) påtegner testamentet og kontrollerer testators identitet, fornuft, mv.
 
-*	Registrerer testamentet i Centralregistret for testamenter
+Registrerer testamentet i Centralregistret for testamenter
 
-*	Notartestamentet er svært at anfægte
+Notartestamentet er svært at anfægte i praksis.
 
 ---
 
@@ -411,11 +418,11 @@ Reglen vil derfor også i praksis blive påberåbt af en længstlevende ægtefæ
 
 ---
 
-*	To vitterlighedsvidner, som ikke selv må være begunstiget i testamentet
+To vitterlighedsvidner, som ikke selv må være begunstiget i testamentet
 
-*	Vidnerne kontrollerer testators underskrift, fornuft mv.
+Vidnerne kontrollerer testators underskrift, fornuft mv.
 
-En person kan ikke være testamentsvidne, hvis:
+*En person kan ikke være testamentsvidne, hvis:*
 
 * testamentet begunstiger den pågældende eller dennes ægtefælle, samlever, beslægtede eller besvogrede i op- eller nedstigende linje, søskende eller andre nærstående. (Forlovede vil sammen med kærester og - efter en konkret vurdering - fjernere beslægtede blive anset for at være nærstående), 
 
@@ -436,15 +443,15 @@ Hvis et testamentsvidne har medvirket til oprettelse af et testamente i strid me
 
 ---
 
-*	Kræver en nødsituation
+Kræver en nødsituation.
 
-*	Ingen formkrav
+Ingen formkrav.
 
-*	Bortfalder efter tre måneder
+Bortfalder efter tre måneder.
 
 En nødsituation kunne f.eks. blodprop eller umiddelbart før en stor operation.
 
-Andre nødstilfælde kan være et synkende skib, en naturkatastrofe, samt beslutning om selvmord, jf. **dommene U 1970 10 H, U 1979 108 H og U 2000 1340 H**
+Andre nødstilfælde kan være et synkende skib, en naturkatastrofe, samt beslutning om selvmord, jf. dommene **U 1970 10 H, U 1979 108 H** og **U 2000 1340 H**
 
 ![](img/nod2.jpg)
 
@@ -464,20 +471,19 @@ Andre nødstilfælde kan være et synkende skib, en naturkatastrofe, samt beslut
 
 ### Udvidet samlevertestamente
 
-*	Samlevende har ingen legal arveret, kræver oprettelse af testamente
+Samlevende har ingen legal arveret, kræver oprettelse af testamente.
 
-*	Samleverne kan arve hinanden – maksimalt 7/8 af formuen i konkurrence med børn 
+Samleverne kan arve hinanden – maksimalt 7/8 af formuen i konkurrence med børn. 
 
-*	Samleveren kan udtage suppleringsarv
+Samleveren kan udtage suppleringsarv.
 
-*	Der kan udloddes svogerskabsarv efter længstlevende samlever
+Der kan udloddes svogerskabsarv efter længstlevende samlever.
 
-*	Samlevende kan ikke sidde i uskiftet bo
+Samlevende kan ikke sidde i uskiftet bo.
 
-*	Udvidet samlevertestamente skal ændres ved nyt testamente
+Udvidet samlevertestamente skal ændres ved nyt testamente.
 
-*	Udvidet samlevertestamente bortfalder ved indgåelse af ægteskab
-
+Udvidet samlevertestamente bortfalder ved indgåelse af ægteskab.
 
 Hvis et testamente skal ændres eller tilbagekaldes, skal ændringen overholde formkravene til testamenter, jf. AL § 67.  
 
