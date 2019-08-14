@@ -25,22 +25,26 @@ cat(readLines('np.html'))
 
 
 
-• **Opfordring contra tilbud**, aftalelovens § 9, herunder prisangivelser på nettet, netbutikker og i fysiske butikker
+• *Opfordring contra tilbud*, aftalelovens § 9, herunder prisangivelser på nettet, netbutikker og i fysiske butikker
   
-• **Aftaleindgåelse**, aftalelovens § 2-7 og § 40
+• *Aftaleindgåelse*, aftalelovens § 2-7 og § 40
 
 • **Ugyldighed** (svig, aftalelovens § 30 fejl, aftalelovens § 32, stk. 1, udnyttelse, aftalelovens § 31)
 
-• **Falsk/forfalskning**
+• *Falsk/forfalskning*
 
-• **Urimelighed** - §§ 38c, jf. 36
+• *Urimelighed* - §§ 38c, jf. 36
 
-• **Fuldmagtstyper** (især stillingsfuldmagt, aftalelovens § 10, stk. 2), fuldmagtens omfang og konsekvenser, aftalelovens § 10, 11, 15 og 25, modificeret ved erstatningsansvarslovens § 23
+• *Fuldmagtstyper* (især stillingsfuldmagt, aftalelovens § 10, stk. 2), fuldmagtens omfang og konsekvenser, aftalelovens § 10, 11, 15 og 25, modificeret ved erstatningsansvarslovens § 23
 
 
 ---
 
 Aftaleretten beskæftiger sig med reglerne for indgåelse af aftaler, fuldmagtsforhold og aftalefortolkning mv.
+
+---
+
+![](img/sunt.jpg)
 
 Et grundlæggende aftaleretligt princip er:
 
@@ -97,6 +101,7 @@ Undtagelse (U1): Begrænsninger i præceptive lovregler:
 fx:
 
 +	Funktionærlovens regler om opsigelsesvarsler
+
 +	Forbrugeraftalelovens regler om fortrydelsesret
       
 U2: Urimelige aftaler, aftalelovens §§ 38c, jf. 36
@@ -128,7 +133,7 @@ Mundtlige aftaler er således lige så bindende som skriftlige, jf. Danske Lov, 
 
 De mundtlige kan bare være sværere at bevise, hvis parterne bliver uenige om aftalens indhold. 
 
-Kontrakten er skriftlig og kan håndhæves i retssystemet. 
+Kontrakten er skriftlig og den kan håndhæves i retssystemet. 
 
 Bevisbyrde - Den part der hævder en mundtlig aftale er indgået, har bevisbyrden (som er hovedreglen i dansk ret; en ligefrem bevisbyrde).
 
@@ -222,7 +227,6 @@ edges <- data.frame(from = c(1),
 
 Ejendomsmægleren tager initiativ til en formidlingsaftale om salg af et hus:  
 
-
 Tilbudsgiver (ejendomsmægleren): Den der afsender/giver et tilbud til en anden.
   
 Tilbudsmodtager (boligsælgeren): Den som modtager et tilbud. 
@@ -236,53 +240,55 @@ Tilbudsmodtager (boligsælgeren): Den som modtager et tilbud.
 
 ---
 
-"Tilbudsmodtager" (sælger): Sælger modtager en ordre eller ønske om køb fra interesseret køber.
+**Aftaleretlige begreber:**
 
----
+*"Tilbudsmodtager"* (sælger): Sælger modtager en ordre eller ønske om køb fra interesseret køber.
 
-Et "løfte": En ensidig erklæring fra en person om at ville påtage sig en pligt. 
 
-Løftet skaber en forventning hos modtager. Løftet har følgende retsvirkninger: 
+Et *"løfte":* En ensidig erklæring fra en person om at ville påtage sig en pligt. 
+
+Løftet skaber en forventning hos modtager. 
+
+*Løftet har følgende retsvirkninger:* 
 
 Dels at løftegiveren har pligt enten til at opfylde løftet efter dets indhold (såkaldt naturalopfyldelse) eller 
 
 til at erstatte løftemodtagerens økonomiske interesse i løftets opfyldelse, dvs. erstatning i form af såkaldt "positiv opfyldelsesinteresse" (forudsat naturligvis, at der foreligger et ansvarsgrundlag).
 
----
 
-"Tilbud": Et tilbud er et løfte, som taber sin virkning, hvis det ikke accepteres i rette tid. 
+*"Tilbud":* Et tilbud er et løfte, som taber sin virkning, hvis det ikke accepteres i rette tid. 
 
 F.eks. et løfte om at levere en vare eller tjenesteydelse til en bestemt pris og et bestemt sted på et bestemt tidspunkt.
 
----
 
-"Accept": En erklæring, som har karakter af antagende svar på tilbud. 
+*"Accept"*: En erklæring, som har karakter af antagende svar på tilbud. 
 
-Et "svar", hvori man siger ja til et tilbud. 
+Et *"svar"*, hvori man siger ja til et tilbud. 
 
-"Accepten" er både et løfte der binder acceptanten, når modtageren har hørt/læst accepten (kundskabsøjeblikket), og det er samtidig et påbud der binder modtageren, når det er kommet frem, dvs. når et svar (tilbud eller accept) er modtaget i modtagerens brevkasse, indbakke eller lignende, men indholdet er endnu ikke læst. Kommet til kundskab: 
+*"Accepten"* er både et løfte der binder acceptanten, når modtageren har hørt/læst accepten (kundskabsøjeblikket), og det er samtidig et påbud der binder modtageren, når det er kommet frem, dvs. når et svar (tilbud eller accept) er modtaget i modtagerens brevkasse, indbakke eller lignende, men indholdet er endnu ikke læst. 
 
-Det øjeblik modtageren er blevet bekendt med indholdet af tilbud eller accept, dvs. har hørt eller læst.
+*"Kommet frem":* Når et svar (tilbud eller accept) er modtaget i modtagerens brevkasse, indbakke eller lignende, men indholdet er endnu ikke læst.
 
----
+*Kommet til kundskab:* Det øjeblik modtageren er blevet bekendt med indholdet af tilbud eller accept, dvs. har hørt eller læst indholdet. 
 
-"Kommet frem": Når et svar (tilbud eller accept) er modtaget i modtagerens brevkasse, indbakke eller lignende, men indholdet er endnu ikke læst.
-
-"Kommet til kundskab": Det øjeblik modtageren er blevet bekendt med indholdet af tilbud eller accept, dvs. har hørt eller læst.
+Der er ikke noget krav om, at modtageren skal have forstået indholdet.
 
 ---
 
-"Opfordring til at gøre tilbud": er en ikke-bindende henvendelse til andre om at give tilbud.
 
----
 
-"Påbud" er en erklæring: som går ud på at lægge bånd på adressaten.
 
----
 
-"Reklamation": er en indsigelse i anledning af et retsforhold.
 
-"Pligtmæssig reklamation": er en reklamation, som afgives af hensyn til adressaten og forsendes på adressatens risiko, jf. aftalelovens § 40 (og tilsvarende købelovens § 61). Aftaleloven bruger herom udtrykket »give meddelelse«.
+*"Opfordring til at gøre tilbud":* er en ikke-bindende henvendelse til andre om at give tilbud.
+
+
+
+*"Påbud"* er en erklæring: som går ud på at lægge bånd på adressaten.
+
+*"Reklamation":* er en indsigelse i anledning af et retsforhold.
+
+*"Pligtmæssig reklamation":* er en reklamation, som afgives af hensyn til adressaten og forsendes på adressatens risiko, jf. aftalelovens § 40 (og tilsvarende købelovens § 61). Aftaleloven bruger herom udtrykket »give meddelelse«.
 
 ---
 
@@ -298,14 +304,14 @@ En bindende aftale kommer i stand via den såkaldte aftalemodel:
 
 *	Tilbudsmodtager læser tilbud (kommet til kundskab) ………….betænkningstid
   
-*	Tilbudsmodtager accepterer tilbud/sender accept………….tilbagesendelsestid
+*	Tilbudsmodtager accepterer tilbud/sender accept …………tilbagesendelsestid
   
 *	Accept når frem til tilbudsgiver (kommet frem)
 
 *	Tilbudsgiver læser accepten (kommet til kundskab)
 
 
-Resultat: Der er indgået en juridisk bindende aftale
+Resultat: Der er indgået en juridisk bindende aftale mellem parterne.
 
 
 
@@ -380,23 +386,23 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 ### Tilbud eller opfordring til tilbud
 
 
-HR: Tilbud er bindende for afgiveren, jf. aftalelovens § 1:
+HR: Tilbud er bindende for afgiveren, jf. aftalelovens § 1.
 
 Tilbuddet bliver bindende for tilbudsgiver, når tilbudsmodtager får kendskab til tilbuddets indhold.
 
 +	Tilbud er bindende i butikker og butiksvinduer, medmindre køber burde indse, at der var tale om en fejl
     
-+	Tilbud er bindende i web-butikker, når sælger selv har råderet over websitet
++	Tilbud er bindende i web-butikker, når sælger selv har råderet over websitet og muligvis, at der også er en indkøbsfunktion på websitet.
     
 ---
 
-Undtagelser: "Opfordring til tilbud", jf. aftalelovens § 9:
+Undtagelser: *"Opfordring til tilbud"*, jf. aftalelovens § 9:
 
 ![](img/aftale1.png)
 
 Nogle typer tilbud er ikke bindende for sælger, fx:
   
-+ Slagtilbud og ”så længe lager haves”, tilbud og priser i aviser og kataloger, på plakater, annoncer, TV- og radioreklamer, priser og tilbud på internettet, når sælger ikke selv har råderet over websitet.
++ *Slagtilbud* og *”så længe lager haves”*, tilbud og priser i aviser og kataloger, på plakater, annoncer, TV- og radioreklamer, priser og tilbud på internettet, når sælger ikke selv har råderet over websitet.
     
 ---
 
@@ -438,7 +444,7 @@ Situation: Tilbagekaldelse af afslag. Tilbudsmodtager (potentiel køber) sender 
 
 **Acceptfrist er fastsat i tilbuddet:**
 
-Når tilbudsmodtager har læst eller hørt om tilbuddet, har han en frist til at overveje, om han vil acceptere, fx i form af en ordrebekræftelse.
+Når tilbudsmodtager har læst eller hørt om tilbuddet, har tilbudsmodtager en frist til at overveje, om tilbudsmodtager vil acceptere, fx i form af en ordrebekræftelse.
 
 Accepten er rettidig, hvis den er kommet frem til tilbudsgiver inden acceptfristens udløb, jf. aftalelovens § 2.
 
@@ -449,7 +455,7 @@ Hvis acceptfristen er angivet til 8 dage, regnes fristen fra tilbuddets datering
 ### Accept – den legale acceptfrist
 
 
-**Ingen acceptfrist i tilbuddet, så gælder den**:
+*Ingen acceptfrist i tilbuddet, så gælder*:
 
 Den legale acceptfrist, jf. aftalelovens § 3:
 
@@ -457,6 +463,7 @@ Fremsendelsestid + rimelig betænkningstid + tilbagesendelsestid.
 
 Rimelig betænkningstid” afhænger af de konkrete omstændigheder. 
 
+---
 
 **Betænkningstid er**:
 
@@ -488,7 +495,7 @@ Lader han som ingenting, risikerer han at være bundet	og skal opfylde aftalen.
 ---
 
 
-**”Give meddelelse”** se nærmere aftalelovens § 40.
+*”Give meddelelse”* se nærmere aftalelovens § 40.
 
 ---
 
@@ -525,14 +532,14 @@ Lader han som ingenting, risikerer han at være bundet	og skal opfylde aftalen.
 ### Tilbagekaldelse af tilbud/accept
 
 
-**Aftalelovens § 7**
+*Aftalelovens § 7*
 
 Situation: Tilbudsgiver vil annullere sit tilbud:
 
 Tilbud kan tilbagekaldes af tilbudsgiver, hvis tilbagekaldelsen kommer frem inden eller samtidig med, at det oprindelige tilbud kommer til tilbudsmodtagers kundskab.
 
 
-**Situation: Acceptanten vil annullere sin accept**
+*Situation: Acceptanten vil annullere sin accept*
 
 Svar/accept kan tilbagekaldes af acceptanten, hvis tilbagekaldelsen kommer frem inden eller samtidig med, at accepten kommer til tilbudsgivers kundskab.
 
@@ -587,19 +594,19 @@ Lader tilbudsgiver som ingenting, er tilbudsgiver bundet af aftalen og skal leve
 
 ---
 
-**”Give meddelelse”** se aftalelovens § 40
+*”Give meddelelse”* se aftalelovens § 40.
 
 ---
 
 **Eksamensopgave i aftaleret**
 
 
-**Bord og stol A/S**
+*Bord og stol A/S*
 
 ![](img/hotel.jpg)
 
 
-**Tema: Aftaleindgåelse og handelskøb**
+*Tema: Aftaleindgåelse og handelskøb*
 
 
 Firmaet ”Bord og stol A/S” producerer og handler med alle former for møbler men har i de senere år specialiseret sig i møbler til hoteller. ”Bord og stol A/S”s indkøber har fundet nogle meget elegante møbler i Østen lavet i et nyt og anderledes design. 
@@ -635,19 +642,19 @@ Det viser sig senere at Stand Hotellet havde lavet en fejl og ønskede møblerne
 Bord og stol afviser reklamationen, da der står på bagsiden af fakturaen, at der skal reklameres inden 8 dage fra leveringen.
 
 
-**Eksamenspørgsmålene og rettevejledningen**
+*Eksamenspørgsmålene og rettevejledningen*
 
 1.	Redegør for om Parkhotellet har krav på at få møblerne til 11.995 kr. 
 
-**Svar**: Her er Bord & Stol forpligtet, jf. AFTL § 4, stk. 2 til at levere stolene til kr. 11.995 til Parkhotellet, da Parkhotellet har accepteret rettidigt og Bord & Stol må indse dette.
+*Svar*: Her er Bord & Stol forpligtet, jf. AFTL § 4, stk. 2 til at levere stolene til kr. 11.995 til Parkhotellet, da Parkhotellet har accepteret rettidigt og Bord & Stol må indse dette.
  
 2.	Redegør for om Strand Hotellet har krav på at få møblerne til 11.995 kr. 
 
-**Svar**: Strandhotellet har ikke krav på møblerne, jf. AFTL § 6, stk. 2, da prisforskellen fra kr. 11.995 til kr. 1.995 ikke medfører, at Bord & Stol måtte indse, at Strandhotellet ville købe møblerne til kr. 11.995 og blot havde lavet en fejl. 
+*Svar*: Strandhotellet har ikke krav på møblerne, jf. AFTL § 6, stk. 2, da prisforskellen fra kr. 11.995 til kr. 1.995 ikke medfører, at Bord & Stol måtte indse, at Strandhotellet ville købe møblerne til kr. 11.995 og blot havde lavet en fejl. 
 
 3.	Redegør for hvilke rettigheder Hotel Golf har i forhold til de løse stolerygge. 
 
-**Svar**: Faktura-teksten på bagsiden er næppe gjort klart for Hotel Golf i forbindelse med Bord & Stols fremsendelse af tilbuddet og dermed slet ikke en del af aftalen. Hotel Golf kan dermed se bort fra kravet, og har reklameret rettidigt jf KBL § 54. 
+*Svar*: Faktura-teksten på bagsiden er næppe gjort klart for Hotel Golf i forbindelse med Bord & Stols fremsendelse af tilbuddet og dermed slet ikke en del af aftalen. Hotel Golf kan dermed se bort fra kravet, og har reklameret rettidigt jf KBL § 54. 
 
 ---
 
@@ -694,13 +701,13 @@ Hovedreglen er, at aftalen er bindende, men den kan alligevel bortfalde, hvis af
 
 Ugyldighed som kan ramme aftalen kan opstå pga:
 
-"Tilblivelsesmangler" – omstændigheder ved aftalens indgåelse, fx svig, forfalskning, voldelig tvang, udnyttelse mv. (sondres mellem svage og stærke ugyldighedsgrunde)
+*"Tilblivelsesmangler"* – omstændigheder ved aftalens indgåelse, fx svig, forfalskning, voldelig tvang, udnyttelse mv. (sondres mellem svage og stærke ugyldighedsgrunde)
 
 "Habilitetsmangler" – en af parterne mangler habilitet eller evne til at indgå aftaler, fx pga. umyndighed, sindssygdom, demens.
 
-"Indholdsmangler" – indholdet er i strid med loven, moral, almindelig hæderlighed mv.
+*"Indholdsmangler"* – indholdet er i strid med loven, moral, almindelig hæderlighed mv.
 
-"Bristende forudsætninger" - et løfte kan afgives på baggrund af nogle forudsætninger, som ikke nødvendigvis er diskuteret eller udtrykt klart mellem parterne i en aftale.
+*"Bristende forudsætninger"* - et løfte kan afgives på baggrund af nogle forudsætninger, som ikke nødvendigvis er diskuteret eller udtrykt klart mellem parterne i en aftale.
 
 
 ---
@@ -748,14 +755,15 @@ De stærke ugyldighedsgrunde omfatter følgende grunde:
 
 De svage ugyldighedsgrunde omfatter følgende grunde:
 
-**Simpel tvang**, aftalelovens § 29
+*Simpel tvang*, aftalelovens § 29
 
-**Svig**, aftalelovens § 30
+*Svig*, aftalelovens § 30
 
-*	**Udnyttelse**, aftalelovens § 31
+*Udnyttelse*, aftalelovens § 31
 
-**Fejlskrift** eller anden fejltagelse, 
-  aftalelovens § 32, stk. 1 
+*Fejlskrift** eller 
+
+*anden fejltagelse*, aftalelovens § 32, stk. 1 
 
 ---
 
