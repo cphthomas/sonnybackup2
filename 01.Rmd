@@ -42,7 +42,7 @@ indeks <<- data.frame(BEGREB,forklaring)
 ---
 
 
-***Kapitel 1 om retsstaten skal kun læses i hovedtræk*** 
+**Kapitel 1 om retsstaten skal kun læses i hovedtræk** 
 
 ---
 

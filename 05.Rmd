@@ -11,23 +11,23 @@ cat(readLines('np.html'))
 
 Fuldmagt er i dansk ret en tilladelse fra en person (fuldmagtsgiveren) om at lade en anden (fuldmægtigen) handle på sine vegne overfor andre (tredjepart). 
 
-De danske regler for anvendelse af fuldmagt findes i aftalelovens kapitel II.
+Reglerne for anvendelse af fuldmagt findes i aftalelovens kapitel II.
 
 ---
 
-**Former for fuldmagter**
+**Forskellige former for fuldmagter**
 
-Stillingsfuldmagt §10,2 i Aftaleloven Fx læger, kassedamer og banksassistenter.
+*Stillingsfuldmagt* §10,2 i aftaleloven i relation til et ansættelsesforhold fx læger, kassedamer og banksassistenter.
 
-Forevisningsfuldmagt §16,1 i Aftaleloven fx et stykke papir der giver lov til at købe/sælge i fuldmagtsgivers navn.
+*Forevisningsfuldmagt* §16,1 i aftaleloven fx et stykke papir der giver lov til at købe/sælge i fuldmagtsgivers navn. Fx. afhentning i Føtex af en andens postpakke.
 
-Specialfuldmagt §13 Aftaleloven, når 3.mand kender FM´s (Fuldmagtsgiveren) omfang. Fx må lærere indkøbe bøger el. salgsassistent bestiller varer
+*Specialfuldmagt* §13 aftaleloven, når 3.mand kender FM´s (Fuldmagtsgiveren) omfang. Fx må lærere indkøbe bøger el. salgsassistent bestiller varer.
 
-Offentlig bekendtgjort FM (Fuldmagtsgiveren) § 14,1 Aftaleloven Fx hvis der afholdes reception.
+*Offentlig bekendtgjort fuldmagt* fra fuldmagtsgiveren, jf. § 14,1 i aftaleloven fx hvis der afholdes reception.
 
 ---
 
-**Opsigelse af fuldmagt kan ske ved følgende:**
+*Opsigelse af fuldmagt kan ske ved følgende:*
 
 * Fuldmagten opsiges/fratræde
 
@@ -52,21 +52,21 @@ Offentlig bekendtgjort FM (Fuldmagtsgiveren) § 14,1 Aftaleloven Fx hvis der afh
 <img src="img/fuldmagt1.jpeg" align="left" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
-**Fuldmagt** (er således reguleret af aftaleloven: Lovbekendtgørelse nr. 193 af 2. marts 2016 om aftaler og andre retshandler på formuerettens område).
+*Fuldmagt* er således reguleret af aftaleloven: Lovbekendtgørelse nr. 193 af 2. marts 2016 om aftaler og andre retshandler på formuerettens område.
 
-De inddeles på følgende måde:
+Fuldmagter inddeles på følgende måde:
 
-*Fuldmagt med særlig tilværelse*
+*Fuldmagt med særlig tilværelse*.
   
-*Fuldmagt uden særlig tilværelse*
+*Fuldmagt uden særlig tilværelse*.
 
 ---
 
 Derudover findes der regler om mellemmænd:
   
-*Kommission* (Kommisionsloven Lovbekendtgørelse nr. 332 af 31. marts 2014) 
+*Kommission* (Kommisionsloven Lovbekendtgørelse nr. 332 af 31. marts 2014). 
   
-*Handelsagenter* (Lov nr. 272 af 2. maj 1990 om handelsagenter og handelsrejsende)
+*Handelsagenter* (Lov nr. 272 af 2. maj 1990 om handelsagenter og handelsrejsende).
 
 
 ---
@@ -108,13 +108,13 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow"))
 
 *Fuldmagt:* Aftaleloven afsnit II, jf. aftalelovens §§ 10-27 ^[Følgende bygger tildels på *Torsten Iversens og Lars Hedegaard Kristensen* karnovkommentar til aftaleloven om fuldmagtsforhold]
 
-HR: Fuldmagtsgiver bliver bundet af de aftaler, som fuldmægtigen indgår på fuldmagtsgivers vegne, jf. aftalelovens § 10, stk. 1:  
+Fuldmagtsgiver bliver umiddelbart bundet af de aftaler, som fuldmægtigen indgår på fuldmagtsgiverens vegne, jf. aftalelovens § 10, stk. 1:  
 
-*”Den, som har givet en anden fuldmagt til at foretage en retshandel, bliver umiddelbart berettiget og forpligtet overfor tredjemand ved retshandel, som fuldmægtigen foretager i fuldmagtsgiverens navn og indenfor fuldmagtens grænser”*.
+”Den, som har givet en anden fuldmagt til at foretage en retshandel, bliver umiddelbart berettiget og forpligtet overfor tredjemand ved retshandel, som fuldmægtigen foretager i fuldmagtsgiverens navn og indenfor fuldmagtens grænser”.
 
 ---
 
-Fuldmagtsforholdet hviler normalt på en aftale mellem en fuldmagtsgiver og fuldmægtig, men kan herudover gives til kende ved en viljeserklæring til en eller flere tredjemænd eller ved en konkludent handling, der tillader tredjemand at slutte, at fuldmagtsgiveren har udstyret fuldmægtigen med en fuldmagt (således som det er tilfældet ved stillingsfuldmagten ved et ansættelsesforhold). 
+Fuldmagtsforholdet hviler normalt på en *aftale* mellem en fuldmagtsgiver og fuldmægtig, men kan herudover gives til kende ved en viljeserklæring til en eller flere tredjemænd eller ved en konkludent handling, der tillader tredjemand at slutte, at fuldmagtsgiveren har udstyret fuldmægtigen med en fuldmagt (således som det er tilfældet ved stillingsfuldmagten ved et ansættelsesforhold). 
 
 ---
 
@@ -129,7 +129,7 @@ Anden optræden eller adfærd fra hovedmandens side end en viljeserklæring kan 
 
 ---
 
-En fuldmagt skabt ved passivitet kaldes ofte **adfærdsfuldmagt**. 
+En fuldmagt skabt ved passivitet kaldes ofte *adfærdsfuldmagt*. 
 
 Adfærdsfuldmagt foreligger også, når hovedmanden i et tidsrum har tolereret, at en person har foretaget retshandler for ham, og hovedmanden har opfyldt de indgåede aftaler, idet tredjemand her er bibragt den opfattelse, at denne person faktisk har en fuldmagt.
 
@@ -140,7 +140,7 @@ En aftale kan i nogle tilfælde rammes af ugyldighed, hvis der er handlet i stri
 ## Sondringen mellem bemyndigelse og legitimation
 
 
-Aftaleloven sondrer mellem på den ene side **»legitimation«** og på den anden side **»beføjelse«**. 
+Aftaleloven sondrer mellem på den ene side *»legitimation«* og på den anden side *»beføjelse«*. 
 
 Ved *»fuldmagt«* forstås således den magt eller kompetence (legitimation), fuldmægtigen har til inden for visse grænser at foretage retshandler med bindende virkning for fuldmagtsgiveren. <img src="img/Bemyndigelse vs. legitimation.png" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
