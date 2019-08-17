@@ -9,18 +9,18 @@ cat(readLines('np.html'))
 
 
 
-**Indledningsvis skal du som studerende være særlig opmærksom på følgende i forbindelse med gennemgangen af erstatningsansvar og den forsikringsmæssige dækning i forhold til eksamen:**
+*Indledningsvis skal du som studerende være særlig opmærksom på følgende i forbindelse med gennemgangen af erstatningsansvar og den forsikringsmæssige dækning i forhold til eksamen:*
 
 ![](img/erstat.jpg)
 
-•	**Grundlæggende erstatningsbetingelser; ansvarsgrundlag, årsagsforbindelse, påregnelighed, økonomisk tab og værnet interesse**
+•	*Grundlæggende erstatningsbetingelser; ansvarsgrundlag, årsagsforbindelse, påregnelighed, økonomisk tab og værnet interesse*
 
   
-•	**Principalansvar (arbejdsgiverens hæftelsesansvar i DL 3-19-2)**
+•	*Principalansvar (arbejdsgiverens hæftelsesansvar i DL 3-19-2)*
 
-•	**Ansvarets sammenhæng med forsikringsdækning, erstatningsansvarslovens (forkortet; EAL) §§ 19 – 23** 
+•	*Ansvarets sammenhæng med forsikringsdækning, erstatningsansvarslovens (forkortet; EAL) §§ 19 – 23*
 
-**OBS: Videoerne, domme og Forsikringsankenævnets afgørelser i herværende afsnit er ikke en del af pensum, man tjener udelukkende det formål, at bidrage med en bedre forståelse for emnerne om erstatningsansvaret og den forsikringsmæssige afdækning.**
+*OBS: Videoerne, domme og Forsikringsankenævnets afgørelser i herværende afsnit er ikke en del af pensum, man tjener udelukkende det formål, at bidrage med en bedre forståelse for emnerne om erstatningsansvaret og den forsikringsmæssige afdækning.*
 
 ---
 
@@ -36,6 +36,8 @@ cat(readLines('np.html'))
 ## Erstatningsansvar uden en lovgivning
 
 Tegning af en forsikring kan påvirke ens erstatningsansvar. Ligesom manglende tegning af en forsikring kan påvirke ens erstatningsansvar.^[Følgende afsnit om erstatningsansvaret og den forsikringsmæssige afdækning bygger hovedsagelig på **Sonny Kristoffersen** bøger "Kend Erstatningsreglerne", forlaget Samfundslitteratur, se e-bogens bibiotek, samt "Introduktion til forsikringsreglerne", forlaget Hans Reitzel, se e-bogens bibliotek.]
+
+![](img/erstat1.jpg)
 
 Et ansvarsforsikringsselskab beskæfter sig indgående med erstatningsreglerne for at vurdere, om skadevolderen (dvs. forsikringstageren) har pådraget sig et erstatningsansvar over for en skadelidt. 
 
@@ -115,13 +117,17 @@ Se dommen **FED 2008.1:** <img src="img/stripper2.jpg" align="left" width="20%" 
 
 Er skaden forvoldt ved et *hændeligt uheld*, har vedkommende ikke gjort noget forkert og er ikke ansvarlig for skaden. 
 
-Man skal heller ikke erstatte noget. 
+Man skal heller ikke erstatte noget.
+
+![](img/hotel1.jpg)
 
 Åbner en hotelgæst eksempelvis døren til sit værelse indefra, i det øjeblik en tjener går forbi på gangen med en bakke med glas, og døren rammer bakken, så glassene falder på gulvet og knuses, er der tale om et hændeligt uheld. Uheldet kan ikke bebrejdes hotelgæsten, da han ikke havde mulighed for at undgå det. Han havde opført sig som “den gode hotelgæst” og ikke begået nogen fejl. 
 
 Se afgørelserne fra retspraksis og Forsikringsankenævnet om spørgsmålet om hændelige skader:
 
----     
+---   
+
+![](img/kap3.jpg)
 
 **U.1961.167 H**: At en 11-årig dreng kom til at ramme en anden dreng med en kæp i øjet, blev anset for et hændeligt uheld og derfor ikke noget erstatningsansvar.
 
@@ -139,9 +145,19 @@ Afgørelser fra Ankenævnet for Forsikring:
 
 ---
 
-*Gæstebudskade*: Hvis en gæst kommer til at ødelægge noget hjemme hos værten, fx vælter en dyr vase eller spilder rødvin på et tæppe, kaldes det for en gæstebudsskade. Ved gæstebudsskader er gæsten normalt ikke erstatningsansvarlig. Man har derfor ikke krav på erstatning. Som vært må man altså acceptere, at der er en vis risiko, når man har nogen på besøg.
+*Gæstebudskade*: Hvis en gæst kommer til at ødelægge noget hjemme hos værten, fx vælter en dyr vase eller spilder rødvin på et tæppe, kaldes det for en gæstebudsskade. 
 
-Nogle indboforsikringer – bl.a. Topdanmarks – dækker gæstebudsskader alligevel. Det anbefales derfor, at man beder gæsten kontakte sit forsikringsselskab, da de måske dækker skaden. I så fald vil man få erstattet skaden fratrukket forsikringens selvrisiko.
+Ved gæstebudsskader er gæsten normalt ikke erstatningsansvarlig. Man har derfor ikke krav på erstatning. 
+
+Som vært må man altså acceptere, at der er en vis risiko, når man har nogen på besøg.
+
+Nogle indboforsikringer – bl.a. Topdanmarks – dækker gæstebudsskader alligevel, selvom der ikke er noget ansvar for gæsten. 
+
+Det anbefales derfor, at man beder gæsten kontakte sit forsikringsselskab, da de måske dækker skaden. I så fald vil man få erstattet skaden fratrukket forsikringens selvrisiko.
+
+Hvs gæsten smadder værtens indbo i vrede, så er der selvfølgelig ikke tale om en gæstebudskade, men gæsten har et et erstatningsansvar.
+
+![](img/gast.jpg)
 
 ---
 
@@ -150,6 +166,8 @@ Se dommen **FED 2003.1091:** Hønseejer var ikke ansvarlig for cyklists tilskade
 Se dommen **U 2013.84 V:** Motionscyklist, der sammen med andre cyklister kørte i en gruppe, og som efter at være kommet ud i rabatten prøvede at komme op på vejen igen, hvorved han væltede, og der skete sammenstød med bagfrakommende cyklister, havde ikke handlet ansvarspådragende.
 
 **H.K. af 24. juni 2002. Sag: 206/2002:** Museum var ikke ansvarligt for tilskadekomst, da gæst under privat besøg gled i hundeekskrementer og faldt.
+
+![](img/lort.jpg)
 
 ---          
 
@@ -161,7 +179,7 @@ Denne vurdering af handlingen eller undladelsen har bl.a. betydning for, om skad
 
 ---
 
-Se her følgende domsafgørelser fra retspraksis:  
+Se her følgende domsafgørelser:  
 
 <img src="img/dormand.jpg" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
@@ -288,6 +306,8 @@ Grov uagtsomhed (latin; "*culpa lata*") er en betydelig form for uagtsomhed.
 Nyere retspraksis lægger vægt på, om skadevolderens adfærd indebar en ”indlysende fare”, for den indtrådte skade. 
 
 Skadevolderens bevidsthed om faren kan indgå i vurderingen af, om uagtsomheden er grov. 
+
+![](img/gem.jpg)
 
 Går en fodgænger over for rødt og vælter en cyklist, er fodgængeren nu mere uforsigtig end selv en skødesløs fodgænger. 
 
@@ -541,10 +561,11 @@ eksempel ske på grund af:
 
 * Manglende udvikling hos barnet. 
 
-**Eksempel:** Er et seksårigt barn kun udviklet som en treårig, bliver barnet sammenlignet med, hvad et treårigt barn burde vide.
+*Eksempel:* Er et seksårigt barn kun udviklet som en treårig, bliver barnet sammenlignet med, hvad et treårigt barn burde vide.
 
 * Handlingens beskaffenhed. For eksempel hvis skaden er sket på en for barnet kompliceret måde. 
-**Eksempel:** Hvis to otteårige drenge leger med en drage, der vikler sig ind i nogle luftledninger, så de kortslutter, vil drengenes erstatningsansvar falde bort. Drengene er ikke gamle nok til, at de burde indse, hvad der får ledninger til at kortslutte.
+
+*Eksempel:* Hvis to otteårige drenge leger med en drage, der vikler sig ind i nogle luftledninger, så de kortslutter, vil drengenes erstatningsansvar falde bort. Drengene er ikke gamle nok til, at de burde indse, hvad der får ledninger til at kortslutte.
 
 ---
 
@@ -554,9 +575,9 @@ Børns erstatningsansvar overføres ikke til forældrene, men forældrene kan id
 et selvstændigt ansvar, hvis deres adfærd har haft betydning for, at barnet har forvoldt
 skaden. Det sker:
 
-* Hvis de ikke har ført et rimeligt tilsyn med barnet eller ikke har fortalt barnet, hvordan det skal opføre sig.
+Hvis de ikke har ført et rimeligt tilsyn med barnet eller ikke har fortalt barnet, hvordan det skal opføre sig.
 
-* Og denne forsømmelse har været årsag eller medvirkende årsag til, at barnet forvoldte skaden.
+Og denne forsømmelse har været årsag eller medvirkende årsag til, at barnet forvoldte skaden.
 
 Ingen kan holde øje med deres børn hele tiden, men jo mindre barnet er, desto større tilsynspligt har forældrene. 
 
@@ -564,18 +585,21 @@ Børn, som er ældre end 10-11 år, er ofte selv i stand til at overskue følger
 
 Om tilsynspligten anses for at være tilsidesat, vurderes i hvert enkelt tilfælde. 
 
-Da der er tale om et selvstændigt ansvar for forældrene, er det ikke en forudsætning, at man også kan
-pålægge barnet et ansvar for skaden.
+Da der er tale om et selvstændigt ansvar for forældrene, er det ikke en forudsætning, at man også kan pålægge barnet et ansvar for skaden.
 
 ---
 
-**Skader i skolen**
+*Skader i skolen*
+
+![](img/skade.jpg)
+
+
 
 I skolen overtager de ansatte pligten til at føre tilsyn med børnene. Hvis en skade på en elev eller elevens ting skyldes, at en ansat ikke har holdt godt nok øje med eleverne, vil skolen kunne gøres ansvarlig. 
 
 ---
 
-**Forældrene skal betale**
+*Forældrene skal betale*
 
 Hvis et barn er skyld i en skade, kan den, det er gået ud over, kræve en erstatning på op til 7.500 kroner pr. skadegørende handling af den, der har forældremyndigheden.
 
@@ -595,20 +619,24 @@ Er skaden større, skal barnet selv betale resten.
 ---
 
 
-**En eller flere skader**
+*En eller flere skader*
 
 Hvis en mindreårig, for eksempel i forbindelse med gadeuroligheder, både skader en person med et stenkast og sætter ild til en bil, er der tale om to skadegørende handlinger. 
+
+![](img/uro.jpg)
 
 Det betyder, at forældrene hæfter med indtil 7.500 kroner for hver skadegørende handling.
 
 
 Hvis barnet sætter ild til en bil, og ilden breder sig til andre biler, er der tale om én skadegørende handling. Dermed hæfter forældrene for højst 7.500 kroner.
 
+![](img/afbrand.jpg)
+
 Er en skade forvoldt af to søskende i forening, hæfter forældrene for i alt 15.000 kroner.
 
 ---
 
-**Indboforsikringen kan dække**
+*Indboforsikringen kan dække*
 
 En indboforsikring indeholder typisk også en ansvarsforsikring for både forældre og børn.
 
@@ -624,7 +652,7 @@ Derfor dækker familiens ansvarsforsikring typisk skader, som børn under 14 år
 
 ---
 
-**Når barnet fylder 14 år**
+*Når barnet fylder 14 år*
 
 Sætter et barn på 14 år eller derover ild til en bil, smider en sten igennem en rude på skolen eller laver andre skader med vilje (forsætligt), betaler ansvarsforsikringen kun de 7.500 kroner, forældrene hæfter for. 
 
@@ -678,7 +706,7 @@ I Lov om erstatningsansvar kan man læse, hvad der kan kræves i erstatning af e
 
 *	*Dødsfald*
 
-*	**Skader på ejendele**
+*	*Skader på ejendele*
 
 *	*Advokatomkostninger*.
 
@@ -875,7 +903,7 @@ Pernille kan derfor nok ikke få erstatning for tabet af ”Guffe”.
 
 **Eksamensopgave og løsning - Om erstatning og kaution**
 
-**Murermester Madsen**
+*Murermester Madsen*
 
 ![](img/murermester.jpg)
 (fiktiv)
@@ -914,7 +942,7 @@ Derefter spurgte han sin ansatte murelæring, der netop havde arvet, om han vill
 
 Anton følte sig presset og skrev under.   
 
-***Eksamensspørgsmålene***
+*Eksamensspørgsmålene*
 
 1.	Kan Hr. Knudsen kræve erstatning og i givet fald for hvad og af hvem? 
     
@@ -924,7 +952,7 @@ Anton følte sig presset og skrev under.
 
 4.	Hvis banken ønsker penge af kautionisterne, hvordan er de to kautionister så stillet? 
     
-***Vejledende løsning:***    
+*Vejledende løsning:*    
 
 1.	Kan Hr. Knudsen kræve erstatning og i givet fald for hvad og af hvem? Ja, betingelserne opfyldt. I henhold til DL 3-19-2 skal arbejdsgiver betale, idet skaden skete som et led i arbejdet. 
     
@@ -934,18 +962,25 @@ Anton følte sig presset og skrev under.
     
 4.	Hvis banken ønsker penge af kautionisterne, hvordan er de to kautionister så stillet? De går begge fri. Faren pga. dokumentfalsk fra Madsens side og Madsen pga.kompulsiv, jf.    aftaleloven (stærk ugyldighedsindsigelse). 
 
+---
 
 **Eksamensopgave og løsning - Erstatning uden for kontrakt og forbrugeraftaler**
 
-**Randers Boldklub**
+![](img/randers.png)
+
+*Randers Boldklub*
 
 Hans bor i Randers og har 2 teenagedrenge. De spiller fodbold, og de kommer sammen med deres far til samtlige af Randers fodboldkampe. 
 
-Randers har kæmpet sig op i rækkerne og spiller rigtig godt, og de er godt med i slutspillet i SAS-ligaen. Hans vil gerne støtte dem, så han køber fantrøjer og kasketter til sig selv og drengene over Internettet. De skal have trøjerne og kasketterne på til næste kamp.
+Randers har kæmpet sig op i rækkerne og spiller rigtig godt, og de er godt med i slutspillet i SAS-ligaen. Hans vil gerne støtte dem, så han køber fantrøjer og kasketter til sig selv og drengene over Internettet. 
+
+De skal have trøjerne og kasketterne på til næste kamp.
 
 Hans skriver på bestillingen, at han skal bruge det inden 14 dage men varerne når ikke at komme inden kampen.
 
-Hans og drengene drager af sted til kampen mod Nordsjælland. Der er en god stemning på stadion. Randers spiller godt, men kommer bagud, da der bliver afsagt en tvivlsom kendelse. 
+Hans og drengene drager af sted til kampen mod Nordsjælland. 
+
+Der er en god stemning på stadion. Randers spiller godt, men kommer bagud, da der bliver afsagt en tvivlsom kendelse. 
 
 I bar frustration over den tvivlsomme kendelse og ikke at have fået trøjerne og kasketterne løber han ind på banen og slår ud efter dommeren, Albert. 
 
@@ -953,7 +988,9 @@ Albert når at undvige, men falder uheldigt lige ind i målstolpen, og han slår
 
 Albert bliver kørt på hospitalet, og han får konstateret en hjernerystelse, der medfører, at han sygemeldes i 1 måned. 
 
-Albert skulle have været på skiferie dagen efter kampen, men på grund af hjernerystelsen bliver han nødt til at aflyse sin ferie. Han har ikke tegnet nogen rejseforsikring, så han må betale for rejsen selv om han ikke kommer af sted.
+Albert skulle have været på skiferie dagen efter kampen, men på grund af hjernerystelsen bliver han nødt til at aflyse sin ferie. 
+
+Han har ikke tegnet nogen rejseforsikring, så han må betale for rejsen selv om han ikke kommer af sted.
 
 Alberts søster, Emilie, der overværede det hele, gik i chok. Hun besvimede, faldt og pådrog sig en brækket arm.
 
@@ -961,7 +998,7 @@ Hans og drengene skynder sig hjem. De løber ned af vejen. Henne ved hjørne st�
 
 En uge efter kampen kommer trøjerne og kasketterne men nu vil Hans ikke længere have dem.
 
-**Eksamensspørgsmålene:**
+*Eksamensspørgsmålene:*
 
 1.	Kan Albert få erstatning og hvilke krav kan han i givet fald 
     rejse?
@@ -975,10 +1012,9 @@ En uge efter kampen kommer trøjerne og kasketterne men nu vil Hans ikke længer
 5.  Kan Hans rejse krav om erstatning mod sælger, hvis han er bundet af aftalen om køb af trøjerne og kasketterne?
 
 
-**Vejledende løsning:**
+*Vejledende løsning:*
 
-1.	Kan Albert få erstatning og hvilke krav kan han i givet fald rejse? Ja. I henhold til EAL kan han rejse personskade, tabt arbejdsfortjeneste, svie og smerte samt erstatning for rejsen, 
-    idet krav om kausalitet og adækvans er opfyldt. Adækvans dog på grænsen.
+1.	Kan Albert få erstatning og hvilke krav kan han i givet fald rejse? Ja. I henhold til EAL kan han rejse personskade, tabt arbejdsfortjeneste, svie og smerte samt erstatning for rejsen, idet krav om kausalitet og adækvans er opfyldt. Adækvans dog på grænsen.
     
 2.	Er Emilie berettiget til erstatning? Nej, adækvans ikke opfyldt.
 
@@ -991,6 +1027,10 @@ En uge efter kampen kommer trøjerne og kasketterne men nu vil Hans ikke længer
 ---
 
 ## Introduktion til forsikringsretten
+
+For en mere væsentlig uddybning af forsikringsretten for de studerende som der vil vælge forsikringsvejen, se nærmere e-bogens kapitel 25, samt bogen hos Hans Reitszels Forlag: Introduktion til forsikringsreglerne:
+
+![](img/forbog.png)
 
 
 *Forsikringer og pensioner er især reguleret i*  
@@ -1027,7 +1067,9 @@ En uge efter kampen kommer trøjerne og kasketterne men nu vil Hans ikke længer
 
 ## Indgåelse af en forsikringsaftale
 
-Forsikringsaftalen omfatter enhver aftale, som indgås mellem på den ene side en forsikringsgiver (forsikringsselskabet) og på den anden side forsikringstageren.^[Følgende afsnit bygger især på **Sonny Kristoffersen:** Introduktion til forsikringsreglerne, 2019, Hans Reitzels Forlag, jf. link: https://hansreitzel.dk/products/introduktion-til-forsikringsreglerne-bog-47916-9788741272849, samt materialer og afgørelser fra Ankenævnet for Forsikring og informationer fra Forsikringsoplysningen og domme fra UfR og FED udgivet af KarnovGroup.]  
+Forsikringsaftalen omfatter enhver aftale, som indgås mellem på den ene side en forsikringsgiver (forsikringsselskabet) og på den anden side forsikringstageren.^[Følgende afsnit bygger især på *Sonny Kristoffersen:* Introduktion til forsikringsreglerne, 2019, Hans Reitzels Forlag, jf. link: https://hansreitzel.dk/products/introduktion-til-forsikringsreglerne-bog-47916-9788741272849, samt materialer og afgørelser fra Ankenævnet for Forsikring og informationer fra Forsikringsoplysningen og domme fra UfR og FED udgivet af KarnovGroup.] 
+
+
 
 En forsikringsaftale kan således defineres som en aftale, hvor forsikringsselskabet (forsikringsgiver) overtager den økonomiske risiko for en uvis begivenheds indtræden mod et vederlag (præmie), der kan beregnes statistisk af forsikringsselskabet.  
 
@@ -1043,13 +1085,18 @@ Om indgåelse af en forsikringsaftale gælder aftalelovens almindelige regler.
 
 Se nævnspraksis i Forsikringsankenævnet:
 
+![](img/Guadeloupe.jpg)
+
 **Sagsnr.: 83897:** Klager over afvisning af dækning for feriekompensation. Klager anmeldte, at hun var blevet syg under en ferierejse i Guadeloupe, der var et oversøisk fransk departement. Selskabet henviste til, at Guadeloupe ikke var omfattet af forsikringens geografiske dækningsområde, EU/EØS. Selskabet henviste til policen og påpegede bl.a., at forsikringen alene dækkede i de lande, der var omtalt i forsikringens definition af EU/EØS. Nævnet fandt, at policen og forsikringsbetingelserne var udformet på en sådan måde, at forsikringstageren ikke kunne få et klart og entydigt svar på, hvilke geografiske områder, der var dækket. Nævnet bemærkede, at opstod der tvivl om forståelsen af en aftale, og havde det pågældende aftalevilkår ikke været genstand for individuel forhandling, fortolkedes vilkåret på den måde, som var mest gunstig for forbrugeren, jf. aftalelovens § 38 b. Da Guadeloupe var en del af Frankrig, var selskabet ikke berettiget til at afvise at yde forsikringsdækning. Klager medhold.  
 
 ---
 
+![](img/bil7.jpg)
+
 **U 1990.426 Ø:** En bils bagagerum bag bagsædet var dækket af et vandret siddende gardin, som løftedes, når bagklappen åbnedes. Der skete tyveri fra bagagerummet. Bilens døre havde været låst. Ifølge vilkårene dækkede forsikring, hvis det stjålne lå i »låst bagagerum og ikke var synligt udefra«. Antaget, at vilkårenes ordlyd ikke med tilstrækkelig klarhed angav, at der – som påstået af forsikringsselskabet – skulle være adskillelse mellem bilens kabine og bagagerummet på en sådan måde, at adgang til bagagerummet fra kabinen alene var mulig ved voldelig opbrydning. Forsikringsvilkårene var derfor opfyldt. Ifølge lov om forsikringsvirksomhed kan forsikring kun drives i selskabsform, og kun selskaber, som har opnået koncession, dvs. tilladelse, fra Finanstilsynet til at drive forsikringsvirksomhed, kan indgå forsikringsaftaler. Forsikringsaftaler er endvidere – med få undtagelser, eksempelvis arbejdsskadeforsikring – omfattet af forsikringsaftaleloven, der indeholder en række ufravigelige bestemmelser, der har til formål at beskytte forsikringstagerne mod urimelige aftalevilkår. 
  
 ---
+
 
 Ved en forbrugerforsikring forstås en forsikringsaftale, hvor forsikringstageren (forbrugeren) ved aftalens indgåelse hovedsagelig handler uden for sit erhverv.  
 

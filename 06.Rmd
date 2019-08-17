@@ -8,55 +8,62 @@ cat(readLines('np.html'))
 
 ---
 
-**Indledningsvis skal du som studerende være særlig opmærksom på følgende problemstillinger ved gennemgangen af "forbrugeraftaler og forbrugerbeskyttelse":**
+*Indledningsvis skal du som studerende være særlig opmærksom på følgende problemstillinger ved gennemgangen af "forbrugeraftaler og forbrugerbeskyttelse":*
 
 
-•	**Forbrugerbeskyttelse ved erhvervelse af fast ejendom; fortrydelsesret og tilbud, tilbagekaldelse og sælgers accept, LFFE kapitel 2** 
+•	*Forbrugerbeskyttelse ved erhvervelse af fast ejendom; fortrydelsesret og tilbud, tilbagekaldelse og sælgers accept, LFFE kapitel 2, se nærmere ebogens kap. 21* 
   
-•	**Forbrugeraftaleloven, §§ 3-6** 
+•	*Forbrugeraftaleloven, §§ 3-6* 
 
-•	**Fortrydelsesret, §§ 18-24** 
+•	*Fortrydelsesret, §§ 18-24* 
 
-•	**Uanmodet henvendelse (forbrugeraftalelovens § 4 og markedsføringslovens § 10)**
+•	*Uanmodet henvendelse (forbrugeraftalelovens § 4 og markedsføringslovens § 10)*
   
 --- 
 
 ## Introduktion til forbrugeraftaleloven
 
+![](img/forb.jpg)
+
 Forbrugeraftalelovens (FBL) formål:.^[Følgende afsnit om forbrugeraftaler bygger på *Sonny Kristoffersen*: ”Kend forbrugerkøbsreglerne”, 2018, Samfundslitteratur.]
 
-* Beskyttelsespræceptiv – loven kan ikke fraviges til skade for forbrugeren, FBL § 33, men forbrugeren kan godt stilles bedre end, hvad lovgivningen tilsiger.
+Forbrugeraftaleloven kan vel karakteriseres som forbrugernes grundlov. Eller angivet som færdselsloven for den erhvervsdrivende, hvordan den erhvervsdrivende skal behandle forbrugeren, når der indgåes forbrugeraftaler.
 
-
+Forbrugeraftaleloven er *beskyttelsespræceptiv* – loven kan ikke fraviges til skade for forbrugeren, FBL § 33, men forbrugeren kan godt stilles bedre end, hvad lovgivningen tilsiger, fx 6 måneders fortrydelsesretten i forhold til den lovpligtige fortrydelsesretten på 14 dage.
 
 Forbrugeraftale: Indgås mellem to parter, hvor den erhvervsdrivende indgår aftalen som led i sit erhverv, mens den anden part (forbrugeren) handler uden for sit erhverv, jf. FBL § 2, stk. 1.
 
+Erhvervsdrivende formidlere: En erhvervsdrivende formidler, der skaber kontakt imellem private handlende, skal også overholde forbrugeraftaleloven.
+
+---
+
+![](img/Q.jpg)
+
+Se sagen om QXL (internet-auktionsudbyder):
+
+**Sø- og Handelsrettens dom afsagt den 18. juni 2009 i sag N-1-07:** QXL Ricardo Danmark A/S (QXL) er formidler som nævnt i forbrugeraftalelovens § 3, stk. 3, i forbindelse med salg på www.qxl.dk, når sælgeren er ikkeerhvervsdrivende, og køberen hovedsagelig handler uden for sit erhverv. QXL har derfor pligt til at give købere oplysning om fortrydelsesretten efter lovens § 11, stk. 1, nr. 5, og § 12, stk. 2, nr. 2, og til at modtage køberes underretning om brug af fortrydelsesretten efter lovens § 19, stk. 1. Ved ikke at have overholdt QXLs oplysningspligt efter forbrugeraftaleloven og ved ikke at have ført kontrol med, at erhvervsdrivende sælgere på deres website overholder deres pligter efter forbrugeraftaleloven, havde QXL handlet i strid med god markedsføringsskik, jf. markedsføringslovens § 1.
 
 
-Erhvervsdrivende formidlere: En erhvervsdrivende formidler, der skaber kontakt imellem private handlende, skal også overholde forbrugeraftaleloven
+![](img/forb5.jpg)
 
-– se sag om QXL (internet-auktionsudbyder).
+---
 
+Den erhvervsdrivende, som påstår aftalen ikke er en forbrugeraftale, har bevisbyrden, jf. FBL § 2, stk. 2.
 
+![](img/forb4.jpg)
 
+Forbrugerombudsmanden (FOB) tilsyn med at FBL overholdes. 
+
+De fleste konflikter afgøres af Forbrugerklagenævnet.^[Se nærmere *Sonny Kristoffersen* Ph.D-afhandling: "Det offentlige forbrugerklagesystem i et retssikkerhedsmæssigt perspektiv", 2019, Samfundslitteratur.]
  
-Skærpede krav ved B2C ift B2B: Virksomheder, der handler med forbrugere, skal overholde forbrugeraftaleloven.
-
-*Bevisbyrde* - aftaletype: Den erhvervsdrivende, som påstår aftalen ikke er en forbrugeraftale, har bevisbyrden, jf. FBL § 2, stk. 2.
-
-
-
-Forbrugerombudsmanden(FOB): Særligt FOB fører tilsyn med at FBL overholdes – se www.forbrug.dk
- 
+---
 
 ## Forbud mod uanmodet henvendelse
 
 <img src="img/sale1.jpg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Hovedregel: Forbud mod uanmodet telefonisk eller direkte personlig henvendelse til forbrugere på deres bopæl, arbejdsplads, skoler, gymnasier, universiteter eller andre steder, hvor der ikke er almindelig adgang, fx også foreninger, hvis henvendelsen fra virksomheden har til formål at opnå en aftale med forbrugeren, jf. FBL § 4, stk. 1.
+Der er et forbud mod uanmodet telefonisk eller direkte personlig henvendelse til forbrugere på deres bopæl, arbejdsplads, skoler, gymnasier, erhvervsakademier, universiteter eller andre steder, hvor der ikke er almindelig adgang, fx også foreninger, hvis henvendelsen fra virksomheden har til formål at opnå en aftale med forbrugeren, jf. FBL § 4, stk. 1.
  
-
-
 Undtagelser: FBL § 4, Stk. 2 – telefoniske henvendelse må gerne ske hvis det handler om:
 
 * Bestilling af bøger,
@@ -68,8 +75,11 @@ Undtagelser: FBL § 4, Stk. 2 – telefoniske henvendelse må gerne ske hvis det
 * Tegning af abonnement, der omfatter redningstjeneste eller sygetransport.
 
 
- 
+---
+
 ## Telefonsalg
+
+![](img/tele1.jpg)
  
 Ved telefoniske henvendelser omfattet af FBL § 4, Stk. 2, bestilling af bøger, abonnementer på aviser mv. skal forbrugeren ved hvert opkald have oplysning om:
  
@@ -81,10 +91,14 @@ Ved telefoniske henvendelser omfattet af FBL § 4, Stk. 2, bestilling af bøger,
 
 * Det kommercielle formål med telefonhenvendelsen.
 
- 
+![](img/tele3.jpg)
+
+
 Virksomheden skal tjekke	Robinson-listen inden henvendelse ellers er det en overtrædelse af markedsføringslovens § 10, stk. 4, nr. 2 og 3.
 
-Derudover gælder markedsføringslovens § 10, stk. 6: Den erhvervsdrivende skal ved den første henvendelse til forbrugeren, oplyse om retten til at frabede sig uanmodede henvendelser fra den erhvervsdrivende i fremtiden.
+Derudover gælder markedsføringslovens § 10, stk. 6: 
+
+Den erhvervsdrivende skal derfor ved den første henvendelse til forbrugeren, oplyse denne om retten til at frabede sig uanmodede henvendelser fra den erhvervsdrivende i fremtiden.
 
 ---
 
@@ -92,19 +106,23 @@ Derudover gælder markedsføringslovens § 10, stk. 6: Den erhvervsdrivende skal
 
 Henvendelse fra en erhvervsdrivende må gerne ske:
 
-* På offentlige steder, hvortil der er almindelig adgang, fx gader, veje, pladser og andre steder som fx togstationer og restauranter. Der kan dog være andre forbudsregler på de steder.
+På offentlige steder, hvortil der er almindelig adgang, fx gader, veje, pladser og andre steder som fx togstationer og restauranter. 
 
-* Til virksomheder og offentlige institutioner, hvis henvendelse vedrører tilbud om bestilling af varer og ydelser, der anvendes i virksomheden/institutionen.
+Der kan dog være andre forbudsregler på de steder.
 
-* På bopælen, hvis det ikke har med erhvervsmæssigt salg at gøre, fx henvendelser vedrørende religion, indsamlinger til velgørende formål, salg af lodsedler, spørgsmål i forbindelse med markedsundersøgelser mv.
+Til virksomheder og offentlige institutioner, hvis henvendelse vedrører tilbud om bestilling af varer og ydelser, der anvendes i virksomheden/institutionen.
 
- 
+På bopælen, hvis det ikke har med erhvervsmæssigt salg at gøre, fx henvendelser vedrørende religion, indsamlinger til velgørende formål, salg af lodsedler, spørgsmål i forbindelse med markedsundersøgelser mv.
+
+---
+
+![](img/forb2.jpg)
+
 *Aftalen er ugyldig*: Aftaler indgået i strid med FBL § 4 er ugyldig, jf. FBL § 5. Forbrugeren kan godt fastholde aftalen uanset ugyldighed
 
 *Bødestraf*: Det kan være forbundet med bødestraf, for virksomheden, at handle i strid med forbrugeraftaleloven, jf. FBL § 34 - se H&M sag om opringninger på mobiltelefoner.
 
-
-*Robinson-listen*: En forbrugers tilmelding til Robinson-listen skal forhindre henvendelser fr virksomheder om produkter omfattet af FBL § 4, stk. 2. Overtrædelse straffes med bøde.
+*Robinson-listen*: En forbrugers tilmelding til Robinson-listen skal forhindre henvendelser fra virksomheder om produkter omfattet af FBL § 4, stk. 2. Overtrædelse straffes med bøde.
 
 --- 
 
@@ -112,9 +130,9 @@ Henvendelse fra en erhvervsdrivende må gerne ske:
 
 En forbruger kan som udgangspunkt ikke blive bundet ved sin passivitet, jf. fbl § 6.
 
-Ses særligt inden for TV/sattelitaftaler,IT/internetforbindelser, avis- og blad abonnementer
+Ses særligt inden for TV/sattelitaftaler,IT/internetforbindelser, avis- og bladabonnementer
 
-Hvis en forbruger modtager en vare fra en virksomhed, som han ikke har bestilt, og det ikke skyldes en fejl, kan forbrugeren beholde varen uden at skulle betale.
+Hvis en forbruger modtager en vare fra en virksomhed, som forbrugeren ikke har bestilt, og det ikke skyldes en fejl, kan forbrugeren beholde varen uden at skulle betale.
 
 Det samme gælder for tjenesteydelser/arbejde som en erhvervsdrivende udfører, uden at forbrugeren har bedt om det.
 
@@ -131,22 +149,25 @@ Det kan også være en vildledning af forbrugerens retsstilling, jf. markedsfør
 
 Aftalen er indgået et andet sted end der hvor den erhvervsdrivende sælger har sit forretningssted, fx
 
+![](img/home.jpg)
+
 Homeparties, salgsdemonstrationer under udflugter, udstilling/messe, marked.
  
 Den erhvervsdrivende har pligt til at give tydelig skriftlig oplysning om fortrydelsesretten og hvortil henvendelse kan ske. 
 
 Oplysning skal gives:
 
-* Ved mødet med forbrugeren.
+Ved mødet med forbrugeren.
 
-* Ved varesalg – når varen overgives eller leveres fysisk til  
-  forbrugeren.
+Ved varesalg – når varen overgives eller leveres fysisk til  forbrugeren.
 
-Fortrydelsesfristen begynder først at løbe, fra det tidspunkt forbrugeren modtager oplysningerne, hvis de ikke modtages, så udskydes fortrydelsesfristens begyndelsestidspunkt med 12 måneder, se nærmere nedenfor.
+Fortrydelsesfristen begynder først at løbe, fra det tidspunkt forbrugeren modtager oplysningerne, hvis de ikke modtages, så udskydes fortrydelsesfristens begyndelsestidspunkt med 12 måneder.
+
+![](img/12.jpg)
 
 ---
 
-### Fjernsalg
+## Fjernsalg
 
 <img src="img/shopping.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
@@ -158,24 +179,31 @@ Den erhvervsdrivende og forbrugeren mødes ikke fysisk ved aftalens indgåelse. 
 
 Aftalen skal være indgået, som led i et system for fjernsalg, og den skal drives af den erhvervsdrivende, fx en aftale om køb, indgået via virksomhedens hjemmeside.
  
+---
 
-I rimelig tid inden aftalen indgås,	skal den erhvervsdrivende give forbrugeren oplysninger, fx om:
+![](img/forb7.jpg)
 
-* Den erhvervsdrivendes navn og forretningsadresse, tlf. numre-mailadresse m.v.
-  
-* Varens eller tjenesteydelsens vigtigste egenskaber.
+---
 
-* Den samlede pris, inkl. gebyrer, moms og afgifter, øvrige ekstraomkostninger, fx til levering, bestillingstakster, servicetakst.
+*I rimelig tid inden aftalen indgås,	skal den erhvervsdrivende give forbrugeren oplysninger, fx om:*
+
+Den erhvervsdrivendes navn og forretningsadresse, tlf. numre-mailadresse m.v.
   
-* Betalingsvilkår, leveringsvilkår, aftaleperiode, eventuel uopsigelighedsperiode og opsigelsesvilkår.
+Varens eller tjenesteydelsens vigtigste egenskaber.
+
+Den samlede pris, inkl. gebyrer, moms og afgifter, øvrige ekstraomkostninger, fx til levering, bestillingstakster, servicetakst.
   
-* Oplysninger om der er fortrydelsesret og hvordan den kan udøves, herunder om forbrugeren skal betale for tilbagelevering af en vare
+Betalingsvilkår, leveringsvilkår, aftaleperiode, eventuel uopsigelighedsperiode og opsigelsesvilkår.
   
-* Oplysningerne skal være klare og forståelige.
+Oplysninger om der er fortrydelsesret og hvordan den kan udøves, herunder om forbrugeren skal betale for tilbagelevering af en vare
+  
+Oplysningerne skal være klare og forståelige.
  
-* Oplysningerne skal meddeles på papir eller andet varigt medium.
+Oplysningerne skal meddeles på papir eller andet varigt medium.
 
-* Snarest muligt efter aftalens indgåelse, skal der gives oplysninger om:
+---
+
+*Snarest muligt efter aftalens indgåelse, skal der gives oplysninger om:*
   
 * Fortrydelsesfristens begyndelsestidspunkt
 
@@ -187,17 +215,18 @@ I rimelig tid inden aftalen indgås,	skal den erhvervsdrivende give forbrugeren 
 
 ---
 
-Ved køb af varer som skal sendes til forbrugeren, skal oplysning om fortrydelsesfristen gives senest ved varen overgivelse. Hvis oplysning først kommer frem senere, løber fristen fra oplysningerne er modtaget.
+Ved køb af varer som skal sendes til forbrugeren, skal oplysning om fortrydelsesfristen gives senest ved varen overgivelse. 
+
+Hvis oplysning først kommer frem senere, løber fristen fra oplysningerne er modtaget.
 
 Hvis der ikke modtages nogen oplysninger om fortrydelsesretten så udskydes fortrydelsesrettens begyndelsestidspunkt med 12 måneder
  
 ---
 
-***Varer og ikke-finansielle tjenesteydelser:***  
+*Varer og ikke-finansielle tjenesteydelser:*  
 
-**Forsinkelse med levering**
+*Forsinkelse med levering*
 
- 
 Hvis leveringstidspunkt ikke er aftalt: Varen/tjenesteydelsen skal leveres inden 30 dage fra bestillingen, jf. FBL § 27, stk. 1.
 
 Forbrugeren kan hæve aftalen hvis forsinkelsen er væsentlig for forbrugerne og den erhvervsdrivende burde forudsætte dette.
@@ -211,73 +240,79 @@ Den erhvervsdrivende skal tilbagebetale penge til forbrugeren, senest 30 dage fr
  
 ---
 
-### Forbrugerens fortrydelsesret i forbrugeraftaleloven
+## Forbrugerens fortrydelsesret i forbrugeraftaleloven
 
 Fortrydelsesret: En ret for forbrugeren til uden angivelse af begrundelse, at træde tilbage fra e aftale, som ellers ville være bindende for forbrugeren.
  
 
-HR: Ingen fortrydelsesret i dansk ret i den fysiske handel, med mindre den er aftalet, fx har Elgiganten en aftalt returret i sine fysiske butikker.
+HR: Der er ingen fortrydelsesret i dansk ret i den fysiske handel, med mindre, at den er aftalt, fx har Elgiganten en aftalt returret på 14 dage i sine fysiske butikker, som ikke må forveksles med den lovpligte fortrydelsesret efter forbrugeraftaleloven.
 
-Undtagelse: FBL § 18, stk. 1, hvor der er lovgivet om en fortrydelsesret:
+Se FBL § 18, stk. 1, hvor der er lovgivet om en fortrydelsesret:
 
-* Forbrugeraftaler indgået ved fjernsalg.
+* Forbrugeraftaler der indgået ved fjernsalg fx på nettet.
 
-* Forbrugeraftaler indgået uden for fast forretningssted.
+* Forbrugeraftaler der indgået uden for fast forretningssted fx i Bellacenteret.
+
+![](img/bella.jpg)
  
 ---
 
-**Fortrydelsesret: Andre særregler:**
+*Fortrydelsesret: Andre særregler:*
 
 Fortrydelsesret ved køb af fast ejendom, jf. lov om forbrugerbeskyttelse ved erhvervelse af fas ejendom:
 
-* En køber kan fortryde et køb af en fast ejendom i 6 hverdage fra aftalens indgåelse mod samtidig betaling af en godtgørelse til sælger på 1% af kontantkøbesummen.
+En køber kan fortryde et køb af en fast ejendom i 6 hverdage fra aftalens indgåelse mod samtidig betaling af en godtgørelse til sælger på 1% af den nominelle købesummen.
 
-Fortrydelsesret ved indgåelse af forsikringsaftaler:
+*Fortrydelsesret ved indgåelse af forsikringsaftaler:*
 
-* 14 dage fra forsikringsaftalens indgåelse, og 30 dage hvis aftale om livsforsikring eller individuelle pensionsordninger, FAL § 34i-k
+14 dage fra forsikringsaftalens indgåelse, og 30 dage hvis aftale om livsforsikring eller individuelle pensionsordninger, FAL § 34i-k
  
 ---
 
-**Fortrydelsesfristen 14 dages beregning**:
+*Fortrydelsesfristen 14 dages beregning*:
 
  
 Fortrydelsesfristen beregnes fra forskellige tidspunkter, jf. FBL § 19, stk. 2 – aftale om køb af:
 
-* Tjenesteydelse – beregnes fra aftalens indgåelse
+Tjenesteydelse – beregnes fra aftalens indgåelse
 
-* Flere varer der leveres enkeltvis – beregnes når den sidste vare er i forbrugerens fysiske besiddelse
+Flere varer der leveres enkeltvis – beregnes når den sidste vare er i forbrugerens fysiske besiddelse
 
-* Flere varer der leveres i partier – beregnes fra det sidste parti er i forbrugerens fysiske besiddelse
+Flere varer der leveres i partier – beregnes fra det sidste parti er i forbrugerens fysiske besiddelse
 
-* Varer der leveres regelmæssigt over en periode – beregnes fra den første vare er i forbrugerens besiddelse
+Varer der leveres regelmæssigt over en periode – beregnes fra den første vare er i forbrugerens besiddelse
 
-* Levering af vand, gas , elektricitet m.v. samt varer med digitalt indhold – beregnes fra aftalens indgåelse
+Levering af vand, gas , elektricitet m.v. samt varer med digitalt indhold – beregnes fra aftalens indgåelse
 
-* Den dag, hvor forbrugeren har modtaget de oplysninger om fortrydelsesret mv., som det påhviler den erhvervsdrivende at give   forbrugeren på papir eller andet varigt medium.
+Den dag, hvor forbrugeren har modtaget de oplysninger om fortrydelsesret mv., som det påhviler den erhvervsdrivende at give   forbrugeren på papir eller andet varigt medium.
  
 ---
 
-Forbrugeren har fortrydelsesret i:
+Forbrugeren har 14 dages fortrydelsesret i disse situationer:
 
-* Forbrugeraftaler indgået ved fjernsalg
+Forbrugeraftaler indgået ved fjernsalg.
 
-* Forbrugeraftaler indgået uden for den erhvervsdrivendes forretningssted fx på en messe i Bellacentreret
+Forbrugeraftaler indgået uden for den erhvervsdrivendes forretningssted fx på en messe i Bellacentreret.
+
+Hvordan fortryder forbrugeren:
  
-* Forbrugeren skal meddele sin fortrydelse ved en utvetydig erklæring evt. bruge standardfortrydelsesformular
+Forbrugeren skal meddele sin fortrydelse ved en utvetydig erklæring evt. bruge standardfortrydelsesformular.
   
-* Meddelelse om fortrydelse skal være afsendt inden fristens udløb
+Meddelelse om fortrydelse skal være afsendt inden fristens udløb.
 
-* Forbrugerne skal have sine penge tilbage
+Forbrugerne skal have sine penge tilbage.
 
-* Forbrugeren skal sende varen tilbage senest 14 dage efter at den erhvervsdrivende har modtaget besked om fortrydelse
+Forbrugeren skal sende varen tilbage senest 14 dage efter at den erhvervsdrivende har modtaget besked om fortrydelse.
   
-* Forbrugeren bærer risikoen for varen
+Forbrugeren bærer risikoen for varen.
 
-* Ved værdiforringelse (forskellen mellem ny-pris og gensalgspris) skal forbrugeren betale. Der kan fradrages i den købesum den erhvervsdrivende skal tilbagebetale til kunden
+Ved værdiforringelse (forskellen mellem ny-pris og gensalgspris) skal forbrugeren betale. 
+
+Der kan fradrages i den købesum den erhvervsdrivende skal tilbagebetale til kunden.
 
 ---
 
-### Retsvirkning ved fortrydelse
+## Retsvirkning ved fortrydelse
 
 Ved tilbagetræden fra aftalen inden fortrydelsesfristens udløb, bortfalder aftalen, og:
 
@@ -291,55 +326,56 @@ Ved tilbagetræden fra aftalen inden fortrydelsesfristens udløb, bortfalder aft
 
 --- 
 
-### Fjernsalg - Finansielle tjenesteydelser
+## Fjernsalg - Finansielle tjenesteydelser
 
 
-#### Oplysningspligt, FBL § 14
+### Oplysningspligt, FBL § 14
 
-Den erhvervsdrivende skal bl.a. give oplysninger om:
+![](img/opl1.jpg)
 
-* CVR-nummer, eller andet relevant identifikationsnumme.r
+*Den erhvervsdrivende skal bl.a. give oplysninger om:*
 
-* Klageadgang og fremgangsmåden ved klage, herunder oplysning om en fysisk adresse.
+CVR-nummer, eller andet relevant identifikationsnummer.
+
+Klageadgang og fremgangsmåden ved klage, herunder oplysning om en fysisk adresse.
   
-* Fortrydelsesfristens begyndelsestidspunkt, varighed og betingelserne for og fremgangsmåden ved brug af fortrydelsesretten.
+Fortrydelsesfristens begyndelsestidspunkt, varighed og betingelserne for og fremgangsmåden ved brug af fortrydelsesretten.
   
-* Eventuelle særlige risici ved tjenesteydelsen som følge af ydelsens særlige karakter.
+Eventuelle særlige risici ved tjenesteydelsen som følge af ydelsens særlige karakter.
   
-* En eventuel lovvalgs- eller værnetingsklausul i aftalen. 
+En eventuel lovvalgs- eller værnetingsklausul i aftalen. 
 
-* Forbrugeren skal have oplysningerne på papir eller et andet varigt medie.
+Forbrugeren skal have oplysningerne på papir eller et andet varigt medie.
 
-En manglende overholdelse af pligten, kan straffes med bøde.
+En manglende overholdelse af oplysningspligten, kan straffes med bøde.
 
 ---
 
-#### Fortrydelse - Fjernsalg af finansielle tjenesteydelser
+### Fortrydelse - Fjernsalg af finansielle tjenesteydelser
 
-**Finansiel tjenesteydelse:**
+*Finansiel tjenesteydelse:*
 
 * Enhver tjeneste, der har karakter af bank-, kredit, forsikrings-, individuel pensions-, investerings- eller betalingstjenesteydelse.
 
 ---
 
-**Fortrydelsesfristen**
+*Fortrydelsesfristen*
 
-* 14 dage fra aftalens indgåelse, eller fra det tidspunkt forbrugeren har modtaget oplysning om fortrydelsesret.
+Der er 14 dages fortrydelsesret fra aftalens indgåelse, eller fra det tidspunkt forbrugeren har modtaget oplysning om fortrydelsesretten.
 
 
-* 30 dage ved aftaler om individuel pensionsordning, FBL § 19, stk. 1.<img src="img/pension.PNG"align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+Der er 30 dages fortrydelsesret ved aftaler om individuel pensionsordning, FBL § 19, stk. 1.<img src="img/pension.PNG"align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
   
 ---
 
-**Tilbagebetale**  
+*Tilbagebetale*  
 
-* Den erhvervsdrivende skal tilbagebetale eventuelt modtagne beløb snarest mulig og inden 30 dage efter forbrugerens underretning om fortrydelse er kommet frem.
+Den erhvervsdrivende skal tilbagebetale eventuelt modtagne beløb snarest mulig og inden 30 dage efter forbrugerens underretning om fortrydelse er kommet frem.
 
  
 ---
 
-#### Fjernsalg - Finansielle tjenesteydelser: Fremgangsmåde ved fortrydelse
-
+### Fjernsalg - Finansielle tjenesteydelser: Fremgangsmåde ved fortrydelse
 
 Der skal ske underretning til den erhvervsdrivende om, at forbrugeren vil bruge fortrydelsesretten. Underretning skal være afsendt inden udløb af fortrydelsesfristen.
   
@@ -351,34 +387,44 @@ Meddelelsen om forbrugerens fortrydelse, skal være utvetydig – standardfortry
 
 ## Urimelige aftaler
 
-Urimelige aftaler kan tilsidesættes helt eller delvis. 
+Urimelige aftaler kan tilsidesættes helt eller delvis eller ændres efter aftalelovens § 36. 
 
 Generelle betragtninger- vurdering:
 
-* Stridende mod hæderlig forretningsskik, jf. aftalelovens §§ 38c, stk 1, jf. 36.
+Hvis det er stridende mod hæderlig forretningsskik, jf. aftalelovens §§ 38c, stk 1, jf. 36:
+
+*"En aftale kan ændres eller tilsidesættes helt eller delvis, hvis det vil være urimeligt eller i strid med redelig handlemåde at gøre den gældende. Det samme gælder andre retshandler.*
+*Stk. 2. Ved afgørelsen efter stk. 1 tages hensyn til forholdene ved aftalens indgåelse,  aftalens indhold og senere indtrufne omstændigheder".*
   
-* Redelig handlemåde.
+Hvis der er i strid med redelig handlemåde.
 
-AFTL §§ 38a – 38 d – særligt kapitel om forbrugeraftaler:
+Aftalelovens §§ 38a – 38 d – særligt kapitel om forbrugeraftaler:
 
-Ved tvivl om indholdet af en forbrugeraftale, tolkes aftalen til fordel for forbrugeren (koncipistreglen).
+Ved tvivl om indholdet af en forbrugeraftale, tolkes aftalen til fordel for forbrugeren (koncipistreglen), jf. aftalelovens § 38b.
 
-Aftaler skal være udarbejdet på en klar og tydelig måde, jf. aftalelovens § 38 b.
+Aftaler skal være udarbejdet på en klar og tydelig måde, jf. aftalelovens § 38b:
+
+*"Opstår der tvivl om forståelsen af en aftale, og har det pågældende aftalevilkår ikke været genstand for individuel forhandling, fortolkes vilkåret på den måde, som er mest gunstig for forbrugeren. Den* *erhvervsdrivende har bevisbyrden for, at et aftalevilkår har været genstand for individuel forhandling.*
+*Stk. 2. En skriftlig aftale, der tilbydes forbrugeren,  skal af den erhvervsdrivende være udarbejdet på en klar og forståelig måde".*
   
-Aftalelovens § 36 – om redelig handlemåde.
- 
+Se retspraksis:
+
+**U.2005.2960 S** om vilkår om forlængelse af abonnementsaftale medmindre forbrugeren opsagde inden 30 dage før abonnementsperiodens udløb, tilsidesat:
+
+V solgte tv-signaler til forbrugere. I henhold til abonnementsaftalerne var de gældende for 12 måneder, og de fortsatte efter V's opfattelse medmindre de blev opsagt med 30 dages varsel til udgangen af en abonnementsperiode. I sager anlagt af Forbrugerrådet for to forbrugere fandt retten på grundlag af aftalernes udformning, herunder formuleringen af vilkårene for opsigelse, manglende definition af abonnementsperiode og parternes forklaringer at aftalernes vilkår om opsigelse, herunder om abonnementsperiode, manglede fornøden klarhed og forståelighed, hvorfor opsigelsesvilkårene skulle fortolkes i overensstemmelse med aftalelovens § 38b, stk. 1. Efter udløbet af en første bindingsperiode fandtes aftalerne derfor at kunne opsiges med et normalt, kort varsel svarende til 30 dages varsel til udgangen af en måned. Endvidere fandt retten efter en af Forbrugerombudsmanden nedlagt subsidiær påstand at vilkåret om automatisk forlængelse af kontrakten var i strid med god markedsføringsskik, jf. markedsføringslovens § 1, og hæderlig forretningsskik, jf. aftalelovens § 38c, jf. § 36. Vilkåret bevirkede en betydelig skævhed i parternes rettigheder og forpligtigelser til skade for forbrugeren og indebar at forbrugeren påførtes en betydelig risiko for af tilfældige årsager og imod eget ønske at komme til at få et abonnement forlænget i et år med en overflødig, ikke ubetydelig udgift til følge. Det blev derfor forbudt V i aftaler om løbende tjenesteydelser vedrørende levering af tv-signaler over for forbrugere at anvende en kontrakt som indeholdt følgende eller lignende vilkår: »Hvis kunden ikke opsiger aftalen med mindst 30 dages skriftligt varsel til udgangen af en abonnementsperiode, forlænges aftalen automatisk med en tilsvarende abonnementsperiode og så fremdeles«. Derimod kunne mere generelle påstande nedlagt af Forbrugerombudsmanden om forbud mod visse bindingsperioder ikke tages til følge, da spørgsmålet om en fastsættelse af almindelige, tvingende regler om adgangen til at opsige abonnementsaftaler med et vist varsel måtte afgøres af lovgivningsmagten (dissens). Endvidere blev V påbudt at underrette nærmere angivne kunder om at det pågældende vilkår ikke kunne håndhæves, og at kunderne havde et tilbagebetalingskrav mod V. Endelig blev det pålagt V at tilbagebetale allerede modtagne beløb der var opkrævet med urette.
+
 
 ---
 
 ## Løbende tjenesteydelser/abonnementer
 
+![](img/abo.jpg)
+
 En forbruger kan opsige en aftale om løbende levering af varer eller tjenesteydelser med 1 måneds varsel til udgangen af en måned, når der er gået 5 måneder efter aftalens indgåelse, jf. FBL § 28, stk. 1, fx abonnementslignende aftaler.
 
-
+![](img/forb6.jpg)
 
 ---
-
-## Quiz
 
 **Quiz: E-handel**
 
