@@ -47,11 +47,11 @@ I stedet er der ud af mange års domspraksis udledt en erstatningsregel, der kal
 
 Denne regel fastslår, at man er ansvarlig for den økonomiske skade, som man har forvoldt ved uagtsomhed eller med vilje. 
 
-Reglen hedder også culpa- eller skyldreglen ("culpa" betyder "skyld" på latin eller brøde, uagtsomhed, forseelse, synd). 
+Reglen hedder også culpa- eller skyldreglen ("culpa" betyder "skyld" på latin eller brøde, uagtsomhed, forseelse, synd), som kan føres tilbage romerrettens culparegel. 
 
 Culpa, er den grundlæggende betingelse for at pålægge erstatningsansvar uden for kontraktforhold. 
 
-En skadevolder har udvist culpa, optrådt culpøst, overtrådt culpareglen, hvis han eller hun har handlet enten forsætligt, dvs. med vilje og viden om handlingens elementer, eller uagtsomt. 
+En skadevolder har udvist culpa, optrådt culpøst, overtrådt culpareglen, hvis skadevolder har handlet enten forsætligt, dvs. med vilje og viden om handlingens elementer, eller uagtsomt. 
 
 Se følgende domme om erstatningsansvaret:  
 
@@ -74,7 +74,7 @@ Se dommen **FED 2006.78:** Ansvarspådragende efter culpareglen, at en person, d
 
 <img src="img/cig.jpg" align="left" width="12%" height="12%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Se dommen **U 2015.572 H** (U: Ugeskrift for Retsvæsen): Tobaksselskaber ikke ansvarlige for varigt mén som følge af mangeårigt forbrug af cigaretter.
+Se dommen **U 2015.572 H**: Tobaksselskaber ikke ansvarlige for varigt mén som følge af mangeårigt forbrug af cigaretter.
 
 ---     
 
@@ -98,11 +98,11 @@ Se dommen **FED 2012.3:** A, der sad uden for golfbanens cafeteria, blev ramt i 
 
 <img src="img/sovn.jpg" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Se dommen **FED 2009.114:** En kvinde, som faldt i søvn som fører af en bil, påkørte og dræbte en modkørende bilist. Hun blev idømt en fængselsstraf på 10 måneder, men hendes kørsel kunne ikke karakteriseres som særlig hensynsløs, hvorfor afdødes ægtefælle ikke havde krav på godtgørelse i medfør af EAL § 26 a.*
+Se dommen **FED 2009.114:**^[FED: Forsikring og Erstatningsretlig Domsamling.] En kvinde, som faldt i søvn som fører af en bil, påkørte og dræbte en modkørende bilist. Hun blev idømt en fængselsstraf på 10 måneder, men hendes kørsel kunne ikke karakteriseres som særlig hensynsløs, hvorfor afdødes ægtefælle ikke havde krav på godtgørelse i medfør af EAL § 26 a.
 
 ---
 
-Se dommen **FED 2008.1:** <img src="img/stripper2.jpg" align="left" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>  En mandlig stripteasedanser B ansvarlig for øjenskade på deltager A i kvindelig polterabend, da B affyrede konfettirør. Ikke grundlag for at nedsætte erstatningen som følge af egen skyld eller accept af risiko.
+Se dommen i **FED 2008.1:** <img src="img/stripper2.jpg" align="left" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>  En mandlig stripteasedanser B ansvarlig for øjenskade på deltager A i kvindelig polterabend, da B affyrede konfettirør. Ikke grundlag for at nedsætte erstatningen som følge af egen skyld eller accept af risiko.
 
 <br><br><br><br>
 
@@ -147,7 +147,7 @@ Afgørelser fra Ankenævnet for Forsikring:
 
 *Gæstebudskade*: Hvis en gæst kommer til at ødelægge noget hjemme hos værten, fx vælter en dyr vase eller spilder rødvin på et tæppe, kaldes det for en gæstebudsskade. 
 
-Ved gæstebudsskader er gæsten normalt ikke erstatningsansvarlig. Man har derfor ikke krav på erstatning. 
+Ved gæstebudsskader er gæsten normalt ikke erstatningsansvarlig. Værten har derfor ikke krav på erstatning fra gæsten. 
 
 Som vært må man altså acceptere, at der er en vis risiko, når man har nogen på besøg.
 
@@ -265,7 +265,7 @@ Se her nævnte domme:
 
 ## Simpel uagtsomhed
 
-Ved simpelt uagtsomhed (Latin: culpa levis), har skadevolder handlet mere skødesløst, end hvad en almindelig fornuftig personen ville have handlet i den samme situation – den lille dagligdags uagtsomhed – er skadevolder erstatningsansvarlig. 
+Ved simpelt uagtsomhed (latin: culpa levis), har skadevolder handlet mere skødesløst, end hvad en almindelig fornuftig personen ville have handlet i den samme situation – den lille dagligdags uagtsomhed – er skadevolder erstatningsansvarlig. 
 
 Simpel uagtsomhed er en uagtsomhed som ikke kan betegnes som grov. 
 

@@ -108,7 +108,19 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow"))
 
 *Fuldmagt:* Aftaleloven afsnit II, jf. aftalelovens §§ 10-27 ^[Følgende bygger tildels på *Torsten Iversens og Lars Hedegaard Kristensen* karnovkommentar til aftaleloven om fuldmagtsforhold]
 
-Fuldmagtsgiver bliver umiddelbart bundet af de aftaler, som fuldmægtigen indgår på fuldmagtsgiverens vegne, jf. aftalelovens § 10, stk. 1:  
+---
+
+*Personerne ved fuldmagtsforhold:*
+
+*Fuldmagtsgiver/hovedmanden* er den i hvis navn og for hvis regning aftalen indgås.
+
+*Fuldmægtigen/mellemmanden* er den der handler i hovedmandens navn.
+
+*Tredjemand/aftalepart* er hovedmandens aftalepart.
+
+---
+
+Fuldmagtsgiver (hovedmanden) bliver umiddelbart bundet af de aftaler, som fuldmægtigen indgår på fuldmagtsgiverens vegne, jf. aftalelovens § 10, stk. 1:  
 
 ”Den, som har givet en anden fuldmagt til at foretage en retshandel, bliver umiddelbart berettiget og forpligtet overfor tredjemand ved retshandel, som fuldmægtigen foretager i fuldmagtsgiverens navn og indenfor fuldmagtens grænser”.
 
@@ -131,7 +143,9 @@ Anden optræden eller adfærd fra hovedmandens side end en viljeserklæring kan 
 
 En fuldmagt skabt ved passivitet kaldes ofte *adfærdsfuldmagt*. 
 
-Adfærdsfuldmagt foreligger også, når hovedmanden i et tidsrum har tolereret, at en person har foretaget retshandler for ham, og hovedmanden har opfyldt de indgåede aftaler, idet tredjemand her er bibragt den opfattelse, at denne person faktisk har en fuldmagt.
+Der foreligger ingen fuldmagt, men hovedmanden har ved sin adfærd givet grund til at tro, at „fuldmægtigen“ var bemyndiget til at disponere på hovedmandens vegne.
+
+Adfærdsfuldmagt foreligger således også, når hovedmanden i et tidsrum har tolereret, at en person har foretaget retshandler for ham, og hovedmanden har opfyldt de indgåede aftaler, idet tredjemand her er bibragt den opfattelse, at denne person faktisk har en fuldmagt.
 
 En aftale kan i nogle tilfælde rammes af ugyldighed, hvis der er handlet i strid med en fuldmagt.
 
@@ -148,10 +162,11 @@ Ved *»beføjelse«* (bemyndigelse) den ret eller tilladelse, fuldmægtigen iht.
 
 * *Bemyndigelse/beføjelse:* Er således den interne instruks mellem fuldmagtsgiver og fuldmægtig. Indholdet af denne instruks er som udgangspunkt ikke kendt for omverdenen.
 
-* *Legitimation:* Den ydre fuldmagt er synlig og kendt for omverdenen.  
- 
+* *Legitimation:* Den ydre fuldmagt er synlig og kendt for omverdenen.
 
+Fuldmagt/legitimation: Omfatter det tredjemand kan forvente. Fuldmagtsgivers signal til omverdenen om, hvordan fuldmægtigen kan binde fuldmagtsgiver. De ydre rammer (eks. købe et hus)
 
+Fuldmagt og bemyndigelse kan være ens, men bemyndigelsen er ofte snævrere end fuldmagten. Fuldmagten kan aldrig være snævrere end bemyndigelse.
 
 
 <br>
@@ -337,17 +352,19 @@ Ophører når fuldmagten tilbagegives til fuldmagtsgiver eller fuldmagten tilint
 
 ---
 
-## Fuldmagt uden særlig tilværelse, 
+## Fuldmagt uden særlig tilværelse
 
 Se nærmere aftalelovens § 18.
 
 Denne type fuldmagt er kendetegnet ved, at den ikke er kendt eller synlig for omverdenen.
 
-Kaldes også for en aftalelovens § 18-fuldmagt:
+Kaldes også for en aftalelovens *§ 18-fuldmagt*:
 
 ”En fuldmagt, der alene hviler på fuldmagtsgiverens erklæring til fuldmægtigen, er tilbagekaldt, når erklæringen om, at fuldmagten ikke længere skal gælde, er kommet frem til fuldmægtigen*.
 
 Fuldmagten/instruksen gives ofte mundtligt, men kan også gives skriftligt.
+
+Hvor tredjemand ikke har modtaget anden erklæring end fuldmægtigens egne ord for, at denne er fuldmægtig for hovedmanden.
 
 Der sondres ikke mellem bemyndigelse og legitimation, da fuldmagtens omfang og bemyndigelsen er sammenfaldende.
 

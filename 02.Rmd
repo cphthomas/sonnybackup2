@@ -6,47 +6,45 @@ cat(readLines('np.html'))
 
 ---
 
-***Kapitel 2 skal kun læses i hovedtræk*** 
+**Kapitel 2 skal kun læses i hovedtræk** 
 
 ---
 
-
-## Retskilderne
-
-
 Retskilder er de faktorer, som danner grundlaget for at opnå viden om, hvad der er gældende ret.^[Følgende afsnit om retskilderne bygger bl.a. på http://juridiskmetode.dk/retskilderne/index.html og http://denstoredanske.dk/Samfund,_jura_og_politik/Jura/Almindelig_retsl%C3%A6re,_retsfilosofi_og_terminologi/retskilder.] 
 
-I bred betydning kan man definere begrebet **retskilde** som enhver tankegang, der leder retsanvenderen frem mod en konklusion om, hvad der er gældende ret på et givent område. 
+I bred betydning kan man definere begrebet *retskilde* som enhver tankegang, der leder retsanvenderen frem mod en konklusion om, hvad der er gældende ret på et givent område. 
 
 I praksis anvendes begrebet retskilde om den præmis i en konklusion om gældende ret, som foreligger i autoritativ form, enten i form af et dokument udstedt af en kompetent instans (f.eks. en lov, en bekendtgørelse eller en dom) eller i form af en udtalelse om, hvad der er praksis inden for et område, afgivet af en institution med en særlig kompetence inden for området.
 
 ---
 
-Retskildehirakiet:
-
-![](img/lov1.png)
-
+## Retskildehirakiet
 
 Retskilderne præsenteres i dansk ret traditionelt i et hierarki med grundloven og lovene som øverste retskilder og "forholdets natur" som den laveste.
 
+![](img/retskilde.jpg)
 
 Lovgivningen er den primære retskilde, som altid skal tages i betragtning ved fastlæggelse af retsstillingen, men retspraksis er også en vigtig retskilde, især hvis der foreligger en afgørelse fra Højesteret (se præjudikat) eller en afgørelse fra EU-Domstolen eller fra Menneskerettighedsdomstolen vedrørende Den Europæiske Menneskerettighedskonvention. 
 
-Andre faktorer, der kan anvendes som retskilder, er fx retssædvaner, aftaler, lovforarbejder, administrativ praksis, administrative retsforskrifter, udtalelser fra Folketingets Ombudsmand samt retsvidenskabens analyser. Herudover anvendes traditionelt også forholdets natur som retskilde.
+Andre faktorer, der kan anvendes som retskilder, er fx retssædvaner, aftaler, lovforarbejder, administrativ praksis, administrative retsforskrifter, udtalelser fra Folketingets Ombudsmand samt retsvidenskabens analyser. 
+
+Herudover anvendes traditionelt også forholdets natur som retskilde.
 
 Der kan ikke opstilles en fast prioritering af retskilderne, idet de i konkrete tilfælde alle kan have betydning for, hvad der er gældende ret.
 
-I den juridiske argumentation indtager retskilderne den vægtigste position.
+I den juridiske argumentation og fortolkning indtager retskilderne den vægtigste position.
 
-Mabn kan også opdele retskilderne i 3 hovedkategorier:
+---
+
+Man kan også opdele retskilderne i 3 hovedkategorier:
 
  
-
 1. National lovgivningen og EU-lovgivningen
 
 2. National retspraksis og EU-praksis
 
 3. Øvrige retskilder:
+
 
 Retssædvaner
 
@@ -64,6 +62,8 @@ God skik regler
 
 ### Lov
 
+![](img/lov8.jpg)
+
 En lov er underlagt grundloven for 1953 og må ikke stride mod grundloven.
 
 En lov er heirarkisk højere rangeret end en bekendtgørelse. jf. herom forneden. Love er bindende for private, virksomheder og myndigheder. 
@@ -72,12 +72,18 @@ Før en lov kan blive vedtaget, skal den behandles 3 gange i folketinget.
 
 Det er regeringen, der fremsætter lovforslaget, og det er folketinget, der vedtager eller forkaster den.
 
+Der gælder et ressikkerhedsmæssigt princip i Danmark om lighed for loven uanset om man er fattig eller rig.
+
+![](img/lov7.jpg)
+
  
 ---
 
 ### Bekendtgørelse
 
-En bekendtgørelse er en administrativ forskrift udstedt af en forvaltningsmyndighed med hjemmel i lov. 
+![](img/bekendt.png)
+
+En bekendtgørelse er en administrativ forskrift udstedt af en forvaltningsmyndighed med hjemmel (støtte) i lov. 
 
 Bekendtgørelser er bindende for borgere, virksomheder og myndigheder, medmindre andet følger af bekendtgørelsen.
 
@@ -85,30 +91,42 @@ Bekendtgørelser er bindende for borgere, virksomheder og myndigheder, medmindre
 
 ### Dommenes retskildværdi (præjudikat)
 
-Domstolsafgørelser og domstolskendelser kan have præjudikatsværdi. 
+![](img/dom1.png)
+
+En dom er en form for retsafgørelse, der i modsætning til kendelser og beslutninger afslutter sagens behandling ved retten.
+
+Domstolsafgørelser og domstolskendelser kan have *præjudikatsværdi*. 
 
 Det betyder, at afgørelsen kan have betydning for, hvordan fremtidige afgørelser inden for det pågældende område skal bedømmes. 
 
 Præjudikatsværdien kan være underlagt en række indskrænkninger, hvilket betyder, at præjudikatsværdiens rækkevidde kan være begrænset.
 
+Der findes ikke i dansk ret et klart princip, der angiver, hvornår og i hvilket omfang domme har præjudikatsværdi; det afhænger af den konkrete problemstilling.
+
 Følgende momenter kan indgå i vurderingen af, hvilken præjudikatsværdi en afgørelse kan tillægges:
 
-hvor konkret er afgørelsen, og kan den være anvendelig på lignende afgørelser?
-i civilretten, hvor forhandlingsmekanismen gælder, bør der tages højde for, hvad der er fremsat af påstande og anbringender, da disse danner rammerne for, hvad domstolene skal tage stilling til om afgørelsen kan tjene som fortolkningsbidrag
+Hvor konkret er afgørelsen, og kan den være anvendelig på lignende afgørelser.
 
-om afgørelsen kan være med at fastlægge retstilstanden tager afgørelsen udgangspunkt i en nu forældet (f.eks. ophævet) eller gældende lovgivning/retstilstand?
+Højesteretsdomme har generelt større præjudikatsværdi end landsretsdomme, der igen har større præjudikatsværdi end byretsdomme. 
+
+Endvidere har nye domme større præjudikatsværdi end ældre domme. 
+
+Dommes præjudikatsværdi begrænses, når deres begrundelser gøres meget konkrete.
 
 ---
 
 ### God skik regler
 
-Undertiden støder man i lovgivningen på, at en handlemåde skal være overensstemmelse med en branchebestemt ”god skik”, en såkaldt adfærdsnorm. 
 
-Eksempler herpå er god advokatskik, god ejendomsmæglerskik, god skik for de finansielle virksomheder, god markedsføringsskik, god revisionsskik og god forvaltningsskik m.v.  
+Undertiden støder man i lovgivningen på, at en handlemåde skal være overensstemmelse med en branchebestemt *”god skik”*, en såkaldt *adfærdsnorm.* 
+
+Eksempler herpå er god advokatskik, god ejendomsmæglerskik, god skik for de finansielle virksomheder, god markedsføringsskik, god revisionsskik, god inkassoskik og god forvaltningsskik m.v. 
 
 God skik regler findes i begrænset omfang på lovniveau (eksempel herpå er bekendtgørelse om god skik for finansielle virksomheder), mens normerne for god skik i andre tilfælde er fastsat af domstolene mv. 
 
 God skik er som udgangspunkt branchebestemt og de vage rammer sikre en tidsvarende standardnorm, der udvikles i takt med samfundsudviklingen.
+
+![](img/god.jpg)
 
 ---
 
@@ -122,7 +140,7 @@ Domslæsning, læse anerkendte juridiske grundsætninger og søge i retslitterat
 
 Imidlertid er retssædvaner ikke vilkårlige, hvorfor der er flere elementer, der skal være opfyldt, før retssædvanen overhovedet kan tillægges betydning. 
 
-Et klassisk eksempel på retssædvane er **culpareglen**.
+Et klassisk eksempel på retssædvane er *culpareglen*.
 
 I den juridiske litteratur er der opstillet rammer for, hvornår der er tale om en retssædvane. 
 
@@ -180,6 +198,16 @@ Deklaratoriske regler er regler fx. i handelskøb, der kan fraviges ved aftale, 
 Det er i juridisk litteratur omdiskuteret, om hvorvidt forholdets natur overhovedet er en retskilde, og der kan i den juridiske litteratur findes flere argumenter for og imod. 
 
 Forholdets natur er kendetegnet ved, at der tages hensyn til nogle retlige relevante hensyn og principper og rimelighedsbetragtninger. 
+
+---
+
+## Romerretten
+
+![](img/romer.jpg)
+
+Dansk ret er påvirket af romerrettens begrebsapparat fx. at man som jurist eller jurainteresseret skal kunne forstå elementer af romerretten samt de klassisk latinsk-juridiske begreber som f.eks. actio, bona fide, caveat emptor, conditio sine qua non, reformatio in pejus, dolus eventualis, depositum, ex offio, ex nunc, ex tunc, in extenso, in dubio pro reo, in absentia, insolvens, de lege lata, de lege feranda, et cetera, et cetera.
+
+![](img/romer1.jpg)
 
 ---
 
@@ -258,7 +286,7 @@ I England er de afgørelser, der hidrører fra samme eller en højere domstol, b
 
 Andre afgørelser har kun vejledende karakter. Der sondres desuden mellem den tidligere afgørelses egentlige begrundelse, *"ratio decidendi"*, og andre udtalelser i afgørelsen, *"obiter dicta"*. 
 
-Et "obiter dictum" er kun vejledende, uanset fra hvilken domstol det måtte hidrøre.
+Et *"obiter dictum" er kun vejledende*, uanset fra hvilken domstol det måtte hidrøre.
 
 
 Selv bindende afgørelser bliver fra tid til anden tilsidesat (overruled); fx kan der bag afgørelsen ligge en forældet tankegang, og i 1966 udtalte Englands højeste domstol, House of Lords, at den ikke fremover ville betragte sig som evigt bundet af sine egne tidligere afgørelser.

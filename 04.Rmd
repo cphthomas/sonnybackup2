@@ -94,11 +94,11 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 
 ## Aftaleindgåelse
 
-Hovedregel (HR): Aftalefrihed – vi kan frit aftale hvad vi vil
+Hovedreglen er, at der er aftalefrihed – vi kan frit aftale hvad vi vil.
 
-Undtagelse (U1): Begrænsninger i præceptive lovregler:  
+Undtagelse (U1): Begrænsninger i præceptive lovregler.  
 
-fx:
+Se fx:
 
 +	Funktionærlovens regler om opsigelsesvarsler
 
@@ -233,7 +233,7 @@ Tilbudsmodtager (boligsælgeren): Den som modtager et tilbud.
 
 ---
 
-**En kunde tager initiativ til en forsikringsaftale:**  
+*En kunde tager initiativ til en forsikringsaftale:*  
 
 
 "Tilbudsgiver" (kunden): En interesseret kunde sender en begæring til et forsikringsselskab med ønske om en forsikring.
@@ -278,7 +278,15 @@ Der er ikke noget krav om, at modtageren skal have forstået indholdet.
 
 *"Opfordring til at gøre tilbud":* er en ikke-bindende henvendelse til andre om at give tilbud.
 
+Hvis en erhvervsdrivende i overensstemmelse med aftalelovens § 9 vil fravige det almindelige aftaleretlige udgangspunkt om, at tilbud i en internet butik er bindende, skal det fremgå meget tydeligt af siden, at tilbuddene på hjemmesiden alene er ”en opfordring til at give et tilbud”, og at der ikke er indgået en bindende aftale, før sælgeren har accepteret køberens tilbud.
 
+---
+
+Se fra retspraksis:
+
+**U.2003.907 V** (U: Ugeskrift for Retsvæsen): Annoncering af brugt bil på internettet var alene opfordring til at gøre tilbud. S havde på en hjemmeside på internettet annonceret en brugt bil til salg til en pris af 119.900 kr. Den rigtige pris var imidlertid 349.900 kr. A, der efter at have set annoncen, havde ringet og skrevet til S vedrørende bilen, anlagde retssag mod S med påstand om betaling af 230.000 kr., under anbringende af at S havde pådraget sig erstatningsansvar. Landsretten fandt, at annonceringen af den brugte bil på internettet i det foreliggende tilfælde alene kunne anses som en opfordring til at gøre tilbud. Da S straks ved A's telefoniske henvendelse havde gjort A bekendt med den fejlagtigt angivne pris, var der således ikke indgået nogen aftale om køb af bilen, og S blev frifundet for A's krav om erstatning.
+
+---
 
 *"Påbud"* er en erklæring: som går ud på at lægge bånd på adressaten.
 
@@ -465,11 +473,11 @@ Rimelig betænkningstid” afhænger af de konkrete omstændigheder.
 
 ![](img/tank.jpg)
 
-+	Kort, hvis prisen på salgsproduktet svinger meget
++	Kort, hvis prisen på salgsproduktet svinger meget.
     
-+	Kort, hvis der er tale om letfordærvelige varer
++	Kort, hvis der er tale om letfordærvelige varer.
     
-+	Længere, hvis der er tale om komplekse og større tilbud
++	Længere, hvis der er tale om komplekse og større tilbud.
     
 *	Mundtlige tilbud der gives uden acceptfrist, skal accepteres straks, ellers er det bortfaldet, jf. aftalelovens § 3, stk. 2.
 
@@ -668,11 +676,11 @@ Aftaleloven gælder også ved aftaler og køb på nettet.
 
 Afsender bærer selv risiko for at e-mailen kommer frem til modtager.
 
-Den er ”kommet frem”- når mailen ligger i indbakken.
+Den er *”kommet frem”* - når mailen ligger i indbakken.
 
-Den er ”kommet til kundskab”- når mailen åbnes og læses
+Den er *”kommet til kundskab”* - når mailen åbnes og læses.
 
-Aftalelovens § 40 om at ”give meddelelse” omfatter også e-mails
+Aftalelovens § 40 om at *”give meddelelse”* omfatter også e-mails.
 
 ---
 
@@ -696,13 +704,13 @@ Aftalelovens § 40 om at ”give meddelelse” omfatter også e-mails
 
 <img src="img/deal3.jpeg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Hovedreglen er, at aftalen er bindende, men den kan alligevel bortfalde, hvis aftalen rammes af ugyldighed:
+Hovedreglen er, at aftalen er bindende, men den kan alligevel bortfalde, hvis aftalen rammes af ugyldighed.
 
 Ugyldighed som kan ramme aftalen kan opstå pga:
 
 *"Tilblivelsesmangler"* – omstændigheder ved aftalens indgåelse, fx svig, forfalskning, voldelig tvang, udnyttelse mv. (sondres mellem svage og stærke ugyldighedsgrunde)
 
-"Habilitetsmangler" – en af parterne mangler habilitet eller evne til at indgå aftaler, fx pga. umyndighed, sindssygdom, demens.
+*"Habilitetsmangler"* – en af parterne mangler habilitet eller evne til at indgå aftaler, fx pga. umyndighed, sindssygdom, demens.
 
 *"Indholdsmangler"* – indholdet er i strid med loven, moral, almindelig hæderlighed mv.
 
@@ -715,13 +723,11 @@ Ugyldighed som kan ramme aftalen kan opstå pga:
 
 
 
----
-
 **Ugyldighedsgrunde**
 
 Der skelnes mellem stærke og svage ugyldighedsgrunde. 
 
-De stærke kan gøres gældende også over for en kontraktpart, der var i god tro ved aftalens indgåelse. 
+De stærke ugyldighedsgrunde kan gøres gældende også over for en kontraktpart, der var i god tro ved aftalens indgåelse. 
 
 Stærke ugyldighedsgrunde er bl.a. forfalskning af indhold eller underskrift, underskriverens mindreårighed eller værgemål samt voldelig tvang. 
 
@@ -733,7 +739,7 @@ Hvis A fx giver B et løfte pga. svigagtige oplysninger fra C, binder løftet A 
 
 ### De stærke ugyldighedsgrunde
 
-De stærke ugyldighedsgrunde omfatter følgende grunde:
+De stærke ugyldighedsgrunde omfatter følgende grunde eller årsager:
 
 *Falsk*
 
@@ -751,7 +757,7 @@ De stærke ugyldighedsgrunde omfatter følgende grunde:
 ### De svage ugyldighedsgrunde
 
 
-De svage ugyldighedsgrunde omfatter følgende grunde:
+De svage ugyldighedsgrunde omfatter følgende grunde eller årsager:
 
 *Simpel tvang*, aftalelovens § 29
 
@@ -811,20 +817,20 @@ Gør løftegiver ikke det, bliver vedkommende bundet af sit løfte og aftalen er
 
 Personer under 18 år:
 
-HR: Kan ikke indgå retshandler eller råde over deres formue, fx købe på kredit, sælge sine ting, pantsætte sine ting – aftale vil være ugyldig, uanset om løftemodtager var i god tro.
+Det er hovedregken i dansk ret, at umyndige ikke kan indgå retshandler eller råde over deres formue, fx købe på kredit, sælge sine ting, pantsætte sine ting – aftale vil være ugyldig, uanset om løftemodtager var i god tro.
 
-U: Værgemålslovens § 42 – der kan indgås gyldige aftaler med umyndige, hvis der er tale om:
+Undtagelserne for denne hovedregel findes i værgemålslovens § 42 – hvorefter der kan indgås gyldige aftaler med umyndige, hvis der er tale om:
 
-1.	Selverhvervelsesreglen (kontantreglen)
+1.	*Selverhvervelsesreglen* (kontantreglen)
 
-2.	Pengereglen
+2.	*Pengereglen*
 
 ---
 
 *Selverhvervelsesreglen:* 
 
 
-Personer over 15 år kan råde over deres egne penge som de selv har tjent, eller fået ved arv/gave, og hvad værgen har givet dem. !!NB – kun kontantkøb (ej ved kreditaftaler, da de ikke kan binde sig for fremtiden)
+Personer over 15 år kan råde over deres egne penge som de selv har tjent, eller fået ved arv/gave, og hvad værgen har givet dem. !!NB – kun ved kontantkøb (dog ikke ved kreditaftaler, da den umyndige ikke kan binde sig for fremtiden).
 
 
 <img src="img/avisdreng.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
@@ -833,6 +839,8 @@ Personer over 15 år kan råde over deres egne penge som de selv har tjent, elle
 *Pengereglen:* 
 
 ![](img/barn.jpg)
+
+Pengereglen er en uskreven retsgrundsætning, hvorefter penge, der uberettiget er betalt af en umyndig, ikke kan forlanges tilbagebetalt fra en modtager fx købmanden, der har modtaget pengene i god tro.
 
 En aftale med en umyndig, fx en 8-årig, er gyldig, hvis pengereglen er opfyldt:  
 
@@ -852,7 +860,25 @@ Kan den umyndige ikke tilbagelevere, og der er tale om en genstand, som har vær
 
 Har den umyndige fremvist falsk ID ved aftalens indgåelse, skal den umyndige erstatte løftemodtagers tab, uden hensyn til nyttereglen.
 
-Derudover gælder de almindelige erstatningsretlige regler
+Derudover gælder de almindelige erstatningsretlige regler.
+
+---
+
+Forbrugerklagenævnspraksis om pengereglen:^[Se nævnte afgørelser hos *Anne-Dorte Bruun Nielsen*: U.2016B.197 om " Mindreårige, pengereglen og elektroniske betalingsmidler". Artiklen behandler mindreåriges betaling med elektroniske betalingsmidler og analyserer begrebet »kontant« dels i relation til pengereglen, dels i relation til forbuddet imod gældsstiftelse.]
+
+I **Forbrugerklagenævnets Årsberetning 1982, s. 75** (1), havde en 12-årig dreng købt elektroniske spil for 398 kr. Han betalte spillet kontant. Pengene havde han fået ved uden forældrenes tilladelse at hæve 400 kr. på en bankbog. Forbrugerklagenævnet fandt, at det måtte anses som sædvanligt, at mindreårige på egen hånd købte varer som den pågældende, og fandt ikke, at der var et sådant misforhold mellem drengens alder og købesummens størrelse, at sælgeren burde have indset, at drengen ikke havde ret til at råde over pengene. Trods drengens manglende ret til at råde over pengene, måtte aftalen derfor efter Nævnets opfattelse anses for bindende. (**Afgørelse J.nr. 82-340-36**).
+
+---
+
+Se ligeledes samme sted, s. 75 (2). En 13-årig dreng købte en legetøjsbil til 1.080 kr. uden forældrenes tilladelse. Her fandt Forbrugerklagenævnet, at legetøjsbilen havde så høj en pris, at forhandleren burde have undersøgt, om drengen havde tilladelse til købet, inden han solgte bilen. Da forældrene ikke havde givet denne tilladelse, var den indgåede aftale ikke gyldig, og legetøjsforhandleren måtte tilbagebetale købesummen mod at få legetøjsbilen tilbage. (**Afgørelse J.nr. 82-340-5**).
+
+---
+
+I **Juridisk Årbog 2000, s. 98**, er refereret en afgørelse vedrørende en 13-årig dreng, der ved kontant betaling købte et stereoanlæg med tilhørende cd-brænder og forsikring for i alt 6.088 kr. Anlægget blev købt over i alt 3 dage, idet alt udstyret ikke blev anskaffet på én gang. Købet blev betalt med penge, den umyndige ikke var berettiget til at råde over, idet de var hævet fra hans mors sparekassebog uden hendes samtykke eller viden. Sælger gjorde gældende, at det i dagens Danmark er almindeligt, at unge mennesker i teenagealderen selv køber stereoanlæg, videomaskiner og lignende elektronisk udstyr i alle prisniveauer, dels at det forhold, at handlen var foregået over flere dage, og at det største enkeltstående kontantbeløb, der således var modtaget, udgjorde 2.199 kr., ikke gav sælgeren anledning til at fatte mistanke om, at den mindreårige ikke var berettiget til at foretage købet. Forbrugerklagenævnet fandt, at det måtte anses for usædvanligt, at en 13-årig selv foretager kontantkøb for mere end 6.000 kr., og at den erhvervsdrivende ikke kunne have rimelig grund til uden videre at gå ud fra, at den mindreårige betalte med midler, som han selv havde rådighed over. Forbrugerklagenævnet bemærkede, at omstændighederne i forbindelse med købet – herunder drengens alder og beløbets størrelse – burde have givet den erhvervsdrivende anledning til nærmere at overveje den mindreåriges adkomst til selv at råde over pengene. Det burde derfor have stået den erhvervsdrivende klart, at den mindreårige ikke var berettiget til at råde over godt 6.000 kr. til indkøb af stereoanlæg, hvorfor købet fandtes ugyldigt, og den erhvervsdrivende måtte tilbagebetale det samlede beløb, han havde modtaget, imod udlevering af stereoanlægget. (**Afgørelse 2000-4011/7-222**).
+
+---
+
+I **Juridisk Årbog 2000, s. 99**, er refereret en sag om en umyndig forbruger, der indgik aftale om køb af en høretelefonforstærker for midler, han havde erhvervet til sin konfirmation. Forbrugerklagenævnet fandt derfor, at aftalen ikke kunne anses for ugyldig. Der var i sagen ikke oplysning om beløbsstørrelsen, men dette er jo også irrelevant, når den umyndige faktisk disponerede over penge, han havde til fri rådighed. Sagen vedrører herudover købelovens § 75 om sælgerens leveringsforbehold. (**Afgørelse 1999-4011/7-209**).
 
 ---
 
@@ -877,20 +903,20 @@ Aftaler indgået med voksne under værgemål er ugyldige, jf. værgemålslovens 
 
 ---
 
-Nærmere de svage ugyldighedsgrunde:
+Nærmere om de svage ugyldighedsgrunde:
 
 
 *Simpel tvang*, aftalelovens § 29
 
 *Svig*, aftalelovens § 30
 
-**Udnyttelse**, aftalelovens § 31
+*Udnyttelse*, aftalelovens § 31
 
-**Fejlskrift/anden fejltagelse**, aftalelovens § 32, stk. 1
+*Fejlskrift/anden fejltagelse*, aftalelovens § 32, stk. 1
 
-**Aftalers ugyldighed simpel tvang**, jf. aftalelovens § 29
+*Aftalers ugyldighed simpel tvang*, jf. aftalelovens § 29
 
-**Anden tvang en voldelig tvang**:  
+*Anden tvang en voldelig tvang*:  
 
 ---
 
@@ -910,7 +936,7 @@ Hvis løftemodtager derimod var i god tro, dvs. ikke indså eller burde have ind
 
 *Hvad er svig?*
 
-*Svig*, se aftalelovens § 30.
+*Svig*, se nærmere aftalelovens § 30.
 
 Svig kan være fejlinformation, urigtige oplysninger og fortielser, der bruges eller tilbageholdes, for at få en aftale i hus eller få solgt en brugt bil.
 
@@ -926,7 +952,7 @@ Bådesælgeren er i ond tro, hvis: han vidste eller burde vide om et forhold og 
 
 
 
-**Svig udøvet af tredjemand**
+*Svig udøvet af tredjemand:*
 
 
 Situation: 
@@ -954,7 +980,7 @@ Dertil kommer, at svig som udgangspunkt er udtryk for forsæt til en formueskade
 
 ---
 
-*Aftalers ugyldighed udnyttelse*, jf. aftalelovens § 31
+*Aftalers ugyldighed udnyttelse*, jf. aftalelovens § 31:
 
 *Situation:*
 
@@ -968,7 +994,7 @@ Bent er i ond tro og aftalen er ugyldig.
 
 ---
 
-*Fejlskrift/anden fejltagelse*, jf. aftalelovens § 32, stk. 1
+*Fejlskrift/anden fejltagelse*, jf. aftalelovens § 32, stk. 1:
 
 
 *Fejlskrift*: Fx en skrivelse får et andet indhold end tilsigtet. 
@@ -1004,7 +1030,7 @@ Modsætningsvis: Hvis løftemodtager ikke indså eller burde have kunnet indse, 
 
 + Løftemodtager (LM) havde en viden om ugyldighedsgrunden. 
       
-+ Løftemodtager indså eller burde have indset, at løftet fra løftegiver var mangelfuldt, fx afgivet pga. ulovlig tvang eller at løftegiver var umyndig
++ Løftemodtager indså eller burde have indset, at løftet fra løftegiver var mangelfuldt, fx afgivet pga. ulovlig tvang eller at løftegiver var umyndig.
       
 ---
 
@@ -1022,7 +1048,8 @@ Ved stærke ugyldighedsgrunde:
 +	LM er i ond tro = LG er ikke bundet af løftet (aftalen erklæres ugyldig).
       
 +	LM er i god tro = LG er ikke bundet af løftet (aftalen erklæres ugyldig).
-      
+
+---      
 
 Ved svage ugyldighedsgrunde:
 
@@ -1033,6 +1060,8 @@ Ved svage ugyldighedsgrunde:
 ---
 
 ## Urimelige aftaler
+
+*Urimelige aftaler* kan omfatte følgende forhold:
 
 *"Indholdsmangler"* - Hvis aftalen har fået et urimeligt indhold, kan den tilsidesættes helt eller delvist.
 
@@ -1074,8 +1103,11 @@ Et løfte kan afgives på baggrund af nogle forudsætninger, som ikke nødvendig
 
 Hvis forudsætningen ikke holder, taler man om bristende, svigtende eller urigtige forudsætninger, hvilket i nogle tilfælde kan medføre at aftalen ophæves.
 
+En bristende forudsætning: Løftegivers vildfarelse vedrører fremtidige forhold, fx køb af en bryllupskage til bryllup, der bliver aflyst.
 
-Ophævelse kræver at 3 betingelser skal være opfyldt:
+![](img/brul.jpg)
+
+Ophævelse af aftalen kræver at 3 betingelser skal være opfyldt:
 
 1.	Forudsætningen skal have været væsentlig for løftegiver
 
@@ -1083,15 +1115,16 @@ Ophævelse kræver at 3 betingelser skal være opfyldt:
 
 3.	Forudsætningen skal være relevant og rimelig efter forholdene og i forhold til løftemodtagers risiko og byrde, hvis forudsætningen svigter.
 
+---
 
-En ugyldig aftale – Parterne er ikke forpligtet af det løfte de har afgivet og aftalen ophæves.
+En ugyldig aftale er når parterne ikke er forpligtet af det løfte de har afgivet og aftalen ophæves.
 
 *	Tilbagelevere allerede udvekslede ydelser (penge/varer)
 
 *	Evt. erstatning til den part, der har handlet i tillid til aftalen, og ved ophævelsen lider et økonomisk tab.
 
 
-Kaldet den Negativ kontraktsinteresse:
+Kaldet den *negativ kontraktsinteresse*:
       
 Erstatningskrav, hvor man i økonomisk henseende stilles som om aftalen slet ikke var indgået – tilbage til status quo.
       
@@ -1101,21 +1134,21 @@ Erstatningskrav, hvor man i økonomisk henseende stilles som om aftalen slet ikk
 
 Standardvilkår ses eksempelvis i fortrykt lejekontrakt, salgsaftale for biler, lånedokumenter, forsikringsaftaler.
 
-HR: Standardvilkår trykt på eller vedlagt kontrakten, anses for vedtaget ved kundens underskrift.
+Hovedreglen er, at standardvilkår trykt på eller vedlagt kontrakten, anses for vedtaget ved kundens underskrift.
 
-Betingelse: Standardvilkårene skal være påtrykt eller vedhæftet kontrakten. 
+Det er en betingelse, at standardvilkårene skal være påtrykt eller vedhæftet kontrakten. 
 
 Vilkår der eftersendes efter underskrift gælder ikke, da vilkårene så ikke er gensidigt vedtaget.
         
-U: Et standardvilkår kan tilsidesættes, hvis det vurderes som urimeligt for kunden (aftalelovens § 36 og § 38 a-d)
+Undtagelsen til hovedreglen, er at et standardvilkår kan tilsidesættes, hvis det vurderes som urimeligt for kunden (aftalelovens § 36 og § 38 a-d).
  
 ---
 
 *Salgs- og leveringsbetingelser* skal præsenteres for kunden inden eller i forbindelse med aftalens indgåelse. 
 
-Fremsendelse sammen med faktura anses ikke for vedtaget
+Fremsendelse sammen med faktura anses ikke for vedtaget af kunden.
 
-Usædvanlige vilkår skal fremhæves i en kontrakt, hvis de skal anses for vedtaget – må ikke gemmes blandt ”de små bogstaver.” Risiko for tilsidesættelse, jf. aftalelovens §§ 38c, jf. 36.
+Usædvanlige vilkår skal fremhæves i en kontrakt, hvis de skal anses for vedtaget – må ikke gemmes blandt ”de små bogstaver.” Risiko for tilsidesættelse, jf. nærmere aftalelovens §§ 38c, jf. 36.
 
 *Forbrugeraftaler* – Den erhvervsdrivende, som indgår aftaler med forbrugere, skal lave aftaler på en klar og forståelig måde, jf. kravet i aftalelovens § 38b, stk. 2. 
 
@@ -1157,12 +1190,12 @@ Se fra retspraksis:
 
 
 
-```{r reglerogtolkning,echo=FALSE}
+```{r regler og fortolkninger,echo=FALSE}
 options(knitr.table.format = "html")
 collapse_rows_dt <- data.frame(Regel = c("Koncipistreglen", "Minimumsreglen","Prioritetsreglen", "Gyldighedsreglen","Rimelighedsreglen"),
-                 Tolkning = c("Dette fortolkningsprincip kaldes også for uklarhedsreglen og betyder, at den part som har konciperet (skrevet) kontrakten må bære risikoen for tvetydighed. Er der en uklarhed i kontrakten, tolkes aftalen til skade eller ugunst for koncipisten og dermed mindst tyngende for den anden part, som ikke har haft indflydelse på aftalens formulering. Uklarhedsreglen er særlig relevant ved fortolkning af standardaftaler, der er udarbejdet af en stærk part.",
+                 Fortolkning = c("Dette fortolkningsprincip er også benævnt som uklarhedsreglen og betyder, at den part som har konciperet (skrevet) kontrakten må bære risikoen for tvetydighed. Er der en uklarhed i kontrakten, tolkes aftalen til skade eller ugunst for koncipisten og dermed mindst tyngende for den anden part, som ikke har haft indflydelse på aftalens formulering. Uklarhedsreglen er særlig relevant ved fortolkning af standardaftaler, der er udarbejdet af en stærk part.",
                               "Hvis der er tvivl om, hvad løftegiveren har forpligtet sig til i aftalen, vælges den forståelse af aftalen, som er
-mest gunstig for løftegiveren. Hvis der fx er tvivl, om der er aftalt simpel kaution eller selvskyldnerkaution, vælges simpel kaution, der er mest gunstig for forbrugeren. Særligt hvad angår forbrugeraftaler, har minimumsreglen fundet en plads i AFTL § 38b. Bestemmelsen beskytter forbrugeren i de tilfælde, hvor et tyngende aftalevilkår ikke har været til forhandling med en erhvervsdrivende aftalepart. En sådan aftale skal tolkes på den måde, som er mest gunstig for forbrugeren.
+mest gunstig for løftegiveren. Hvis der fx er tvivl, om der er aftalt simpel kaution eller selvskyldnerkaution, vælges simpel kaution, der er mest gunstig for forbrugeren. Særligt hvad angår forbrugeraftaler, har minimumsreglen fundet en plads i aftalelovens § 38b. Lovbestemmelsen beskytter forbrugeren i de tilfælde, hvor et tyngende aftalevilkår ikke har været til forhandling med en erhvervsdrivende aftalepart. En sådan aftale skal tolkes på den måde, som er mest gunstig for forbrugeren.
 ",
                               "Ved fortolkning efter prioritetsreglen går et specielt vilkår forud for et generelt vilkår. Man kan også kalde det en fortolkning efter et lex specialis-princip, hvor en speciel og udspecificeret bestemmelse vejer tungere end en generel formuleret bestemmelse",
                               "Hvis man står overfor et valg, om aftalen er gyldig og kan gennemføres, eller ugyldig og må bortfalde, er gyldighedsreglen et fortolkningsprincip, hvor aftalen tolkes med henblik på at opnå en gyldig aftale, som vil kunne gennemføres.",
