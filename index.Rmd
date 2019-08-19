@@ -19,7 +19,7 @@ favicon: "favicon.ico"
 
 
 ```{r, echo=FALSE, results='asis'}
-cat(readLines('fp.html'))
+#cat(readLines('fp.html'))
 ```
 
 
@@ -77,7 +77,7 @@ Alt i alt en godt struktureret bog hvor den studerende har rig mulighed for at d
 ***Advokat Sonny Kristoffersen, Ph.D.***
 
 
-
+![](img/camus.png)
 
 
  

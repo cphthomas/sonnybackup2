@@ -10,7 +10,7 @@ cat(readLines('npp.html'))
 
 ---
 
-**Introduktion til markedsføringsloven**
+*Introduktion til markedsføringsloven*
 
 Lov nr. 426 af 3. maj 2017 om markedsføring  
 
@@ -144,7 +144,7 @@ EU-regulering af relevans for markedsføringsloven:
 
 Markedsføringsloven har til formål at fastlægge normerne for erhvervsdrivendes adfærd på det danske marked, herunder i forholdet til andre erhvervsdrivende, konkurrenter, forbrugere, almene samfundsinteresser og øvrige interessenter.
 
-Den såkaldte norm eller retlige standard er i dag udtrykt i markedsføringslovens § 3, hvorefter alle erhvervsdrivende skal udvise *”god markedsføringsskik”.* 
+Den såkaldte norm eller retlige standard er i dag udtrykt i markedsføringslovens § 3, hvorefter alle erhvervsdrivende skal udvise *god markedsføringsskik.* 
 
 Herudover indeholder markedsføringsloven en række bestemmelser med et særligt sigte eller fokus, eksempelvis at beskytte forbrugere og børn og unge, jf. MFL § 11.
 
@@ -158,14 +158,13 @@ Det er fx god markedsføringskik, at det fremgår tydeligt af markedsføringen, 
 
 Hvis du bruger bannerannoncering eller tv-reklame skal betingelserne fremgå allerede i første skærmbillede.
 
-* Markedsføringslovens overordnede norm er, at *”Erhvervsdrivende skal udvise god markedsføringsskik under hensyntagen til forbrugere, erhvervsdrivende og almene samfundsinteresser”*, jf. MFL § 3, stk. 1
+Markedsføringslovens overordnede norm er, at ”Erhvervsdrivende skal udvise god markedsføringsskik under hensyntagen til forbrugere, erhvervsdrivende og almene samfundsinteresser”, jf. MFL § 3, stk. 1
 
-* Bestemmelsen sætter de ydre rammer og grænser for, hvad der er god markedsføringsskik.
+Bestemmelsen sætter de ydre rammer og grænser for, hvad der er god markedsføringsskik.
 
-* Bestemmelsen supplerer specialbestemmelserne i markedsføringsloven.
+Bestemmelsen supplerer specialbestemmelserne i markedsføringsloven.
 
-
- 
+---
 
 Den erhvervsdrivende skal udvise god markedsføringsskik (MFL § 3) under hensyntagen til:
 
@@ -177,15 +176,15 @@ Den erhvervsdrivende skal udvise god markedsføringsskik (MFL § 3) under hensyn
 
 Markedsføring, der angår forbrugernes økonomiske interesser, må ikke være egnet til mærkbart at forvride forbrugernes økonomiske adfærd – strid med god erhvervsskik-
 
-”God markedsføringsskik” ændrer sig i takt med den samfundsmæssige, tekniske og økonomiske udvikling.
+God markedsføringsskik ændrer sig i takt med den samfundsmæssige, tekniske og økonomiske udvikling.
 
 Overtrædelse må vurderes konkret fra sag til sag.
  
 ---
 
-Eksempler:
+*Eksempler:*
 
-Hensynet til forbrugerne og almene samfundsinteresser:
+*Hensynet til forbrugerne og almene samfundsinteresser:*
 
 ***
 
@@ -213,50 +212,95 @@ Efter Forbrugerombudsmandens opfattelse er stofmisbrug et samfundsproblem, som i
 
 ***
 
+---
+
 Hensynet til de erhvervsdrivende interesser:
 
-* U 2004.1561 H – BR legetøj – domænenavn
+**U 2004.1561 H** – BR legetøj – domænenavn
 
-* U 1992.909 SH – Superellipsebordet
+**U 1992.909 SH** – Superellipsebordet
 
-
+---
  
-Reklamer der forbydes efter markedsføringsloven og internationale markedsføringsregler:
+Reklamer der forbydes efter markedsføringsloven og internationale markedsføringsregler, se ICC-kodeks.
 
->Normdannelse og praksis i henhold til markedsføringslovens § 3
+Normdannelse og praksis i henhold til overtrædelse af markedsføringslovens § 3 er sket inden for følgende områder:
 
->* Urimelige aftalevilkår
+Urimelige aftalevilkår, hf. aftalelovens §§ 38c, jf. 36.
 
-* Farlige eller underlødige produkter Påtrængende, overrumplende, udnyttende, generende, krænkende eller besværliggørende markedsføringsforanstaltninger
+Farlige eller underlødige produkter, påtrængende, overrumplende, udnyttende, generende, krænkende eller besværliggørende markedsføringsforanstaltninger.
 
-* Beskyttelse af den personlige integritet og privatlivets fred
+Beskyttelse af den personlige integritet og privatlivets fred.
 
-* Kønsdiskriminerende markedsføring
+Kønsdiskriminerende markedsføring.
 
-* Racediskriminerende markedsføring 
+Racediskriminerende markedsføring.
 
-* Usømmelighed, manglende respekt for almen sikkerhed, mangel på social ansvarsfølelse i markedsføringen og samfundsinteresser
+Usømmelighed, manglende respekt for almen sikkerhed, mangel på social ansvarsfølelse i markedsføringen og samfundsinteresser.
 
+---
+
+Ex. på reklamer som kan forbydes efter markedsføringslovens § 3:
  
-**Det er forbudt at vise undervægtige modeller**
+*Det er forbudt at vise undervægtige modeller*
 
 ![](img/mf3.jpg)
 
  
-**Det er forbudt at bringe billede af barn med seksuelle fantasier.**
+*Det er forbudt at bringe billede af barn med seksuelle fantasier.*
 
 ![](img/mf4.jpg)
 
  
 
- **Det er forbudt at vise kvinder som seksuelle objekter, hvor der er fare for at børn vil se reklamen**
+*Det er forbudt at vise kvinder som seksuelle objekter, hvor der er fare for at børn vil se reklamen*
  
  ![](img/mf5.jpeg)
  
 
-**Ryanair reklame der var for seksuel til aviserne **
+*Ryanair reklame der var for seksuel til aviserne*
+
 ![](img/mf7.jpg)
-**Reklamer med børn i farlige situationer er forbudt**
+
+*Forbudt reklame*
+
+![](img/provo1.jpg)
+
+*Forbudt reklame*
+
+![](img/provo2.jpg)
+
+*Forbudt reklame*
+
+![](img/provo3.jpg)
+
+*Forbudt reklame*
+
+![](img/provo4.jpg)
+
+*Forbudt reklame*
+
+![](img/provo5.jpg)
+
+*Forbudt reklame*
+
+![](img/provo6.jpg)
+
+*Forbudt reklame*
+
+![](img/provo7.jpg)
+
+*Forbudt reklame*
+
+![](img/provo8.jpg)
+
+
+*Forbudt reklame*
+
+![](img/provo9.jpg)
+
+
+*Reklamer med børn i farlige situationer er forbudt*
 
 ![](img/mf6.jpg)
 
@@ -265,19 +309,31 @@ Reklamer der forbydes efter markedsføringsloven og internationale markedsførin
 
 
 
-**For meget airbrush retouche er forbudt**
+*For meget airbrush retouche er forbudt*
 
 ![](img/mf8.jpg)
 
+Usunde reklamer kan rammes af markedsføringslovens § 3
+
+![](img/usunde.jpg)
+
+---
+
 ## <font color="red">God erhvervsskik, jf. MFL § 4<sup> Premium </font></sup>
 
-En virksomhed overtræder god erhvervsskik, jf. MFL § 4, hvis der er tale om adfærd på markedet, som på en forkert måde påvirker forbrugernes økonomiske interesser, fx vildledende reklamekampagne, der får folk til at købe varen på et forkert grundlag.
+En virksomhed overtræder *god erhvervsskik*, jf. MFL § 4, hvis der er tale om adfærd på markedet, som på en forkert måde påvirker forbrugernes økonomiske interesser, fx vildledende reklamekampagne, der får folk til at købe varen på et forkert grundlag.
 
-* Hæderlig markedspraksis, smag, anstændighed
+Mere om begrebet god erhvervsskik:
 
-* God tro - vurdering
+* Kræver hæderlig markedspraksis, smag, anstændighed.
 
-* Dynamisk begreb, der testes og ændrer sig i takt med tiden og samfundets udvikling
+* Kræver god tro - vurdering.
+
+* Er et dynamisk begreb, der testes og ændrer sig i takt med tiden og samfundets udvikling.
+
+Er det god erhvervsskik?
+
+![](img/god1.jpg)
 
 
 
@@ -289,14 +345,15 @@ En virksomhed overtræder god erhvervsskik, jf. MFL § 4, hvis der er tale om ad
 Afsender må ikke bruge vildledende og urigtige oplysninger i sin markedsføring, eller udelade vigtige informationer, hvis det er medvirkende til at forvride modtagerens økonomiske adfærd på markedet.
 
 Pejlepunkt: Hvis modtageren (forbruger eller erhvervsdrivende) træffer en beslutning, som vedkommende måske ellers ikke ville have truffet, hvis oplysningen havde været korrekt, taler det for, at der er tale om vildledende markedsføring.
+
+---
  
 
-**Vildledende oplysninger - forkerte oplysninger om fx (MFL § 5):**
+*Vildledende oplysninger - forkerte oplysninger om fx (MFL § 5):*
 
 * produktets eksistens og art
 
-* varens kvaliteter og egenskaber, specifikationer,
-geografiske elle handelsmæssige oprindelse.
+* varens kvaliteter og egenskaber, specifikationer, geografiske elle handelsmæssige oprindelse.
 
 * mærkningsordninger på en vare, fx øko-mærket, svanemærket, og varen ikke lever op til kravene i mærkningsordningen.
 
@@ -313,6 +370,8 @@ geografiske elle handelsmæssige oprindelse.
 ---
 
 ### <font color="red">Væsentlige oplysninger skal på en forståelig måde, fx (MFL § 5):<sup> Premium </font></sup>
+
+Væsentlige oplysninger er følgende som forbrugeren skal modtage:
 
 * Produktets væsentligste karakteristika
 
@@ -337,19 +396,19 @@ Ikke skjule reklamen i sit budskab, for at påvirke eller manipulere modtagerne 
 
 Forbuddet gælder i alle typer medier, såsom de skrevne og trykte medier (advertorial), tv- og radioprogrammer, film (productplacement), sponsorering, internettet (bannerreklamer m.v.), kunstværker, duftmarkedsføring mv.
 
->En erhvervsdrivende skal klart oplyse den kommercielle hensigt med enhver form for handelspraksis, herunder reklame. 
->Markedsføringslovens $6
+En erhvervsdrivende skal klart oplyse den kommercielle hensigt med enhver form for handelspraksis, herunder reklame. >Markedsføringslovens § 6
  
- 
+---
+
 Se eksempler i Nordisk standpunkt om skjult reklame, maj 2016 (www.forbrugerombudsmanden.dk)
 
 * Blogs: Det skal fremgå tydeligt for læseren/seeren, hvis der er tale om reklame. Se notat om ”Gode råd til bloggere om skjult reklame” på www.forbrugerombudsmanden.dk
 
-* YouTube mv.: Tydeligt oplyses, hvis videoen er en reklame
+* YouTube mv.: Tydeligt oplyses, hvis videoen er en reklame.
 
-* Instagram: Tydeligt skrive ”reklame”, #reklame..”
+* Instagram: Tydeligt skrive ”reklame”, #reklame..”.
 
-* Facebook: Tydeligt markere, hvis opslag er en reklame
+* Facebook: Tydeligt markere, hvis opslag er en reklame.
 
 ---
 
@@ -374,16 +433,18 @@ Se eksempler i Nordisk standpunkt om skjult reklame, maj 2016 (www.forbrugerombu
 
 ---
 
-**En sag om skjult reklame for Den Blå Planet**
+*En sag om skjult reklame for Den Blå Planet*
 
 
 ![](img/mf10.jpg)
   
-## <font color="red">Markedsføring rettet mod børn og unge, jf. MFL § 11<sup> Premium </font></sup>
+---
+
+## <font color="red">Markedsføring rettet mod børn og unge<sup> Premium </font></sup>
 
 <img src="img/mf12.jpeg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Særlig hensyntagen til børn og unges naturlige godtroenhed, manglende erfaring og kritiske sans, som bevirker, at de er lette at påvirke og nemme at præge.
+Særlig hensyntagen til børn og unges naturlige godtroenhed, manglende erfaring og kritiske sans, som bevirker, at de er lette at påvirke og nemme at præge, jf. markedsføringslovens § 11.
 
 Ikke udnytte den særlige godtroenhed og mangel på erfaring, der karakteriserer målgruppen børn og unge. Har ikke det samme skeptiske eller analytiske filter som voksne.
 
@@ -394,9 +455,9 @@ Se Forbrugerombudsmandens vejledning om ”Børn, unge og markedsføring”, jul
 
 ---
 
-## <font color="red">Aggressiv handelspraksis, jf. MFL § 7<sup> Premium </font></sup>
+## <font color="red">Aggressiv handelspraksis<sup> Premium </font></sup>
 
-Bestemmelsen i § 7 finder anvendelse på erhvervsdrivendes urimelige handelspraksis over for forbrugerne før, under og efter en handelstransaktion i forbindelse med et produkt. 
+Bestemmelsen i markedsføringslovens § 7 finder anvendelse på erhvervsdrivendes urimelige handelspraksis over for forbrugerne før, under og efter en handelstransaktion i forbindelse med et produkt. 
 
 Det foreslås, at en erhvervsdrivende i sin handelspraksis ikke må benytte chikane, ulovlig tvang, herunder vold eller utilbørlig påvirkning, der er egnet til væsentligt at indskrænke forbrugerens valgfrihed i forbindelse med et produkt. 
 
@@ -452,11 +513,11 @@ Bilag 1 til markedsføringsloven kommer med en række ikke udtømmende eksempler
 
 ---
 
-## <font color="red">Uanmodet henvendelse – spam, jf. MFL § 10, stk. 1<sup> Premium </font></sup>
+## <font color="red">Uanmodet henvendelse – spam<sup> Premium </font></sup>
 
 <img src="img/mf11.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Hovedreglen: Den erhvervsdrivende må ikke sende reklamer, tilbud og øvrigt markedsføringsmateriale via fjernkommunikation, dvs. ved brug af e-mail, sms, mms, fax og automatisk opkaldesystem med indtalt reklame, hvis modtager ikke har bedt om det. Det gælder uanset om modtager er en forbruger eller en erhvervsdrivende.
+Hovedreglen er, at den erhvervsdrivende  ikke må sende reklamer, tilbud og øvrigt markedsføringsmateriale via fjernkommunikation, dvs. ved brug af e-mail, sms, mms, fax og automatisk opkaldesystem med indtalt reklame, hvis modtager ikke har bedt om det. Det gælder uanset om modtager er en forbruger, det offentlige eller en erhvervsdrivende, jf. markedsføringslovens § 10, stk. 1.
 
 Undtagelse 1: Hvis modtageren af reklamen forudgående har accepteret eller anmodet om at få reklamen tilsendt på den måde.
 
@@ -484,7 +545,6 @@ Sammenhold med forbrugeraftalelov § 4, stk. 2.
 Forbud mod forkert brug af mærkning, fx øko-mærket, fair trade, svanemærket m.v.
 
 Den erhvervsdrivende er forpligtet til at dokumentere rigtigheden af faktuelle oplysninger om det produkt der markedsføres, fx miljømæssige påstande ”Denne vare er CO2-neutral
-
 
 Anprisninger og salgsgas - tilladt og skal ikke dokumenteres.
 
@@ -529,11 +589,11 @@ Betingelserne for en lovlig, sammenlignende reklame	- se MFL § 21
   
 ---
 
-## <font color="red">Standardoplysninger ved kreditaftaler, jf. MFL § 18<sup> Premium </font></sup>
+## <font color="red">Standardoplysninger ved kreditaftaler<sup> Premium </font></sup>
 
 <img src="img/mf14.jpeg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Standardoplysninger ved kreditaftaler er følgende:
+Standardoplysninger ved kreditaftaler er følgende, jf. mfl § 18:
 
 Debitorrenten, herunder om den er fast eller variabel eller begge, samt oplysninger om omkostninger, der indgår i forbrugerens samlede omkostninger i forbindelse med kreditten.
 
@@ -550,12 +610,12 @@ Det samlede beløb, som skal betales af forbrugeren, og ydelsernes størrelse.
  
 ---
 
-## <font color="red">Standardoplysninger ved boligkreditaftaler, jf. MFL § 19<sup> Premium </font></sup>
+## <font color="red">Standardoplysninger ved boligkreditaftaler<sup> Premium </font></sup>
 
 <img src="img/mf15.jpeg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
-Standardoplysninger ved boligkreditaftaler er følgende:
+Standardoplysninger ved boligkreditaftaler er følgende efter markedsføringslovens § 19:
 
 Boligkreditgivers eller boligkreditformidlers identitet.
 
@@ -577,13 +637,13 @@ Advarsel om, at eventuelle udsving i valutakursen kan påvirke det beløb, der s
 
 ---
  
-## <font color="red">Forretningskendetegn (MFL § 22) og forretningshemmeligheder<sup> Premium </font></sup>
+## <font color="red">Forretningskendetegn og forretningshemmeligheder<sup> Premium </font></sup>
 
 Erhvervsdrivende må ikke benytte forretningskendetegn og lignende, der ikke tilkommer dem, eller benytte egne kendetegn på en måde, der er egnet til at fremkalde forveksling med andres, jf. MFL § 22.
 
 * Forretningskendetegn: Logo, en udsmykning, en uniform, et slogan eller et firmanavn mv.
 
-* Registreret som varemærke eller indarbejdet, opnået et særpræg. Se fx dommen U2004.1561H om BR’s legetøjs domænenavn.
+* Registreret som varemærke eller indarbejdet, opnået et særpræg. Se fx dommen **U 2004.1561 H** om BR’s legetøjs domænenavn.
 
 En krænkelse kræver, at der er en vis forvekslingsrisiko,. Vurderes konkret fra sag til sag.
 
@@ -609,7 +669,7 @@ Loven indeholder et forbud (§ 4) mod, at en person (fysisk eller juridisk) ulov
 
 <img src="img/mf17.png" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 
-Der er 3 lovbetingelser, som alle skal være opfyldte for, at der er tale om en forretningshemmelighed. Oplysningerne skal iflg. Lovens § 2:
+Der er 3 lovbetingelser, som alle skal være opfyldte for, at der er tale om en forretningshemmelighed. Oplysningerne skal iflg. Lov om forretningshemmeligheder § 2:
 
 1.	være hemmelige forstået på den måde, at de ikke er almindeligt kendt
 
@@ -636,7 +696,7 @@ Hvis en person (fysisk eller juridisk) ulovligt erhverver, bruger eller videregi
  
 ##  <font color="red">Forbrugerombudsmandens virksomhed, jf. MFL §§ 25-30<sup> Premium </font></sup>
 
-FOBs (Forbrugerombudsmandens)tilsyn har særligt fokus på forbrugerinteresser, men kan dog også håndhæve almene samfundsmæssige interesser og erhvervsinteresser.
+Forbrugerombudsmandens (FOB) tilsyn har særligt fokus på forbrugerinteresser, men kan dog også håndhæve almene samfundsmæssige interesser og erhvervsinteresser.
 
 FOB fører bl.a. tilsyn med overholdelse af markedsføringsloven, tobaksreklameloven, forbrugeraftaleloven, e-handelsloven, købeloven, aftaleloven, kreditaftaleloven, betalingsloven, lov om juridisk rådgivning mv.
 
@@ -653,30 +713,31 @@ En afgørelse truffet af FOB, kan indbringes til bedømmelse ved domstolene, jf.
 
 FOB kan i særlige tilfælde foretage *kontrolundersøgelser i en virksomhed*, jf. MFL § 27.
 
-"*Forhandlingsprincippet*": FOB har adgang til gennem forhandling med de erhvervsdrivende, at forsøge at påvirke virksomhederne, jf. MFL § 28.
+*Forhandlingsprincippet*: FOB har adgang til gennem forhandling med de erhvervsdrivende, at forsøge at påvirke virksomhederne, jf. MFL § 28.
 
 Især via relevante erhvervs- og forbrugerorganisationer at påvirke de erhvervsdrivendes adfærd gennem udarbejdelse af retningslinjer og vejledninger for markedsføring inden for væsentlige områder, jf. MFL § 29.
-* Forhåndsbesked/vurdering til virksomheden om et planlagt, men endnu ikke lanceret markedsføringstiltag er lovligt, jf. MFL § 30.
+
+Forhåndsbesked/vurdering til virksomheden om et planlagt, men endnu ikke lanceret markedsføringstiltag er lovligt, jf. MFL § 30.
 
 ---
  
-**Forbrugerombudsmanden (FOB) Sanktioner**
+*Forbrugerombudsmanden (FOB) Sanktioner*
 
 <img src="img/mf19.png" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 
 De fleste overtrædelser af markedsføringsloven straffes med bøde.
 
-*"Retsforfølgning*": Retssager kan anlægges af FOB. Der kan anlægges sag om forbud, påbud, erstatning og vederlag, jf. MFL § 32.
+*Retsforfølgning*: Retssager kan anlægges af FOB. Der kan anlægges sag om forbud, påbud, erstatning og vederlag, jf. MFL § 32.
 
-*"Forbud*": Handlinger, som er i strid med MFL kan forbydes ved dom. Foreløbigt forbud mod et tiltag kan gennemføres hurtigere via fogedretten.
+*Forbud*: Handlinger, som er i strid med MFL kan forbydes ved dom. Foreløbigt forbud mod et tiltag kan gennemføres hurtigere via fogedretten.
 
-*"Påbud*": FOB kan meddele et påbud, fx om at genoprette den tilstand, som var der inden den ulovlige handling blev foretaget, herunder tilintetgørelse eller tilbagekaldelse af produkter, udsende oplysninger der berigtiger forholdet osv.
+*Påbud*: FOB kan meddele et påbud, fx om at genoprette den tilstand, som var der inden den ulovlige handling blev foretaget, herunder tilintetgørelse eller tilbagekaldelse af produkter, udsende oplysninger der berigtiger forholdet osv.
 
-*"Erstatning"*: Oftest en erhvervsdrivende, som har lidt et tab på grund af en anden erhvervsdrivendes utilbørlige opførsel. Den erhvervsdrivende anlægger retssagen uden om FOB.
+*Erstatning*: Oftest en erhvervsdrivende, som har lidt et tab på grund af en anden erhvervsdrivendes utilbørlige opførsel. Den erhvervsdrivende anlægger retssagen uden om FOB.
 
 ---
 
-**Quiz: Markedsføringsloven**
+*Quiz: Markedsføringsloven*
 
 ![](img/baby.jpg)
 
@@ -684,7 +745,7 @@ Markedsføringsloven sætter rammerne for, hvornår og hvordan virksomheder må 
 
 ---
 
-**Quiz: Spam og reklamer**
+*Quiz: Spam og reklamer*
 
 ![](img/tele2.jpg)
 
@@ -696,7 +757,7 @@ Bliver du konstant kontaktet af telefonsælgere, eller er din indbakke ramt af s
 
 <img src="img/mf20.png" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 
-Ekstra materiale som ikke er en del af pensum fra et advokatefteruddannelseskursus om ”Online handel og markedsføring ”  
+Ekstra materiale som ikke er en del af pensum fra et advokatefteruddannelseskursus om *”Online handel og markedsføring”*:  
 
 
 
