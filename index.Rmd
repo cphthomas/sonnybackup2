@@ -19,7 +19,7 @@ favicon: "favicon.ico"
 
 
 ```{r, echo=FALSE, results='asis'}
-#cat(readLines('fp.html'))
+cat(readLines('fp.html'))
 ```
 
 
