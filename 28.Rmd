@@ -1,4 +1,4 @@
-# Eksamen samt en vejledning til løsning af juridiske eksamensopgaver på finansøkonomstudiet
+# Vejledning til løsning af eksamensopgaver
 
 ```{r, echo=FALSE, results='asis'}
 cat(readLines('np.html'))
@@ -18,21 +18,21 @@ Erhvervs- og finansjura omhandler nærmere identifikation af relevante juridiske
 
 ---
 
-Læringsmålet for dig som studerende er, at du får en **udviklingsbaseret viden** om praksis og centralt anvendt teori og metode inden for erhvervs- og finansjura i relation til erhvervet og, at du får forståelse for praksis, centralt anvendt teori og metode samt at du kan forstå erhvervets anvendelse af teori og metode inden for erhvervs- og finansjura. 
+Læringsmålet for dig som studerende er, at du får en *udviklingsbaseret viden* om praksis og centralt anvendt teori og metode inden for erhvervs- og finansjura i relation til erhvervet og, at du får forståelse for praksis, centralt anvendt teori og metode samt at du kan forstå erhvervets anvendelse af teori og metode inden for erhvervs- og finansjura. 
 
 ---
 
-Du skal som studerende opnå **færdigheder**, så du kan anvende centrale metoder og redskaber inden for erhvervs- og finansjura samt, 
+Du skal som studerende opnå *færdigheder*, så du kan anvende centrale metoder og redskaber inden for erhvervs- og finansjura samt, 
 
-**at** du kan anvende de færdigheder, der knytter sig til beskæftigelse inden for erhvervet og at du kan vurdere praksisnære problemstillinger samt, 
+*at* du kan anvende de færdigheder, der knytter sig til beskæftigelse inden for erhvervet og at du kan vurdere praksisnære problemstillinger samt, 
 
-**at** du kan opstille og vælge løsningsmuligheder med udgangspunkt i erhvervs- og finansjura  og 
+*at* du kan opstille og vælge løsningsmuligheder med udgangspunkt i erhvervs- og finansjura  og 
 
-**at** du kan formidle praksisnære problemstillinger og løsningsmuligheder inden for erhvervs- og finansjura til kunder, samarbejdspartnere og brugere. 
+*at* du kan formidle praksisnære problemstillinger og løsningsmuligheder inden for erhvervs- og finansjura til kunder, samarbejdspartnere og brugere. 
 
 ---
 
-Du skal som studerende tilegne dig **kompetencer**, så du kan håndtere udviklingsorienterede situationer i relation til erhvervs- og finansjura inden for erhvervet og 
+Du skal som studerende tilegne dig *kompetencer*, så du kan håndtere udviklingsorienterede situationer i relation til erhvervs- og finansjura inden for erhvervet og 
 
 at du kan deltage i fagligt og tværfagligt samarbejde inden for erhvervs- og finansjura med en professionel tilgang og 
 
@@ -107,7 +107,7 @@ Det er vigtigt, at du respekterer opgaveteksten ved din opgavebesvarelse.
 
 ### Opbygningen betyder meget
 
-I den skriftlige eksamensbesvarelse betyder det meget, hvordan besvarelsen er opbygget.^[Følgende afsnit om vejledning i opgavebesvarelse af juridiske eksamensopgaver bygger væsentligt på **Morten Rosenmeier** tekster på portalen www.juraeksamen.dk, jf. afsnit "2.5 – Bliv bedre til at opbygge eksamensbesvarelser" for de jurastuderende, som her er blevet tilpasset til finansøkonomstudiet.] 
+I den skriftlige eksamensbesvarelse betyder det meget, hvordan besvarelsen er opbygget.^[Følgende afsnit om vejledning i opgavebesvarelse af juridiske eksamensopgaver bygger væsentligt på *Morten Rosenmeier* tekster på portalen www.juraeksamen.dk, jf. afsnit "2.5 – Bliv bedre til at opbygge eksamensbesvarelser" for de jurastuderende, som her er blevet tilpasset til finansøkonomstudiet.] 
 
 Det har blandt andet betydning, hvordan du strukturerer og disponerer stoffet, hvilke spørgsmål du behandler og ikke behandler, og hvordan du argumenterer for en løsning på det juridiske problem i opgaven. 
 
