@@ -9,11 +9,11 @@ cat(readLines('np.html'))
 
 ---
 
-***Som studerende skal man være særlig opmærsom på følgende ved gennemgangen af virksomhedsformer:***
+*Som studerende skal man være særlig opmærsom på følgende ved gennemgangen af virksomhedsformer:*
 
 <img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-* **Overordnet om virksomhedsformer, kapitalkrav og hæftelse (enkeltmandsvirksomhed, ApS, I/S, A/S), SEL § 4 og 5**
+* *Overordnet om virksomhedsformer, kapitalkrav og hæftelse (enkeltmandsvirksomhed, ApS, I/S, A/S), SEL § 4 og 5*
 
 
 
@@ -30,7 +30,7 @@ cat(readLines('np.html'))
 
 
 
-## Hæftelse - begreber
+## Hæftelse - begreber som gennemgås:
 
 * Juridisk person
 * Fysisk person
@@ -58,7 +58,7 @@ Hæfter for gæld med sine aktiver, fx aktiverne i et aktieselskab.
 
 ---
 
-**En fysisk person**
+*En fysisk person*
 
 * Enkeltpersoner.
 
@@ -90,7 +90,7 @@ Skyldneren risikerer således kun at miste en del af sin formue, da hæftelsen v
 
 Det betyder:
 
-”Én for alle og alle for én,” fx ved drift af interessentskab (I/S).
+*”Én for alle og alle for én,”* fx ved drift af interessentskab (I/S).
 
 Når flere personer driver en virksomhed sammen med solidarisk hæftelse og virksomheden ikke betaler sine regninger, kan kreditor kræve hele gælden betalt af én eller flere af de hæftende virksomhedsejere.
 
@@ -122,7 +122,8 @@ Kreditorer kan ikke rette kravet direkte mod selskabsdeltagerne, men må først 
 
 Viser det sig, at selskabet ikke kan betale, kan kravet så rettes mod selskabsdeltageren, der fx har kautioneret for selskabets kassekredit.
 
- 
+---
+
 ## Virksomhedsformer
 
 
@@ -174,13 +175,17 @@ Dog kan det være en god idé at udarbejde en interessentskabsaftale parterne im
 
 Dette for at sikre at reglerne imellem interessenterne overholdes.
 
+---
+
 *Hæftelse i interessentskaber:* Det er vigtigt at have en kontrakt med regler, da ejerne af interessentskabet hæfter solidarisk – altså efter ”de tre musketerer princippet”. 
 
 At hæfte solidarisk vil sige, at hvis selskabet går konkurs, så har kreditorerne ret til selv at bestemme hvilken ejer de vil hente deres udestående hos. 
 
 De kan vælge at hente lige meget fra alle parter, eller hente mere hos den ene end de resterende, hvis denne ene person nu besidder en stor personlig formue.
 
-* *Generelle krav til et I/S:* 
+---
+
+*Generelle krav til et I/S:* 
 
 Et I/S hører under loven om erhvervsdrivende virksomheder, og skal derfor sørge for at vælge et selskabsnavn, som skiller sig ud fra de eksisterende. 
 
@@ -192,13 +197,17 @@ Hvis selskabet er registreret, skal der udarbejdes et årsregnskab, og ellers er
 
 Derudover har SKAT også ret til at kræve at et årsregnskab udarbejdes, og så er man nødt til at sørge for det.
 
-* *Beskatning af interessentskaber*: 
+---
+
+*Beskatning af interessentskaber*: 
 
 Beskatningsmæssigt vil den forholdsmæssige andel af interessentskabets indkomst og egenkapital blive beskattet ved opgørelsen af den skattepligtige indkomst i privat regi. 
 
 Altså beskattes interessentskaber typisk som personlig indkomst, men kan også beskattes gennem ordninger som virksomhedsskatteordningen eller kapitalafkastordningen.
 
-* *Definition I/S:*
+---
+
+*Definition I/S:*
 
 En virksomhed, hvor alle deltagerne hæfter personligt, uden begrænsning og solidarisk over for selskabets kreditorer, jf. LEV § 2, stk. 1.
 
@@ -210,11 +219,13 @@ Ved udtræden/indtræden af I/S, hæfter interessenten kun for den gæld, som in
 
 Beslutninger: Skal ske i enighed, medmindre andet aftales.
 
+---
+
  
 #### Udarbejdelsen af Interessentskabskontrakten
 
 
-**Udarbejdelse af interessentskabskontrakten skal indeholde følgende puniter:**
+*Udarbejdelse af interessentskabskontrakten skal indeholde følgende punkter:*
 
 * Selskabets navn (i overensstemmelse med LEV § 6)
 
@@ -232,7 +243,7 @@ Beslutninger: Skal ske i enighed, medmindre andet aftales.
 
 * Kapitalkonti/økonomiske mellemværende med selskabet
 
-* *Hæftelse* – eksternt solidarisk, men hvad med internt? – pro-rata, regres, hæftelse ved indtræden/udtræden osv.
+* Hæftelse – eksternt solidarisk, men hvad med internt? – pro-rata, regres, hæftelse ved indtræden/udtræden osv.
   
 * Overdragelse af ejerandel, salg af andel (internt eller til 3M), overtagelse af andel fra dødsbo
   
@@ -279,19 +290,25 @@ Om *advokatselskaber og advokatholdingselskaber* henvises til Bekendtgørelse nr
 
 #### Stiftelse af et kapitalselskab (Aps og A/S):
 
-**Hvordan stiftes et kapitalselskab?**
+*Hvordan stiftes et kapitalselskab?*
 
-* Erhvervsstyrelsen
-* Stiftelsesdokument, vedtægter, tegning af selskabskapital
+* Erhvervsstyrelsen.
+
+* Stiftelsesdokument, vedtægter, tegning af selskabskapital.
+
+---
 
 Kontant indskud – kapitalkrav, jf. selskabslovens § 4:
 
 * ApS: 40.000 kr.
+
 * A/S: 400.000 kr.
+
+---
 
 Om minimumskapitalkravet i henholdsvis aktie- og anpartsselskaber skal to forhold fremhæves:
 
-**1.** På den ene side kan det ikke heraf uden videre udledes, at ejerne (eller stiftere og ledelse) under alle omstændigheder kan påberåbe sig den begrænsede hæftelse, der er aktie- og anpartsselskabsformens kendemærke ifølge selskabslovens § 1, stk. 2. 
+1. På den ene side kan det ikke heraf uden videre udledes, at ejerne (eller stiftere og ledelse) under alle omstændigheder kan påberåbe sig den begrænsede hæftelse, der er aktie- og anpartsselskabsformens kendemærke ifølge selskabslovens § 1, stk. 2. 
 
 Det påhviler nemlig ud over opfyldelse af minimumskapitalkravet stifterne/anpartshaverne (under hensyn til den påtænkte virksomhed) og senere ledelsen (under hensyn til den konkrete økonomiske situation) løbende at vurdere, hvor stor en selskabskapital det konkrete anpartsselskab skal have. 
 
@@ -302,7 +319,7 @@ Kapitalberedskabet skal således til enhver tid være forsvarligt, dvs. stå i r
 Pligten er for hvert enkelt relevant ledelsesorgan fastslået henholdsvis i § 115, nr. 5 (som en af bestyrelsens opgaver), i § 116, nr. 5 (som en af tilsynsrådets opgaver), og i § 118, stk. 2 (som en af direktionens opgaver).
 
 
-**2.** Det nævnte forhold må på den anden side ikke lede til den misforståelse, at hvis den beholdne egenkapital i et anpartsselskab kommer under minimumskravet, er der indbygget et automatisk ejer- og/eller ledelsesansvar, hvis anpartsselskabets kreditorer lider tab ved dets efterfølgende økonomiske sammenbrud.
+2. Det nævnte forhold må på den anden side ikke lede til den misforståelse, at hvis den beholdne egenkapital i et anpartsselskab kommer under minimumskravet, er der indbygget et automatisk ejer- og/eller ledelsesansvar, hvis anpartsselskabets kreditorer lider tab ved dets efterfølgende økonomiske sammenbrud.
 
 Der gælder en lovbestemt reaktionspligt, hvis egenkapitalen i anpartsselskabet kommer under halvdelen af selskabskapitalen, jf. § 119, men der er ingen pligt til at bringe nettoegenkapitalen op på niveau med selskabskapitalen (der består altså ingen retableringspligt), hvis ledelse og ejere overholder det ovenfor beskrevne forsvarlighedskrav. 
 
@@ -317,6 +334,8 @@ Apportindskud – indskud af andre værdier end kontanter:
 * Revisorvurdering af aktiver der indskydes
 * Værdien af det indskudte skal minimum svare til kapitalkravet
 
+---
+
 Til gengæld for kapitalindskud modtager selskabsdeltagerne:
 
 * ApS: Anparter - anpartshaver
@@ -329,16 +348,18 @@ Til gengæld for kapitalindskud modtager selskabsdeltagerne:
 
 ![](img/beslutninger.jpg)
 
-**Bestyrelse/tilsynsråd og direktion*** 
+*Bestyrelse/tilsynsråd og direktion* 
 
-**Generalforsamlingen**:
+*Generalforsamlingen*:
 
 Et kapitalselskabs øverste myndighed. 
 
 Kredsen af kapitalejerne træffer beslutning om de overordnede forhold i kapitalselskabet, herunder valg af medlemmer til bestyrelse/tilsynsråd i kapitalselskabet.
+
+---
  
 
-**Tegningsret:**
+*Tegningsret:*
 
 Dermed menes:
 
@@ -346,7 +367,9 @@ Hvilke personer kan handle og indgå aftaler på kapitalselskabets vegne.
 
 En tegningsudskrift eller et sammenskrevet resumé fra Erhvervs- og   Selskabsstyrelsen.
 
-**Ejeraftale**:
+---
+
+*Ejeraftale*:
 
 En sådan aftale:
 
@@ -381,10 +404,10 @@ En årsregnskabsoplysning om, at låntagerselskabet er rådig over et ansvarligt
   
 ---
 
-**Eksamensopgavesæt med løsning i kreditorforfølgning, sikringsakter, grundlæggende selskabsret, hæftelsesformer, prioritetsstillinger, kredtisikring, selskabsformer og hæftelse, mv.**
+*Eksamensopgavesæt med løsning i kreditorforfølgning, sikringsakter, grundlæggende selskabsret, hæftelsesformer, prioritetsstillinger, kredtisikring, selskabsformer og hæftelse, mv.*
 
 
-**Justesens juristerier**
+*Justesens juristerier*
 
 
 <img src="img/ivarksatter.png" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
@@ -393,13 +416,13 @@ En årsregnskabsoplysning om, at låntagerselskabet er rådig over et ansvarligt
 
 Ivar Justesen er en evig iværksætter og er altid i gang med nye ”erhvervseventyr”, desværre ikke alle lige vellykkede, så derfor har han efterhånden oparbejdet en del gæld. En af hans kreditorer, Sun-Import A/S rykker nu kraftigt for betaling i henhold til en forfalden faktura på kr. 114.870.
 
-**Eksamensspørgsmålet:**
+*Eksamensspørgsmålet:*
 
-*1.	Hvilke muligheder – udover konkurs – har Sun-Import A/S for at inddrive det skyldige beløb hos Ivar?* 
+1.	Hvilke muligheder – udover konkurs – har Sun-Import A/S for at inddrive det skyldige beløb hos Ivar? 
 
-**Vejledende løsning:**
+*Vejledende løsning:*
 
-*Kreditforfølgning:*
+Kreditforfølgning:
 
 Udviklingsbaseret viden om anvendt teori og metoder indenfor regler og praksis for individuel kreditorforfølgning og gældssanering.
 
@@ -409,7 +432,7 @@ Foreligger der ikke eksekutionsfundament må et sådant først etableres, fx gen
 
 Der skal ved bedømmelsen af besvarelsen lægges vægt på den studerendes demonstration af viden om de relevante begreber i forhold til opgavens faktum.
 
-**Svar slut.**
+*Svar slut.*
 
 ---
 
@@ -422,13 +445,13 @@ I banken har han to indlånskonti – en NEM-konto med et indestående på kr. 2
 Herudover har han et depot med en aktiepost i Carlsberg med en kursværdi på ca. kr. 20.000. Hos tre kunder har han nog-le tilgodehavender på i alt kr. 85.000 for levering af varer. 
 
 
-**Eksamensspørgsmålet:**
+*Eksamensspørgsmålet:*
 
-*2.	Redegør for hvilke muligheder Sun-Import A/S har for at foretage udlæg i Ivars nævnte aktiver til sikkerhed for deres fordring.* 
+2.	Redegør for hvilke muligheder Sun-Import A/S har for at foretage udlæg i Ivars nævnte aktiver til sikkerhed for deres fordring. 
 
-**Vejledende løsning:**
+*Vejledende løsning:*
 
-*Kreditforfølgning:*
+Kreditforfølgning:
 
 Udviklingsbaseret viden om anvendt teori og metoder indenfor regler og praksis for individuel kreditorforfølgning og gældssanering.
 
@@ -449,17 +472,17 @@ Depotet med Carlsberg aktier er et oplagt udlægsaktiv.
 De tre kundetilgodehavender er ligeledes oplagte udlægsaktiver.
 Der skal ved bedømmelsen af besvarelsen lægges vægt på den studerendes demonstration af viden om de relevante begreber i forhold til opgavens faktum.
 
-**Svar slut**.
+*Svar slut*.
 
 
-**Eksamensspørgsmål:**
+*Eksamensspørgsmål:*
 
 
-*3.	Hvilke sikringsakter skal der foretages ved udlæg i aktiverne og hvorfor?* 
+3.	Hvilke sikringsakter skal der foretages ved udlæg i aktiverne og hvorfor? 
 
-**Vejledende løsning:**
+*Vejledende løsning:*
 
-*Kreditorforfølgning:*
+Kreditorforfølgning:
 
 Udviklingsbaseret viden om anvendt teori og metoder indenfor regler og praksis for individuel kreditorforfølgning og gældssanering.
 
@@ -477,7 +500,7 @@ Udlægget i de tre kundetilgodehavender kræver ikke sikringsakt for at være be
 
 Der skal ved bedømmelsen af besvarelsen lægges vægt på den studerendes demonstration af viden om de relevante begreber i forhold til opgavens faktum.
 
-**Svar slut**.
+*Svar slut*.
 
 
 En af grundene til at Ivars landejendom er overbehæftet er dels at han selv for nogle måneder siden optog et banklån mod pant i ejendommen dels at en anden af hans kredito-rer Zync Invest havde foretaget et udlæg. 
@@ -490,11 +513,11 @@ Den 12. maj foretog fogedretten på begæring af en af Ivars kreditorer, Zync In
 
 Ivar havde under fogedretsmødet oplyst Zync Invenst om pantebrevet til banken. Udlægget blev tinglyst den 13. maj kl. 10.25.
 
-**Eksamensspørgsmålet:*
+*Eksamensspørgsmålet:*
 
-*4.	Hvordan er prioritetsstillingen i ejendommen mellem bankens panteret og Zync Invests udlæg?* 
+4.	Hvordan er prioritetsstillingen i ejendommen mellem bankens panteret og Zync Invests udlæg? 
 
-**Vejledende løsning:**
+*Vejledende løsning:*
 
 Kreditsikring:
 
@@ -508,19 +531,19 @@ Så efter de allerede tinglyste hæftelser følger udlægget og så bankens pant
 
 Der skal ved bedømmelsen af besvarelsen lægges vægt på den studerendes anvendelse af de relevante begreber i forhold til opgavens faktum.
 
-**Svar slut.**
+*Svar slut.*
 
 
 Ivar vil gerne starte endnu et erhvervsprojekt op sammen med sin svoger. Men da de er to deltagere overvejer han nu bl.a. på baggrund af råd fra sin revisor, om de i stedet kan starte op i et anpartsselskab. 
 
 
-**Eksamensspørgsmålet:**
+*Eksamensspørgsmålet:*
 
-*5.	Hvilke fordele og ulemper kan der være ved at starte den nye virksomhed op i et anpartsselskab?*
+5.	Hvilke fordele og ulemper kan der være ved at starte den nye virksomhed op i et anpartsselskab?
 
-**Vejledende løsning:**
+*Vejledende løsning:*
 
-*Selskabsret, hæftelse:*
+Selskabsret, hæftelse:
 
 Forståelse for Grundlæggende selskabsret og hæftelsesformer samt betydningen af reglerne om tegningsret.
 
@@ -530,7 +553,7 @@ Ulemperne er kapitalkravet på kr. 50.000, samt de i nogen grad tungere formelle
 
 Der skal ved bedømmelsen af besvarelsen lægges vægt på den studerendes demonstration af forståelse for de relevante begreber i forhold til opgavens faktum.
 
-**Svar slut**.
+*Svar slut*.
 
 
 Ivar har sat familiens gamle sofa til salg på en åben Facebookgruppe ”Ting og sager til salg”. Opslaget indeholder et billede af sofaen og teksten: ”Sofa i meget fin stand sælges. Nypris 9.995. Kan afhentes hos mig efter nærmere aftale i en personlig besked – giv et bud!” Ivar får flere kommentarer og likes på sit opslag. Bl.a. skriver Lonnie Frydenlund: ”Jeg byder kr. 1.800. Hvor bor du?” Ivar sender Lonnie følgende personlige besked: ”Top sofaen er din. Du kan betale kontant eller med Mobilepay, når du henter den. Jeg bor på Løvsangervej 10 i Sundby. Hvornår kan du hente den?” Senere samme dag skriver Lonnie: 
@@ -539,11 +562,11 @@ Ivar har sat familiens gamle sofa til salg på en åben Facebookgruppe ”Ting o
 
 Ivar mener, at der er indgået en aftale om køb af sofaen, hvilket Lonnie dog nægter.
 
-**Eksamensspørgsmålet:**
+*Eksamensspørgsmålet:*
 
-*6.	Tag stilling til, om der er indgået en bindende aftale mellem Ivar og Lonnie.*
+6.	Tag stilling til, om der er indgået en bindende aftale mellem Ivar og Lonnie.
 
-**Vejlendende løsning:**
+*Vejlendende løsning:*
 
 *Aftaleret:*
 
@@ -555,7 +578,7 @@ Aftalen er altså bindende.
 
 Der skal ved bedømmelsen af besvarelsen lægges vægt på den studerendes anvendelse af de relevante begreber i forhold til opgavens faktum.
 
-**Svar slut.**
+*Svar slut.*
 
 ---
 
@@ -581,7 +604,7 @@ Der skal ved bedømmelsen af besvarelsen lægges vægt på den studerendes anven
 
 
 
-Efter selskabslovens § 5, nr. 1 er et aktieselskab et kapitalselskab, herunder et partnerselskab, hvor kapitalejernes indskudskapital er fordelt på **aktier**. 
+Efter selskabslovens § 5, nr. 1 er et aktieselskab et kapitalselskab, herunder et partnerselskab, hvor kapitalejernes indskudskapital er fordelt på *aktier*. 
 
 Aktier kan udbydes til offentligheden. 
 
@@ -595,11 +618,11 @@ Kapitalejerne har ret til andel i kapitalselskabets overskud i forhold til deres
 
 Tilsvarende gælder, at når en kapitalejer har indbetalt sine kapitalandele fuldt ud, jf. selskabslovens §§ 33-34, er kapitalejeren ikke selskabsretligt forpligtet til at tilføre selskabet yderligere kapital.
 
-Udover at kapitalselskabets ejere og ledelse kan ifalde **erstatningsansvar** efter reglerne i selskabslovens kapitel 22, der i vidt omfang er modelleret over dansk rets almindelige erstatningsreger og omtales i forbindelse med det nævnte kapitels enkelte bestemmelser, kan der tænkes en såkaldt gennembrudshæftelse – som dog er meget sjældent set i praksis, men hvis grundsynspunkt kan føre til hæftelse på objektivt grundlag, altså hvor kapitalejere/ledelse ikke har handlet ansvarspådragende.
+Udover at kapitalselskabets ejere og ledelse kan ifalde *erstatningsansvar* efter reglerne i selskabslovens kapitel 22, der i vidt omfang er modelleret over dansk rets almindelige erstatningsreger og omtales i forbindelse med det nævnte kapitels enkelte bestemmelser, kan der tænkes en såkaldt gennembrudshæftelse – som dog er meget sjældent set i praksis, men hvis grundsynspunkt kan føre til hæftelse på objektivt grundlag, altså hvor kapitalejere/ledelse ikke har handlet ansvarspådragende.
 
 Retstilstanden kan for det i praksis mest interessante områdes vedkommende – koncerner/hovedaktionærforhold m.v. – antagelig sammenfattes i et udsagn om, at et moderselskab/en hovedaktionær på objektivt grundlag kommer til at betale en dattervirksomheds gæld, hvis moderselskabet/hovedaktionæren forretningsmæssigt har drevet koncernens selskaber som én virksomhed, hvori ligger, at moderselskabet/hovedaktionæren klart har ladet datterselskabet leve på koncernens goodwill og kreditværdighed, og at driften af datterselskabets virksomhed kun er forretningsmæssig mulig under forudsætning af, at moderselskabet/hovedaktionæren til stadighed tilfører den nødvendige kapital.
 
-Den første danske højesteretsdom om gennembrudshæftelse er *U 1997 1642 H. Dommen vedrører gennembrudshæftelse i forhold til et »søsterselskab«*
+Den første danske højesteretsdom om gennembrudshæftelse er **U 1997 1642 H**. Dommen vedrører gennembrudshæftelse i forhold til et »søsterselskab«.
 
 
 ---
@@ -609,7 +632,7 @@ Den første danske højesteretsdom om gennembrudshæftelse er *U 1997 1642 H. Do
 ![](img/as.jpg)
 
 
-Efter selskabslovens § 5, nr. 2 er et anpartsselskab, et kapitalselskab, hvor kapitalejernes indskudskapital er fordelt på **anparter**. 
+Efter selskabslovens § 5, nr. 2 er et anpartsselskab, et kapitalselskab, hvor kapitalejernes indskudskapital er fordelt på *anparter*. 
 
 Anpartsselskaber kan ikke udbyde deres kapitalandele til offentligheden, jf. selskabslovens § 1, stk. 3. 
 
@@ -637,7 +660,7 @@ Ejerne af selskabet kan være privatpersoner, eller det kan være selskaber.
 
 Ejerandelen af selskabet bestemmes af, hvor stor en del af anpartsselskabets kapital personen eller selskabet har indskudt.
 
-**Krav ved stiftelse af anpartsselskab: Ved stiftelsen af et ApS er der visse krav, som skal overholdes:**
+*Krav ved stiftelse af anpartsselskab: Ved stiftelsen af et ApS er der visse krav, som skal overholdes:*
 
 Det kræves, at der oprettes et stiftelsesdokument, en anpartshaverfortegnelse og en protokol. 
 
@@ -655,7 +678,7 @@ Anpartsselskabet beskattes for sig, mens man som ansat ejer i selskabet bliver b
 
 Et anpartsselskab skal udarbejde og offentliggøre regnskabet, der som hovedregel skal revideres af en revisor.
 
-**Pligt i forbindelse med bogføringsloven:** 
+*Pligt i forbindelse med bogføringsloven:* 
 
 Et anpartsselskab er underlagt en pligt om at følge bogføringsloven, dvs. bogholderiet skal udarbejdes efter gældende lov. 
 
@@ -665,11 +688,11 @@ Hvis dette ikke overholdes, kan det føre til krav om supplerende oplysninger el
 
 ### Kommanditselskab K/S
 
-**Ejerne og hæftelse:**
+*Ejerne og hæftelse:*
 
 Ejerne i et K/S kan både være virksomheder (juridiske personer) og enkeltpersoner (fysiske personer).
 
-**Hæftelse:**
+*Hæftelse:*
 
 ![](img/kom.png)
 
@@ -708,7 +731,7 @@ Både fysiske og juridiske personer kan være komplementar i et partnerselskab.
 
 Selskabsformen bruges især i advokatbranchen.
 
-**Hæftelse:**
+*Hæftelse:*
 
 Komplementaren hæfter personligt og direkte, og hvis der er flere komplementarer hæfter de solidarisk.
 

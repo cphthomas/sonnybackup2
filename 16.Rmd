@@ -1,10 +1,12 @@
-# Gældsbreve, pantebreve og fordringer
+# Fordringer, gældsbreve og pantebreve
+
+![](img/lon.jpg)
 
 ```{r, echo=FALSE, results='asis'}
 cat(readLines('np.html'))
 ```
 
-Her skal gennemgås de vigtige juridiske regler for fordringer, gældsbreve og pantebreve. Afsnittet er yderst relevant for eksamen.^[Herværende gennemgang af reglerne om fordringer, gældsbreve og pantebreve bygger bl.a. på oplysninger fra SKAT og **Lars Hedegaard Kristensen**: Elektroniske Karnovkommentar til gældsbrevsloven].
+Her skal gennemgås de vigtige juridiske regler for fordringer, gældsbreve og pantebreve. Afsnittet er yderst relevant for eksamen.^[Herværende gennemgang af reglerne om fordringer, gældsbreve og pantebreve bygger bl.a. på oplysninger fra SKAT og *Lars Hedegaard Kristensen*: Elektroniske Karnovkommentar til gældsbrevsloven].
 
 ---
 
@@ -73,7 +75,7 @@ Det betyder kun, at der er et krav om, at man kan bevise, at fordringen eksister
 
 ---
 
-**Som eksempler på fordringer kan nævnes**: 
+*Som eksempler på fordringer kan nævnes*: 
 
 
 * obligationer og præmieobligationer
@@ -123,7 +125,7 @@ Denne lov indeholder ikke nogen direkte definition af begrebet ”gældsbrev”.
 
 Gældsbrevslovens forarbejder henholder sig til den gængse juridiske forståelse, nemlig at der ved et gældsbrev forstås: 
 
-***»en skriftlig Erklæring, der hjemler en i Hovedsagen, ubetinget, ensidig Fordring på et bestemt Pengebeløb«***. 
+*»en skriftlig Erklæring, der hjemler en i Hovedsagen, ubetinget, ensidig Fordring på et bestemt Pengebeløb«*. 
 
 Kravet om, at der skal foreligge en skriftlig erklæring, indebærer, at der skal foreligge et dokument. 
 
@@ -143,11 +145,11 @@ I øvrigt kan underskriften være stemplet eller trykt.
 
 <img src="img/gb16.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-**Checks og veksler** er ikke omfattet af gældsbrevsbegrebet, dels fordi disse dokumenttyper er reguleret i deres egne love (Checklov: Lovbekendtgørelse nr. 558 af 25. august 1986 og Veksellov: Lovbekendtgørelse nr. 1661 af 12. december 2018), dels grundet deres særegne karakter.
+*Checks og veksler* er ikke omfattet af gældsbrevsbegrebet, dels fordi disse dokumenttyper er reguleret i deres egne love (Checklov: Lovbekendtgørelse nr. 558 af 25. august 1986 og Veksellov: Lovbekendtgørelse nr. 1661 af 12. december 2018), dels grundet deres særegne karakter.
  
 ---
 
-Erklæringen på gældsbrevet skal være i hovedsagen **ubetinget**. 
+Erklæringen på gældsbrevet skal være i hovedsagen *ubetinget*. 
 
 Det er uden betydning, at forfaldstiden eller det beløb, der skal betales, til dels er afhængig af en fremtidig uvis begivenhed, når det dog til sin tid kan afgøres, hvilket beløb der skal betales.
 
@@ -161,13 +163,13 @@ Sælgers krav på købesummen er afhængig af ikke-misligholdelse fra sælgers s
 
 <img src="img/gb17.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Ud fra tilsvarende synspunkter falder også **lejekontrakter** uden for begrebet.
+Ud fra tilsvarende synspunkter falder også *lejekontrakter* uden for begrebet.
 
 ---
 
 <img src="img/gb18.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-En **forsikringspolice** er ikke et gældsbrev, da sikredes krav er afhængig af sikredes opfyldelse af sine forpligtelser bl.a. præmiebetaling.
+En *forsikringspolice* er ikke et gældsbrev, da sikredes krav er afhængig af sikredes opfyldelse af sine forpligtelser bl.a. præmiebetaling.
 
 ---
 
@@ -177,7 +179,7 @@ Det er uden betydning, om beløbet er angivet i dansk eller fremmed valuta, elle
 
 Beløbet må dog ikke være helt ubestemt, hvorfor udbyttekuponer til aktier ikke er gældsbreve.
 
-Vurderingen af, om et dokument er simpelt eller negotiabelt, foretages uafhængigt af GBL § 1, jf.  GBL § 11.
+Vurderingen af, om et dokument er simpelt eller negotiabelt, foretages uafhængigt af GBL § 1, jf. GBL § 11.
 
 Ifølge GBL § 1 er det udgangspunktet, at den, der udsteder et gældsbrev, ikke derved mister indsigelser fra det retsforhold, der gav anledning til gældsbrevets udstedelse.
 
@@ -187,7 +189,7 @@ Skyldneren bevarer dermed over for kreditor indsigelser om mangler, manglende le
 
 Skyldneren bevarer også den indsigelse, at skyldneren ikke har modtaget det lån, som skulle tilbagebetales med det beløb, som gældsbrevet lyder på. 
 
-Alt i alt udtrykkes dette ofte på den måde, at gældsbrevet ikke er udtryk for en **novation** (afløsning af en gammel gæld gennem etablering af en ny) af skyldforholdet.  
+Alt i alt udtrykkes dette ofte på den måde, at gældsbrevet ikke er udtryk for en *novation* (afløsning af en gammel gæld gennem etablering af en ny) af skyldforholdet.  
 
 
 Fra den nævnte hovedregel om, at der ikke indtræder novation (dvs. stiftelse af en ny fordring), må der ifølge ordlyden af GBL § 1 gøres undtagelse, hvis det er aftalt, at det retsforhold, der har givet anledning til gældsbrevets udstedelse, skal ophøre med at have nogen betydning og skal erstattes af retsforholdet ifølge gældsbrevet.
@@ -249,22 +251,22 @@ Flere skyldnere hæfter solidarisk, hvis ikke andet er aftalt, GBL § 2:
 ---
 
 
-**En skyldner er forpligtet til at betale et bestemt beløb**:
+*En skyldner er forpligtet til at betale et bestemt beløb*:
 
-**I rette tid** 
+*I rette tid* 
 
-+	Forfaldstid, seneste betalingstidspunkt
-+	Frigørelsestid, tidligste betalingstidspunkt
+Forfaldstid, seneste betalingstidspunkt.
+Frigørelsestid, tidligste betalingstidspunkt.
   
-**På rette sted** 
+*På rette sted* 
 
-+	Pengeskyld er bringeskyld, pengene skal være kommet frem til kreditor inden forfaldstid
+Pengeskyld er bringeskyld, pengene skal være kommet frem til kreditor inden forfaldstid.
   
-**På rette måde**
+*På rette måde*
 
-+	Betalingsmiddel – betalingskort, kontanter, bankoverførsel, sms afhængig af hvad der er aftalt
+Betalingsmiddel – betalingskort, kontanter, bankoverførsel, sms afhængig af hvad der er aftalt.
   
-**Til rette kreditor** – obs. på deponeringsloven
+*Til rette kreditor* – obs. på deponeringsloven.
 
 Betaling med betalingskort eller andre betalingstjenester 
 (netbank, mobiltelefon mm.) er reguleret i betalingsloven (BTL)
@@ -341,13 +343,13 @@ Tredjemandsbrug af kortholders betalingskort er reguleret af betalingsloven (for
 
 ---
 
-**HR:** Banken hæfter for misbruget og skal dække kortholders tab, jf. BTL § 99
+*HR:* Banken hæfter for misbruget og skal dække kortholders tab, jf. BTL § 99
 
-**U1:** Kortholder hæfter ubegrænset, hvis kortholder har handlet svigagtigt eller med vilje ikke overholdt kortreglerne fx omkring sikkerhed, jf. BTL § 100, stk. 2
+*U1:* Kortholder hæfter ubegrænset, hvis kortholder har handlet svigagtigt eller med vilje ikke overholdt kortreglerne fx omkring sikkerhed, jf. BTL § 100, stk. 2
  
-**U2:** Har kort og pinkode været brugt, hæfter kortholder for 375 kr., jf. BTL § 100, stk. 3
+*U2:* Har kort og pinkode været brugt, hæfter kortholder for 375 kr., jf. BTL § 100, stk. 3
 
-**U3:** Kortholder kan hæfte for op til 8.000 kr., jf. BTL § 100, stk. 4, hvis kort og pinkode har været brugt og:
+*U3:* Kortholder kan hæfte for op til 8.000 kr., jf. BTL § 100, stk. 4, hvis kort og pinkode har været brugt og:
 
 Kortet ikke er spærret med det samme (i praksis indenfor 1-1,5 timer efter man positiv er blevet opmærksom på, at man har mistet betalingskortet).
 
@@ -355,7 +357,7 @@ Kortholder selv har givet pinkoden til misbrugeren, og
 
 Kortholder ved groft uforsvarlig (nærmest sløseri) adfærd har gjort misbruget muligt
     
-**U4:** Kortholder hæfter ubegrænset, jf. BTL § 100, stk. 5, hvis kort og pinkode er anvendt og:
+*U4:* Kortholder hæfter ubegrænset, jf. BTL § 100, stk. 5, hvis kort og pinkode er anvendt og:
   
 Kortholder selv har oplyst koden til misbrugeren og
 
@@ -431,7 +433,7 @@ mydf %>%
 
 ---
 
-**Eksamensspørgsmål om tredjemandsmisbrug af kortholderes betalingsmiddel**
+*Eksamensspørgsmål om tredjemandsmisbrug af kortholderes betalingsmiddel*
 
 
 <img src="img/kortmisbrug2.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
@@ -464,12 +466,12 @@ Banken kan dokumentere, at pin-koden er brugt ved alle hævninger.
 Andreas kan dokumentere, at han på hævningstidpunkteterne var sammen med en af sine kvindelige medstuderende hjemme hos hende. 
 
 
-**Eksamensspørgsmålet:**
+*Eksamensspørgsmålet:*
 
 1. Giv en begrundet redegørelse for, hvordan tabet skal fordeles mellem Andreas og Sparekassen Pecunia (20%).
 
 
-**Vejledende løsning:**
+*Vejledende løsning:*
 
 
 Lovgrundlag: Lov om betalinger 
@@ -529,15 +531,24 @@ Alle pengekrav og fordringer kan deles op i 5 slags:
 
 ---
 
-**Simple fordringer** er almindeligt pengekrav, hvor der ikke er lavet et gældsbrev, fx fakturakrav (regninger) eller en kassekredit
+*Simple fordringer* er almindeligt pengekrav, hvor der ikke er lavet et gældsbrev, fx fakturakrav (regninger) eller en kassekredit.
 
-**Simple gældsbreve** er gældsbreve, som ikke er omsætningsgældsbreve, jf. GBL §26, jf. GBL § 11, stk. 2, fx lånedokumenter (familielån og banklån)
+---
+
+*Simple gældsbreve* er gældsbreve, som ikke er omsætningsgældsbreve, jf. GBL §26, jf. GBL § 11, stk. 2, fx lånedokumenter (familielån og banklån).
+
+---
  
-**Omsætningsgældsbreve**, er gældsbreve som beskrevet i GBL § 11, stk. 2, fx hvis det tydeligt fremgår, at det er et omsætningsgældsbrev
+*Omsætningsgældsbreve*, er gældsbreve som beskrevet i GBL § 11, stk. 2, fx hvis det tydeligt fremgår, at det er et omsætningsgældsbrev.
 
-**Tinglyste negotiable pantebreve** – typisk pantebreve med pant i fast ejendom
+---
 
-***Tinglyste simple pantebreve** – typisk pantebrev med pant i andet end fast ejendom
+*Tinglyste negotiable pantebreve* – typisk pantebreve med pant i fast ejendom.
+
+--
+
+*Tinglyste simple pantebreve* – typisk pantebrev med pant i andet end fast ejendom.
+
   
 ---
 
@@ -609,14 +620,16 @@ Afsnittet indeholder:
 
 ---
 
-**Lovgrundlag**
+*Lovgrundlag:*
 
 Alle gældsbreve og fordringer, hvad enten de er skriftlige eller mundtlige, er omfattet af gældsbrevslovens kapitel 3 om simple fordringer.
 
 Dette gælder dog ikke for:  
 
-* de gældsbreve og fordringer, der er nævnt i GBL § 11, stk. 2 
-* digitale pantebreve efter tinglysningslovens regler
+* de gældsbreve og fordringer, der er nævnt i GBL § 11, stk. 2.
+
+* digitale pantebreve efter tinglysningslovens regler.
+
 * fondsaktiver. 
 
 ---
@@ -624,7 +637,7 @@ Dette gælder dog ikke for:
 ### Sikringsakten ved simple gældsbreve og simple fordringer?
 
 
-**Begrebet "sikringsakt":**
+*Begrebet "sikringsakt":*
 
 Sikringsakten er den handling (akt), man skal foretage, for at ens pant er retsbeskyttet over for kreditorer eller aftaleerhververe. 
 
@@ -632,7 +645,7 @@ Sikringsakten kan være, at man skal give meddelelse (denunciere), jf. Gbl. § 3
 
 ---
 
-"Denunciation": Betyder underretning - meddelelse. Er i nogle tilfælde en betingelse for at sikre sin ret efter en aftale overfor den anden parts kreditorer.
+*"Denunciation"*: Betyder underretning - meddelelse. Er i nogle tilfælde en betingelse for at sikre sin ret efter en aftale overfor den anden parts kreditorer.
 
 ---
 
@@ -751,16 +764,18 @@ En ordning om at belåne fakturaer medfører normalt ikke, at pantefogeden er af
 
 ---
 
-**Specielt om udlæg i dankort-betalinger**
+*Specielt om udlæg i dankort-betalinger:*
 
 Udlæg kan foretages i dankort-betalinger. Se **U 2000.715 Ø**, hvor en pantefoged havde foretaget udlæg for et skattekrav hos en forretningsindehaver.  
 
 
 ---
 
-**Specielt om udlæg i bankindeståender**
+*Specielt om udlæg i bankindeståender:*
 
-Der er intet til hinder for, at der foretages udlæg i bankindeståender, fordi disse kan betragtes som skyldnerens simple fordringer mod et pengeinstitut. Hvis udlægsforretningen foretages hos pengeinstituttet, så indeståendet straks udbetales, er der dog tale om udlæg i penge og ikke i fordringer. Se RPL § 521.
+Der er intet til hinder for, at der foretages udlæg i bankindeståender, fordi disse kan betragtes som skyldnerens simple fordringer mod et pengeinstitut. 
+
+Hvis udlægsforretningen foretages hos pengeinstituttet, så indeståendet straks udbetales, er der dog tale om udlæg i penge og ikke i fordringer. Se RPL § 521.
 
 ---
 
@@ -781,35 +796,35 @@ Der findes herefter regler om omsætningsgældsbreve to steder i lovgivningen.
 
 Reglerne om omsætningsgældsbreve står herefter i følgende to love:  
 
-**A)** Gældsbrevsloven (GBL), hvor det i GBL § 11, stk. 2, fastslås, hvad der er omsætningsgældsbreve:
+*A)* Gældsbrevsloven (GBL), hvor det i GBL § 11, stk. 2, fastslås, hvad der er omsætningsgældsbreve:
 
-**1**.	Gældsbreve, der lyder på betaling til ihændehaveren eller som ikke angiver, hvem gælden skal betales til (ihændehavergældsbreve).
+*1*.	Gældsbreve, der lyder på betaling til ihændehaveren eller som ikke angiver, hvem gælden skal betales til (ihændehavergældsbreve).
 
-**2**.	Gældsbreve, der lyder på betaling til en bestemt person eller ordre (ordregældsbreve).
+*2*.	Gældsbreve, der lyder på betaling til en bestemt person eller ordre (ordregældsbreve).
 
-**3**.	Gældsbreve, der giver pant i registreret skib eller luftfartøj, medmindre der i gældsbrevet er indføjet ordene »ikke til ordre« eller tilsvarende forbehold.
+*3*.	Gældsbreve, der giver pant i registreret skib eller luftfartøj, medmindre der i gældsbrevet er indføjet ordene »ikke til ordre« eller tilsvarende forbehold.
 
-**4**. Gældsbreve, der lyder på betaling til en bestemt person (navnegældsbreve), når de tydeligt angiver, at de skal være omsætningsgældsbreve.
+*4*. Gældsbreve, der lyder på betaling til en bestemt person (navnegældsbreve), når de tydeligt angiver, at de skal være omsætningsgældsbreve.
 
 ---
 
-**B)** Tinglysningsloven (TL), hvor der står, at:  
+*B)* Tinglysningsloven (TL), hvor der står, at:  
 
-**1**. Et tinglyst pantebrev, bortset fra et skadesløsbrev, der giver pant i fast ejendom, er negotiabelt, medmindre der i pantebrevet er indføjet ordene »ikke til ordre« eller tilsvarende forbehold, jf. TL § 27, stk. 2.
+*1*. Et tinglyst pantebrev, bortset fra et skadesløsbrev, der giver pant i fast ejendom, er negotiabelt, medmindre der i pantebrevet er indføjet ordene »ikke til ordre« eller tilsvarende forbehold, jf. TL § 27, stk. 2.
 
-**2**. Et tinglyst pantebrev, herunder et ejerpantebrev, der giver pant i motorkøretøjer er ikke negotiabelt, medmindre dette klart fremgår af pantebrevet, jf. TL § 42 c. Skadesløsbreve er ikke negotiable pantebreve, jf. TL § 42g, stk. 3, 2. og 3. pkt.  
+*2*. Et tinglyst pantebrev, herunder et ejerpantebrev, der giver pant i motorkøretøjer er ikke negotiabelt, medmindre dette klart fremgår af pantebrevet, jf. TL § 42 c. Skadesløsbreve er ikke negotiable pantebreve, jf. TL § 42g, stk. 3, 2. og 3. pkt.  
 
-**3**. Et tinglyst pantebrev, herunder et ejerpantebrev, der giver pant i andele i andelsboligforeninger som nævnt i TL § 42 i, er ikke negotiabelt, medmindre dette klart fremgår af pantebrevet. 
+*3*. Et tinglyst pantebrev, herunder et ejerpantebrev, der giver pant i andele i andelsboligforeninger som nævnt i TL § 42 i, er ikke negotiabelt, medmindre dette klart fremgår af pantebrevet. 
 
 Skadesløsbreve er ikke negotiable pantebreve: Se TL § 42m, stk. 2, 2. og 3. pkt.  
 
-**4**. Et tinglyst pantebrev, herunder et ejerpantebrev, der giver pant i løsøre, er ikke negotiabelt, medmindre dette klart fremgår af pantebrevet. 
+*4*. Et tinglyst pantebrev, herunder et ejerpantebrev, der giver pant i løsøre, er ikke negotiabelt, medmindre dette klart fremgår af pantebrevet. 
 
 Skadesløsbreve er ikke negotiable pantebreve: Se TL § 47, stk. 7, 2. og 3. pkt.  
 
 ---
 
-**Bemærk** 
+*Bemærk* 
 
 Hvis et gældsbrev ikke falder ind under definitionen i henholdsvis GBL eller TL, og det klart fremgår af gældsbrevet, at det ikke skal være negotiabelt, er det som nævnt et simpelt gældsbrev: 
 
@@ -892,13 +907,13 @@ Se TL § 1, TL § 42j, stk. 7, (andelsboligbogen), TL § 42d, stk. 7, (bilbogen)
 
 ---
 
-Når man foretager **udlæg i tinglyste digitale pantebreve**, skal udlægget derfor tinglyses for at opnå beskyttelse mod aftaler om pantebrevet og mod retsforfølgning. 
+Når man foretager *udlæg i tinglyste digitale pantebreve*, skal udlægget derfor tinglyses for at opnå beskyttelse mod aftaler om pantebrevet og mod retsforfølgning. 
 
 Se TL § 1 (fast ejendom), TL § 42j, stk. 7 (andelsboligbogen), TL § 42d, stk. 7 (bilbogen) og TL § 47, stk. 6 (løsøre). Det gælder derfor også de digitale pantebreve, der er negotiable.  
  
 ---
 
-Hvis man foretager **udlæg i et papirbaseret pantebrev**, skal fogeden tage dette med og sende pantebrevet til tinglysningskontoret i forbindelse med tinglysning af udlægget. 
+Hvis man foretager *udlæg i et papirbaseret pantebrev*, skal fogeden tage dette med og sende pantebrevet til tinglysningskontoret i forbindelse med tinglysning af udlægget. 
 
 Se § 15, stk. 3 i lov nr. 539 af 8. juni 2006, som ændret ved § 2 i lov nr. 504 af 12. juni 2009, hvoraf fremgår, at pantebrevet ved tinglysningen skal konverteres til et digitalt pantebrev. 
 
@@ -910,7 +925,7 @@ Dette gælder også bilbogen (TL § 42g stk. 3, 1. pkt.), andelsboligbogen (TL �
 
 ---
 
-**Legitimationsvirkning**, hvornår er man over for omverdenen angivet som berettiget til at gøre fordringen gældende?
+*Legitimationsvirkning*, hvornår er man over for omverdenen angivet som berettiget til at gøre fordringen gældende?
 
 Den, der på lovlig vis har fået omsætningsgældsbrevet i hænde, har ret til at gøre fordringen gældende. Se GBL § 13.  
 
@@ -940,7 +955,7 @@ Legitimationen omfatter også andre dispositioner end betaling, fx meddelelse af
 
 ![](img/ting.png)
 
-Hvad angår **tinglyste digitale pantebreve** er reglerne de samme, dog med den forskel, at der ikke er krav om, at man har pantebrevet i hånden, men derimod, at man har tinglyst det. Se TL § 27b. 
+Hvad angår *tinglyste digitale pantebreve* er reglerne de samme, dog med den forskel, at der ikke er krav om, at man har pantebrevet i hånden, men derimod, at man har tinglyst det. Se TL § 27b. 
 
 Samme bestemmelse gælder også bilbogen (TL § 42g, stk. 3, 1. pkt.), andelsboligbogen (TL § 42m, stk. 2, 1. pkt.) og personbogen (TL § 47, stk. 7, 1. pkt.). 
 
@@ -986,7 +1001,7 @@ Gældsbrevsdebitor bliver ved betaling til udlægshaver frigjort under samme bet
 
 ### Oversigt over sikringsakter på fordringer, omsætningsgældsbreve og pantebreve
 
-**Hvad er en sikringsakt?**
+*Hvad er en sikringsakt?*
 
 
 En sikringsakt er den handling der skal til, for at man opnår sikkerhed mod rettigheder, der er stiftet efter ens rettigheder. 
@@ -995,14 +1010,15 @@ Handlingen skal altså til for, at man ikke mister sin ret til det aktiv, som fx
 
 Det er typen af aktiv, der er afgørende for hvilken sikringsakt, der skal foretages. Hvis der f.eks. er tale om udlæg i livsforsikringspoler, skal der ske påtegning på policen.
 
+---
 
 Sikringsakt foretages således for at sikre erhververen mod overdragerens aftaleerhververe og kreditorer:
 
-*  Simple fordringer – sikringsakten for overdragelse er **denunciation** (meddelelse)
+* Simple fordringer – sikringsakten for overdragelse er *denunciation* (meddelelse).
 
-*  Omsætningsgældsbreve – sikringsakten for overdragelse er **rådighedsberøvelse**
+* Omsætningsgældsbreve – sikringsakten for overdragelse er *rådighedsberøvelse*.
 
-*  Pantebreve – sikringsakten for overdragelse er **tinglysning**
+* Pantebreve – sikringsakten for overdragelse er *tinglysning*.
 
 ---
 
@@ -1010,21 +1026,21 @@ Sikringsakt foretages således for at sikre erhververen mod overdragerens aftale
 
 
 
-**Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af fordringers overdragelse**:
+*Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af fordringers overdragelse*:
 
 
 <img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
-**Fortabelse af indsigelser og rettigheder, GBL § 27 (simple)**
+*Fortabelse af indsigelser og rettigheder, GBL § 27 (simple)*
 
-**Prioritetskonflikt simple gældsbreve, GBL § 31** 
+*Prioritetskonflikt simple gældsbreve, GBL § 31* 
 
-**Legitimation** 
+*Legitimation* 
 
-**Omsætningsbeskyttelse**
+*Omsætningsbeskyttelse*
 
-**Begreberne vindikation og ekstinktion skal anvendes**
+*Begreberne vindikation og ekstinktion skal anvendes*
 
 
 
@@ -1063,13 +1079,13 @@ edges <- data.frame(from = c(1,2,3), to = c(2,3,4),
 
 Lidt begreber, som vi jurister arbejder med:
 
-"Cedent":	Overdrager af en fordring.
+*"Cedent"*:	Overdrager af en fordring.
 
-"Cession":	Overdragelse af en fordring.
+*"Cession"*:	Overdragelse af en fordring.
+*
+"Cessionar"*:	Erhverver af en fordring.
 
-"Cessionar":	Erhverver af en fordring.
-
-"Cessus":	Skyldneren i fordring, der bliver overdraget.
+*"Cessus"*:	Skyldneren i fordring, der bliver overdraget.
 
 ---
 
@@ -1162,7 +1178,7 @@ Skyldnerens indsigelsen over for kreditor kan betyde, at skyldner skal betale mi
 
 ---
 
-Hvis kreditor overdrager fordringen på debitor til en erhverver bliver det juridisk karakteriseret som et **"efterfølgende trepartsforhold”:** 
+Hvis kreditor overdrager fordringen på debitor til en erhverver bliver det juridisk karakteriseret som et *"efterfølgende trepartsforhold”:* 
 
 ---
  
@@ -1213,7 +1229,7 @@ Forholdet mellem sælgeren/kreditgiveren i det oprindelige trepartsforhold og tr
 
 For en nærmere gennemgang af det oprindelige trepartsforhold, jf. kreditaftalelovens § 4, nr. 15, 2. pkt. og det efterfølgende trepartsforhold, [se kapitel 5 i min bog Forbrugerretten II, den civilretlige forbrugerbeskyttelse:](https://shop.karnovgroup.dk/products/forbrugerretten-ii-5-udgave) 
 
-**Se nærmere gennemgangen i kapitel 14 om det efterfølgende trepartsforhold.**
+*Se nærmere gennemgangen i kapitel 14 om det efterfølgende trepartsforhold.*
 
 ---
 
@@ -1254,13 +1270,15 @@ edges <- data.frame(from = c(1,2,1,2,3), to = c(2,3,3,1,2),
 
 ---
 
-**1**. Kunden (skyldneren) køber en bil og underskriver købekontrakt til bilsælgeren (overdrageren)
+*1*. Kunden (skyldneren) køber en bil og underskriver købekontrakt til bilsælgeren (overdrageren)
 
-**2**. Bilsælgeren (overdrageren) sælger købekontrakten til et finansieringsselskab (erhververen)
+*2*. Bilsælgeren (overdrageren) sælger købekontrakten til et finansieringsselskab (erhververen)
 
-**3**. Kunden (skyldneren) skal nu betale til finansieringsselskabet (erhververen), som har købt købekontrakten af bilsælgeren (overdrageren)
+*3*. Kunden (skyldneren) skal nu betale til finansieringsselskabet (erhververen), som har købt købekontrakten af bilsælgeren (overdrageren)
 
-**4**. Overdrager (bilsælgeren) indestår for, at fordringen består jf. GBL § 9. 
+*4*. Overdrager (bilsælgeren) indestår for, at fordringen består jf. GBL § 9. 
+
+---
 
 Bestemmelsen er gældsbrevslovens regel om overdragerens objektive ansvar for, at fordringen består, dvs. »nomen esse verum«. 
 
@@ -1302,7 +1320,7 @@ Betaler skyldner ikke med frigørende virkning, kan han risikere at skulle betal
 
 ---
 
-**Skyldners indsigelser overfor erhverver af fordringen (A-C)**
+*Skyldners indsigelser overfor erhverver af fordringen (A-C)*
 
 Hvad sker der med skyldners indsigelser, når kreditor har overdraget fordringen til erhverver?
 
@@ -1312,19 +1330,19 @@ Skyldner kan gøre alle indsigelser gældende over for kreditor – men ikke, n�
 
 ---
 
-**Konflikter mellem senere erhververe (C-D)**
+*Konflikter mellem senere erhververe (C-D)*
 
 Når en fordring overdrages flere gange kan der opstå konflikter mellem de forskellige erhververe 
 
 ---
 
-**Kædeoverdragelse**: 
+*Kædeoverdragelse*: 
 
 Fx hvis der er en indsigelse om svig i den tidligere overdragelse, så den sælger, man har købt fordringen af, ikke rigtigt ejede den
 
 ---
 
-**Dobbeltoverdragelse**:
+*Dobbeltoverdragelse*:
 
 Fx hvis den samme fordring er overdraget to gange til forskellige erhververe:
 
@@ -1355,7 +1373,7 @@ Overdragelse af fordringer kan ske til eje eller pant
 
 ---
 
-**Fakturabelåning er ofte overdragelse af enkelte (større) fordringer til en bank**:
+*Fakturabelåning er ofte overdragelse af enkelte (større) fordringer til en bank*:
 
 
 ---
@@ -1429,7 +1447,7 @@ edges <- data.frame(from = c(1,2,3,4,5,1,2,3,4), to = c(5,5,5,5,6,6,6,6,6),
 
 --- 
  
-**Factoring kan have forskellige formål**:
+*Factoring kan have forskellige formål*:
 
 +	Administration af debitorportefølje, kundebogholderi mv.
 
@@ -1458,7 +1476,7 @@ Reglen indeholder dog en modifikation, da skyldner ikke bliver frigjort, når ha
 
 ---
 
-**Eksempel:**
+*Eksempel:*
 
 Hvis en person, der er legitimeret som fordringshaver, overdrager en simpel fordring til først A og dernæst B, og fordringsskyldneren ikke har kendskab og ikke burde have kendskab til overdragelsen til A, men derimod først får meddelelse om overdragelsen fra B, frigøres fordringsskyldneren ved betaling til B, selv om fordringen i virkeligheden tilkom A, fordi B var i ond tro, da han gav underretningen til fordringsskyldneren. Se GBL § 31, stk. 2.
 
@@ -1553,7 +1571,7 @@ Grundlæggende er formålet med reglerne om overdragelse af simple fordringer at
 
 Dette har særligt fundet udtryk i GBL § 27, hvorefter skyldnerens indsigelser mod at være helt eller delvis forpligtet over for kreditor, også kan gøres gældende over for en senere erhverver af fordringen
 
-**»Overdragelse«** omfatter enhver overførelse i levende live. GBL § 27 tager ikke stilling til, om et simpelt gældsbrev kan overdrages. Hovedreglen er, at dette kan ske. 
+*»Overdragelse«* omfatter enhver overførelse i levende live. GBL § 27 tager ikke stilling til, om et simpelt gældsbrev kan overdrages. Hovedreglen er, at dette kan ske. 
 
 Overdragelse kan være afskåret eller begrænset ved aftale mellem skyldneren og kreditor, hvilket i givet fald må respekteres af erhververen.
 
@@ -1611,7 +1629,7 @@ edges <- data.frame(from = c(1,2,3), to = c(2,3,4),
 
 ---
 
-**Dobbeltoverdragelse**:
+*Dobbeltoverdragelse*:
 
 
 ```{r ,echo=FALSE,fig.height=3, result=TRUE, fig.cap=("Dobbeltoverdragelse, Evas mulighed for at fortrænge Carls ret afgøres af GBL § 31")}
@@ -1644,13 +1662,13 @@ edges <- data.frame(from = c(1,2,2), to = c(2,3,4),
 
 ---
 
-**HR:** Først i tid bedst i ret (uskreven hoveregel i dansk ret)
+*HR:* Først i tid bedst i ret (uskreven hoveregel i dansk ret).
 
-**U1**: En erhverver ifølge aftale kan vinde over en anden aftaleerhververs ret ved at foretage sikringsakt først i god tro.  
+*U1*: En erhverver ifølge aftale kan vinde over en anden aftaleerhververs ret ved at foretage sikringsakt først i god tro.  
 
-**U2**: Udlæg får førsteret, når det er foretaget før aftaleerhververens meddelelse er kommet frem  
+*U2*: Udlæg får førsteret, når det er foretaget før aftaleerhververens meddelelse er kommet frem.  
 
-**U3**: Et udlæg i fordringen er beskyttet mod andre kreditorer og aftaleerhververe i et år fra udlæg er foretaget
+*U3*: Et udlæg i fordringen er beskyttet mod andre kreditorer og aftaleerhververe i et år fra udlæg er foretaget.
 
 ---
 
@@ -1658,7 +1676,7 @@ edges <- data.frame(from = c(1,2,2), to = c(2,3,4),
 
 ---
 
-**Dobbeltoverdragelse af fordring:**  
+*Dobbeltoverdragelse af fordring:*  
 
 I tilfælde af at en fordring bliver overdraget flere gange, er den erhverver, der først meddeler fordringsskyldneren (debitor) om overdragelsen af fordringen, sikret retten til fordringen. 
 
@@ -1708,7 +1726,7 @@ Det gælder også, når der er foretaget udlæg i fordringen, jf. GBL § 27.
 
 ---
 
-**Begrebet: Dobbeltoverdragelse**
+*Begrebet: Dobbeltoverdragelse*
 
 Hvis en rettighedshaver (A) disponerer mere end en gang over den samme rettighed, er der en rettighedskonflikt mellem de to erhververe (B og C)
 
@@ -1767,16 +1785,20 @@ Betaling til den, der har gældsbrevet i hænde (besiddelse), jf. her GBL § 13
 
 Skyldner kan betale ordinære afdrag til overdrager, hvis:
 
-*  Skyldner er i god tro om overdragelse til erhverver og
-*  Afdrag og evt. renter er forfaldne til betaling, jf. her GBL § 20
-*  Skyldner skal betale restgæld og ekstraordinære afdrag til ihændehaveren, jf. her GBL § 19
-*  Skyldner kan kræve gældsbrevet udleveret ved indfrielse af gælden
-*  Skyldner kan kræve at gældsbrevet får en påtegning om ekstraordinære afdrag, jf. her GBL § 21, stk. 3.
+* Skyldner er i god tro om overdragelse til erhverver og
+
+* Afdrag og evt. renter er forfaldne til betaling, jf. her GBL § 20.
+
+* Skyldner skal betale restgæld og ekstraordinære afdrag til ihændehaveren, jf. her GBL § 19.
+
+* Skyldner kan kræve gældsbrevet udleveret ved indfrielse af gælden.
+
+* Skyldner kan kræve at gældsbrevet får en påtegning om ekstraordinære afdrag, jf. her GBL § 21, stk. 3.
 
 
 ---
 
-***Den lidt længere forklaring om betalingslegitimation (legitimationsvirkningen) ved omsætningsgældsbreve:*** 
+*Den lidt længere forklaring om betalingslegitimation (legitimationsvirkningen) ved omsætningsgældsbreve:* 
 
 Den, der på lovlig vis har fået omsætningsgældsbrevet i hænde, har ret til at gøre fordringen gældende, jf. GBL § 13.
 
@@ -1801,6 +1823,8 @@ Reglen om overdragelse af omsætningsgældsbreve og reglen om legitimationen ove
 Når skyldneren betaler til den, der er legitimeret efter GBL § 13, frigøres skyldneren, såfremt skyldneren er i god tro, jf. GBL § 19. 
 
 Betalingen har frigørende virkning, selv om ihændehaverens inkompetence skyldes, at han eller hun ikke har erhvervet ret til omsætningsgældsbrevet, eller at det var overdraget eller gjort til genstand for udlæg. 
+
+---
 
 Legitimationen omfatter også andre dispositioner end betaling, fx meddelelse af henstand eller ændring af betalingsvilkårene. 
 
@@ -1834,7 +1858,9 @@ Bestemmelserne gælder også bilbogen, andelsboligbogen og personbogen.
 
 ---
 
-Hvis et omsætningsgældsbrev er overdraget, kan skyldneren med frigørende virkning betale forfaldne renter og forfaldne, tidsfæstede afdrag til overdrageren, medmindre skyldneren vidste, at denne ikke længere havde ret til at modtage betaling eller havde grund til mistanke derom, jf. GBL § 20. En tilsvarende regel gælder for de tinglyste digitale pantebreve, jf. TL § 29, stk. 2.  
+Hvis et omsætningsgældsbrev er overdraget, kan skyldneren med frigørende virkning betale forfaldne renter og forfaldne, tidsfæstede afdrag til overdrageren, medmindre skyldneren vidste, at denne ikke længere havde ret til at modtage betaling eller havde grund til mistanke derom, jf. GBL § 20. 
+
+En tilsvarende regel gælder for de tinglyste digitale pantebreve, jf. TL § 29, stk. 2.  
 
 ---
 
@@ -1854,11 +1880,11 @@ Gældsbrevsdebitor bliver ved betaling til udlægshaver frigjort under samme bet
 
 Svage indsigelser går tabt for skyldner, når gældsbrevet er overdraget, jf. GBL § 15 hvis:
 
-  + Overdragelsen til erhverver er sket ved gyldig aftale
++ Overdragelsen til erhverver er sket ved gyldig aftale
   
-  +	Erhverver er i god tro om indsigelsen
++	Erhverver er i god tro om indsigelsen
   
-  +	Den gode tro er tilstede på det tidspunkt gældsbrevet bliver overdraget fysisk
++	Den gode tro er tilstede på det tidspunkt gældsbrevet bliver overdraget fysisk
   
 * Skyldner bevarer stærke indsigelser også overfor en erhverver i god tro, jf. GBL § 17:
 
@@ -2023,11 +2049,11 @@ edges <- data.frame(from = c(1,2,2), to = c(2,3,4),
 
 ---
 
-**HR:** Først i tid bedst i ret.  
+*HR:* Først i tid bedst i ret.  
 
-**U1**: En aftaleerhverver kan vinde over en andens ret ved at foretage sikringsakten først i god tro.  
+*U1*: En aftaleerhverver kan vinde over en andens ret ved at foretage sikringsakten først i god tro.  
 
-**U2**: Et udlæg i gældsbrevet er beskyttet mod andre kreditorer fra udlægget er foretaget.
+*U2*: Et udlæg i gældsbrevet er beskyttet mod andre kreditorer fra udlægget er foretaget.
 
 ---
 
@@ -2061,7 +2087,7 @@ edges <- data.frame(from = c(1,2,2), to = c(2,3,4),
 
 ---
 
-En lidt længere forklaring om GBL § 14:  
+*En lidt længere forklaring om GBL § 14:*  
 
 En aftaleerhververs ret til et omsætningsgældsbrev kan ikke anfægtes af andre, hvis aftaleerhververen har fået gældsbrevet i hænde og er i god tro om overdragerens ret, jf. GBL § 14.  
 
@@ -2271,9 +2297,9 @@ edges <- data.frame(from = c(1,2,2), to = c(2,3,4),
 
 ---
 
-**HR:** Først i tid bedst i ret  
+*HR:* Først i tid bedst i ret  
 
-**U:**	En senere rettighedshaver kan fortrænge en tidligere stiftet ret, hvis: 
+*U:*	En senere rettighedshaver kan fortrænge en tidligere stiftet ret, hvis: 
 
 Senere rettighedshaver har tinglyst først. 
 

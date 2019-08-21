@@ -786,6 +786,8 @@ Løftet er ægte fra starten, men indholdet af løftet ændres. Eller der bliver
 
 *Forvanskning:* Aftaler eller beskeder der under fremsendelsen ændres eller forvanskes ved en fejl, hvorved aftalen får et andet indhold, aftalelovens § 32, stk. 2, fx af et bud eller i en fax.
 
+![](img/forvan.jpg)
+
 Hvis afsenderen ikke vil være bundet af indholdet i den fejlagtige erklæring, skal afsenderen uden ugrundet ophold efter at vedkommende har opdaget fejlen, give besked til modtageren om, at afsenderen ikke vil være bundet. 
 
 Gør afsenderen ikke det, er vedkommende bundet af indholdet i den fejlagtige aftale.
