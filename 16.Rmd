@@ -1,10 +1,12 @@
 # Fordringer, gældsbreve og pantebreve
 
-![](img/lon.jpg)
-
 ```{r, echo=FALSE, results='asis'}
 cat(readLines('np.html'))
 ```
+
+![](img/lon.jpg)
+
+
 
 Her skal gennemgås de vigtige juridiske regler for fordringer, gældsbreve og pantebreve. Afsnittet er yderst relevant for eksamen.^[Herværende gennemgang af reglerne om fordringer, gældsbreve og pantebreve bygger bl.a. på oplysninger fra SKAT og *Lars Hedegaard Kristensen*: Elektroniske Karnovkommentar til gældsbrevsloven].
 

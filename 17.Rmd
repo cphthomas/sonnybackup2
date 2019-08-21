@@ -4,6 +4,7 @@
 cat(readLines('np.html'))
 ```
 
+
 ---
 
 ***Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af fordringer og deres ophør i forhold til eksamen:***

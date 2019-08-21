@@ -1,10 +1,12 @@
 # Kreditaftaler
 
-![](img/kre5.jpg)
-
 ```{r, echo=FALSE, results='asis'}
 cat(readLines('np.html'))
 ```
+
+![](img/kre5.jpg)
+
+
 
 
 

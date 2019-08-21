@@ -1,10 +1,12 @@
 # Kautionsforhold
 
-![](img/kaux.jpg)
-
 ```{r, echo=FALSE, results='asis'}
 cat(readLines('np.html'))
 ```
+
+![](img/kaux.jpg)
+
+
 
 <!-- ![](img/kau9.jpg) -->
 
