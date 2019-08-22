@@ -3761,7 +3761,7 @@ Sekretariatet modtager også underretninger fra offentlige myndigheder.
 [På Finanstilsynets hjemmeside her findes flere informationer om hvidvask](https://www.finanstilsynet.dk/Tilsyn/Information-om-udvalgte-tilsynsomraader/Hvidvask)
 
 
-## Whistleblower-ordning
+## <font color="red">Whistleblower-ordning<sup> Premium </font></sup>
 
 
 Med hensyn til bekæmpe hvidvask, er der i hvidlovens § 35 en pligt til at indføre en særlig kanal for en whistleblower-ordning for virksomheder og personer som er omfattet af hvidvaskloven.
@@ -3814,7 +3814,9 @@ Dette gælder tillige i tilfælde, hvor ordningen er outsourcet til en ekstern l
 
 ---
 
-## Finanstilsynets whistleblowerordning 
+## <font color="red">Finanstilsynets whistleblowerordning<sup> Premium </font></sup> 
+
+
 
 Finanstilsynet har etablkeret en særlig whistleblower-ordning for den finansielle branche.
 
@@ -3864,7 +3866,8 @@ Således kan for eksempel anklagemyndigheden vælge at indkalde whistlebloweren 
 
 ![](img/w6.jpg)
 
-## Fælles whistleblowerdirektiv på vej
+## <font color="red">Fælles whistleblowerdirektiv på vej<sup> Premium </font></sup>
+
 
 Europa-Parlamentet har vedtaget et nyt whistleblowerdirektiv i april 2019 (P9_TA-PROV(2019)0366), der forpligter endnu flere arbejdsgivere til at implementere whistleblowerordninger ‒ en endelig vedtagelse afventer Ministerrådet. 
 

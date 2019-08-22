@@ -230,7 +230,7 @@ Selvom der i så fald formelt foreligger en overdragelsessituation, kan der reel
 
 ## Flere skyldnere hæfter solidarisk
 
----
+
 
 ![](img/soli.jpg)
 
@@ -435,7 +435,7 @@ mydf %>%
 
 ---
 
-*Eksamensspørgsmål om tredjemandsmisbrug af kortholderes betalingsmiddel*
+*Eksamensopgave om tredjemandsmisbrug af kortholderes betalingsmiddel*
 
 
 <img src="img/kortmisbrug2.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
@@ -1217,7 +1217,7 @@ visNetwork(nodes, edges, width = "100%") %>%
 
 ### Efterfølgende trepartsforhold  
 	
-Begrebet efterfølgende trepartsforhold omfatter de tilfælde, hvor den oprindelige kreditgivers rettigheder i henhold til kreditaftalen tiltransporteres en tredjemand. 
+Begrebet *efterfølgende trepartsforhold* omfatter de tilfælde, hvor den oprindelige kreditgivers rettigheder i henhold til kreditaftalen tiltransporteres en tredjemand. 
 
 Begrebet er en kreditaftaleretlig term, der dækker over begreber som factoring, kontraktbelåning, kontraktsdiscontering o.lign. 
 
@@ -1413,7 +1413,9 @@ edges <- data.frame(from = c(1,2,1,2,3), to = c(2,3,3,1,2),
 
 Den korte forklaring: Factoring er typisk overdragelse af alle virksomhedens krav til et finansieringsselskab.
 
-Den lange forklaring: Factoring, er en aftale, der går ud på, at en virksomhed mod betaling overlader sine kortfristede fordringer til en anden, som derefter inddriver fordringerne. 
+*Den lange forklaring:* 
+
+*Factoring*, er en aftale, der går ud på, at en virksomhed mod betaling overlader sine kortfristede fordringer til en anden, som derefter inddriver fordringerne. 
 
 Aftalen kan enten gå ud på, at factoringselskabet yder virksomheden et lån med sikkerhed i de nævnte tilgodehavender, såkaldt fakturabelåning, eller at factoringselskabet køber virksomhedens debitorportefølje og betaler et beløb til fuld og endelig afgørelse.
 
@@ -1581,7 +1583,7 @@ Når skyldneren har betalt til erhververen, består der ikke længere nogen ford
 
 Opdager skyldneren eksempelvis efter betaling, at skyldneren kan gøre misligholdelsesbeføjelser gældende i anledning af kontraktsforholdet med overdrageren, kan sådanne misligholdelsesbeføjelser ikke som et pengekrav rettes mod erhververen efter GBL § 27.
 
-Med hensyn til skyldnerens indsigelser: 
+*Med hensyn til skyldnerens indsigelser:* 
 
 Hvis en fordring ikke er blevet gyldig over for den oprindelige kreditor - eller fordringen efter stiftelsen er ændret eller bragt til ophør - bevarer skyldneren indsigelsen herom over for en senere erhverver, selvom denne er i god tro. 
 
@@ -1882,11 +1884,11 @@ Gældsbrevsdebitor bliver ved betaling til udlægshaver frigjort under samme bet
 
 Svage indsigelser går tabt for skyldner, når gældsbrevet er overdraget, jf. GBL § 15 hvis:
 
-+ Overdragelsen til erhverver er sket ved gyldig aftale
++ Overdragelsen til erhverver er sket ved gyldig aftale.
   
-+	Erhverver er i god tro om indsigelsen
++	Erhverver er i god tro om indsigelsen.
   
-+	Den gode tro er tilstede på det tidspunkt gældsbrevet bliver overdraget fysisk
++	Den gode tro er tilstede på det tidspunkt gældsbrevet bliver overdraget fysisk.
   
 * Skyldner bevarer stærke indsigelser også overfor en erhverver i god tro, jf. GBL § 17:
 
@@ -1956,15 +1958,15 @@ edges <- data.frame(from = c(1,2,2,1,1), to = c(2,3,4,3,4),
 ### Konflikt mellem senere erhververe
 
 
-Kædeoverdragelse, jf. GBL § 14: 
+Kædeoverdragelse, jf. nærmere GBL § 14: 
 
 En aftaleerhverver (ikke retsforfølgende kreditor) kan fortrænge en tidligere indsigelse, hvis aftaleerhverver:
 
-+	Er i god tro om indsigelsen
++	Er i god tro om indsigelsen.
 
-+	Har fået gældsbrevet udleveret
++	Har fået gældsbrevet udleveret.
 
-+	Har en berettiget forventning om at overdragelsen er gyldig
++	Har en berettiget forventning om at overdragelsen er gyldig.
   
 ---
 
@@ -2205,24 +2207,26 @@ Medmindre de efter deres indhold er gjort negotiable, jf. tinglysningslovens §�
 
 ### Betalingslegitimation
 
-*  Som simple gældsbreve, jf. GBL § 26, stk. 2
+*  Som simple gældsbreve, jf. GBL § 26, stk. 2.
 
 *  Betaling til overdrager jf. GBL § 29, så længe skyldner er i god tro.
 
-Skyldneren frigøres uanset overdragelsen af det simple gældsbrev eller den simple fordring ved betaling til overdrageren. Det gælder dog ikke, hvis skyldneren vidste, at overdrageren ikke længere havde ret til at modtage betalingen, eller hvis skyldneren ikke har udvist den agtpågivenhed, som forholdene krævede, jf. GBL § 29
+Skyldneren frigøres uanset overdragelsen af det simple gældsbrev eller den simple fordring ved betaling til overdrageren. 
 
-Når erhverver har foretaget sin sikringsakt (tinglysning), kan skyldner betale med frigørende virkning til den nu tinglyste erhverver, således at gælden nedskrives eller forsvinder
+Det gælder dog ikke, hvis skyldneren vidste, at overdrageren ikke længere havde ret til at modtage betalingen, eller hvis skyldneren ikke har udvist den agtpågivenhed, som forholdene krævede, jf. GBL § 29.
 
-Gælder både i forhold til ordinære og ekstraordinære afdrag på gælden
+Når erhverver har foretaget sin sikringsakt (tinglysning), kan skyldner betale med frigørende virkning til den nu tinglyste erhverver, således at gælden nedskrives eller forsvinder.
+
+Gælder både i forhold til ordinære og ekstraordinære afdrag på gælden.
 
 
 ---
  
 ### Skyldners indsigelser
 
-*  Som simple gældsbreve, jf. GBL § 26, stk. 2
-*  Erhverver kan ikke få bedre ret end overdrager
-*  Skyldner kan gøre samme indsigelser gældende overfor erhverver, som han eller hun kunne gøre gældende over for kreditor, jf. GBL § 27  
+*  Som simple gældsbreve, jf. GBL § 26, stk. 2.
+*  Erhverver kan ikke få bedre ret end overdrager.
+*  Skyldner kan gøre samme indsigelser gældende overfor erhverver, som han eller hun kunne gøre gældende over for kreditor, jf. GBL § 27.  
 
 
 ---
@@ -2231,8 +2235,8 @@ Gælder både i forhold til ordinære og ekstraordinære afdrag på gælden
 
 Kædeoverdragelse (se figur \@ref(fig:fordring15))
 
-+	Som et simpelt gældsbrev, jf. GBL § 26, stk. 2
-+	Erhverver ikke bedre ret end overdrager, jf. GBL § 27
++	Som et simpelt gældsbrev, jf. GBL § 26, stk. 2.
++	Erhverver ikke bedre ret end overdrager, jf. GBL § 27.
 
 
 ---
@@ -2313,7 +2317,7 @@ En aftaleerhverver skal være i god tro på tinglysningstidspunktet, jf. TL § 5
 
 Se tinglysningsloven, hvor der står:  
 
-Et tinglyst pantebrev, bortset fra et skadesløsbrev, der giver pant i fast ejendom, er negotiabelt, medmindre der i pantebrevet er indføjet ordene *»ikke til ordre«* eller tilsvarende forbehold, jf. TL § 27, stk. 2
+Et tinglyst pantebrev, bortset fra et skadesløsbrev, der giver pant i fast ejendom, er negotiabelt, medmindre der i pantebrevet er indføjet ordene *»ikke til ordre«* eller tilsvarende forbehold, jf. TL § 27, stk. 2.
 
 Et tinglyst pantebrev, herunder et ejerpantebrev, der giver pant i motorkøretøjer er ikke negotiabelt, medmindre dette klart fremgår af pantebrevet, jf. TL § 42 c. Skadesløsbreve er ikke negotiable pantebreve, jf. TL § 42g, stk. 3, 2. og 3. pkt.  
 
@@ -2384,9 +2388,9 @@ Betaling til den tinglyste kreditor, TL § 29, stk. 1
 Skyldner kan betale ordinære afdrag til overdrager, jf. TL § 29, stk. 2, hvis:
 
 +	Skyldner er i god tro om overdragelse til erhverver og
-+	Afdrag og evt. renter er forfaldne til betaling
++	Afdrag og evt. renter er forfaldne til betaling.
   
-Ved betaling af hele gælden kan skyldner krævet, at pantet skal aflyses, TL § 29a
+Ved betaling af hele gælden kan skyldner krævet, at pantet skal aflyses, TL § 29a.
 
 Skyldner kan kræve at pantebrevet bliver nedlyst ved betaling af ekstraordinære afdrag, TL § 29b, stk. 1.
 
@@ -2397,20 +2401,20 @@ Skyldner kan kræve at pantebrevet bliver nedlyst ved betaling af ekstraordinær
 Som ved omsætningsgældsbreve, jf. TL § 27a
 Svage indsigelser går tabt for skyldner, når gældsbrevet er overdraget, jf. nærmere GBL § 15 hvis:
 
-+	Overdragelsen er blevet tinglyst
++	Overdragelsen er blevet tinglyst.
 
-+	Erhverver er i god tro om indsigelsen
-+	Den gode tro er tilstede på det tidspunktet hvor erhverver får tinglyst sin ret, jf. nærmere TL § 5
++	Erhverver er i god tro om indsigelsen.
++	Den gode tro er tilstede på det tidspunktet hvor erhverver får tinglyst sin ret, jf. nærmere TL § 5.
 
-+	Overdragelsen til erhverver er fra den person, der havde ret til at disponere ifølge tingbogen
++	Overdragelsen til erhverver er fra den person, der havde ret til at disponere ifølge tingbogen.
 
-Skyldner bevarer stærke indsigelser også over for en erhverver i god tro, jf. TL § 27a, stk. 2 og GBL § 17
+Skyldner bevarer stærke indsigelser også over for en erhverver i god tro, jf. TL § 27a, stk. 2 og GBL § 17.
 
 ---
  
 ### Konflikt mellem senere erhververe
 
-*  Som ved omsætningsgældsbrev, jf. TL § 27b
+*  Som ved omsætningsgældsbrev, jf. TL § 27b.
 *  Kædeoverdragelse (se figur \@ref(fig:fordring17))
 
 ---
@@ -2446,15 +2450,15 @@ edges <- data.frame(from = c(1,2,3), to = c(2,3,4),
 
 En aftaleerhverver (ikke kreditor) kan fortrænge en tidligere indsigelse hvis:
 
-*	Aftaleerhverver er i god tro om indsigelsen
+*	Aftaleerhverver er i god tro om indsigelsen.
 
-*	Aftaleerhverver har tinglyst sin ret til pantebrevet
+*	Aftaleerhverver har tinglyst sin ret til pantebrevet.
 
 *	Overdrager havde tinglyst ret til pantebrevet
 
-*  Dobbeltoverdragelse
+*  Dobbeltoverdragelse.
 
-  +	Som ovenfor beskrevet ved simple pantebreve
+  +	Som ovenfor beskrevet ved simple pantebreve.
 
 
 

@@ -9,9 +9,9 @@ cat(readLines('np.html'))
 ## Parter og de forskellige rettighedskonflikter
 
 
-**Tingsretlige begreber**
+*Tingsretlige begreber*
 
-**Aftaleerhverver** har indgået en aftale om overdragelse af aktivet fx salg eller pantsætning, se fx gældsbrevslovens kap. 2 om fortabelse af indsigelser og rettigheder til fordel for en godtroende omsætningserhverver. 
+*Aftaleerhverver* har indgået en aftale om overdragelse af aktivet fx salg eller pantsætning, se fx gældsbrevslovens kap. 2 om fortabelse af indsigelser og rettigheder til fordel for en godtroende omsætningserhverver. 
 
 Hvis man i god tro køber et negotiabelt dokument eller får pant i det og får dokumentet i sin besiddelse, kan man fx gøre gældskravet gældende, selvom overdrageren havde stjålet dokumentet, eller skyldneren havde betalt før tiden. 
 
@@ -21,19 +21,17 @@ Også en køber på tvangsauktion må anses som aftaleerhverver.
 
 ---
 
-
-
-**Retsforfølgende kreditor** tvinger sit krav igennem uden aftale fx ved et udlæg.
+*Retsforfølgende kreditor* tvinger sit krav igennem uden aftale fx ved et udlæg.
 
 Den aftale eller retsforfølgning, der skal kunne fortrænge en utinglyst ret, skal selv være tinglyst, og aftaleerhververen skal være i god tro, hvorimod en retsforfølgende kreditor ikke behøver at være i god tro.
 
 ---
 
-**Arv** – her er en arving hverken at betragte som en aftaleerhverver eller som en retsforfølgende kreditor.
+*Arv* – her er en arving hverken at betragte som en aftaleerhverver eller som en retsforfølgende kreditor.
 
 ---
 
-**Lovbestemt pant** er fx SKATs førsteprioritet til ejendomsskat, som ikke skal tinglyses, jf. TL § 4: 
+*Lovbestemt pant* er fx SKATs førsteprioritet til ejendomsskat, som ikke skal tinglyses, jf. TL § 4: 
 
 ”De på fast ejendom hvilende skatter og afgifter til stat og kommune samt forsikringsbidrag til de af staten anerkendte brandforsikringsselskaber har gyldighed mod enhver uden tinglysning”. 
 
@@ -43,7 +41,7 @@ Afgifter til andre offentlige myndigheder end stat og kommune er ikke omfattet a
 
 ---
 
-**Video: Forstå tinglysning på 45 sekunder**
+*Video: Forstå tinglysning på 45 sekunder*
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/6Spl32wXXco" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -76,13 +74,13 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 
 
 
-**Dobbeltoverdragelse** – når samme rettighedshaver disponerer over samme ret mere end én gang, dvs., at overdrageren uberettiget har overdraget rettigheden aktivet til flere erhververe.
+*Dobbeltoverdragelse* – når samme rettighedshaver disponerer over samme ret mere end én gang, dvs., at overdrageren uberettiget har overdraget rettigheden aktivet til flere erhververe.
 
 ---
 
 
 
-**Kædeoverdragelse** – når rettigheden over aktivet først overdrages fra A til B, hvorefter B overdrager dette aktiv videre til C
+*Kædeoverdragelse* – når rettigheden over aktivet først overdrages fra A til B, hvorefter B overdrager dette aktiv videre til C
 
 
  
@@ -90,7 +88,7 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 
 ## Hvem der har ret til det pågældende aktiv i tilfælde af en rettighedskonflikt?
 
-**Følgende skal afklares, før rettighedskonflikten kan finde sin juridiske løsning:**
+*Følgende skal afklares, før rettighedskonflikten kan finde sin juridiske løsning:*
 
 * Aktivtypen
 
@@ -134,9 +132,9 @@ Hvis en rettighedshaver (A) disponerer mere end en gang over den samme rettighed
 
 ---
 
-*	**HR:** Først i tid bedst i ret – B fik en rettighed over aktivet før C gjorde, og derfor har B som udgangspunkt en bedre ret
+*	*HR:* Først i tid bedst i ret – B fik en rettighed over aktivet før C gjorde, og derfor har B som udgangspunkt en bedre ret
 
-**U:** C kan fortrænge B’s ret, hvis:
+*U:* C kan fortrænge B’s ret, hvis:
   
 B ikke har foretaget den nødvendige sikringsakt
 
@@ -146,7 +144,7 @@ Er C aftaleerhverver, skal C være i god tro om B’s ret på det tidspunkt han 
 
 ---
 
-**Eksempel:** I tilfælde af at en fordring bliver overdraget flere gange, er den erhverver, der først meddeler fordringsskyldneren om overdragelsen af fordringen, sikret retten til fordringen. 
+*Eksempel:* I tilfælde af at en fordring bliver overdraget flere gange, er den erhverver, der først meddeler fordringsskyldneren om overdragelsen af fordringen, sikret retten til fordringen. 
 
 Det er under forudsætning af, at han var i god tro om, at der ikke var andre rettighedshavere ved underretningen til fordringsskyldneren, jf. GBL § 31, stk. 2. 
 
@@ -160,9 +158,9 @@ De indsigelser, skyldneren havde mod overdrageren, kan han også gøre gældende
 
 Det gælder også, når der er foretaget udlæg i fordringen, jf. GBL § 27. 
 
-Man taler også om **”dobbeltsuccession”**, når to eller flere erhververe afleder modstridende rettigheder fra samme person. 
+Man taler også om *”dobbeltsuccession”*, når to eller flere erhververe afleder modstridende rettigheder fra samme person. 
 
-I forholdet mellem fx en køber og en sælger giver dobbeltsalgssituationen anledning til et krav om erstatning for **vanhjemmel** (af oldn. vanr 'manglende' og heimild 'berettigelse', egl. 'som hører til ens hjem, retmæssig ejendom'), dvs. sælgers manglende ret til at råde over salgsgenstanden. 
+I forholdet mellem fx en køber og en sælger giver dobbeltsalgssituationen anledning til et krav om erstatning for *vanhjemmel* (af oldn. vanr 'manglende' og heimild 'berettigelse', egl. 'som hører til ens hjem, retmæssig ejendom'), dvs. sælgers manglende ret til at råde over salgsgenstanden. 
 
 
 ![](img/retf.jpg)
@@ -170,7 +168,7 @@ I forholdet mellem fx en køber og en sælger giver dobbeltsalgssituationen anle
 ---
 
 
-**Nogle aktivtyper behandles efter særlige juridiske regler**:
+*Nogle aktivtyper behandles efter særlige juridiske regler*:
 
 
 ---
@@ -181,11 +179,12 @@ Rettighedskonflikten mellem B og C skal løses efter lovbestemmelsen i TL § 1, 
 
 ”Den aftale eller retsforfølgning, der skal kunne fortrænge en utinglyst ret, skal selv være tinglyst og erhververen ifølge aftalen være i god tro”.  
 
-**HR:** Først i tid bedst i ret – B har indgået aftalen med A først og har derfor først fået rettigheden over ejendommen
+*HR:* Først i tid bedst i ret – B har indgået aftalen med A først og har derfor først fået rettigheden over ejendommen
 
-**U:** C kan fortrænge B's rettighed hvis:  
+*U:* C kan fortrænge B's rettighed hvis:  
   
-B ikke har fået tinglyst sin rettighed  
+B ikke har fået tinglyst sin rettighed
+
 C har fået tinglyst sin rettighed.
 
 ---
@@ -196,7 +195,7 @@ Hvis C er aftaleerhverver skal C være i god tro om B’s rettighed på tidspunk
 
 ---
 
-Det særlige godtroskrav gælder således ved ekstinktion (udslettelse) af rettigheder over både fast ejendom, ejerpantebreve, tinglyste negotiable pantebreve, motorkøretøjer, andele i andelsboligforeninger, virksomhedspant, fordringspant og løsøre^[Afsnittet bygger bl.a. på **Peter Mortensen** Karnovkommentar til tinglysningsloven med yderligere litteraturhenvisninger.].  
+Det særlige godtroskrav gælder således ved ekstinktion (udslettelse) af rettigheder over både fast ejendom, ejerpantebreve, tinglyste negotiable pantebreve, motorkøretøjer, andele i andelsboligforeninger, virksomhedspant, fordringspant og løsøre^[Afsnittet bygger bl.a. på *Peter Mortensen* Karnovkommentar til tinglysningsloven med yderligere litteraturhenvisninger.].  
 
 ---
 
@@ -208,18 +207,18 @@ Omvendt kan *god tro* styrkes gennem tingbogens oplysninger.
 
 Det er næppe groft uagtsomt ikke at efterse matrikelkort eller andet kortmateriale:
 
-**U 1965 542/2 Ø**. Er der faktisk vist kortmateriale, der kan indicere eksistensen af f.eks. en vejret, er det groft uagtsomt ikke at foretage nærmere undersøgelse.  
+**U 1965.542/2 Ø**. Er der faktisk vist kortmateriale, der kan indicere eksistensen af f.eks. en vejret, er det groft uagtsomt ikke at foretage nærmere undersøgelse.  
 
 
 ![](img/hjul.jpg)
 
-**U 1948 130 H** (hjulspor tillige set i marken).
+**U 1948.130 H** (hjulspor tillige set i marken).
 
 ---
 
 Konflikten mellem indehaveren af en utinglyst ret og en erhverver af ejendommen vil undertiden kunne ses ikke som et spørgsmål om erhververens gode eller onde tro, men som et spørgsmål om, hvorvidt erhververen overhovedet har fået tilsagt en ret, der strider mod den utinglyste ret:
 
-**U 1991 27 H** (137 m² af en byejendom på 674 m² var uden matrikulering blevet fraskilt ved hegn. En senere erhverver af ejendommen fandtes alene at have erhvervet ret til det besigtigede areal, ikke til hele det matrikulerede areal).
+**U 1991.27 H** (137 m² af en byejendom på 674 m² var uden matrikulering blevet fraskilt ved hegn. En senere erhverver af ejendommen fandtes alene at have erhvervet ret til det besigtigede areal, ikke til hele det matrikulerede areal).
 
 ---
 
@@ -286,7 +285,7 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 ```
 
 
-**C kan fortrænge B’s rettighed over bilen:**
+*C kan fortrænge B’s rettighed over bilen:*
   
 * Som køber, hvis C får udleveret bilen først i god tro 
  
@@ -299,7 +298,7 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 Se dom om forbrugers tab på godt 145.000 kr. ved bilforhandlers 
 dobbeltsalg skulle dækkes:  
  
-Østre Landsret har den 13. juni 2012 afsagt dom i en ankesag mellem køberen af en bil og bilforhandleren. Bilkøberen havde ved slutseddel af 29. september 2009 hos forhandleren købt en bestemt fabriksny bil for 297.289 kr. til levering den 5. oktober 2009. Bilen havde forinden været markedsført som et "skarpt lagertilbud", hvor det var angivet, at bilen var nedsat fra en tidligere gældende listepris på 442.900 kr. til 297.289 kr., således at man sparede 145.611 kr. Et par dage efter slutsedlens underskrift meddelte forhandleren køberen, at bilen forud for slutsedlens underskrift var solgt, således at handlen ikke kunne gennemføres. Baggrunden herfor var, at bilen via bilimportøren var solgt til Sverige. Forhandleren kunne ikke skaffe en tilsvarende bil af samme fabrikat.
+**Østre Landsret har den 13. juni 2012** afsagt dom i en ankesag mellem køberen af en bil og bilforhandleren. Bilkøberen havde ved slutseddel af 29. september 2009 hos forhandleren købt en bestemt fabriksny bil for 297.289 kr. til levering den 5. oktober 2009. Bilen havde forinden været markedsført som et "skarpt lagertilbud", hvor det var angivet, at bilen var nedsat fra en tidligere gældende listepris på 442.900 kr. til 297.289 kr., således at man sparede 145.611 kr. Et par dage efter slutsedlens underskrift meddelte forhandleren køberen, at bilen forud for slutsedlens underskrift var solgt, således at handlen ikke kunne gennemføres. Baggrunden herfor var, at bilen via bilimportøren var solgt til Sverige. Forhandleren kunne ikke skaffe en tilsvarende bil af samme fabrikat.
 Køberen anlagde sag mod bilforhandleren med påstand om, at forhandleren skulle betale erstatning med 145.611 kr. Byretten tog køberens påstand til følge. Bilforhandleren ankede dommen og anførte, at bilen ikke var mere værd end den aftalte pris, som var markedsprisen. Køberen havde som følge heraf ikke lidt et tab.
 Østre Landsret stadfæstede byrettens dom, idet landsretten blandt andet henviste til, at bilen var udbudt som et "skarpt lagertilbud" med en prisnedsættelse på 145.611 kr., og at der på tidspunktet, hvor bilkøberen skulle foretage køb af en anden bil af tilsvarende type som følge af forhandlerens dobbeltsalg, ikke var mulighed for at købe med en tilsvarende prisreduktion. Landsretten fandt, at køberens tab kunne opgøres til prisreduktionen, således at forhandleren skulle betale 145.611 kr. til køberen.
 Sagen blev behandlet i Østre Landsrets 4. afdeling under j.nr. B-1947-11.
@@ -347,9 +346,9 @@ Provenuet fra dette salg tilfalder pant- og udlægshavere i prioritetsrækkeføl
  
 #### Løsøre
 
-**HR:** Først i tid bedst i ret
+*HR:* Først i tid bedst i ret
 
-**U:** Pant skal tinglyses for at være beskyttet mod senere rettigheder, jf. TL § 47. § 47 gælder ikke for underpant i biler mv., som er reguleret i TL kap. 6 a.
+*U:* Pant skal tinglyses for at være beskyttet mod senere rettigheder, jf. TL § 47. § 47 gælder ikke for underpant i biler mv., som er reguleret i TL kap. 6 a.
   
 Udlæg i løsøre er beskyttet uden tinglysning. Dvs. også løsøre kan være genstand for udlæg i fogedretten. 
   
@@ -428,7 +427,7 @@ Om den tingsretlige regulering af dobbeltoverdragelser mv., af fondsaktivet (bø
 
 Denne forpligtelse for det kontoførende institutter skal medvirke til at sikre, at retsvirkningen af en anmeldelse indtræder hurtigst muligt.  
 
-Sikringsakten ved overdragelse af fondsaktiver til eje såvel som til sikkerhed og ved kreditorforfølgning er således registrering i en CSD^[Afsnittet bygger på **Lars Hedegaard Kristensen** og **Henrik Kure** Karnovkommentar til kapitalmarkedslovens § 184.].  
+Sikringsakten ved overdragelse af fondsaktiver til eje såvel som til sikkerhed og ved kreditorforfølgning er således registrering i en CSD^[Afsnittet bygger på *Lars Hedegaard Kristensen* og *Henrik Kure* Karnovkommentar til kapitalmarkedslovens § 184.].  
 
 Kapitalmarkedslovens § 184, stk. 1 svarer til TL § 1, stk. 1. 
 
@@ -468,12 +467,14 @@ Oversigtsresume af reguleringen af dobbeltoverdragelser af fondsaktiver:
 
 Konflikten mellem B og C skal således løses efter kapitalmarkedslovens § 184:
 
-**HR:** Først i tid bedst i ret – B har indgået aftalen med A først eller har først fået foretaget udlæg og har derfor først fået rettigheden over fondsaktivet
+*HR:* Først i tid bedst i ret – B har indgået aftalen med A først eller har først fået foretaget udlæg og har derfor først fået rettigheden over fondsaktivet
 
-*U**: C kan fortrænge B’s ret hvis:
+*U*: C kan fortrænge B’s ret hvis:
   
 + B ikke har registreret sin ret i CSD (Central securities depository)
+
 + C har registreret sin ret i CSD
+
 + Hvis C er aftaleerhverver skal C være i god tro om B’s ret på tidspunktet for registrering i CSD.
 
 
@@ -489,14 +490,18 @@ Konflikten mellem B og C skal således løses efter kapitalmarkedslovens § 184:
 
 --- 
 
-**HR:** Kan A gøre indsigelsen gældende overfor B, kan samme indsigelse gøres gældende overfor C
+*HR:* Kan A gøre indsigelsen gældende overfor B, kan samme indsigelse gøres gældende overfor C
 
-+	**U**: C kan fortrænge A's ret, hvis:
++	*U*: C kan fortrænge A's ret, hvis:
 
 +	C er aftaleerhverver
+
 +	A har ikke foretaget sikringsakt fx tinglyst indsigelsen
+
 +	C er i god tro om indsigelsen
+
 +	C har selv foretaget sikringsakt
+
 +	A's indsigelse er ikke en stærk ugyldighedsgrund
 
 *	Nogle aktivtyper behandles efter særlige regler
@@ -505,7 +510,7 @@ Konflikten mellem B og C skal således løses efter kapitalmarkedslovens § 184:
  
 #### Kædeoverdragelser ved fast ejendom
 
-* Rettighedskonflikten mellem A og C løses efter lovbestemmelsen i TL § 27, stk. 1. C kan fortrænge A's ret over den faste ejendom, hvis: 
+Rettighedskonflikten mellem A og C løses efter lovbestemmelsen i TL § 27, stk. 1. C kan fortrænge A's ret over den faste ejendom, hvis: 
 
 * Aftalen mellem A og B er tinglyst
 
@@ -525,19 +530,19 @@ Denne bestemmelse giver en godtroende erhverver ret til erstatning af statskasse
  
 #### Kædeoverdragelse af en bil
 
-**HR:** Rettighedskonflikten mellem A og C over bilen løses som udgangspunkt til A's fordel. A's indsigelse mod B kan også gøres gældende over for C
+*HR:* Rettighedskonflikten mellem A og C over bilen løses som udgangspunkt til A's fordel. A's indsigelse mod B kan også gøres gældende over for C
 
-+ **U1**: Hvis A har været uforsigtig eller meget passiv over for B, kan C fortrænge A's ret over bilen
+*U1*: Hvis A har været uforsigtig eller meget passiv over for B, kan C fortrænge A's ret over bilen
 
-+ **U2:** Hvis A har gyldigt ejendomsforbehold i bilen, jf. kreditaftalelovens § 34, stk. 1, men ikke tinglyst det, vil C fortrænge A's ejendomsforbehold over bilen.
+*U2:* Hvis A har gyldigt ejendomsforbehold i bilen, jf. kreditaftalelovens § 34, stk. 1, men ikke tinglyst det, vil C fortrænge A's ejendomsforbehold over bilen.
 
 ...
  
 #### Kædeoverdragelse af løsøre
 
-**HR:** Rettighedskonflikten over et løsøre mellem A og C løses som udgangspunkt til A's fordel. A's indsigelse mod B kan også gøres gældende over for C
+*HR:* Rettighedskonflikten over et løsøre mellem A og C løses som udgangspunkt til A's fordel. A's indsigelse mod B kan også gøres gældende over for C
 
-+ **U1**: Hvis A har været uforsigtig eller meget passiv over for B, kan C fortrænge A's ret over løsøret.    
+**U1**: Hvis A har været uforsigtig eller meget passiv over for B, kan C fortrænge A's ret over løsøret.    
 
 Et gyldigt ejendomsforbehold i et løsøre, jf. kreditaftalelovens § 34, stk. 1 skal som udgangspunkt respekteres af senere rettighedshavere – selvom det ikke er tinglyst.
 
@@ -550,7 +555,7 @@ Et gyldigt ejendomsforbehold i et løsøre, jf. kreditaftalelovens § 34, stk. 1
 
 Kædeoverdragelser er reguleret af kapitalmarkedslovens § 186:
 
-”Når registreringen af en aftale om rettigheder over fondsaktiver er endeligt gennemført i en værdipapircentral (CSD), kan en godtroende erhverver ifølge registreret aftale ikke mødes med nogen indsigelse mod gyldigheden af aftalen. Den indsigelse, at et dokument er falsk eller forfalsket, at dets udstedelse retsstridigt er fremkaldt ved personlig vold eller ved trussel om øjeblikkelig anvendelse af sådan, eller at udstederen var umyndig ved udstedelsen, bevares over for en godtroende erhverver ifølge registreret aftale”. *^[Afsnittet bygger på **Lars Hedegaard Kristensen** og **Henrik Kure** Karnovkommentar til kapitalmarkedslovens § 186.]
+”Når registreringen af en aftale om rettigheder over fondsaktiver er endeligt gennemført i en værdipapircentral (CSD), kan en godtroende erhverver ifølge registreret aftale ikke mødes med nogen indsigelse mod gyldigheden af aftalen. Den indsigelse, at et dokument er falsk eller forfalsket, at dets udstedelse retsstridigt er fremkaldt ved personlig vold eller ved trussel om øjeblikkelig anvendelse af sådan, eller at udstederen var umyndig ved udstedelsen, bevares over for en godtroende erhverver ifølge registreret aftale”.^[Afsnittet bygger på *Lars Hedegaard Kristense* og *Henrik Kure* Karnovkommentar til kapitalmarkedslovens § 186.]
 
 Bestemmelsen i kapitalmarkedslovens § 186 er inspireret af TL § 27. 
 
@@ -578,17 +583,21 @@ Der gælder ikke som efter den tidligere værdipapircentrallov nogen regel om ob
 
 ---
  
-**Oversigt**:  
+*Oversigt*:  
 
 * Rettighedskonflikten mellem A og C løses således efter kapitalmarkedslovens § 186.
 
 C kan fortrænge A's ret over fondsaktivet, hvis:
 
 * Aftalen mellem A og B over fondsaktivet er registreret i CSD
+
 * C er aftaleerhverver
+
 * C har registreret sin ret over fondsaktivet i CSD
+
 * C er i god tro om A's ret på tidspunktet for registrering i CSD
-* A's indsigelse ikke er en stærk indsigelse (falsk, umyndig, voldelig tvang)
+
+* A's indsigelse ikke er en stærk indsigelse (falsk, umyndig, voldelig tvang).
 
 ---
 

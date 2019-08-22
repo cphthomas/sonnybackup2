@@ -162,23 +162,31 @@ Bestilling af udskrifter ved Tinglysningsretten koster Dkk 175 pr. stk. Se nærm
 <img border="0" alt="https://www.tinglysningsretten.dk/attester/Pages/Fast%20ejendom.aspx" src="img/tinglysning3.png" width="100%">
 </a>
 
-***Tinglysningsafgifter***:
+---
+
+*Tinglysningsafgifter*:
 
 Reglerne om tinglysningsafgifter fremgår af tinglysningsafgiftsloven.
 
 SKAT har desuden lavet en omfattende tinglysningsafgiftsvejledning, som kan findes på deres hjemmeside. 
 
-**Aflysninger:**
+---
+
+*Aflysninger:*
 
 Det koster ikke noget at aflyse et dokument.
 
 Endelig indførsel af betingede dokumenter, fristforlængelser, navne- og adresseændringer, udslettelse af udækket pant efter tvangsauktion og alle registreringer vedrørende retspant er alle uden afgift.
 
-**Ejendomsforbehold**:
+---
+
+*Ejendomsforbehold*:
 
 1,5 % af det beløb, som ejendomsforbeholdet sikrer (oprundet til nærmeste 100) + Dkk 1.660.
 
-**Pantebreve**:
+---
+
+*Pantebreve*:
 
 1,5 % af pantsikret beløb (oprundet til nærmeste hundrede) + Dkk 1.660.
 
@@ -186,11 +194,15 @@ Forhøjelser koster 1,5 % af forskelsbeløbet (oprundet til nærmeste hundrede) 
 
 Dokumenttypen Anden Hæftelse koster 1,5 % af det pantsikrede beløb pr. enhed + 1 x Dkk 1.660.
 
-**Servitutter og byrder:**
+---
+
+*Servitutter og byrder:*
 
 Dkk 1.660.
 
-**Skifteretsattest**:
+---
+
+*Skifteretsattest*:
 
 Koster ikke noget, hvis tinglysningen sker som led i en videreoverdragelse til en ikke-arving.                                                            
 
@@ -200,15 +212,21 @@ Skifteretsattest lyst som adkomst for arving(er) koster 0,6 % (oprundet til nær
 
 Skifteretsattest lyst som adkomst for boet koster Dkk 1.660.
 
-**Skøder**:
+---
+
+*Skøder*:
 
 <a href="https://www.tinglysningsretten.dk/hvad/afgifter/Documents/Oplysninger%20om%20handelens%20parter%20og%20afgift%20p%C3%A5%20handler.pdf" target="_blank">Find oversigt over oplysninger om handelens parter og afgift på handler her:  </a>
 
-**Udlæg og noteringer:**
+---
+
+*Udlæg og noteringer:*
 
 Koster ikke noget at få tinglyst.
 
-**Ægtepagter:**
+---
+
+*Ægtepagter:*
 
 Dkk 1.660.
 
@@ -254,13 +272,13 @@ Hvis fuldmægtigen skal have ret til at videregive fuldmagten til underskrift v/
 
 ---
 
-**Skiftefuldmagter**:  
+*Skiftefuldmagter*:  
 
 For skiftefuldmagter gælder helt særlige vilkår.  <a href="https://www.tinglysningsretten.dk/tinglysning/nyvejledninger/Documents/Tingbogen/Skiftefuldmagter%20og%20tinglysningsfuldmagter.pdf" target="_blank">Læs mere her i vejledningen ”Skiftefuldmagter og tinglysningsfuldmagter”</a>
 
 ---
 
-**Vitterlighedsvidner**:
+*Vitterlighedsvidner*:
 
 Ved salg og pantsætning skal alle fuldmagter bekræftes af to vitterlighedsvidner. 
 
@@ -284,7 +302,7 @@ Kravet om vitterlighedsvidner gælder aldrig for offentlige myndigheder.
 
 ---
 
-**Andre vejledninger til fuldmagter:**  
+*Andre vejledninger til fuldmagter:*  
 
 <a href="https://www.tinglysningsretten.dk/tinglysning/nyvejledninger/Documents/Tingbogen/Fuldmagt%20(digital)%20til%20brug%20for%20tinglysning.pdf" target="_blank">Digital fuldmagt til Tingbogen klik her</a>  
 
@@ -315,7 +333,7 @@ I Andelsboligbogen kan kreditorer registrere deres rettigheder (pant, udlæg mv.
 
 ---
 
-**Hvordan får man en rettighed tinglyst i Andelsboligbogen:**
+*Hvordan får man en rettighed tinglyst i Andelsboligbogen:*
 
 Anmeldelser til Andelsboligbogen foregår digitalt på www.tinglysning.dk
 
@@ -325,13 +343,13 @@ Hvis man er i tvivl om, hvordan man får en rettighed tinglyst, bør man søge p
 
 ---
 
-**Forespørgsler i Andelsboligbogen**:
+*Forespørgsler i Andelsboligbogen*:
 
 Forespørgsler i Andelsboligbogen skal ske via www.tinglysning.dk. <a href="https://www.tinglysningsretten.dk/tinglysning/nyvejledninger/Documents/Andelsboligbogen/Foresp%C3%B8rg%20Andelsboligbogen%20(andelsboligbogsattest).pdf" target="_blank">Man kan finde en vejledning i at lave opslag i Den Digitale Andelsboligbog her</a>  
 	
 ---
 
-**Hvad koster det at tinglyse i Andelsboligbogen?**
+*Hvad koster det at tinglyse i Andelsboligbogen?*
 
 Det koster som udgangspunkt 1.660 kr. at tinglyse et dokument i Andelsboligbogen. 
 
@@ -347,7 +365,7 @@ Denne kategori indeholder spørgsmål og svar, der udelukkende vedrører Andelsb
 
 ---
 
-**Spændende artikel om prisfastsættelse af andelsboliger:**
+*Spændende artikel om prisfastsættelse af andelsboliger:*
 
 *U.2019B.219: Nye regler og retspraksis om andelsboligforeninger. Af **Kristian Graven Nielsen**. I artiklen analyseres tre nye højesteretsdomme om valuarers erstatningsansvar for forkerte skøn og om opgørelsen af købers tilbagebetalingskrav mod sælger. Forinden analysen af dommene redegøres der for de nye regler i andelsboligforeningsloven, som trådte i kraft den 1. juli 2018.
 
@@ -361,7 +379,7 @@ Bilbogen er et landsdækkende centralt register, hvor kreditorer kan registrere 
 
 ---
 
-**Hvordan får man en rettighed tinglyst i Bilbogen?**
+*Hvordan får man en rettighed tinglyst i Bilbogen?*
 
 Anmeldelser til Bilbogen foregår digitalt på hjemmesiden www.tinglysning.dk.
 
@@ -371,7 +389,7 @@ Hvis man er i tvivl om, hvordan man får en rettighed tinglyst, bør man søge p
 
 ---
 
-**Oplysninger fra Bilbogen?**
+*Oplysninger fra Bilbogen?*
 
 <!-- ![](img/bil3.jpg) -->
 
@@ -381,7 +399,7 @@ Forespørgsler i Bilbogen skal ske via www.tinglysning.dk.
 
 ---
 
-**Hvad koster det at tinglyse i Bilbogen?**
+*Hvad koster det at tinglyse i Bilbogen?*
 
 Det koster som udgangspunkt en grundafgift på 1.660 kr. at tinglyse et dokument i Bilbogen. 
 
@@ -411,7 +429,7 @@ Hvilke rettigheder kan blive tinglyst i Personbogen?
 
 ---
 
-**Ægtepagter**:
+*Ægtepagter*:
 
 I et ægteskab er der som udgangspunkt fælleseje, mens almindelige pensionsordninger ikke skal deles. 
 
@@ -425,21 +443,21 @@ Afgørelser om bosondring eller om, at en ægtefælle bliver frataget retten til
 
 ---
 
-**Værgemål mv.**
+*Værgemål mv.*
 
 Afgørelse om værgemål med fratagelse af handlekraft for umyndige voksne bliver tinglyst.
 
 ---
  
-**Pant i løsøre**
+*Pant i løsøre*
 
 ---
 
-**Rettigheder over løsøre, pantebreve, ejerpantebreve eller skadesløsbreve tinglyses i Personbogen**.
+*Rettigheder over løsøre, pantebreve, ejerpantebreve eller skadesløsbreve tinglyses i Personbogen*.
 
 ---
 
-**Fritidsfartøjer** på op til 20 bruttotonnage registreres i Personbogen. 
+*Fritidsfartøjer* på op til 20 bruttotonnage registreres i Personbogen. 
 
 Fritidsfartøjer over 20 bruttotonnage og erhvervsfartøjer over 5 bruttotonnage registreres i Skibsregistret.
 
@@ -447,7 +465,7 @@ Fritidsfartøjer over 20 bruttotonnage og erhvervsfartøjer over 5 bruttotonnage
 
 ---
 
-**Virksomhedspant**
+*Virksomhedspant*
 
 Skadesløsbreve eller ejerpantebreve med pant i en virksomheds aktiver og fremtidige erhvervelser.
 
@@ -455,7 +473,7 @@ Skadesløsbreve eller ejerpantebreve med pant i en virksomheds aktiver og fremti
 
 ![](img/host.jpg)
 
-**Høstpant**, er pant i en landbrugsejendoms afgrøder, stiftet af en ejer eller bruger af ejendommen. 
+*Høstpant*, er pant i en landbrugsejendoms afgrøder, stiftet af en ejer eller bruger af ejendommen. 
 
 Høstpant tjener til sikkerhed for gæld, der er opstået i forbindelse med indkøb af såsæd, læggekartofler, frø, kunstgødning, ukrudtsmidler o.l.
 
@@ -465,7 +483,7 @@ Der sker automatisk notering på den faste ejendom, hvis den ejes af debitor.
 
 ---
 
-**Hvordan får man en rettighed tinglyst i Personbogen?**
+*Hvordan får man en rettighed tinglyst i Personbogen?*
 
 Anmeldelser til Personbogen foregår digitalt på hjemmesiden www.tinglysning.dk.
 
@@ -477,7 +495,7 @@ Forespørgsler i Personbogen skal ske via www.tinglysning.dk. <a href="https://w
 
 ---
 
-**Hvad koster det at tinglyse i Personbogen?**
+*Hvad koster det at tinglyse i Personbogen?*
 
 Det koster som udgangspunkt en grundafgift på 1.660 kr. at tinglyse et dokument i Personbogen. 
 
@@ -519,7 +537,9 @@ Visse pantedokumenter kan konverteres, uden at man foreviser pantebrevet (f.eks.
 
 I den situation kræves der en erklæring fra kreditor, fra debitor (eventuelt flere debitorer, hvis pantet er tinglyst på flere ejendomme) og fra eventuelt tinglyste implicitte fuldmagtshavere.
 
-**Erklæringen skal indeholde**:
+---
+
+*Erklæringen skal indeholde*:
 
 bekræftelse på, at pantebrevet begæres konverteret til digitalt pantebrev, og at det ikke er overdraget til anden kreditor kreditors identitet - inkl. cpr- eller cvr-nr orientering om, hvorvidt pantet var håndpantsat (og skal være underpantsat) plus cpr- eller cvr-nr. for denne eller disse rettighedshavere.
 
@@ -533,15 +553,15 @@ Anmodningen samt de relevante erklæringer skal fremsendes per brev til Tinglysn
 
 OBS!
 
-**Ejendomsret**
+*Ejendomsret*
 
 Det bliver registreret i Tingbogen, hvem der ejer en fast ejendom. Der er ikke lovkrav om tinglysning af en ejendomsret. 
 
 Men det er en god idé at få ejendomsretten tinglyst:
 
-*	da man ellers kan få sin ret fortrængt af andre rettigheder, da dokumentet kan blive væk
+Da man ellers kan få sin ret fortrængt af andre rettigheder, da dokumentet kan blive væk
 
-*	da salg, pantsætning og anden disposition over ejendommen som udgangspunkt kun kan ske, når man har tinglyst ejendomsretten.
+Da salg, pantsætning og anden disposition over ejendommen som udgangspunkt kun kan ske, når man har tinglyst ejendomsretten.
 
 Tinglysningsloven og tinglysningsbekendtgørelsen indeholder regler om, hvilke oplysninger dokumentet skal indeholde.
 
@@ -568,8 +588,6 @@ Grunden til, at myndighederne alligevel vælger at få dem tinglyst, er, at ting
 Efter digitaliseringen den 8. september 2009 bliver lokalplaner og byplanvedtægter ikke længere tinglyst. 
 
 De gældende lokalplaner og byplanvedtægter er indberettet til Plandata.dk
-
- 
 
 Plandata.dk er et landsdækkende digitalt system, der stiller planerne til rådighed over internettet klik herunder:
 

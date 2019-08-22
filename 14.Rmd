@@ -191,27 +191,27 @@ Kreditaftalen skal indgås på varigt medie og opfylde tilsvarende oplysningskra
 
 *Opfylder kreditgiver ikke oplysningspligten*:
 
-+	Skal forbrugeren evt. betale færre omkostninger
++	Skal forbrugeren evt. betale færre omkostninger.
 
-+	Løber fortrydelsesretten først fra oplysningspligten er opfyldt
++	Løber fortrydelsesretten først fra oplysningspligten er opfyldt.
 
-+	Kreditgiver kan blive pålagt en bøde
++	Kreditgiver kan blive pålagt en bøde.
 
 ---
 
-Kreditgiver skal vurdere forbrugerens kreditværdighed før kreditaftalen bliver indgået
+Kreditgiver skal vurdere forbrugerens kreditværdighed før kreditaftalen bliver indgået.
 
-I forbindelse med optagelse af realkreditlån har forbrugeren krav på en 7 dages acceptfrist, jf. KAL § 7d
+I forbindelse med optagelse af realkreditlån har forbrugeren krav på en 7 dages acceptfrist, jf. KAL § 7d.
 
-Et kortfristet forbrugslån kræver at forbruger afventer mindst 48 timer med at acceptere tilbuddet, jf. KAL § 8c
+Et kortfristet forbrugslån kræver at forbruger afventer mindst 48 timer med at acceptere tilbuddet, jf. KAL § 8c.
 
 Forbrugeren har ret til at fortryde en kreditaftale, jf. KAL § 19
 
-En forbruger har altid ret til at indfri lånet før tid og dermed spare yderligere renteudgifter
+En forbruger har altid ret til at indfri lånet før tid og dermed spare yderligere renteudgifter.
 
-+	Undtaget pantebreve med pant i fast ejendom
+Undtaget pantebreve med pant i fast ejendom.
   
-Urimelige vilkår kan blive tilsidesat, jf. KAL § 22 eller aftalelovens §§ 38c, jf. 36
+Urimelige vilkår kan blive tilsidesat, jf. KAL § 22 eller efter aftalelovens §§ 38c, jf. 36.
 
 ---
 
@@ -1010,11 +1010,11 @@ Det er tvivlsomt, om den finansierende tredjemand over for forbrugeren hæfter f
 
 <img src="img/kredit12.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-*Ejendomsforbehold* er en aftale mellem køber og sælger om, at sælger kan tage varen tilbage, hvis køber ikke betaler afdrag efter kreditaftalen, jf. KAL § 34, stk. 1
+*Ejendomsforbehold* er en aftale mellem køber og sælger om, at sælger kan tage varen tilbage, hvis køber ikke betaler afdrag efter kreditaftalen, jf. KAL § 34, stk. 1.
 
-Ejendomsforbehold kan være en del af kreditaftalen, men sælger kan også vælge ikke at tage ejendomsforbehold
+Ejendomsforbehold kan være en del af kreditaftalen, men sælger kan også vælge ikke at tage ejendomsforbehold.
 
-I aftaler om kreditkøb er det udelukkende muligt at bruge ejendomsforbehold, der kan ikke tages underpant i varen
+I aftaler om kreditkøb er det udelukkende muligt at bruge ejendomsforbehold, der kan ikke tages underpant i varen.
 
 
 ```{r , echo=FALSE, result=TRUE,fig.height=4,fig.cap=("Konflikten mellem Amalies ret efter ejendomsforbeholdet og Cecilies ret til den købte vare.")}
@@ -1073,15 +1073,15 @@ OBS: Ingen krav om udbetaling i handelskøb og civilkøb for at der er taget et 
 
  **Konflikt med senere rettigheder ved et gyldigt ejendomsforbehold*
 
-*HR:* Et gyldigt stiftet ejendomsforbehold beskytter sælgers ejendomsret til aktivet overfor købers andre kreditorer og aftaleerhververe 
+*HR:* Et gyldigt stiftet ejendomsforbehold beskytter sælgers ejendomsret til aktivet overfor købers andre kreditorer og aftaleerhververe. 
 
 *U:* Hvis en godtroende forbruger har købt aktivet med ejendomsforbehold, kan køber ekstinkvere (udslette) sælger ejendomsforbehold hvis:  
 
-*U1*: Sælger har givet tilladelse til videresalg  
+*U1*: Sælger har givet tilladelse til videresalg.  
 
-*U2*: Sælger har opført sig passivt eller særlig uforsigtigt, og aktivet er udleveret til køber
+*U2*: Sælger har opført sig passivt eller særlig uforsigtigt, og aktivet er udleveret til køber.
 
-*U3:* Forhandlergrundsætningen – sælger er klar over, at køber er forhandler af aktivet, og aktivet er udleveret til køber
+*U3:* Forhandlergrundsætningen – sælger er klar over, at køber er forhandler af aktivet, og aktivet er udleveret til køber.
 
 ---
 
@@ -1154,7 +1154,7 @@ Det kræves ikke, at den konkrete køber faktisk har forstået dette, men at den
 
 ---
 
-Sælgeren kan ikke tage et ensidigt ejendomsforbehold – fx i en faktura eller i leveringsbetingelserne, jf. dommene **U 1977.29 SH og U 1978.373 V** (et ejendomsforbehold, der var fortrykt på kontraktens bagside, fandtes ikke at være aftalt, da kontrakten var underskrevet på forsiden) og U 1983.311 H – og i hvert fald i forbrugerkøb er et sådant forbehold ikke gyldigt, selv om køber ikke reklamerer over det pågældende kontraktvilkår.  
+Sælgeren kan ikke tage et ensidigt ejendomsforbehold – fx i en faktura eller i leveringsbetingelserne, jf. dommene **U 1977.29 SH og U 1978.373 V** (et ejendomsforbehold, der var fortrykt på kontraktens bagside, fandtes ikke at være aftalt, da kontrakten var underskrevet på forsiden) og **U 1983.311 H** – og i hvert fald i forbrugerkøb er et sådant forbehold ikke gyldigt, selv om køber ikke reklamerer over det pågældende kontraktvilkår.  
 
 ---
 
@@ -1199,13 +1199,13 @@ Ifølge domspraksis fraviges dette udgangspunkt, såfremt kreditgiveren har udvi
 
 Et ejendomsforbehold i forbrugerkøb er som tidligere nævnt kun gyldigt efter lovens § 34, stk. 1, såfremt:
 
-Det er aftalt senest ved overgivelsen af det købte til forbrugeren,
+1. Det er aftalt senest ved overgivelsen af det købte til forbrugeren,
 
-det samlede beløb, der skal betales, jf. § 9, stk. 1, nr. 5, overstiger 2.000 kr.,
+2. det samlede beløb, der skal betales, jf. § 9, stk. 1, nr. 5, overstiger 2.000 kr.,
 
-kreditkøbet ikke er sket i henhold til en aftale om kredit med variabelt lånebeløb, og
+3. kreditkøbet ikke er sket i henhold til en aftale om kredit med variabelt lånebeløb, og
 
-sælgeren ved overgivelsen af det købte er fyldestgjort for mindst 20 % af kontantprisen.
+4. sælgeren ved overgivelsen af det købte er fyldestgjort for mindst 20 % af kontantprisen.
 
 ---
 
@@ -1270,7 +1270,7 @@ Selv om der kun mangler et beskedent beløb førend, at sælgeren er fyldestgjor
 
 ### Betingelser for tilbagetagelse fra forbrugeren
 
-Såfremt kreditor har et dokument, som opfylder kravene i KAL § 36, stk. 1, idet dokumentet  
+Såfremt kreditor har et dokument, som opfylder kravene i KAL § 36, stk. 1, idet dokumentet:  
 
 1. er underskrevet af forbrugeren og overgivet til den pågældende i genpart og 
 

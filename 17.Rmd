@@ -7,18 +7,20 @@ cat(readLines('np.html'))
 
 ---
 
-***Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af fordringer og deres ophør i forhold til eksamen:***
+*Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af fordringer og deres ophør i forhold til eksamen:*
 
 
-**Sondring mellem almindelige fordringer, simple gældsbreve og omsætningsgældsbreve – analog anvendelse af reglerne for simple gældsbreve jf. GBL § 26 på alm. fordringer (ved afprøvningen bør der være fokus på simple fordringer/gældsbreve og tinglyste negotiable dokumenter)**
+*Sondring mellem almindelige fordringer, simple gældsbreve og omsætningsgældsbreve – analog anvendelse af reglerne for simple gældsbreve jf. GBL § 26 på alm. fordringer (ved afprøvningen bør der være fokus på simple fordringer/gældsbreve og tinglyste negotiable dokumenter)*
 
-**Sikringsakt** 
+*Sikringsakt* 
 
-**Fordringers ophør:** 
+*Fordringers ophør:* 
 
-- **Forældelse**  
-- **Modregning – almindelige betingelser + GBL § 27 og 28**
-- **Betaling med frigørende virkning, GBL § 29 og 30** 
+- *Forældelse*  
+
+- *Modregning – almindelige betingelser + GBL § 27 og 28*
+
+- *Betaling med frigørende virkning, GBL § 29 og 30* 
 
 
 ---
@@ -26,7 +28,7 @@ cat(readLines('np.html'))
 ## Definition og regel
 
 
-**Modregning** er en måde at opfylde/afslutte krav på. 
+*Modregning* er en måde at opfylde/afslutte krav på. 
 
 Modregning bringer krav til ophør i det omfang, kravene dækker hinanden. 
 
@@ -97,15 +99,15 @@ Modregning sker ved, at den ene part afgiver en erklæring (modregningserklærin
 I modregning gælder der et særligt sprogbrug af begreber: 
 
 
-**Modregneren:** Den der ønsker at modregne og derfor afgiver en modregningserklæring
+*Modregneren:* Den der ønsker at modregne og derfor afgiver en modregningserklæring.
 
-**Hovedmanden**: Modtageren af modregningserklæringen
+*Hovedmanden*: Modtageren af modregningserklæringen.
 
-**Modfordringen**: Modregnerens tilgodehavende hos den anden part
+*Modfordringen*: Modregnerens tilgodehavende hos den anden part.
 
-**Hovedfordringen**: Modregnerens skyld til den anden part
+*Hovedfordringen*: Modregnerens skyld til den anden part.
 
-**Konneksitet** betyder, at der er tale om krav, som har fælles oprindelse.
+*Konneksitet* betyder, at der er tale om krav, som har fælles oprindelse.
 
 ---
 
@@ -128,7 +130,7 @@ Disse betingelser skal alle være opfyldte på det tidspunkt, hvor den tvungne i
 
 ---
 
-**Betingelserne for modregning er følgende**:
+*Betingelserne for modregning er følgende*:
 
 * Kravene er udjævnelige
 * Kravene er afviklingsmodne
@@ -137,7 +139,7 @@ Disse betingelser skal alle være opfyldte på det tidspunkt, hvor den tvungne i
 
 ---
 
-**Ad. Kravene til udjævnelighed**
+*Ad. Kravene til udjævnelighed*
 
 Betingelsen om udjævnelighed betyder, at kravene kan benyttes til korrekt opfyldelse af hinanden. 
 
@@ -149,7 +151,7 @@ Blot kravene er delelige, må der modregnes over for en hovedfordring, der er st
 
 ---
 
-**Ad. Kravene er afviklingsmodne**
+*Ad. Kravene er afviklingsmodne*
 
 At kravene er afviklingsmodne betyder, at modfordringens forfaldstidspunkt er kommet, mens hovedfordringens frigørelsestidspunkt skal være kommet. 
 
@@ -159,17 +161,17 @@ Frigørelsestidspunktet er det tidspunkt, hvor debitor har ret til at frigøre s
 
 Denne betingelse er begrundet i, at en kreditor kan kræve betaling, når forfaldstidspunktet er kommet, mens en debitor kan frigøre sig fra sin gæld, når frigørelsestidspunktet er kommet.
 
-Med **"forfaldstidspunkt"** menes sidste rettidige betalingsdag, da betaling som udgangspunkt ikke må kræves før da.
+Med *"forfaldstidspunkt"* menes sidste rettidige betalingsdag, da betaling som udgangspunkt ikke må kræves før da.
 
 ---
 
-**Ad. Kravene er gensidige**
+*Ad. Kravene er gensidige*
 
 Modregning må kun ske, hvor to personer (fysiske og/eller juridiske personer) har krav på hinanden, således at debitor efter den ene fordring er kreditor efter den anden fordring.
 
 ---
 
-**Ad. Modkravet er retskraftigt**
+*Ad. Modkravet er retskraftigt*
 
 At modkravet skal være retskraftigt betyder, at modfordringen ikke må være bortfaldet, fx ved *forældelse* eller *præklusion* (En ret kan ophøre ved præklusion, hvis retten ikke gøres gældende rettidigt f.eks. en kreditors krav, når der indrykkes et proklama i et dødsbo).
 
@@ -180,20 +182,20 @@ Hvis modfordringen er bortfaldet, er modregning udelukket.
 ## Ophør ved forældelse
 
 
-**Der bliver behandlet følgende vigtige emner vedrørende forældelse**:
+*Der bliver behandlet følgende vigtige emner vedrørende forældelse*:
 
 
-* Hvorfor forældelsesregler? (afsnit 17.3.1.)
+* Hvorfor forældelsesregler? (afsnit 17.3.1.).
 
-* Retsvirkningerne af forældelse (afsnit 17.3.2.)
+* Retsvirkningerne af forældelse (afsnit 17.3.2.).
 
-* Om forældelsesfrister i forældelsesloven (afsnit 17.3.3.)
+* Om forældelsesfrister i forældelsesloven (afsnit 17.3.3.).
 
-* Forældelsesfrister - pengelån, indlån, kaution (afsnit 17.3.4.)
+* Forældelsesfrister - pengelån, indlån, kaution (afsnit 17.3.4.).
 
-* Afbrydelse af forældelse (afsnit 17.3.5.)
+* Afbrydelse af forældelse (afsnit 17.3.5.).
 
-* Passivitetsgrundsætningen (afsnit 17.3.6.)
+* Passivitetsgrundsætningen (afsnit 17.3.6.).
 
 ---
 
@@ -337,18 +339,18 @@ Når en fordring er sikret ved kaution, forældes kautionen ligesom den fordring
 
 ---
 
-**HR:** Alle krav forældes efter 3 år, jf. FL § 3, stk. 1, fx:
+*HR:* Alle krav forældes efter 3 år, jf. FL § 3, stk. 1, fx:
 
-   + Krav på renter og rykkergebyrer
-   + Krav som følge af mangler ved fast ejendom
-   + Overtræk på et kontokort
++ Krav på renter og rykkergebyrer.
++ Krav som følge af mangler ved fast ejendom.
++ Overtræk på et kontokort.
    
 U: Nogle krav forældes efter 10 år, fx:
 
-   + Underskrevet gældsbrev
-   + Frivilligt forlig
-   + Dom
-   + Pengelån
++ Underskrevet gældsbrev.
++ Frivilligt forlig.
++ Dom.
++ Pengelån.
  
 ---
 
@@ -364,22 +366,22 @@ Egentlig afbrydelse af en forældelsesfrist kan ske ved anerkendelse af gælden,
 
 Konsekvensen af afbrydelsen er, at fristen ikke løber længere.
 
-* Når fristen afbrydes, starter den forfra
-* Afbrydelse sker når
+* Når fristen afbrydes, starter den forfra.
+* Afbrydelse sker når.
 + Skyldner erkender at skylde pengene, fx når:
    
-* Skyldner betaler renter og afdrag
-* Underskriver et frivilligt forlig
-* Eller accepterer på anden måde
+* Skyldner betaler renter og afdrag.
+* Underskriver et frivilligt forlig.
+* Eller accepterer på anden måde.
 
 + Vil skyldner ikke erkende gælden, må skyldner foretage retslige skridt, fx:
 
-* Forfølge krav i Fogedretten
-* Klage til et godkendt tvistløsningsorgan (klage- og ankenævn) ankenævn)
+* Forfølge krav i Fogedretten.
+* Klage til et godkendt tvistløsningsorgan (klage- og ankenævn) ankenævn).
 
 ---
 
-**Suspenderet forældelsesfrist:** 
+*Suspenderet forældelsesfrist:* 
 
 Betyder at fristen løber først fra et senere tidspunkt.
 
@@ -387,7 +389,7 @@ Hvis kreditor ikke kendte til kravet (fx fordi kreditor ikke er klar over, at de
 
 Hvis kreditor ikke kendte til skyldner (fx fordi kreditor ikke ved, hvem der har ansvar for skaden).
 
-Fristen kan ikke suspenderes ud over de lange frister på 10 eller 30 år (miljø- og personskader)
+Fristen kan ikke suspenderes ud over de lange frister på 10 eller 30 år (miljø- og personskader).
 
 ---
 
@@ -397,8 +399,7 @@ Der gælder en almindelig uskreven passivitetsgrundsætning i dansk ret.
 
 Passivitetsgrundsætninger hviler på spørgsmålet om, hvorvidt kreditor ved at forholde sig passiv i en længere periode har givet debitor en berettiget forventning om, at kreditor ikke har til hensigt at forfølge sit krav. 
 
-Hvis man som debitor vil påberåbe sig en ulovfæstet passivitetsgrundsætning som grundlag for, at kreditor ikke længere har en ret til at kræve betaling skal der udover at være passeret en længere rum tid også være nogle andre forhold der gør, at debitor ikke længere regnede med, at
-kreditor havde til hensigt at forfølge sit krav. 
+Hvis man som debitor vil påberåbe sig en ulovfæstet passivitetsgrundsætning som grundlag for, at kreditor ikke længere har en ret til at kræve betaling skal der udover at være passeret en længere rum tid også være nogle andre forhold der gør, at debitor ikke længere regnede med, at kreditor havde til hensigt at forfølge sit krav. 
 
 1.	Er debitor i god tro?
 2.	Skyldes vildfarelsen vedrørende betaling overvejende kreditors forhold?
@@ -426,7 +427,7 @@ Det kan således ikke udelukkes, at domstolene i en konkret situation finder, at
 
 ---
 
-** Video: Gode råd om gæld og om forældelse**
+**Video: Gode råd om gæld og om forældelse**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/1W-4uy3N-3Q" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -457,11 +458,11 @@ Deponering betyder, at debitor betaler til en konto i en bank med frigørende vi
 
 Deponering kan ske, når:
 
-+ Debitor ikke kan betale på grund af kreditors forhold, fx hvis kreditor er væk
++ Debitor ikke kan betale på grund af kreditors forhold, fx hvis kreditor er væk.
    
-+ Kreditor ikke vil opfylde debitors betingelser, fx udlevere en kvittering
++ Kreditor ikke vil opfylde debitors betingelser, fx udlevere en kvittering.
    
-+ Det er uvist, hvem der er rette kreditor
++ Det er uvist, hvem der er rette kreditor.
    
 * Deponering kan ikke ske i andre tilfælde - heller ikke fx hvis debitor er utilfreds med huslejens størrelse.
 
