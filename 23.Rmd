@@ -8,7 +8,7 @@ cat(readLines('np.html'))
 
 ---
 
-**Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af familieretten:**
+*Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af familieretten:*
 
 * *Relateres til rådgivning af privatkunder*  
 
@@ -56,7 +56,7 @@ En enkelt generel undtagelse fra denne hovedregel er dog skattegæld, som den en
 
 Her er den anden part medhæftende på grund af princippet om sambeskatning af ægtefæller.  
 
-I alle øvrige forhold har det til gengæld stor betydning hvem af ægtefællerne der står som ejer af de enkelte aktiver og hvem der hæfter for gælden..^[Følgende afsnit om familieretten bygger især på **Linda Nielsens** Karnovkommentar til lov om ægtefællers økonomiske forhold, KarnovGroup.] 
+I alle øvrige forhold har det til gengæld stor betydning hvem af ægtefællerne der står som ejer af de enkelte aktiver og hvem der hæfter for gælden..^[Følgende afsnit om familieretten bygger især på *Linda Nielsens* Karnovkommentar til lov om ægtefællers økonomiske forhold, KarnovGroup.] 
 
 ---
 
@@ -75,7 +75,7 @@ I alle øvrige forhold har det til gengæld stor betydning hvem af ægtefællern
 
 
 
-**ÆL er inddelt i 7 afsnit**:  
+*Lov og ægtefællers økonomiske forhold er inddelt i 7 afsnit*:  
 
 
 * *Afsnit I indeholder almindelige bestemmelser om ægtefællers økonomiske forhold.* 
@@ -136,6 +136,7 @@ Bestemmelsen omfatter ikke kun råden over ægtefællens delingsformue, men hele
 
 Baggrunden herfor er, at forringelse af en ægtefælles særeje m.v. kan får betydning ved formuedelingen, f.eks. hvis den ene ægtefælle har et *regulerings- og misbrugskrav* efter lovens kapitel 11, der bl.a. kan rettes mod den anden ægtefælles særeje.   
 
+---
 
 Overtrædelse af ÆL § 1, stk. 2 er ikke selvstændigt sanktioneret, men *misbrug af formuen* kan udløse misbrugskrav efter ÆL § 40, og efter ÆL § 10 kan gaver til tredjemand i visse situationer kræves tilbage.  
 
@@ -224,7 +225,7 @@ Efter ÆL § 2, stk. 2 kan ægtefæller ikke ved aftale fravige reglerne i loven
 
 ---
 
-
+![](img/agte.jpg)
 
 *Kort om ægtepagt*
 
@@ -241,6 +242,8 @@ Der er ingen regler for, hvornår en ægtepagt skal laves.
 Det betyder, at en ægtepagt både kan laves og indgås før eller efter man er blevet gift. 
 
 Derfor er ægtepagtens gyldighed den samme, uanset hvad man vælger. 
+
+---
 
 Det er kun en *skriftlig og tinglyst ægtepagt* (i Personbogen), der vil være gyldig. 
 
@@ -277,7 +280,7 @@ Efter ÆL § 2, stk. 3 kan ægtefæller ikke gyldigt aftale, at det, som den ene
 
 ---
 
-**Princippet om ægtefællens særhæften:**
+*Princippet om ægtefællens særhæften:*
 
 Efter ÆL § 3 hæfter hver af ægtefællerne med den del af delingsformuen, hvorover den pågældende ægtefælle råder, og med sit særeje for de forpligtelser, der påhviler ægtefællen, hvad enten forpligtelserne er opstået før eller under ægteskabet. 
 
@@ -346,7 +349,11 @@ Spørgsmålet har konsekvenser dels over for ægtepars kreditorer, dels over for
 
 Den ægtefælle, der hævder at have et gældskrav på den anden, må føre bevis herfor, idet der som udgangspunkt er en formodning for, at overførsel af pengebeløb til ægtefællen sker til opfyldelse af forsørgelsespligten.  
 
-Forsørgelsespligten får for boligen den konsekvens, at den ægtefælle, der har skødet på den pågældende faste ejendom eller har lejekontrakt på lejligheden, ikke kan få den anden ægtefælle udsat af boligen ved en umiddelbar fogedforretning, jf. herved dommen **U 2001 2184**.  
+Forsørgelsespligten får for boligen den konsekvens, at den ægtefælle, der har skødet på den pågældende faste ejendom eller har lejekontrakt på lejligheden, ikke kan få den anden ægtefælle udsat af boligen ved en umiddelbar fogedforretning, jf. herved dommen **U 2001.2184**.  
+
+---
+
+![](img/leje1.jpg)
 
 *Lejebolig er også beskyttet, jf. lejelovens § 81, stk. 2*: 
 
@@ -357,6 +364,8 @@ Denne bestemmelse er ufravigelig, jf. lejelovens § 92, stk. 2, se nærmere nede
 Forsørgelsespligten gælder kun under ægteskabet og ophører ved separation, skilsmisse og død. 
 
 Der er i ÆL § 56, stk. 3, indført en begrænset udvidelse af forsørgelsespligten, idet adgangen til at få fastsat bidrag også skal gælde under behandlingen af en sag om separation og skilsmisse, indtil spørgsmålet om bidragspligt efter separation eller skilsmisse er endeligt afgjort.  
+
+---
 
 *Den privatretlige forsørgelsespligt går fortsat forud for offentligretlig forsørgelse*. 
 
@@ -384,11 +393,15 @@ Efter ÆL § 5, stk. 1, 1. pkt., deler ægtefæller ved separation eller skilsmi
 
 Denne bestemmelse fastlægger navnlig, hvilke af ægtefællernes aktiver der indgår i ligedelingen, og som dermed er delingsformue, og hvilke aktiver, der ikke indgår i ligedelingen.  
 
+---
+
 ÆL § 5, stk. 1, 2. pkt. fastlægger formuedelingen ved en ægtefælles død. 
 
 Det følger af bestemmelsen, at ved en ægtefælles død eller ved skifte af et uskiftet bo deles ægtefællernes formuer lige mellem den længstlevende ægtefælle eller dennes dødsbo og førstafdødes dødsbo, medmindre andet følger af ÆL § 51 om formuedelingen ved den første ægtefælles død og ved skifte af uskiftet bo i den længstlevende ægtefælles levende live. 
 
 Denne bestemmelse fastlægger navnlig, hvilke af ægtefællernes aktiver der indgår henholdsvis ikke indgår i ligedelingen af ægtefællernes formue i forbindelse med dødsboskiftet ved førstafdødes død og ved skifte af uskiftet bo i den længstlevende ægtefælles levende live.  
+
+---
 
 Det fremgår af ÆL § 5, stk. 2, at en ægtefælles formue, der efter ÆL § 5, stk. 1 ligeledes, betegnes delingsformue. 
 
@@ -447,6 +460,8 @@ Hvis boligen er erhvervet for både delingsformue og særeje, er den efter ÆL �
 
 Hvis hele ejerægtefællens formue er brøkdelssæreje, sumsæreje, eller sumdeling efter ÆL § 12, stk. 2, nr. 3-5, er ægtefællens enkelte aktiver ikke fuldt ud særeje, hvorfor boligen ligeledes er omfattet af beskyttelsen efter ÆL § 6. 
 
+---
+
 Tilsvarende gælder ved retten til at udtage den anden ægtefælles ejendele efter ÆL § 48.   
 
 I modsætning til den tidligere gældende lovs § 18, stk. 1, 3. pkt., i retsvirkningsloven, er værgens beføjelser ikke udtrykkeligt reguleret. 
@@ -454,6 +469,8 @@ I modsætning til den tidligere gældende lovs § 18, stk. 1, 3. pkt., i retsvir
 Det indebærer, at de almindelige regler om værgemål finder anvendelse. Er en ægtefælle frataget den retlige handleevne efter værgemålslovens § 6, kan værgen give samtykke på ægtefællens vegne. 
 
 Dette forudsætter selvsagt, at værgen ikke er inhabil, f.eks. fordi ejerægtefællen selv er værge. I sådanne tilfælde kan der beskikkes en særlig værge efter værgemålslovens § 47.  
+
+---
 
 Efter ÆL § 6, stk. 2, kræves samtykke efter ÆL § 6, stk. 1, selv om ægtefællerne har ophævet samlivet, og efter det ÆL § 6, stk. 3 kræves samtykke efter § 6, stk. 1 også efter separation eller skilsmisse, indtil der efter almindelige formueretlige principper er indgået aftale, eller der er truffet endelig afgørelse om boligen efter ÆL § 48 om ægtefællernes ret til at udtage aktiver ved formuedeling i forbindelse med separation og skilsmisse. 
 
@@ -463,7 +480,9 @@ Hvis samtykke nægtes, kan ejerægtefællen anmode om tilladelse fra statsforval
 
 En ægtefælle kan beskytte sig mod, at den anden ægtefælle sælger eller pantsætter en ejendom uden samtykke ved at få sin vielsesattest noteret på ejendommens blad i tingbogen. 
 
-Dette vil efter loven også kunne ske i tilfælde, hvor ejendommen er delvis særeje.  
+Dette vil efter loven også kunne ske i tilfælde, hvor ejendommen er delvis særeje. 
+
+---
 
 Har en ægtefælle indgået en aftale, der er omfattet af ÆL § 6, uden samtykke fra den anden ægtefælle og uden tilladelse efter ÆL § 7, kan aftalen efter anmodning fra den anden ægtefælle omstødes ved dom. 
 
@@ -478,7 +497,7 @@ Dette skyldes, at en afgørelse om dispositioner over boliger i andre lande bør
 ### Aftaler med tredjemand om erhvervsløsøre
 
 
-I det tilfælde, hvor en ægtefælle har givet tredjemand en gave. 
+I det tilfælde, hvor en ægtefælle har givet tredjemand en *gave*. 
 
 Hvis bortgivelsen af gaven medfører nærliggende risiko for, at den anden ægtefælle ikke vil kunne få dækket sine krav ved en formuedeling, og tredjemand (gavemodtageren) vidste eller burde vide dette, giver bestemmelsen i ÆL § 10 denne ægtefælle mulighed for at kræve, at tredjemand giver gaven tilbage. 
 
@@ -528,7 +547,25 @@ Hvis tinglysning eller anden sikringsakt er nødvendig for, at gavemodtager opn�
 
 Har en ægtefælle overladt løsøre til brug i den anden ægtefælles erhvervsvirksomhed, bliver den ægtefælle, der ejer løsøret, bundet af aftaler om løsøret, som den anden ægtefælle har indgået med tredjemand. 
 
-Dette gælder dog ikke, hvis tredjemand vidste eller burde vide, at ægtefællen ikke var berettiget til at indgå aftalen, jf. ÆL § 11.  
+Dette gælder dog ikke, hvis tredjemand vidste eller burde vide, at ægtefællen ikke var berettiget til at indgå aftalen, jf. ÆL § 11.
+
+---
+
+*Gavebegrebet i juraen*
+
+![](img/gave2.jpg)
+
+Konkursrettens gavebegreb er formentlig noget mere objektivt end formuerettens, men der skal i alle tilfælde være tale om en vederlagsfri overdragelse af et formuegode. 
+
+Gaver, der gives af den senere fallent, vil derfor pr. definition næsten altid være til skade for kreditorerne. 
+
+Gaven behøver ikke at være et udslag af gavmildhed, men gavegiver og -modtager må være klar over, at den tilsagte ydelse indebærer en vederlagsfri fordel. 
+
+Et misforhold mellem ydelserne i en forretningsaftale skaber ikke i sig selv en (delvis) gave, da "den kloge kan narre den mindre kloge", dvs. gøre en god handel. 
+
+Et nært forhold mellem parterne kan dog skabe en formodning for, at en sådan overdragelse er ment som en (delvis) gave. 
+
+Dispositionens betegnelse er ikke afgørende. Det reelle indhold er afgørende. Se **TfS 1997.859 VLD** om en gave, der uberettiget hævdedes at være løn for udført arbejde. 
 
 ---
 
@@ -568,6 +605,8 @@ Skilsmissesæreje gælder kun ved skilsmisse.
 
 #### Fuldstændigt særeje
 
+![](img/sareje1.jpg)
+
 Hvis man har aftalt et fuldstændigt særeje, indebærer dette at der er særejevirkning under ægteskabet, ved separation og skilsmisse, samt ved en eller begge ægtefællers død. 
 
 Med andre ord betyder det, at det man har som sit fuldstændige særeje ikke skal deles med den anden ægtefælle i forbindelse med skilsmisse. 
@@ -585,6 +624,8 @@ Det skal dog bemærkes, at den længstlevende ægtefælle ikke har mulighed for 
 ---
 
 #### Skilsmissesæreje
+
+![](img/sareje2.jpg)
 
 Skilsmissesærejet er en kombination af de to formueretlige grundformer fælleseje og fuldstændigt særeje. 
 
@@ -930,6 +971,8 @@ Der er som udgangspunkt fri adgang til at aftale, hvilken gæld der skal fradrag
 
 Det er med de undtagelser, der følger af ÆL § 18, stk. 2, endvidere muligt at indgå aftaler om fremtidig sikret gæld, der skal fradrages i delingsformuen, og hvilken der ikke kan fradrages. 
 
+---
+
 Ægtefæller kan således f.eks. aftale, at den *studiegæld*, en af dem stifter fremover, ikke skal kunne fradrages i delingsformuen.  
 
 Efter ÆL § 18, stk. 2 kan ægtefællerne ikke aftale, at gæld, som ikke er stiftet ved aftalens indgåelse eller stiftes i forbindelse med aftalen, og som efter ÆL § 29, stk. 2, ville skulle fradrages i formue, der ikke indgår i delingen, skal fradrages i delingsformuen. 
@@ -948,7 +991,9 @@ Selvom et lån først bevilges nogen tid efter aftalen, kan lånet være omfatte
 
 For så vidt angår usikret gæld, der ikke er knyttet til et bestemt aktiv, og som efter ÆL § 29, stk. 3, skal fradrages med en forholdsmæssig andel i henholdsvis delingsformuen og den formue, der ikke indgår i delingen, kan ægtefæller frit aftale en anden fordeling også for gæld, der endnu ikke er stiftet. 
 
-Ægtefællerne kan således f.eks. aftale, at hele mandens fremtidige *studiegæld* ikke skal kunne fradrages i delingsformuen, eller at intet af studiegælden skal fratrækkes i delingsformuen.  
+Ægtefællerne kan således f.eks. aftale, at hele mandens fremtidige *studiegæld* ikke skal kunne fradrages i delingsformuen, eller at intet af studiegælden skal fratrækkes i delingsformuen. 
+
+---
 
 Efter ÆL § 18, stk. 3 kan ægtefæller endvidere ikke aftale, at gæld skal fradrages i delingsformuen ved en ægtefælles død, men ikke ved separation eller skilsmisse. 
 
@@ -1036,7 +1081,7 @@ Tilsvarende vil arvingen ved bestemmelse om sumdeling kunne forbruge arven og al
 
 Arvelader kan således i testamente gøre arven til særeje, og det sker ofte i praksis.  
 
-Arveforskud må behandles som gave; ikke som arv, jf. dommen **U 1975 473**. 
+Arveforskud må behandles som gave; ikke som arv, jf. dommen **U 1975.473**. 
 
 En bestemmelse om, at arveforskud skal være særeje, skal være truffet senest samtidig med, at arveforskuddet ydes. 
 
@@ -1052,7 +1097,7 @@ Spørgsmålet har været, om aktivet kan siges at være givet som gave med den v
 
 Praksis, som især vedrører fast ejendom, hvor friværdien gives som gave, er ikke entydig. 
 
-Se fra praksis f.eks. dommen **U 1987 763 H**, hvor der lægges vægt på et kvantitativt kriterium knyttet til gavemomentets omfang. (Uanset kun ca. 13 % af ejendommens værdi blev berigtiget som gave, og gavemodtager skulle overtage rentegæld samt optage ejerskiftelån m.m., statueredes, at landbrugsejendommen i sin helhed blev særeje). 
+Se fra praksis f.eks. dommen **U 1987.763 H**, hvor der lægges vægt på et kvantitativt kriterium knyttet til gavemomentets omfang. (Uanset kun ca. 13 % af ejendommens værdi blev berigtiget som gave, og gavemodtager skulle overtage rentegæld samt optage ejerskiftelån m.m., statueredes, at landbrugsejendommen i sin helhed blev særeje). 
 
 ---
 
@@ -1138,13 +1183,17 @@ Ved formuedelingen indgår de aktiver og passiver, som hver ægtefælle havde ve
 
 *Tidspunktet for værdiansættelsen*  
 
-Ægtefællernes aktiver og passiver indgår i formuedelingen med værdien på udlægstidspunktet eller ved skiftets afslutning, hvis de ikke er udlagt forinden, jf. ÆL § 28.  
+Ægtefællernes aktiver og passiver indgår i formuedelingen med værdien på udlægstidspunktet eller ved skiftets afslutning, hvis de ikke er udlagt forinden, jf. ÆL § 28. 
+
+---
 
 *Gæld*  
 
 Ved opgørelsen af delingsformuen fradrages gæld, der har sikkerhed i aktiver, der er delingsformue. 
 
 Endvidere fradrages usikret gæld, der er stiftet til brug for anskaffelse, forbedring eller vedligeholdelse af aktiver, der er delingsformue, eller i øvrigt kan henføres til sådanne aktiver, jf. ÆL § 29, stk. 1.  
+
+---
 
 *Personlige genstande*  
 
@@ -1170,6 +1219,8 @@ De kan derfor aftale deling af formue, der ellers ikke skulle deles, og de kan a
 
 De kan også indgå aftaler om, hvem af dem der skal udtage de enkelte aktiver.  
 
+---
+
 Efter bestemmelsen i ÆL § 32 indtræder aftalefriheden, når en separation eller skilsmisse er aktuel, og den således indgås med henblik på en forestående formuedeling. 
 
 Det beror på en konkret vurdering, om en aftale er indgået med henblik på en forestående formuedeling. 
@@ -1186,6 +1237,8 @@ Aftaler om delingen af ægtefællernes ejendele, der tillige har virkning ved d�
 ### Beregn formue
 
 Ægtefællens gæld skal trækkes fra ægtefællens formue, før den skal deles. Hvis ægtefællen skylder mere, end han eller hun ejer, og ens formue dermed er negativ, skal dette ikke indgå i delingen.
+
+---
 
 
 *Sådan finder man sin formue*
@@ -1329,7 +1382,7 @@ mydf %>%
 
 ---
 
-**3. Begge formuer er negative**
+*3. Begge formuer er negative*
 
 Er begge formuer negative, skal der ikke ske nogen deling. Hver ægtefælle beholder sine egne aktiver og skal betale hver sin gæld.
 
@@ -1402,9 +1455,9 @@ At indbringe den væsentligste del af fællesboet ved ægteskabets indgåelse - 
 
 ---
 
-Afgørende er, om den ene ægtefælle har indbragt væsentligt mere end den anden, jf. **TFA 2009 92 V**, og at denne værdiforskel er et væsentligt beløb set i forhold til fællesboets samlede værdi. 
+Afgørende er, om den ene ægtefælle har indbragt væsentligt mere end den anden, jf. **TFA 2009.92 V**, og at denne værdiforskel er et væsentligt beløb set i forhold til fællesboets samlede værdi. 
 
-I **U 1976 752 V** nævnes boets forholdsvis beskedne værdi som argument mod skævdeling (ikke tillagt M ret til forlods udtagelse efter 1½ års ægteskab; væsentligste aktiv var en af ham indbragt sommerhusgrund ansat til 50.000 kr. Begge ægtefæller havde bidraget til den fælles husholdning). Men heraf kan næppe udledes, at skævdeling ikke kan komme på tale, hvis boet er under 100.000 kr.**
+I **U 1976.752 V** nævnes boets forholdsvis beskedne værdi som argument mod skævdeling (ikke tillagt M ret til forlods udtagelse efter 1½ års ægteskab; væsentligste aktiv var en af ham indbragt sommerhusgrund ansat til 50.000 kr. Begge ægtefæller havde bidraget til den fælles husholdning). Men heraf kan næppe udledes, at skævdeling ikke kan komme på tale, hvis boet er under 100.000 kr.**
 
 ---
 
@@ -1416,8 +1469,10 @@ En ægtefælles *rimelige pensionsrettigheder* indgår ikke i formuedelingen, jf
 
 Skal boet deles i tilfælde af død, kan længstlevende ægtefælle udtage sine pensioner forlods, jf. ÆL § 52.
 
+---
 
-**Deling i tilfælde af ægtefællernes separation/skilsmisse:**
+
+*Deling i tilfælde af ægtefællernes separation/skilsmisse:*
 
 
 ![](img/deling5.jpg)
@@ -1428,9 +1483,13 @@ Alle sædvanlige arbejdsmarkedspensioner anses for at være rimelige. Pensioner,
 
 ”Rimelig” vurderes i forhold til økonomien på indbetalingstidspunktet, og tidspunkt for indbetaling i forhold til bodelingen.
 
-Pensioner kan udtages forlods af ægtefællerne, hvis ægteskabet har været af kortere varighed, jf. ÆL § 35
+Pensioner kan udtages forlods af ægtefællerne, hvis ægteskabet har været af kortere varighed, jf. ÆL § 35.
+
+---
 
 Udtages pensionerne af ægtefællen, skal der evt. betales *fællesskabskompensation*, til den ægtefælle der f.eks. har været på børneorlov og derfor har en mindre pension, jf. ÆL § 44.
+
+---
 
 Er der stor forskel på pensionerne, kan den ene ægtefælle bliver pålagt at betale *rimelighedskompensation*, men kun hvis ægteskabet har varet i mere end 15 år, jf. nærmere ÆL § 45
 
@@ -1454,9 +1513,13 @@ Sådanne aldersopsparinger er også omfattet af begrebet pensionsrettigheder.
 
 Der er dog nogle klare udgangspunkter. 
 
+---
+
 *Alle sædvanlige arbejdsmarkedspensioner er rimelige*, idet ordninger aftalt mellem arbejdsmarkedets parter, f.eks. aftalt ved overenskomst, lokal overenskomst eller fastlagt ved firmaaftale, må anses som udtryk for det pensionsopsparingsniveau, der er almindeligt accepteret som svarende til de pågældendes uddannelses- eller arbejdsmæssige situation. 
 
 Der vil typisk være tale om kollektive ordninger. 
+
+---
 
 *Når det gælder individuelle og private pensionsordninger er billedet ikke helt så tydeligt*. 
 
@@ -1479,6 +1542,8 @@ Også pensionsordninger for mindre grupper, der har et kortere eller anderledes 
 
 Ved vurderingen af, om en pensionsordning for en selvstændig erhvervsdrivende kan holdes uden for formuedelingen, må der lægges vægt på, om ordningen må anses for rimelig ud fra virksomhedens økonomiske forhold. 
 
+---
+
 *Denne vurdering kan være vanskelig*.  
 
 Ved vurderingen af, om en pensionsordning må anses for rimelig, må der ud over den pågældende ægtefælles egen situation og indtjeningsforhold også lægges vægt på ægtefællernes samlede situation.
@@ -1489,9 +1554,9 @@ Pensionsindbetalinger udover en sædvanlig arbejdsmarkedspension, som har til fo
 
 ---
 
-Se fra retspraksis dommen **TFA 2017 49 Ø**, hvor en pensionsindbetaling på 339.000 kr. blev anset at overskride grænsen for opfyldningspension. Indbetalingen blev anset for ekstraordinær, da den i væsentlig grad oversteg, hvad M ellers havde indbetalt og skete på et tidspunkt, hvor M og H havde diskuteret separation. 
+Se fra retspraksis dommen **TFA 2017.49 Ø**, hvor en pensionsindbetaling på 339.000 kr. blev anset at overskride grænsen for opfyldningspension. Indbetalingen blev anset for ekstraordinær, da den i væsentlig grad oversteg, hvad M ellers havde indbetalt og skete på et tidspunkt, hvor M og H havde diskuteret separation. 
 
-Se tillige dommen **TFA 2017 229 Ø** om en ægtefælle, der var selvstændig. Indbetalinger i en årrække ud over 18 % skulle indgå i formuedelingen. Engangssum fra gruppelivsforsikring udbetalt til H i forbindelse med bevilling af førtidspension skulle indgå i formuedelingen.
+Se tillige dommen **TFA 2017.229 Ø** om en ægtefælle, der var selvstændig. Indbetalinger i en årrække ud over 18 % skulle indgå i formuedelingen. Engangssum fra gruppelivsforsikring udbetalt til H i forbindelse med bevilling af førtidspension skulle indgå i formuedelingen.
 
 ---
 
@@ -1533,7 +1598,7 @@ Værdien af en ægtefælles erstatninger, godtgørelser og forsikringsudbetaling
 
 Det modtagne anses også for at være i behold, hvis det er anvendt til betaling af gæld, der bestod på tidspunktet for modtagelsen, og som ville kunne fratrækkes i delingsformuen, jf. ÆL § 36. 
 
-Det afgørende fællestræk ved disse udbetalinger er ifølge motiverne, at *de kompenserer for et fremtidigt indtægtstab eller for en mere ideel skade i form af fysisk eller psykisk lidelse eller integritetskrænkelse, som f.eks. ved voldtægt eller frihedsberøvelse.* 
+Det afgørende fællestræk ved disse udbetalinger er ifølge motiverne, at *de kompenserer for et fremtidigt indtægtstab eller for en mere ideel skade i form af fysisk eller psykisk lidelse eller integritetskrænkelse, som f.eks. ved voldtægt eller frihedsberøvelse*. 
 
 Sådanne erstatninger er således tæt knyttet til skadelidte selv, og skadelidte bør derfor kunne beholde dem efter separation og skilsmisse. 
 
@@ -1542,6 +1607,8 @@ På samme måde er en forsørgertabserstatning, der ligeledes vedrører fremtide
 Med ÆL § 36 foreslås det således, at der indføres en samlet bestemmelse om hvilke erstatninger m.v., der ikke indgår i formuedelingen. 
 
 De erstatninger, der efter bestemmelsen ikke indgår i formuedelingen, betegnes personlige erstatninger.  
+
+---
 
 Med ÆL § 36, stk. 1, fastsættes det, at værdien af en ægtefælles erstatninger, godtgørelser og forsikringsudbetalinger m.v., der skyldes erhvervsevnetab, varigt mén, svie og smerte, kritisk sygdom og tort m.v. som følge af personskade, ikke indgår i formuedelingen.  
 
@@ -1585,7 +1652,7 @@ Opregningen ovenfor af erstatninger m.v., der er omfattet af ÆL § 36, stk. 1, 
 
 ---
 
-**Praktisk eksempel**
+*Praktisk eksempel*
 
 *Skal konen dele lottogevinsten?*
 
@@ -1724,15 +1791,15 @@ Forretningsfolk i vid forstand har en bred margin, således at kun forretningssp
 
 ---
 
-Som eksempler på bestemmelsens anvendelse, se fra retspraksis dommen i **TFA 2016 116 Ø** (misbrugskrav afvist. Forbrug på ejendom i Spanien i form af ca. 1,3 mio. kr. til istandsættelse og køb af indbo); 
+Som eksempler på bestemmelsens anvendelse, se fra retspraksis dommen i **TFA 2016.116 Ø** (misbrugskrav afvist. Forbrug på ejendom i Spanien i form af ca. 1,3 mio. kr. til istandsættelse og køb af indbo); 
 
-dommen i **U 2006 2792** (boets nettobeholdning var 1,7 mio. I 1998 og 1999 var H’s privatforbrug 986.000 kr. Misbrugskrav på 200.000 kr.); dommen i TFA 2006 119 (salg af andelsbolig i 2-familie hus. Ikke misbrugskrav); 
+dommen i **U 2006.2792** (boets nettobeholdning var 1,7 mio. I 1998 og 1999 var H’s privatforbrug 986.000 kr. Misbrugskrav på 200.000 kr.); dommen i TFA 2006 119 (salg af andelsbolig i 2-familie hus. Ikke misbrugskrav); 
 
-dommen i **TFA 2001 305** (ikke misbrugskrav); dommen i U 1965 820 (betydelige gaver fra M til K, som han senere giftede sig med, ej misbrug, da de var afholdt af hans løbende indtægter); 
+dommen i **TFA 2001.305** (ikke misbrugskrav); dommen i U 1965 820 (betydelige gaver fra M til K, som han senere giftede sig med, ej misbrug, da de var afholdt af hans løbende indtægter); 
 
-dommen i **U 1964 174** (forbrug på 14.000 kr. i 5 mdr.-periode lige før samlivsophævelse anset som misbrug. M’s bodel var 21.000 kr.; H’s 6.000 kr.) 
+dommen i **U 1964.174** (forbrug på 14.000 kr. i 5 mdr.-periode lige før samlivsophævelse anset som misbrug. M’s bodel var 21.000 kr.; H’s 6.000 kr.) 
 
-samt dommen i **TFA 1997 96** (forbrug på ca. 236.000 kr. på ½ år fra samlivsophævelsen; krav på 127.500 kr.). 
+samt dommen i **TFA 1997.96** (forbrug på ca. 236.000 kr. på ½ år fra samlivsophævelsen; krav på 127.500 kr.). 
 
 ---
 
@@ -1760,7 +1827,7 @@ Misbrugskrav vil altid stå tilbage for eventuelle kreditorers krav.
 
 ---
 
-**Når en ægtefælle er stillet urimeligt økonomisk:**
+*Når en ægtefælle er stillet urimeligt økonomisk:*
 
 Har en ægtefælle formue, der ikke indgår i formuedelingen, kan den anden ægtefælle ved formuedelingen få tilkendt en kompensation for at sikre, at denne ægtefælle ikke bliver stillet urimeligt økonomisk. 
 

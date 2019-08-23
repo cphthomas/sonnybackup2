@@ -1,7 +1,7 @@
 # Handel med fast ejendom
 
 ```{r, echo=FALSE, results='asis'}
-#cat(readLines('np.html'))
+cat(readLines('np.html'))
 ```
 
 ![](img/handel.jpg)
@@ -708,7 +708,7 @@ Ejendomsmægleren skal ikke kun oplyse køber om muligheden for at søge juridis
 
 Det fremgår af LOFE § 27, stk. 1, at ejendomsmægleren skal angive, hvilken kontantpris ejendommen skønnes at kunne sælges til inden for et givet tidsrum. 
 
-Bestemmelsen svarer til den tidligere omsætningslovs § 3^[Følgende afsnit om LOFE § 27 bygger på **Sonny Kristoffersen**: Ejendomsmægleren og ejendomsvirksomheden i et juridisk perspektiv, 2018 Hans Reitzels Forlag].  
+Bestemmelsen svarer til den tidligere omsætningslovs § 3^[Følgende afsnit om LOFE § 27 bygger på *Sonny Kristoffersen*: Ejendomsmægleren og ejendomsvirksomheden i et juridisk perspektiv, 2018 Hans Reitzels Forlag].  
 
 Den værdiansættelse, som reguleres i bestemmelsen, er den, der sker i forbindelse med salg af fast ejendom, dvs. den værdiansættelse, som er direkte relateret til omsætningssituationen, uanset om der er indgået en formidlingsaftale. 
 	
@@ -1071,7 +1071,7 @@ Godtgørelsen efter LFFE § 11 skal blot være betalt inden 6-dages-fristens udl
 
 Hvornår 6-dages-fristen udløber, beror som nævnt på reglen i LFFE § 8, hvorefter fristen regnes fra aftalens indgåelse, jf. LFFE § 8, stk. 1, eller på den dag, sælgerens tilbud om salg er kommet til køberens kundskab, hvis aftalen er indgået ved køberens accept af salgstilbuddet, jf. LFFE § 8, stk. 2. 
 
-Hvis køber på grund af sælgerens forhold – fx bortrejse eller uoplyst flytning – ikke er i stand til at betale rettidigt, gælder de almindelige regler for *fordringshavermora*. 
+Hvis køber på grund af sælgerens forhold – fx bortrejse eller uoplyst flytning – ikke er i stand til at betale rettidigt, gælder de almindelige regler for *fordringshavermora*. Er fx køberen ikke hjemme, når sælgeren efter aftale kommer med varen, er køberen i kreditormora. Det fritager normalt ikke sælgeren for pligten til at aflevere varen, og sælgeren skal for købers regning opbevare den betryggende, indtil køber kan modtage den, det kaldes for sælgerens omsorgspligt.
 
 Køberens fortrydelsesret bortfalder næppe, hvis køberen har forsøgt at betale rettidigt, men har været forhindret heri på grund af sælgerens forhold. 
 
@@ -1219,11 +1219,11 @@ En fysisk mangel angår ejendommens fysiske tilstand, fx fejl ved murværk, elle
 
 Rent *kosmetiske forhold* som fx, at ejendommens gulv er slidt på overfladen, er plettet, har skjolder osv., er økonomisk set bagatelagtige forhold, som ikke bør udløse erstatning eller afslag, hvis forholdet ikke påvirker bygningens værdi eller brugbarhed. 
 
-Kosmetiske forhold påvirker heller ikke den bygningssagkyndiges erstatningsansvar, jf. f.eks. Disciplinær- og klagenævnet for beskikkede bygningssagkyndiges sagsnr.: 15145 »Vedrørende facademurens deformation/skævhed, finder nævnet, at der er tale om et forhold, som ikke er kritisk, men alene kosmetisk. 
+Kosmetiske forhold påvirker heller ikke den bygningssagkyndiges erstatningsansvar, jf. f.eks. Disciplinær- og klagenævnet for beskikkede bygningssagkyndiges **sagsnr.: 15145**: "Vedrørende facademurens deformation/skævhed, finder nævnet, at der er tale om et forhold, som ikke er kritisk, men alene kosmetisk. 
 
 Deformationen antages at være sket i årene umiddelbart efter opførelsen og må nu antages at have nået en stabil tilstand. Der er ikke tale om et forhold, som kræver udbedring. 
 
-På denne baggrund, finder nævnet, at der ikke er tilstrækkeligt grundlag for at pålægge den bygningssagkyndige erstatningsvar.«, samt afgørelsen i sagsnr.: 14148.
+På denne baggrund, finder nævnet, at der ikke er tilstrækkeligt grundlag for at pålægge den bygningssagkyndige erstatningsvar.", samt afgørelsen i **sagsnr.: 14148.**
 
 Omfattet af mangler ved fast ejendom kan f.eks. også være fravigelser i boligarealet, men dette medfører ikke nødvendigvis en værdiforringelse. 
 
@@ -1312,7 +1312,7 @@ Praksis om mangler ved fast ejendom (før indførelsen af lov om forbrugerbeskyt
 
 Efter almindelige erstatningsregler kan køberen kun kræve erstatning, hvis køberen på grund af manglen har lidt et økonomisk tab. 
 
-Tabet skal være *adækvat* for sælgeren, og der skal foreligge et ansvarsgrundlag. 
+Tabet skal være *adækvat* (påregneligt) for sælgeren, og der skal foreligge et ansvarsgrundlag. 
 
 Ved køb af fast ejendom kan ansvarsgrundlaget i praksis enten være sælgers culpa, svig, vanhjemmel eller tilsidesættelse af sælgerens loyale oplysningspligt, eller en garanti. 
 

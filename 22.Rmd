@@ -12,7 +12,7 @@ cat(readLines('npp.html'))
 *Lov om finansiel virksomhed § 43*
 
 
-Efter lovbestemmelsen i § 43 i lov om finansiel virksomhed^[Lovbekendtgørelse nr. 1140 af 26. september 2017 om finansiel virksomhed.] (FIL), så skal finansiel virksomhed drives i overensstemmelse med redelig forretningsskik og god praksis inden for virksomhedsområdet^[Følgende afsnit om god skik for finansielle virksomheder bygger på *Sonny Kristoffersen*: Introduktion til forsikringsreglerne, 2019, Hans Reitzels Forslag.]. 
+Efter lovbestemmelsen i § 43 i lov om finansiel virksomhed^[Lovbekendtgørelse nr. 1140 af 26. september 2017 om finansiel virksomhed.] (FIL), så skal finansiel virksomhed drives i overensstemmelse med redelig forretningsskik og god praksis inden for virksomhedsområdet^[Følgende afsnit om god skik for finansielle virksomheder bygger på *Sonny Kristoffersen*: "Introduktion til forsikringsreglerne", 2019, Hans Reitzels Forslag.]. 
 
 ![](img/finans.jpg)
 
@@ -57,7 +57,7 @@ Robinsonlisten er et register, hvor man kan frabede sig uanmodede henvendelser m
 
 I sagen havde syv forbrugere tilmeldt sig Robinsonlisten, og de havde ikke givet Forsikringsselskabet Vendsyssel særskilt samtykke til at ringe. Men det gjorde Forsikringsselskabet Vendsyssel alligevel, hvilket nu har resulteret i en bøde til selskabet, efter at Forbrugerombudsmanden gik ind i sagen.
 
-Forbrugerombudsmand Christina Toftegaard Nielsen, siger:
+Forbrugerombudsmand *Christina Toftegaard Nielsen*, siger:
 
 ”Når en forbruger tilmelder sig Robinsonlisten, ønsker han eller hun at blive fri for enhver form for telefonsalg. Det skal virksomhederne respektere.”
 
@@ -793,6 +793,8 @@ Om samarbejdsaftale og fuldmagt, jf. forsikringsbekendtgørelsens §§ 29 og 30:
 
 Inden en konkret forsikringsaftale indgås, skal en uafhængig forsikringsformidler aftalevilkår for samarbejdet med kunden på papir eller andet varigt medium.  
 
+---
+
 Vilkårene skal som minimum indeholde oplysning om,  
 
 1) hvilke ydelser den uafhængige forsikringsformidler skal levere,
@@ -883,9 +885,9 @@ Oplysningerne skal gives i en form, som er forståelig på en sådan måde, at k
 
 Efter forsikringsbekendtgørelsens § 35 kan forsikringsformidlere eller forsikringsselskaber betale eller modtage honorarer, provisioner, eller naturalieydelser i forbindelse med distribution af et forsikringsbaseret investeringsprodukt eller en accessorisk tjenesteydelse, til eller fra andre parter end kunden eller en person, som handler på vegne af kunden, hvis betalingen eller ydelsen  
 
-1) ikke har en skadelig indvirkning på kvaliteten af den pågældende tjenesteydelse til kunden, og 
+1) *ikke* har en skadelig indvirkning på kvaliteten af den pågældende tjenesteydelse til kunden, og 
 
-2) ikke hindrer forsikringsformidlerens eller forsikringsselskabets opfyldelse af pligten til at handle ærligt, redeligt og professionelt i overensstemmelse med kundens bedste interesse.
+2) *ikke* hindrer forsikringsformidlerens eller forsikringsselskabets opfyldelse af pligten til at handle ærligt, redeligt og professionelt i overensstemmelse med kundens bedste interesse.
 
 ---
 
@@ -1004,7 +1006,11 @@ Dette indebærer, at finansiel virksomhed tilkendegiver over for Finanstilsynet 
 
 ---
 
-Se afgørelse af Pensionskunder skal altid have korrekt og saglig information Pensionskunder, der ønsker at skifte selskab, må ikke udsættes for vildledende information fra det selskab, de ønsker at forlade. Det understreger Finanstilsynet på baggrund af en konkret sag.  
+Se **Finanstilsynets afgørelse af 27. februar 2019**, hvorefter Pensionskunder altid skal have korrekt og saglig information Pensionskunder, der ønsker at skifte selskab, må ikke udsættes for vildledende information fra det selskab, de ønsker at forlade.  Finanstilsynets udmelding sker på baggrund af en konkret sag, hvor selskabet AP Pension har fået tre påtaler for at have givet vildledende information til kunder, der havde anmodet om at få deres pensionsordning flyttet til et andet selskab.
+
+Kunderne modtog et brev, hvor der bl.a. stod, at de ville pålægge sig selv en transaktionsomkostning på 1 pct. af deres opsparing i form af kursspread ved køb og salg af fonde. Der stod også, at kunderne ville gå glip af fremtidige bonustildelinger, som på det tidspunkt ikke var besluttet.
+
+Selskabet har på baggrund af sagen fået påbud om at informere og rådgive de kunder, som på baggrund af brevet afstod fra at flytte selskab, om hvilke rettigheder og muligheder, kunderne kan have mistet.
 
 ---
 
@@ -1057,11 +1063,11 @@ Oplysningerne kan gives til låntageren i form af yderligere oplysninger forud f
 
 En boligkreditgiver eller boligkreditformidler, der yder rådgivning, skal:  
 
-1.	Indhente de nødvendige oplysninger om låntagerens personlige og finansielle situation samt låntagerens præferencer og målsætninger for således at kunne anbefale egnede boligkreditaftaler. 
+1. Indhente de nødvendige oplysninger om låntagerens personlige og finansielle situation samt låntagerens præferencer og målsætninger for således at kunne anbefale egnede boligkreditaftaler. 
 
 Sådanne overvejelser baseres på oplysninger, der er aktuelle på det pågældende tidspunkt, og tager højde for rimelige antagelser med hensyn til risici for låntagerens situation i den foreslåede boligkreditaftales løbetid. 
 
-2.	Tage et tilstrækkeligt stort antal boligkreditaftaler i deres produktudvalg i betragtning og anbefale den eller de bedst egnede kreditaftaler blandt deres produktudvalg i forhold til låntagernes behov, finansielle situation og personlige forhold.  
+2. Tage et tilstrækkeligt stort antal boligkreditaftaler i deres produktudvalg i betragtning og anbefale den eller de bedst egnede kreditaftaler blandt deres produktudvalg i forhold til låntagernes behov, finansielle situation og personlige forhold.  
 
 En ikke-bunden boligkreditformidler skal tage et tilstrækkeligt stort antal boligkreditaftaler på markedet i betragtning og anbefale den eller de egnede boligkreditaftaler på markedet i forhold til låntagernes behov, finansielle situation og personlige forhold. 
 
@@ -1093,11 +1099,11 @@ Vejledningen i stk. 1 skal blandt andet indeholde:
 
 1.	oplysningerne som følger af kreditaftalelovens § 7 a for så vidt angår boligkreditgivere og kreditaftalelovens § 7 a og denne bekendtgørelses § 12 for så vidt angår boligkreditformidlere,
 
-2.	de væsentlige karakteristika ved det foreslåede produkt,
+2. de væsentlige karakteristika ved det foreslåede produkt,
 
-3.	de specifikke konsekvenser, som det foreslåede produkt kan have for låntageren, herunder betydningen af låntagerens betalingsmisligholdelse, og
+3. de specifikke konsekvenser, som det foreslåede produkt kan have for låntageren, herunder betydningen af låntagerens betalingsmisligholdelse, og
 
-4.	oplysning om hvorvidt hver komponent kan afvikles separat og konsekvenserne herved for låntageren, hvis accessoriske tjenesteydelser indgår i en pakke med kreditaftalen.  
+4. oplysning om hvorvidt hver komponent kan afvikles separat og konsekvenserne herved for låntageren, hvis accessoriske tjenesteydelser indgår i en pakke med kreditaftalen.  
 
 ---
 
@@ -1946,22 +1952,19 @@ En af betingelserne for erstatningsansvar for rådgiveren er, at skadelidte kund
 
 Dette tab kan opgøres som:  
 
-*	positiv opfyldelsesinteresse – skadelidte kunde stilles som om der   var givet rigtig rådgivning
+*	*Positiv opfyldelsesinteresse* – skadelidte kunde stilles som om der var givet rigtig rådgivning.
 
-*	Negativ kontraktsinteresse – skadelidte kunde stilles som før  rådgivningen fandt sted
+*	*Negativ kontraktsinteresse* – skadelidte kunde stilles som før  rådgivningen fandt sted.
 
 ---
 
 Der er ingen erstatning for skuffede forventninger i den finansielle branche fx:  
 
-+	Forventninger om et bestemt låneprovenu (kunden skulle have lånt et   større beløb for at få det ønskede provenu)
++	Forventninger om et bestemt låneprovenu (kunden skulle have lånt et   større beløb for at få det ønskede provenu).
 
-+	Forventninger om et bestemt rådighedsbeløb (kunden har ikke fået  
-  færre penge af det manglende rådighedsbeløb)
++	Forventninger om et bestemt rådighedsbeløb (kunden har ikke fået færre penge af det manglende rådighedsbeløb).
   
-+	Forventninger til, at værdipapirernes kurs stiger
-
- 
++	Forventninger til, at værdipapirernes kurs stiger.
 
 Men hvis fx bankrådgiveren har garanteret et bestemt rådighedsbeløb, vil bankkunden have lidt et økonomisk tab  
 
@@ -2029,7 +2032,7 @@ Det beror på en konkret vurdering hos domstolene eller ved de finansielle anken
 
 Siden finanskrisen i 2008 har teknologi været en katalysator for at revolutionere den finansielle sektor. 
 
-Ved anvendelse af højteknologiske, innovative løsninger, markedsføres og afsættes der i større og større omfang serviceydelser inden for den finansielle industri baseret på teknologi.^[Følgende afsnit om fintech bygger på en artikel i RR.4.2017.28 fra mine arbejdskollegaer advokaterne *Søren Brinkmann* og *Stefan Westh Wiencken*: "Finansielle services i en digital tidsalder" fra advokatfirmaet Brinkmann Kronborg Henriksen.]
+Ved anvendelse af højteknologiske, innovative løsninger, markedsføres og afsættes der i større og større omfang serviceydelser inden for den finansielle industri baseret på teknologi.^[Følgende afsnit om fintech bygger på en artikel i RR.4.2017.28 fra mine advokatkollegaer *Søren Brinkmann* og *Stefan Westh Wiencken*: "Finansielle services i en digital tidsalder" fra advokatfirmaet Brinkmann Kronborg Henriksen.]
 
 Fintech er ikke længere blot et ‘hype’, men en helt ny måde at levere finansielle tjenesteydelser på, som er kommet for at blive. 
 
@@ -2072,7 +2075,7 @@ Finansielle virksomheder reguleres mest nævneværdigt af lov om finansielle vir
 
 ![](img/fin7.jpg)
 
-**DEFINITION**
+**Definition**
 
 Fintech er teknologi, der anvendes til at levere finansielle services (fintech er en sammenlægning af de engelske ord “financial” og “techonology”). 
 
@@ -2112,7 +2115,7 @@ Banker, pensionskasser og forsikringsselskaber har nu investeret, og investerer 
 
 ---
 
-*FINTECH-ØKOSYSTEMET I DAG*
+*Fintech-økosystemet i dag*
 
 De områder af den finansielle sektor, der har set stor opmærksomhed i relation til fintech, kan opdeles som illustreret her:
 
@@ -2143,7 +2146,7 @@ Afslutningsvist skyder der flere og flere elektroniske markedspladser op i takt 
 ---
 
 
-*DET FREMTIDIGE FINTECH-ØKOSYSTEM*
+*Det fremtidige fintech-økosystem*
 
 Fintech-industrien er i rivende udvikling, og nye kategorier skyder frem hele tiden, herunder f.eks. regtech og insurtech, som senest har tiltrukket sig en del opmærksomhed . 
 
@@ -2213,7 +2216,7 @@ Adgangen til hurtigere og nemmere transaktioner, som teknologien åbner op for, 
 
 ![](img/fin8.jpg)
 
-*GLOBAL INTERESSE*
+*Global interesse*
 
 Efterspørgslen for entreprenører inden for fintech er høj og har været det lige siden finanskrisen, hvor utilfredsheden med de store banker startede. 
 
@@ -2245,7 +2248,7 @@ Når virksomheder får mulighed for at søge kapital hos flere tusinde investore
 
 ---
 
-*POTENTIALET I DANMARK*
+*Potentialet i Danmark*
 
 Danmark bliver ofte hyldet som et af de mest digitaliserede lande i både Europa og resten af verden. 
 
@@ -2282,7 +2285,7 @@ Af udvalgte krav, som lovgivningen stiller til finansielle virksomheder, kan næ
 
 ---
 
-**Tilladelse:**
+*Tilladelse:*
 
 Til lov om finansiel virksomhed er 8 bilag, som oplister et bredt udsnit af forretningsmæssige aktiviteter. 
 

@@ -17,7 +17,7 @@ cat(readLines('np.html'))
 
 ## Introduktion til arveretten
 
-Med arvelovsrevisionen er der blevet gennemført en styrkelse af den længstlevende ægtefælles retsstilling.^[Følgende afsnit om arveretten bygger især på **Linda Nielsens** Karnovkommentar til arveloven, KarnovGroup.] 
+Med arvelovsrevisionen er der blevet gennemført en styrkelse af den længstlevende ægtefælles retsstilling.^[Følgende afsnit om arveretten bygger især på *Linda Nielsens* Karnovkommentar til arveloven, KarnovGroup.] 
 
 Ægtefæller vil typisk have et ønske om, at længstlevende så vidt muligt kan fortsætte sin livsførelse. 
 
@@ -35,7 +35,7 @@ Dette indebærer, at det bl.a. bliver lettere at ligestille sammenbragte børn i
 
 Herudover giver loven mulighed for, at ugifte samlevende på en særlig nem måde kan oprette testamente om gensidig arveret (et udvidet samlevertestamente). 
 
-I sammenhæng med revisionen af arveloven er gennemført en række ændringer i forsikringsaftalelovens og pensionsopsparingslovens regler om indsættelse af begunstigede.  
+I sammenhæng med revisionen af arveloven er der blevet gennemført en række ændringer i forsikringsaftalelovens og pensionsopsparingslovens regler om indsættelse af begunstigede.  
 
 De aktiver og passiver, som en afdød efterlader sig, kaldes et dødsbo. Afviklingen af dødsboet mellem arvinger og kreditorer kaldes et skifte.  
 
@@ -43,7 +43,9 @@ De arveretlige regler i arveloven fastlægger, hvem der er arvinger, og hvor meg
 
 Efterlader afdøde sig ingen gæld, men alene aktiver, og ses der bort fra de forskellige regler om arveafgift (se boafgift og gaveafgift) mv., bliver det de arveretlige regler, der afgør, hvem arvebeholdningen, dvs. boets formue, skal tilfalde. 
 
-De arveretlige regler medfører således en overgang af ejendomsretten til afdødes formue fra den afdøde til arvingerne. Arv er en erhvervelsesmåde på linje med aftale, frembringelse mv.  
+De arveretlige regler medfører således en overgang af ejendomsretten til afdødes formue fra den afdøde til arvingerne. Arv er en erhvervelsesmåde på linje med aftale, frembringelse mv.
+
+---
 
 En betingelse for at arve er, at arvingen har overlevet arveladeren. 
 
@@ -73,7 +75,7 @@ Arvinger kan inddeles i tre hovedgrupper: slægtninge, ægtefæller og testament
 
 ---
 
-## Oversigt over arveloven
+## Oversigt over arveloven (Lov 2007-06-06 nr. 515)
 
 *KAP. 1 SLÆGTNINGES ARVERET*  
 
@@ -318,7 +320,9 @@ Når længstlevende dør, skal arven fordeles til begge ægtefællers livsarving
 
 Testamenter giver arvelader mulighed for at få indflydelse på, hvem der skal arve, og hvad de skal arve.  
 
-**Oversigt over arveladers testationskompetence**: 
+---
+
+*Oversigt over arveladers testationskompetence*: 
 
 Hovedreglen er, at arvelader kan ved testamente råde over hele sin formue. 
 
@@ -328,7 +332,7 @@ Tvangsarven er som udgangspunkt ¼ af arveladers formue.
 
 ---
 
-**Testationskompetence**
+*Testationskompetence*
 
 ```{r pie,echo=FALSE, message=FALSE,result=TRUE, fig.cap=("En fjerdedel af testators formue er tvangsarv hvis der er børn eller ægtefælle")}
 library("chartjs")
@@ -343,7 +347,7 @@ cjsLegend(position = "top")
 ---
 
 
-**Eksempel: Tvangsarv med ægtefælle og 2 børn, formue: 1.200.000,-**
+*Eksempel: Tvangsarv med ægtefælle og 2 børn, formue: 1.200.000,-*
 
 ```{r pie2,echo=FALSE, message=FALSE,result=TRUE, fig.cap=("Formuen 1.200.000,- Ægtefællen arver 50% af 25% af formuen  i tvangsarv, børnene hver 25% af 25% af formuen i tvangsarv")}
 library("chartjs")
@@ -356,7 +360,7 @@ cjsLegend(position = "top")
 
 ---
 
-**OBS: Suppleringsarv er også tvangsarv**. 
+*OBS: Suppleringsarv er også tvangsarv*. 
 
 Der er tale om en tvangsarveret, der ikke kan fratages ved testamente. 
 
@@ -372,10 +376,10 @@ Reglen vil derfor også i praksis blive påberåbt af en længstlevende ægtefæ
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/TcZb7VCClcQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
+---
+
 
 ## Kravet til et gyldigt testamente  
-
----
 
 
 
@@ -401,6 +405,7 @@ Reglen vil derfor også i praksis blive påberåbt af en længstlevende ægtefæ
 
 ### Notartestamente, jf. AL § 63
 
+![](img/notar.png)
 
 Notaren (i Byretten) påtegner testamentet og kontrollerer testators identitet, fornuft, mv.
 
@@ -412,7 +417,7 @@ Notartestamentet er svært at anfægte i praksis.
 
 ### Vidnetestamente, jf. AL § 64
 
----
+
 
 ![](img/arv1.jpg)
 
@@ -437,7 +442,7 @@ Hvis et testamentsvidne har medvirket til oprettelse af et testamente i strid me
 
 ### Nødtestamente, jf. AL § 65
 
----
+
 
 ![](img/nodtestamente.jpg)
 
