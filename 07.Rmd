@@ -35,7 +35,7 @@ cat(readLines('np.html'))
 
 ## Erstatningsansvar uden en lovgivning
 
-Tegning af en forsikring kan påvirke ens erstatningsansvar. Ligesom manglende tegning af en forsikring kan påvirke ens erstatningsansvar.^[Følgende afsnit om erstatningsansvaret og den forsikringsmæssige afdækning bygger hovedsagelig på **Sonny Kristoffersen** bøger "Kend Erstatningsreglerne", forlaget Samfundslitteratur, se e-bogens bibiotek, samt "Introduktion til forsikringsreglerne", forlaget Hans Reitzel, se e-bogens bibliotek.]
+Tegning af en forsikring kan påvirke ens erstatningsansvar. Ligesom manglende tegning af en forsikring kan påvirke ens erstatningsansvar.^[Følgende afsnit om erstatningsansvaret og den forsikringsmæssige afdækning bygger hovedsagelig på *Sonny Kristoffersen* bøger "Kend Erstatningsreglerne", forlaget Samfundslitteratur, se e-bogens bibiotek, samt "Introduktion til forsikringsreglerne", forlaget Hans Reitzel, se e-bogens bibliotek.]
 
 ![](img/erstat1.jpg)
 
