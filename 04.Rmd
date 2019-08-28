@@ -394,9 +394,21 @@ HR: Tilbud er bindende for afgiveren, jf. aftalelovens § 1.
 
 Tilbuddet bliver bindende for tilbudsgiver, når tilbudsmodtager får kendskab til tilbuddets indhold.
 
-Tilbud er bindende i butikker og butiksvinduer, medmindre køber burde indse, at der var tale om en fejl
+Tilbud er bindende i butikker og butiksvinduer, medmindre køber burde indse, at der var tale om en fejl.
     
-Tilbud er bindende i web-butikker, når sælger selv har råderet over websitet og muligvis, at der også er en indkøbsfunktion på websitet.
+Tilbud er fx bindende i web-butikker, når sælger selv har råderet over websitet og muligvis, at der også er en indkøbsfunktion på websitet.
+
+Der er ingen formkrav til udformningen af tilbuddet og kan fremsættes ved mundtlige og elektroniske erklæringer/aftaler.
+
+Tilbuddet må ikke være tilbagekald helt eller delvist (ændret).
+
+*Tilbuddet kan tilbagekaldes*, såfremt tilbagekaldelsen kommer frem til modtageren senest samtidig med, at modtageren får kundskab herom, jf. aftalelovens § 7, se senere.
+
+Hvis tilbuddet afslås af tilbudsmodtager, bortfalder tilbuddet og kan ikke accepteres senere, jf. aftalelovens § 5.
+
+*Afslaget kan tilbagekaldes*, såfremt tilbagekaldelsen kommer frem til modtageren senest samtidig med, at modtageren får kundskab herom, jf. aftalelovens § 7.
+
+
     
 ---
 
@@ -427,10 +439,10 @@ Hvis tilbudsmodtager afslår tilbuddet, er det bortfaldet, selvom acceptfristen 
 
 Sælger kan frit sælge til anden side.  
 
-Situation: Tilbagekaldelse af afslag. Tilbudsmodtager (potentiel køber) sender et afslag til sælger, men han fortryder sit afslag.
+Situation: Tilbagekaldelse af afslag. Tilbudsmodtager (potentiel køber) sender et afslag til sælger, men køber fortryder sit afslag.
 
 
-– Tilbuddet er stadig bindende for sælger, hvis købers tilbagekaldelse kommer til tilbudsgivers (sælgers) kundskab, senest samtidig med at sælger læser afslaget.
+Tilbuddet er stadig bindende for sælger, hvis købers tilbagekaldelse kommer til tilbudsgivers (sælgers) kundskab, senest samtidig med at sælger læser afslaget.
 
 
 ---
@@ -445,8 +457,31 @@ Situation: Tilbagekaldelse af afslag. Tilbudsmodtager (potentiel køber) sender 
 
 ### Accept
 
+Der er ingen formkrav til accepten i aftaleloven.
 
-**Acceptfrist er fastsat i tilbuddet:**
+Accepten kan ikke ske ved passivitet, jf. aftalelovens § 8.
+
+Man kan derfor ikke ved frafald af accept forpligte adressaten, f.eks. ved uopfordret at fremsende varer eller andre ydelser til adressaten. 
+
+Ved forbrugeraftaler er dette særligt reguleret i forbrugeraftalelovens § 6's forbud mod *negativ aftalebinding*.
+
+Accepten kan ske ved handling, f.eks. køre med DSB eller modtage varen.
+
+---
+
+*Tilbuddet skal være accepteret i rette tid:*
+
+Acceptfristen kan være fastsat i tilbuddet efter aftalelovens § 2.
+
+Er acceptfristen ikke fastsat i tilbuddet, beregnes denne efter aftalelovens § 3, stk. 1 til 2 gange forbedringstiden for tilbuddet med tillæg af en rimelig betænkningstid.
+
+*Mundtlige tilbud* skal accepteres straks, jf. aftalelovens § 3, stk. 2.
+
+Når acceptfristen er udløbet, falder tilbuddet bort. Ved for sen accept er der derfor ingen aftale, men accepten bliver til et nyt tilbud, jf. aftalelovens § 4, stk. 1.
+
+---
+
+*Når acceptfristen er fastsat i tilbuddet:*
 
 Når tilbudsmodtager har læst eller hørt om tilbuddet, har tilbudsmodtager en frist til at overveje, om tilbudsmodtager vil acceptere, fx i form af en ordrebekræftelse.
 
@@ -469,15 +504,15 @@ Rimelig betænkningstid” afhænger af de konkrete omstændigheder.
 
 ---
 
-*Betænkningstid er*:
+*Betænkningstiden er*:
 
 ![](img/tank.jpg)
 
-+	Kort, hvis prisen på salgsproduktet svinger meget.
++	Den er kort, hvis prisen på salgsproduktet svinger meget.
     
-+	Kort, hvis der er tale om letfordærvelige varer.
++	Den er kort, hvis der er tale om letfordærvelige varer.
     
-+	Længere, hvis der er tale om komplekse og større tilbud.
++	Den er længere, hvis der er tale om komplekse og større tilbud.
     
 *	Mundtlige tilbud der gives uden acceptfrist, skal accepteres straks, ellers er det bortfaldet, jf. aftalelovens § 3, stk. 2.
 
@@ -488,18 +523,19 @@ Rimelig betænkningstid” afhænger af de konkrete omstændigheder.
 
 Accepten kommer for sent frem – fristen er sprunget - Aftalelovens § 4:
 
-HR: § 4, stk. 1: Forsinket accept betragtes som et nyt tilbud, som den oprindelige tilbudsgiver skal acceptere, før der er indgået en bindende aftale.
+HR: Aftalelovens § 4, stk. 1: Forsinket accept betragtes som et nyt tilbud, som den oprindelige tilbudsgiver skal acceptere, før der er indgået en bindende aftale.
 
-U: § 4, stk. 2: Accepten er OK, hvis tilbudsgiver må indse at acceptanten tror at accepten er rettidig, fx hvis accept er sendt inden fristens udløb, men bliver forsinket hos postvæsen - tjek datostempel.
+U: Aftalelovens § 4, stk. 2: Accepten er OK, hvis tilbudsgiver må indse at acceptanten tror at accepten er rettidig, fx hvis accept er sendt inden fristens udløb, men bliver forsinket hos postvæsen - tjek datostempel.
 
-NB: Hvis tilbudsgiver ikke vil være bundet af en forsinket accept, skal han uden ugrundet ophold give acceptanten meddelelse om forsinkelsen. 
+NB: Hvis tilbudsgiver ikke vil være bundet af en forsinket accept, skal tilbudsgiver uden ugrundet ophold give acceptanten *meddelelse* om forsinkelsen, jf. aftalelovens § 40. 
 
-Lader han som ingenting, risikerer han at være bundet	og skal opfylde aftalen.
+Lader tilbudsgiver som ingenting, risikerer tilbudsgiver at være bundet	og skal opfylde aftalen.
+
 
 ---
 
 
-*”Give meddelelse”* se nærmere aftalelovens § 40:
+*”Det at give meddelelse”* se nærmere aftalelovens § 40:
 
 "Når nogen, som efter denne lov skal »give meddelelse« har indleveret meddelelsen til befordring med telegraf eller post eller, hvor andet forsvarligt befordringsmiddel benyttes, har afgivet den til befordring dermed, går det ikke ud over ham, at meddelelsen forsinkes eller ikke kommer frem".
 
@@ -585,10 +621,10 @@ Re integra-reglen kan ikke påberåbes bare fordi man har fortrudt. Der skal så
 
 ---
 
-### Uoverensstemmende accept
+### Uoverensstemmende accept i forhold til tilbuddet
 
 
-Accepten skal være i overensstemmelse med tilbuddet – som et spejlbillede, jf. aftalelovens § 6:
+Accepten skal være i overensstemmelse med tilbuddet – *som et spejlbillede*, jf. aftalelovens § 6:
 
 HR: § 6, stk. 1: En uoverensstemmende accept er et afslag, og vil blive betragtet som et modbud (nyt tilbud), men fra acceptantens side.
 
@@ -613,7 +649,7 @@ Lader tilbudsgiver som ingenting, er tilbudsgiver bundet af aftalen og skal leve
 ![](img/hotel.jpg)
 
 
-*Tema: Aftaleindgåelse og handelskøb*
+*Eksamensopgave om aftaleindgåelse og handelskøb*
 
 
 Firmaet ”Bord og stol A/S” producerer og handler med alle former for møbler men har i de senere år specialiseret sig i møbler til hoteller. ”Bord og stol A/S”s indkøber har fundet nogle meget elegante møbler i Østen lavet i et nyt og anderledes design. 
@@ -706,7 +742,9 @@ Aftalelovens § 40 om at *”give meddelelse”* omfatter også e-mails.
 
 Hovedreglen er, at aftalen er bindende, men den kan alligevel bortfalde, hvis aftalen rammes af ugyldighed.
 
-Ugyldighed som kan ramme aftalen kan opstå pga:
+---
+
+Ugyldighed som kan ramme aftalen kan opstå pga. bl.a. følgende forhold:
 
 *"Tilblivelsesmangler"* – omstændigheder ved aftalens indgåelse, fx svig, forfalskning, voldelig tvang, udnyttelse mv. (sondres mellem svage og stærke ugyldighedsgrunde)
 
@@ -716,6 +754,62 @@ Ugyldighed som kan ramme aftalen kan opstå pga:
 
 *"Bristende forudsætninger"* - et løfte kan afgives på baggrund af nogle forudsætninger, som ikke nødvendigvis er diskuteret eller udtrykt klart mellem parterne i en aftale.
 
+---
+
+*Aftalens ugyldighed kan skyldes følgende forhold:
+
+*Oversigt*
+
+Umyndige (under 18 år og under lavværgemål), jf.
+værgemålsloven § 44.
+
+---
+
+Fornuftsmangel – Værgemålslovens § 46.
+
+---
+
+Falsk, tiltrådt uden bemyndigelse.
+
+---
+
+Forfalskning, rettet i gyldig dokument.
+
+---
+
+Voldelig tvang, vold eller trussel derom mod løftegiveren, jf. aftalelovens § 28.
+
+---
+
+Forvanskning, løftet er undergået forandring, jf. aftalelovens § 32, stk. 2.
+
+---
+
+Simpel tvang, anden tvang end vold mod løftegiver hvis ond tro, jf. aftalelovens § 29.
+
+---
+
+Svig, urigtige oplysninger eller bevidst fortielse af sandheden ved ond tro, jf. aftalelovens § 30.
+
+---
+
+Udnyttelse/åger, misforhold ved udnyttelse hvis ond tro, jf. aftalelovens § 31.
+
+---
+
+Fejltagelse, løftet har fået et andet indhold end tilsigtet hvis ond tro, jf. aftalelovens § 32, stk. 1.
+
+---
+
+Stridende mod almindelig hæderlighed hvis ond tro, jf. aftalelovens § 33 smhl. § 39.
+
+---
+
+Urimeligt/i strid med redelig handlemåde (generalklausulen), jf. aftalelovens § 36 og ved forbrugeraftaler aftalelovens §§ 38a-c.
+
+---
+
+Bristende forudsætninger.
 
 ---
 
@@ -723,7 +817,7 @@ Ugyldighed som kan ramme aftalen kan opstå pga:
 
 
 
-**Ugyldighedsgrunde**
+*Ugyldighedsgrunde*
 
 Der skelnes mellem stærke og svage ugyldighedsgrunde. 
 
@@ -771,7 +865,7 @@ De svage ugyldighedsgrunde omfatter følgende grunde eller årsager:
 
 ---
 
-**Nærmere om de stærke ugyldighedsgrunde:**
+*Nærmere om de stærke ugyldighedsgrunde:*
 
 ![](img/falsk.jpg)
 
@@ -819,7 +913,7 @@ Gør løftegiver ikke det, bliver vedkommende bundet af sit løfte og aftalen er
 
 Personer under 18 år:
 
-Det er hovedregken i dansk ret, at umyndige ikke kan indgå retshandler eller råde over deres formue, fx købe på kredit, sælge sine ting, pantsætte sine ting – aftale vil være ugyldig, uanset om løftemodtager var i god tro.
+Det er hovedregken i dansk ret, at umyndige ikke kan indgå retshandler eller råde over deres formue, fx købe på kredit, sælge sine ting, pantsætte sine ting – aftale vil være ugyldig, uanset om løftemodtager var i god tro, jf. værgemålslovens §§ 44 og 45.
 
 Undtagelserne for denne hovedregel findes i værgemålslovens § 42 – hvorefter der kan indgås gyldige aftaler med umyndige, hvis der er tale om:
 
@@ -1058,6 +1152,16 @@ Ved svage ugyldighedsgrunde:
       .
 +	LM er i god tro = LG er bundet af løftet (aftalen fortsat bindende).
 
+
+---
+
+Retsvirkningen af at en aftale er ugyldig:
+
+-	Parterne fritages for at opfylde aftalen. 
+-	Evt. leverede ydelser skal tilbageleveres.
+-	Evt. erstatning til den forurettede part, hvis der er lidt et økonomisk tab. 
+
+
 ---
 
 ## Urimelige aftaler
@@ -1110,15 +1214,21 @@ En bristende forudsætning: Løftegivers vildfarelse vedrører fremtidige forhol
 
 Ophævelse af aftalen kræver at 3 betingelser skal være opfyldt:
 
-1.	Forudsætningen skal have været væsentlig for løftegiver
+1.	Forudsætningen skal have været væsentlig for løftegiver.
 
-2.	Forudsætningen skal være kendt for løftemodtager
+2.	Forudsætningen skal være kendt for løftemodtager.
 
 3.	Forudsætningen skal være relevant og rimelig efter forholdene og i forhold til løftemodtagers risiko og byrde, hvis forudsætningen svigter.
 
 ---
 
-En ugyldig aftale er når parterne ikke er forpligtet af det løfte de har afgivet og aftalen ophæves.
+Eller benævnt på en anden kort måde:
+
+Bristende forudsætninger, hvis *afgørende/væsentligt, kendeligt og relevant/rimeligt*.
+
+---
+
+En *ugyldig aftale* er når parterne ikke er forpligtet af det løfte de har afgivet og aftalen ophæves.
 
 *	Tilbagelevere allerede udvekslede ydelser (penge/varer)
 
@@ -1166,10 +1276,9 @@ Se fra retspraksis:
 
 *Fortolkningsprincipper:* Ved tvivl om indholdet af en aftale.  
 
-*Koncipistreglen:* Aftalen fortolkes til skade for den, som har udarbejdet aftalen.
+*Koncipistreglen:* Aftalen fortolkes til skade for den, som har udarbejdet aftalen, jf. aftalelovens § 38b.
 
 *Minimumsreglen:* Aftalen fortolkes til fordel for løftegiver. 
-
 *Prioritetsreglen:* Aftalen fortolkes til fordel for det specielle vilkår frem for det generelle.  
 
 *Gyldighedsreglen:* Aftalen fortolkes med henblik på at opnå en gyldig aftale, som vil kunne gennemføres.  

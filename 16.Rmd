@@ -1,7 +1,7 @@
 # Fordringer, gældsbreve og pantebreve
 
 ```{r, echo=FALSE, results='asis'}
-cat(readLines('np.html'))
+#cat(readLines('np.html'))
 ```
 
 ![](img/lon.jpg)

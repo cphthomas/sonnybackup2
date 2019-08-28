@@ -17,7 +17,7 @@ Reglerne for anvendelse af fuldmagt findes i aftalelovens kapitel II.
 
 *Forskellige former for fuldmagter*
 
-*Stillingsfuldmagt* §10,2 i aftaleloven i relation til et ansættelsesforhold fx læger, kassedamer og banksassistenter.
+*Stillingsfuldmagt* § 10,2 i aftaleloven i relation til et ansættelsesforhold fx læger, kassedamer og banksassistenter.
 
 *Forevisningsfuldmagt* §16,1 i aftaleloven fx et stykke papir der giver lov til at købe/sælge i fuldmagtsgivers navn. Fx. afhentning i Føtex af en andens (fuldmagtsgivers) postpakke.
 
@@ -164,7 +164,7 @@ Ved *»beføjelse«* (bemyndigelse) den ret eller tilladelse, fuldmægtigen iht.
 
 * *Legitimation:* Den ydre fuldmagt er synlig og kendt for omverdenen.
 
-Fuldmagt/legitimation: Omfatter det tredjemand kan forvente. Fuldmagtsgivers signal til omverdenen om, hvordan fuldmægtigen kan binde fuldmagtsgiver. De ydre rammer (eks. købe et hus)
+Fuldmagt/legitimation: Omfatter det tredjemand kan forvente. Fuldmagtsgivers signal til omverdenen om, hvordan fuldmægtigen kan binde fuldmagtsgiver. De ydre rammer (eks. købe et hus).
 
 Fuldmagt og bemyndigelse kan være ens, men bemyndigelsen er ofte snævrere end fuldmagten. Fuldmagten kan aldrig være snævrere end bemyndigelse.
 
@@ -233,7 +233,9 @@ Tredjemand fx kunden kan påberåbe sig stillingsfuldmagten, selv om kunden ikke
 
 En ansat, har således via sin stilling, fuldmagt til at handle på vegne af fuldmagtsgiver (arbejdsgiver).
 
-Fuldmægtigen (den ansatte) har udadtil fuldmagt til at handle inden for stillingens grænser, dvs. den ansatte kan indgå de aftaler med tredjemand, som er sædvanlige for stillingen, fx en ejendomsmægler kan indgå en formidlingsaftale med en sælger af et hus. Ejendomsmægleren kan dog ikke forpligte opdragsgiveren (sælgeren) uden særlig fuldmagt hertil.
+Fuldmægtigen (den ansatte) har udadtil fuldmagt til at handle inden for stillingens grænser, dvs. den ansatte kan indgå de aftaler med tredjemand, som er sædvanlige for stillingen, fx en ejendomsmægler kan indgå en formidlingsaftale med en sælger af et hus. 
+
+Ejendomsmægleren kan dog ikke forpligte opdragsgiveren (sælgeren) uden særlig fuldmagt hertil.
 
 En kunderådgiver i en bank kan i sagens natur indgå aftaler om lån fra banken, men hun kan ikke indgå aftaler med et reklamebureau om ny markedsføringskampagne af bankens lån, medmindre hun har fået en udvidet bemyndigelse/særlig tilladelse fra fuldmagtsgiver fx hendes områdechef.
 
