@@ -421,7 +421,11 @@ Hvis forsikringsselskabet ikke ville have fortsat forsikringen, hvis det havde k
 
 Se retspraksis:
 
+
 ![](img/hest.png)
+
+
+
 
 **U 1996.294 H:** En bestemmelse i en hesteforsikring om, at der skulle gives meddelelse om, hvis der skete ændringer i de forsikrede dyrs forhold, opstaldning og anvendelse, opfyldte ikke kravet for så vidt angik en knælidelse, som den forsikrede hest pådrog sig. 
 
@@ -444,7 +448,7 @@ Af forsikringsbetingelserne fremgår, at man skal anmelde enhver skade så hurti
 
 På den måde kan forsikringsselskabet danne sig et overblik over skadens omfang og sørge for at indhente supplerende oplysninger om skaden, hvis det er nødvendigt. 
 
-Det kan også være, at skadede genstande bør „sikres“, så det senere er utvivlsomt,hvad skaden omfatter.  
+Det kan også være, at skadede genstande bør "sikres“, så det senere er utvivlsomt,hvad skaden omfatter.  
 
 ---
 
@@ -527,6 +531,39 @@ I praksis vil en forsikringstager således have i alt 8 uger (3 uger + 2 uger + 
 
 Er der tale om en nytegnet forsikring, kan det være aftalt, at forsikringsaftalen ophører uden opsigelse, hvis betaling ikke er sket inden en kortere frist (typisk 1 uge).  
 
+---
+
+Der må anses for tvivlsomt om automatisk betaling i sig selv udgør accept af ændringer i forsikringsaftale
+
+Efter Forbrugerombudsmandens opfattelse, jf. hendes sagsnr.: **18/08244** og **18/05778** er det tvivlsomt, om en forsikringstager bindes aftaleretligt af et forsikringsselskabs ensidige ændringer blot ved at foretage en automatisk betaling via Betalingsservice.
+
+To forsikringsselskaber havde tilføjet nogle såkaldte tilvalgsdækninger til dele af deres forsikringer.
+
+Forsikringstagerne skulle aktivt framelde disse tilvalgsdækninger over for selskabet, hvis ikke de ønskede dækningen og den medfølgende prisstigning. Der var således tale om negativ aftalebinding/ passiv accept, jf. forbudddet i forbrugeraftalelovens § 6.
+
+Finanstilsynet påtalte i sommeren 2017, at selskaberne ved denne fremgangsmåde havde overtrådt § 3 i bekendtgørelse om god skik for finansielle virksomheder. 
+
+Efterfølgende blev forholdet reguleret i bekendtgørelse om god skik for forsikringsdistributører, så det efter den nugældende § 19, stk. 4, er forbudt at anvende fremgangsmåden til at indføre tilvalgsdækninger.
+
+Forbrugerombudsmanden foretog en høring af de to selskaber og besluttede herefter ikke at foretage sig yderligere over for selskaberne. 
+
+Forbrugerombudsmanden lagde navnlig vægt på, at selskaberne begge havde oplyst, at de efter Finanstilsynets afgørelser havde bragt den nævnte praksis til ophør.
+
+Under høringen blev Forbrugerombudsmanden opmærksom på, at fremgangsmåden også var blevet anvendt over for de af selskabernes kunder, der var tilmeldt automatisk betaling via Betalingsservice.
+
+Forbrugerombudsmanden udtalte i denne anledning, at Forsikringsselskaber ifølge retspraksis har en vis adgang til at foretage ændringer i løbende aftaler ved brug af negativ aftalebinding. 
+
+Sådanne ændringer forudsætter normalt, at forsikringstageren fortsætter præmiebetalingen efter at være blevet klart og tydeligt informeret om ændringen. 
+
+Dette skyldes, at man i dansk ret ofte anser selve betalingshandlingen som et udtryk for, at betaleren ønsker at blive bundet af aftalen. 
+
+Efter Forbrugerombudsmandens opfattelse vil en betaling dog næppe kunne tillægges samme betydning, hvis betalingen sker automatisk via Betalingsservice, som hvis den sker som en aktiv handling fra forbrugerens side. 
+
+Dette kan lede til tvivl om, hvorvidt en forsikringstager bliver aftaleretligt bundet af et forsikringsselskabs ændringer blot ved at foretage en automatisk betaling via Betalingsservice. 
+
+Spørgsmålet er dog ikke prøvet ved domstolene".
+
+ 
 ---
 
 ## <font color="red">Generelle forhold mellem forsikringstageren og forsikringsselskabet<sup> Premium </font></sup>
