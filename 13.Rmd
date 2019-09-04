@@ -282,17 +282,21 @@ Provenuet fra tvangsauktionen nedbringer skyldners gæld
 
 Tvangsinddrivelse kræver et fundament, jf. RPL § 478 fx:
 
-* Dom eller retsforlig
+* Dom eller retsforlig.
 
-* Frivillige forlig, hvis der står, det kan tvangsfuldbyrdes
+* Frivillige forlig, hvis der står, det kan tvangsfuldbyrdes.
 
-* Gældsbreve, hvis der står, det kan tvangsfuldbyrdes
+* Pantebreve.
 
-* Pantebreve
+* Afgørelser fra Forbrugerklagenævnet og de private godkendte tvistløsningsorganger efter 30 dage.
 
-* Afgørelser fra Forbrugerklagenævnet og de private godkendte tvistløsningsorganger efter 30 dage
+* Krav fra offentlige myndigheder fx Skat.
 
-* Krav fra offentlige myndigheder fx Skat
+* Gældsbreve, hvis der står, det kan tvangsfuldbyrdes.
+
+---
+
+Se **U 2019.3219 V** Der kunne ikke ske tvangsfuldbyrdelse på grundlag af et digitalt gældsbrev, hvor underskriften ikke var tilføjet digitalt af den anførte debitor, men ifølge debitors forklaring af hendes daværende kæreste.
 
 ---
 
@@ -701,6 +705,10 @@ Skifteretten kan videregive oplysninger fra registret til en kurator eller rekon
 
 ---
 
+Se **U 2019.3164 V**, hvor en direktør i konkursramt selskab blev pålagt konkurskarantæne i 3 år. Sagen drejede sig om, hvorvidt der var grundlag for at pålægge A, der havde været direktør i et selskab, som var gået konkurs, konkurskarantæne. Det blev lagt til grund, at A havde deltaget i selskabets ledelse inden for fristen på 1 år i konkurslovens § 157, stk. 1. Det blev endvidere lagt til grund, at bogføringen og afregning af selskabsskat i selskabet havde været utilstrækkelig, og at A havde stået bag betydelige betalinger, hævninger og udlæg fra selskabet, uden at disse havde været begrundet i selskabets forhold. Der var anmeldt krav i boet for 745.186 kr., og der var ikke udsigt til udbetaling af dividende af betydning. Det blev endelig lagt til grund, at A ikke havde efterkommet forpligtelsen til at samarbejde med kurator og til at videregive regnskabs- og bilagsmaterialet til kurator. Landsretten fandt, at A ved sin manglende vilje til at samarbejde med kurator, herunder undladelse af at udlevere det fuldstændige bogførings- og regnskabsmateriale, groft havde tilsidesat sine forpligtelser som dirketør i selskabet. På denne baggrund var betingelserne for at anse A for uegnet til at deltage i ledelsen af en erhvervsvirksomhed og pålægge ham konkurskarantæne opfyldt, jf. konkurslovens § 157, stk. 1, og 2. Efter en samlet vurdering fandtes der ikke grundlag for at fravige udgangspunktet om at pålægge konkurskarantæne i 3 år, jf. konkurslovens § 158, stk. 1.
+
+---
+
 ### Omstødelse
 
 Konkursens formål er at alle kreditorer stilles lige
@@ -854,6 +862,10 @@ timevis(data, showZoom = FALSE)%>%
   setSelection("5") %>%
   fitWindow(list(animation = TRUE))
 ```
+
+---
+
+Se dommen i **U 2019.3119 V** Overdragelse af selskabs biler til selskabets direktør kort før konkursen, hvorved selskabets gæld til direktøren blev nedbragt ved modregning, omstødt i medfør af konkurslovens § 67, stk. 1, jf. § 69.
 
 ---
 
