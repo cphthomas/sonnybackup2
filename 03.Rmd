@@ -13,13 +13,13 @@ cat(readLines('npp.html'))
 
 EU-Domstolen træffer afgørelser i de sager, der indbringes for den. De mest almindelige typer sager er:
 
-Fortolkning af love (præjudicielle afgørelser) - de nationale domstole i EU-landene skal sikre, at EU-lovene anvendes korrekt, men domstolene i de forskellige lande kan fortolke reglerne forskellige. 
+* Fortolkning af love (præjudicielle afgørelser) - de nationale domstole i EU-landene skal sikre, at EU-lovene anvendes korrekt, men domstolene i de forskellige lande kan fortolke reglerne forskellige. 
 
 Hvis en national domstol er i tvivl om fortolkningen eller gyldigheden af en EU-retsakt, kan den spørge Domstolen til råds. 
 
 Den samme mekanisme kan anvendes til at afgøre, om national ret eller praksis er forenelig med EU-retten.
 
-Håndhævelse af loven (overtrædelsesprocedurer) - denne form for sag føres mod et medlemsland, hvis det ikke overholder EU-reglerne. 
+* Håndhævelse af loven (overtrædelsesprocedurer) - denne form for sag føres mod et medlemsland, hvis det ikke overholder EU-reglerne. 
 
 Den kan indledes af Europa-Kommissionen eller et andet EU-land. 
 
@@ -31,7 +31,7 @@ Domstolen blive bedt om at ophæve den - af et medlemsland, Rådet, Europa-Kommi
 
 Privatpersoner kan også bede Domstolen om at ophæve en EU-retsakt, som berører dem direkte.
 
-Sikring af, at EU træffer foranstaltninger (passivitetssøgsmål) – Parlamentet, Rådet og Kommissionen skal træffe visse afgørelser i bestemte situationer. 
+* Sikring af, at EU træffer foranstaltninger (passivitetssøgsmål) – Parlamentet, Rådet og Kommissionen skal træffe visse afgørelser i bestemte situationer. 
 
 Undlader de dette, kan EU's institutioner eller (i visse tilfælde) enkeltpersoner eller virksomheder klage til Domstolen.
 
@@ -76,8 +76,12 @@ Sagerne behandles i to faser:
 De fleste sager behandles af 5 dommere, og det sker meget sjældent, at en sag høres af hele Domstolen.  
     
 +	Om det er nødvendigt med en høring (den mundtlige fase), og om der er behov for en officiel udtalelse fra generaladvokaten.
+
+---
     
-**Den mundtlige fase – en offentlig høring**.  
+**Den mundtlige fase**
+
+*En offentlig høring*:
 
 +	Parternes advokater forelægger deres sag for dommerne og generaladvokaten, som kan stille spørgsmål til dem.
 
@@ -173,7 +177,7 @@ For at kunne varetage sit hverv er Domstolen tillagt vide retlige beføjelser, s
 
 Domstolen samarbejder med samtlige retsinstanser i medlemsstaterne, som er de ordinære retter, på unionsrettens område. 
 
-For at sikre en effektiv og ensartet anvendelse af unionsretten og for at undgå forskelle i fortolkningen heraf kan - og i visse tilfælde skal - de nationale retter forelægge Domstolen **præjudicielle spørgsmål vedrørende fortolkningen af unionsretten**, f.eks. med henblik på, at den nationale ret kan efterprøve de nationale bestemmelsers overensstemmelse med unionsretten. 
+For at sikre en effektiv og ensartet anvendelse af unionsretten og for at undgå forskelle i fortolkningen heraf kan - og i visse tilfælde skal - de nationale retter forelægge Domstolen *præjudicielle spørgsmål vedrørende fortolkningen af unionsretten*, f.eks. med henblik på, at den nationale ret kan efterprøve de nationale bestemmelsers overensstemmelse med unionsretten. 
 
 Den præjudicielle forelæggelse kan også vedrøre spørgsmål om en unionsretsakts lovlighed.
 
@@ -238,7 +242,7 @@ Beføjelsen til at påkende passivitetssøgsmål er opdelt mellem Domstolen og R
 ###	<font color="red">Appelsager<sup> Premium </font></sup>
 
 
-Endelig kan domme og kendelser afsagt af Retten appelleres til Domstolen for så vidt angår retsspørgsmål. 
+Endelig kan domme og kendelser afsagt af Retten appelleres til Domstolen, for så vidt angår retsspørgsmål. 
 
 Såfremt appellen admitteres, og Domstolen giver appellanten medhold i realiteten, ophæver den Rettens afgørelse. 
 
@@ -250,18 +254,16 @@ I tilfælde af hjemvisning er Retten bundet af de afgørelser, som er truffet af
 
 ---
 
-## <font color="red">Sagsbehandling<sup> Premium </font></sup>
+### <font color="red">Sagsbehandling<sup> Premium </font></sup>
 
 
 Uanset hvilken sagstype der er tale om, omfatter den en skriftlig fase og i givet fald en mundtlig fase, der er offentlig. 
 
-Der er imidlertid forskel på sagsbehandlingen for så vidt angår præjudicielle forelæggelser og i de øvrige sager(direkte søgsmål og appelsager).
+Der er imidlertid forskel på sagsbehandlingen, for så vidt angår præjudicielle forelæggelser og i de øvrige sager(direkte søgsmål og appelsager).
 
 ---
 
-### <font color="red">Sagens anlæg og den skriftlige forhandling<sup> Premium </font></sup>
-
-##	<font color="red">Præjudicielle forelæggelser<sup> Premium </font></sup>
+###	<font color="red">Præjudicielle forelæggelser<sup> Premium </font></sup>
 
 
 Den nationale domstol forelægger Domstolen spørgsmål om fortolkningen eller gyldigheden af en bestemmelse i unionsretten, hvilket sædvanligvis sker i form af en retsafgørelse, alt efter de nationale retsplejeregler. 
@@ -282,7 +284,7 @@ Parterne, medlemsstaterne og institutionerne har herefter en frist på to måned
 
 ---
 
-##	<font color="red">Direkte søgsmål og appelsager<sup> Premium </font></sup>
+###	<font color="red">Direkte søgsmål og appelsager<sup> Premium </font></sup>
 
 Sagen anlægges ved Domstolen ved indlevering af en stævning til justitskontoret. 
 
@@ -294,7 +296,7 @@ I begge sagstyper udpeges der af henholdsvis præsidenten og førstegeneraladvok
 
 ---
 
-## <font color="red">Sagens oplysning<sup> Premium </font></sup>
+### <font color="red">Sagens oplysning<sup> Premium </font></sup>
 
 
 Når den skriftlige forhandling er afsluttet, opfordres parterne til inden for en frist på tre uger at tilkendegive, om og hvorfor de ønsker, at der afholdes en mundtlig forhandling. 

@@ -72,7 +72,7 @@ Før en lov kan blive vedtaget, skal den behandles 3 gange i folketinget.
 
 Det er regeringen, der fremsætter lovforslaget, og det er folketinget, der vedtager eller forkaster den.
 
-Der gælder et ressikkerhedsmæssigt princip i Danmark om lighed for loven uanset om man er fattig eller rig.
+Der gælder et retssikkerhedsmæssigt princip i Danmark om lighed for loven, uanset om man er fattig eller rig.
 
 ![](img/lov7.jpg)
 
@@ -87,9 +87,19 @@ En bekendtgørelse er en administrativ forskrift udstedt af en forvaltningsmyndi
 
 Bekendtgørelser er bindende for borgere, virksomheder og myndigheder, medmindre andet følger af bekendtgørelsen.
 
+---
+
+### Cirkulære
+
+*Cirkulærer* er kun bindende for myndighederne og kan ikke påberåbes af borgerne. 
+
+Cirkulærer udstedes af centrale administrative myndigheder med underordnede myndigheder som adressater. 
+
+Et cirkulære kan ikke forpligte borgerne, og disse kan normalt heller ikke retligt støtte sig på et cirkulære alene.
+
 --- 
 
-### Dommenes retskildværdi (præjudikat)
+### Dommenes retsskildværdi (præjudikat)
 
 ![](img/dom1.png)
 
@@ -122,9 +132,9 @@ Undertiden støder man i lovgivningen på, at en handlemåde skal være overenss
 
 Eksempler herpå er god advokatskik, god ejendomsmæglerskik, god skik for de finansielle virksomheder, god markedsføringsskik, god revisionsskik, god inkassoskik og god forvaltningsskik m.v. 
 
-God skik regler findes i begrænset omfang på lovniveau (eksempel herpå er bekendtgørelse om god skik for finansielle virksomheder), mens normerne for god skik i andre tilfælde er fastsat af domstolene mv. 
+God skik regler findes i begrænset omfang på lov- eller bekendtgørelsesniveau (eksempel herpå er bekendtgørelse om god skik for finansielle virksomheder), mens normerne for god skik i andre tilfælde er fastsat af domstolene mv. 
 
-God skik er som udgangspunkt branchebestemt og de vage rammer sikre en tidsvarende standardnorm, der udvikles i takt med samfundsudviklingen.
+God skik er som udgangspunkt branchebestemt, og de vage rammer sikrer en tidsvarende standardnorm, der udvikles i takt med samfundsudviklingen.
 
 ![](img/god.jpg)
 
@@ -132,11 +142,11 @@ God skik er som udgangspunkt branchebestemt og de vage rammer sikre en tidsvaren
 
 ### Retsædvane
 
-Retssædvaner er ulovreguleret, men har en retlig værdi, da retssædvanerne er på lovniveau. 
+Retssædvaner er ulovreguleret, men selvom retssædvanerne er ulovreguleret har de som retskilde samme betydning, som de var på lovniveau. 
 
 Nogle retssædvaner er udviklet af domstolene. 
 
-Domslæsning, læse anerkendte juridiske grundsætninger og søge i retslitteraturen er nogle af svarene på, hvor retssædvaner kan findes. 
+Domslæsning, læsning af anerkendte juridiske grundsætninger og søgning i retslitteraturen er nogle af svarene på, hvor retssædvaner kan findes. 
 
 Imidlertid er retssædvaner ikke vilkårlige, hvorfor der er flere elementer, der skal være opfyldt, før retssædvanen overhovedet kan tillægges betydning. 
 
@@ -157,7 +167,7 @@ Den traditionelle opfattelse er, at det være en handlemåde, der er
 
 Kutyme er defineret ved at være en sædvane. 
 
-Den har ikke samme retskildeværdi som retssædvane, da retssædvane er på lovniveau, og må derfor betragtes trin-lavere. 
+Den har ikke samme retskildeværdi som retssædvane, da retssædvane svarer til lovniveau. Kutyme må derfor betragtes som trin-lavere. 
 
 Kutyme er en alment kendt handlemåde i en bestemt branche, hvilket aktørerne i den pågældende branche har eller bør have viden om. 
 
@@ -171,14 +181,14 @@ Hvad der er kutymer, kan indhentes informationer om fra brancheforeninger såsom
 
 ### Aftalen
 
-Aftaler (f.eks. en kontrakt) der er indgået mellem parter udgør blandt de vigtigste retskilder. 
+Aftaler (f.eks. en kontrakt) der er indgået mellem parter, anses for en af de vigtigste retskilder. 
 
-Imidlertid er der ikke tale om en "lov", men reguleringen heraf kan være underlagt lov, og der må der sondres mellem, om aftalen er underlagt præceptive lovbestemmelser, 
+Imidlertid er der ikke tale om en "lov", men reguleringen af aftalen kan være underlagt lovgivningen. Det skal derfor afdækkes, om aftalen er underlagt præceptive (ufravigelige) lovregler og regler, der er deklaratoriske (fravigelige), 
 
 
 ![](img/lov3.jpg)
 
-aftaler der er i strid mod lov og ærbarhed (Danske Lovs 5-1-2), aftaler der uden et gyldigt grundlag binder en tredjemand, beskyttelsespræceptive (ufravigelige) lovregler og regler, der er deklaratoriske (fravigelige).
+om aftalen er i strid mod lov og ærbarhed (Danske Lovs 5-1-2), og om aftalen, uden et gyldigt grundlag binder en tredjemand.
 
 Præceptive regler er kendetegnet ved, at de ikke kan fraviges ved aftale. Aftaler i strid mod lov og ærbarhed er kendetegnet ved, at aftalen er i strid med ufravigelige regler. 
 
@@ -221,7 +231,7 @@ Nogle angår alle EU-lande, mens andre kun angår nogle stykker.
 
 ### Forordninger
 
-En "forordning" er en bindende retsakt. Det skal følges i alle enkeltheder i hele EU. 
+En "forordning" er en bindende retsakt, som er direkte gældende i EU-medlemsstaterne - parallet til en national lov, se fx forordning 241/2004 om flypassagers rettigheder. Derfor skal de enklet EU-medlemsstater følge forordningen i alle dens enkeltheder. 
 
 Da EU f.eks. ønskede at garantere fælles sikkerhedsforanstaltninger for varer importeret fra lande uden for EU, vedtog Rådet en forordning.
 
@@ -328,7 +338,7 @@ En retsfølge (Afgørelsen, hvem der kommer til at betale for misbruget af Danko
 
 ---
 
-Se f.eks. i henhold til bestemmelsen i betalingslovens § 100, stk. 4, nr. 3, hæfter betaleren for op til 8.000 kr. af misbrug, som finder sted som følge af betalerens groft uforsvarlige adfærd.
+Se f.eks. bestemmelsen i betalingslovens § 100, stk. 4, nr. 3, hvorefter betaleren hæfter for op til 8.000 kr. af misbrug, som finder sted som følge af betalerens groft uforsvarlige adfærd.
 
 Begrebet groft uforsvarlig adfærd er ikke nærmere afgrænset i betalingsloven, men traditionelt anvendes begrebet »grov uagtsomhed« som betegnelse for »tilsidesættelse af den agtpågivenhed, som selv skødesløse personer plejer at udvise.« 
 

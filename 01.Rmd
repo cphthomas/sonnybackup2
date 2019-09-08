@@ -55,7 +55,7 @@ EU-retten står over dansk ret, sådan at en dansk lov kan være ulovlig, nemlig
 
 I Danmark fejrer man hvert år grundlovens fødselsdag 5. juni. Men hvordan blev grundloven egentlig indført?<img src="img/Grundloven.jpg" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Fra 1660 til 1848 havde Danmark enevælde og i 1700-tallet begyndte modstanden mod enevældet at ulme rundt om i Europa. 
+Fra 1660 til 1848 havde Danmark enevælde, og i 1700-tallet begyndte modstanden mod enevældet at ulme rundt om i Europa. 
 
 Befolkningerne stillede krav om, at folket skulle være med til at bestemme, hvordan deres land skulle styres, og flere steder blev monarkiet væltet og erstattet af en republik.
 
@@ -191,7 +191,7 @@ Men helt sådan er det ikke i virkeligheden.
 
 I praksis er det nemlig regeringen og Folketinget, som bestemmer, hvordan lovene skal se ud. 
 
-Dronningen skriver dem bare under og derfor ingen reel magt. 
+Dronningen skriver dem bare under og har derfor ingen reel magt. 
 
 Dronningen skal "føre lovene ud i livet" – hun har formel magt. 
 
@@ -241,7 +241,7 @@ Folketinget er den lovgivende magt.
 
 Folketinget og regeringen er de eneste, der kan fremsætte lovforslag, dvs. komme med forslag til nye love og lovændringer. 
 
-Den lovgivende magt er Folketinget og regering, men det er kun Folketinget, der kan vedtage lovforslag.
+Den lovgivende magt er Folketinget og det er kun Folketinget, der kan vedtage lovforslag.
 
 
 ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` beskriver fordelingen af magten mellem Folketinget (lovgivende), regeringen (udøvende og lovgivende) og domstolene (dømmende), også kaldet magtens tredeling. 
@@ -381,7 +381,7 @@ Udvalgene arbejder med hvert deres fagområde og behandler både lovgivning og d
 ## Regeringen den udøvende magt
 
 
-Statsministeren er regeringens chef og den der bestemmer, hvem der skal være minister i regeringen. 
+Statsministeren er regeringens chef og den, der bestemmer, hvem der skal være minister i regeringen. 
 
 Regeringen laver landets love, mens Folketinget vedtager dem. 
 
@@ -435,7 +435,7 @@ Taber regeringen valget, skal der findes en ny statsminister og en ny regering.
 
 Den siddende statsminister skal, i samarbejde med dronningen, finde ud af, hvilken statsministerkandidat der har den bredeste opbakning hos det nye folketingsmedlemmer. Det kaldes en dronningerunde.
 
-Der kan også udnævnes af dronningen en "kongelig undersøgere", som ikke nødvendigvis er den siddeende statsminister, se f.eks. udnævelsen af Mette Frderiksen som kongelig undersøger efter folketingsvalget i  2019.
+Der kan også udnævnes af dronningen en "kongelig undersøger", som ikke nødvendigvis er den siddeende statsminister, se f.eks. udnævelsen af Mette Frderiksen som kongelig undersøger efter folketingsvalget i  2019.
 
 Når statsministeren har fundet sine ministre, udnævner dronningen formelt regeringen på Amalienborg. Regeringen kommer bagefter ud på slotspladsen. 
 
@@ -465,7 +465,7 @@ Lovgivningsarbejdet har regeringen også stor indflydelse på.
 
 Det er regeringen, der forbereder og foreslår langt de fleste nye love og ændringer i eksisterende love. 
 
-Regeringen er ansvarlig for hele processen med forberedelse af lovforslagene inden de når til Folketinget, herunder at lægge de overordnede planer, drive de politiske forhandlinger, skrive lovudkast og sende det i høring.
+Regeringen er ansvarlig for hele processen med forberedelse af lovforslagene, inden de når til Folketinget, herunder at lægge de overordnede planer, drive de politiske forhandlinger, skrive lovudkast og sende det i høring.
 
 Når regeringen foreslår en lov, kaldes det, at den fremsætter et lovforslag. 
 
@@ -735,19 +735,23 @@ Særlige forvaltnings- eller forfatningsdomstole anvender man i mange andre EU-l
 
 ### Landsretterne
 
-![Østre Landsret i Bredgade 55, København K](img/landsret.png)
+![Østre Landsret i København]
+
+
+(img/landsret.png)
 
 I Danmark findes der 2 landsretter: Vestre Landsret i Viborg og Østre Landsret i København. Landsretten behandler primært appelsager fra byretten.
 
 Hvis byretten f.eks. mener, at en sag er af principiel karakter, kan den også henvise sagen direkte til behandling i landsretten.
  
-Adressen: Østre Landsret i Bredgade 55, København K
+Østre Landsret ligger i København.
 
 Ved landsretterne er ansat ca. 100 landsdommere. Hver landsret ledes af en præsident.
 
 
 Vestre Landsret ligger i Viborg og behandler sager fra Jylland.
-Østre Landsret ligger i København og behandler sager fra resten af landet, Færøerne og Grønland.
+
+Østre Landsret ligger som nævnt i København og behandler ligeledes sager fra resten af landet, Færøerne og Grønland.
 
 
 Landsretterne er delt i afdelinger. 
@@ -799,6 +803,15 @@ Danmark har 24 byretter. De er fordelt over hele landet. Byretten behandler som 
 *	straffesager
 *	tinglysningssager
 *	skiftesager 
+
+---
+
+*Skifteretten* som er en afdeling under byretten behandler først og fremmest følgende typer sager: Skifte af dødsboer, skifte af ægtefællers fællesbo, insolvenssager og sager om konkurskarantæne.
+
+---
+
+*Fogedretten* som er en afdeling under byretten behandler sager om tvangsgennemførelse af krav. Det kan for eksempel være krav om betaling af penge eller krav om at få en ting udleveret.
+
 
 ---
 
@@ -925,11 +938,17 @@ text_tbl%>%
 
 ### Processuelle grundbegreber
 
-*Forhandlingsprincippet*: Sagsøger og sagsøgte har selv ansvaret for sagens bevisførelse. Retten kan opfordre parterne til at føre et bestemt bevis, men parterne er ikke forpligtet til at følge rettens opfordring. 
+*Forhandlingsprincippet*: Sagsøger og sagsøgte har selv ansvaret for sagens bevisførelse. Retten kan opfordre parterne til at føre et bestemt bevis, men parterne er ikke forpligtet til at følge rettens opfordring. Så dommen i en civil retssag kan således alene baseres på det, parterne har fremlagt under retssagen.
+
+---
 
 *Bevisumiddelbarhedsprincippet*: Beviser skal føres umiddelbart foran dommeren. 
 
-*Den frie bevisbedømmelse*: Retten har frihed til på objektivt grundlag, at vurdere og afgøre, hvad der findes bevist under sagen, og hvilke beviser der vægter tungere end andre.
+---
+
+*Den frie bevisbedømmelse*: Retten har frihed til på objektivt grundlag at vurdere og afgøre, hvad der findes bevist under sagen, og hvilke beviser der vægter tungere end andre.
+
+---
 
 *Bevisbyrde*: Den som påstår noget under en retssag, skal bevise at han eller hun har ret og har dermed bevisbyrden for sin påstand (kaldet en ”ligefrem bevisbyrde” som er hovedreglen i dansk ret).
 
@@ -956,7 +975,7 @@ Stævning og svarskrift
 
 #### Hovedforhandlingen
 
-Det retsmøde, hvor hele sagen samlet fremlægges for retten med henblik på, at gøre sagen endeligt klar til afgørelse.
+Det retsmøde, hvor hele sagen samlet fremlægges for retten med henblik på at gøre sagen endeligt klar til afgørelse.
 
 Hovedforhandlingen indledes med, at parterne nedlægger deres påstande. 
 
@@ -990,7 +1009,7 @@ Hovedforhandling blev tidligere kaldt for domsforhandling.
  
 ### Småsagsprocessen
 
-Småsagsprocessen gør det nemmere at gå rettens vej med sager om mindre beløb. Den nye behandlingsform til små sager trådte i kraft den 1. januar 2008.
+Småsagsprocessen gør det nemmere at gå rettens vej med sager om mindre beløb. Den særlige behandlingsform til små sager trådte i kraft den 1. januar 2008.
 
 Småsagsprocessen ændrer behandlingen af sager om krav på højst 50.000 kr. Småsagsprocessen bevirker:  
 
@@ -1028,9 +1047,9 @@ Undervejs vil der være færre retsmøder end i almindelige retssager, fordi ret
 
 ---
 
-### Udenretlig tvistløsningsorganer
+### Udenretlige tvistløsningsorganer
 
-Klage- og ankenævn som der har betydning for den finansielle branche:
+Klage- og ankenævn betydning for den finansielle branche:
 
 Forbrugerklagenævnet, Det Finansielle Ankenævn (Sammenlægning pr. 1. februar 2019 af Pengeinstitutankenævnet, Realkreditankenævnet og Ankenævnet for investeringsfonde) Ankenævnet for Forsikring, Ankenævnet for Finansieringsselskaber og Klagenævnet for Ejendomsformidling
 
@@ -1038,7 +1057,7 @@ Sagsbehandling efter *officialmaksimen*, dvs. nævnets sekretariatet skal oplyse
 
 *Mediation i det offentlige forbrugerklagesystem*
 
-Der foregår mediation i Nævnenes Hus før, at klagen kan indbringes for Forbrugerklagenævnet. 
+Der foregår mediation i Nævnenes Hus før, før klagen kan indbringes for Forbrugerklagenævnet. 
 
 Følgende fremgår af Bekendtgørelse nr. 65 af 16. januar 2019 om behandling af forbrugerklager i Nævnenes Hus samt Forbrugerklagenævnet:
 
@@ -1104,6 +1123,8 @@ Til forskel fra en retssag eller traditionel forligsmægling ved domstolene bliv
 Det gør det lettere for parterne at fortsætte et eventuelt samarbejde efter mæglingen, og det giver bedre mulighed for at nå frem til en mere varig løsning.
 
 Retsmægling er ofte en mindre tidskrævende måde at løse konflikter på.
+
+Der skal som hovedregel stadigvæk betales retsafgift.
 
 ---
 
