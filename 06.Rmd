@@ -47,7 +47,7 @@ Se sagen om QXL (internet-auktionsudbyder):
 
 ---
 
-Den erhvervsdrivende, som påstår aftalen ikke er en forbrugeraftale, har bevisbyrden, jf. FBL § 2, stk. 2.
+Den erhvervsdrivende, som påstår, aftalen ikke er en forbrugeraftale, har bevisbyrden, jf. FBL § 2, stk. 2.
 
 Bedømmelsen i stk. 2 beror på en konkret vurdering. 
 
@@ -71,9 +71,9 @@ Der er et forbud mod uanmodet telefonisk eller direkte personlig henvendelse til
 
 ![](img/dor.jpg)
 
-Forbuddet er især begrundet med privatlivets fred og for at imødegå overraskelsesmomentet, så forbrugeren ikke føler sig tvunget til at indgå en aftale. Evt. aftaler der er ingået ved dørtrinet er ugyldige, jf. fbl § 5.
+Forbuddet er især begrundet med privatlivets fred og for at imødegå overraskelsesmomentet, så forbrugeren ikke føler sig tvunget til at indgå en aftale. Evt. aftaler der er indgået ved dørtrinet er ugyldige, jf. fbl § 5.
  
-Undtagelserne finder vi i FBL § 4, Stk. 2, hvorefter telefoniske henvendelse gerne må ske, hvis det handler om:
+Undtagelserne finder vi i FBL § 4, stk. 2, hvorefter telefoniske henvendelse gerne må ske, hvis det handler om:
 
 * Bestilling af bøger,
 
@@ -103,7 +103,7 @@ Ved telefoniske henvendelser omfattet af FBL § 4, stk. 2, om bestilling af bøg
 ![](img/tele3.jpg)
 
 
-Virksomheden der gerne må ringe uanmodet skal tjekke	*Robinson-listen* inden henvendelse ellers er det en overtrædelse af markedsføringslovens § 10, stk. 4, nr. 2 og 3.
+Virksomheden der gerne må ringe uanmodet, skal tjekke	*Robinson-listen* inden henvendelse, ellers er det en overtrædelse af markedsføringslovens § 10, stk. 4, nr. 2 og 3.
 
 Derudover gælder markedsføringslovens § 10, stk. 6: 
 
@@ -131,7 +131,11 @@ På bopælen, hvis det ikke har med erhvervsmæssigt salg at gøre, fx henvendel
 
 ![](img/forb2.jpg)
 
-*Aftalen er ugyldig*: Aftaler indgået i strid med FBL § 4 er ugyldig, jf. FBL § 5. Forbrugeren kan godt fastholde aftalen uanset ugyldighed. Den erhvervsdrivende kan ikke påberåbe sig ugyldigheden.
+## Forbrugeraftalers ugyldighed og bødestraf
+
+*Aftalen er ugyldig*: Aftaler indgået i strid med FBL § 4 er ugyldige, jf. FBL § 5. Forbrugeren kan godt fastholde aftalen uanset ugyldighed. 
+
+Den erhvervsdrivende kan ikke påberåbe sig ugyldigheden.
 
 *Bødestraf*: Det kan være forbundet med bødestraf, for virksomheden, at handle i strid med forbrugeraftaleloven, jf. FBL § 34 - se H&M sag om opringninger på mobiltelefoner.
 
@@ -147,7 +151,7 @@ Ses særligt inden for TV/sattelitaftaler,IT/internetforbindelser, avis- og blad
 
 Hvis en forbruger modtager en vare fra en virksomhed, som forbrugeren ikke har bestilt, og det ikke skyldes en fejl, kan forbrugeren beholde varen uden at skulle betale.
 
-Det samme gælder for tjenesteydelser/arbejde som en erhvervsdrivende udfører, uden at forbrugeren har bedt om det. Fx en vinduspudser der går igang med at vaske ens vinduer uden en aftale er forbrugeren ikke bundet af. 
+Det samme gælder for tjenesteydelser/arbejde som en erhvervsdrivende udfører, uden at forbrugeren har bedt om det. Fx en vinduspudser, der går i gang med at vaske ens vinduer uden en aftale, er forbrugeren ikke bundet af. 
 
 ![](img/vindu.jpg)
 
@@ -162,9 +166,7 @@ Det kan også være en vildledning af forbrugerens retsstilling, jf. markedsfør
 <img src="img/homeparty.jpeg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
-Aftalen er indgået et andet sted end der hvor den erhvervsdrivende sælger har sit forretningssted, fx
-
-Homeparties, salgsdemonstrationer under udflugter, udstilling/messe, marked.
+Aftalen er indgået et andet sted end der, hvor den erhvervsdrivende sælger har sit forretningssted, fx homeparties, salgsdemonstrationer under udflugter, udstilling/messe, marked.
  
 Den erhvervsdrivende har pligt til at give tydelig skriftlig oplysning om fortrydelsesretten og hvortil henvendelse kan ske. 
 
@@ -174,7 +176,7 @@ Ved mødet med forbrugeren.
 
 Ved varesalg – når varen overgives eller leveres fysisk til  forbrugeren.
 
-Fortrydelsesfristen begynder først at løbe, fra det tidspunkt forbrugeren modtager oplysningerne, hvis de ikke modtages, så udskydes fortrydelsesfristens begyndelsestidspunkt med 12 måneder.
+Fortrydelsesfristen begynder først at løbe fra det tidspunkt, forbrugeren modtager oplysningerne, hvis de ikke modtages, så udskydes fortrydelsesfristens begyndelsestidspunkt med 12 måneder.
 
 ![](img/12.jpg)
 
@@ -192,7 +194,7 @@ Den erhvervsdrivende og forbrugeren mødes ikke fysisk ved aftalens indgåelse.
 
 Forbrugeren har ikke haft mulighed for at afprøve eller   undersøge salgsgenstanden.
 
-Aftalen skal være indgået, som led i et system for fjernsalg, og den skal drives af den erhvervsdrivende, fx en aftale om køb, indgået via virksomhedens hjemmeside.
+Aftalen skal være indgået som led i et system for fjernsalg, og den skal drives af den erhvervsdrivende, fx en aftale om køb, indgået via virksomhedens hjemmeside.
  
 ---
 
@@ -202,7 +204,7 @@ Aftalen skal være indgået, som led i et system for fjernsalg, og den skal driv
 
 I rimelig tid inden aftalen indgås,	skal den erhvervsdrivende give forbrugeren oplysninger, fx om:
 
-Den erhvervsdrivendes navn og forretningsadresse, tlf. numre-mailadresse m.v.
+Den erhvervsdrivendes navn og forretningsadresse, tlf. numre, mailadresse m.v.
   
 Varens eller tjenesteydelsens vigtigste egenskaber.
 
@@ -210,7 +212,7 @@ Den samlede pris, inkl. gebyrer, moms og afgifter, øvrige ekstraomkostninger, f
   
 Betalingsvilkår, leveringsvilkår, aftaleperiode, eventuel uopsigelighedsperiode og opsigelsesvilkår.
   
-Oplysninger om der er fortrydelsesret og hvordan den kan udøves, herunder om forbrugeren skal betale for tilbagelevering af en vare
+Oplysninger om, hvorvidt der er fortrydelsesret og hvordan den kan udøves, herunder om forbrugeren skal betale for tilbagelevering af en vare
   
 Oplysningerne skal være klare og forståelige.
  
@@ -230,11 +232,11 @@ Hvortil/til hvem fortrydelse kan meddeles.
 
 ---
 
-Ved køb af varer som skal sendes til forbrugeren, skal oplysning om fortrydelsesfristen gives senest ved varen overgivelse. 
+Ved køb af varer som skal sendes til forbrugeren, skal oplysning om fortrydelsesfristen gives senest ved varens overgivelse. 
 
-Hvis oplysning først kommer frem senere, løber fristen fra oplysningerne er modtaget.
+Hvis oplysning først kommer frem senere, løber fristen, fra oplysningerne er modtaget.
 
-Hvis der ikke modtages nogen oplysninger om fortrydelsesretten så udskydes fortrydelsesrettens begyndelsestidspunkt med 12 måneder. 
+Hvis der ikke modtages nogen oplysninger om fortrydelsesretten, så udskydes fortrydelsesrettens begyndelsestidspunkt med 12 måneder. 
 
 Hvis man slet ikke får oplysning om fortrydelsesretten, så er fortrydelsesfristen 12 måneder plus 14 dage.
  
@@ -248,11 +250,11 @@ Hvis man slet ikke får oplysning om fortrydelsesretten, så er fortrydelsesfris
 
 Hvis leveringstidspunkt ikke er aftalt: Varen/tjenesteydelsen skal leveres inden 30 dage fra bestillingen, jf. FBL § 27, stk. 1.
 
-Forbrugeren kan hæve aftalen hvis forsinkelsen er væsentlig for forbrugerne og den erhvervsdrivende burde forudsætte dette.
+Forbrugeren kan hæve aftalen, hvis forsinkelsen er væsentlig for forbrugeren, og den erhvervsdrivende burde forudsætte dette.
 
 Forbrugeren kan vælge at give en frist for levering, overholdes den ikke, kan aftalen hæves.
 
-Hvis en aftale hæves skal hver part tilbagelevere hvad de hver især har modtaget.
+Hvis en aftale hæves, skal hver part tilbagelevere, hvad de hver især har modtaget.
 
 Den erhvervsdrivende skal tilbagebetale penge til forbrugeren, senest 30 dage fra den erhvervsdrivende har modtaget besked om, at forbrugeren vil fortryde
 
@@ -261,18 +263,17 @@ Den erhvervsdrivende skal tilbagebetale penge til forbrugeren, senest 30 dage fr
 
 ## Forbrugerens fortrydelsesret i forbrugeraftaleloven
 
-Fortrydelsesret: En ret for forbrugeren til uden angivelse af begrundelse, at træde tilbage fra e aftale, som ellers ville være bindende for forbrugeren.
+*Fortrydelsesret* er en ret for forbrugeren til uden angivelse af begrundelse at træde tilbage fra en aftale, som ellers ville være bindende for forbrugeren.
  
-
-Hovedreglen er, at der er ingen fortrydelsesret i dansk ret ved køb i den fysiske handel, medmindre, at den er aftalt mellem forbrugeren og den erhvervsdrivende, fx har Elgiganten en aftalt returret på 14 dage i sine fysiske butikker, som dog ikke må forveksles med den lovpligtige fortrydelsesret efter forbrugeraftaleloven.
+Hovedreglen i dansk ret er, at der ingen fortrydelsesret er ved køb i den fysiske handel, medmindre den er aftalt mellem forbrugeren og den erhvervsdrivende, fx har Elgiganten en aftalt returret på 14 dage i sine fysiske butikker, som dog ikke må forveksles med den lovpligtige fortrydelsesret efter forbrugeraftaleloven.
 
 ![](img/retur.png)
 
 Se her FBL § 18, stk. 1, hvor der er lovgivet om en fortrydelsesret:
 
-* Forbrugeraftaler der indgået ved fjernsalg fx på nettet.
+* Forbrugeraftaler, der indgået ved fjernsalg, fx på nettet.
 
-* Forbrugeraftaler der indgået uden for fast forretningssted fx i Bellacenteret.
+* Forbrugeraftaler, der indgået uden for fast forretningssted, fx i Bellacenteret.
 
 ![](img/bella.jpg)
  
@@ -288,7 +289,7 @@ En køber kan fortryde et køb af en fast ejendom i 6 hverdage fra aftalens indg
 
 *Fortrydelsesret ved indgåelse af forsikringsaftaler:*
 
-14 dage fra forsikringsaftalens indgåelse, og 30 dage hvis aftale om livsforsikring eller individuelle pensionsordninger, FAL § 34i-k
+14 dage fra forsikringsaftalens indgåelse, dog 30 dage ved aftale om livsforsikring eller individuelle pensionsordninger, jf. FAL (forsikringsaftaleloven) § 34 i-k
  
 ---
 
@@ -307,7 +308,7 @@ Varer der leveres regelmæssigt over en periode – beregnes fra den første var
 
 Levering af vand, gas , elektricitet m.v. samt varer med digitalt indhold – beregnes fra aftalens indgåelse
 
-Den dag, hvor forbrugeren har modtaget de oplysninger om fortrydelsesret mv., som det påhviler den erhvervsdrivende at give   forbrugeren på papir eller andet varigt medium.
+Den dag, hvor forbrugeren har modtaget de oplysninger om fortrydelsesret mv., som det påhviler den erhvervsdrivende at give forbrugeren på papir eller andet varigt medium.
  
 ---
 
@@ -315,7 +316,7 @@ Den dag, hvor forbrugeren har modtaget de oplysninger om fortrydelsesret mv., so
 
 Forbrugeraftaler indgået ved fjernsalg.
 
-Forbrugeraftaler indgået uden for den erhvervsdrivendes forretningssted fx på en messe i Bellacentreret.
+Forbrugeraftaler indgået uden for den erhvervsdrivendes forretningssted, fx på en messe i Bellacenteret.
 
 *Hvordan fortryder forbrugeren:*
  
@@ -325,13 +326,13 @@ Meddelelse om fortrydelse skal være afsendt inden fristens udløb.
 
 Forbrugerne skal have sine penge tilbage.
 
-Forbrugeren skal sende varen tilbage senest 14 dage efter at den erhvervsdrivende har modtaget besked om fortrydelse.
+Forbrugeren skal sende varen tilbage senest 14 dage efter, at den erhvervsdrivende har modtaget besked om fortrydelse.
   
 Forbrugeren bærer risikoen for varen.
 
 Ved værdiforringelse (forskellen mellem ny-pris og gensalgspris) skal forbrugeren betale. 
 
-Der kan fradrages i den købesum den erhvervsdrivende skal tilbagebetale til kunden.
+Der kan fradrages i den købesum, den erhvervsdrivende skal tilbagebetale til kunden.
 
 ---
 
@@ -345,7 +346,7 @@ Hvis forbrugeren har betalt helt eller delvis, skal det modtagne tilbagebetales 
   
 Tilbagebetaling skal ske snarest muligt og senest 30 dage efter, at den erhvervsdrivende har modtaget forbrugerens meddelelse om ophævelse.
   
-Den erhvervsdrivende kan vente indtil varen er returneret eller indtil forbrugeren har dokumenteret at varen er tilbagesendt
+Den erhvervsdrivende kan vente, indtil varen er returneret, eller indtil forbrugeren har dokumenteret, at varen er tilbagesendt.
 
 --- 
 
@@ -358,7 +359,7 @@ Den erhvervsdrivende kan vente indtil varen er returneret eller indtil forbruger
 
 *Den erhvervsdrivende skal bl.a. give oplysninger om:*
 
-CVR-nummer, eller andet relevant identifikationsnummer.
+CVR-nummer eller andet relevant identifikationsnummer.
 
 Klageadgang og fremgangsmåden ved klage, herunder oplysning om en fysisk adresse.
   
@@ -370,7 +371,7 @@ En eventuel lovvalgs- eller værnetingsklausul i aftalen.
 
 Forbrugeren skal have oplysningerne på papir eller et andet varigt medie.
 
-En manglende overholdelse af oplysningspligten, kan straffes med bøde.
+En manglende overholdelse af oplysningspligten kan straffes med bøde.
 
 ---
 
@@ -385,7 +386,7 @@ En manglende overholdelse af oplysningspligten, kan straffes med bøde.
 
 *Fortrydelsesfristen*
 
-Der er 14 dages fortrydelsesret fra aftalens indgåelse, eller fra det tidspunkt forbrugeren har modtaget oplysning om fortrydelsesretten.
+Der er 14 dages fortrydelsesret fra aftalens indgåelse eller fra det tidspunkt, forbrugeren har modtaget oplysning om fortrydelsesretten.
 
 
 Der er 30 dages fortrydelsesret ved aftaler om individuel pensionsordning, FBL § 19, stk. 1.<img src="img/pension.PNG"align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
@@ -396,7 +397,7 @@ Fristerne skal beregnes i kalenderdage.
 
 *Tilbagebetale*  
 
-Den erhvervsdrivende skal tilbagebetale eventuelt modtagne beløb snarest mulig og inden 30 dage efter forbrugerens underretning om fortrydelse er kommet frem.
+Den erhvervsdrivende skal tilbagebetale eventuelt modtagne beløb snarest muligt og inden 30 dage efter, forbrugerens underretning om fortrydelse er kommet frem.
 
  
 ---
@@ -407,9 +408,11 @@ Der skal ske underretning til den erhvervsdrivende om, at forbrugeren vil bruge 
 
 Underretning skal være afsendt inden udløb af fortrydelsesfristen.
   
-Forbrugeren har bevisbyrden for at meddelelsen er sendt.
+Forbrugeren har bevisbyrden for, at meddelelsen er sendt.
 
-Meddelelsen om forbrugerens fortrydelse, skal være utvetydig – standardfortrydelsesformular.
+Meddelelsen om forbrugerens fortrydelse skal være utvetydig.
+
+Der kan anvendes en standardfortrydelsesformular.
  
 ---
 
@@ -430,7 +433,7 @@ Hvis der er i strid med redelig handlemåde.
 
 Aftalelovens §§ 38a – 38 d – særligt kapitel om forbrugeraftaler:
 
-Ved tvivl om indholdet af en forbrugeraftale, tolkes aftalen til fordel for forbrugeren (koncipistreglen), jf. aftalelovens § 38b.
+Ved tvivl om indholdet af en forbrugeraftale tolkes aftalen til fordel for forbrugeren (koncipistreglen), jf. aftalelovens § 38b.
 
 Aftaler skal være udarbejdet på en klar og tydelig måde, jf. aftalelovens § 38b:
 

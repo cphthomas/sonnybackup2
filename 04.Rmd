@@ -6,7 +6,7 @@ cat(readLines('np.html'))
 
 ![](img/aftale.jpg)
 
-**Introduktion til aftaleretten**
+
 
 ---
 
@@ -21,7 +21,7 @@ cat(readLines('np.html'))
 
 
 
-**Hvilke problemstillinger og aftaleretlige lovregler, du som studerende særlig skal være opmærksom på vedrørende eksamensspørgsmål indenfor aftaleretten:**
+*Hvilke problemstillinger og aftaleretlige lovregler, du som studerende særlig skal være opmærksom på vedrørende eksamensspørgsmål indenfor aftaleretten:*
 
 
 
@@ -29,7 +29,7 @@ cat(readLines('np.html'))
   
 • *Aftaleindgåelse*, aftalelovens § 2-7 og § 40
 
-• **Ugyldighed** (svig, aftalelovens § 30 fejl, aftalelovens § 32, stk. 1, udnyttelse, aftalelovens § 31)
+• *Ugyldighed* (svig, aftalelovens § 30 fejl, aftalelovens § 32, stk. 1, udnyttelse, aftalelovens § 31)
 
 • *Falsk/forfalskning*
 
@@ -699,12 +699,9 @@ Bord og stol afviser reklamationen, da der står på bagsiden af fakturaen, at d
 ### Aftaleindgåelse på internettet
 
 
-<img src="img/aftaleindgåelse på nettet.png" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
-
 Aftaleloven gælder også ved aftaler og køb på nettet.
 
-Afsender bærer selv risiko for, at e-mailen kommer frem til modtager.
+Afsender bærer selv risiko for, at mailen kommer frem til modtageren.
 
 ---
 
@@ -754,7 +751,7 @@ Ugyldighed som kan ramme aftalen kan opstå pga. bl.a. følgende forhold:
 
 *Aftalens ugyldighed kan skyldes følgende forhold:
 
-*Oversigt*
+*Oversigt:*
 
 Umyndige (under 18 år og under lavværgemål), jf.
 værgemålsloven § 44.
@@ -962,13 +959,23 @@ Undtagelserne for denne hovedregel findes i værgemålslovens § 42 – hvorefte
 *Selverhvervelsesreglen:* 
 
 
-Personer over 15 år kan råde over deres egne penge som de selv har tjent, eller fået ved arv/gave, og hvad værgen har givet dem. !!NB – kun ved kontantkøb (dog ikke ved kreditaftaler, da den umyndige ikke kan binde sig for fremtiden).
-
+Personer over 15 år kan råde over deres egne penge, som de selv har tjent fx ved at gå med aviser eller fået ved arv/gave, og hvad værgen har givet dem. !!NB – kun ved kontantkøb (dog ikke ved kreditaftaler, da den umyndige ikke kan binde sig for fremtiden).
 
 <img src="img/avisdreng.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
+<br>
+<br>
+
+
+---
+
+<br>
+<br>
+
 
 *Pengereglen:* 
+
+<br>
 
 ![](img/barn.jpg)
 
@@ -986,7 +993,7 @@ Er sælgeren i tvivl, skal sælgeren bede om værgens samtykke, jf. værgemålsl
 
 *Situation:* Aftale med mindreårig indgås i god tro, men aftalen rammes af ugyldighed.
 
-Hver part skal tilbagelevere hvad de hver især har modtaget. Hvis det er muligt.
+Hver part skal tilbagelevere, hvad de hver især har modtaget. Hvis det er muligt.
 
 Kan den umyndige ikke tilbagelevere, og der er tale om en genstand, som har været den umyndige til nytte, fx cykel eller computer, kan den umyndige risikere at skulle betale erstatning til løftemodtager efter nyttereglen, jf. værgemålslovens § 45.
 
@@ -1016,9 +1023,12 @@ I **Juridisk Årbog 2000, s. 99**, er refereret en sag om en umyndig forbruger, 
 
 ---
 
-*Værgemål og fornuftsmangel*
+*Værgemål og fornuftsmangel:*
+
+
 
 ![](img/sind.jpg)
+
 
 Personer over 18 år kan komme under værgemål/umyndiggøres, fx pga. svær demens, sindssygdom, psykisk handicap mv.
 
@@ -1082,9 +1092,9 @@ Det er ligeledes retmæssigt at true en butikstyv med politianmeldelse, hvis ikk
 
 ---
 
-Løfter der er motiveret af simpel tvang er ikke bindende for løftegiver, hvis løftemodtager selv har udøvet tvangen.
+Løfter, der er motiveret af simpel tvang er ikke bindende for løftegiver, hvis løftemodtager selv har udøvet tvangen.
   
-Hvis løftet er motiveret simpel tvang udøvet af tredjemand, er løftegiver ikke bundet af sit løfte, hvis løftemodtager indså eller burde have indset at løftet blev afgivet som følge af simpel tvang.
+Hvis løftet er motiveret simpel tvang udøvet af tredjemand, er løftegiver ikke bundet af sit løfte, hvis løftemodtager indså eller burde have indset, at løftet blev afgivet som følge af simpel tvang.
   
 Hvis løftemodtager derimod var i god tro, dvs. ikke indså eller burde have indset at løftet blev afgivet som følge af tredjemands simple tvang, er løftegiver bundet af sit løfte.
 
@@ -1134,7 +1144,7 @@ Svig kan i almindelighed ikke medføre ugyldighed, når adressaten er i god tro 
 
 Såvel urigtige oplysning som fortielser kan medføre, at der foreligger svig. I begge henseender gælder et krav om *forsæt* (at det er sket med vilje). 
 
-Svig kan således være fejlinformation, urigtige oplysninger og fortielser, der bruges eller tilbageholdes, for at få en aftale i hus eller få solgt en brugt bil:
+Svig kan således være fejlinformation, urigtige oplysninger og fortielser, der bruges eller tilbageholdes for at få en aftale i hus eller få solgt en brugt bil:
 
 
 <img src="img/deal5.jpeg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
@@ -1144,7 +1154,7 @@ Svig kan således være fejlinformation, urigtige oplysninger og fortielser, der
 
 Løftet om køb af båden kan erklæres ugyldigt, hvis modtageren af løftet var i ond tro bådesælgeren. Løftet er så ikke bindende for bådekøberen
 
-Bådesælgeren er i ond tro, hvis: han vidste eller burde vide om et forhold og alligevel vælger imod bedrevidende, at bruge urigtige oplysninger eller fortie sandheden, for at få en aftale i hus.
+Bådesælgeren er i ond tro, hvis: han vidste eller burde vide om et forhold og alligevel vælger imod bedrevidende at bruge urigtige oplysninger eller fortie sandheden, for at få en aftale i hus.
 
 ---
 
@@ -1169,15 +1179,15 @@ Bo Bådesælger (løftemodtager) er i god tro, idet han intet ved om Peters fejl
 "Har nogen udnyttet en andens betydelige økonomiske eller personlige vanskeligheder, manglende indsigt, letsind eller et bestående afhængighedsforhold til at opnå eller betinge en ydelse, der står i væsentligt misforhold til modydelsen, eller som der ikke skal ydes vederlag for, er den, der således er udnyttet, ikke bundet ved den af ham afgivne viljeserklæring.
 Stk. 2. Det samme gælder, hvis tredjemand har gjort sig skyldig i et sådant forhold som omtalt i stk. 1 og den, til hvem viljeserklæringen er afgivet indså eller burde indse dette".
 
-
+---
 
 *Situation:*
 
 Bent låner Anders penge og Bent kræver urimeligt høje renter (åger-renter). 
 
-Bent er vidende om at A er i økonomiske vanskeligheder, og ikke kan låne penge andre steder.  
+Bent er vidende om at A er i økonomiske vanskeligheder og ikke kan låne penge andre steder.  
 
-Når Bent i aftaleøjemed udnytter viden om Anders´ vanskeligheder, eller manglende viden/indsigt mv., er der tale om udnyttelse. 
+Når Bent i aftaleøjemed udnytter viden om Anders´ vanskeligheder eller manglende viden/indsigt mv., er der tale om udnyttelse. 
 
 Bent er i ond tro og aftalen er ugyldig. 
 
@@ -1191,7 +1201,7 @@ Se dommen i **U 1985.672 V**, hvor en aftale med 79 årlig lejer om pligt til fr
 
 ---
 
-Se dommen i **U 1951.486 H, hvor et testamente og pantebrev blev anset uforbindende efter aftalelovens § 31: "Den i 1863 fødte fru E, hvis væsentligste formue bestod i en beboelsesejendom, indsatte i 1937 ved testamente en halvsøsters datter fru A som enearving og overdrog i 1940 ejendommen til fru A, der for restkøbesummen 42.825 kr., udstedte pantebrev til E. Senere blev forholdet til fru A og dennes ægtefælle mindre godt, og E ændrede testamentet. Et af E i 1947 oprettet testamente, hvorved fru A uigenkaldeligt indsattes som hovedarving, og en påtegning på pantebrevet, hvorefter dette skulle være uopsigeligt fra E's side og efter hendes død udlægges fru A, ansås fremkaldte ved utilbørlig udnyttelse af E's situation og afhængighedsfølelse overfor fru A og dennes ægtefælle og ansås som omfattede af aftalelovens § 31 uforbindende for E".
+Se dommen i **U 1951.486 H**, hvor et testamente og pantebrev blev anset uforbindende efter aftalelovens § 31: "Den i 1863 fødte fru E, hvis væsentligste formue bestod i en beboelsesejendom, indsatte i 1937 ved testamente en halvsøsters datter fru A som enearving og overdrog i 1940 ejendommen til fru A, der for restkøbesummen 42.825 kr., udstedte pantebrev til E. Senere blev forholdet til fru A og dennes ægtefælle mindre godt, og E ændrede testamentet. Et af E i 1947 oprettet testamente, hvorved fru A uigenkaldeligt indsattes som hovedarving, og en påtegning på pantebrevet, hvorefter dette skulle være uopsigeligt fra E's side og efter hendes død udlægges fru A, ansås fremkaldte ved utilbørlig udnyttelse af E's situation og afhængighedsfølelse overfor fru A og dennes ægtefælle og ansås som omfattede af aftalelovens § 31 uforbindende for E".
 
 ---
 
@@ -1216,24 +1226,34 @@ Det løftegiveren har valget mellem, om løftegiver vil have viljeserklæringen 
 Den udnyttede kan også vælge at fastholde retshandelen, hvis denne nu på grund af f.eks. en prisstigning eller en rentestigning kan se sin fordel herved.
 
 
+---
 
+*Fejlskrift/anden fejltagelse*, jf. ordlyden i aftalelovens § 32, stk. 1:
 
+"Den, der har afgivet en viljeserklæring, som ved fejlskrift eller anden fejltagelse fra hans side har fået et andet indhold end tilsigtet, er ikke bundet ved erklæringens indhold, hvis den, til hvem erklæringen er afgivet, indså eller burde indse, at der forelå en fejltagelse."
 
 ---
 
-*Fejlskrift/anden fejltagelse*, jf. aftalelovens § 32, stk. 1:
+Reglen i aftalelovens § 32, stk. 1, omfatter kun tilfælde, hvor uoverensstemmelsen mellem vilje og erklæring skyldes en vildfarelse hos den erklærende. 
 
 
-*Fejlskrift*: Fx en skrivelse får et andet indhold end tilsigtet. 
+*Fejlskrift* er fx en mail, der får et andet indhold end tilsigtet fra den der afgiver viljeserklæringen, dvs. den der sender mailen. 
 
-Løftet i skrivelsen er ikke bindende for løftegiver, hvis løftemodtager indså eller burde have indset, at der var tale om en fejl, idet løftemodtager så ville være i ond tro.
+Løftet i mailen er ikke bindende for løftegiver, hvis løftemodtager indså eller burde have indset, at der var tale om en fejl, idet løftemodtager så ville være i ond tro.
 
 Modsætningsvis: Hvis løftemodtager ikke indså eller burde have kunnet indse, at det var en fejl, er løftemodtager i god tro og aftalen er gyldig.
 
 ---
 
 
+Er erklæringen udformet af en anden, men har et andet indhold end erklæringsgiveren forestillede sig, finder bestemmelsen anvendelse.
 
+Se dommen i **U 1972.568 H**, hvor en 75-årig kvindes underskrivelse på skøde i den tro, at det var et testamente, blev tilsidesat efter aftalelovens § 32, stk. 1: "En 75-årig kvinde S tilkaldte under en sygdom K for at tale med ham om oprettelse af et testamente, hvori hun ville begunstige K og hans familie. K fik hos en advokat udfærdiget et testamente og et skøde hvorved S overdrog sin ejendom til ham, og i forbindelse hermed et sælgerpantebrev med transport til K's børn. Hun underskrev disse dokumenter, uden at de blev oplæst for hende. Hun gjorde senere gældende, at hun havde underskrevet skødet og transportpåtegningen i den tro, at det var et testamente, der blev forelagt hende. Da K havde varetaget sine egne interesser uden på behørig måde at sikre sig, at S var indforstået med dispositionerne, fandtes de uforbindende for hende i medfør af aftalelovens § 32, stk. 1". 
+
+
+---
+
+Sammenfattende må det antages, at reglen i aftalelovens § 32, stk. 1 dækker både tilfælde om, hvor løftegiveren har afgivet en viljeserklæring, løftegiver overhovedet ikke ville have afgivet, samt de tilfælde, hvor løftegiveren vel ville afgive viljeserklæringen, men denne ikke har det indhold, løftegiver regnede med.
 
 ---
 
@@ -1254,7 +1274,7 @@ Modsætningsvis: Hvis løftemodtager ikke indså eller burde have kunnet indse, 
 
 + Løftemodtager(LM) havde ikke viden om ugyldighedsgrunden.
       
-+ Løftemodtager(LM) vidste ikke eller burde have vidst, at løftet fra løftegiver (LG) var mangelfuldt, fx afgivet pga. ulovlig tvang eller at løftegiver var umyndig.
++ Løftemodtager(LM) vidste ikke eller burde ikke have vidst, at løftet fra løftegiver (LG) var mangelfuldt, fx afgivet pga. ulovlig tvang, eller at løftegiver var umyndig.
 
       
 *Ond tro* er:
@@ -1342,7 +1362,7 @@ I urimelighedsvurderingen indgår:
 
 Et løfte kan afgives på baggrund af nogle forudsætninger, som ikke nødvendigvis er diskuteret eller udtrykt klart mellem parterne i en aftale.
 
-Hvis forudsætningen ikke holder, taler man om bristende, svigtende eller urigtige forudsætninger, hvilket i nogle tilfælde kan medføre at aftalen ophæves.
+Hvis forudsætningen ikke holder, taler man om bristende, svigtende eller urigtige forudsætninger, hvilket i nogle tilfælde kan medføre, at aftalen ophæves.
 
 En bristende forudsætning: Løftegivers vildfarelse vedrører fremtidige forhold, fx køb af en bryllupskage til bryllup, der bliver aflyst.
 
@@ -1364,7 +1384,7 @@ Bristende forudsætninger, hvis *afgørende/væsentligt, kendeligt og relevant/r
 
 ---
 
-En *ugyldig aftale* er når parterne ikke er forpligtet af det løfte de har afgivet og aftalen ophæves.
+En *ugyldig aftale* er, når parterne ikke er forpligtet af det løfte de har afgivet, og aftalen ophæves.
 
 *	Tilbagelevere allerede udvekslede ydelser (penge/varer)
 
@@ -1373,7 +1393,7 @@ En *ugyldig aftale* er når parterne ikke er forpligtet af det løfte de har afg
 
 Kaldet den *negativ kontraktsinteresse*:
       
-Erstatningskrav, hvor man i økonomisk henseende stilles som om aftalen slet ikke var indgået – tilbage til status quo.
+Erstatningskrav, hvor man i økonomisk henseende stilles, som om aftalen slet ikke var indgået – tilbage til status quo.
       
 ---
 
@@ -1387,11 +1407,11 @@ Det er en betingelse, at standardvilkårene skal være påtrykt eller vedhæftet
 
 Vilkår der eftersendes efter underskrift gælder ikke, da vilkårene så ikke er gensidigt vedtaget.
         
-Undtagelsen til hovedreglen, er at et standardvilkår kan tilsidesættes, hvis det vurderes som urimeligt for kunden (aftalelovens § 36 og § 38 a-d).
+Undtagelsen til hovedreglen er, at et standardvilkår kan tilsidesættes, hvis det vurderes som urimeligt for kunden (aftalelovens § 36 og § 38 a-d).
 
 ---
 
-En andelsboligforening opfattes som forbrugere og kan derfor påberåbe sig urimelighedsreglerne i aftalelovens §§ 38 c og 36 og dermed få tilsidesat eller ændret kontraktsindgåelser med tredjemand:
+En andelsboligforening opfattes som forbrugere og kan derfor påberåbe sig urimelighedsreglerne i aftalelovens §§ 38 c og 36 og dermed få tilsidesat eller ændret kontraktsindgåelser med tredjemand.
 
 Se dommen i **U 2019.2389 V**. Andelsboligforening skulle i relation til aftale om juridisk rådgivning anses som forbruger. Aftalen om honorering var åbenbart i strid med god skik-bekendtgørelsens § 3, stk. 4, og andelsboligforeningen kunne kræve en stor del af honoraret tilbagebetalt: 
 "Andelsboligforeningen A indgik en aftale med anpartsselskabet R om juridisk rådgivning med henblik på nedsættelse af ejendomsskat. Honoraret for konsulentydelsen udgjorde første hele års ejendomsskattebesparelse til amt og kommune, og såfremt ejendomsskattebesparelsen også omfattede tidligere år endvidere 25 % af ejendomsskattebesparelsen for de tidligere år. Hvis der ikke blev opnået en ejendomsskattebesparelse, blev der ikke opkrævet honorar. I 2011 fik A tilbagebetalt i alt 372.012,10 kr. på baggrund af en ændret beregning af ejendomsskatten. R fremsendte herefter en opkrævning på 162.344,35 kr. i honorar, som A betalte. Honoraraftalen blev efterfølgende ændret, således at honoraret for konsulentydelsen udgjorde 30 % af skattebesparelsen og et tilsvarende honorar for den samlede besparelse for tidligere år, der måtte være omfattet af sagen. I 2014 fik A tilbagebetalt 1.072.412, 13 kr. i ejendomsskat. R opkrævede herefter A et honorar på 440.004,04 kr., hvoraf A havde betalt 162.344,35 kr., hvilket A betalte. R havde opgjort sit tidsforbrug til 93,5 timer. A anlagde efterfølgende sag mod R med påstand om tilbagebetaling af 400.000 kr. Landsretten anførte, at A i relation til den indgåede aftale om juridisk rådgivning skulle anses som forbruger, og at rådgivningsaftalens bestemmelser om honorering var i strid med § 3, stk. 4, i bekendtgørelse nr. 684 af 22. juni 2006 om god skik for juridisk rådgivning (god skik-bekendtgørelsen). Lov nr. 419 af 5. september 2006 om juridisk rådgivning og god skik-bekendtgørelsen, der er udstedt i medfør af loven, indeholder en offentligretlig regulering af de juridiske rådgiveres forhold, der er strafsanktioneret. Der er ikke ved loven taget stilling til eventuelle civilretlige konsekvenser af en overtrædelse, og sådanne må derfor skulle bedømmes ud fra en fortolkning og anvendelse af de almindelige aftaleretlige regler, herunder aftalelovens § 38 c, jf. § 36. Den oprindelige bestemmelse om honorering var indeholdt i en standardaftale udarbejdet af R, der foruden bestemmelsen om honorering bl.a. indeholdt et vilkår om uopsigelighed. Både den oprindelige honorering og den ændrede honorering ifølge allongen var åbenbart i strid med god skik-bekendtgørelsens § 3, stk. 4. Landsretten fandt, at et samlet honorar på 440.004,04 kr. efter oplysningerne om karakteren og omfanget af det rådgivningsarbejde, som konkret havde været udført af R for A, væsentligt oversteg et rimeligt honorar for juridisk rådgivning. På den anførte baggrund havde honoraraftalen ikke kunnet gøres gældende af R over for A, hvorfor A som udgangspunkt var berettiget til tilbagebetaling af den del, som oversteg et rimeligt honorar for det udførte arbejde. Opkrævningen på 162.344,35 kr. i 2011 faldt i forlængelse af en gennemført regulering af ejendomsskatten hos ,A, der havde resulteret i en tilbagebetaling. Efter formuleringen af rådgivningsaftalen og allongen blev det lagt til grund, at der var tale om en endelig fakturering for udført rådgivningsarbejde og ikke alene opkrævning af aconto honorar. Forældelsesfristen for A’s tilbagesøgningskrav skulle regnes fra betalingen af fakturaen primo februar 2012, jf. forældelseslovens § 2, hvorfor denne del af tilbagesøgningskravet var forældet. Da et rimeligt honorar for R’s rådgivning ikke oversteg det betalte beløb på 162.344,35 kr., tog landsretten A’s påstand delvis til følge med 268.290,45 kr. svarende til den resterende del af A’s tilbagesøgningkrav".
@@ -1426,7 +1446,7 @@ Se fra retspraksis:
 
 *Gyldighedsreglen:* Aftalen fortolkes med henblik på at opnå en gyldig aftale, som vil kunne gennemføres.  
 
-*Rimelighedsreglen:* Aftalen fortolkes i overensstemmelse med hvad der er rimeligt og hensigtsmæssigt.  
+*Rimelighedsreglen:* Aftalen fortolkes i overensstemmelse med, hvad der er rimeligt og hensigtsmæssigt.  
 
 
 ---
@@ -1446,7 +1466,7 @@ Se fra retspraksis:
 ```{r regler og fortolkninger,echo=FALSE}
 options(knitr.table.format = "html")
 collapse_rows_dt <- data.frame(Regel = c("Koncipistreglen", "Minimumsreglen","Prioritetsreglen", "Gyldighedsreglen","Rimelighedsreglen"),
-                 Fortolkning = c("Dette fortolkningsprincip er også benævnt som uklarhedsreglen og betyder, at den part som har konciperet (skrevet) kontrakten må bære risikoen for tvetydighed. Er der en uklarhed i kontrakten, tolkes aftalen til skade eller ugunst for koncipisten og dermed mindst tyngende for den anden part, som ikke har haft indflydelse på aftalens formulering. Uklarhedsreglen er særlig relevant ved fortolkning af standardaftaler, der er udarbejdet af en stærk part.",
+                 Fortolkning = c("Dette fortolkningsprincip er også benævnt som uklarhedsreglen og betyder, at den part, som har konciperet (skrevet) kontrakten må bære risikoen for tvetydighed. Er der en uklarhed i kontrakten, tolkes aftalen til skade eller ugunst for koncipisten og dermed mindst tyngende for den anden part, som ikke har haft indflydelse på aftalens formulering. Uklarhedsreglen er særlig relevant ved fortolkning af standardaftaler, der er udarbejdet af en stærk part.",
                               "Hvis der er tvivl om, hvad løftegiveren har forpligtet sig til i aftalen, vælges den forståelse af aftalen, som er
 mest gunstig for løftegiveren. Hvis der fx er tvivl, om der er aftalt simpel kaution eller selvskyldnerkaution, vælges simpel kaution, der er mest gunstig for forbrugeren. Særligt hvad angår forbrugeraftaler, har minimumsreglen fundet en plads i aftalelovens § 38b. Lovbestemmelsen beskytter forbrugeren i de tilfælde, hvor et tyngende aftalevilkår ikke har været til forhandling med en erhvervsdrivende aftalepart. En sådan aftale skal tolkes på den måde, som er mest gunstig for forbrugeren.
 ",
