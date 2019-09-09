@@ -7,7 +7,7 @@ cat(readLines('np.html'))
 
 ---
 
-**Kapitel 8 om køb skal kun læses i hovedtræk**
+*Kapitel 8 om køb skal kun læses i hovedtræk*
 
 ---
 
@@ -94,7 +94,7 @@ Den handel, hvorved en forretningsdrivende etablerer sig ved køb af en forretni
 
 ![](img/restaurant.jpg)
 
-**U 1988.76 V:** Forsinkelse med betaling af ydelse. Efter en i 1982 indgået kontrakt med ejendomsforbehold om salg af en restauration forfaldt restkøbesummen til betaling, hvis ydelser udeblev ud over 5 dage efter forfaldsdag. I juli 1986 videresolgtes restaurationen til K, der overtog gælden i henhold til købekontrakten, men ikke rettidigt betalte en den 1. august 1986 forfalden ydelse til den oprindelige ejer E. Efter at E den 12. august 1986 havde opsagt restgælden, betalte K dagen efter den forfaldne ydelse. - Da det ikke kunne udelukkes, at E, der havde været bekendt med salget til K, måtte have indset, at den manglende betaling af ydelsen måtte bero på en fejltagelse, havde forsinkelsen ikke berettiget E til at kræve restgælden betalt.
+Se dommen i **U 1988.76 V:** Forsinkelse med betaling af ydelse. Efter en i 1982 indgået kontrakt med ejendomsforbehold om salg af en restauration forfaldt restkøbesummen til betaling, hvis ydelser udeblev ud over 5 dage efter forfaldsdag. I juli 1986 videresolgtes restaurationen til K, der overtog gælden i henhold til købekontrakten, men ikke rettidigt betalte en den 1. august 1986 forfalden ydelse til den oprindelige ejer E. Efter at E den 12. august 1986 havde opsagt restgælden, betalte K dagen efter den forfaldne ydelse. - Da det ikke kunne udelukkes, at E, der havde været bekendt med salget til K, måtte have indset, at den manglende betaling af ydelsen måtte bero på en fejltagelse, havde forsinkelsen ikke berettiget E til at kræve restgælden betalt.
 
 ---
 
@@ -162,7 +162,7 @@ Sådanne organisationer kan imidlertid anses som erhvervsdrivende for så vidt a
 
 Se afgørelsen i **Forbrugerredegørelse 2002–2003 6.6.1** (en ejerlejlighedsforening, der fordelte varmeudgifterne mellem medlemmerne, ansås ikke for erhvervsdrivende). 
 
-* Se under ebogens bibliotek, artiklen om boligforeninger mv. og deres evt. status som forbrugere, jf. *Sonny Kristoffersen* i ET 2018 102 ff.
+Se ndenfor under biblioteket, artiklen om boligforeninger mv. og deres evt. status som forbrugere, jf. *Sonny Kristoffersen* i ET 2018 102 ff.
 
 
 
@@ -181,7 +181,7 @@ Et civilt køb kan fx foregå på ”Den Blå Avis” eller på et loppemarked, 
 
 ---
 
-Se dommen om et civilkøb af en bil i **U 2019.3071 V** Vilkår i slutseddel om, at en bil var solgt »engros uden garanti«, afskar ikke køberen fra at gøre mangler på bilens gearkasse og motor gældende. En bilforhandler D havde solgt en bil til A for 151.200 kr. Købet blev anset for et civilkøb. Inden for to uger efter købet blev der konstateret fejl på både bilens gearkasse og motor, og bilen blev repareret to gange på autoriserede værksteder. Det blev lagt til grund, at udbedring af fejlen på gearkassen havde været nødvendig, for at bilen kunne bringes til at køre igen, og at udbedring af fejlen på motoren havde været nødvendig for at undgå, at motoren brød sammen inden for kortere tid. Bilen havde derfor været af ringere beskaffenhed og brugbarhed, end den efter parternes aftale kunne forventes at være, og bilen var derfor behæftet med mangler. A havde godtgjort, at manglerne havde været til stede ved leveringen. A nedlagde påstand om, at D skulle betale knap 50.000 kr. i forholdsmæssigt afslag, og spørgsmålet var, om A var afskåret fra at gøre manglerne gældende, idet bilen i følge slutsedlen var solgt »engros uden garanti«. Landsretten anførte, at et vilkår, hvorefter en køber afskæres fra at gøre mangler som de foreliggende gældende, skal være klart og utvetydigt, for at det kan anses vedtaget som en del af parternes aftale. Det måtte efter et responsum fra AutoBranchen Danmark anses for usikkert, hvad den nærmere rækkevidde af begrebet »engros uden garanti« er i forhold til købers adgang til at gøre mangler gældende. Sælgeren forklarede, at han og A løseligt havde talt om, at hvis det var »engros«, så var der ikke garanti på bilen. A forklarede, at han ikke mente, at de havde talt om, hvad »engros« betød, men at han godt vidste, at det indebar, at han ikke kunne gøre småting gældende. Det kunne herefter ikke lægges til grund med den klarhed, som må kræves, at det var aftalt eller fulgte af sædvane, at A ikke kunne gøre mangler af den foreliggende karakter gældende. A havde reklameret rettidigt, og han havde ikke frataget D en eventuel afhjælpningsret. A var på den baggrund ikke afskåret fra at gøre manglerne gældende, og han var herefter berettiget til et forholdsmæssigt afslag i købsprisen, jf. købelovens § 42, stk. 1. Herefter, og da han havde begrænset reparationsudgifterne, blev hans påstand taget til følge.
+Se dommen om et civilkøb af en bil i **U 2019.3071 V** vedrørende et vilkår i en slutseddel om, at en bil var solgt »engros uden garanti«, afskar ikke køberen fra at gøre mangler på bilens gearkasse og motor gældende: "En bilforhandler D havde solgt en bil til A for 151.200 kr. Købet blev anset for et civilkøb. Inden for to uger efter købet blev der konstateret fejl på både bilens gearkasse og motor, og bilen blev repareret to gange på autoriserede værksteder. Det blev lagt til grund, at udbedring af fejlen på gearkassen havde været nødvendig, for at bilen kunne bringes til at køre igen, og at udbedring af fejlen på motoren havde været nødvendig for at undgå, at motoren brød sammen inden for kortere tid. Bilen havde derfor været af ringere beskaffenhed og brugbarhed, end den efter parternes aftale kunne forventes at være, og bilen var derfor behæftet med mangler. A havde godtgjort, at manglerne havde været til stede ved leveringen. A nedlagde påstand om, at D skulle betale knap 50.000 kr. i forholdsmæssigt afslag, og spørgsmålet var, om A var afskåret fra at gøre manglerne gældende, idet bilen i følge slutsedlen var solgt »engros uden garanti«. Landsretten anførte, at et vilkår, hvorefter en køber afskæres fra at gøre mangler som de foreliggende gældende, skal være klart og utvetydigt, for at det kan anses vedtaget som en del af parternes aftale. Det måtte efter et responsum fra AutoBranchen Danmark anses for usikkert, hvad den nærmere rækkevidde af begrebet »engros uden garanti« er i forhold til købers adgang til at gøre mangler gældende. Sælgeren forklarede, at han og A løseligt havde talt om, at hvis det var »engros«, så var der ikke garanti på bilen. A forklarede, at han ikke mente, at de havde talt om, hvad »engros« betød, men at han godt vidste, at det indebar, at han ikke kunne gøre småting gældende. Det kunne herefter ikke lægges til grund med den klarhed, som må kræves, at det var aftalt eller fulgte af sædvane, at A ikke kunne gøre mangler af den foreliggende karakter gældende. A havde reklameret rettidigt, og han havde ikke frataget D en eventuel afhjælpningsret. A var på den baggrund ikke afskåret fra at gøre manglerne gældende, og han var herefter berettiget til et forholdsmæssigt afslag i købsprisen, jf. købelovens § 42, stk. 1. Herefter, og da han havde begrænset reparationsudgifterne, blev hans påstand taget til følge".
 
 ---
 
@@ -346,9 +346,9 @@ Ofte sælger egne folk der bringer varen ud.
 
 Levering sker og risikoen overgår fra sælger til køber, når køber har varen i sin besiddelse, jf. KBL § 11.
 
-Det fremgår af bestemmelsen, at levering er sket, når genstanden er kommet i køberens »besiddelse«,
+Det fremgår af bestemmelsen, at levering er sket, når genstanden er kommet i køberens »besiddelse«.
 
-Afsendelseskøb/forsendelseskøb, jf. KBL § 10
+Afsendelseskøb/forsendelseskøb, jf. KBL § 10.
 
 Levering sker og risikoen overgår fra sælger til køber, når varen overgives til første fremmede fragtfører. 
 
@@ -362,13 +362,13 @@ Ved søtransport sker levering når varen er bragt inden for skibssiden.
 
 Her købelovens leveringsklausuler:
 
-* FOB (Free on board), KBL § 62
+* FOB (Free on board), jf. KBL § 62.
 
-* CF (Cost & freight), KBL § 63, jf. § 10
+* CF (Cost & freight), jf. KBL § 63, jf. § 10.
 
-* Cif (Cost, insurance, freight), KBL § 64, jf. § 63 og § 10
+* Cif (Cost, insurance, freight), jf. KBL § 64, jf. § 63 og § 10.
 
-* Franco (Frit leveret), KBL § 65
+* Franco (Frit leveret), jf. KBL § 65.
 
 Til internationale køb anvendes INCOTERMS 2010. 
 
@@ -378,9 +378,9 @@ Til internationale køb anvendes INCOTERMS 2010.
 
 Sælger kan som udgangspunkt misligholde en aftale på tre måder:
 
-* *Forsinkelse med levering* (afsnit 8.8.1.)
-* *Faktiske mangler - mangler ved den leverede vare* (afsnit 8.8.2.) 
-* *Retlige mangler – vanhjemmel* (afsnit 8.8.3.)
+* *Forsinkelse med levering* (afsnit 8.8.1.).
+* *Faktiske mangler - mangler ved den leverede vare* (afsnit 8.8.2.). 
+* *Retlige mangler – vanhjemmel* (afsnit 8.8.3.).
 
 ---
 
@@ -390,9 +390,9 @@ Hvis leveringstidspunkt ikke er aftalt – Levering skal ske efter påkrav, jf. 
 
 Hvis der er aftalt levering:
 
-* Primo maj/begyndelsen af maj = 1. til 10. maj
-* Medio maj/midten af maj = 11. til 20. maj
-* Ultimo maj/slutningen af maj = 21. til 31. maj
+* Primo maj/begyndelsen af maj = 1. til 10. maj.
+* Medio maj/midten af maj = 11. til 20. maj.
+* Ultimo maj/slutningen af maj = 21. til 31. maj.
 
 Er der anvendt udtryk som f.eks. »straks«, »omgående«, »prompte« eller »snarest muligt«, beror det bl.a. på brancheforhold mv., hvad der ligger heri,
 
@@ -458,19 +458,19 @@ Det er et grundlæggende princip, at køberen skal reklamere, hvis køber vil æ
 
 ---
 
-Købelovens reklamationsbestemmelser findes i §§ 26–27 (om køberens reklamationspligt ved sælgerens forsinkelse), §§ 31–32 (om sælgerens reklamationspligt ved køberens forsinkelse), §§ 52–54 (om køberens reklamationspligt ved mangler ved salgsgenstanden) og §§ 81–85 (om forbrugerkøberens reklamationspligt ved mangler ved salgsgenstanden).
+Købelovens reklamationsbestemmelser findes i KBL §§ 26–27 (om køberens reklamationspligt ved sælgerens forsinkelse), jf. KBL §§ 31–32 (om sælgerens reklamationspligt ved køberens forsinkelse), jf. KBL §§ 52–54 (om køberens reklamationspligt ved mangler ved salgsgenstanden) og KBL §§ 81–85 (om forbrugerkøberens reklamationspligt ved mangler ved salgsgenstanden).
 
 Købelovens reklamationsbestemmelser suppleres af almindelige regler om passivitet mv. 
 
-Dette indebærer bl.a., at en reklamation kan tillægges retsvirkning, hvis modtageren ikke gør indsigelse mod reklamationen, eller hvis der indledes forhandlinger vedr. levering el.lign., uden at der tages forbehold for, at reklamationen er for sen.
+Dette indebærer bl.a., at en reklamation kan tillægges retsvirkning, hvis modtageren ikke gør indsigelse mod reklamationen, eller hvis der indledes forhandlinger vedr. levering el.lign. uden, at der tages forbehold for, at reklamationen er for sen.
 
 Såfremt en part over for den misligholdende part tilkendegiver, hvilke(n) misligholdelsesbeføjelse(r) han eller hun vil påberåbe sig, kan parten som udgangspunkt ikke omgøre sit valg.
 
-Hvis sælger skal levere over flere gange (successiv levering), dvs. at sælgeren skal erlægge sin ydelse i rater el.lign.
+Hvis sælger skal levere over flere gange (successiv levering) dvs., at sælgeren skal erlægge sin ydelse i rater el.lign.
 
 ---
 
-Situation: Én leverance bliver forsinket
+Situation: Én leverance bliver forsinket.
 
 Hovedreglen er delvis ophævelse.
 
@@ -503,7 +503,7 @@ Om retlige mangler, herunder vanhjemmel, og rådighedsmangler, dvs. de tilfælde
 
 Købeloven indeholder ikke uden for forbrugerkøb en definition af, hvad der forstås ved en faktisk (kvalitativ) mangel. 
 
-Det antages imidlertid, at den definition af mangler i forbrugerkøb, som fremgår af § 76, også kan være vejledende for mangelsbedømmelsen i ikke-forbrugerkøb.
+Det antages imidlertid, at den definition af mangler i forbrugerkøb, som fremgår af KBL § 76, også kan være vejledende for mangelsbedømmelsen i ikke-forbrugerkøb.
 
 Køberen har bevisbyrden for, at salgsgenstanden er mangelfuld, jf. dog i forbrugerkøb KBL § 77a, stk. 3 formodningsreglen, hvor denne bevisbyrde er sælgerens de første 6 måneder efter købet.
 
@@ -522,6 +522,8 @@ Vurderingstidspunkt for salgsgenstandens tilstand vurderes på tidspunktet for l
 Se principperne i forbrugerkøbsafsnittet, jf. KBL § 76, § 75a, ved vurdering af kvalitetsmangel. 
 
 Varen skal være i overensstemmelse med, hvad der er blevet aftalt mellem køber og sælger.
+
+---
  
 
 Køberen kan fastholde købet og kræve omlevering:
@@ -529,38 +531,40 @@ Køberen kan fastholde købet og kræve omlevering:
 
 Specieskøb (kan i sagens natur ikke omleveres, da der kun er én)
 
-Genuskøb, KBL § 43, stk. 1.
+Genuskøb, jf. KBL § 43, stk. 1.
 
 
 Køberen kan fastholde og kræve forholdsmæssigt afslag/nedslag i købesummen:
 
 
-Specieskøb, KBL § 42, stk. 1.
+Specieskøb, jf. KBL § 42, stk. 1.
 
 Genuskøb, KBL § 43, stk. 1.
+
+---
 
 
 Køberen kan ophæve købet / annullere:
 
 
-Specieskøb, KBL § 42, stk. 1 – Betingelse: Væsentlig mangel ved salgsgenstanden
+Specieskøb, jf. KBL § 42, stk. 1 – Betingelse: Væsentlig mangel ved salgsgenstanden.
 
-Genuskøb, KBL § 43, stk. 1. – Betingelse: Væsentlig mangel ved salgsgenstanden
+Genuskøb, jf. KBL § 43, stk. 1. – Betingelse: Væsentlig mangel ved salgsgenstanden.
 
 
 Samt kræve erstatning for købers tab:
 
-Specieskøb, KBL § 42, stk. 2.
+Specieskøb, jf. KBL § 42, stk. 2.
 
-Genuskøb, KBL § 43, stk. 3.
+Genuskøb, jf. KBL § 43, stk. 3.
  
 ---
 
 Sælger har ret til at omlevere eller at afhjælpe manglen, fx ved reparation, jf. KBL § 49, hvis:
 
-* Det kan ske uden ulempe for køber
+* Det kan ske uden ulempe for køber.
 
-* Det kan ske uden omkostninger for køber
+* Det kan ske uden omkostninger for køber.
 
 * Køber kan ikke hæve eller forlange prisnedslag hvis sælger tilbyder afhjælpning eller omlevering, jf. KBL § 78, stk. 3.
 
@@ -579,7 +583,7 @@ HR: Delvis ophævelse.
 
 U1: Hæve kommende aftalte leverancer, hvis de senere leverancer også ventes at blive mangelfulde, jf. KBL § 46, stk. 2
 
-U2: Købet kan hæves i sin helhed, hvis det er begrundet i sammenhængen mellem leveringerne, jf. KBL § 46, stk. 2
+U2: Købet kan hæves i sin helhed, hvis det er begrundet i sammenhængen mellem leveringerne, jf. KBL § 46, stk. 2.
  
 ---
 
@@ -589,6 +593,8 @@ Når salgsgenstanden er leveret har køber pligt til at undersøge varen, i over
 
 Se det latinske begreb: *Caveat Emptor-reglen*: Køberen skal se sig for.
 
+---
+
 **Video: Om Caveat Emptor**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/o32ngMsTEMY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -596,7 +602,7 @@ Se det latinske begreb: *Caveat Emptor-reglen*: Køberen skal se sig for.
 
 ---
 
-Købers reklamation følger af købelovens § 52-54:
+Købers reklamation følger af KBL § 52-54:
 
 Ved mangler skal køber reklamere straks, ellers mister han sine misligholdelsesbeføjelser.
 
@@ -646,31 +652,31 @@ Sælgers ansvarsgrundlag er objektivt ansvar over for køber, hvis køber er i g
 
 *Købers misligholdelse:*
 
-* Forsinkelse med betaling af købesummen
+* Forsinkelse med betaling af købesummen.
 
-* Anteciperet (forventede) forsinkelse med betaling af købesummen
+* Anteciperet (forventede) forsinkelse med betaling af købesummen.
 
-* Fordringshavermora - Manglende modtagelse af varen (ikke en misligholdelse)
+* Fordringshavermora - Manglende modtagelse af varen (ikke en misligholdelse).
 
 * Fastholde købet og forlange betaling, jf. KBL § 28, stk. 1
 
-* Hæve købet, jf. KBL § 28, stk. 1
+* Hæve købet, jf. KBL § 28, stk. 1.
 
 * Forsinkelsen skal være væsentlig. I handelskøb er enhver forsinkelse væsentlig.
 
-* Kræve erstatning ved ophævelse, jf. KBL § 30
+* Kræve erstatning ved ophævelse, jf. KBL § 30.
 
-* Skadeserstatning efter KBL § 24
+* Skadeserstatning efter KBL § 24.
 
 * Hvis sælger foretager et dækningssalg i rimelig tid efter ophævelsen, og salget indbringer færre penge, end det ville have gjort, hvis aftalen med den oprindelige køber var blevet opfyldt korrekt, kan sælger forlange differencebeløbet erstattet af køber, jf. KBL § 30, stk. 2.
  
 ---
 
-Situation: Hvis sælger allerede har leveret uden at der samtidig er sket betaling
+Situation: Hvis sælger allerede har leveret uden at der samtidig er sket betaling.
 
-Hovedregel: Kreditkøb - ikke hæve og få det solgte tilbage
+Hovedregel: Kreditkøb - ikke hæve og få det solgte tilbage.
 
-* Sælger må iværksætte inkasso og evt. tvangsinddrivelse
+* Sælger må iværksætte inkasso og evt. tvangsinddrivelse.
 
 Undtagelser, fx hvis:
 
@@ -682,9 +688,9 @@ Undtagelser, fx hvis:
  
 ---
 
-Særligt om delleverancer, KBL § 29, jf. § 28
+Særligt om delleverancer, se KBL § 29, jf. KBL § 28.
 
-Situation: Flere leverancer, og køber er forsinket med betaling af en enkelt leverance
+Situation: Flere leverancer, og køber er forsinket med betaling af en enkelt leverance.
 
 * Sælger kan hæve købet for de følgende leveringer, medmindre der ikke er grund til at frygte yderligere forsinkelser med betaling.
  
@@ -704,7 +710,9 @@ Hæve købet: Når det er blevet tid til at levere, kan sælger hæve købet, hv
 
 ---
 
-#### Fordringshavermora, KBL §§ 33-37
+#### Købers fordringshavermora
+
+Købers fordringshavermora, jf. KBL §§ 33-37.
 
 Betragtes ikke som misligholdelse, men situationen udløser en række krav og valgmuligheder for sælgeren, der ikke kan ”komme af med” varen.
 
@@ -724,7 +732,7 @@ Sælger er berettiget til at bortskaffe varen.
 ## Forbrugerkøb
 
 
-Retskilde: Købelovens forbrugerafsnit KBL §§ 72-87.
+Retskilde: Købelovens forbrugerafsnit.jf.  KBL §§ 72-87.
 
 *Købelovens regler om forbrugerkøb er beskyttelsespræceptiv:* 
 
@@ -741,23 +749,23 @@ Forbrugerkøb: når en erhvervsdrivende som led i sit erhverv, sælger en vare, 
  
 *Sælgers forpligtelser*:
 
-* Levere den solgte vare i rette tid og på rette sted
+* Levere den solgte vare i rette tid og på rette sted.
 
-* Levere den solgte varer i rette stand - uden mangler
+* Levere den solgte varer i rette stand - uden mangler.
 
 ---
 
 *Forbrugerkøberens forpligtelser:*
 
-* Modtage varen som der er aftalt
+* Modtage varen som der er aftalt.
 
-* Betale købesummen som er aftalt
+* Betale købesummen som er aftalt.
 
-* Rette tid i henhold til aftalen
+* Rette tid i henhold til aftalen.
 
-* Rette sted i henhold til aftalen
+* Rette sted i henhold til aftalen.
 
-* Rette betalingsmiddel i henhold til aftalen 
+* Rette betalingsmiddel i henhold til aftalen.
 
 ---
 
@@ -787,29 +795,29 @@ Levering er ikke sket, såfremt sælgeren f.eks., uden at køberen har anmodet h
 
 *Sælger kan som udgangspunkt misligholde en aftale på tre måder:*
 
-* Forsinkelse med levering af den aftalte vare
+* Forsinkelse med levering af den aftalte vare.
 
-* Faktiske mangler - mangler ved den leverede vare
+* Faktiske mangler - mangler ved den leverede vare.
 
-* Retlige mangler – vanhjemmel
+* Retlige mangler – vanhjemmel.
 
 
 *Køber kan:*
 
  
-* Tilbageholde købesummen, jf. KBL § 14
+* Tilbageholde købesummen, jf. KBL § 14.
 
-* Samtidighedsgrundsætningen
+* Samtidighedsgrundsætningen.
 
-* Kræve levering, dvs. fastholde købet, jf. KBL § 21, stk. 1
+* Kræve levering, dvs. fastholde købet, jf. KBL § 21, stk. 1.
 
-* Ophæve købet/annullere, jf. KBL § 74, stk. 2
+* Ophæve købet/annullere, jf. KBL § 74, stk. 2.
 
-* Hvis forsinkelse har væsentlig betydning
+* Hvis forsinkelse har væsentlig betydning.
 
-* Køber har reklameret med eller uden frist
+* Køber har reklameret med eller uden frist.
 
-* Kræve erstatning for dokumenteret økonomisk tab, KBL § 80
+* Kræve erstatning for dokumenteret økonomisk tab i forbindelse med den køberetlige mangel, jf. KBL § 80.
  
 ---
 
@@ -836,11 +844,11 @@ Se grundprincipperne i KBL §§ 75a og 76.
 *Kræve naturalopfyldelse/fastholde købet og kræve*:
 
 
-* Afhjælpning (reparation), KBL § 78, stk. 1, nr. 1.
+* Afhjælpning (reparation), jf. KBL § 78, stk. 1, nr. 1.
 
-* Omlevering til en tilsvarende vare, KBL § 78, stk. 1, nr. 2 (ej speciesvare).
+* Omlevering til en tilsvarende vare, jf. KBL § 78, stk. 1, nr. 2 (ej speciesvare).
 
-* Forholdsmæssigt/passende afslag, KBL § 78, stk. 1, nr. 3:
+* Forholdsmæssigt/passende afslag, jf. KBL § 78, stk. 1, nr. 3:
 
 * Tilbageholde købesum indtil mangelfri vare er leveret – samtidighedsgrundsætningen, jf. KBL § 14.
  
@@ -877,9 +885,9 @@ Køber skal reklamere rettidigt, dvs. mindst 2 måneder efter manglen er opdaget
 
 Hvis man ikke kan finde bonnen for købet, kan man anvende et bankudskrift, som kvittering.
 
-Den absolutte reklamationsfrist er 24 måneder fra salgsgenstandens overgivelse, jf. § 83, stk. 1, medmindre at sælgeren har påtaget sig at indestår for salgsgenstanden i længere tid ved et garantitilsagn (tilsikring), eller at der er tale om en reparation af det købte, som er en tjenesteydelse, hvor indsigelser på den mangelfulde reparation forældes efter 3 år, jf. forældelseslovens § 3
+Den absolutte reklamationsfrist er 24 måneder fra salgsgenstandens overgivelse, jf. KBL § 83, stk. 1, medmindre at sælgeren har påtaget sig at indestår for salgsgenstanden i længere tid ved et garantitilsagn (tilsikring), eller at der er tale om en reparation af det købte, som er en tjenesteydelse, hvor indsigelser på den mangelfulde reparation forældes efter 3 år, jf. forældelseslovens § 3.
 
-
+---
 
 ![](img/reklamation.png)  
 
@@ -922,7 +930,7 @@ Hvis en mangel viser sig efter 6 måneder fra levering, og inden udløbet af den
 
 *Fordringshavermora*: 
 
-Købers forhold bevirker at sælger ikke kan levere varen til tiden
+Købers forhold bevirker at sælger ikke kan levere varen til tiden.
 
 Betragtes ikke som misligholdelse i købelovens forstand.
 
@@ -932,9 +940,11 @@ Sælger har omsorgspligt, og under visse betingelser salgspligt og ret til at s�
 
 ---
 
-**Video - Case: "Rolfs Damjolle." Køb, levering, mangler, reklamation
+**Video - Case: "Rolfs Damjolle." Køb, levering, mangler, reklamation.
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/J6Mo3_qkONY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
 
 
 **Quiz**
@@ -977,7 +987,7 @@ Men Børge kan ikke betale, da han har brugt alle sine penge på bil opkøb.
 
 Derudover har banken sendt et brev om, at der er overtræk på kassekreditten og at de ønsker sikkerhed for deres tilgodehavende. 
 
-*Eksamensspørgsmålene*
+*Eksamensspørgsmålene:*
 
 
 1.	Redegør for hvilke rettigheder – om nogen - Merete har? 

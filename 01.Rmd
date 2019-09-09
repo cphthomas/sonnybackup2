@@ -170,11 +170,6 @@ visNetwork(nodes, edges,  width = "100%",avoidOverlap=2) %>%
 
 *	Magtbalance  
 
----
-
-**Video: Magtens tredeling | Hvorfor er magten delt i tre?**
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/hp_DPXtkfa8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
 ---
@@ -214,11 +209,6 @@ Domstolene afgør også, om ministerier og kommuner har overtrådt lovene, og om
 
 I 1999 fastslog Højesteret i dommen **U 1999.841 H**, at den såkaldte Tvindlov var i strid med grundlovens § 3. Tvindlovens bestemmelse om, at en række Tvindskoler ikke længere skulle have penge fra det offentlige, var derfor ugyldig. 
 
----
-
-**Video: Retssikkerhed. Hvordan kan domstolene hjælpe mig?**
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/eZt1GQQKJsg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
@@ -998,12 +988,6 @@ Hovedforhandling blev tidligere kaldt for domsforhandling.
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/z_GMbA99aKs" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
----
-
-**Video: Om lægdommere og nævninge**
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/3jLwPHTQgIg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
 
 ---
  
@@ -1168,13 +1152,6 @@ Det er en betingelse, at sagen er anlagt ved retten, og at begge parter er enige
 Retsmæglerens bistand er gratis, men hver part skal betale salær til egen advokat.
 
 Retsmægling er ofte mindre tidskrævende og dermed også billigere for parterne end en retssag eller traditionel forligsmægling.
-
----
-
-**Video om retsmægling**
-
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/Kr4GwHuykj8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 

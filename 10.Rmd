@@ -163,21 +163,21 @@ Anderledes med *fansider på Facebook*, hvor Facebook og administratoren af en f
 
 Behandlingsbegrebet skal således forstås meget bredt og dækker over enhver form for håndtering af personoplysninger, såsom:  
 
-* Indsamling
+* Indsamling.
 
-* Registrering
+* Registrering.
 
-* Systematisering
+* Systematisering.
 
-* Opbevaring
+* Opbevaring.
 
-* Søgning
+* Søgning.
 
-* Tilpasning
+* Tilpasning.
 
-* Sletning
+* Sletning.
 
-* Videregivelse
+* Videregivelse.
  
 ---
 
@@ -186,11 +186,11 @@ Behandlingsbegrebet skal således forstås meget bredt og dækker over enhver fo
 
 *Databeskyttelsesforordningen opdeler personoplysninger i tre typer:*  
 
-* Almindelige ikke-følsomme oplysninger,
+Almindelige ikke-følsomme oplysninger.
 
-* Særlige kategorier af oplysninger (følsomme oplysninger) og
+Særlige kategorier af oplysninger (følsomme oplysninger) og
 
-* Oplysninger om straffedomme og lovovertrædelser eller tilknyttede sikkerhedsforanstaltninger. 
+Oplysninger om straffedomme og lovovertrædelser eller tilknyttede sikkerhedsforanstaltninger. 
 
 ---
 
@@ -198,17 +198,17 @@ Der findes to kategorier af personoplysninger:
 
 Almindelige ikke-følsomme personoplysninger fx:
 
-* Fx navn, adresse, telefonnummer, køn, alder
+Navn, adresse, telefonnummer, køn, alder.
 
 ---
 
-*Følsomme personoplysninger fx:*
+*Følsomme personoplysninger er fx:*
 
-* Race og etnisk baggrund
+Race og etnisk baggrund.
 
-* Politisk, religiøs og filosofisk overbevisning
+Politisk, religiøs og filosofisk overbevisning.
 
-* Fagforeningsmæssigt tilhørsforhold, helbred, seksuel orientering
+Fagforeningsmæssigt tilhørsforhold, helbred, seksuel orientering.
 
 
 ---
@@ -286,13 +286,13 @@ Det kan for eksempel være identifikationsoplysninger som navn og adresse eller 
 
 En virksomhed må kun behandle almindelige ikke-følsomme personoplysninger, hvis en af følgende betingelser er opfyldt:
 
-* Virksomheden har et lovligt samtykke
+Virksomheden har et lovligt samtykke.
 
-* Behandling er nødvendig for at opfylde en aftale med den registrerede
+Behandling er nødvendig for at opfylde en aftale med den registrerede.
 
-* Virksomheden er iht. lov forpligtet til at behandle oplysningerne
+Virksomheden er iht. lov forpligtet til at behandle oplysningerne.
 
-* Hvis virksomheden har en saglig interesse i at behandle oplysningerne, som overstiger den registreredes interesser.
+Hvis virksomheden har en saglig interesse i at behandle oplysningerne, som overstiger den registreredes interesser.
 
 ---
 
@@ -315,33 +315,37 @@ Særlige kategorier af personoplysninger (følsomme personoplysninger) følger a
 
 Følsomme personoplysninger er udtrykkelig afgrænset i databeskyttelsesforordningen, og adgangen til at behandle sådanne oplysninger er snævrere end ved almindelige personoplysninger. 
 
+---
+
 *Følsomme oplysninger er nærmere oplysninger om*:
 
-* Race og etnisk oprindelse
+* Race og etnisk oprindelse.
 
-* Politisk overbevisning
+* Politisk overbevisning.
 
-* Religiøs eller filosofisk overbevisning
+* Religiøs eller filosofisk overbevisning.
 
-* Fagforeningsmæssige tilhørsforhold
+* Fagforeningsmæssige tilhørsforhold.
 
-* Genetiske data
+* Genetiske data.
 
-* Biometriske data med henblik på entydig identifikation
+* Biometriske data med henblik på entydig identifikation.
 
-* Helbredsoplysninger
+* Helbredsoplysninger.
 
-* Seksuelle forhold eller seksuel orientering
+* Seksuelle forhold eller seksuel orientering.
 
-* Kun de oplysninger, der er nævnt ovenfor, er følsomme personoplysninger
+* Kun de oplysninger, der er nævnt ovenfor, er følsomme personoplysninger.
+
+---
 
 Af databeskyttelsesforordningen fremgår det, hvornår der må ske behandling af følsomme oplysninger.  
 
 De følsomme oplysninger omfattet af databeskyttelsesforordningens artikel 9, stk. 1, må dog behandles, hvis der er hjemmel til det i forordningen, hvilket særligt vil sige i databeskyttelsesforordningens artikel 9, stk. 2, litra a-j: 
 
-Behandling af de pågældende oplysninger kan således ske på betingelse af, at den registrerede har givet et klart og udtrykkeligt samtykke til behandling af sådanne personoplysninger (litra a) 
+Behandling af de pågældende oplysninger kan således ske på betingelse af, at den registrerede har givet et klart og udtrykkeligt samtykke til behandling af sådanne personoplysninger (litra a). 
 
-Der skal således være tale om en frivillig, specifik og informeret viljestilkendegivelse. 
+Der skal således være tale om en frivillig, specifik og informeret. viljestilkendegivelse. 
 
 ![](img/samtykke.jpg)
 
@@ -355,25 +359,29 @@ Et egentligt krav om skriftlighed følger ikke af bestemmelsen.
 
 Der bør dog i videst muligt omfang søges indhentet et skriftligt samtykke fra den registrerede, idet der herved opnås klarhed omkring samtykkets rækkevidde.
 
+---
+
 *Det kan skyldes følgende begrundelser*:
  
-*At* behandling er nødvendig for at overholde den dataansvarliges eller den registreredes arbejds-, sundheds- og socialretlige forpligtelser og specifikke rettigheder, for så vidt den har hjemmel i EU-retten eller medlemsstaternes nationale ret eller en kollektiv overenskomst i medfør af medlemsstaternes nationale ret, som giver fornødne garantier for den registreredes grundlæggende rettigheder og interesser (litra b), 
+*At* behandling er nødvendig for at overholde den dataansvarliges eller den registreredes arbejds-, sundheds- og socialretlige forpligtelser og specifikke rettigheder, for så vidt den har hjemmel i EU-retten eller medlemsstaternes nationale ret eller en kollektiv overenskomst i medfør af medlemsstaternes nationale ret, som giver fornødne garantier for den registreredes grundlæggende rettigheder og interesser (litra b). 
 
-*At* behandling er nødvendig for at beskytte den registreredes eller en anden fysisk persons vitale interesser i tilfælde, hvor den registrerede fysisk eller juridisk ikke er i stand til at give samtykke (litra c), 
+*At* behandling er nødvendig for at beskytte den registreredes eller en anden fysisk persons vitale interesser i tilfælde, hvor den registrerede fysisk eller juridisk ikke er i stand til at give samtykke (litra c). 
 
-*At* behandling foretages af en stiftelse, en sammenslutning eller et andet organ, som ikke arbejder med gevinst for øje, og hvis sigte er af politisk, filosofisk, religiøs eller fagforeningsmæssig art, som led i organets legitime aktiviteter og med de fornødne garantier, og på betingelse af at behandlingen alene vedrører organets medlemmer, tidligere medlemmer eller personer, der på grund af organets formål er i regelmæssig kontakt hermed, og at personoplysningerne ikke videregives uden for organet uden den registreredes samtykke (litra d), 
+*At* behandling foretages af en stiftelse, en sammenslutning eller et andet organ, som ikke arbejder med gevinst for øje, og hvis sigte er af politisk, filosofisk, religiøs eller fagforeningsmæssig art, som led i organets legitime aktiviteter og med de fornødne garantier, og på betingelse af at behandlingen alene vedrører organets medlemmer, tidligere medlemmer eller personer, der på grund af organets formål er i regelmæssig kontakt hermed, og at personoplysningerne ikke videregives uden for organet uden den registreredes samtykke (litra d).
 
-*At* behandling vedrører personoplysninger, som tydeligvis er offentliggjort af den registrerede (litra e),
+*At* behandling vedrører personoplysninger, som tydeligvis er offentliggjort af den registrerede (litra e).
  
 *At* behandling er nødvendig, for at retskrav kan fastlægges, gøres gældende eller forsvares, eller når domstole handler i deres egenskab af domstol (litra f), 
 
-*At* behandling er nødvendig af hensyn til væsentlige samfundsinteresser på grundlag af EU-retten eller medlemsstaternes nationale ret og står i rimeligt forhold til det mål, der forfølges, respekterer det væsentligste indhold af retten til databeskyttelse og sikrer passende og specifikke foranstaltninger til beskyttelse af den registreredes grundlæggende rettigheder og interesser (litra g), 
+*At* behandling er nødvendig af hensyn til væsentlige samfundsinteresser på grundlag af EU-retten eller medlemsstaternes nationale ret og står i rimeligt forhold til det mål, der forfølges, respekterer det væsentligste indhold af retten til databeskyttelse og sikrer passende og specifikke foranstaltninger til beskyttelse af den registreredes grundlæggende rettigheder og interesser (litra g). 
 
 *At* behandling er nødvendig med henblik på forebyggende medicin eller arbejdsmedicin til vurdering af arbejdstagerens erhvervsevne, medicinsk diagnose, ydelse af social- og sundhedsomsorg eller -behandling eller forvaltning af social- og sundhedsomsorg og -tjenester på grundlag af EU-retten eller medlemsstaternes nationale ret eller i henhold til en kontrakt med en sundhedsperson og underlagt de betingelser og garantier, der er omhandlet i databeskyttelsesforordningens artikel 9, stk. 3 (litra h), 
 
 *At* behandling er nødvendig af hensyn til samfundsinteresser på folkesundhedsområdet (litra i), eller
  
 *At* behandling er nødvendig til arkivformål i samfundets interesse, til videnskabelige eller historiske forskningsformål eller til statistiske formål på grundlag af EU-retten eller medlemsstaternes nationale ret og står i rimeligt forhold til det mål, der forfølges, respekterer det væsentligste indhold af retten til databeskyttelse og sikrer passende og specifikke foranstaltninger til beskyttelse af den registreredes grundlæggende rettigheder og interesser (litra j).
+
+---
  
 ![](img/samtykke1.jpg)
 
@@ -438,6 +446,8 @@ Begrebet indebærer bl.a., at behandlingen af oplysninger skal være rimelig og 
 
 Standarden anses efter praksis fra Datatilsynet for bl.a. at omfatte krav til den dataansvarlige om forudgående underretning af den registrerede om visse behandlingsaktiviteter, en pligt til at notere den registreredes indsigelser i forhold til rigtigheden af de registrerede oplysninger og underretning af berørte personer ved brud på datasikkerheden. 
 
+---
+
 God databehandlingsskik supplerer således navnlig databeskyttelseslovens regler om den registreredes rettigheder:
 
 * Persondatabehandlingen skal være lovlig og rimelig.
@@ -472,7 +482,7 @@ Den registrerede oplyses om formålet med at behandle persondata og grundlaget (
 
 ---
 
----
+
 
 ## <font color="red">Nærmere om kravet til samtykke for, at der kan behandles personoplysninger<sup> Premium </font></sup>
 
@@ -504,6 +514,8 @@ Oplysning om, at samtykket kan trækkes tilbage er således nu efter 25. maj 201
 
 For både almindelige og følsomme data gælder i begge sektorer privat som offentlig, at der kan ske behandling, såfremt den registrerede samtykker hertil. 
 
+---
+
 *Tidspunkt*
 
 Den registreredes samtykke skal være på plads inden, den dataansvarlige påbegynder behandling af de oplysninger, som samtykket angår.
@@ -516,12 +528,13 @@ Et samtykke kan både afgives mundtligt, skriftligt og digitalt.
 
 Det afgørende er, at den registreredes erklæring eller handling tydeligt tilkendegiver den registreredes hensigt, og et samtykke kan derfor ikke gives stiltiende eller være underforstået. 
 
-
 Den dataansvarlige skal endvidere som nævnt kunne bevise, at den registrerede har givet sit samtykke til behandlingen af personoplysninger og kunne bevise, hvad det meddelte samtykke omfatter. 
 
 Et samtykke bør derfor bør i videst mulige omfang afgives skriftligt eller på anden måde, som kan bevises. 
 
 Kan den dataansvarlige ikke bevise, at der foreligger et gyldigt samtykke, er konsekvensen, at samtykket ikke kan anses for at være i overensstemmelse med forordningen og kan dermed ikke udgøre et lovligt behandlingsgrundlag.
+
+---
 
 *Frivilligt*
 
@@ -538,8 +551,6 @@ Eksempel - En privat sportsforening beder sine medlemmer om samtykke til at tage
 Medlemmerne anses for at have et reelt og frit valg, så længe et nægtet samtykke ikke medfører negative konsekvenser (f.eks. ekskludering af foreningen).^[Jf. Datatilsynets og Justitsministeriets pjece om vejledning om Samtykke, november 2017, s. 4.] 
 
 
-
-
 ![](img/datatilsynet.jpg)
 
 ---
@@ -550,33 +561,35 @@ Medlemmerne anses for at have et reelt og frit valg, så længe et nægtet samty
 
 Datatilsynet og Justitsministeriet har udarbejdet følgende nedenstående tjekliste, herunder kan den liste tjene som en rettesnor for, om man som dataansvarlig er på linje med kravene i databeskyttelsesforordningen eller ej:^[Jf. Datatilsynets og Justitsministeriets pjece om vejledning om Samtykke, november 2017, s. 18.]
 
+---
+
 *Tjeklisten for samtykke:*
 
-* Den dataansvarlige har taget stilling til, at samtykke er den mest hensigtsmæssige hjemmel til at behandle data i den givne situation
+Den dataansvarlige har taget stilling til, at samtykke er den mest hensigtsmæssige hjemmel til at behandle data i den givne situation.
 
-* Samtykkeanmodningen er tydelig og adskilt fra øvrig tekst, som f.eks. salgs- og leveringsbetingelsesvilkår
+Samtykkeanmodningen er tydelig og adskilt fra øvrig tekst, som f.eks. salgs- og leveringsbetingelsesvilkår.
 
-* Den dataansvarlige indhenter altid samtykke via et aktivt tilvalg fra den samtykkendes side
+Den dataansvarlige indhenter altid samtykke via et aktivt tilvalg fra den samtykkendes side.
 
-* Den dataansvarlige indhenter aldrig samtykke via forudafkrydsede samtykkefelter eller på anden vis, der baserer sig på den samtykkendes passivitet
+Den dataansvarlige indhenter aldrig samtykke via forudafkrydsede samtykkefelter eller på anden vis, der baserer sig på den samtykkendes passivitet.
 
-* Samtykket er formuleret i et klart og enkelt sprog, som er letforståeligt for en person i målgruppen
+Samtykket er formuleret i et klart og enkelt sprog, som er letforståeligt for en person i målgruppen.
 
-* Samtykket specificerer formålet med den påtænkte behandling af data
+Samtykket specificerer formålet med den påtænkte behandling af data.
 
-* Hvis den dataansvarlige ønsker samtykke til flere forskellige formål, spørges der om separat samtykke for hvert formål
+Hvis den dataansvarlige ønsker samtykke til flere forskellige formål, spørges der om separat samtykke for hvert formål.
 
-* Navnet på den/de dataansvarlige fremgår af samtykketeksten
+Navnet på den/de dataansvarlige fremgår af samtykketeksten.
 
-* Den dataansvarlige oplyser om muligheden for at trække samtykket tilbage Der er ikke negative konsekvenser forbundet med ikke at give samtykke
+Den dataansvarlige oplyser om muligheden for at trække samtykket tilbage Der er ikke negative konsekvenser forbundet med ikke at give samtykke.
 
-* Samtykke er ikke en betingelse for levering af en vare/ydelse
+Samtykke er ikke en betingelse for levering af en vare/ydelse.
 
-* Hvis den dataansvarlige udbyder online tjenester direkte rettet mod børn under 13 år, anvendes der kun samtykke i det omfang, det er muligt at tjekke barnets alder, og den dataansvarlige indhenter forældresamtykke, hvis barnet er under 13 år.
+Hvis den dataansvarlige udbyder online tjenester direkte rettet mod børn under 13 år, anvendes der kun samtykke i det omfang, det er muligt at tjekke barnets alder, og den dataansvarlige indhenter forældresamtykke, hvis barnet er under 13 år.
 
-* Den dataansvarlige kan dokumentere, hvem der har givet samtykke, hvornår og hvordan samtykket blev givet, hvad den enkelte har samtykket til, og at samtykket reelt er afgivet frivilligt
+Den dataansvarlige kan dokumentere, hvem der har givet samtykke, hvornår og hvordan samtykket blev givet, hvad den enkelte har samtykket til, og at samtykket reelt er afgivet frivilligt.
 
-* Den dataansvarlige følger regelmæssigt op på, at samtykket stadig er aktuelt og korrekt, og at formålet med behandlingen eller selve behandlingen ikke har ændret sig.
+Den dataansvarlige følger regelmæssigt op på, at samtykket stadig er aktuelt og korrekt, og at formålet med behandlingen eller selve behandlingen ikke har ændret sig.
 
 ---
 
@@ -616,7 +629,7 @@ Som registreret har man således blandt andet følgende persondatarettigheder.
 
 ![](img/tv.jpg)
 
-Den registrerede har ret til at se de personoplysninger, den dataansvarlige behandler om den registrerede, og få en række oplysninger om behandlingen.^[F.eks. it-systemer, men det kan også være tv-overvågningsbilleder, hvor den registrerede optræder eller oplysninger om den registreredes teletrafik mv.]  
+Den registrerede har ret til at se de personoplysninger, den dataansvarlige behandler om den registrerede, og få en række oplysninger om behandlingen.^[F.eks. it-systemer, men det kan også være tv-overvågningsbilleder, hvor den registrerede optræder eller oplysninger om den registreredes teletrafik mv.].  
 
 Det fremgår f.eks. af databeskyttelsesforordningens præambelbetragtning (forord) nr. 63, at en registreret bør have ret til indsigt i personoplysninger, der er indsamlet om vedkommende, og til let og med rimelige mellemrum at udøve denne ret med henblik på at forvisse sig om og kontrollere en behandlings lovlighed. 
 
@@ -654,7 +667,7 @@ Bestemmelsen i forordningens artikel 17, stk. 1, må skulle forstås således, a
 
 Dette ændrer dog ikke på, at den dataansvarlige til stadighed skal overholde principperne i forordningens artikel 5 om bl.a. formålsbegrænsning, dataminimering, rigtighed og opbevaringsbegrænsning. 
 
-Bestemmelsen gælder for enhver, men i præambelbetragtning nr. 65 fremhæves, at retten navnlig er relevant, når den registrerede har givet sit samtykke som barn og ikke fuldt ud var bekendt med risiciene i forbindelse med behandling, og senere ønsker at fjerne sådanne oplysninger, særligt på internettet.^[Jf. betænkning nr. 1565/2017, afsnit 4.7.3.1. Ret til sletning - artikel 17, stk. 1.]  
+Bestemmelsen gælder for enhver, men i præambelbetragtning nr. 65 fremhæves, at retten navnlig er relevant, når den registrerede har givet sit samtykke som barn og ikke fuldt ud var bekendt med risiciene i forbindelse med behandling, og senere ønsker at fjerne sådanne oplysninger, særligt på internettet.^[Jf. betænkning nr. 1565/2017, afsnit 4.7.3.1. Ret til sletning - artikel 17, stk. 1.].  
 
 Det fremgår desuden, at den registrerede bør kunne udøve denne rettighed, uanset om vedkommende ikke længere er barn. 
 
@@ -764,7 +777,7 @@ Derudover udsteder Datatilsynet retningslinjer og anbefalinger for behandling og
 
 ---
 
-**Video: Bøder
+**Video: Bøder**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/RBKJ6SBtEIY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -788,11 +801,11 @@ Udstedelse af administrative bødeforelæg kan også tænkes anvendt i sager om 
 
 ---
 
-**De første bøder sager er begyndt at komme:**
+*De første bøder sager er begyndt at komme:*
 
 ![](img/ide.png)
 
-Datatilsynet fandt efter tilsyn hos møbelvirksomheden, IDdesign A/S, i oktober 2018, at der var sket behandling af ca. 385.000 kunders personoplysninger i strid med databeskyttelsesforordningens krav om opbevaringsbegrænsning, jf. **Datatilsynets j.nr.: 2018-41-0015.**
+Datatilsynet fandt efter tilsyn hos møbelvirksomheden, IDdesign A/S, i oktober 2018, at der var sket behandling af ca. 385.000 kunders personoplysninger i strid med databeskyttelsesforordningens krav om opbevaringsbegrænsning, jf. **Datatilsynets sagsnr.: 2018-41-0015:**
 
 "Datatilsynet rettede i sin afgørelse kritik mod i alt fire forhold vedrørende sletning hos møbelvirksomheden. Indgivelse af politianmeldelse mod IDdesign og indstilling til bøde på 1,5 mio. kr. skete alene på baggrund af det første forhold. For så vidt angår de sidste tre, udtalte Datatilsynet "alvorlig kritik".
 
@@ -806,7 +819,7 @@ De sidste tre forhold omhandlede henholdsvis manglende fastsættelse og dokument
 
 ---
 
-Datatilsynet indstiller taxaselskab til bøde på 1,2 mio. kr. Knap 9 mio. personhenførbare taxature er blevet gemt uden et sagligt formål, vurderer **Datatilsynet, j.nr.: 2018-41-0016:**"
+Datatilsynet indstiller taxaselskab til bøde på 1,2 mio. kr. Knap 9 mio. personhenførbare taxature er blevet gemt uden et sagligt formål, vurderer **Datatilsynets sagsnr.: 2018-41-0016:**
 
 *Resume*
 
@@ -967,7 +980,8 @@ Det betyder, at oplysningerne ikke kan anvendes til fx markedsføring, sagsbehan
 
 Oftest ja. Videregivelse af personoplysninger forudsætter dog, at databeskyttelsesreglerne overholdes, herunder at der er hjemmel til videregivelsen, og at de grundlæggende behandlingsregler om saglighed, nødvendighed og proportionalitet er overholdt.
 
-Har vi som privat virksomhed, offentlig myndighed mv. pligt til at videregive personoplysninger til et forskningsprojekt?
+*Har vi som privat virksomhed, offentlig myndighed mv. pligt til at videregive personoplysninger til et forskningsprojekt?*
+
 Nej, databeskyttelsesreglerne fastlægger kun, hvornår offentlige myndigheder, private virksomheder mv. kan og må behandle personoplysninger.
 
 Reglerne siger ikke noget om, hvornår en offentlig myndighed, privat virksomhed mv. er forpligtet til at udlevere personoplysninger til andre.
@@ -1032,7 +1046,10 @@ Datatilsynet har afgjort en række sager, hvor det har betydet, at oplysninger h
 
 Myndigheden skal notere dine protester ned, så det ses i sagen, at du har en anden opfattelse end myndigheden.
 
-Må jeg lægge billeder af andre op på internettet uden deres samtykke?
+---
+
+*Må jeg lægge billeder af andre op på internettet uden deres samtykke?*
+
 Det afhænger af billedet. 
 
 Ved offentliggørelse af billeder på internettet skelnes overordnet set mellem situationsbilleder og portrætbilleder.
