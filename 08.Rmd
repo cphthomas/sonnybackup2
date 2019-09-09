@@ -20,7 +20,7 @@ cat(readLines('np.html'))
 
 Købeloven (Lovbekendtgørelse nr. 140 af 17. februar 2014 Købelov) opstiller ikke en definition af, hvad der forstås ved køb. 
 
-Køb forstås traditionelt som en aftale om overdragelse af et formuegode mod vederlag i penge).  
+Køb forstås traditionelt som en aftale om overdragelse af et formuegode mod vederlag i penge.  
 
 Der skal være tale om en gensidigt bebyrdende aftale, dvs. at både køberens og sælgerens ydelse forholder sig som vederlag for modydelsen. 
 
@@ -32,7 +32,7 @@ Selv om købeloven udtrykkeligt angiver kun at regulere »køb«, er købeloven 
 
 Dette indebærer, at lovens principper i mange henseender også finder anvendelse på andre, ulovregulerede kontraktstyper fx afgrænsningsbegrebet ved *tjenesteydelser*, *håndværksydelser* og *køb af fast ejendom*.
 
-Købeloven gælder også når der købes brugte ting.
+Købeloven gælder også, når der købes brugte ting.
 
 ![](img/brugt.jpg)
  
@@ -70,7 +70,7 @@ Et køb, der indgås mellem handlende, der handler i eller for deres bedrift, jf
 
 ![](img/land.jpg)
 
-Et køb, hvor både køber og sælger er erhvervsdrivende, og hvor købet indgås i forbindelse med deres virksomhed eller deres erhvervsmæssige aktiviteter.
+Dvs. et køb, hvor både køber og sælger er erhvervsdrivende, og hvor købet indgås i forbindelse med deres virksomhed eller deres erhvervsmæssige aktiviteter.
 
 Det købte skal hovedsageligt anvendes i erhvervsøjemed.
 
@@ -152,7 +152,7 @@ Foreninger, organisationer og sammenslutninger kan efter omstændighederne være
 
 *Organisationer, hvis formål udelukkende er velgørende, almennyttigt, politisk eller religiøst*, anses som udgangspunkt ikke for erhvervsdrivende, hvad angår deres indsamlingsaktiviteter. 
 
-Sådanne organisationer kan imidlertid anses som erhvervsdrivende for så vidt angår organisationernes kommercielle aktiviteter, f.eks. hvis der drives forlagsvirksomhed, arrangeres medlemsrejser, drives butikker mv.
+Sådanne organisationer kan imidlertid anses som erhvervsdrivende, for så vidt angår organisationernes kommercielle aktiviteter, f.eks. hvis der drives forlagsvirksomhed, arrangeres medlemsrejser, drives butikker mv.
 
 *Sportsklubber* vil ofte have karakter af almennyttige foreninger, men efter en konkret vurdering af klubbernes aktiviteter og omsætning kan de undertiden anses for erhvervsdrivende.
 
@@ -206,7 +206,7 @@ Køb af genstande, bestemt efter art, jf. KBL § 3.
 
 Ved et genuskøb, købes en vis mængde af en angiven art eller type genstande.
 
-Sælgeren har valgfrihed med hensyn til, hvilke varer i det pågældende parti, han vil levere til køber for at opfylde aftalen, fx. ved levering af bananer.
+Sælgeren har valgfrihed med hensyn til, hvilke varer i det pågældende parti han vil levere til køber for at opfylde aftalen, fx. ved levering af bananer.
  
 
 ---
@@ -323,11 +323,11 @@ Køber henter selv varen på sælgers forretningssted eller bopæl, jf. KBL § 9
 
 *Handelskøb/specieskøb:* 
 
-Risikoen overgår fra sælger til køber på det aftalte afhentningstidspunkt, dvs. det tidspunkt hvor varen er klar til afhentning, også selvom varen ikke bliver afhentet af køber til tiden.
+Risikoen overgår fra sælger til køber på det aftalte afhentningstidspunkt, dvs. det tidspunkt hvor varen er klar til afhentning, også selv om varen ikke bliver afhentet af køber til tiden.
 
 *Handelskøb/genuskøb:* 
 
-Risikoen overgår fra sælger til køber på det aftalte afhentningstidspunkt, også selvom varen ikke bliver afhentet af køber til tiden.
+Risikoen overgår fra sælger til køber på det aftalte afhentningstidspunkt, også selv om varen ikke bliver afhentet af køber til tiden.
 
 *Betingelse:* 
 
@@ -444,7 +444,7 @@ Sælgeren har bevisbyrden for, at der foreligger ansvarsfritagende omstændighed
 
 Hvis køber vil fastholde købet, har køberen reklamationspligt, jf. KBL § 26.
 
-Dvs. så skal køber uden ugrundet ophold meddele sælger, at køber forlanger naturalopfyldelse - køber fastholder købet og kræver levering, selvom levering er forsinket.
+Dvs. så skal køber uden ugrundet ophold meddele sælger, at køber forlanger naturalopfyldelse - køber fastholder købet og kræver levering, selv om levering er forsinket.
 
 Hvis køber ikke reagerer på sælgers information om forsinkelsen, mister køber sin ret til at kræve levering. 
 
@@ -568,7 +568,7 @@ Sælger har ret til at omlevere eller at afhjælpe manglen, fx ved reparation, j
 
 * Køber kan ikke hæve eller forlange prisnedslag hvis sælger tilbyder afhjælpning eller omlevering, jf. KBL § 78, stk. 3.
 
-* Køber kan forlange erstatning selvom der tilbydes afhjælpning eller omlevering, hvis erstatningsbetingelserne er opfyldt, jf. KBL § 80.
+* Køber kan forlange erstatning selv om der tilbydes afhjælpning eller omlevering, hvis erstatningsbetingelserne er opfyldt, jf. KBL § 80.
 
 --- 
 
@@ -934,7 +934,7 @@ Købers forhold bevirker at sælger ikke kan levere varen til tiden.
 
 Betragtes ikke som misligholdelse i købelovens forstand.
 
-Risikoen for salgsgenstanden overgår til køber selvom købers forhold bevirker at sælger ikke kan levere.
+Risikoen for salgsgenstanden overgår til køber selv om købers forhold bevirker at sælger ikke kan levere.
   
 Sælger har omsorgspligt, og under visse betingelser salgspligt og ret til at sælge købers varer til anden side.
 

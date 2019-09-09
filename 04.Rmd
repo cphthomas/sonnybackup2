@@ -427,7 +427,7 @@ Nogle typer tilbud er ikke bindende for sælger, fx:
 
 Hvis tilbudsmodtager forholder sig passiv, bortfalder tilbuddet, når acceptfristen er udløbet, og sælger kan frit sælge til anden side.
 
-Hvis tilbudsmodtager afslår tilbuddet, er det bortfaldet, selvom acceptfristen ikke er udløbet, jf. aftalelovens § 5. 
+Hvis tilbudsmodtager afslår tilbuddet, er det bortfaldet, selv om acceptfristen ikke er udløbet, jf. aftalelovens § 5. 
 
 Sælger kan frit sælge til anden side.  
 
@@ -923,7 +923,7 @@ Mens aftalelovens § 28 omfatter den voldelige kompulsive tvang, omfatter § 29 
 
 *Kompulsiv*: Fremkaldt ved trusler.
 
-Ved voldelig kompulsiv tvang i § 28 er retshandelen ugyldig, selvom løftemodtageren var i god tro. 
+Ved voldelig kompulsiv tvang i § 28 er retshandelen ugyldig, selv om løftemodtageren var i god tro. 
 
 Bestemmelsen omhandler en såkaldt stærk ugyldighedsgrund, der som udgangspunkt bevares selv over for en erklæringsmodtager i god tro, jf. dog aftalelovens § 28, stk. 2 om manglende reklamation.
 

@@ -20,7 +20,7 @@ cat(readLines('np.html'))
 
 •	*Ansvarets sammenhæng med forsikringsdækning, erstatningsansvarslovens (forkortet; EAL) §§ 19 – 23*
 
-*OBS: Videoerne, domme og Forsikringsankenævnets afgørelser i herværende afsnit er ikke en del af pensum, man tjener udelukkende det formål, at bidrage med en bedre forståelse for emnerne om erstatningsansvaret og den forsikringsmæssige afdækning.*
+*OBS: Videoerne, domme og Forsikringsankenævnets afgørelser i herværende afsnit er ikke en del af pensum, men tjener udelukkende det formål at bidrage med en bedre forståelse for emnerne om erstatningsansvaret og den forsikringsmæssige afdækning.*
 
 ---
 
@@ -49,7 +49,7 @@ Denne regel fastslår, at man er ansvarlig for den økonomiske skade, som man ha
 
 Reglen hedder også culpa- eller skyldreglen ("culpa" betyder "skyld" på latin eller brøde, uagtsomhed, forseelse, synd), som kan føres tilbage romerrettens culparegel. 
 
-Culpa, er den grundlæggende betingelse for at pålægge erstatningsansvar uden for kontraktforhold. 
+Culpa er den grundlæggende betingelse for at pålægge erstatningsansvar uden for kontraktforhold. 
 
 En skadevolder har udvist culpa, optrådt culpøst, overtrådt culpareglen, hvis skadevolder har handlet enten forsætligt, dvs. med vilje og viden om handlingens elementer, eller uagtsomt. 
 
@@ -150,7 +150,7 @@ Ved gæstebudsskader er gæsten normalt ikke erstatningsansvarlig. Værten har d
 
 Som vært må man altså acceptere, at der er en vis risiko, når man har nogen på besøg.
 
-Nogle indboforsikringer – bl.a. Topdanmarks – dækker gæstebudsskader alligevel, selvom der ikke er noget ansvar for gæsten efter domstolspraksis. 
+Nogle indboforsikringer – bl.a. Topdanmarks – dækker gæstebudsskader alligevel, selv om der ikke er noget ansvar for gæsten efter domstolspraksis. 
 
 Det anbefales derfor, at man som vært beder gæsten kontakte sit forsikringsselskab, da de måske dækker skaden. I så fald vil man få erstattet skaden fratrukket forsikringens selvrisiko.
 
@@ -190,13 +190,13 @@ Se her følgende domsafgørelser:
 ---     
 
 
-## Den almindelige fornufttige person
+## Den almindelige fornuftige person
 
 ![](img/fornuf.jpg)
 
 Når en domstol bedømmer, om skadevolder har handlet forkert, sammenligner domstolen skadevolderens handling med, hvordan en almindelig fornuftig person ville have handlet i samme situation.
 
-Begrebet repræsenterer en uagtsomhed en adfærd, der afviger fra de adfærdsnormer, der gælder inden for det pågældende område.
+Begrebet afgrænser en uagtsomhed/en adfærd, der afviger fra de adfærdsnormer, der gælder inden for det pågældende område.
 
 Kommer en domstol til det resultat, at en skadevolder har handlet anderledes, end hvad en alimindelig fornuftig person ville have gjort i samme situation, har skadevolderen handlet forkert og vil blive pålagt et erstatningsansvar.
 
@@ -266,7 +266,7 @@ Se her nævnte domme:
 
 Ved simpelt uagtsomhed (latin; *culpa levis*), har skadevolder handlet mere skødesløst, end hvad en almindelig fornuftig personen ville have handlet i den samme situation – den lille dagligdags uagtsomhed – er skadevolder erstatningsansvarlig. 
 
-Simpel uagtsomhed er en uagtsomhed som ikke kan betegnes som grov. 
+Simpel uagtsomhed er en uagtsomhed, som ikke kan betegnes som grov. 
 
 Culpareglen omfatter som hovedregel begge former for uagtsomhed.
 
@@ -302,7 +302,7 @@ Ankenævnet for Forsikring:
 
 Grov uagtsomhed (latin; "*culpa lata*") er en betydelig form for uagtsomhed. 
 
-Nyere retspraksis lægger vægt på, om skadevolderens adfærd indebar en ”indlysende fare”, for den indtrådte skade. 
+Nyere retspraksis lægger vægt på, om skadevolderens adfærd indebar en ”indlysende fare” for den indtrådte skade. 
 
 Skadevolderens bevidsthed om faren kan indgå i vurderingen af, om uagtsomheden er grov. 
 
@@ -359,7 +359,7 @@ Se her nævnte domme og ankenævnsafgørelser:
 
 ---
 
-*Uagtsomhedsbegrebet* findes også straffeloven:
+*Uagtsomhedsbegrebet* findes også i straffeloven:
 
 **U 2019.2748 V** 3 års fængsel for bl.a. uagtsomt manddrab ved som fører af en personbil i spirituspåvirket tilstand og under særligt hensynsløs kørsel at have forvoldt 3 personers død. Godtgørelser til de efterladte i medfør af erstatningsansvarslovens § 26 a:
 T, født 1994, der var lettisk statsborger, blev fundet skyldig i overtrædelse af straffelovens § 241, 2. pkt., jf. 1. pkt., og § 249, 2. pkt., jf. 1. pkt., samt bestemmelser i færdselsloven ved, som fører af en personbil i spiritupåvirket tilstand og under særligt hensynsløs kørsel, at have påkørt en personbil og forvoldt 3 personers død, ligesom en fjerde person, K, pådrog sig betydelig skade på legeme eller helbred, herunder talrige ribbensbrud og forskudt brud på højre overarmsknogle og underarmsknogler. Byretten lagde til grund, at T havde kørt med en hastighed på mindst 137 km/t, hvor højest tilladte hastighed var 80 km/t, da han stødte sammen med den bil, der blev ført af F, og med tre passagerer, og at T havde overskredet vejens midterafmærkning med bilens venstre for- og baghjul. Vejens forløb og vejrforholdene måtte betegnes som gode, og T havde haft gode muligheder for at se den bil, som han stødte sammen med, længe inden sammenstødet skete. Under disse omstændigheder fandt byretten, at T’s kørsel kunne karakteriseres som hasarderet og var udtryk for, at T havde kørt med en stor grad af uagtsomhed/uansvarlighed. Hans alkoholpromille i blodet havde været på mindst 1,46. Når dette blev sammenholdt med, at han ikke havde erhvervet kørekort, og at han knap 2 år tidligere var straffet i Letland for spirituskørsel med en alkoholpromille i blodet på 1,03, forelå der fuldt tilstrækkeligt grundlag for at karakterisere hans kørsel som særligt hensynsløs (vanvidskørsel). Byretten fastsatte straffen til fængsel i 3 år. Han blev endvidere frakendt førerretten i 10 år og udvist af Danmark med indrejseforbud for bestandig. Anklagemyndigheden ankede dommen med påstand om skærpelse. T påstod formildelse. Ankesagen omfattede ikke spørgsmålet om udvisning. Landsretten fandt straffen passende fastsat til fængsel i 3 år og tiltrådte, at T var frakendt førerretten i 10 år. Landsretten anførte, at T’s uagtsomme manddrab af tre personer under de foreliggende særligt skærpende omstændigheder, hvor T havde gjort sig skyldig i spirituskørsel med karakter af vanvidskørsel, indebar, at de efterlevende var blevet påført en sådan lidelse og krænkelse, at de havde krav på godtgørelse i henhold til erstatningsansvarslovens § 26 a. A, der var henholdsvis ægtefælle og far til to af de afdøde, blev tilkendt en godtgørelse på 150.000 kr. K, der var henholdsvis datter og søster til de samme to afdøde, blev ligeledes tilkendt 150.000 kr. i godtgørelse. Endvidere blev forældrene til en af de afdøde tilkendt 150.000 kr.
@@ -386,11 +386,16 @@ Nævnsafgørelser (kendelser) fra Ankenævnet for Forsikring:
 
 **Ankenævnskendelse i sagsnr.: 63.558**: Groft uagtsomt at efterlade ulåst bil med nøgler i tændingslås i flere timer på privat vej, men forholdsvis tæt på befærdet vej. (Utrykt)
 
+**Quiz**
+
+Tøj og sko får en hård medfart hver dag. Selvom sælgeren ikke kan gøres ansvarlig for, at tøjet eller skoene bliver slidt, kan du stille visse krav til kvaliteten. <a href="https://www.forbrug.dk/quiz/toej-og-sko/" target="_blank"> Tag testen her.</a>
+
+
 ---
 
 ## Forsæt (med vilje)
 
-Forsæt, er en handling der er foretaget med vilje, er ikke i dansk ret en betingelse for at ifalde erstatningsansvar. 
+Forsæt er en handling, der er foretaget med vilje, er ikke i dansk ret en betingelse for at ifalde erstatningsansvar. 
 
 At skadevolderen har udvist uagtsomhed, dvs. tilsidesat den agtpågivenhed, som kræves på det pågældende område, er som hovedregel tilstrækkeligt til at pålægge erstatningsansvar, 
 
@@ -398,9 +403,11 @@ Kaster en person en sten efter en cyklist for at ramme denne, og det lykkes, er 
 
 Skadevolderen er selvfølgelig også her erstatningsansvarlig. 
 
-Hovedreglen er i dansk ret, at kun forsætlige forhold er strafbare, dog en vigtig undtagelse uagtsom drab. 
+Hovedreglen er i dansk ret, at kun forsætlige forhold er strafbare, dog er der en vigtig undtagelse ved uagtsomt drab:
 
-Ved forsætlige handlinger afviser skadevolders ansvarsforsikring at udbetale erstatning, se her nævnte sager om vurderingen om skadevolder har handlet med forsæt – med vilje:
+Straffelovens § 241: "Den, som uagtsomt forvolder en andens død, straffes med bøde eller fængsel indtil 4 måneder eller under særligt skærpende omstændigheder med fængsel indtil 8 år. Er forholdet begået i forbindelse med spirituskørsel, overtrædelse af færdselslovens § 54, stk. 1 eller 2, eller særligt hensynsløs kørsel, anses dette som en særligt skærpende omstændighed".
+
+Ved forsætlige handlinger afviser skadevolders ansvarsforsikring at udbetale erstatning, se her nævnte sager om vurderingen af, om skadevolder har handlet med forsæt – med vilje.
 
 
 ---
@@ -417,7 +424,7 @@ Ved simpel og grov uagtsomhed er det hovedreglen, at en ansvarsforsikring dække
 
 ---
 
-Forsætlige skader dækker forsikringen ikke, med mindre skadevolder er under 14 år.
+Forsætlige skader dækker forsikringen ikke, medmindre skadevolder er under 14 år.
 
 ---
 
@@ -491,13 +498,13 @@ Smadrer en dreng eksempelvis naboens glasrude, der er forsikret, ved en simpel u
 
 Lov om erstatningsansvar fastslår også, at hvis staten, en kommune eller en anden offentlig institution er selvforsikrende, skal de erstatningsmæssigt betragtes på samme måde, som hvis de havde tegnet forsikring. 
 
-Det betyder, at der ikke er forskel på, om drengen ved en simpel uagtsomhed, smadrer naboens glasforsikrede rude eller en rude i kommunens skole, hvor kommunen er selvforsikret. 
+Det betyder, at der ikke er forskel på, om drengen ved en simpel uagtsomhed smadrer naboens glasforsikrede rude eller en rude i kommunens skole, hvor kommunen er selvforsikret. 
 
 I ingen af tilfældene er drengen erstatningsansvarlig. For kommunens vedkommende betyder det, at den selv må betale ruden.
 
 ---
 
-*Objektive ansvarsfrihedsgrunde* er forhold, som efter culpareglen gør, at en skadevolder alligevel ikke er pligtig til at betale erstatning for et tab eller en skade, selvom der foreligger culpa, kausalitet, og adækvans.
+*Objektive ansvarsfrihedsgrunde* er forhold, som efter culpareglen gør, at en skadevolder alligevel ikke er pligtig til at betale erstatning for et tab eller en skade, selv om der foreligger culpa, kausalitet, og adækvans.
 
 De objektive ansvarsfrihedsgrunde består af:
 
@@ -519,7 +526,7 @@ Hvis en handling, som udføres på en ansvarlig måde, er nødvendig for at afv�
 
 *Accept af risiko*.
 
-Fælles for de objektive ansvarsfrihedsgrunde er, at de fritager for erstatningsansvar. Selvom den adfærd, der har ført til skaden, almindeligvis ville være retsstridig, så anses adfærden alligevel ikke for retsstridig, fordi adfærden i det konkrete tilfælde anses for at have en nytteevne, som er vigtigere end skadeevnen.
+Fælles for de objektive ansvarsfrihedsgrunde er, at de fritager for erstatningsansvar. Selv om den adfærd, der har ført til skaden, almindeligvis ville være retsstridig, så anses adfærden alligevel ikke for retsstridig, fordi adfærden i det konkrete tilfælde anses for at have en nytteevne, som er vigtigere end skadeevnen.
 
 ---
 
@@ -580,15 +587,15 @@ Derimod ser man på, hvordan et barn på samme alder normalt ville handle i en t
 
 Situationer:
 
-* En pige åbner en dør og rammer én på den anden side, der får ødelagt sit ur. Pigen kan ikke gøre for, at hun rammer uret. Det kaldes hændeligt uheld, og den, der har lidt skaden (den skadelidte), har ikke krav på erstatning.
+En pige åbner en dør og rammer én på den anden side, der får ødelagt sit ur. Pigen kan ikke gøre for, at hun rammer uret. Det kaldes hændeligt uheld, og den, der har lidt skaden (den skadelidte), har ikke krav på erstatning.
 
-* To piger pjatter på fortovet. De ser sig ikke for, og den ene går ud foran en cyklist, som vælter og brækker armen. Pigen handlede uforsigtigt. Det kaldes simpel uagtsomhed. Derfor skal hun betale erstatning.
+To piger pjatter på fortovet. De ser sig ikke for, og den ene går ud foran en cyklist, som vælter og brækker armen. Pigen handlede uforsigtigt. Det kaldes simpel uagtsomhed. Derfor skal hun betale erstatning.
 
-* En dreng snupper en telefon fra en kammerat og kaster den op i luften. Han taber afspilleren, og den går i stykker. Drengen ved, at han risikerer at tabe telefonen. Alligevel kaster han rundt med den. Det kaldes grov uagtsomhed. Derfor skal han erstatte telefonen.
+En dreng snupper en telefon fra en kammerat og kaster den op i luften. Han taber telefonen, og den går i stykker. Drengen ved, at han risikerer at tabe telefonen. Alligevel kaster han rundt med den. Det kaldes grov uagtsomhed. Derfor skal han erstatte telefonen.
 
 ![](img/borns1.jpg)
 
-* En dreng kaster en sten gennem en rude på skolen, fordi han er sur over, at en lærer har skældt ham ud. Drengen ødelægger ruden med vilje. Det kaldes forsæt, og han skal betale erstatning.
+En dreng kaster en sten gennem en rude på skolen, fordi han er sur over, at en lærer har skældt ham ud. Drengen ødelægger ruden med vilje. Det kaldes forsæt, og han skal betale erstatning.
 
 Den skadelidte kan rejse erstatningskrav, hvis skaden medfører et økonomisk tab, og der kan herudover i visse særlige tilfælde rejses krav om godtgørelse for ikke-økonomisk skade. 
 
@@ -933,7 +940,7 @@ Erstatningen bliver fordoblet, hvis afdøde var eneforsørger.
 
 *Eksamensspørgsmål indenfor erstatningsretten mv.*
 
-*Eksamensopgave og løsning - Om ejendomsmæglerens erstatningsansvar uden for kontrak**
+*Eksamensopgave og løsning - Om ejendomsmæglerens erstatningsansvar uden for kontrakt*
 
 *Ejendomsmæglerens støvler*
 
@@ -942,7 +949,7 @@ Erstatningen bliver fordoblet, hvis afdøde var eneforsørger.
 
 En fredag eftermiddag var Martin taget ud til en fremvisning af et hus beliggende i nabobyen Indby. Huset tilhørte Pernille. Martin havde i dagens anledning taget sine nye og meget dyre Armani® støvler på. 
 
-Desværre havde han fået købt dem i en lidt for lille størrelse, men havde valgt at tage dem på alligevel selvom Egild ikke havde ment at det var en god idé, da han syntes at de ikke rigtig udstrålede det image som ”Udby Mæglerne ApS” gerne ville stå for.
+Desværre havde han fået købt dem i en lidt for lille størrelse, men havde valgt at tage dem på alligevel selv om Egild ikke havde ment at det var en god idé, da han syntes at de ikke rigtig udstrålede det image som ”Udby Mæglerne ApS” gerne ville stå for.
 
 Da Martin kommer ind i huset vil han tage støvlerne af, men finder ud af at de sidder rigtig godt fast. Han kæmper noget med støvlerne, men til sidst får han dem revet af. 
 
@@ -1110,7 +1117,7 @@ En uge efter kampen kommer trøjerne og kasketterne men nu vil Hans ikke længer
 
 ## Introduktion til forsikringsretten
 
-For en mere væsentlig uddybning af forsikringsretten for de studerende som der vil vælge forsikringsvejen, se nærmere e-bogens kapitel 25, samt bogen hos Hans Reitszels Forlag: Introduktion til forsikringsreglerne:
+For en mere væsentlig uddybning af forsikringsretten for de studerende, som der vil vælge forsikringsvejen, se nærmere e-bogens kapitel 25, samt bogen hos Hans Reitszels Forlag: Introduktion til forsikringsreglerne:
 
 ![](img/forbog.png)
 
@@ -1161,7 +1168,11 @@ Forsikrede vil i almindelighed kunne indskrænke sig til redeligt at besvare de 
  
 En forsikringsaftale er normalt en standardkontrakt og vil blive fortolket imod forsikringsselskabet, hvis indholdet er uklart, jf. nærmere koncipistreglen i aftalelovens § 38 b.  
 
-Om indgåelse af en forsikringsaftale gælder aftalelovens almindelige regler.
+For indgåelse af en forsikringsaftale gælder aftalelovens almindelige regler.
+
+Det er relevant at nævne, at der er pligt til at brandforsikre en ejendom, såfremt man ønsker den finansieret.
+
+
 
 ---
 
@@ -1271,7 +1282,7 @@ Forsikringsselskabet må ikke i forbindelse med eller efter indgåelse af forsik
 
 Det gælder dog ikke oplysninger om den pågældendes nuværende eller tidligere helbredstilstand. 
 
-Dette indebærer bl.a., at forsikringsselskaber og pensionskasser ikke må betinge indgåelsen af en aftale af, at der fremlægges såkaldte *prædiktive genetiske test*, og heller ikke senere må anmode om at få foretaget sådanne undersøgelser med henblik på eventuel ændring af aftalevilkårene eller opsigelse af aftalen. 
+Dette indebærer bl.a., at forsikringsselskaber og pensionskasser ikke må betinge indgåelsen af en aftale af, at der fremlægges såkaldte *prædiktive genetiske tests*, og heller ikke senere må anmode om at få foretaget sådanne undersøgelser med henblik på eventuel ændring af aftalevilkårene eller opsigelse af aftalen. 
 
 Ved prædiktive genetiske test forstås undersøgelser af en persons arvemasse, som belyser en sygdomsrisiko og gør det muligt at drage slutninger med hensyn til den pågældendes fremtidige helbredstilstand, som ikke direkte og på kortere sigt afspejler en udvikling i en allerede opstået sygdom. 
 
