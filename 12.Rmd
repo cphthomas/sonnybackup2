@@ -32,13 +32,19 @@ cat(readLines('np.html'))
 
 ## Hæftelse - begreber som gennemgås:
 
-* Juridisk person
-* Fysisk person
-* Personlig/ubegrænset hæftelse
-* Begrænset hæftelse
-* Solidarisk hæftelse
-* Pro-rata hæftelse
-* Direkte og indirekte hæftelse
+* Juridisk person.
+
+* Fysisk person.
+
+* Personlig/ubegrænset hæftelse.
+
+* Begrænset hæftelse.
+
+* Solidarisk hæftelse.
+
+* Pro-rata hæftelse.
+
+* Direkte og indirekte hæftelse.
  
 
 ### Forskellen på en juridisk person og fysisk person
@@ -46,7 +52,7 @@ cat(readLines('np.html'))
 
 En juridisk person er en organisation, som har selvstændig retsevne, som f.eks. et selskab, en fond eller en forening. 
 
-Fysiske personer af kød og blod anses ikke for juridiske personer
+Fysiske personer af kød og blod anses ikke for juridiske personer.
 
 En juridisk person er en retlig enhed, der opstår af en sammenslutning af personer, fx et selskab, en andelsboligforening, fonde, kommunen, staten, en organisation, et konkursbo eller dødsbo.
 
@@ -151,9 +157,9 @@ Enkeltmandsvirksomheden tegnes af ejeren, men der kan udstedes prokura og fuldma
 
 Eneejeren bærer tabet eller gevinsten alene.
 
-Virksomhedens navn er navneretligt beskyttet, jf. LEV § 6, stk. 2
+Virksomhedens navn er navneretligt beskyttet, jf. LEV § 6, stk. 2.
 
-Hæftelse: Personligt, ubegrænset og direkte, med alt hvad han eller hun ejer
+Hæftelse: Personligt, ubegrænset og direkte, med alt hvad han eller hun ejer.
 
 Lovgivning: Lov om visse erhvervsdrivende virksomheder (Lovbekendtgørelse nr. 1295 af 15. november 2013 om visse erhvervsdrivende virksomheder; LEV).
 
@@ -227,29 +233,27 @@ Beslutninger: Skal ske i enighed, medmindre andet aftales.
 
 *Udarbejdelse af interessentskabskontrakten skal indeholde følgende punkter:*
 
-* Selskabets navn (i overensstemmelse med LEV § 6)
+* Selskabets navn (i overensstemmelse med LEV § 6).
 
-* Selskabets adresse, formål, hjemsted
+* Selskabets adresse, formål, hjemsted.
 
-* Ejerforhold og arbejdsindsats
+* Ejerforhold og arbejdsindsats.
 
-* Loyalitetspligt, tavshedspligt, konkurrenceklausul,
-
-  erhvervshemmeligheder osv.
+* Loyalitetspligt, tavshedspligt, konkurrenceklausul, erhvervshemmeligheder osv.
   
-* Ledelsesstruktur og beslutninger
+* Ledelsesstruktur og beslutninger.
 
-* Overskuds- og underskudsdeling
+* Overskuds- og underskudsdeling.
 
-* Kapitalkonti/økonomiske mellemværende med selskabet
+* Kapitalkonti/økonomiske mellemværende med selskabet.
 
 * Hæftelse – eksternt solidarisk, men hvad med internt? – pro-rata, regres, hæftelse ved indtræden/udtræden osv.
   
-* Overdragelse af ejerandel, salg af andel (internt eller til 3M), overtagelse af andel fra dødsbo
+* Overdragelse af ejerandel, salg af andel (internt eller til 3M), overtagelse af andel fra dødsbo.
   
-* Opsigelse af partnerskab, samarbejdsumulighed
+* Opsigelse af partnerskab, samarbejdsumulighed.
 
-* Tvister og værneting
+* Tvister og værneting.
  
 
 ---
@@ -292,17 +296,17 @@ Om *advokatselskaber og advokatholdingselskaber* henvises til Bekendtgørelse nr
 
 *Hvordan stiftes et kapitalselskab?*
 
-* Erhvervsstyrelsen.
+I Erhvervsstyrelsen.
 
-* Stiftelsesdokument, vedtægter, tegning af selskabskapital.
+Med et stiftelsesdokument, vedtægter, tegning af selskabskapital.
 
 ---
 
 Kontant indskud – kapitalkrav, jf. selskabslovens § 4:
 
-* ApS: 40.000 kr.
+ApS: 40.000 kr.
 
-* A/S: 400.000 kr.
+A/S: 400.000 kr.
 
 ---
 
@@ -331,15 +335,17 @@ Bryder anpartsselskabets økonomi sammen, efter at selskabet gennem længere tid
 
 Apportindskud – indskud af andre værdier end kontanter:
 
-* Revisorvurdering af aktiver der indskydes
-* Værdien af det indskudte skal minimum svare til kapitalkravet
+Revisorvurdering af aktiver der indskydes.
+
+Værdien af det indskudte skal minimum svare til kapitalkravet.
 
 ---
 
 Til gengæld for kapitalindskud modtager selskabsdeltagerne:
 
-* ApS: Anparter - anpartshaver
-* A/S: Aktier – aktionær
+ApS: Anparter - anpartshaver.
+
+A/S: Aktier – aktionær.
  
 ---
 
@@ -585,13 +591,13 @@ Der skal ved bedømmelsen af besvarelsen lægges vægt på den studerendes anven
 
 ### Koncern
 
-* Et moderselskab er karakteriseret ved at selskabet ejer en stor del af aktierne eller anparterne i et andet selskab, som kaldes et datterselskab, jf. selskabslovens § 6.
+Et moderselskab er karakteriseret ved at selskabet ejer en stor del af aktierne eller anparterne i et andet selskab, som kaldes et datterselskab, jf. selskabslovens § 6.
 
-* Hvert selskab inden for koncernen er en  juridisk person, som har sit ”eget liv”.
+Hvert selskab inden for koncernen er en  juridisk person, som har sit ”eget liv”.
   
-* I koncerner hæfter de enkelte koncernselskaber ikke for hinandens    forpligtelser. Dette gælder også med hensyn til modregning.
+I koncerner hæfter de enkelte koncernselskaber ikke for hinandens forpligtelser. Dette gælder også med hensyn til modregning.
 
-* Koncernforbundne selskaber kan indgå aftaler og handle med hinanden på sædvanlige vilkår.
+Koncernforbundne selskaber kan indgå aftaler og handle med hinanden på sædvanlige vilkår.
 
 ![](img/google.png)
   
@@ -660,6 +666,8 @@ Ejerne af selskabet kan være privatpersoner, eller det kan være selskaber.
 
 Ejerandelen af selskabet bestemmes af, hvor stor en del af anpartsselskabets kapital personen eller selskabet har indskudt.
 
+---
+
 *Krav ved stiftelse af anpartsselskab: Ved stiftelsen af et ApS er der visse krav, som skal overholdes:*
 
 Det kræves, at der oprettes et stiftelsesdokument, en anpartshaverfortegnelse og en protokol. 
@@ -678,6 +686,8 @@ Anpartsselskabet beskattes for sig, mens man som ansat ejer i selskabet bliver b
 
 Et anpartsselskab skal udarbejde og offentliggøre regnskabet, der som hovedregel skal revideres af en revisor.
 
+---
+
 *Pligt i forbindelse med bogføringsloven:* 
 
 Et anpartsselskab er underlagt en pligt om at følge bogføringsloven, dvs. bogholderiet skal udarbejdes efter gældende lov. 
@@ -691,6 +701,8 @@ Hvis dette ikke overholdes, kan det føre til krav om supplerende oplysninger el
 *Ejerne og hæftelse:*
 
 Ejerne i et K/S kan både være virksomheder (juridiske personer) og enkeltpersoner (fysiske personer).
+
+---
 
 *Hæftelse:*
 
@@ -719,11 +731,11 @@ Kommanditist: Hæfter begrænset for virksomhedens forpligtelser og kommanditist
 
 ### Partnerselskab P/S
 
-Kaldes også kommanditaktieselskab
+Kaldes også kommanditaktieselskab.
 
 2 typer selskabsdeltagere: 
 
-Mindst én komplementar og mindst én kommanditist
+Mindst én komplementar og mindst én kommanditist.
 
 Kommanditisterne har indskudt kapital, som er fordelt på aktier.
 

@@ -234,14 +234,13 @@ Sælger har ikke valgfrihed med hensyn til, hvilken vare han vil levere til køb
 
 *Bestillingskøb/fremstillingskøb*:
 
-Et bestillingskøb kan også kaldes et fremstillingskøb, da købet vedrører bestilling af genstande, som først skal fremstilles, jf. KBL § 2, stk. 1. som indeholder et element af værksleje, nemlig aftaler, hvor den ene part har påtaget sig mod vederlag at fremstille en ny genstand (i modsætning til aftaler om f.eks. reparation af en allerede eksisterende genstand). 
+Et bestillingskøb kan også kaldes et fremstillingskøb, da købet vedrører bestilling af genstande, som først skal fremstilles, jf. KBL § 2, stk. 1, som indeholder et element af værksleje, nemlig aftaler, hvor den ene part har påtaget sig mod vederlag at fremstille en ny genstand (i modsætning til aftaler om f.eks. reparation af en allerede eksisterende genstand). 
 
-Skabelsen af en ny vare fx ved en ændring af en eksisterende bryllupskjole til en ny dåbskjole, er således omfattet af købelovens regler. 
+Skabelsen af en ny vare, fx ved en ændring af en eksisterende bryllupskjole til en ny dåbskjole, er således omfattet af købelovens regler. 
 
-Men ikke blot en reparation af en allerede eksisterende genstand, fx det at få lagt et bukseben op, eller at få udført en serviceydelse. 
+Det tilsvarende gælder ikke, hvis det blot er en reparation af en allerede eksisterende genstand, fx det at få lagt et bukseben op, eller at få udført en serviceydelse. 
 
-
-Reparationer og tjenesteydelser er omfattet af forældelseslovens regler, jf. den 3 årige-forældelse i forældelseslovens § 3, stk. 1.  
+Reparationer og tjenesteydelser er omfattet af forældelseslovens regler, jf. den 3 årige-forældelse i forældelseslovens § 3, stk. 1 og ikke underlagt reklamationsreglerne i købeloven.  
 
 <img src="img/fix.png" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 
@@ -292,7 +291,7 @@ Indtil levering er sket, bærer sælgeren risikoen for salgsgenstandens hændeli
 
 Når levering har fundet sted overgår risikoen fra sælger til køber.
 
-NB! "Levering" kan ske inden salgsgenstanden er kommet i købers besiddelse.
+NB! "Levering" kan ske, inden salgsgenstanden er kommet i købers besiddelse.
 
 ---
 
@@ -323,7 +322,7 @@ Køber henter selv varen på sælgers forretningssted eller bopæl, jf. KBL § 9
 
 *Handelskøb/specieskøb:* 
 
-Risikoen overgår fra sælger til køber på det aftalte afhentningstidspunkt, dvs. det tidspunkt hvor varen er klar til afhentning, også selv om varen ikke bliver afhentet af køber til tiden.
+Risikoen overgår fra sælger til køber på det aftalte afhentningstidspunkt, dvs. det tidspunkt, hvor varen er klar til afhentning, også selv om varen ikke bliver afhentet af køber til tiden.
 
 *Handelskøb/genuskøb:* 
 
@@ -342,9 +341,9 @@ Varerne skal være individualiseret/udskilte fra andre varer, som står hos sæl
 
 Levering inden for sælgers geografiske udbringningsområde. 
 
-Ofte sælger egne folk der bringer varen ud.
+Ofte har sælger egne folk der bringer varen ud.
 
-Levering sker og risikoen overgår fra sælger til køber, når køber har varen i sin besiddelse, jf. KBL § 11.
+Levering sker, og risikoen overgår fra sælger til køber, når køber har varen i sin besiddelse, jf. KBL § 11.
 
 Det fremgår af bestemmelsen, at levering er sket, når genstanden er kommet i køberens »besiddelse«.
 
@@ -352,7 +351,7 @@ Afsendelseskøb/forsendelseskøb, jf. KBL § 10.
 
 Levering sker og risikoen overgår fra sælger til køber, når varen overgives til første fremmede fragtfører. 
 
-Ved søtransport sker levering når varen er bragt inden for skibssiden.
+Ved søtransport sker levering, når varen er bragt inden for skibssiden.
 
  
 ---
@@ -360,7 +359,7 @@ Ved søtransport sker levering når varen er bragt inden for skibssiden.
 
 *Afsendelseskøb med klausuler*
 
-Her købelovens leveringsklausuler:
+Her findes købelovens leveringsklausuler:
 
 * FOB (Free on board), jf. KBL § 62.
 
@@ -396,7 +395,7 @@ Hvis der er aftalt levering:
 
 Er der anvendt udtryk som f.eks. »straks«, »omgående«, »prompte« eller »snarest muligt«, beror det bl.a. på brancheforhold mv., hvad der ligger heri,
 
-Hvis der er aftalt levering 1. oktober og levering sker senere, er der tale om misligholdelse i form af forsinkelse.
+Hvis der er aftalt levering 1. oktober, og levering sker senere, er der tale om misligholdelse i form af forsinkelse.
  
 ---
 
@@ -466,7 +465,7 @@ Dette indebærer bl.a., at en reklamation kan tillægges retsvirkning, hvis modt
 
 Såfremt en part over for den misligholdende part tilkendegiver, hvilke(n) misligholdelsesbeføjelse(r) han eller hun vil påberåbe sig, kan parten som udgangspunkt ikke omgøre sit valg.
 
-Hvis sælger skal levere over flere gange (successiv levering) dvs., at sælgeren skal erlægge sin ydelse i rater el.lign.
+Hvis sælger skal levere over flere gange (successiv levering), dvs. at sælgeren skal erlægge sin ydelse i rater el.lign., gælder følgende:
 
 ---
 
@@ -506,6 +505,9 @@ Købeloven indeholder ikke uden for forbrugerkøb en definition af, hvad der for
 Det antages imidlertid, at den definition af mangler i forbrugerkøb, som fremgår af KBL § 76, også kan være vejledende for mangelsbedømmelsen i ikke-forbrugerkøb.
 
 Køberen har bevisbyrden for, at salgsgenstanden er mangelfuld, jf. dog i forbrugerkøb KBL § 77a, stk. 3 formodningsreglen, hvor denne bevisbyrde er sælgerens de første 6 måneder efter købet.
+
+Den 15. april 2019 vedtog Rådet det nye direktiv, som skal beskytte de europæiske forbrugere bedre. Når reglerne træder i kraft, vil det være sælger, der i de første 12 måneder skal bevise, at en fejl ved varen ikke er oprindelig og noget, sælger er ansvarlig for. 
+
 
 ---
 
@@ -566,9 +568,9 @@ Sælger har ret til at omlevere eller at afhjælpe manglen, fx ved reparation, j
 
 * Det kan ske uden omkostninger for køber.
 
-* Køber kan ikke hæve eller forlange prisnedslag hvis sælger tilbyder afhjælpning eller omlevering, jf. KBL § 78, stk. 3.
+* Køber kan ikke hæve eller forlange prisnedslag, hvis sælger tilbyder afhjælpning eller omlevering, jf. KBL § 78, stk. 3.
 
-* Køber kan forlange erstatning selv om der tilbydes afhjælpning eller omlevering, hvis erstatningsbetingelserne er opfyldt, jf. KBL § 80.
+* Køber kan forlange erstatning, selv om der tilbydes afhjælpning eller omlevering, hvis erstatningsbetingelserne er opfyldt, jf. KBL § 80.
 
 --- 
 
@@ -578,8 +580,9 @@ Situation: Én leverance ud af en række er mangelfuld
 
 HR: Delvis ophævelse.
 
-* Hver enkelt leverance behandles for sig.
-* Køber kan hæve købet vedrørende den ene mangelfulde leverance. Køber kan ikke hæve de kommende leverancer, jf. KBL §§ 42,43 og 46.
+Hver enkelt leverance behandles for sig.
+
+Køber kan hæve købet vedrørende den ene mangelfulde leverance. Køber kan ikke hæve de kommende leverancer, jf. KBL §§ 42,43 og 46.
 
 U1: Hæve kommende aftalte leverancer, hvis de senere leverancer også ventes at blive mangelfulde, jf. KBL § 46, stk. 2
 
@@ -589,7 +592,7 @@ U2: Købet kan hæves i sin helhed, hvis det er begrundet i sammenhængen mellem
 
 *Købers undersøgelsespligt, jf. KBL § 51:*
 
-Når salgsgenstanden er leveret har køber pligt til at undersøge varen, i overensstemmelse med ordentlig forretningsbrug, ellers mister køberen sine misligholdelsesbeføjelser.
+Når salgsgenstanden er leveret, har køber pligt til at undersøge varen, i overensstemmelse med ordentlig forretningsbrug, ellers mister køberen sine misligholdelsesbeføjelser.
 
 Se det latinske begreb: *Caveat Emptor-reglen*: Køberen skal se sig for.
 
@@ -602,7 +605,7 @@ Se det latinske begreb: *Caveat Emptor-reglen*: Køberen skal se sig for.
 
 ---
 
-Købers reklamation følger af KBL § 52-54:
+Købers reklamationspligt følger af KBL §§ 52-54:
 
 Ved mangler skal køber reklamere straks, ellers mister han sine misligholdelsesbeføjelser.
 
@@ -612,7 +615,7 @@ Hvis køber vil hæve købet eller kræve efterlevering eller omlevering, skal h
 
 #### Vanhjemmel – retslig mangel
 
-Når køber ikke opnår den forventede ejendomsret ved købet. Fx. hvis sælger ikke har ret til at sælge salgsgenstanden, fordi: 
+Er, når køber ikke opnår den forventede ejendomsret ved købet. Fx. hvis sælger ikke har ret til at sælge salgsgenstanden, fordi: 
 
 * genstanden tilhører tredjemand,
 
@@ -937,6 +940,14 @@ Betragtes ikke som misligholdelse i købelovens forstand.
 Risikoen for salgsgenstanden overgår til køber selv om købers forhold bevirker at sælger ikke kan levere.
   
 Sælger har omsorgspligt, og under visse betingelser salgspligt og ret til at sælge købers varer til anden side.
+
+---
+
+Nye rettigheder for dig, når du køber digitale tjenester i hele EU. Det kan fx være streamingtjenester, musik eller film, software eller apps.
+
+Den 15. april 2019 vedtog Rådet det nye direktiv, som skal beskytte de europæiske forbrugere bedre, når de køber digitale tjenester. I dag er reglerne for digitale tjenester forskellige fra land til land indenfor EU. Med direktivet sikres mere ens rettigheder for forbrugerne uanset hvor i EU, sælgeren er etableret. 
+
+Med de nye regler kan du i hele EU have ret til reparation, afslag i prisen eller pengene tilbage, hvis dit digitale produkt er mangelfuldt eller i stykker. Fx hvis du ikke kan få adgang til en lejet film. I praksis betyder det oftest, ligesom med fysiske varer, at sælgeren først skal have mulighed for at rette fejlen. Hvis det ikke lykkes, kan du kræve et nedslag i prisen eller pengene tilbage. 
 
 ---
 

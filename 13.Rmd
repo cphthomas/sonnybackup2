@@ -20,16 +20,21 @@ cat(readLines('np.html'))
 
 •	*Individualforfølgning:*
 
+---
+
 Med individualforfølgning menes:
 
-Når én kreditor forsøger at fremkalde betaling af sit tilgodehavende hos en skyldner f.eks. ved tvangsfuldbyrdelse via Fogedretten. Modsat universalforfølgning som f.eks. konkurs.
+Når én kreditor forsøger at fremkalde betaling af sit tilgodehavende hos en skyldner f.eks. ved tvangsfuldbyrdelse via Fogedretten. 
+
+Modsat universalforfølgning som f.eks. konkurs.
+
+---
 
 De juridiske udfordringer for en individualforfølgning er:
 
 Udlægsgrundlag (eksekutionsgrundlag) – herunder betalingspåkrav, retsplejelovens kapitel 44a og § 478.
   
-Udlæggets genstand (trangsbeneficiet m.m.), retsplejelovens § 
-507-515.
+Udlæggets genstand (trangsbeneficiet m.m.), retsplejelovens § 507-515.
 
 ---
   
@@ -39,15 +44,15 @@ Når kreditorerne går sammen for at inddrive deres krav (insolvensbehandling). 
 
 Eksempler på universalforfølgning er konkurs, tvangsakkord og gældssanering. Ligelighedsprincippet er centralt. 
 
-Der er desuden mulighed for omstødelse iht. konkursloven. 
+Der er desuden mulighed for omstødelse iht. konkursloven (KL). 
 
-Modsat: individualforfølgning.
+Modsat: *individualforfølgning*.
 
 ---
 
-De juridiske udfordringer ved universalforfølgning:
+*De juridiske udfordringer ved universalforfølgning:*
 
-Hæftelse: Hæftelsestyper i enkeltmandsvirksomhed samt forskellige selskabsformer. 
+*Hæftelse:* Hæftelsestyper i enkeltmandsvirksomhed samt forskellige selskabsformer. 
 
 Emnet har relevans for opgørelse af aktivsiden i et konkursbo samt kreditors evt. tab af restfordringen.  
   
@@ -75,37 +80,36 @@ omstødelse, KL kapitel 8
 
 *Individualforfølgning:*
 
-+	Hver kreditor for sig, den kreditor, der kommer først, bliver først betalt af skyldner
+Hver kreditor for sig, den kreditor, der kommer først, bliver først betalt af skyldner
   
-+	Reguleret i Retsplejeloven (RPL; Lovbekendtgørelse nr. 1284 af 14. november 2018) og omfatter bl.a. udlæg, tvangsauktion og tvangsbeneficeret (retten til et beskedent hjem).
+Reguleret i Retsplejeloven (RPL; Lovbekendtgørelse nr. 1284 af 14. november 2018) og omfatter bl.a. udlæg, tvangsauktion og tvangsbeneficeret (retten til et beskedent hjem).
 
 ---
   
 *Universalforfølgning:*
 
-+	Reguleret i konkursloven (KKL; Lovbekendtgørelse nr. 11 af 6. januar 2014), og omfatter konkurs, rekonstruktion og gældssanering
+Reguleret i konkursloven (KL; Lovbekendtgørelse nr. 11 af 6. januar 2014), og omfatter konkurs, rekonstruktion og gældssanering.
   
-+	Formålet er at stille kreditorerne lige i konkursboet
+Formålet er at stille kreditorerne lige i konkursboet.
   
-+	Kun hvis skyldner er insolvent, jf. KKL § 17:
+Kun hvis skyldneren er insolvent, jf. KL § 17:
   
 ”Er en skyldner insolvent, skal hans bo tages under konkursbehandling, når det begæres af skyldneren eller en fordringshaver. 
 
 Stk. 2 En skyldner er insolvent, hvis han ikke kan opfylde sine forpligtelser, efterhånden som de forfalder, medmindre betalingsudygtigheden må antages blot at være forbigående”.
  
 
-
 Ordet *”insolvent”*
 
 ![](img/insolvent2.jpg)
 
-* Defineret i KKL § 17
+Defineret i KL § 17.
 
-* Skyldner kan ikke betale sin gæld, efterhånden som den forfalder til betaling
+Skyldner kan ikke betale sin gæld, efterhånden som den forfalder til betaling.
 
-* Skifteretten vurderer, om insolvensen er til stede
+Skifteretten vurderer, om insolvensen er til stede.
 
-* Hvis skyldner selv erklærer sig insolvent, forventes det at være rigtigt
+Hvis skyldner selv erklærer sig insolvent, forventes det at være rigtigt.
 
 ---
 
@@ -115,24 +119,19 @@ Ordet *”insolvent”*
   
 ---
 
-*Konkurslovens § 17:*
-
-"Er en skyldner  insolvent, skal hans bo tages under konkursbehandling, når det begæres af skyldneren eller en fordringshaver.
-Stk. 2. En skyldner er insolvent, hvis han ikke kan opfylde sine forpligtelser, efterhånden som de forfalder, medmindre betalingsudygtigheden må antages blot at være forbigående". 
-
----
-
-Der må ved afgørelsen om skyldnerens insolvens og dermed en konkursbehandling tages der hensyn til en række momenter i praksis:
+Der må ved afgørelsen om skyldnerens insolvens, og dermed en konkursbehandling tages der hensyn til en række momenter i praksis:
 
 En rigtigt opgjort status er et vægtigt indicium om skyldnerens betalingsevne, jf. dommen **U 2001 2592 Ø** (skyldner, der siden 2000-02-10 ved (delvis) betaling havde afværget 15 konkursbegæringer, var insolvent, da han ikke kunne betale 50.798 kr. ifølge en udeblivelsesdom, og da han havde yderligere gældsposter). 
 
-Det må kræves, at der består en fordring mod skyldneren, men ikke at den er forfalden. Fordringen må endvidere tilkomme den, der indleverer konkursbegæringen til skifteretten.
+Det må kræves, at der består en fordring mod skyldneren, men ikke, at den er forfalden. 
 
-At fordringen er genstand for en ikke afsluttet retssag, udelukker ikke i sig selv, at den kan tjene som grundlag for konkurs, se f.eks. dommen **U 1973 673 H**.
+Fordringen må endvidere tilkomme den, der indleverer konkursbegæringen til skifteretten.
+
+At fordringen er genstand for en ikke afsluttet retssag, udelukker ikke i sig selv, at den kan tjene som grundlag for konkurs, se f.eks. dommen i **U 1973 673 H**.
 
 ---
 
-Kreditor skal have en retlig interesse i konkursbehandlingen. 
+Kreditor skal have en *retlig interesse* i konkursbehandlingen. 
 
 Denne vil normalt bestå i, at der er udsigt til dividende. 
 
@@ -140,7 +139,7 @@ Det forhold, at kreditor aktuelt ikke kan forvente dividende i boet, udelukker i
 
 Den retlige interesse kan bestå i, at konkursbehandlingen kan tænkes at tilvejebringe yderligere aktiver.
 
-Enhver fysisk person kan uanset (u)myndighed være »skyldner« i den anførte betydning i KL (konkursloven) § 17.
+Enhver fysisk person kan uanset (u)myndighed være »skyldner« i den anførte betydning i KL § 17.
 
 En juridisk person kan som »skyldner« erklæres konkurs, hvis enten ingen deltager i sammenslutningen hæfter personligt for sammenslutningens gæld, eller hvis samtlige personligt hæftende er under konkurs.
 
@@ -167,7 +166,19 @@ Insolvens antages i almindelighed at foreligge efter KKL § 18, hvis:
  
 ---
 
+![](img/inkasso3.jpg)
+
 ## Inkasso
+
+Efter en rykkerprocedure med 3 rykkergebyrer, jf. rentelovens § 9 b, skal sagen overdrages til retlig inkasso:
+
+"§ 9 b
+For rykkerskrivelser vedrørende fordringer kan fordringshaveren kræve et gebyr, jf. stk. 2, såfremt skrivelsen er fremsendt med rimelig grund (rykkergebyr). Fordringshaveren kan endvidere kræve et gebyr, jf. stk. 3, for at anmode en anden om at inddrive fordringen på fordringshaverens vegne, såfremt dette er sket med rimelig grund (inkassogebyr).
+Stk. 2. Der kan kræves et rykkergebyr på højst 100 kr. for hver rykkerskrivelse, dog højst for 3 skrivelser vedrørende samme ydelse.  Har skyldneren inden for en sammenhængende periode til stadighed været i restance vedrørende samme skyldforhold, kan der uanset 1. pkt. højst kræves rykkergebyr for 3 skrivelser vedrørende restancerne i den pågældende periode. Der kan kun kræves gebyr for rykkerskrivelser, som er sendt med mindst 10 dages mellemrum".
+
+Den tredje rykkerskrivelse skal indeholde et inkassovarsel.
+
+![](img/ryk.jpg)
 
 
 
@@ -216,7 +227,7 @@ Kap. 8 indeholder straffe- og ikrafttrædelsesbestemmelser.
 
 
 
-* Gælden sendes til inkasso, hvis skyldner ikke betaler, efter kreditor har sendt en eller flere rykkere
+Gælden sendes til inkasso, hvis skyldner ikke betaler, efter kreditor har sendt en eller flere rykkere (højst 3 stk.)
 
 Inkasso kan foretages af:
 
@@ -228,9 +239,58 @@ Inkasso kan foretages af:
   
 Inkassobrev med diverse oplysninger sendes til skyldner.
 
+
+![](img/inkasso.jpg)
+
 Formålet med inkasso er at få betalt gælden eller opnå en afdragsordning, som kaldes et frivilligt forlig.
 
 Betaler skyldner stadig ikke, må kreditor overveje at fortsætte med tvangsinddrivelse.
+
+---
+
+![](img/inkasso2.png)
+
+---
+
+### Forenklet inkasso 
+
+
+*Hvad er den forenklede inkassoproces (betalingspåkrav)?*
+
+Den forenklede inkassoproces er en enkel måde at få rettens hjælp til at opkræve gæld på. Den samlede gæld må højst være på 100.000 kr. eksklusive renter og omkostninger.
+
+Det særlige ved den forenklede inkassoproces er, at man kun skal rette én henvendelse til fogedretten, som både tager sig af grundlaget for og gennemførelsen af et udlæg.
+
+Man kan bruge den forenklede inkasso i nogle tilfælde i stedet for at indgive en stævning.
+
+*Hvornår kan man vælge den forenklede inkassoproces?*
+
+Man kan vælge den forenklede inkassoproces, hvis man har en klar forventning om, at skyldneren er enig i kravet, og kravet ikke overstiger 100.000 kr. eksklusive renter og omkostninger.
+
+
+*Hvordan gør man?*
+
+Ønsker man at starte en forenklet inkassoproces, skal man udfylde og indlevere en *betalingspåkravsblanket* til fogedretten. Man kan finde blanketten her:
+
+http://www.domstol.dk/selvbetjening/blanketter/inkasso/Pages/default.aspx
+
+Betalingspåkravet har samme funktion som en stævning i civile sager og skal derfor indeholde næsten de samme oplysninger. Det er for eksempel parternes navne og adresse, ens krav og informationer om, hvordan kravet er opstået.
+
+*Hvad ender sagen med?*
+
+Hvis man i blanketten for betalingspåkravet har markeret, at man ønsker det, kan fogedretten automatisk:
+
+Sørge for, at betalingspåkravet får samme bindende virkning (retskraft) som en dom. Bagefter iværksætter fogedretten et udlæg mod den skyldner, som er enig i kravet. Her vil sagen normalt ende.
+
+Sende sagen til civilretten, hvis skyldneren – mod forventning – er uenig i kravet. Civilretten indleder derefter en retssag på grundlag af betalingspåkravet.
+
+*Hvad koster det?*
+
+Når man indleverer betalingspåkravet til fogedretten, skal man samtidig indbetale en retsafgift. Retsafgiften afhænger af kravets størrelse, ens valg i betalingspåkravet og sagens forløb.
+
+Man kan foretage en vejledende beregning af retsafgiften her:
+
+http://www.domstol.dk/selvbetjening/beregndinafgift/Pages/default.aspx
 
 ---
 
@@ -367,6 +427,13 @@ Der kan ikke foretages udlæg i små pengebeløb, sædvanligt indbo eller i andr
 *U7:* Båndlagte gaver, RPL § 514
 
 *U8:* Trangsbeneficiet, RPL § 509
+
+
+---
+
+
+Se dommen i **U 2019.3256 ** om krav i henhold til gældsbrev var ikke fritaget fra udlæg i medfør af retsplejelovens § 513, stk. 1, om beskyttelse mod kreditorforfølgning af personskadeerstatning:
+"A blev i maj 2014 erklæret konkurs. I 2015 lånte A 600.000 kr. til B. Beløbet blev overført fra en konto, hvor indeståendet stammede fra As personskadeerstatning, og der var enighed om, at beløbet på kontoen var beskyttet mod kreditorforfølgning, jf. retsplejelovens § 513, stk. 1. Sagen angik, om beskyttelsen af beløbet som følge af udlånet til B ophørte, således at konkursboet kunne kræve, at B betalte de 600.000 kr. til boet. Højesteret fandt, at beløbet efter udbetalingen til B var blevet sammenblandet med andre midler, og at der herefter ikke var den fornødne sikkerhed for, at beløb, der senere betales til A fra B i henhold til gældsbrevet, hidrørte fra det udbetalte erstatningsbeløb. Højesteret bemærkede herved, at B efter sin forklaring havde videreudlånt beløbet til sin samlevers søn til brug for stiftelse af et anpartsselskab, som drives af samleveren, der er under konkurs. Højesteret tiltrådte på denne baggrund, at kravet i henhold til gældsbrevet ikke var fritaget fra udlæg efter § 513, stk. 1, og at B derfor skulle betale 600.000 kr. til konkursboet. Højesteret stadfæstede herved landsrettens dom".
 
 ---
 
