@@ -25,7 +25,6 @@ cat(readLines('np.html'))
   
 *Kautionisternes hæftelse og indbyrdes regres*
 
-*Særlige forældelsesregler*
 
 ---
 
@@ -36,7 +35,7 @@ cat(readLines('np.html'))
 
 *Kaution*, betyder overtagelse af en økonomisk risiko, som bæres af en kreditor i et skyldforhold, med den virkning, at kautionisten sammen med debitor hæfter for opfyldelsen af debitors betalingspligt.   
 
-Ordet kaution kommer af latin cautio 'forsigtighed, sikkerhed', af cavere 'passe på, sikre'.
+Ordet *kaution* kommer af latin cautio 'forsigtighed, sikkerhed', af cavere 'passe på, sikre'.
 
 Kaution er en sikkerhedsstillelse for et gældsforhold.
 
@@ -87,11 +86,11 @@ Kautionsaftalen indgås mellem kautionisten og kreditor.
 
 Kautionisten har typisk en relation til låntager i forvejen:
 
-+	Forældre &lrarr;	børn
++	Forældre &lrarr;	børn.
 
-+	Virksomhedsejer	&lrarr; virksomhed
++	Virksomhedsejer	&lrarr; virksomhed.
 
-+	Moderselskab &lrarr; datterselskab
++	Moderselskab &lrarr; datterselskab.
 
 ---
 
@@ -165,23 +164,25 @@ visNetwork(nodes, edges, width = "100%") %>%
 
 Aftalelovens regler gælder også for kautionsaftaler, fx:
 
-+	Stærke og svage ugyldighedsgrunde
++	Stærke og svage ugyldighedsgrunde.
 
-+	Forudsætningslæren
++	Forudsætningslæren.
 
 +	Generalklausulen om tilsidesættelse af urimelige aftaler i aftalelovens §§ 38c, jf. 36.
 
 ---
   
-Kaution er også reguleret i Lov om finansiel virksomhed, se Lovbekendtgørelse nr. 1140 af 26. september 2017 om finansiel virksomhed (FIL), jf. §§ 47 (erhvervskaution) og 48 (privat kaution), hvis kaution gives overfor en finansiel virksomhed
+Kaution er også reguleret i Lov om finansiel virksomhed, se Lovbekendtgørelse nr. 1140 af 26. september 2017 om finansiel virksomhed (forkortet; FIL), jf. her §§ 47 (erhvervskaution) og 48 (privat kaution), hvis kaution gives overfor et pengeinstitut. 
 
-Vigtigt at skelne mellem erhvervskaution og privat kaution.
+Hvis der ikke er tale om kaution over for et pengeinstitut, så anvendes aftalelovens regler for en nærmere vurdering om kautionsforpligtelsen er ugyldig.
+
+Det er vigtigt at skelne mellem erhvervskaution (§ 47) og privat kaution (§ 48).
 
 ---
 
 ## Generalklausulen på kautionsforhold
 
-Om anvendelse af aftalelovens § 36 på kautionsforhold findes en del retspraksis (domme) på området:  
+Om anvendelse af aftalelovens § 36 på kautionsforhold findes der en del retspraksis (domme) på området:  
 
 
 
@@ -204,29 +205,51 @@ I dommen **U 1997.522 Ø** fandtes det ikke urimeligt eller i strid med redelig 
 
 ---
 
-I dommen **U 2010.1628 H**: Kautionsaftale delvist tilsidesat efter aftalelovens § 36**.
+I dommen **U 2010.1628 H** blev en kautionsaftale delvist tilsidesat efter aftalelovens § 36**.
+
+---
+
+Pengeinstituttets manglende overholdelse af FIL § 47 eller af god skik for finansielle virksomheder i FIL § 43 medfører nødvendigvis ikke, at kautionsforpligtelsen bliver tilsidesat af domstolene:
+
+Se dommen i **FM 2018.109**, hvor en banks manglende overholdelse af § 48 i lov om finansiel virksomhed kunne ikke i sig selv medføre, at en kautionist ikke var bundet af kautionsløftet: "Fogedretten havde fremmet en banks udlægsbegæring mod en skyldner på grundlag af en kautionserklæring.
+Kautionisten kærede afgørelsen og gjorde for landsretten blandt andet gældende, at banken ikke havde overholdt reglerne i lov om finansiel virksomhed, bekendtgørelse om god skik for finansielle virksomheder eller reglerne i Finansrådets retningslinjer.
+Landsretten stadfæstede fogedrettens afgørelse med følgende begrundelse:
+»[Banken] har ikke godtgjort, at banken årligt og skriftligt har meddelt [kautionisten] størrelsen af den gældspost, som kautionen er stillet til sikkerhed for, jf. lov om finansiel virksomhed § 48. Dette forhold kan imidlertid ikke i sig selv medføre, at [kautionisten] ikke er bundet af sit kautionsløfte.
+Det lægges til grund, at [kautionisten], da hun underskrev kautionserklæringen i 2010, og hvor størrelsen af kautionsforpligtelsen var uændret i forhold til kautionen fra 2006, var bekendt med størrelsen af gældsforholdet. Hun har skrevet under på, at hun er gjort bekendt med betingelserne for og konsekvenserne af kautionsforpligtelsen, herunder at kautionserklæringen kan danne grundlag for tvangsfuldbyrdelse.
+Herefter og efter en samlet vurdering, hvori indgår, at der er tale om kaution for samleverens gæld og størrelsen af kautionsforpligtelsen, finder landsretten, at der ikke er grundlag for at anse kautionsaftalen for uforbindende. …«.
+
+---
+
+Samt domme i **FM 2011.37** Kautionsløfte var ikke ugyldigt - udtalt at manglende overholdelse af reglerne i bekendtgørelse om god skik for finansielle virksomheder ikke i sig selv har civilretlige konsekvenser:
+"Et finansieringsselskab havde anmodet om udlæg for knapt 153.000 kr. hos A, der havde kautioneret for familiemedlemmers gæld. Det var ubestridt, at A ikke var blevet vejledt eller informeret om konsekvenserne af kautionsforpligtelsen i forbindelse med, at han påtog sig kautionsløftet. A gjorde gældende, at han ikke havde modtaget meddelelse efter § 48 i lov om finansiel virksomhed, ligesom han heller ikke havde modtaget årlige underretninger efter bekendtgørelse nr. 965 af 30. september 2009 om god skik for finansielle virksomheder, § 21, stk. 3.
+Fogedrettens kendelse om at fremme udlægsforretningen blev stadfæstet af landsretten med følgende begrundelse:
+"Lov om finansiel virksomhed § 48 omfatter efter sin ordlyd alene pengeinstitutter, hvorfor reglen ikke finder anvendelse i nærværende sag. I øvrigt bemærkes, at en manglende overholdelse af Bekendtgørelse om god skik for finansielle virksomheder ikke i sig selv har civilretlige konsekvenser. Det skal derfor afgøres efter reglerne i aftalelovens afsnit III om ugyldige viljeserklæringer, om [A] er bundet af sit kautionsløfte. I denne vurdering indgår principperne i den nævnte bekendtgørelse.
+Det er ubestridt, at [A] ikke blev informeret om indholdet og konsekvenserne af kautionsforpligtelsen i forbindelse med, at han påtog sig kautionsløftet, og at [A] ikke har modtaget årlige oplysninger om størrelsen af det lånearrangement, for hvilket kautionsforpligtelsen består.
+Landsretten lægger imidlertid til grund, at det ikke er godtgjort, at [A] ville have afholdt sig fra at påtage sig en kautionsforpligtelse på 155.000 kr., selv om han var blevet vejledt.
+[A] har modtaget underretning om misligholdelse af lånet i 2006, 2007 og 2009.
+Efter en samlet vurdering, hvori indgår, at der er tale om kaution for familiemedlemmers gældsstiftelse i forbindelse med huskøb og kautionsforpligtelsens størrelse, finder landsretten ikke grundlag for at anse kautionsaftalen for uforbindende eller ugyldig efter aftalelovens § 36, jf. § 38 c, og landsretten stadfæster derfor fogedrettens kendelse om, at fogedsagen fremmes".
 
 ---
 
 ## Privat kaution eller erhvervskaution
 
-Privatkaution stilles typisk af en fysisk person overfor en person eller virksomhed.
+*Privatkaution* stilles typisk af en fysisk person overfor en person eller en virksomhed.
 
 Der vil ofte være en nær relation mellem debitor og kautionist.
 
-Erhvervskaution stilles både af fysiske og juridiske personer, men typisk er debitor en virksomhed.
+*Erhvervskaution* stilles både af fysiske og juridiske personer, men typisk er debitor en virksomhed.
 
 ---
 
-I vurderingen erhvervskaution eller privat kaution indgår følgende parametre (Se figuren nedenfor):
+I vurderingen om der er tale om en erhvervskaution eller privat kaution indgår følgende parametre (Se figuren nedenfor):
 
-+ Ejerandel i virksomhed, der kautioneres for
++ Ejerandel i virksomhed, der kautioneres for.
 
-+ Stilling i virksomheden
++ Stilling i virksomheden.
 
-+ Indsigt i virksomhedens økonomi
++ Indsigt i virksomhedens økonomi.
 
-+ Bestemmende indflydelse i virksomheden samlet set
++ Bestemmende indflydelse i virksomheden samlet set.
 
 ---  
 
@@ -278,11 +301,11 @@ mydf %>%
 
 ---
 
-### Erhvervskaution i et pengeinstitut
+### Erhvervskaution over for et pengeinstitut
 
 <img src="img/kaution15.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Med hensyn til erhvervskaution i et pengeinstitut følger det af FIL § 47: 
+Med hensyn til erhvervskaution over for et pengeinstitut, følger det af FIL § 47: 
 
 ”Er der inden for erhvervsforhold stillet kaution for lån ydet af et pengeinstitut, og udebliver låntager med betaling af hovedstol, afdrag eller renter, skal der senest 6 måneder efter de pågældende ydelsers forfaldsdag skriftligt gives meddelelse til enhver af kautionisterne eller til den eller dem af disse, der er bemyndiget til at modtage meddelelsen på samtlige kautionisters vegne". 
 
@@ -297,9 +320,11 @@ Skriftlighedskravet kan opfyldes i såvel papirformat som elektronisk format.
 
 Se følgende domme:
 
-**U 1992 442** (der kunne ikke ses bort fra, at kautionisten ved underretning kunne have gennemført sit regreskrav helt eller delvis mod hovedskyldneren. Finansieringsselskabet var afskåret fra nu at gøre kautionsforpligtelsen gældende).   
+**U 1992.442 Ø**, hvor der kunne ikke ses bort fra, at kautionisten ved underretning kunne have gennemført sit regreskrav helt eller delvis mod hovedskyldneren. Finansieringsselskabet var afskåret fra nu at gøre kautionsforpligtelsen gældende.   
 
-**U 1995.77** (da låntagers formue måtte antages at være negativ allerede inden udløbet af seksmånedersfristen, fandtes kautionisternes regreskrav ikke at være forringet ved den undladte underretning, og kautionisterne skulle indfri kautionen).
+**U 1995.77 V**, da låntagers formue måtte antages at være negativ allerede inden udløbet af seksmånedersfristen, fandtes kautionisternes regreskrav ikke at være forringet ved den undladte underretning, og kautionisterne skulle indfri kautionen.
+
+**U 2011.3248 V**, hvor to kautionister hæftede solidarisk for et beløb på 450.000 kr., idet det ikke var godtgjort, at de hver især havde påtaget sig at kautionere med den følge, at banken, som var kreditor, opnåede en samlet sikkerhed på 900.000 kr.: "S og J, der var indehavere af anparterne i et byggefirma, etablerede den 28. maj 2004 en kassekredit i en bank med et maksimum på 125.000 kr. Den 27. august 2004 blev der til brug for et konkret byggeprojekt etableret en kassekredit med et kreditmaksimum på 575.000 kr. gældende indtil 2. maj 2005, og til sikkerhed for denne kassekredit påtog S og J sig en selvskyldnerkaution på 575.000 kr. Den 9. september 2005 blev der indgået endnu en kreditkontrakt mellem anpartsselskabet og banken med et kreditmaksimum på 450.000 kr. For denne gæld påtog S og J sig selvskyldnerkaution, og kautionen var begrænset til kreditmaksimum i henhold til den samtidig oprettede kreditkontrakt. Den kautionssikrede gæld på sidstnævnte konto blev fuldt indfriet den 24. august 2006, hvilket skete ved overførsel af 471.557 kr. fra en byggekonto, der var etableret samme dag med et kreditmaksimum på 2,6 mio. kr. Dette byggelån var sikret ved selvskyldnerkaution på 2,6 mio. kr. fra hver af S og J. Byggekontoen blev indfriet den 30. september 2008 i forbindelse med overførsel af 2.696.421 kr. fra den oprindelige kassekredit, der i juli 2008 var blevet forhøjet til kreditmaksimum på 3.325.000 kr. Banken påstod S og J tilpligtet at betale hver 450.000 kr., og gjorde til støtte herfor gældende, at de havde påtaget sig en tidsubegrænset selvskyldnerkaution over for ethvert mellemværende mellem banken og anpartsselskabet. S og J påstod sig frifundet, under henvisning til at deres kautionsforpligtelser ophørte i forbindelse med indfrielsen af lånet den 24. august 2006, og subsidiært gjorde de gældende, at bankens samlede kautionssikkerhed hos S og J ikke kunne overstige 450.000 kr. Landsretten anførte, at kautionserklæringerne angik erhvervsforhold og indeholdt en klar og tydelig angivelse af, at der kautioneredes som selvskyldnerkautionist for opfyldelse af enhver forpligtelse, som anpartsselskabet måtte få over for banken i henhold til ethvert nuværende og fremtidigt mellemværende. S og J havde dermed accepteret, at deres hæftelse - uanset det beløbsmæssige sammenfald - ikke kun vedrørte det samtidigt bevilgede lån på 450.000 kr. til anpartsselskabet. Når hensås hertil, og til at såvel S som J var anpartshavere i selskabet og havde indsigt i og bestemmende indflydelse på selskabets låneforhold, var der ikke grundlag for at anse kautionsforpligtelsen for ophørt ved indfrielsen af lånet på 450.000 kr. De var derfor ikke frigjort for kautionsforpligtelsen. S og J havde tidligere påtaget sig selvskyldnerkaution på 575.000 kr. i forbindelse med etableringen i august 2004 af en kassekredit på et tilsvarende beløb. Det blev lagt til grund, at de blev frigjort fra kautionsforpligtelsen, da gælden blev indfriet i maj 2005. I september 2005 blev der etableret en ny kassekredit på 450.000 kr., og i den forbindelse kautionerede de ligeledes begge. Efter S' og J's forklaringer havde de den forståelse, at de solidarisk påtog sig kaution for et beløb på i alt 450.000 kr. Under hensyn til det tidligere forløb samt at kautionserklæringerne blev udstedt i det væsentlige samtidigt, og i forbindelse med at der blev optaget et lån på netop 450.000 kr., fandtes det ikke, at det mod S' og J's forklaringer var godtgjort, at de hver især havde påtaget sig at kautionere for 450.000 kr. med den følge, at banken opnåede en samlet sikkerhed på 900.000 kr. S og J blev herefter dømt til in solidum at betale 450.000 kr. til banken.
 
 ---
 
@@ -308,13 +333,42 @@ Se følgende domme:
 <img src="img/kaution3.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
-Der er i FIL § 48 lovbestemmelser vedrørende privatkaution i et pengeinstitut. 
+Der er i FIL § 48 lovbestemmelser vedrørende privatkaution i et pengeinstitut:
 
-Herved forstås kaution, der ikke indgår i en erhvervsmæssig relation mellem låntager og kautionist. 
+"§ 48
+Inden der indgås aftale om en kautionsforpligtelse uden for erhvervsforhold for lån eller kreditter ydet af et pengeinstitut, skal pengeinstituttet sikre sig, at kautionisten er tilstrækkeligt informeret om indholdet af aftalen og konsekvenserne af at påtage sig en kautionsforpligtelse. Denne information skal indeholde oplysninger om, hvad den konkrete kautionsforpligtelse indebærer, og indeholde en afbalanceret beskrivelse af de risici, der er forbundet hermed. Endvidere skal pengeinstituttet for den debitor, hvis gæld kautionsforpligtelsen skal sikre, med samtykke fra debitor udlevere
 
-Er kautionen eksempelvis stillet for en virksomheds gæld af ejeren af virksomheden, vil forholdet ikke være omfattet af bestemmelsen i FIL § 48, men § FIL § 47. 
+1. den seneste årsopgørelse fra SKAT,
+2. de seneste tre lønsedler eller
+3. det seneste årsregnskab, hvis der kautioneres for en erhvervsdrivendes gæld.
 
-Kaution fra ejerens forældre vil derimod være omfattet, da der i dette tilfælde vil være tale om en kaution uden for erhvervsforhold. 
+Stk. 2. Et pengeinstitut, som ikke har overholdt stk. 1, kan kun gøre kautionsforpligtelsen gældende, såfremt kautionisten på anden vis har haft et forsvarligt grundlag for at bedømme de risici, der var forbundet med at indgå kautionsforpligtelsen. 
+
+Stk. 3. Kautionsaftaler efter stk. 1 skal udfærdiges på papir eller andet varigt medium for at kunne gøres gældende. 
+
+Stk. 4.  En kautionist kan ikke hæfte for et beløb, der er større end lånets hovedstol eller kredittens maksimum ved kautionsaftalens indgåelse.
+
+Stk. 5. Ved kautionsaftaler efter stk. 1 skal pengeinstituttet årligt skriftligt meddele kautionisten størrelsen af den gældspost, som kautionen er stillet til sikkerhed for. 
+
+Stk. 6.  Hvis låntageren udebliver med betaling af hovedstol, afdrag eller renter, skal der senest 3 måneder efter de pågældende ydelsers forfaldsdag gives meddelelse herom til kautionisten på papir eller andet varigt medium. 1. pkt. finder tilsvarende anvendelse, hvis pengeinstituttet giver låntageren henstand, uden at kautionisten har givet samtykke hertil.
+
+Stk. 7.  Overskrides fristen i stk. 6, kan kautionsforpligtelsen kun gøres gældende over for kautionisten for det beløb, som låntagerens gæld efter den sikrede fordring ville have udgjort, hvis låntageren havde betalt alle ydelser rettidigt indtil det tidspunkt, som ligger 3 måneder forud for det tidspunkt, hvor meddelelse gives.
+
+Stk. 8.  Overskridelse af fristen i stk. 6 medfører uanset stk. 7, at pengeinstituttet taber sit krav over for kautionisten, i det omfang dennes regreskrav mod låntageren er blevet forringet.
+
+Stk. 9.  En kautionsforpligtelse efter stk. 1 bortfalder efter 10 år eller, hvis kautionsaftalen er indgået til sikkerhed for en kredit med variabelt beløb eller for et lån uden fast forfaldstidspunkt, efter 5 år, medmindre forpligtelsen forinden er gjort gældende af pengeinstituttet. 1. pkt. finder ikke anvendelse på lån, der efter deres vilkår kan finansieres ved udstedelse af særligt dækkede obligationer, såfremt kautionisten udtrykkeligt er oplyst herom og om virkningen heraf.
+
+Stk. 10. En aftale om en kautionsforpligtelse efter stk. 1 kan tilsidesættes helt eller delvis, hvis den står i misforhold til kautionistens økonomi.
+
+Stk. 11.  Stk. 1-10 finder tilsvarende anvendelse på tredjemandspant uden for erhvervsforhold".
+
+---
+
+Herved forstås en kaution, der ikke indgår i en erhvervsmæssig relation mellem låntager (debitor) og kautionisten. 
+
+Er kautionen eksempelvis stillet for en virksomheds gæld af ejeren af virksomheden, vil forholdet ikke være omfattet af bestemmelsen i FIL § 48, men af FIL § 47. 
+
+Kaution fra ejerens forældre vil derimod være omfattet af FIL § 48, da der i dette tilfælde vil være tale om en kaution uden for erhvervsforhold. 
 
 I FIL § 48 er der indsat en forpligtelse til at informere kautionisten, ligesom det er præciseret, hvilke forhold der skal oplyses om, forinden der indgås en aftale om en kautionsforpligtelse. 
 
@@ -674,7 +728,7 @@ Dette er ikke tilfældet ved pro rata hæftelse, hvor hver enkelt kautionist hæ
 
 ---
 
-## Simpel kaution eller selvskyldnerkaution
+## Simpel kaution eller en selvskyldnerkaution
 
 <img src="img/kaution8.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
@@ -684,11 +738,33 @@ Selvskyldnerkaution indebærer, at kautionisten hæfter allerede fra den dag, hv
 
 Hvis kravet ikke er betalt, kan långiver allerede fra forfaldsdagen kræve betaling fra kautionisterne uden at dokumentere, at låntager er insolvent og derfor ikke kan betale gælden.
 
-Ved simpel kaution skal långiver derimod dokumentere, at låntager ikke kan betale gælden, før der kan kræves betaling fra kautionisterne.
-
 ---
 
-*Simpel kaution* finder anvendelse, medmindre andet er aftalt eller følger af lov.
+Ved *simpel kaution* skal långiver derimod dokumentere, at låntager ikke kan betale gælden, før der kan kræves betaling fra kautionisterne.
+
+Simpel kaution finder anvendelse, medmindre andet er aftalt fx en selvskyldnerkaution eller følger af lov.
+
+Simpel kaution adskiller sig fra selvskyldnerkautionen med hensyn til tidspunktet for kautionsforpligtelsens indtræden. 
+
+Udover misligholdelsen kræves det ved simpel kaution også, at betaling ikke kan opnås hos hovedmanden. Altså at han er insolvent, jf. her definionen i konkurslovens § 17:
+
+"Er en skyldner insolvent, skal hans bo tages under konkursbehandling, når det begæres af skyldneren eller en fordringshaver.
+Stk. 2. En skyldner er insolvent, hvis han ikke kan opfylde sine forpligtelser, efterhånden som de forfalder, medmindre betalingsudygtigheden må antages blot at være forbigående".
+ . 
+
+Det vil praktisk sige, at der skal være sket forgæves retsforfølgning mod hovedmanden – fx forgæves udlægsforretning eller konkurs. 
+
+I konkurssituationen hæfter kautionisten for det beløb, der ikke gives dividende for, jf. konkurslovens § 14, stk. 3:
+
+"Tvangsakkorden har ingen indflydelse på fordringshaveres rettigheder mod kautionister og andre, som hæfter tillige med skyldneren".
+
+Ved simpel kaution hæfter kautionisten således »kun« for hovedmandens solvens.
+
+Simpel kaution er derfor den mindst byrdefulde kautionsform, hvorfor denne form for kaution vil være gældende for kautionsforpligtelser, medmindre andet er aftalt, fx en selvskyldnerkaution.
+
+Som udgangspunkt kan den simple kautionist ikke kræve, at andre sikkerheder skal være realiseret forud for kautionen, fx pant eller andre kautioner, medmindre der foreligger aftale herom. 
+
+---
 
 Professionelle långivere som banker vil imidlertid normalt kræve, at en kaution stilles som selvskyldnerkaution.
 
@@ -711,9 +787,9 @@ De samme beskyttelsesregler gælder, hvis en privatperson stiller pantesikkerhed
 
 Er der flere kautionister kan det være (Se figuren nedenfor):
 
-+ Samkaution – afhængigt af hinanden
+Samkaution – afhængigt af hinanden
 
-+ Medkaution – uafhængigt af hinanden
+Medkaution – uafhængigt af hinanden
   
 Flere kautionister hæfter solidarisk, hvis ikke andet er aftalt.
 
@@ -798,8 +874,9 @@ Privat kaution bortfalder efter 5 år eller 10 år, hvis kautionen ikke forlæng
 
 Kautionen kan bortfalde ved kreditors henstand.
 
-+ Privat kaution – kreditor skal give kautionisten besked inden for 3 måneder
-+ Erhvervskaution – kreditor skal give kautionisten besked inden for 6 måneder
+Privat kaution – kreditor skal give kautionisten besked inden for 3 måneder.
+
+Erhvervskaution – kreditor skal give kautionisten besked inden for 6 måneder.
   
 Kautionen forældes sammen med hovedfordring, hvis ikke andet er aftalt.
 
@@ -858,6 +935,8 @@ Låntager er nemlig forpligtet til at betale gælden til de kautionister, der ha
 
 Kautionisterne har såkaldt *regres over for låntager*.
 
+Ordet *regres* kommer af det latinske regressus 'tilbagegang', af regredi, af re- og gradi 'gå, træde'.
+
 Det er ikke kun fra låntager en kautionist kan kræve betaling. 
 
 *Hvis der er flere kautionister, og de hæfter solidarisk, er det også muligt at kræve betaling fra de øvrige kautionister, der hæfter for den samme del af gælden*. 
@@ -909,7 +988,7 @@ Advokat Sonny Kristoffersen
 
 
 
-*Eksamensopgavesæt om forbrugeraftaler, erstatningsret, kreditorforfølgning, konkurs, selskabsformer og kaution mv.*
+*Eksamensopgave om forbrugeraftaler, erstatningsret, kreditorforfølgning, konkurs, selskabsformer og kaution mv.*
 
 
 <img src="img/prinsessefødselsdag.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
@@ -1113,9 +1192,6 @@ Der fremgår ikke noget af casen, der indikerer, at kautionen ikke skulle være 
 ## Tredjemandspant
 
 
-
----
-
 *Hvad menes der med tredjemandspant?*
 
 Når låntager og pantsætter ikke er samme person
@@ -1169,18 +1245,19 @@ visNetwork(nodes, edges, width = "100%") %>%
 
 *Hvad er en garantistillelse?*
 
-Garantistillelse er en sikkerhedsstillelse for betaling på samme måde som kaution
+Garantistillelse er en sikkerhedsstillelse for betaling på samme måde som kaution.
 
-+ Fx købesumsgaranti i ejendomshandel = garanti købers bank stiller som sikkerhed for købesummens betaling
+Fx købesumsgaranti i ejendomshandel = garanti købers bank stiller som sikkerhed for købesummens betaling.
   
-* Parterne i garantistillelse er garantirekvirent, garant og beneficiant (Se figuren nedenfor).
+Parterne i garantistillelse er garantirekvirent, garant og beneficiant (Se figuren nedenfor).
 
 ---
 
 *To typer af garantier*:
 
-+ Anfordringsgaranti – kommer til udbetaling på anfordring
-+ Betinget garanti – kommer til udbetaling når den stillede betingelse er opfyldt
+*Anfordringsgaranti* – kommer til udbetaling på anfordring.
+
+*Betinget garanti* – kommer til udbetaling når den stillede betingelse er opfyldt.
  
 
 
@@ -1208,8 +1285,5 @@ visNetwork(nodes, edges,  width = "100%",avoidOverlap=2) %>%
 ``` 
 
 
-
-
----
 
 

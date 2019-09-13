@@ -53,6 +53,12 @@ Gør den dataansvarlige ikke det - eller er du ikke tilfreds med den dataansvarl
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/AXnQQyVvmuM" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
+---
+
+**Video: Baggrund for databeskyttelsesregler - kort**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/0YMD87kp9_g" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
 
 ---
 
@@ -70,7 +76,27 @@ Disse rettigheder og forpligtelser går samlet under betegnelsen *"databeskyttel
 
 Enhver behandling af andres personoplysninger, der ikke sker i en rent privat sammenhæng, skal ske i overensstemmelse med reglerne på databeskyttelsesområdet, jf. databeskyttelsesforordningen (også kaldet; *”GDPR”* General Data Protection Regulation), som har direkte virkning i Danmark. 
 
+
 ![](img/data3.jpg)
+
+
+---
+
+
+
+
+**Video: GDPR: What Is It and How Might It Affect You?**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/j6wwBqfSk-o" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
+
+**Video: What is the GDPR? | A summary of the EU GDPR**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/Assdm6fIHlE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+---
  
 Den supplerende databeskyttelseslovs formål er identisk med formålet i databeskyttelsesforordningen, nemlig beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og fri udveksling af personoplysninger i EU.
 
@@ -761,6 +787,12 @@ Derudover udsteder Datatilsynet retningslinjer og anbefalinger for behandling og
 **Video: Data Protection Officer (DPO)**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/JlRCfJKrAi0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
+
+**Video om dataansvarlig og databehandler**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/a23YoOgb2h0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
 

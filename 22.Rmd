@@ -2192,6 +2192,16 @@ Dette vanskeliggør svindel med registrerede transaktioner, herunder sikrer ejer
 
 Blockchain er særligt interessant for den finansielle industri, da det er teknologien, som kryptovaluta, herunder bitcoin, bygger på.
 
+---
+
+**Video: What is Blockchain**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/93E_GzvpMA0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+
+---
+
 ![](img/bit.jpg)
 
 *Bitcoin* er en kryptovaluta og et betalingssystem. 
@@ -2212,7 +2222,29 @@ Selvom det er meget usandsynligt, at kryptovalutaer kommer til at erstatte natio
 
 Kendetegnet ved kryptovalutaer og blockchain er, at man skærer en mellemmand ud, som man med gængse valutaer normalt vil anvende til at verificere eller bistå med transaktionens gennemførsel, f.eks. en bank, revisor, advokat eller notar. 
 
-Denne proces foretages i stedet af parterne selv, og de mange personer, som fører den identiske blockchain rundt omkring i verden .
+Denne proces foretages i stedet af parterne selv, og de mange personer, som fører den identiske blockchain rundt omkring i verden.
+
+---
+
+**Video: What is Bitcoin?**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/2X9eJF1nLiY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
+
+**Video: Bitcoin Explained Simply for Dummies**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/41JCpzvnn_0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+---
+
+**Video: How Does Bitcoin Work?**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/L-Qhv8kLESY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+---
 
 Brugen af kunstig intelligens og blockchain giver en masse udfordringer for samfundet, herunder lovgiver. 
 

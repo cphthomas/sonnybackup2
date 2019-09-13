@@ -1343,6 +1343,40 @@ En rekonstruktionsbehandling varer typisk i syv måneder og kan maksimalt vare e
 
 Er skyldneren fortsat insolvent ved rekonstruktionsbehandlingens ophør, indledes automatisk konkursbehandling.
 
+---
+
+## Tvangsakkord
+
+![](img/tvangsakkord.jpg)
+
+Tvangsakkord, er en gældsordning, der er et alternativ til konkurs, jf. konkurslovens §§ 10 og 10a:
+
+"§ 10
+En rekonstruktion skal indeholde mindst et af følgende elementer:
+Tvangsakkord, jf. § 10 a.
+Virksomhedsoverdragelse, jf. § 10 b. 
+
+§ 10 a
+En tvangsakkord kan gå ud på procentvis nedsættelse eller bortfald af fordringerne mod skyldneren. En tvangsakkord kan endvidere gå ud på betalingsudsættelse. 
+
+En tvangsakkord kan betinges af, at skyldnerens formue eller en del af denne fordeles mellem fordringshaverne...". 
+
+Ved en tvangsakkord kan skyldneren blive frigjort for sine gældsforpligtelser ved at betale en procentdel af gælden eller opnå udsættelse med betalingen af gælden (moratorium)". 
+
+Ved en almindelig tvangsakkord nedsættes gælden som udgangspunkt procentvis; ved en likvidationsakkord fordeles skyldnerens formue mellem kreditorerne, hvorefter skyldneren er frigjort for den resterende gæld. 
+
+En ren moratorieordning er sjælden, men en betalingsudsættelse vil ofte indgå som led i almindelig tvangsakkord. 
+
+En skyldner, der anmoder skifteretten om åbning af akkordforhandling, skal have udarbejdet et akkordforslag og indhentet to fagkyndige tillidsmænds statusrapport, hvori bl.a. samtlige aktivers værdi samt passiver skal fremgå. 
+
+Det er en betingelse for åbning af tvangsakkord, at mindst 40% af kreditorerne såvel efter antal som efter fordringernes størrelse tiltræder akkordforslaget. 
+
+En tvangsakkord kan som hovedregel ikke gennemføres, hvis fordringerne nedsættes til mindre end 25%. 
+
+Vedtagelse af en tvangsakkord kræver tilslutning fra mindst 60% af de deltagende fordringshavere efter antal. 
+
+De fordringshavere, der tiltræder akkorden, skal endvidere repræsentere en bestemt andel af det samlede beløb, der giver stemmeret; andelen afhænger af akkordforslagets indhold, men udgør mindst 60%.
+
 --- 
 
 *Eksamensopgavesæt i forbrugerret, pant, handel med fast ejendom, modregning og rekonstruktion mv.*
