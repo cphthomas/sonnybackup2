@@ -26,7 +26,7 @@ cat(readLines('np.html'))
   
 *Oprindelig trepartsforhold, KAL § 4, nr. 15, litra b,*
 
-*samt efterfølgende trepartsforhold, gældsbrevsloven*
+*samt efterfølgende trepartsforhold, reguleret af gældsbrevsloven*
 
 
 
@@ -96,8 +96,9 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 
 ---
 
-Kreditaftaleloven (KAL)^[Lovbekendtgørelse 2019-08-06 nr. 817 
-om kreditaftaler.] anvendes i de fleste aftaler om lån, kredit eller køb på kredit.
+Kreditaftaleloven (KAL)^[Lovbekendtgørelse 2019-08-06 nr. 817 om kreditaftaler.] anvendes i de fleste aftaler om lån, kredit eller køb på kredit.
+
+![](img/sonny.jpg)
 
 ---
 
@@ -369,6 +370,8 @@ En kreditaftale skal ifølge § 8, stk. 1, udfærdiges på papir eller på et an
 
 ---
 
+![](img/kop.jpg)
+
 
 *Ifølge KAL § 8, stk. 2, skal en kreditaftale indeholde oplysning om*:
 
@@ -471,6 +474,8 @@ Alle de antagelser, der er lagt til grund ved beregningen af denne procentsats, 
 
 ---
 
+![](img/opl3.jpg)
+
 *Oplysning om variabel rente og andre variable kreditomkostninger*
 
 Kreditaftaleloven indeholde ikke begrænsninger af godkendte pengeinstitutters, realkreditinstitutters eller andre godkendte kreditinstitutters ret til at variere den rente og de andre omkostninger, som en forbruger skal betale for en given kredit. 
@@ -490,6 +495,15 @@ Den samme begrænsning gælder ifølge KAL § 8, stk. 7, for andre kreditomkostn
 I KAL § 8 a, stk. 1, er det bestemt, at ved kreditaftaler, der sikres ved pant i fast ejendom, skal de oplysninger, der er nævnt i § 8, og aftalens øvrige væsentlige vilkår gives forud for kreditaftalens indgåelse, jf. KAL § 7 a.
 
 For så vidt angår sælgerpantebreve er det ved KAL § 8 a, stk. 2, bestemt, at hvis en sælger af en fast ejendom yder kredit mod udstedelse af (sælger-)pantebrev i den faste ejendom, skal de oplysninger, der er nævnt i stk. 1, gives i aftalen om ejendommens overdragelse; almindeligvis købsaftalen. 
+
+---
+
+**Video: Forstå et sælgerpantebrev på 2 minutter**
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/241136749?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/241136749">Et s&aelig;lgerpantebrev kan v&aelig;re svaret</a> from <a href="https://vimeo.com/seges">SEGES</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+---
 
 Denne aftale skal endvidere indeholde oplysning om, hvilket beløb der skal betales, hvis forbrugeren kan betale kontant hos sælgeren, alias kreditgiveren, i stedet for at udstede pantebrev.
 

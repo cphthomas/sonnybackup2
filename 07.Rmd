@@ -637,9 +637,9 @@ eksempel ske på grund af:
 
 *Forældre skal føre tilsyn*
 
-Børns erstatningsansvar overføres ikke til forældrene, men forældrene kan idømmes
-et selvstændigt ansvar, hvis deres adfærd har haft betydning for, at barnet har forvoldt
-skaden. Det sker:
+![](img/sjov3.jpg)
+
+Børns erstatningsansvar overføres ikke til forældrene, men forældrene kan idømmes et selvstændigt ansvar, hvis deres adfærd har haft betydning for, at barnet har forvoldt skaden. Det sker:
 
 Hvis de ikke har ført et rimeligt tilsyn med barnet eller ikke har fortalt barnet, hvordan det skal opføre sig.
 
@@ -753,6 +753,13 @@ Sammenholdt med undtagelserne i EAL § 19, stk. 2 og i § 21 omfatter hovedregle
 3) arbejdstageres personlige ansvar for skader, der er forvoldt ved simpel uagtsomhed, jf. stk. 3.
 
 Reglen gælder ikke enhver skadesforsikring, der omfattes af forsikringsaftaleloven, men kun forsikringer, hvor forsikringsydelsen bestemmes enten af tingens værdi eller af dens afkastningsinteresse i relation til en virksomheds drift. Kreditforsikringer, kautionsforsikringer og lign. falder derfor udenfor.
+
+---
+
+**Video: Vidnition 3.2 - Forsikring, erstatning og arbejdsgiveransvar**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/0MInd7t_dHw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
 
 ---
 
@@ -1252,7 +1259,9 @@ Ofte er forsikringstager og forsikrede samme person.
 
 Der er en lovbestemt pligt til at tegne forsikringer inden for en række retsområder. 
 
-Der er forsikringspligt indenfor bl.a. arbejdsskadeloven, færdselsloven, hundeloven og jagtloven.
+Der er forsikringspligt indenfor bl.a. arbejdsskadeloven, færdselsloven, jagtloven og hundeloven.
+
+![](img/sjov2.jpg)
 
 ---
 

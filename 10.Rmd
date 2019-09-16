@@ -42,9 +42,18 @@ Gør den dataansvarlige ikke det - eller er du ikke tilfreds med den dataansvarl
 
 ---
 
-**Video: Databeskyttelsesforordningen stiller krav til den finansielle sektor**
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/5OwWsQHpsDc" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+**Video: Baggrund for databeskyttelsesregler - kort**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/0YMD87kp9_g" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
+
+
+**Video: Top 5 things to consider for your GDPR preparation**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/6fITStJ-4Es" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
 ---
@@ -55,9 +64,9 @@ Gør den dataansvarlige ikke det - eller er du ikke tilfreds med den dataansvarl
 
 ---
 
-**Video: Baggrund for databeskyttelsesregler - kort**
+**Video: Databeskyttelsesforordningen stiller krav til den finansielle sektor**
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/0YMD87kp9_g" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/5OwWsQHpsDc" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
 ---
@@ -144,33 +153,33 @@ Hvis oplysninger om fysiske personer er fuldstændig anonymiserede, er der ikke 
 
 Ifølge databeskyttelsesforordningens artikel 4, nr. 2, skal begrebet *”behandling”* forstås som enhver aktivitet eller række af aktiviteter - med eller uden brug af automatisk behandling - som personoplysninger eller en samling af personoplysninger gøres til genstand for, f.eks.: 
 
-* indsamling, 
+* Indsamling. 
 
-* registrering,
+* Registrering.
 
-* organisering,
+* Organisering.
 
-* systematisering,
+* Systematisering.
 
-* opbevaring, 
+* Opbevaring. 
 
-* tilpasning eller ændring, 
+* Tilpasning eller ændring. 
 
-* genfinding, 
+* Genfinding. 
 
-* søgning, 
+* Søgning. 
 
-* brug, 
+* Brug. 
 
-* videregivelse ved transmission, 
+* Videregivelse ved transmission. 
 
-* formidling eller enhver anden form for overladelse, 
+* Formidling eller enhver anden form for overladelse. 
 
-* sammenstilling eller samkøring,
+* Sammenstilling eller samkøring.
 
-* begrænsning, 
+* Begrænsning. 
 
-* sletning eller tilintetgørelse.
+* Sletning eller tilintetgørelse.
 
 ---
  
@@ -815,6 +824,13 @@ Derudover udsteder Datatilsynet retningslinjer og anbefalinger for behandling og
 
 ---
 
+**Video: GDPR Compliance 2019 Summary - 10 Steps in 10 Minutes to Avoid Fines**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/WPwG-MNMuBQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+---
+
 Hvis databeskyttelsesforordningens regler overtrædes, kan virksomheden blive straffet af domstolene med meget store bøder.
 
 Overtrædelser kan medføre bøder på op til 20.000.000 EUR, eller hvis det drejer sig om en virksomhed, med op til 4% af virksomhedens samlede globale omsætning i det forudgående regnskabsår, hvis dette beløb er højere end 20.000.000 EUR.
@@ -1423,40 +1439,13 @@ Nej. Tidligere krævedes det Datatilsynet tilladelse, når man ønskede at behan
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/1XFvmzxlrwo" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
----
-
-**Litteratur om databeskyttelsesreglerne:**
-
-*Sonny Kristoffersen*: Kend databeskyttelsesreglerne (2019), *Henrik Waaben* og *Kristian Korfits Nielsen*: Lov om behandling af personoplysninger med kommentarer, 3. udg. (2015), *Peter Blume*: Den nye persondataret – persondataforordningen (2016), og samme: Databeskyttelsesret, 4. udg. (2013), *Peter Blume* og *Jens Kristiansen*: Persondataret i ansættelsesforhold (2011), samt – med særlig henblik på behandling af personoplysninger i den offentlige forvaltning – kapitel 8 i *Niels Fenger*, Forvaltningsloven med kommentarer (2013).
-
-
-
 
 ---
 
 ## <font color="red">Podcasts databeskyttelse<sup> Premium </font></sup>
 
----
-
-**Spam Podcastserie #1 - Den nye spamvejledning og forhåndsafkrydsning (med Forbrugerombudsmanden).**^[Følgende podcast er hentet fra Datatilsynets hjemmeside.]
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/558812247&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-
----
-
-**Spam Podcastserie #2 - Den nye spamvejledning, SoMe og tilsvarende varer (med Forbrugerombudsmanden)**
 
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/563799759&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-
----
-
-
-**Geo-blocking podcast #1 - Praktiske råd om databeskyttelsesforordningen (med Dansk Erhverv)**
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/535689081&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-
----
 
 **GDPR Podcastserie #1 - Bliv 100 metermester i GDPR på "10 minutter"**
 
@@ -1496,7 +1485,11 @@ Nej. Tidligere krævedes det Datatilsynet tilladelse, når man ønskede at behan
 
 ---
 
+**Litteratur om databeskyttelsesreglerne:**
 
+*Sonny Kristoffersen*: Kend databeskyttelsesreglerne (2019), *Henrik Waaben* og *Kristian Korfits Nielsen*: Lov om behandling af personoplysninger med kommentarer, 3. udg. (2015), *Peter Blume*: Den nye persondataret – persondataforordningen (2016), og samme: Databeskyttelsesret, 4. udg. (2013), *Peter Blume* og *Jens Kristiansen*: Persondataret i ansættelsesforhold (2011), samt – med særlig henblik på behandling af personoplysninger i den offentlige forvaltning – kapitel 8 i *Niels Fenger*: Forvaltningsloven med kommentarer (2013).
+
+---
 
 
  

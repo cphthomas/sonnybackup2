@@ -356,7 +356,11 @@ Tvangsinddrivelse kræver et fundament, jf. RPL § 478 fx:
 
 ---
 
-Se **U 2019.3219 V** Der kunne ikke ske tvangsfuldbyrdelse på grundlag af et digitalt gældsbrev, hvor underskriften ikke var tilføjet digitalt af den anførte debitor, men ifølge debitors forklaring af hendes daværende kæreste.
+Se dommen i **U 2019.3219 V** Der kunne ikke ske tvangsfuldbyrdelse på grundlag af et digitalt gældsbrev, hvor underskriften ikke var tilføjet digitalt af den anførte debitor, men ifølge debitors forklaring af hendes daværende kæreste.
+
+---
+
+Se **U 2019.3313 Ø** Gældsbrev, der var underskrevet ved anvendelse af Bank NemID, kunne tvangsfuldbyrdes, jf. retsplejelovens § 478, stk. 1, nr. 5.
 
 ---
 
@@ -432,7 +436,7 @@ Der kan ikke foretages udlæg i små pengebeløb, sædvanligt indbo eller i andr
 ---
 
 
-Se dommen i **U 2019.3256 ** om krav i henhold til gældsbrev var ikke fritaget fra udlæg i medfør af retsplejelovens § 513, stk. 1, om beskyttelse mod kreditorforfølgning af personskadeerstatning:
+Se dommen i **U 2019.3256** om krav i henhold til gældsbrev var ikke fritaget fra udlæg i medfør af retsplejelovens § 513, stk. 1, om beskyttelse mod kreditorforfølgning af personskadeerstatning:
 "A blev i maj 2014 erklæret konkurs. I 2015 lånte A 600.000 kr. til B. Beløbet blev overført fra en konto, hvor indeståendet stammede fra As personskadeerstatning, og der var enighed om, at beløbet på kontoen var beskyttet mod kreditorforfølgning, jf. retsplejelovens § 513, stk. 1. Sagen angik, om beskyttelsen af beløbet som følge af udlånet til B ophørte, således at konkursboet kunne kræve, at B betalte de 600.000 kr. til boet. Højesteret fandt, at beløbet efter udbetalingen til B var blevet sammenblandet med andre midler, og at der herefter ikke var den fornødne sikkerhed for, at beløb, der senere betales til A fra B i henhold til gældsbrevet, hidrørte fra det udbetalte erstatningsbeløb. Højesteret bemærkede herved, at B efter sin forklaring havde videreudlånt beløbet til sin samlevers søn til brug for stiftelse af et anpartsselskab, som drives af samleveren, der er under konkurs. Højesteret tiltrådte på denne baggrund, at kravet i henhold til gældsbrevet ikke var fritaget fra udlæg efter § 513, stk. 1, og at B derfor skulle betale 600.000 kr. til konkursboet. Højesteret stadfæstede herved landsrettens dom".
 
 ---
@@ -445,6 +449,8 @@ Se dommen i **U 2019.3256 ** om krav i henhold til gældsbrev var ikke fritaget 
  
 
 *Trangsbeneficiet, jf. RPL § 509:*
+
+![](img/beskeden.png)
 
 Kreditor kan ikke få udlæg i aktiver omfattet af trangsbeneficiet.
 

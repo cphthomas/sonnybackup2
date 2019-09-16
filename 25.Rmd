@@ -1,7 +1,7 @@
-# <font color="red">Forsikring<sup> Premium </font></sup>
+# <font color="red">Forsikringer<sup> Premium </font></sup>
 
 ```{r, echo=FALSE, results='asis'}
-cat(readLines('npp.html'))
+#cat(readLines('npp.html'))
 ```
 
 ## <font color="red">Rettigheder og forpligtelser i forsikringsretten<sup> Premium </font></sup>
@@ -1643,7 +1643,7 @@ Sådanne skader dækkes ikke, og man skal således købe en autoansvarsforsikrin
 
 ## <font color="red">Pensionsforsikringer<sup> Premium </font></sup>
 
-
+![](img/pension3.png)
 
 
 ---
@@ -1654,12 +1654,20 @@ Sådanne skader dækkes ikke, og man skal således købe en autoansvarsforsikrin
 
 ---
 
+![](img/liv.jpg)
+
+En *livrente* er en pension i forsikringsklæder. For med livrenten får man udbetalt en fast ydelse fra pensionsalderen og til man dør. 
+
+---
+
 **Video: Pension forklaret så man faktisk fatter det**
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/W6i8F73jeRE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
+
+
 
 **Video: Pensionsopsparing‐ Skal jeg vælge Livrente som en del af min pension?** 
 
@@ -1686,6 +1694,9 @@ Her er der tale om pensionsordninger, man selv kan oprette i forsikringsselskabe
 
 ## <font color="red">Generelt for de tre dele i pensionssystemet<sup> Premium </font></sup>
 
+![](img/pension1.jpg)
+
+
 
 For alle tre dele gælder, at man typisk er sikret i forbindelse med dødsfald, invaliditet og ved pensionering. 
 
@@ -1697,8 +1708,12 @@ Arbejdsmarkedspensionerne skal sikre et rimeligt forhold mellem det, man kan få
 
 ## <font color="red">Pension og erhvervsevnetab<sup> Premium </font></sup>
 
-.
+![](img/pension2.jpg).
+
  
+
+
+
 Følgende afdækning af pension og erhvervsevnetab bygger især på Forsikringsankenævnets informative oplysninger, herunder Ankenævnets praksis på området for pension og erhvervsevnetab.  
 
 Man kan være omfattet af en eller flere forsikringer, der udbetaler løbende ydelser og/eller et engangsbeløb til én, hvis man mister en betydelig del af sin erhvervsevne.  
@@ -1799,7 +1814,7 @@ Se eksempelvis **Forsikringsankenævnssager sagsnr.: 86821** (revisorassistent, 
 
 **Forsikringsankenævnets sagsnr.:  86821.**  Klager over afvisning af helbredsbetingede ydelser.  Klager, født i 1975, og arbejdede op til sin sygemelding som revisorassistent. Hun var sygemeldt på grund af piskesmæld. Forsikringen indeholdt en form for faginvaliditetsdækning. Der var ikke oplysninger om, at klager havde været arbejdsprøvet. Selskabet lagde til grund, at den indtægt, der udgjorde sammenligningsgrundlaget i henhold til forsikringsbetingelserne, var 28.800 kr.  månedligt.  Klager oplyste, at hun forsøgte at arbejde som revisorassistent 2-3 timer hver anden dag, hvorefter hun oplevede forværring af symptomer. Nævnet fandt, at klager ikke inden for sit fagområde var i stand til at tjene ca. halvdelen af sin tidligere indkomst. I forhold til generel erhvervsevne fandt nævnet, at klager ikke havde bevist, at hun kunne tjene mindst 14.400 kr. om måneden med relevante skånehensyn. Klager delvis medhold. 
 
-*Forsikringsankenævnets sagsnr.:  78427.**  Klager, der havde gruppeerhvervsudygtighedsforsikring som tandlæge, klager over, at selskabet ikke længere anså hendes erhvervsevne som tandlæge nedsat med 2/3, men kun med halvdelen og derfor havde nedsat hendes ydelser. Klager anmodede første gang om udbetaling af ydelser i maj 1998, da hun som følge af slidgigt i ryggen var sygemeldt. Selskabet tilkendte klager ydelser og havde gennem årene løbende fulgt op på sagen. Selskabet havde pr. 1/1 2009 ændret udbetalingen med henvisning til, at klagers fagspecifikke erhvervsevne ikke længere ansås nedsat med mindst 2/3, men kun med halvdelen.  Nævnet havde gennemgået indholdet af det lægelige materiale og fandt ikke holdepunkter for at antage, at klagers helbredstilstand havde ændret sig til det bedre i et sådant omfang, at hun ikke længere havde mistet 2/3 af sin specifikke erhvervsevne som tandlæge. Nævnet fandt derfor, at selskabet var uberettiget til at nedsætte klagers ydelser som sket og skulle udbetale hende det manglende beløb med tillæg af renter. Klager medhold.
+**Forsikringsankenævnets sagsnr.:  78427.**  Klager, der havde gruppeerhvervsudygtighedsforsikring som tandlæge, klager over, at selskabet ikke længere anså hendes erhvervsevne som tandlæge nedsat med 2/3, men kun med halvdelen og derfor havde nedsat hendes ydelser. Klager anmodede første gang om udbetaling af ydelser i maj 1998, da hun som følge af slidgigt i ryggen var sygemeldt. Selskabet tilkendte klager ydelser og havde gennem årene løbende fulgt op på sagen. Selskabet havde pr. 1/1 2009 ændret udbetalingen med henvisning til, at klagers fagspecifikke erhvervsevne ikke længere ansås nedsat med mindst 2/3, men kun med halvdelen.  Nævnet havde gennemgået indholdet af det lægelige materiale og fandt ikke holdepunkter for at antage, at klagers helbredstilstand havde ændret sig til det bedre i et sådant omfang, at hun ikke længere havde mistet 2/3 af sin specifikke erhvervsevne som tandlæge. Nævnet fandt derfor, at selskabet var uberettiget til at nedsætte klagers ydelser som sket og skulle udbetale hende det manglende beløb med tillæg af renter. Klager medhold.
 
 ---
 
@@ -2128,7 +2143,7 @@ Det er ens eget ansvar, at svarene er korrekte og fyldestgørende. En bevidst un
 
 ---
 
-## <font color="red">Udbetaling af forsikringer<sup> Premium </font></sup> 
+## <font color="red">Udbetaling af forsikringerne<sup> Premium </font></sup> 
 
 
 Hvem får pengene udbetalt, hvis man dør uventet? 
@@ -2259,6 +2274,15 @@ Reglerne er følgende:
 *	Har man en samlever, som man ønsker, skal have en sum penge fra 
   ATP, hvis man dør inden en vis alder, så registrer jer nu. Flytter   man fra hinanden, bortfalder samlevers ret til   
   engangsudbetalingen.
+  
+
+---
+
+![](img/pension.jpg)
+
+Se dommen i **U 2016.1487 H** En forsikringsaftale indeholdt en ydelsesgaranti, men ikke en garanti om, at forsikringstagers løbende opsparing hvert år skulle forrentes med mindst 4,5 %:
+"A tegnede i 1982 og 1986 to ratepensionsforsikringer i et pensionsforsikringsselskab, F. Forsikringerne, der blev tegnet på grundlag af det forsikringstekniske beregningsgrundlag G82, indeholdt begge en garanti for udbetaling af bestemte ydelser. Under en sag anlagt af A mod F var spørgsmålet, om A ud over betaling af bestemte ydelser var sikret, at hans løbende opsparing (forsikringsdepoter) hvert år skulle forrentes med mindst 4,5 % efter skat, herunder om en sådan minimumsforrentning kunne udledes af G82, eller om A konkret var blevet lovet en sådan minimumsforrentning. Højesteret fandt, at G82 er et offentligretligt teknisk beregningsgrundlag, som regulerer sammenhængen mellem præmier og ydelser ud fra nogle
+beregningstekniske antagelser om forrentning, risiko og omkostninger, og at G82 ikke indeholder et krav om en vis årlig minimumsforrentning af den løbende opsparing. Forsikringspolicerne indeholdt ikke et løfte om en garanti for en bestemt årlig minimumsforrentning, og der var ikke efter sagens konkrete omstændigheder grundlag for at antage, at F havde afgivet et løfte herom. A havde dermed ikke godtgjort, at der var tilsagt ham en rentegaranti som påstået".
   
 ---
 
