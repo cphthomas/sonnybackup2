@@ -440,6 +440,19 @@ Såfremt besiddelse af aktier, indskud af garantkapital eller indskud af andelsk
 
 ---
 
+![](img/ekspres.png)
+
+![](img/basis.png)
+
+
+**Afgørelse af 20. juni 2019:** Kunder får bevilget lån de ikke kan betale tilbage
+To banker med speciale i hurtige forbrugslån fik  påbud om at foretage en ordentlig vurdering af, om kunderne kan betale tilbage, inden de får bevilget et lån. Påbuddene til Ekspres Bank og Basisbank kommer på baggrund af en større undersøgelse af temaet, som Finanstilsynet offentliggjorde tidligere i år. De to banker skulle senest til september dokumentere, at der for hver enkelt kunde sker en realistisk vurdering af, om kunden kan betale afdragene, og det vel at mærke inden, banken bevilger lånet.
+
+Finanstilsynet havde afdækket, at begge banker havde ydet lån på op til 75.000 kr. uden at beregne kundernes rådighedsbeløb, selv om banker som hovedregel netop skal gøre dette.
+Undersøgelsen viste også, at bankerne, når de faktisk beregnede rådighedsbeløb, systematisk lagde lave rådighedsbeløb til grund. Rådighedsbeløbene var på 3.000 kr. måned pr. voksen og 1.500 kr. pr. måned for børn.
+
+---
+
 
 ## <font color="red">Særlige god skik regler for investeringsforvaltningsselskaber<sup> Premium </font></sup>
 
@@ -2363,7 +2376,65 @@ De fondsmæglerselskaber, som skal have en startkapital på minimum EUR 50.000, 
 
 Ud over startkapital skal finansielle virksomheder også løbende have et særligt kapitalgrundlag.
 
+---
 
+Finanstilsynet fører løbende tilsyn med banker og sparekasser i forhold til lovens kapitalkrav.
+
+![](img/brede.jpg)
+
+Se fx **Finanstilsynets redegørelse af 30. august 2019 om inspektion i Sparekassen Bredebro**
+
+"Finanstilsynet var i marts og april 2019 på inspektion i Sparekassen Bredebro, hvor de væsentligste risikoområder blev gennemgået ud fra en risikobaseret vurdering, hvor der blev lagt størst vægt på de områder, der havde den største risiko.
+
+*Sammenfatning og risikovurdering*
+
+Sparekassen er kendetegnet ved en høj andel af erhvervsudlån og en forholdsvis høj andel af svage kunder blandt erhvervsudlånene. 
+
+Sparekassen har en meget høj koncentration af udlån til landbrug, særligt inden for mælkeproduktion. Sparekassen har trods ønske herom ikke formået at nedbringe den store landbrugsandel gennem de seneste år.
+
+Sparekassen har en høj koncentration af store udlån, hvilket gør sparekassen yderligere sårbar, da forringelser på store enkeltudlån kan føre til forøgede nedskrivninger og et højere solvensbehov.
+
+Sparekassens renterisici ligger væsentligt over renterisikoen i sammenlignelige institutter. Sparekassen er særligt sårbar over for ændringer i renteniveauet på sin obligationsbeholdning.
+
+Samlet set har forretningsmodellen forhøjet risiko og kompleksitet, hvilket stiller større krav til indtjening, kapitaloverdækning og risikostyring.
+
+Sparekassen har de senere år haft beskedne økonomiske resultater, og den vil derfor være yderligere udfordret ved blot et mindre tilbageslag, særligt for kunderne inden for mælkeproduktion.
+
+Sparekassen fik på baggrund heraf påbud om at præcisere sin forretningsmodel, så den klart udtrykker bestyrelsens forventninger til fremtidig indtjening og vækst samt forventningerne til sparekassens størrelse og væsentligste forretningsområder.
+
+Finanstilsynet gennemgik ved inspektionen 171 udlån, heraf 52 store udlån over 2 pct. af kapitalgrundlaget, en stikprøve på 43 erhvervsudlån, 74 privatudlån samt øvrige udlån til sparekassens ledelse.
+
+Gennemgangen førte til, at 21 udlån fik en dårligere rating, særligt privatudlån. 
+
+Dette hang bl.a. sammen med, at sparekassens løbende overvågning af overtræk og restancer blandt privatkunderne var utilstrækkelig. 
+
+I 6 ud af de 21 udlån, som fik en dårligere rating, er der tale om rykninger mellem de to bedste kategorier af kunder.
+
+Sparekassen fik påbud om at øge nedskrivningerne på fire store udlån med ca. 3,8 mio. kr., ligesom sparekassen fik påbud om at forbedre den løbende overvågning på privatkunderne. 
+
+Sparekassen skal derudover nedskrive ca. 2,8 mio. kr. på to domicilejendomme.
+
+Sparekassen fik også påbud om at præcisere kreditpolitikken samt forbedre rapporteringen på kreditområdet.
+
+Sparekassen fik påbud om, at bestyrelsesprotokollen skulle forbedres, både i forhold til dokumentationen for de førte drøftelser, men også til sikring af, at alle bilag var korrekt indført i protokollen. 
+
+Ligeledes fik sparekassen påbud om ikke at behandle udlån til ledelsesmedlemmer på ikke-fysiske møder, ligesom inspektionen kortlagde, at bestyrelsens brug af elektroniske møder ikke fungerede tilfredsstillende, da der var flere tilfælde, hvor flere bestyrelsesmedlemmer ikke havde svaret på det indstillede inden for den angivne tidsfrist.
+
+Sparekassen fik også en påtale om at reducere omfanget af efterbevillinger, der i 2018 har ligget på et meget højt niveau.
+
+Inspektionen førte også til at øge solvensbehovet med ca. 16,5 mio. kr. eller 1,8 procentpoint til 14,9 pct. 
+
+Stigningen i solvensbehovet knyttede sig i al væsentlighed til et forøget tillæg til kunder med finansielle problemer, øvrige kreditrisici samt et tillæg for operationelle risici primært som følge af både manglende funktionsadskillelse og kompenserende foranstaltninger mellem 1. og 2. forsvarslinje, en svag 2. forsvarslinje samt utilstrækkelig kreditstyring på privatkunder. 
+
+Svage kontroller mellem 1. og 2. forsvarslinje samt en svag 2. forsvarslinje øger risikoen for at uhensigtsmæssige fejl eller risici ikke bliver identificeret.
+
+Sparekassen har samtidig et spinkelt kapitalgrundlag og bryder pt. med sin egen kapitalmålsætning. 
+
+I Finanstilsynets kapitalfremskrivning under stress bryder sparekassen med det kombinerede kapitalbufferkrav i et toårigt mildt stressscenarie. 
+
+I et toårigt hårdt stressscenarie bryder sparekassen desuden med det individuelle solvensbehov. Henset hertil er det derfor af afgørende betydning, at sparekassen øger sin indtjening og kapitaloverdækning".
+
+---
 
 ## <font color="red">God skik og fintech<sup> Premium </font></sup>
 

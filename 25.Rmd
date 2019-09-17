@@ -2179,21 +2179,20 @@ Man kan også se det i „PensionsInfo.dk“.
 Er man kommet med 1. januar 2008 eller senere, så betyder „nærmeste pårørende“:  
 
 1.	Ægtefælle
-    + Hvis man ikke efterlader ægtefælle/registreret partner:
+
++ Hvis man ikke efterlader ægtefælle/registreret partner:
     
-2.	Samlever i ægteskabslignende forhold, hvor et af følgende 
-    gælder:
+2.	Samlever i ægteskabslignende forhold, hvor et af følgende gælder:
     
-    + Ved dødsfaldet bor I sammen og har boet sammen i to år inden 
-    dødsfaldet.
++ Ved dødsfaldet bor I sammen og har boet sammen i to år inden dødsfaldet.
     
-    +	Ved dødsfaldet bor I sammen og har, har haft eller venter barn     sammen.
++	Ved dødsfaldet bor I sammen og har, har haft eller venter barn sammen.
     
-    + Hvis man heller ikke efterlader samlever i ægteskabslignende 
-    forhold:
++ Hvis man heller ikke efterlader samlever i ægteskabslignende forhold:
     
 3.	Børn eller deres efterkommere (livsarvinger)
-    + Hvis man heller ikke efterlader børn eller deres efterkommere:
+
++ Hvis man heller ikke efterlader børn eller deres efterkommere:
     
 4.	Arvinger ifølge testamente
 
@@ -2292,7 +2291,7 @@ beregningstekniske antagelser om forrentning, risiko og omkostninger, og at G82 
 
 ---
 
-
+##  Forsikringsformidling
 
 
 

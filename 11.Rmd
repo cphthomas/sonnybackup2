@@ -302,6 +302,7 @@ Sådanne virksomheder skal have tilladelse som sparevirksomhed i henhold til § 
 *Udbydere af betalingstjenester og udstedere af elektroniske penge* er omfattet af lovens anvendelsesområde, jf. § 1, stk. 1, nr. 6. Udøvelse af denne type virksomhed kræver tilladelse i henhold til betalingslovens § 9.  
 
 En betalingstjeneste er f.eks. en tjeneste, der muliggør, at kontantbeløb placeres på en betalingskonto, og alle transaktioner, der er nødvendige for drift af en betalingskonto. 
+
 ---
 
 *Pengeoverførselsvirksomhed er også en betalingstjeneste*. 
@@ -590,8 +591,6 @@ Enkeltstående udbud af de omhandlede tjenesteydelser, som ikke kan karakteriser
 
 ---
 
-
-
 Efter hvidvasklovens § 1, stk. 1, nr. 19, at *valutavekslingsvirksomhed* er omfattet af lovens anvendelsesområde. 
 
 
@@ -603,13 +602,121 @@ Valutavekslingsvirksomheder er forpligtet til at lade sig registrere hos Erhverv
 
 Valutaveksling dækker enhver form for veksling af valuta, hvor valutavekslingen udøves erhvervsmæssigt. 
 
-De almindelige tilfælde, hvor en butik modtager betaling i fremmed valuta og giver tilbage idanske kroner, er derfor ikke omfattet. 
+---
+
+![](img/hasle.jpg)
+
+**Se Finanstilsynets redegørelse af 9. september 2019 om inspektion i Unitravel/Hasle Exchange v/ Muna Al-Mansouri (hvidvaskområdet)**
+
+"Finanstilsynet var i marts 2019 på inspektion i Unitravel/Hasle Exchange v/ Muna Al-Mansouri. 
+
+Inspektionen var en undersøgelse af hvidvaskområdet som led i det løbende tilsyn med virksomheden. 
+
+Inspektionen omfattede bl.a. virksomhedens overholdelse af reglerne om kundekendskab, overvågning, undersøgelse, underretning og notering.
+
+*Risikovurdering og sammenfatning*
+
+Virksomheden har tilladelse til valutaveksling i medfør af § 41 i hvidvaskloven.
+
+Virksomheden tilbyder valutaveksling til private kunder og virksomhedskunder. 
+
+Herudover er virksomheden pengeoverførselsagent for MoneyGram International Limited.
+
+Virksomheden modtager kun kontante midler, idet virksomheden ikke har en bankkonto. 
+
+Virksomhedens forretningsmodel, for den del af virksomheden som knytter sig til valutaveksling, består hovedsageligt af valutaveksling for private kunder. 
+
+Virksomhedens private kunder består primært af faste lokale, som veksler til f.eks. ferieformål, samt udenlandske studerende.
+
+Finanstilsynet vurderer, at virksomhedens iboende risiko for at blive misbrugt til hvidvask eller finansiering af terrorisme er høj vurderet i forhold til gennemsnittet af finansielle virksomheder i Danmark. 
+
+Finanstilsynets vurdering har baggrund i, at virksomheden kun modtager kontante midler, samt vurderingen af den iboende risiko for hvidvask og terrorfinansiering, som er forbundet med valutavekslingsvirksomhed.
+
+På baggrund af inspektionen er der nogle områder, som giver anledning til tilsynsmæssige reaktioner.
+
+Virksomheden får påbud om at sikre, at der for juridiske personer indhentes oplysninger om cvr-nummer og reelle ejere, at der gennemføres rimelige foranstaltninger for at klarlægge den juridiske persons ejer- og kontrolstruktur, og at dette kan godtgøres overfor Finanstilsynet.
+
+Endelig får virksomheden påbud om at sikre, at undersøgelser af usædvanlige transaktioner noteres og dokumenteres".
+
+---
+
+![](img/mer.jpg)
+
+**Se Finanstilsynets redegørelse af 11. juli 2019 om inspektion i Merex International A/S (hvidvaskområdet)**
+
+"Finanstilsynet var i november 2018 på inspektion i Merex International A/S. 
+
+Inspektionen var en undersøgelse af hvidvaskområdet som led i det løbende tilsyn med virksomheden. 
+
+Inspektionen omfattede virksomhedens overholdelse af hvidvasklovens regler om kundekendskabsprocedurer samt undersøgelses-, noterings- og underretningspligt.
+
+*Risikovurdering og sammenfatning*
+
+Virksomheden har tilladelse til valutaveksling i medfør af § 41 i hvidvaskloven. Virksomheden tilbyder valutaveksling til private kunder og virksomhedskunder. 
+
+Herudover har virksomheden en begrænset tilladelse til at udbyde betalingstjenester (pengeoverførselsvirksomhed) i medfør af § 37, stk. 1, nr. 2, i lov nr. 652 af 8. juni 2017 om betalinger, ligesom virksomheden er pengeoverførselsagent for Western Union.
+
+I virksomheden er foruden ejeren selv beskæftiget to personer på fuldtid og to på deltid. Virksomheden modtager både kontante midler og kortbetaling.
+
+Finanstilsynet vurderer, at virksomhedens iboende risiko for at blive misbrugt til hvidvask eller finansiering af terrorisme er høj. 
+
+Finanstilsynets vurdering har baggrund i vurderingen af den iboende risiko, som er forbundet med valutavekslingsvirksomhed.
+
+På baggrund af inspektionen er der en række områder, som giver anledning til tilsynsmæssige reaktioner.
+
+Virksomheden får påbud om at sikre, at der i alle tilfælde, hvor der indgås en forretningsforbindelse, indhentes og angives tilstrækkelige oplysninger om kundeforholdets formål og tilsigtede beskaffenhed, og at virksomheden forholder sig til oplysningerne.
+
+Virksomheden får påbud om at sikre, at alle etablerede forretningsforbindelser overvåges.
+
+Virksomheden får et påbud om at sikre, at der udføres tilstrækkelige kundekendskabsprocedurer for alle kunder, og at dette kan godtgøres overfor Finanstilsynet.  
+
+Herudover får virksomheden påbud om at sikre, at undersøgelser af usædvanlige transaktioner noteres og kan dokumenteres.
+
+Endelig får virksomheden påbud om at underrette Hvidvasksekretariatet i Statsadvokaten for Særlig Økonomisk og International Kriminalitet (SØIK) om alle komplekse og usædvanligt store transaktioner samt alle usædvanlige transaktionsmønstre og aktiviteter, hvor mistanke om hvidvask og terrorfinansiering ikke kan afkræftes".
+
+
+---
+
+De almindelige tilfælde, hvor en butik modtager betaling i fremmed valuta og giver tilbage i danske kroner, er ikke omfattet af hvidvasklovens regler. 
 
 Det er dog ikke et krav, at valutaveksling er hovedaktiviteten.
 
-Efter lovens § 1, stk. 1, nr. 20, er udbydere af spil er omfattet af hvidvasklovens anvendelsesområde. 
+---
+
+![](img/dfds1.jpg)
+
+**Se Finanstilsynets redegørelse om inspektion i DFDS A/S (hvidvaskområdet) af 16. september 2019:**
+
+"Finanstilsynet var i marts 2019 på inspektion i DFDS A/S. Inspektionen var en undersøgelse af hvidvaskområdet som led i det løbende tilsyn med virksomheden. Inspektionen omfattede bl.a. virksomhedens overholdelse af reglerne om kundekendskab, overvågning, undersøgelse, underretning og notering.
+
+*Risikovurdering og sammenfatning*
+Virksomheden har tilladelse til valutaveksling i medfør af § 41 i hvidvaskloven.
+
+Virksomheden tilbyder valutaveksling til passagerer (private kunder) og til skibsbesætning (ansatte).
+
+Virksomheden udbyder valutavekslingsvirksomhed i Danmark fra de to skibe ”Crown Seaways” og ”Pearl Seaways”, der sejler på ruten mellem København og Oslo. Virksomheden modtager både kontante midler og kortbetaling. Virksomhedens private kunder består hovedsageligt af turister, som veksler til ferieformål i forbindelse med deres ophold på skibene.
+
+Finanstilsynet vurderer, at virksomhedens iboende risiko for at blive misbrugt til hvidvask eller finansiering af terrorisme er normal til høj vurderet i forhold til gennemsnittet af finansielle virksomheder i Danmark. I vurderingen har Finanstilsynet særligt lagt vægt på, at valutavekslingsvirksomhed generelt anses for at have en høj iboende risiko for at blive udnyttet til hvidvask eller terrorfinansiering.
+
+Omvendt er der i vurderingen også lagt vægt på, at valutavekslingsvirksomheden udøves under særlige forhold, herunder de yderligere sikkerhedsforanstaltninger som følge af, at virksomheden udøves ombord på et skib. 
+
+Heri ligger bl.a., at alle kunder skal købe billet og legitimere sig, inden de går ombord på skibene, samt at DFDS skal aflevere passagerlister til told- og politimyndigheder i henhold til anden lovgivning.
+
+På baggrund af inspektionen er der nogle områder, som giver anledning til tilsynsmæssige reaktioner.
+
+Virksomheden får påbud om at sikre, at virksomheden opbevarer identitets- og kontroloplysninger og kopi af foreviste legitimationsdokumenter vedrørende valutavekslinger foretaget på skibet ”Pearl Seaways”.
+
+Virksomheden får påbud om at have procedurer til at afgøre, om kunder er politisk eksponerede personer (PEP) eller nærtstående eller nære samarbejdspartnere til en politisk eksponeret person.
+
+Virksomheden får påbud om at sikre, at virksomhedens kunder ikke står opført i EU-forordninger, der indeholder finansielle sanktioner.
+
+Endelig får virksomheden en påtale for ikke at have opbevaret foreviste legitimationsdokumenter fra vekslinger på skibene før marts 2018".
 
 ---
+
+Efter lovens § 1, stk. 1, nr. 20, er udbydere af spil er omfattet af hvidvasklovens anvendelsesområde. 
+
+
 
 <img src="img/Hvidvask 5.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
@@ -976,9 +1083,37 @@ Risikovurderingen kræver derfor en tilstrækkelig grundig analyse af forretning
 
 Virksomheden kan lægge sin egen viden og erfaring fra indsamlede data, kundekendskab, efterspurgte produkter mv. til grund som en del af dokumentationen for den overordnede vurdering. 
 
+---
+
 ![](img/eba.jpg)
 
-Endvidere skal dokumentationen for risikovurderingen tage udgangspunkt i virksomhedens overvejelser og beslutninger på baggrund af den supranationale og nationale risikovurdering og/eller i andre relevante former for dokumentation på området f.eks. information udsendt af FATF (Financial Action Task Force), Den Europæiske Banktilsynsmyndighed (EBA;The *European Banking Authority*) og brancheorganisationer f.eks. FinansDanmark, landerapporter om f.eks. korruption, informationer fra troværdige offentlige eller kommercielle kilder og Finanstilsynets praksis vedrørende reglerne om risikovurdering og risikostyring på hvidvaskområdet. 
+
+---
+
+Endvidere skal dokumentationen for risikovurderingen tage udgangspunkt i virksomhedens overvejelser og beslutninger på baggrund af den supranationale og nationale risikovurdering og/eller i andre relevante former for dokumentation på området f.eks. information udsendt af FATF (Financial Action Task Force), Den Europæiske Banktilsynsmyndighed (EBA;The *European Banking Authority*) og brancheorganisationer f.eks. FinansDanmark, landerapporter om f.eks. korruption, informationer fra troværdige offentlige eller kommercielle kilder og Finanstilsynets praksis vedrørende reglerne om risikovurdering og risikostyring på hvidvaskområdet.
+
+![](img/fatf.jpg)
+
+Nye FATF-vejledning om risikobaseret tilgang til bekæmpelse af hvidvask og terrorfinansiering vedrørende virtuelle valutaer.
+
+Se link:
+
+http://www.fatf-gafi.org/media/fatf/documents/recommendations/RBA-VA-VASPs.pdf
+
+Den 10. januar 2020 vil udbydere af veksling mellem virtuelle valutaer og fiatvalutaer samt udbydere af virtuelle tegnebøger blive omfattet af hvidvaskloven og dermed komme under Finanstilsynets tilsynsvirksomhed. 
+
+Financial Action Task Force (FATF) har udarbejdet en ny vejledning til udbydere af veksling af virtuelle valutaer og udbydere af virtuelle tegnebøger om den risikobaserede tilgang til bekæmpelse af hvidvask og terrorfinansiering. 
+
+Den risikobaserede tilgang (RBA, Risk Based Approach) er en central del af både de internationale standarder på området og hvidvaskloven. 
+
+Den risikobaserede tilgang betyder, at udbydere af veksling mellem virtuelle valutaer og fiatvalutaer samt udbydere af virtuelle tegnebøger skal vurdere og forstå risikoen for at blive misbrugt til hvidvask eller terrorfinansiering.
+
+Har man styr på sin risikovurdering, kan man bruge sine ressourcer på forebyggelse, hvor risikoen er størst. 
+
+Selvom man som udbyder af veksling mellem virtuelle valutaer og fiatvalutaer, eller som udbyder af virtuelle tegnebøger, først vil blive omfattet af hvidvaskloven den 10. januar 2020, er det en god idé allerede nu at indarbejde den risikobaserede tilgang til bekæmpelse af hvidvask og terrorfinansiering i sin risikovurdering.
+
+---
+
 
 Virksomheden kan få inspiration til relevant materiale på Finanstilsynets hjemmeside. 
 
@@ -1225,6 +1360,7 @@ Om der i relation til kunder sendes penge til lande, hvor det vides at være ter
 Om virksomheden har udenlandsk politisk eksponerede personer som kunder, og hvorledes disses geografisk tilknytning kan vurderes at være tegn på en øget risiko for hvidvask og finansiering af terrorisme 
 
 Om virksomheden har kunder, der fremgår af EU's sanktionslister. 
+
 ---
 
 Når virksomheden skal vurdere landets regler og tilsynsmyndigheders effektivitet, kan virksomheden bl.a. anvende FATF’s rapporter, sorte og grå lister, rapporter udarbejdet af bl.a. FSRB og OECD, Transparency Internationals korruptionsliste m.fl.
@@ -1280,6 +1416,40 @@ Hvis hensigten med at lease en bil er at transportere den til en konfliktzone, v
 En indikator for denne kundetype kan f.eks. være personer, der går efter en bestemt type bil til brug i konfliktområder, som beskrevet ovenfor, og/eller ikke tidligere har ejet en bil. 
 
 En faktor, der kan indikere en begrænset risiko ved leasing af produkter/tjenesteydelser, er, hvis der er tale om et produkt med lav værdi. 
+
+---
+
+![](img/nelle.jpg)
+
+![](img/nelle1.jpg)
+
+**Se Finanstilsynets redegørelse af 10. september 2019 om inspektion i Nellemann Leasing A/S (hvidvaskområdet)'**
+
+"Finanstilsynet var i april 2019 på inspektion i Nellemann Leasing A/S. Inspektionen var en undersøgelse af hvidvaskområdet som led i det løbende tilsyn med virksomheden. 
+
+Inspektionen omfattede bl.a. virksomhedens risikovurdering, politikker, procedurer og interne kontroller samt kundekendskabsprocedurer, herunder overvågning af kunder.
+
+*Risikovurdering og sammenfatning*
+
+Virksomheden er registreret efter § 48, stk. 1, i hvidvaskloven, idet virksomhedenerhvervsmæssigt udbyder finansiel leasing. 
+
+Virksomheden tilbyder forskellige finansielle leasingprodukter (af dyre biler) til privat- og erhvervskunder, herunder flexleasing, privatleasing, erhvervsleasing, split-leasing og sæsonleasing. 
+
+Virksomheden er en del af Nellemann-koncernen. Virksomheden betjener kun kunder bosiddende i Danmark og modtager ikke kontantbetalinger. 
+
+Finanstilsynet vurderer, at virksomhedens iboende risiko for at blive misbrugt til hvidvask eller finansiering af terrorisme er normal til høj vurderet i forhold til gennemsnittet af finansielle virksomheder i Danmark. 
+
+I vurderingen er der særligt lagt vægt på, at leasingvirksomhed generelt anses for at have en øget iboende risiko for at blive udnyttet til terrorfinansiering. 
+
+Omvendt tager virksomheden ikke imod kontantbetalinger, ligesom virksomhedens kunder primært består af kunder bosat i Danmark, som er fysisk til stede hos virksomheden ved etableringen af kundeforholdet.
+
+På baggrund af inspektionen er der nogle områder, som giver anledning til tilsynsmæssige reaktioner.
+
+Virksomheden får påbud om at udføre interne kontroller af, om virksomheden overholder hvidvasklovens krav.
+
+Virksomheden får en påtale for ikke formelt at have udpeget en hvidvaskansvarlig før april 2019.
+
+Endelig får virksomheden en påtale for ikke at have undersøgt, om virksomhedens kunder står opført i EU-forordninger, der indeholder finansielle sanktioner, før marts 2019".
 
 ---
 
@@ -2402,7 +2572,7 @@ Anden lovgivning:
 
 ---
 
-**Video:Robotter som overvåger og misbruger betalingskort, sporeringer af penge og digital valuta mod hvidvask**
+**Video: Robotter som overvåger og misbruger betalingskort, sporeringer af penge og digital valuta mod hvidvask**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/7Td10SE8O_U" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -3315,7 +3485,35 @@ Indgåelse af en korrespondentforbindelse med en respondent, der er del af Den E
 
 Virksomheden skal ved etablering af en korrespondentforbindelse, hvor respondenten er beliggende i EU eller EØS, gennemføre almindelige kundekendskabsprocedurer, herunder foretage en risikovurdering af den konkrete forretningsforbindelse med respondenten mv. 
 
-En korrespondentforbindelse, der indgås med en respondent i EU/EØS kan derfor f.eks. konkret vurderes at være høj risiko, og i sådan tilfælde skal virksomheden gennemfører skærpede kundekendskabsprocedurer. 
+En korrespondentforbindelse, der indgås med en respondent i EU/EØS kan derfor f.eks. konkret vurderes at være høj risiko, og i sådan tilfælde skal virksomheden gennemfører skærpede kundekendskabsprocedurer.
+
+---
+
+![](img/spare.png)
+
+
+**Se Finanstilsynets redegørelse om inspektion i Sparekassen Kronjylland (hvidvaskområdet) af 19. september 2019:**
+
+Finanstilsynet var i juni 2018 på inspektion i Sparekassen Kronjylland. Inspektionen var en undersøgelse af hvidvaskområdet som led i det løbende tilsyn med sparekassen. Inspektionen omfattede bl.a. sparekassens risikovurdering, risikostyring, sparekassens politikker og procedurer på hvidvaskområdet, sparekassens kundekendskab, sparekassens håndtering af korrespondentbanker og sparekassens interne kontroller.
+
+*Risikovurdering og sammenfatning*
+
+Sparekassen Kronjylland er et mellemstort pengeinstitut, hvis primære markedsområde er Øst- og Midtjylland. Sparekassen har fokus på private kunder samt mindre og mellemstore erhvervskunder.
+
+Finanstilsynet vurderer, at sparekassens iboende risiko for at blive misbrugt til hvidvask eller finansiering af terrorisme er normal til høj i forhold til gennemsnittet af finansielle virksomheder i Danmark. I vurderingen er der særligt lagt vægt på, at sparekassen har et antal udenlandske korrespondentforbindelser udenfor EU/EØS.
+
+Sparekassen fik påbud om at sikre, at hvidvaskpolitikken afgrænser sparekassens risici på hvidvaskområdet og at sikre, at politikken er indrettet på en sådan måde, at den kan danne baggrund for en rapportering.
+
+Derudover fik sparekassen påbud om at sikre, at sparekassen i forbindelse med etablering af en korrespondentforbindelse uden for EU/EØS vurderer de oplysninger, som indhentes som led i kundekendskabsproceduren. Vurderingen skal tydeliggøre de risikoelementer, som er forbundet med etableringen af den konkrete korrespondentforbindelse. 
+
+I de tilfælde, hvor sparekassen vurderer, at der gælder skærpede krav til kundekendskabsproceduren i forbindelse med etablering af korrespondentforbindelse indenfor EU/EØS, skal
+sparekassen ligeledes vurdere de indhentede oplysninger og i vurderingen tydeliggøre de risikoelementer, som er forbundet med etableringen.
+
+Sparekassen fik også påbud om at sikre, at forretningsgangene på korrespon-dentforbindelser bliver udbygget således, at det angives hvilke elementer, der skal inddrages i vurderingen af det kundekendskabsmateriale, som indhentes forud for etableringen og i den løbende overvågning.
+
+Endvidere fik sparekassen påbud om at udarbejde fyldestgørende procedurer for gennemførelsen af interne kontroller på hvidvaskområdet.
+
+Endelig fik sparekassen en påtale for, at sparekassens interne revision ikke havde gennemført revision af risikostyringen på hvidvask- og terrorfinansie-rings-området. Finanstilsynet konstaterede imidlertid ved inspektionen, at den interne revision havde planlagt revision af hvidvask- og terrorfinansieringsområdet i løbet af 2018.
 
 ---
 
