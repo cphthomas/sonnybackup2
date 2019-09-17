@@ -1,7 +1,7 @@
 # <font color="red">Forsikringer<sup> Premium </font></sup>
 
 ```{r, echo=FALSE, results='asis'}
-#cat(readLines('npp.html'))
+cat(readLines('npp.html'))
 ```
 
 ## <font color="red">Rettigheder og forpligtelser i forsikringsretten<sup> Premium </font></sup>
@@ -2259,20 +2259,15 @@ Reglerne er følgende:
 
 *	Man skal være registreret som samlevere hos ATP
 
-*	Man skal have boet sammen på fælles folkeregisteradresse i mindst 
-  2 år forud for dødsfaldet
+*	Man skal have boet sammen på fælles folkeregisteradresse i mindst 2 år forud for dødsfaldet
   
-*	Man skal kunne have indgået ægteskab med hinanden de seneste 2 år 
-  forud for dødsfaldet
+*	Man skal kunne have indgået ægteskab med hinanden de seneste 2 år forud for dødsfaldet
   
-*	Den afdøde har været med i ATP Livslang Pension i mindst to år 
-  efter 1. januar 2002
+*	Den afdøde har været med i ATP Livslang Pension i mindst to år efter 1. januar 2002
   
-*	Den afdøde har indbetalt siden 1. januar 2002, hvad der svarer til   mindst to års fulde indbetalinger til ATP livslang Pension 
+*	Den afdøde har indbetalt siden 1. januar 2002, hvad der svarer til mindst to års fulde indbetalinger til ATP livslang Pension 
 
-*	Har man en samlever, som man ønsker, skal have en sum penge fra 
-  ATP, hvis man dør inden en vis alder, så registrer jer nu. Flytter   man fra hinanden, bortfalder samlevers ret til   
-  engangsudbetalingen.
+*	Har man en samlever, som man ønsker, skal have en sum penge fra ATP, hvis man dør inden en vis alder, så registrer jer nu. Flytter  man fra hinanden, bortfalder samlevers ret til engangsudbetalingen.
   
 
 ---
@@ -2291,7 +2286,38 @@ beregningstekniske antagelser om forrentning, risiko og omkostninger, og at G82 
 
 ---
 
-##  Forsikringsformidling
+## <font color="red">forsikringsformidling<sup> Premium </font></sup> 
+
+Lov 2018-01-22 nr. 41 om forsikringsformidling gennemfører dele af den politiske aftale om styrket indsats mod hvidvask m.v. i den finansielle sektor af 2017–06–21, som har til formål at styrke de finansielle virksomheders fokus på efterlevelsen af reglerne på hvidvaskområdet. 
+
+Loven skærper derved ansvaret over for ledelserne, bl.a. ved at stille krav til den hvidvaskansvarliges omdømme og adfærd og ved at give Finanstilsynet bedre mulighed for at gribe ind over for ledelsesmedlemmer og hvidvaskansvarlige, der ikke lever op til deres ansvar. 
+
+Loven indebærer desuden, at Finanstilsynet ved særligt grove overtrædelser af hvidvaskreglerne får mulighed for at inddrage en virksomheds tilladelse.
+
+Den nye regulering vil have betydning for alle forsikringsmæglere, -agenter, -underagenter mv., der efter den nye lov om forsikringsformidling skal have tilladelse som enten forsikringsformidler eller registreres som accessorisk forsikringsformidler. Disse aktører skal, hvis de er omfattet af de nye regler, søge om nye tilladelser eller registreres på ny i Finanstilsynets register.
+
+Loven har til formål at gennemføre dele af EP/Rdir 2016/97 om forsikringsdistribution (herefter betegnet forsikringsdistributionsdirektivet (IDD)) i dansk ret. Forsikringsdistributionsdirektivet er et minimumsdirektiv og er dermed ikke til hinder for, at medlemslandene kan indføre strengere regler for at beskytte forsikringskunderne yderligere.
+
+Loven erstatter den tidligere lov om forsikringsformidling L 2013 1065 og sikrer en øget forbrugerbeskyttelse på området inden for distribution af forsikringer. 
+
+Ved loven sikres forbrugerne den samme beskyttelse, uanset om de køber deres forsikringer direkte fra forsikringsselskabet, fra en agent eller fra en virksomhed, der formidler forsikringer.
+
+Loven indebærer, at flere distributører af forsikringer skal have tilladelse og være underlagt tilsyn af Finanstilsynet, og at alle led i distributionen af en forsikring skal efterleve de samme regler. 
+
+Der vil desuden blive stillet større krav til de enkelte aktører i form af oplysningsforpligtelser, god skik regler, aflønningsregler og kompetencekrav.
+
+
+---
+
+*Administrative forskrifter:*
+
+Bkg 2018 363 om kompetencekrav og krav til godt omdømme for ansatte i forsikringsselskaber, genforsikringsselskaber og ansatte hos en forsikringsformidler og en genforsikringsformidler.
+
+Bkg 2018 481 om forsikringsformidlere, genforsikringsformidlere og accessoriske forsikringsformidleres ansvarsforsikring, garantistillelse og behandling af betroede midler.
+
+Bkg 2018 455 om god skik for forsikringsdistributører.
+
+---
 
 
 
@@ -2317,11 +2343,5 @@ beregningstekniske antagelser om forrentning, risiko og omkostninger, og at G82 
 
 
 
-
-
-<!-- # Lejeret<sup><font color="red"> Premium </font></sup> -->
-<!-- # De finansielle tvistløsningsorganer<sup><font color="red"> Premium </font></sup> -->
-<!-- # Hvordan man skriver en god eksamensopgave -->
-<!-- # Eksamensopgaver -->
 
 
