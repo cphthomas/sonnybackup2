@@ -1,10 +1,10 @@
-# Lovsamling (Retsinformation)
+# Lovsamling 
 
 ```{r, echo=FALSE, results='asis'}
 cat(readLines('np.html'))
 ```
 
-**(Der kan også henvises til Karnovs Lovsamling)**
+
 
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=177079" target="_blank">Aftaleloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=2664" target="_blank">Arveloven</a></h3>

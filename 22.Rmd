@@ -24,9 +24,21 @@ Finanstilsynet kan endvidere tage sager op efter anmodning fra Forbrugerombudsma
 <img src="img/FO.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
-Finanstilsynet modtager tillige henvendelser direkte fra forbrugere, der imidlertid normalt henvises til bl.a. de private godkendte finansielle ankenævn (tvistløsningsorganger), såsom Det Finansielle Ankenævn og Forsikringsankenævnet, hvis klagen også vedrører civilretlige spørgsmål om erstatning eller tilbagebetaling af uretmæssigt opkrævede beløb. Erhvervsdrivende henvises til domstolene, da de ikke har selvstændig klageadgang til de private godkendte forbrugerklagesystem.^[Det skaber en retssikkerhedsmæssig processuel ubalance i klagesystemet mellem forbrugere og erhvervsdrivende, jf. nærmere *Sonny Kristoffersens* Ph.D. afhandling: Det offentligretlige forbrugerklagesystem i et retssikkerhedsmæssigt perspektiv, 2019, Samfundslitteratur.]   
+Finanstilsynet modtager tillige henvendelser direkte fra forbrugere, der imidlertid normalt henvises til bl.a. de private godkendte finansielle ankenævn (tvistløsningsorganger), såsom Det Finansielle Ankenævn og Forsikringsankenævnet, hvis klagen også vedrører civilretlige spørgsmål om erstatning eller tilbagebetaling af uretmæssigt opkrævede beløb. 
+
+Erhvervsdrivende henvises til domstolene, da de ikke har selvstændig klageadgang til de private godkendte forbrugerklagesystem.^[Det skaber en retssikkerhedsmæssig processuel ubalance i klagesystemet mellem forbrugere og erhvervsdrivende, jf. nærmere *Sonny Kristoffersens* Ph.D. afhandling: Det offentligretlige forbrugerklagesystem i et retssikkerhedsmæssigt perspektiv, 2019, Samfundslitteratur.]   
 
 Finanstilsynet træffer en traditionel forvaltningsretlig afgørelse med mulighed for administrativ rekurs, og Finanstilsynet har ikke en direkte søgsmålskompetence til domstolene. 
+
+---
+
+**Video: Rundvisning i Finanstilsynet**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/F0yv4eVfaxg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+
+---
 
 Såfremt en sag om god skik har vidtrækkende eller principiel betydning, skal Finanstilsynet forelægge sagen for Tilsynets bestyrelse, jf. Lov om finansiel virksomhed § 345, stk. 7, nr. 4.  
 
@@ -2529,6 +2541,14 @@ Regeringens muligheder for at lave en mere liberal lovgivning for fintech-virkso
 Meget af den finansielle lovgivning er netop baseret på EU retsakter, som Danmark er forpligtede til at overholde. 
 
 Regeringen vil derfor ikke kunne lave en mere lempelig finansiel lovgivning alene for fintech-virksomheder uden at krænke EU-retten.
+
+---
+
+**Video: FT Lab åbner**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/WHsjqJ6uJgE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
 
 ---
 
