@@ -33,6 +33,8 @@ cat(readLines('fp.html'))
 <br><br>
 
 
+
+
 >Erhvervs- og finansjura rummer rigtig mange gode ting, bl.a. de quizzer der er ved de fleste emner, det gør det muligt at lave et hurtigt brush up.<br><br> 
 Derudover er den nem at navigere i, da menuen i siden gør det nemt at komme til og fra de forskellige emner. Den er skrevet i et sprog som er nemt at forstå, og der er gode eksempler.<br><br>
 
