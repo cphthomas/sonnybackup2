@@ -2,7 +2,7 @@
 
 ```{r, echo=FALSE, results='asis'}
 
-# cat(readLines('npp.html'))
+cat(readLines('npp.html'))
 
 ```
 
@@ -24,21 +24,41 @@ Forsikringen kan tegnes for forsikringstagerens eller tredjemands interesse.
 
 ---
 
-Der skal således være tale om en *"lovlig interesse"*, der kan forsikres. 
+*Hvad er forskellen på Livsforsikring vs Skadesforsikring?*
 
-Justitsministeriel har i en skrivelse fra 1972 som refereret i Dansk Forsikringstidende nr. 21 af 17. juli 1972, bemærket følgende: "at den interesse, der består i at undgå de strafferetlige følger af et retsbrud, må anses for en ulovlig interesse. Forsikring kan således ikke tegnes mod faren for at blive idømt bødestraf eller konfiskation. På samme måde vil interessen i at opnå økonomisk udbytte af en strafbar handling som udgangspunkt ikke kunne anses som en lovlig interesse. Endvidere kan forsikring af en interesse være udelukket ved lov". Dvs., at fx kan et forsikringselskab ikke tilbyde forsikringer mod fartbøder.
+Livsforsikring sikrer én eller ens families indtægter hvis én person skulle afgå ved døden. Det garanterer altså ikke at du lever for altid - men den kan resultere i en økonomisk udbetaling til din familie og de efterladte, hvis du dør for tidligt.
+
+Størrelsen af beløbet fastsættes sammen med din rådgiver. Pension hører ligeledes under den samme kategori - f.eks. er livrenter et godt eksempel på dette. Lever du længere er du sikret en fast indtægt. Dør du derimod tidligt, så er det forsikringsselskabet/pensionsselskabet der tjener på det.
+
+De fleste kendte forsikringsselskaber tilbyder dog også livsforsikring. Denne forsikring henvender sig til dig som ønsker at forsikre dig f.eks. imod en eventuel død. Så hvis situationen er, at din familie er afhængig af din indkomst, og du vil sikre din familie såfremt du går bort, eller bliver uarbejdsdygtig. Fastsættelse af præmierne består af flere elementer, dels summen du ønsker at bliver forsikret for, men ligeledes om dine helbredsoplysninger.
 
 ---
 
-Forsikringselskaberne skal ikke dække på en skadesforsikring, hvis skaden er sket i forbindelse med begået ulovligheder:
+Der skal således være tale om en *"lovlig interesse"*, der kan forsikres. 
+
+Justitsministeriel har i en skrivelse fra 1972 som refereret i Dansk Forsikringstidende nr. 21 af 17. juli 1972, bemærket følgende: "at den interesse, der består i at undgå de strafferetlige følger af et retsbrud, må anses for en ulovlig interesse. Forsikring kan således ikke tegnes mod faren for at blive idømt bødestraf eller konfiskation. På samme måde vil interessen i at opnå økonomisk udbytte af en strafbar handling som udgangspunkt ikke kunne anses som en lovlig interesse. Endvidere kan forsikring af en interesse være udelukket ved lov". 
+
+
+Et forsikringselskab kan derfor ikke tilbyde forsikringer mod fartbøder, det vil ikke være en lovlig interesse.
+
+---
+
+Forsikringselskaberne skal ikke dække på en skadesforsikring, hvis skaden er sket i forbindelse med begået ulovligheder.
+
+![](img/haler.jpg)
 
 Forsikringsankenævnet har tilsyneladende strammet sin praksis, hvis det er overvejende sandsynlgt, at en stjålen genstand er hælervare:
 
-**Forsikringsankenævnskendelse sagsnr.: 86.533:** Klagerens datter havde købt en helt ny computer via den blå avis. Computeren var købt på en finasieringsaftale med et kreditkort, der var stjålet. Ved købet fik hun udleveret fakturaen, hvor hun kunne se, at hendes sælger ikke var den person, der havde købt computeren. Hun betalte en betydelig lavere pris for computeren end den kostede i forretningen. Efter nævnets opfattelse burde klagerens datter have indset, at sælger ikke var kommet i besiddelse af computeren på lovlig vis. At der ikke blev rejst tiltale mod datteren for hæleri, kunne ikke føre til andet resultat.
+Se **Forsikringsankenævnskendelse sagsnr.: 86.533.** Klagerens datter havde købt en helt ny computer via den blå avis: 
+"Computeren var købt på en finasieringsaftale med et kreditkort, der var stjålet. Ved købet fik hun udleveret fakturaen, hvor hun kunne se, at hendes sælger ikke var den person, der havde købt computeren. Hun betalte en betydelig lavere pris for computeren end den kostede i forretningen. Efter nævnets opfattelse burde klagerens datter have indset, at sælger ikke var kommet i besiddelse af computeren på lovlig vis. At der ikke blev rejst tiltale mod datteren for hæleri, kunne ikke føre til andet resultat".
 
 ---
 
-**Forsikringsankenævnskendelse sagsnr.: 89.051:** I dette tilfælde oplyste klageren, at han havde købt en kongekæde af nogle rockere. Han ville ikke oplyse nærmere om sælgernesidenditet. Han vidste heller ikke, hvor rockerne havde kæden fra. Kongekæden til en værdi af 180.000 kr. var nu stjålet. Nævnet fandt ikke anledning til at kritisere, at selskabet havde afvist dækning med henvisning til FAL § 35.
+![](img/konge.jpg)
+
+
+
+**Forsikringsankenævnskendelse sagsnr.: 89.051.** I dette tilfælde oplyste klageren, at han havde købt en kongekæde af nogle rockere. Han ville ikke oplyse nærmere om sælgernesidenditet. Han vidste heller ikke, hvor rockerne havde kæden fra. Kongekæden til en værdi af 180.000 kr. var nu stjålet. Nævnet fandt ikke anledning til at kritisere, at selskabet havde afvist dækning med henvisning til FAL § 35.
 
 ---
 
@@ -115,6 +135,8 @@ Skadesforsikring er for eksempel er således bygningsforsikring, løsøreforsikr
 Det fremgår således bl.a. af bilag 7 til Lov om finansiel virksomhed, at skadesforsikring også omfatter assistance, defineret som assistance til personer, der kommer i vanskeligheder under befordring eller under fravær fra bopælen eller det faste opholdssted (forsikringsklasse 18). 
 
 Dette omfatter fx aftaler vedrørende vejhjælp, hjemtransport eller anden assistance, fx i medfør af en rejseforsikring, eller lignende ydelser, der falder ind under denne definition.
+
+---
 
 Efter reglerne på forsikringsområdet skelnes der mellem skadesforsikring og livsforsikring. Livsforsikringer er ikke skadesforsikringer, men en *summaforsikring*, som er en, fællesbetegnelse for livs- og ulykkesforsikringer, der er karakteriseret ved, at forsikringsselskabet skal udbetale den aftalte forsikringssum ved forsikringsbegivenhedens indtræden, uanset om der kan påvises et økonomisk tab.
 
