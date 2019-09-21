@@ -24,22 +24,45 @@ Forsikringen kan tegnes for forsikringstagerens eller tredjemands interesse.
 
 ---
 
-*Hvad er forskellen på Livsforsikring vs Skadesforsikring?*
+*Hvad er forskellen på Skadesforsikring vs. Livsforsikring?*
 
-Livsforsikring sikrer én eller ens families indtægter hvis én person skulle afgå ved døden. Det garanterer altså ikke at du lever for altid - men den kan resultere i en økonomisk udbetaling til din familie og de efterladte, hvis du dør for tidligt.
 
-Størrelsen af beløbet fastsættes sammen med din rådgiver. Pension hører ligeledes under den samme kategori - f.eks. er livrenter et godt eksempel på dette. Lever du længere er du sikret en fast indtægt. Dør du derimod tidligt, så er det forsikringsselskabet/pensionsselskabet der tjener på det.
+Ordet skadeforsikring - dækker over forsikring af skader på ejendele eller personer.
 
-De fleste kendte forsikringsselskaber tilbyder dog også livsforsikring. Denne forsikring henvender sig til dig som ønsker at forsikre dig f.eks. imod en eventuel død. Så hvis situationen er, at din familie er afhængig af din indkomst, og du vil sikre din familie såfremt du går bort, eller bliver uarbejdsdygtig. Fastsættelse af præmierne består af flere elementer, dels summen du ønsker at bliver forsikret for, men ligeledes om dine helbredsoplysninger.
+Det dækker over traditionelle forsikringer, som f.eks.
+
+Bilforsikring
+
+Familie- og Indboforsikring
+
+Husforsikring
+
+Derudover dækker ordet også over sundheds- og ulykkesforsikringer hvor man kan komme til at gøre skade på sig selv eller andre (ansvarsforsikringer).
 
 ---
 
-Der skal således være tale om en *"lovlig interesse"*, der kan forsikres. 
+*"Væddemålet med forsikringsselskabet"*
+
+![](img/djav.jpg)
+
+Livsforsikring sikrer én eller ens families indtægter hvis én person skulle afgå ved døden. 
+
+Det garanterer altså ikke, at man lever for altid - men den kan resultere i en økonomisk udbetaling til ens familie og de efterladte, hvis man dør for tidligt.
+
+Størrelsen af beløbet fastsættes sammen med ens rådgiver. Pension hører ligeledes under den samme kategori - f.eks. er livrenter et godt eksempel på dette. Lever man længere er man sikret en fast indtægt. Dør man derimod tidligt, så er det forsikringsselskabet/pensionsselskabet der tjener på det.
+
+De fleste kendte forsikringsselskaber tilbyder dog også livsforsikring. Denne forsikring henvender sig til den som ønsker at forsikre sig f.eks. imod en eventuel død. Så hvis situationen er, at ens familie er afhængig af ens indkomst, og man vil sikre sin familie såfremt man går bort, eller bliver uarbejdsdygtig. Fastsættelse af præmierne består af flere elementer, dels summen man ønsker at bliver forsikret for, men ligeledes om ens helbredsoplysninger.
+
+Livsforsikring er således ikke skadesforsikring, men en *summaforsikring*, der er karakteriseret ved, at forsikringsselskabet skal udbetale den aftalte forsikringssum ved forsikringsbegivenhedens indtræden, uanset om der kan påvises et økonomisk tab.
+
+---
+
+Der skal således være tale om en *"lovlig interesse"*, der kan forsikres af skadesforsikringen. 
 
 Justitsministeriel har i en skrivelse fra 1972 som refereret i Dansk Forsikringstidende nr. 21 af 17. juli 1972, bemærket følgende: "at den interesse, der består i at undgå de strafferetlige følger af et retsbrud, må anses for en ulovlig interesse. Forsikring kan således ikke tegnes mod faren for at blive idømt bødestraf eller konfiskation. På samme måde vil interessen i at opnå økonomisk udbytte af en strafbar handling som udgangspunkt ikke kunne anses som en lovlig interesse. Endvidere kan forsikring af en interesse være udelukket ved lov". 
 
 
-Et forsikringselskab kan derfor ikke tilbyde forsikringer mod fartbøder, det vil ikke være en lovlig interesse.
+Et forsikringselskab kan derfor fx ikke tilbyde forsikringer imod fartbøder, det vil ikke være en lovlig interesse.
 
 ---
 
@@ -120,7 +143,23 @@ Klassifikation af risici ved hjælp af forsikringsklasser.
 
 
 
-Skadesforsikring er for eksempel er således bygningsforsikring, løsøreforsikring, erhvervsansvarsforsikring, indboforsikring, familieansvarsforsikring, sygeforsikring, personulykkesforsikring og retshjælpsforsikring.
+Skadesforsikring er for eksempel er således:
+
+Bygningsforsikring, 
+
+Løsøreforsikring, 
+
+Erhvervsansvarsforsikring, 
+
+Indboforsikring, 
+
+Familieansvarsforsikring, 
+
+Sygeforsikring, 
+
+Personulykkesforsikring og 
+
+Retshjælpsforsikring.
 
 ---
 
@@ -132,17 +171,15 @@ Skadesforsikring er for eksempel er således bygningsforsikring, løsøreforsikr
 ---
 
 
-Det fremgår således bl.a. af bilag 7 til Lov om finansiel virksomhed, at skadesforsikring også omfatter assistance, defineret som assistance til personer, der kommer i vanskeligheder under befordring eller under fravær fra bopælen eller det faste opholdssted (forsikringsklasse 18). 
+Det fremgår således bl.a. af bilag 7, jf, ovenfor til Lov om finansiel virksomhed, at skadesforsikring også omfatter assistance, defineret som assistance til personer, der kommer i vanskeligheder under befordring eller under fravær fra bopælen eller det faste opholdssted (forsikringsklasse 18). 
 
 Dette omfatter fx aftaler vedrørende vejhjælp, hjemtransport eller anden assistance, fx i medfør af en rejseforsikring, eller lignende ydelser, der falder ind under denne definition.
 
 ---
 
-Efter reglerne på forsikringsområdet skelnes der mellem skadesforsikring og livsforsikring. Livsforsikringer er ikke skadesforsikringer, men en *summaforsikring*, som er en, fællesbetegnelse for livs- og ulykkesforsikringer, der er karakteriseret ved, at forsikringsselskabet skal udbetale den aftalte forsikringssum ved forsikringsbegivenhedens indtræden, uanset om der kan påvises et økonomisk tab.
-
----
-
 Skadesforsikringens genstand skal kunne ansættes til en økonomisk værdi før, at der kan ske dækning på skadesforsikringen:
+
+![](img/born4.jpg)
 
 **FED1998.942:** Konservering af fotoalbum og børnetegninger uden økonomisk værdi ansås ikke for dækket af familieforsikring, og forsikringstageren var derfor alene berettiget til erstatning for materialepriser.
 
@@ -275,6 +312,8 @@ Kaskoforsikringen dækker ikke:
 
 https://tv2-dk-clips.secure.footprint.net/vod/mpx/TV2dk/8/95/8r9u1xw5kc.mp4
 
+---
+
 *Gode råd om billeje*
 
 https://fdm.dk/alt-om-biler/koer-selv-ferie/bliv-klar-til-ferien/gode-raad-om-billeje
@@ -328,11 +367,11 @@ I tilknytning til den almindelige bilkaskoforsikring er det i de fleste forsikri
 
 Her skal de vigtigste dækninger kort nævnes:
 
-• Friskadedækning betyder, at man undgår præmiestigning ved f.eks. skader på bilens glasdele, visse parkeringsskader, hærværk eller skader efter nedstyrtende genstande og skader som følge af tyveri og brand. 
+• *Friskadedækning* betyder, at man undgår præmiestigning ved f.eks. skader på bilens glasdele, visse parkeringsskader, hærværk eller skader efter nedstyrtende genstande og skader som følge af tyveri og brand. 
 
-• Bilsavnsforsikring giver mulighed for erstatning enten som et nærmere bestemt beløb af reparationsudgiften ved en kaskoskade eller som et beløb pr. dag, man må undvære bilen, hvis den er blevet stjålet. 
+• *Bilsavnsforsikring* giver mulighed for erstatning enten som et nærmere bestemt beløb af reparationsudgiften ved en kaskoskade eller som et beløb pr. dag, man må undvære bilen, hvis den er blevet stjålet. 
 
-• Værdiforringelse betyder, at man får udbetalt en kontant erstatning, hvis ens nyere bil (normalt højst tre år gammel) kommer ud for en alvorlig skade. 
+• *Værdiforringelse* betyder, at man får udbetalt en kontant erstatning, hvis ens nyere bil (normalt højst tre år gammel) kommer ud for en alvorlig skade. 
 
 ---
 
@@ -365,6 +404,8 @@ Se eksempelvis **Forsikringsankenævnets sagsnr.: 87068 og sagsnr.:85571:**
 
 ---
 
+![](img/fars.jpg)
+
 **Sagsnr.: 85571.** Klager over præmieforhøjelse med tilbagevirkende kraft samt forhøjet selvrisiko: 
 "Klagers ”bonussøn” anmeldte, at han som fører af klagers bil havde påkørt en anden bil på en parkeringsplads. Han oplyste, at han og klager skiftedes til at betale forsikringspræmien. Selskabet anførte, at klager ved grov uagtsomhed havde undladt at oplyse, at ”bonussønnen” var medbruger af bilen. Selskabet, som havde dækket ansvarsskaden, krævede forhøjet præmie med tilbagevirkende kraft og efterbetaling af selvrisikodifference. Nævnet fandt, at klager ved grov uagtsomhed havde overtrådt sin oplysningspligt vedrørende bilens brugerforhold. Nævnet fandt, at selskabet var uberettiget til at kræve præmieforhøjelse med tilbagevirkende kraft, idet en sådan retsfølge hverken var indeholdt i forsikringsaftalelovens §§ 6-7 eller §§ 45-46 eller i parternes aftale. Nævnets flertal kunne ikke kritisere, at selskabet opkrævede selvrisikodifference hos klager i medfør af forsikringsaftalelovens § 7, jf. § 6, stk. 2. Mindretallet fandt, at der ikke i § 6, stk. 2, var hjemmel til at opkræve forhøjet selvrisiko med tilbagevirkende kraft. Klager delvis medhold".
 
@@ -394,6 +435,8 @@ Se eksempelvis **Forsikringsankenævnets sagsnr.: 88440 og sagsnr.: 87783:**
 "Klager anmeldte, at hans søn var kørt galt. Selskabet konstaterede, at bilen var belagt med cyklamenfarvet film, havde sænket undervogn og fået nyt udstødningsrør. Selskabet afviste dækning og ophævede forsikringen med tilbagevirkende kraft med henvisning til, at det var en betingelse for dækning, at bilen var i original stand, og henviste til forsikringsaftalelovens § 7. Nævnet fandt, at selskabet ikke kunne påberåbe sig forsikringsaftalelovens § 7, bl.a. fordi selskabet havde afskåret sig herfra ved at fremsende en police til klager efter, at selskabet havde fået oplysninger om konstruktive ændringer på bilen. Videre fandt nævnet, at betingelsen om, at bilen skulle være i original stand alene medførte en ret for selskabet til at opsige forsikringen fremadrettet, hvis bestemmelsen blev overtrådt, ligesom forsikringsaftalelovens § 10, stk. 3, fandt anvendelse. Selskabet skulle herefter genoptage sagsbehandlingen. Klager medhold".
 
 ---
+
+![](img/vindus.jpg)
 
 **Sagsnr.: 87783.** Klager over afvisning af dækning for tyveri af en bil: 
 "Selskabet henviste til, at klager ikke havde oplyst, at der var sket en ændring af anvendelsen af bilen, hvor klager efter det oplyste fra selskabet nu benyttede bilen erhvervsmæssigt som vinduespudser. Policen indeholdt ikke oplysninger om hvilken anvendelse af bilen, der var forudsat. Af betingelserne fremgik under "ændringer af risiko", at klager skulle oplyse, hvis "der skete forandring i den i policen angivne risiko - f.eks. … anvendelse". Nævnet fandt, at bestemmelsen var for generelt og upræcist formuleret, jf. FAL § 45, og at selskabet derfor ikke kunne påberåbe sig fareforøgelse. Nævnet fandt, at selskabet ikke havde bevist, at klager havde afgivet urigtige oplysninger ved tegningen af forsikringen. Selskabet skulle derfor betale erstatning. Klager medhold".
@@ -443,6 +486,7 @@ Forsikringsankenævnet tog i **sagsnr.: 87984** stilling til, om en computer ble
 ---
 
 Småbåde, cykler og haveredskaber vil almindeligvis være dækket.
+
 Forsikringen dækker genstande, som man ejer eller bærer risikoen for, jf, fx nævnssagerne **sagsnr.: 85614** og **sagsnr.:87698**: 
 
 
@@ -534,7 +578,8 @@ Efter Forsikringsankenævnets praksis afhænger det af arten og antallet, se eks
 
 
 
-**Sagsnr.: 87090.** Klager over erstatningsopgørelse efter brandskade: "Klagers udhus brændte. Nævnet fandt, at udhuse på grunden var omfattet af dækning. Under slukningsarbejdet smed brandfolkene tagplader i en havedam med fisk, hvorved folien i bunden af dammen blev beskadiget. Nævnet fandt, at havedammen var at anse som et bassin og derfor dækningsundtaget. Nævnet fandt, at fiskene i dammen ikke var erhvervsløsøre og var omfattet af forsikringen som husdyr. Nævnet kunne ikke afgøre, hvor stor en del af klagers plankeværk, der var nedbrændt. Klager delvis medhold”.
+**Sagsnr.: 87090.** Klager over erstatningsopgørelse efter brandskade: 
+"Klagers udhus brændte. Nævnet fandt, at udhuse på grunden var omfattet af dækning. Under slukningsarbejdet smed brandfolkene tagplader i en havedam med fisk, hvorved folien i bunden af dammen blev beskadiget. Nævnet fandt, at havedammen var at anse som et bassin og derfor dækningsundtaget. Nævnet fandt, at fiskene i dammen ikke var erhvervsløsøre og var omfattet af forsikringen som husdyr. Nævnet kunne ikke afgøre, hvor stor en del af klagers plankeværk, der var nedbrændt. Klager delvis medhold”.
 
 ---
 
@@ -551,6 +596,11 @@ Genstande, som er i ens bil, kælder, på loftet, i udhuset mv., er normalt dæk
 
 Visse genstande – eksempelvis kontanter og særlige private værdigenstande – kan helt være undtaget fra dækning, hvis de ligger sådanne steder.
 
+---
+
+*Video: Ansvaret for flybagage*
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/305947100" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -571,7 +621,6 @@ For så vidt angår sommerhuse, bør man tegne en fritidshusforsikring, der foru
 
 Ved flytning dækker forsikringen i en kortere periode (normalt en måned) genstande i både den gamle og den nye helårsbolig.
 
-
 Har man indbo stående andre steder i længere tid, skal man sørge for at indgå en aftale med forsikringsselskabet om, at forsikringen også dækker dette indbo. 
 
 Ellers risikerer man, at der ikke er forsikringsdækning.
@@ -581,7 +630,9 @@ Ellers risikerer man, at der ikke er forsikringsdækning.
 *Hvem dækker familie-/indboforsikringen?*
 
 
-Forsikringen dækker husstanden. Se nærmere i forsikringsbetingelser, hvordan begrebet er defineret. 
+Forsikringen dækker husstanden. 
+
+Se nærmere i forsikringsbetingelser, hvordan dette begreb er defineret. 
 
 Ud over forsikringstageren er ægtefælle/samlever og børn (herunder normalt plejebørn) typisk en del af husstanden. 
 
@@ -602,6 +653,8 @@ Tjek også, hvem forsikringen dækker, hvis man har personer boende i kortere el
 ---
 
 *Bevisbyrde og klagemulighed*
+
+![](img/bevis.jpg)
 
 Det er forsikringstageren, der skal bevise, at der er sket en skade, der er omfattet af familie-/indboforsikringen. 
 
@@ -650,6 +703,7 @@ Normalt dækkes skader på privat indbo, der sker ved:
 
 
 Definitionen af indbrudstyveri lyder normalt: 
+
 "Tyveri ved indbrud i forsvarligt aflåst bygning eller lokale." 
 
 

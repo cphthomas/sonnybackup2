@@ -1,7 +1,7 @@
 # Køb
 
 ```{r, echo=FALSE, results='asis'}
-#cat(readLines('np.html'))
+cat(readLines('np.html'))
 ```
 
 
@@ -852,6 +852,14 @@ Ved leveringen til køberen, dvs. på tidspunktet for risikoens overgang, jf. KB
 
 ---
 
+**Video**
+
+<iframe src="https://player.vimeo.com/video/309261723" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/309261723">Virksomhedsfanen</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
+---
+
 *Hvad er en mangel?* 
 
 Se grundprincipperne i KBL §§ 75a og 76.
@@ -881,6 +889,14 @@ Ophæve købet/annullere, jf. KBL § 78, stk. 1, nr. 4.
 
 ---
 
+**Video**
+
+<iframe src="https://player.vimeo.com/video/309270676" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/309270676">K&oslash;beloven- Antal reparationsfors&oslash;g</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
+---
+
 
 *Hvis manglen er væsentlig*
 
@@ -903,6 +919,16 @@ Bestemmelsen indebærer ikke en pligt for køberen til at undersøge salgsgensta
 ---
 
 *Reklamation*
+
+---
+
+**Video**
+
+<iframe src="https://player.vimeo.com/video/309253968" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/309253968">Hvad betyder 2 &aring;rs reklamationsret?</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
+---
 
 Køber skal reklamere rettidigt, dvs. mindst 2 måneder efter manglen er opdaget, jf. KBL § 81 – ellers mister køber sine misligholdelsesbeføjelser.
 
@@ -1027,6 +1053,8 @@ Derudover har banken sendt et brev om, at der er overtræk på kassekreditten og
 
 ---
 
+
+
 ## Godkendte private ankenævn og andre klagemuligheder for forbrugere
 
 ![](img/navn.jpg)
@@ -1036,6 +1064,13 @@ Derudover har banken sendt et brev om, at der er overtræk på kassekreditten og
 Nævnenes Hus er udnævnt til kompetent myndighed i Danmark i henhold til Europa-Parlamentets og Rådets direktiv 2013/11/EU om alternativ tvistbilæggelse i forbindelse med tvister på forbrugerområdet (ATB-direktivet). 
 
 De danske ATB-instanser er Center for Klageløsning og de godkendte private ankenævn.
+
+---
+
+**Video**
+
+<iframe src="https://player.vimeo.com/video/309270909" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/309270909">K&oslash;beloven - Klag hurtigt</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ---
 
@@ -1053,6 +1088,13 @@ Nævnenes Hus skal foretage mediation i klager, der er omfattet af lov om forbru
 Mediationen foretages af Center for Klageløsning, der er en klageinstans under Nævnenes Hus. 
 
 Center for Klageløsning og Forbrugerklagenævnet behandler klager, der ikke hører under et godkendt privat tvistløsningsorgan.
+
+---
+
+**Video**
+
+<iframe src="https://player.vimeo.com/video/309260267" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/309260267">Konflikth&aring;ndtering</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ---
 
@@ -1211,6 +1253,16 @@ www.ejendomsmaeglernaevnet.dk/
 Pakkerejse-Ankenævnet behandler klager vedrørende rejser, der er arrangeret og/eller solgt af en virksomhed her i landet. En pakkerejse er et rejsearrangement, der består af mindst to af følgende elementer:
 transport, indkvartering, anden turistmæssig ydelse, der ikke er knyttet til transport eller indkvartering, men som udgør en væsentlig del af rejsen.
 
+---
+
+**Video**
+
+<iframe src="https://player.vimeo.com/video/309269644" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/309269644">Rettigheder p&aring; rejsen</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
+---
+
 www.pakkerejseankenaevnet.dk
 
 ----
@@ -1367,6 +1419,51 @@ I dag er reglerne for digitale tjenester forskellige fra land til land indenfor 
 Med de nye regler kan du i hele EU have ret til reparation, afslag i prisen eller pengene tilbage, hvis dit digitale produkt er mangelfuldt eller i stykker. 
 
 Fx hvis du ikke kan få adgang til en lejet film. I praksis betyder det oftest, ligesom med fysiske varer, at sælgeren først skal have mulighed for at rette fejlen. Hvis det ikke lykkes, kan du kræve et nedslag i prisen eller pengene tilbage. 
+
+---
+
+**Video**
+
+<iframe src="https://player.vimeo.com/video/309273066" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/309273066">Bliv bedre til at prutte om prisen</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+---
+
+*'Video**
+
+<iframe src="https://player.vimeo.com/video/309272558" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/309272558">En rap historie om netkonkurrencer</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
+---
+
+**Video**
+
+<iframe src="https://player.vimeo.com/video/309258695" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/309258695">G&oslash;r livet nemt - brug nettet!</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
+---
+
+**Video**
+
+<iframe src="https://player.vimeo.com/video/309257060" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/309257060">Hvor ofte handler du p&aring; nettet?</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+---
+
+**Video**
+
+<iframe src="https://player.vimeo.com/video/309255477" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/309255477">Hvad er told?</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
+---
+
+**Video**
+
+<iframe src="https://player.vimeo.com/video/309252834" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/309252834">Hvad betyder .dk?</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ---
 
