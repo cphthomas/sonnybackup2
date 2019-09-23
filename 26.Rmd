@@ -1,7 +1,7 @@
 # Lovsamling 
 
 ```{r, echo=FALSE, results='asis'}
-cat(readLines('np.html'))
+#cat(readLines('np.html'))
 ```
 
 
@@ -17,6 +17,7 @@ cat(readLines('np.html'))
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=160666" target="_blank">Forbrugeraftaleloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=164748" target="_blank">Forbrugerbeskyttelse ved erhvervelse af fast ejendom mv</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=143090" target="_blank">Forsikringsaftaleloven</a></h3>
+<h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=197146" target="_blank">Lov om forsikringsformidling</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=45902" target="_blank">Grundloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=143107" target="_blank">Gældsbrevsloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=209981" target="_blank">Hvidvaskloven</a></h3>
